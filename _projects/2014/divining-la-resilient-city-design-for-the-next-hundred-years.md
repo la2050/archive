@@ -125,6 +125,12 @@ maker_answers:
     - Acres and miles of polluted waterways
     - Percentage of tree canopy cover (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: Water is essential to each and every one of these
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   FQHCs that focus on special populations such as residents of public housing,

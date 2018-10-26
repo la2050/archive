@@ -144,6 +144,16 @@ maker_answers:
       (Dream Metric)
     - Art Audiences and Professionals
   Please describe yourself: Solo actor (just us on this project!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Quality improvement research
   impact_metrics: "GYST cloud will be an integral part of making the metrics happen and\r\n\r\n• will generate employment among creatives, and also give the self-employed access to vital information on professional practices as well as venues for their work. We aim to have every artist employed and/or working independently. An organized, empowered, and educated artist is a hirable artist, ready for the creative workforce.\r\n• will help art establishments work more productively, saving money and time. \r\n• allows creatives who possess fabrication and administrative skills get hired by others who need their expertise.\r\n• will call attention to Los Angeles as a vital epicenter and creative economy to the world-at-large, thereby calling attention to federal, state, and private funders.\r\n• allows art lawyers and artists to connect creating collaborations and knowledge to be exchanged, and creative patents to be researched. \r\n• will provide jobs as well as income for artists and arts institutions. While artists are some of the lowest paid workers, we will change that by expanding vital knowledge and creativity of artists and other arts professionals. Simply, more people will interact with the arts.\r\n• Gini coefficient results will be on the upswing by generating more income for creative people. GYST strives for artists to be self-sufficient, goal-driven, and fairly paid.\r\n• creative startups have little avenue for publicity. This would put them on the art map immediately, allowing artists with specific skills to become more entrepreneurial.\r\n• allows capital investors to find those creative endeavors which need funding. \r\n• will be a model and comprehensive program for the creative world. \r\n• preparedness for the art world. Ready-ness, tools and resources. Education of the public on the arts.\r\n• increases the percentage of graduates from local higher education institutions that remain in LA County 5 years after graduating. This will make Los Angeles the place to create and thrive. Allowing creatives sustainable employment, opportunities and collaborations. Our goal is no unemployment in 2050 for creative professionals.\r\n• provides access to information and resources to every artist, including those who have been incarcerated. Collaborating with organizations and artists who currently work with this demographic."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We are currently talking with artists and mobile/online application developers

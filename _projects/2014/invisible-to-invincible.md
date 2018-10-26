@@ -128,6 +128,14 @@ maker_answers:
       Percentage of residents receiving coordinated healthcare services (Dream
       Metric)
   Please describe yourself: Proposed collaboration (we want to work with partners!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Quality improvement research
   impact_metrics: >-
     This campaign will impact various “LIVE” metrics, especially rates of
     homelessness. By continuing to create permanent housing opportunities for

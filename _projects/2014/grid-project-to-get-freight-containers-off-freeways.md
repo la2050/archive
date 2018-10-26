@@ -148,6 +148,11 @@ maker_answers:
     - Prevalence of adverse childhood experience (Dream Metric)
     - Percentage of LA communities that are resilient (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: "Reducing truck traffic along the 710 corridor reduces the most dangerous kinds of airborne pollution. This is  the primary contributor to childhood asthma rates, which are high in the region. Pollution and traffic also serve to keep kids indoors and inactive more, leading to obesity and reduced opportunities for socialization.\r\n\r\nThese pollutants also affect adults, causing heart and lung problems and increasing rates of some cancers.\r\n\r\nTraffic congestion hems in communities, keeps kids form exploring outside their neighborhoods, and causes twice-daily stress to commuters.\r\n\r\nCommunities isolated by barrier freeways have less access to jobs, food diversity, and healthcare, and are thus less resilient."
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   Collect Water /Plant Trees/Community Invention

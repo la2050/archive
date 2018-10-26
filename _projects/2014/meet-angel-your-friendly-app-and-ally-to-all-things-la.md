@@ -119,6 +119,16 @@ maker_answers:
     - Attendance at public/open street gatherings (Dream Metric)
     - Residential segregation (Dream Metric)
   Please describe yourself: Proposed collaboration (we want to work with partners!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Quality improvement research
   impact_metrics: "Our web/mobile application will increase social and civic engagement of tourists and local residents. When local officials are involved and have access to our database of users, they will be able to reach a wider audience, faster and more efficiently. We will also encourage friendships within \"x\" location thereby increasing their social media engagement. \r\n\r\nUltimately, we want LA to be a city that is more interconnected and intercultural than it has been ."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   LA has unfortunately been known as one of the "UNFRIENDLIEST" cities in the

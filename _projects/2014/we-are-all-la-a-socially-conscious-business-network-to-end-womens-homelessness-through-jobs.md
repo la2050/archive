@@ -147,6 +147,13 @@ maker_answers:
       (Dream Metric)
     - Rates of homelessness
   Please describe yourself: Proposed collaboration (we want to work with partners!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Community outreach
+    - Quality improvement research
   impact_metrics: "This program creates access to jobs for the most vulnerable population in Los Angeles, shrinks they Gini coefficient by targeting the most extreme poverty, and empowers local businesses to shape the culture and economic growth in downtown Los Angeles.\r\n \r\nWe do not limit our project to the impact metrics stated, however. This project will build community among downtown Los Angeles businesses and bridge the gap between them and growing homeless population on Skid Row, very positive first steps in achieving a more equitable Los Angeles and a more socially conscious city economy. Furthermore, the impact on the individuals participating is immense as this programming not just helps place women in employment, but lays the necessary groundwork for any future endeavor: self-efficacy and self-worth. Connecting with the larger community and learning new skills changes the world for a participant.\r\n\r\nOur project also fulfills many of the metrics in the “Live” category because for our target population, the needs for housing, healthy food, and mental and physical healthcare need to be met before any higher-level needs can be pursued. This year, DWC will provide more than 100,000 meals, 119 units of permanent supportive housing, and a wide range of supportive services to more than 4,000 homeless and extremely low-income women on downtown Los Angeles’ Skid Row.\r\n\r\nDWC also meets metrics in the “Connect” category. In 2013, nearly 4,300 individuals volunteered over 30,000 hours, an amount equal to almost 15 full-time employees and over half a million dollars. Groups from dozens of corporations come to volunteer as teams for service days, meal preparation, and enrichment workshops. Our proposed business coalition, like our greatly successful volunteer program, will not only be creating a network of local businesses but also a bridge between two disparate communities: homeless women and business leaders.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   1. Build a business coalition

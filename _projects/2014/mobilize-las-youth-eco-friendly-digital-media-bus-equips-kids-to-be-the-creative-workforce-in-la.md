@@ -161,6 +161,15 @@ maker_answers:
       Unemployment rates (and opportunities) for the formerly incarcerated
       (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Quality improvement research
   impact_metrics: >-
     As the second largest city and school system in the US, LA serves as a
     microcosm of the challenges faced across the country, its demographic

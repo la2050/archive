@@ -235,6 +235,12 @@ maker_answers:
       job roles, diverse generations impact on the products and services of the
       creative industry
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Quality improvement research
   impact_metrics: >-
     L.A. Futures emboldens classroom learning by learning and life skill
     experiences with industry professionals in the classroom and at their places

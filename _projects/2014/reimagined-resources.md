@@ -135,6 +135,13 @@ maker_answers:
     - Number of parks with intergenerational play opportunities (Dream Metric)
     - Number (and quality) of informal spaces for play (Dream Metric)
   Please describe yourself: Solo actor (just us on this project!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
   impact_metrics: >-
     We will be a free, clean and imaginative space in open areas where there are
     not a lot of options for STEAM projects.

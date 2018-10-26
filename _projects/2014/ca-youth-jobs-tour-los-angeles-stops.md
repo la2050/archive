@@ -143,6 +143,12 @@ maker_answers:
       seamless transitions between high school, higher education institutions,
       and the workforce) (Dream Metric)
   Please describe yourself: Proposed collaboration (we want to work with partners!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: >-
     Our Los Angeles Youth Jobs Tour will build solutions and buy-in to address
     high youth unemployment in partnership with young Angelenos. We’ll

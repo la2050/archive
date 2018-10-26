@@ -180,6 +180,11 @@ maker_answers:
       Metric)
     - Learn coding
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Quality improvement research
   impact_metrics: >-
     Eat:1) Access to eateries in accordance with their fitness regimen. Users
     will see incentives/promotions associated with respective eateries as well

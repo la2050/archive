@@ -6,9 +6,6 @@
 
 <div class="options">
 
-{% if site.phase >= 4 %}
-{% unless page.winners %}
-
 
 {% if page.layout == 'project-list' %}
 {% unless page.is_search_results %}
@@ -122,8 +119,6 @@ max-width: none;margin-bottom: 4.5rem; margin-top: 4.5rem; text-shadow: 0 0 2em 
 </script>
 {% endunless %}
 
-{% endunless %}
-{% endif %}
 
 {% if page.category and page.layout == 'project-list' %}
 <p class="browse"><strong>Browse</strong> by goal category</p>
@@ -141,12 +136,6 @@ max-width: none;margin-bottom: 4.5rem; margin-top: 4.5rem; text-shadow: 0 0 2em 
 
 <p class="count"><span style="display: none">You searched for <strong id="keywords"></strong>.</span> <span>There <span id="project-count-are-is">are</span> <strong id="project-count">{{ data_list.size }}</strong> matching <span id="project-count-projects">organizations</span>.</span> <small>Select an organization to learn more about plans, goals, and opportunities to be involved.</small></p>
 
-{% else %}
-
-{% comment %}
-<p class="count"><strong>{{ data_list.size }}</strong> organizations submitted an idea in all categories. <small style="display: inline-block;">Select an organization to learn more about plans, goals, and opportunities to be involved.</small></p>
-{% endcomment %}
-
 {% endif %}
 
 {% endif %}
@@ -157,28 +146,4 @@ max-width: none;margin-bottom: 4.5rem; margin-top: 4.5rem; text-shadow: 0 0 2em 
 
 {% endunless %}
 
-{% comment %}
-{% if page.layout == 'project-list' %}
-<script>
-(function() {
-  var key = 'scrollPositionOnLastProjectListPage';
-  var links = document.querySelectorAll('.goals .navigation .action a');
-  links.forEach(function(link) {
-    link.addEventListener('click', function(e) {
-      localStorage.setItem(key, window.scrollY);
-      // console.log('window.scrollY')
-      // console.log('item stored: ' + localStorage.getItem(key));
-    });
-    link.setAttribute('href', link.getAttribute('href').replace('', ''));
-  });
-  var form = document.getElementById('search');
-  if (form) {
-    form.addEventListener('submit', function() {
-      localStorage.setItem(key, window.scrollY);
-    });
-    form.setAttribute('action', form.getAttribute('action').replace('', ''));
-  }
-})();
-</script>
-{% endif %}
-{% endcomment %}
+

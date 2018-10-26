@@ -136,6 +136,16 @@ maker_answers:
     - Government responsiveness to residents’ needs (Dream Metric)
     - Attendance at public/open street gatherings (Dream Metric)
   Please describe yourself: Proposed collaboration (we want to work with partners!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Quality improvement research
   impact_metrics: >-
     Surveys will be issued to members of the Civic LA community to identify
     their initial civic participation patterns, attitudes, perceptions,

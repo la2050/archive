@@ -154,6 +154,10 @@ maker_answers:
     - Exposure to air toxins
     - Acres and miles of polluted waterways
   Please describe yourself: Solo actor (just us on this project!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
   impact_metrics: >-
     By giving people the best data about their environment making changes for
     the better of the entire region becomes easy.

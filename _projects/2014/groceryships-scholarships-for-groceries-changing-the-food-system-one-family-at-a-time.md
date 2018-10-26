@@ -120,6 +120,15 @@ maker_answers:
     - Percentage of LA communities that are resilient (Dream Metric)
     - Community Bonds & Connectedness
   Please describe yourself: Solo actor (just us on this project!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Quality improvement research
   impact_metrics: "Groceryships increases access to healthy food by coaching families in navigating the food system. Over the course of six months of grocery stipends, people in under-resourced areas learn where and how to find and prepare nourishing meals despite external obstacles. In tandem with our comprehensive wellness classes, obesity rates decrease as lifestyle shifts take place. Groceryships’ unique holistic approach supports emotional well-being and mental health by strengthening interpersonal relationships and providing a safe space to de-stress and process trauma. The vital bonds developed in our rooms empower members of low-income communities to harness their collective strength in response to adverse events.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In March, 2014 TreePeople launched TreeMapLA, a website and mobile app

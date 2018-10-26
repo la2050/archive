@@ -147,6 +147,12 @@ maker_answers:
     - Total number of social media friends (Dream Metric)
     - Attendance at public/open street gatherings (Dream Metric)
   Please describe yourself: Proposed collaboration (we want to work with partners!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: >-
     Rates of volunteerism will rise since locals will be driven to clean up
     their communities and neighborhoods to attract tourists.  Adults will get

@@ -150,6 +150,13 @@ maker_answers:
     - Number (and quality) of informal spaces for play (Dream Metric)
     - Increases opportunities for residents to view and participate in the arts.
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Quality improvement research
   impact_metrics: >-
     The Venice Arts Commons creates a safe public space for the Venice
     community.  This improves access to open space and park facilities, and

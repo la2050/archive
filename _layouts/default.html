@@ -113,14 +113,6 @@
 </head>
 <body{% if page.body_class %} class="{{ page.body_class }}"{% endif %}>
 
-  {% comment %}
-  {% if page.show_promotion or site.phase == 6 or site.phase == 8 %}
-  <section class="promotion">
-    {% include promotion.html %}
-  </section>
-  {% endif %}
-  {% endcomment %}
-
   <header id="navigation">
     {% include logotype.html %}
     {% include navigation.html %}
@@ -147,19 +139,6 @@
   </header>
   <main{% if page.main_class %} class="{{ page.main_class }}"{% elsif layout.main_class %} class="{{ layout.main_class }}"{% endif %}>
     {{ content }}
-    {% if page.footer_image %}
-    <figure class="standard-figure has-caption">
-      <img src="/assets/images/home/384-wide/collaborates.jpg" srcset="/assets/images/home/384-wide/collaborates.jpg 384w, /assets/images/home/512-wide/collaborates.jpg 512w, /assets/images/home/768-wide/collaborates.jpg 768w, /assets/images/home/1024-wide/collaborates.jpg 1024w, /assets/images/home/1536-wide/collaborates.jpg 1536w, /assets/images/home/2048-wide/collaborates.jpg 2048w" sizes="100vw" alt="A room filled with people listening to someone speaking" />
-      <figcaption class="caption">
-        {% if site.phase >= 6 %}
-        <span>Los Angeles:</span><br />
-        <span>Change</span> <span>is&nbsp;Local</span>
-        {% else %}
-        We believe in the power of Angelenos
-        {% endif %}
-      </figcaption>
-    </figure>
-    {% endif %}
   </main>
   <footer>
     {% include logotype.html %}
@@ -244,9 +223,6 @@
 
   {% comment %}
   <script async src="/assets/js/navigation.js?v={{ site.version }}"></script>
-  <script async src="/assets/js/figure.js?v={{ site.version }}"></script>
-  <script async src="/assets/js/goals.js?v={{ site.version }}"></script>
-  <script async src="/assets/js/randomize-links.js?v={{ site.version }}"></script>
   {% endcomment %}
 
 </body>

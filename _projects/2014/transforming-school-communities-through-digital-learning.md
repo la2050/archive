@@ -104,6 +104,14 @@ maker_answers:
     - Academic Performance Index scores
     - Students receive personalized instruction
   Please describe yourself: Solo actor (just us on this project!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Quality improvement research
   impact_metrics: "CFY's innovative Digital Learning Program has already demonstrated success in improving educational outcomes in the LA area and across the nation. Results from the implementations of our comprehensive program in the 2012-13 school year showed participating schools increasing their statewide percentile ranking by an average of 10 percentile points compared to the prior year. Research shows that success in middle school is a gateway to high school proficiency.\r\n\r\nAdditionally, state test data from the 2012-13 math tests show that in schools where we implemented blended learning consulting that year, we helped move students to proficiency at a faster rate than the district as a whole.\r\n\r\nWhen students receive instruction at their level, they start to believe that they can be successful academically; this drives intrinsic motivation. Teachers can use digital learning to ensure that students are receiving personalized learning.\r\n\r\nWhen students have access to digital learning activities that allow them to exercise their motivation to explore their passions, they acquire habits of mind that reinforce their ability to be self-directed. The Digital Learning Program and PowerMyLearning.org are designed to give students choice in their learning rather than just sending them on a pre-defined learning course. Learning how to be self-motivated and access intrinsic motivation to do well in school are keys to high school graduation and college matriculation."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   CFY will provide wrap-around support for students, teachers, and families at 5

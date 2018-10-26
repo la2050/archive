@@ -134,6 +134,9 @@ maker_answers:
     - Academic Performance Index scores
     - College matriculation rates
   Please describe yourself: Proposed collaboration (we want to work with partners!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
   impact_metrics: >-
     Just 12 years ago, half of our teen Club members were not graduating – in
     June 2013, 98% graduated on time and 97% of those are going onto 4-year

@@ -116,6 +116,14 @@ maker_answers:
     - Number of parks with intergenerational play opportunities (Dream Metric)
     - Number (and quality) of informal spaces for play (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - Community outreach
   impact_metrics: "LA Schools to Parks will make a significant impact on four of the above metrics, helping to move the needle on providing Angelenos with safe, vibrant spaces for recreation. We will work with schools to open up their campuses on the weekends and during summer to serve as additional recreational park spaces.\r\n\r\nLA Schools to Parks will increase the number of residents within 1/4 mile of a park from the current number of 48,434 residents (30% of Promise Zone residents) to 97,403 (60% of Promise Zone residents). This more than doubles the number of residents who live within 1/4 mile of a park by 2015. We consider 1/4 mile to be easy access to a vibrant park, so LA Schools to Parks will impact the metric of number of residents with easy access to a vibrant park by increasing it from 48,434 residents to 97,403 residents by 2015. \r\n\r\nLA Schools to Parks will leverage funding and services provided by YPI, LAUSD, and the City of LA's Rec and Parks Departments to increase the number of parks with intergenerational play opportunities. We will impact this metric by increasing the number of parks with such opportunities by 12. YPI's Promise Neighborhood schools already have federal funding to support intergenerational play opportunities by providing staffing, equipment, and services. Intergenerational play opportunities will be designed using Generations United's \"Tried and True: A Guide to Successful Intergenerational Activities at Shared Site Programs.\" Schools near City Rec Centers can leverage staff, equipment, and programs to provide these opportunities as well. And YPI will engage the Promise Zone's 80+ partners to provide intergenerational play opportunities at the remaining schools. \r\n\r\nLA Schools to Parks will impact the metric for number of informal spaces for play by increasing it by 12 spaces in the Promise Zone. In addition to the intergenerational play opportunities the project will offer, the 12 new school/parks will also be open for informal play opportunities for Promise Zone residents.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   LA Schools to Parks will increase community parks in the LA Promise Zone by

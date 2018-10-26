@@ -14,7 +14,7 @@ stylesheets:
 {% endif %}
 
 {% assign is_finalist = false %}
-{% for finalist in site.finalists %}
+{% for finalist in site.data.finalists %}
   {% if finalist == organization.url %}
     {% if page.year_submitted == 2018 %}
       {% assign is_finalist = true %}

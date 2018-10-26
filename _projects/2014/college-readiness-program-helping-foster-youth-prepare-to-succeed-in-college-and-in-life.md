@@ -129,6 +129,11 @@ maker_answers:
     - Academic Performance Index scores
     - College matriculation rates
   Please describe yourself: Solo actor (just us on this project!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Quality improvement research
   impact_metrics: >-
     The principal goals of the program are to improve high school graduation
     rates among foster youth (from an average of less than 50% within their peer

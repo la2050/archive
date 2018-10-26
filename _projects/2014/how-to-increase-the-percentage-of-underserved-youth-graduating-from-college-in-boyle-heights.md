@@ -106,6 +106,9 @@ maker_answers:
     - College matriculation rates
     - Suspension and expulsion rates (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
   impact_metrics: 'College graduation rates for low-income students.  '
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   CT’s successful model is currently being implemented in Boyle Heights. The

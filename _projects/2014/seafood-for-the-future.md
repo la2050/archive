@@ -136,6 +136,10 @@ maker_answers:
     - Access to healthy food
     - Abundant ocean ecosystems and a thriving local seafood community.
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: >-
     Many people do not recognize the health benefits associated with eating
     seafood, especially the nutrient-rich local seafood that is largely exported

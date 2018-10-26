@@ -19,6 +19,7 @@
 
   main {
     min-height: 50vw;
+    padding-bottom: 4.5em;
   }
   .home main {
     min-height: 75vw;

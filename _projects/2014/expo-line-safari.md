@@ -128,6 +128,10 @@ maker_answers:
       Percentage of community college students completing a certificate, degree,
       or transfer-related program in six years
   Please describe yourself: Proposed collaboration (we want to work with partners!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: "Public transportation becomes more than a \"ride\" by becoming an \"adventure\". The EXPO Safari is a cultural event, and will celebrate migration of birds, seasons of the year, and create a Facebook page that connects Angelenos to nature and each other.\r\n\r\nStudents in UCLA Extension Program receive a certificate that meets the education requirement to sit for licensure in the state of California."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Expo line originates in downtown Los Angeles, and then ends in Santa

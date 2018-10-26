@@ -165,6 +165,12 @@ maker_answers:
       for collaborations, production of more art to interpret and carry the
       message of sustainability
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: "# of artists enrolled in creation for sustainability hub \r\nmetrics of outreach to artists\r\nmetrics of outreach to public \r\nmetrics of engagement of artists \r\n# of art creations on sustainability produced\r\nglobal hits on artists for sustainability hub \r\nFederal grants obtained to support artists and projects \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   earthprotect.com already has a hub web site focused on sustainability with

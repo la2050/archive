@@ -132,6 +132,12 @@ maker_answers:
     - Suspension and expulsion rates (Dream Metric)
     - Truancy rates in elementary and middle school (Dream Metric)
   Please describe yourself: Proposed collaboration (we want to work with partners!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Quality improvement research
   impact_metrics: "The Early Childhood Longitudinal Study found that the children who were read to at least three times a week by a family member were almost twice as likely to score in the top 25%\L in reading compared to children who were read to less than 3 times a week. (U.S. Department of Education)\r\n\r\nFindings show higher-than-average scores among students who reported more types of reading material at home. (The Nation’s Report Card: Fourth-Grade Reading).\r\n\r\nOther research finds that low academic achievement and weak basic skills are other major reasons for truancy…warning signs are often evident in the elementary school years. As well as, Hispanic students in the United States are entering schools at a disadvantage because of a lack of exposure to literacy activities at home. The mathematics achievement gap is similar to that of reading scores. Low income fourth graders scored close to 30 points lower than their classmates in reading.\r\n\r\nStatistics show 8th and 12th graders in similar low income families without age appropriate reading materials in the home resemble the fourth graders achievement gap. Many studies show that there is a direct correlation between illiteracy and academic/school failure. Literacy, confidence and character development lead children on a path to success in any school subject and ultimately anything they set out to achieve academically. Milk + Bookies  empowers children by giving them books to read and give so that ultimately they will become Los Angeles's next generation of confident and compassionate leaders.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In conjunction with the Mayor's office, we will select 1,000 Los Angeles

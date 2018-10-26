@@ -107,6 +107,9 @@ maker_answers:
     - Number of parks with intergenerational play opportunities (Dream Metric)
     - Number (and quality) of informal spaces for play (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
   impact_metrics: >-
     As we mentioned before, we think the game has the potential to move the
     metrics by motivating discovery. Our experience in our neighborhood has been

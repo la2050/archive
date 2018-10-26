@@ -301,8 +301,7 @@ align-self: stretch;
 {% assign data_collection = site.collections | where: "label", "organizations" | first %}
 {% assign data_collection_docs = data_collection.docs %}
 
-{% comment %} Order by year and then alphabetically {% endcomment %}
-{% assign data_collection_docs = data_collection_docs | sort: "title" | reverse %}
+{% comment %} Order by year {% endcomment %}
 {% assign data_collection_docs = data_collection_docs | sort: "year_submitted" | reverse %}
 
 
@@ -321,7 +320,7 @@ align-self: stretch;
 {% for data in data_collection_docs %}
 
   {% assign is_finalist = false %}
-  {% for finalist in site.finalists %}
+  {% for finalist in site.data.finalists %}
     {% if finalist == data.url %}
       {% assign is_finalist = true %}
     {% endif %}

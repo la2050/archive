@@ -114,6 +114,11 @@ maker_answers:
     - Percentage of tree canopy cover (Dream Metric)
     - Others described in response below.
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: "The benefits to be achieved with the Hotter LA Project are closely aligned with several LA2050 Metrics as summarized below: \r\n\r\n-New technologies and efficiencies position the region to cost-effectively obtain 100% energy from renewable sources and 100% water from local sources. (Metrics: Exposure to air toxins, Percent of imported water, Acres and miles of polluted waterways.)\r\n\r\n-The region's urban spaces are reimagined with increased green space supportive of Southern California’s native biodiversity. (Metrics: Percentage of tree canopy cover, Access to open space and park facilities.)\r\n\r\n-Clean energy and water and decarbonized transportation leads to more equitable outcomes for communities disproportionately burdened by pollution. (Metrics: Exposure to air toxins, Percentage of LA communities that are resilient.)\r\n\r\n-A county-wide bicycle and walking transportation network reduces traffic and provides faster, safer and greener commutes. (Metrics: Walk/bike/transit score, Other: Median travel time to work, Number of public transit riders, Transit-accessible housing and employment.)\r\n\r\n-The LA region is recognized as an innovation leader in the areas of water, energy, natural resource preservation, public health, and policy implementation. Climate change is transformed from crisis to opportunity. (Metrics: Other: Increased grant funding for environment and sustainability research, Patents per capita, Jobs per capita, Number of high growth start-ups, Venture capital investment, Measures of cultural and global economic influence.)\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We have a prototype network up and running in Fukushima Japan now, want to

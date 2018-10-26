@@ -133,6 +133,16 @@ maker_answers:
     - Total number of social media friends (Dream Metric)
     - Attendance at public/open street gatherings (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Quality improvement research
   impact_metrics: "By having a front-line, established collaborative equipped with the specific knowledge and skills necessary to provide SNAC, WSLB has the capacity to provide the public with an atmosphere of trust, safety and communication to expedite positive change and facilitate a safer community. In a very impactful and strategic way, this project will help to establish the ongoing infrastructure needed to take WSLB and its collaborators (existing and new) to a new level of community engagement. \r\n\r\nBy building on the capacity of each partner, through a \"training the trainer\" model, the initiative can be made available to both dating/domestic violence survivors and the greater community. Whether in the intimate setting of our own programs or in the larger community, this project builds community capacity by: increasing awareness of the effects of DV; facilitating the healing of survivors; and building of resilience in individuals and our local community. This form of intervention and education serves to break the cycle of violence.  \r\n\r\nWorking together for more than a decade,the partner agencies have increasingly focused on developing a coordinated community response by collaborating with a wide range of community agencies in recognizing the complexity of domestic violence. \r\n\r\nWe have, through the implementation of three major events and regular presentations to the public,  a unique opportunity to respond to the community's \"readiness\" for non-clinical modalities including art, drama, social media, and community (youth and adult) leadership.  This will result in empowerment and transformation of individuals and the larger community—as we are all impacted, to some degree, by trauma brought on by domestic violence.\r\n\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Safe Networks/Active Communities (SNAC) project is designed both to
