@@ -120,6 +120,13 @@ maker_answers:
     - Rates of homelessness
     - Rates of unemployment
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
   impact_metrics: >-
     By providing business clothing and employment services, we arm low-income
     jobseekers with the tools necessary to obtain employment. We currently have

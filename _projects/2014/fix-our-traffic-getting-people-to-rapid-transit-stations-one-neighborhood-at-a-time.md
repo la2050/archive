@@ -133,6 +133,13 @@ maker_answers:
       Metric)
     - Attendance at public/open street gatherings (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
   impact_metrics: "Since the basic purpose of the project is to make it possible for people to want to use mass transportation rather than their own cars, the metric \"number of public transit riders\" is clear and obvious. Since one of the purposes of creating mass transit is to reduce freeway congestion and to provide transportation that is faster and less interrupted than driving the freeway during rush hours, the metric \"median travel time to work\" should also be included. Los Angeles residents have become used to long commute times. A light rail or personal rapid transit journey into downtown Los Angeles or to another business center should proceed at a high rate of speed and with few of the interruptions characteristic of freeway driving. Thus we expect that the median travel time to work will be improved by the completion of the various rapid transit systems, and the system as a whole, including getting to and from home, will be improved by our project.\r\n\r\nWe have included \"transit accessible housing\" although our project has nothing to do with the construction of new housing close to the planned rail lines or potential PRT lines. Rather, the aim of our project is to make housing more accessible to mass transit by designing and promoting the links between housing and the transit systems. \r\n\r\nWe have also included several other items which will be indirectly affected by our project, since they involve people getting to events, people getting to public meetings, and people being empowered to engage in volunteer activities which require travel. Since our project involves our own participation and involvement in neighborhood councils, we expect to recruit volunteers to work within the neighborhood council structure. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   A lot of L.A. residents would use mass transportation if there were a way to

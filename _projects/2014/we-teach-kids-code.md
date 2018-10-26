@@ -131,6 +131,12 @@ maker_answers:
     - Suspension and expulsion rates (Dream Metric)
     - Truancy rates in elementary and middle school (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: "We are teaching a skill that encourages students to take an active role in their own education. \r\n\r\nCoding helps students foster their creativity and creates a sense of educational purpose. It also teaches a skill that students can immediately use to gain economic viability at an early age.\r\n\r\nStudents that are actively involved in their education and have a concrete goal are much less likely to be suspended or expelled. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Currently we partner with schools and organizations offering bootcamps,

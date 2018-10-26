@@ -153,6 +153,14 @@ maker_answers:
     - Number of households below the self-sufficiency standard
     - Obesity rates
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Community outreach
+    - Quality improvement research
   impact_metrics: "Our project increases access to healthier foods through expanding the amount of money people can spend on local fresh produce within their neighborhoods.\r\n\r\nThrough Market Match, households saves money by realizing savings in their food budgets and enable those saving to be place elsewhere.\r\n\r\nObesity rates fall due to a larger percentage of government benefits received being shifted from the purchase of unhealthy foods to the purchase of healthier produce.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Cyber Insecurity Initiative has four main phases: planning, assessment,

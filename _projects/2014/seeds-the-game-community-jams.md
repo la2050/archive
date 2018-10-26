@@ -116,6 +116,16 @@ maker_answers:
     - Number of parks with intergenerational play opportunities (Dream Metric)
     - Number (and quality) of informal spaces for play (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Quality improvement research
   impact_metrics: "We aim to help people grow beautiful places wherever they are - in the backyard, on the roof, at home in the windowsill, in community gardens and schools all over Los Angeles. We will be measuring how many people play along, what actions they take, the cumulative community impact of their gameplay and qualitatively we will capture social media stories and short videos on intergenerational play through the game activities.\r\nSEEDS the Game will require access to open space and park facilities ONLY if they are designated as a Community Garden or spaces for volunteer engagements with the Department of Parks and Recreation. SEEDS the Game does not promote trespassing or using public space for growing food without prior permission - we use the game to organize community events with the stakeholders present. Our team will have a designated community guide monitoring player progress. \r\n\r\nChildren at school or enrolled in afterschool programs are encouraged to play as a group to create community gardens and participate in real life quest and challenges. By creating interest in community gardening and personal gardening we can grow on Ron Finley’s work to reduce juvenile delinquency.  All profiles for kids under 13 require approval and will be created in line with COPPA protections to ensure that the focus is on the garden and community actions. \r\n\r\nTeens who are not enrolled in afterschool programs are incentivized to participate in volunteer programs and community gardens to earn points in the game, improving access to alternatives for healthy living and life off the streets that can grow into a life of growing opportunities and entrepreneurship through food. Preservation and master-level skills will be shared through gameplay so teens and adults can level up and start their own businesses ready for the Farmers Market.\r\n\r\nIn our games everyone can create something beneficial to their community. Local challenges include working with the city to help the beautification process of LA through planting with medians and community gardens. Parents and children can participate in social action challenges and when the parent wants to encourage their kids some more, they can unlock tasks at a local center. \r\n\r\nUrban professionals as well have the opportunity to participate in SEEDS the Game starting small task starting with adopting a plant in their office or building a vertical or container garden at home. They can earn by shopping at farmers markets or volunteering.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We are creating a game jam series of hack events and building a creative team

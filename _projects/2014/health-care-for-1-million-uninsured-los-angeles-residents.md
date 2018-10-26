@@ -135,6 +135,11 @@ maker_answers:
       Percentage of residents receiving coordinated healthcare services (Dream
       Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
   impact_metrics: "The project is precisely designed to address the LA2050 metrics that “Every family will be able to afford quality healthcare…”and that “our region’s residents will have the economic means and cultural capital to lead active, healthy lives.\"\r\n\r\nSimply put, the project’s aim is ensure that every child, women and man in Los Angeles has quality health care.  Western Center will accomplish this by vastly expanding health care access, health insurance enrollment, services for people with mental illness and the overall system-wide capacity to deliver health care services in Los Angeles.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   This project will create a framework to implement programs that address public

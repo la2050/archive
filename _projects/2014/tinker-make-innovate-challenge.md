@@ -116,6 +116,10 @@ maker_answers:
     - Suspension and expulsion rates (Dream Metric)
     - Truancy rates in elementary and middle school (Dream Metric)
   Please describe yourself: Solo actor (just us on this project!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
   impact_metrics: "District-wide graduation rates:  By providing teachers and librarians with curriculum which incorporates hands-on inquiry based learning, we are empowering them to more deeply engage their students in their learning process. When students are more engaged in their learning, their desire to come to school and stay in school increases. This lowers truancy rates, suspension and expulsion rates, and also increases district wide graduation rates. \r\nWhen educators provide access to STEM skills, design thinking, and entrepreneurial skills in the classroom, students will graduate high school with a better understanding of their future goals. With the use of digital badging from the Summer and City of Learning students will also be able to display their skills to potential employers and college admissions advisors. Thus, increasing their employability and college enrollment. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   Phase 1: Call For Participation

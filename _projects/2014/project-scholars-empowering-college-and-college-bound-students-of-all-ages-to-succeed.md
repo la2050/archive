@@ -147,6 +147,14 @@ maker_answers:
       or transfer-related program in six years
     - College matriculation rates
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - Community outreach
+    - Quality improvement research
   impact_metrics: By ensuring students graduate.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In order to increase college graduation rates of low-income students living in

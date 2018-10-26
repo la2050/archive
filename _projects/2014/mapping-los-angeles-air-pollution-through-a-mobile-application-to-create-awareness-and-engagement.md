@@ -131,6 +131,11 @@ maker_answers:
   How will your project impact the LA2050 “Live” metrics?:
     - Exposure to air toxins
   Please describe yourself: Solo actor (just us on this project!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
   impact_metrics: "Exposure to air toxins will be reduced as people are given tips on how to reduce their exposure to poor quality based on the AQ information provided by monitoring stations in Los Angeles. Sensitive populations will be identified based on real-time AQ and targeted heath advice and tips to mitigate exposure will be provided through MyAir LA. \r\n\r\nOver time, toxic releases are also expected to go down as facilities in the Los Angeles are forced to adopt cleaner and more environmentally friendly practices, as information about toxic releases is more widely available. This would result in further improving the air in Los Angeles. \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   With a population of close to 4 million individuals, it is a stretch to make

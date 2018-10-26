@@ -138,6 +138,12 @@ maker_answers:
     - Attendance at public/open street gatherings (Dream Metric)
     - Residential segregation (Dream Metric)
   Please describe yourself: Proposed collaboration (we want to work with partners!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: "Social engagement has been proven to contribute to community health and sense of personal value and purpose. Public spaces with value added benefits such as social engagement will promote participation, volunteerism, public transportation usage to access venues as well as civic engagement and volunteerism.\r\n\r\nSuccessful social engagement will create a more integrated community.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Angelenos have long standing reputation of being disconnected from each other,

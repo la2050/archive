@@ -123,9 +123,11 @@
 <h3>Please list at least two major barriers/challenges you anticipate. What is your strategy for ensuring a successful implementation?</h3>
 {{ page.maker_answers.major_challenges | markdownify }}
 
-{% comment %}
 <h3>What resources does your project need?</h3>
-
-{% endcomment %}
+<ul>
+  {% for area in page.maker_answers["What resources does your project need?"] %}
+  <li>{{ area }}</li>
+  {% endfor %}
+</ul>
 
 </div>

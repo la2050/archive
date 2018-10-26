@@ -144,6 +144,12 @@ maker_answers:
     - Employment in creative industries
     - Arts establishments per capita
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: >-
     Our Arts Census tracks the arts participation behavior of over 4 million
     unique households. We can track, over time, an increase in participation and

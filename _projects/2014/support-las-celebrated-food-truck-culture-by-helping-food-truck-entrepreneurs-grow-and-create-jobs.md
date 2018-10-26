@@ -145,6 +145,11 @@ maker_answers:
     - Jobs per capita
     - Minority- and women-owned firms
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: >-
     Each Opportunity Fund loan creates and sustains an average of 2.7 jobs.  Our
     goal of providing 600 loans in Los Angeles in the next year means that we

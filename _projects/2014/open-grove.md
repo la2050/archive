@@ -116,6 +116,11 @@ maker_answers:
     - Percentage of LA communities that are resilient (Dream Metric)
     - Percentage of tree canopy cover (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Quality improvement research
   impact_metrics: "By 2050 we estimate that Open Grove will:\r\n\r\n*Create 50 acres of new open/green space that is fertile and productive land. Previously neglected, now helping to increase property values in neighborhoods around the city \r\n\r\n*Improve community health, particularly among the “food insecure” by adding over 23 million servings of fresh fruits and nuts to local food pantries.\r\n\r\n*Remove 4,500 tons of CO2 from the atmosphere\r\n\r\n*Reduce stormwater run-off by 185 million gallons\r\n\r\n*Conserve 2.3 billion gallons of water (by converting turf and ornamentals to trees)\r\n\r\n*Improve LA’s water quality by capturing and slowing water runoff at our institutions so it percolates into underground aquifers\r\n\r\n*Improve the quality of life in our communities by developing alternative food access in and around our geographically-diverse congregations, decreasing noise, air pollution, and temperatures, while increasing open space and property values.\r\n\r\n*It is hoped that Open Grove will also help reduce medical costs associated with obesity, diabetes, and smog-related health issues as community members spend more time outdoors doing physical activity.\r\n\r\n*Fifty acres of new orchards in LA would significantly increase the percentage of tree canopy cover and likely reduce the ambient heat in parts of the city.\r\n\r\n*In addition the orchards will create hubs for educational programming, leadership building, as well as opportunities to create continuous sources for healthy, local food that can be donated or used within the community\r\n\r\n\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   LA is poised to be a national environmental leader after adopting the

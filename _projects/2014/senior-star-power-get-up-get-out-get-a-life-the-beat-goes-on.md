@@ -162,6 +162,13 @@ maker_answers:
   How will your project impact the LA2050 “Play” metrics?:
     - 'Provide a permenant Senior Theatrical Arts & Cultural Complex '
   Please describe yourself: Solo actor (just us on this project!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
   impact_metrics: "Senior Star Power's Senior Theatrical Arts & Cultural Complex will provide a safe environment for the well-being of the aging community.  Senior Star Power is a California 501(c)(3) nonprofit organization that provides live theatrical entertainment, special events, and theatre arts-related workshops and classes. We focus primarily on:\r\n•\tProviding regular live theatrical entertainment showcasing mature performers; \r\n•\tProviding regular live theatre arts educational programs that benefit the community at large; and,\r\n•\tOffering arts-based evidence-based programming and services that empower older adults to become more active in managing their own wellness and health care.  Workshops include: GET UP, GET OUT, AND GET A LIFE!  Proving that age is only a number, COMEDY TODAY Laughter is medicine for the body and soul, EXPRESS YOURSELF! A fun and energetic improvisation class, FINDING YOUR VOICE Singing for fun and perhaps a 2nd career, DANCING FOR THE YOUNG-AT-HEART Beginning tappers, WRITING FOR FUN Put the colors of your life down in black and white, TAP YOUR TROUBLES AWAY Intermediate & advanced dance.\r\n\r\n\r\n\r\n\r\n\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will solicit sponsorships from corporations, use social media and YouTube,

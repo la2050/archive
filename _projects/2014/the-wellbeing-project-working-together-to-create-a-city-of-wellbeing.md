@@ -158,6 +158,12 @@ maker_answers:
     - Government responsiveness to residents’ needs (Dream Metric)
     - Attendance at public/open street gatherings (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: >-
     Local government is uniquely poised to facilitate partnerships and directly
     impact LA2050’s Connect metrics, but we need a starting point. The first

@@ -132,6 +132,16 @@ maker_answers:
     - Percentage of tree canopy cover (Dream Metric)
     - Carbon dioxide emissions per capita
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Quality improvement research
   impact_metrics: "Climate Cents works by collaborating with environmental groups that are already making a difference on these metrics and using its platform to supercharge their impact through data transparency, public awareness, and crowdsourced funding. \r\n\r\nPlanting more trees is the only way to achieve the dream metric of greater tree canopy cover, and it also is vital to accomplishing other metrics as well. According to a research study published this week, “trees help people live longer, healthier, happier lives—to the tune of $6.8 billion in averted health costs annually in the U.S.” Trees clean the air of toxins, remove carbon, cool surrounding areas, conserve energy, save water, prevent water pollution, reduce UV exposure, provide food, alleviate mental and physical fatigue, bring people together, provide a space for wildlife, beautify neighborhoods, and increase local business traffic. \r\n\r\nTrees very effectively scrub air toxins and remove particulate matter from the air. Energy efficiency upgrades and the installation of solar panels reduce negative emissions at the source. \r\n\r\nTrees slow the evaporation of water, making sure that what rains in LA, stay in LA. Trees help prevent water pollution by reducing erosion and stormwater run-off. Kelp forests help to filter ocean water. The presence of more trees has been documented to increase the walkability of neighborhoods. The shade and beauty they furnish lead people to feel more comfortable moving through the streets on foot.\r\n\r\nBy increasing walkability and providing more hospitable outdoors spaces for exercise and other physical activity, trees have been shown to help lower obesity rates.\r\n\r\nLikewise, multiple studies have demonstrated that the powerful psychological benefits of proximity to trees. Being in a tree-filled environment relieves stress and mental fatigue, helping people to concentrate and even to heal faster from surgeries and illnesses.\r\n\r\nTrees can play a part in improving childhood experiences through their positive effects on mental and physical health. Children find space and inspiration under the cover of trees. Events to plant trees offer opportunities for fun, accessible community projects.\r\n\r\nTrees are crucial to community resilience through better air quality, improved mental and physical health, more connections among the community, and increased local business traffic. Energy efficiency upgrades economically advance disadvantaged communities by saving money and creating good jobs. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Divining LA will convert cutting-edge research on stormwater resources,

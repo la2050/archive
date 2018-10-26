@@ -132,6 +132,16 @@ maker_answers:
       Percentage of graduates from local higher education institutions that
       remain in LA County 5 years after graduating (Dream Metric)
   Please describe yourself: Solo actor (just us on this project!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Quality improvement research
   impact_metrics: "Streetcraft LA is an initiative that is designed specifically to increase the number of minority youth led and owned micro ventures in the Los Angeles area. The program model specifically recruits young people who have an entrepreneurial spirit and aspirations and provides the technical skills to translate their raw creativity into a marketable product and then provides the professional mentoring and social capital to turn their product into a viable business plan. In addition Streetcraft bridges the barrier of social capital that faces marginalized young people striving to become successful entrepreneurs and grow their business, by intentionally providing access to funding and a platform in which these micro ventures can find financing and other professional services to launch their initiative\r\n\r\nA secondary, but equally important aspect of Streetcraft's impact is preparing marginalized young people to enter the broader creative economy of Los Angeles. Research by Otis College of Art and Design has demonstrated that minority young people and at-risk youth face significant disadvantages and barriers to entering traditional employment in the creative economy. Coursework in traditional high school and college settings that would prepare young people with the technical skills to enter the creative industries are often inaccessible to these young people without significant financial investment, and with academic prerequisites creating additional barriers.\r\n\r\nCreative young people often find themselves failing school and lacking access to the experiences that would prepare them for employment in the creative economy. Streetcraft provides an alternative pathway to obtain these skills. While its core mission is to incubate and launch micro-ventures, we are realistic that most entrepreneurial strategies and mico-ventures fail. An important secondary outcome of our work will be that Streetcraft partners find placement in ongoing educational pathways, internships, and more traditional jobs in Los Angeles' vibrant and growing creative economy.\r\n\r\nFinally, Streetcraft is initiating a strategy to work with incarcerated youth re-entering their home communities. These young people often have few productive outlets for their creative capacities, and few real opportunities to secure the educational success, employment, and economic self-sufficiency that are the key predictors of successfully avoiding recidivism. Streetcraft provides these outlets, and opportunities. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   How do we help kids create their own jobs in the creative economy? Streetcraft

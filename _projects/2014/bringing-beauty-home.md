@@ -144,6 +144,13 @@ maker_answers:
     - Government responsiveness to residents’ needs (Dream Metric)
     - Residential segregation (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
   impact_metrics: >-
     By streamlining the volunteer application and training process and creating
     an online scheduling system that meets the needs of those providing services

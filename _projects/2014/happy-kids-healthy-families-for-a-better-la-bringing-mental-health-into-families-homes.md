@@ -187,6 +187,9 @@ maker_answers:
       Percentage of residents receiving coordinated healthcare services (Dream
       Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Quality improvement research
   impact_metrics: >-
     Because WIN integrates its mental heath services with the health, social
     services, food and housing support, and early care and early intervention

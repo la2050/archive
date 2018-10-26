@@ -547,6 +547,32 @@ const improveMetrics2014 = {
 }
 
 
+const helpFromCommunity2014 = [
+  "resources_network", 
+  "resources_money",
+  "resources_staff",
+  "resources_publicity",
+  "resources_infrastructure",
+  "resources_education",
+  "resources_technical",
+  "resources_communityoutreach",
+  "resources_research"
+]
+
+
+const helpFromCommunity2014Labels = {
+  "resources_money"             : "Money (financial capital)",
+  "resources_staff"             : "Volunteers/staff (human capital)",
+  "resources_publicity"         : "Publicity/awareness (social capital)",
+  "resources_infrastructure"    : "Infrastructure (building/space/vehicles, etc.)",
+  "resources_education"         : "Education/training",
+  "resources_technical"         : "Technical infrastructure (computers, etc.)",
+  "resources_communityoutreach" : "Community outreach",
+  "resources_network"           : "Network/relationship support",
+  "resources_research"          : "Quality improvement research"
+}
+
+
 const projectAreas2015 = [
   "Where will you be working? Central LA",
   "Where will you be working? East LA",
@@ -991,23 +1017,20 @@ function processFile(filename) {
     */
 
 
-    /*
+
     let help_from_community = []
-    helpFromCommunity2015.forEach(area => {
+    helpFromCommunity2014.forEach(area => {
       // console.log(area)
-      if (data.yaml.maker_answers[area] == "1" && area != "How can the LA2050 community and other stakeholders help your proposal succeed? Other") {
-        help_from_community.push(area.replace("How can the LA2050 community and other stakeholders help your proposal succeed? ", ""))
+      if (data.yaml.maker_answers[area] == "1") {
+        help_from_community.push(helpFromCommunity2014Labels[area])
         // console.log(area.replace("Where will you be working? ", ""))
-      } else if (area == "How can the LA2050 community and other stakeholders help your proposal succeed? Specifics" && data.yaml.maker_answers[area] != "") {
-        help_from_community.push(data.yaml.maker_answers[area])
-        // console.log(data.yaml.maker_answers[area])
       }
       // delete data[area]
     })
     // console.log("project_areas")
     // console.dir(project_areas)
-    data.yaml.maker_answers["How can the LA2050 community and other stakeholders help your proposal succeed?"] = help_from_community
-    */
+    data.yaml.maker_answers["What resources does your project need?"] = help_from_community
+
 
 
     // delete data.yaml.maker_answers["How will your proposal improve the following “Create” metrics? "]

@@ -131,6 +131,7 @@ maker_answers:
       Percentage of graduates from local higher education institutions that
       remain in LA County 5 years after graduating (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?: []
   impact_metrics: >-
     In a recent article, "How to Save our Schools" regarding the importance of
     funding arts and music in public schools, a statistic that reinforces the

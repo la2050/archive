@@ -144,6 +144,9 @@ maker_answers:
       Allows patients to live healthier and through our holistic approche become
       self-sustaining members of the community
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
   impact_metrics: >-
     MEND has become a recognized leader in providing basic services to only
     households below the self-sufficiency standard.  A holistic Health Clinic

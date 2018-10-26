@@ -176,6 +176,11 @@ maker_answers:
       seamless transitions between high school, higher education institutions,
       and the workforce) (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Education/training
   impact_metrics: "The majority of college dropouts happen by the end of the first year of college. By stemming the dropout rates of first year college students at both community colleges and four-year universities, AMP significantly increases post-secondary degree attainment for participants in the program.   \r\n\r\nAMP also offers a seamless transition between high school and college.  Mentees first meet their mentors before they graduate from high school.  Mentors come directly from the universities and colleges that the students will attend and provide important, specific and personal support through the summer months leading up to college as well as through the first year, ensuring AMP freshman experience a seamless transition between high school and college. \r\n\r\nAMP has already shown to significantly decrease the \"summer melt\" phenomenon among incoming college freshman, thereby strengthening college matriculation rates.  \r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   AMP provides incoming Alliance college freshman with peer mentors who are
