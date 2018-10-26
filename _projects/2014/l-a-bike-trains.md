@@ -119,6 +119,14 @@ maker_answers:
     - Attendance at public/open street gatherings (Dream Metric)
     - Residential segregation (Dream Metric)
   Please describe yourself: Proposed collaboration (we want to work with partners!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Quality improvement research
   impact_metrics: "One of the strongest reasons that people choose to commute by bike is the mental and physical well-being that it creates. LA Bike Trains makes that even better by providing a positive social network to reinforce and support individuals.\r\n\r\nIt's inspiring enough that people want to help. And ride. And get active in their communities when they realize all the silly barriers keeping Angelinos from having the kind of healthy accessible transportation network we deserve. \r\n\r\nNew and sometimes scared participants are comforted by the fact that most of our routes run in parallel to bus or train transport options. LA Bike Trains is at an exciting place to bridge the \"first mile - last mile\" question of how to transition a population used to auto transport to a multi-modal approach.  "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The idea: Individuals can create social solutions to hard problems that

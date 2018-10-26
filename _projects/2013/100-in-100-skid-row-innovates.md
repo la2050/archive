@@ -224,8 +224,8 @@ Please explain how you will evaluate your project. How will you measure success?
 
 
 
-  Number of days between a person being identified on the streets and given his/her
-  keys
+  Number of days between a person being identified on the streets and given
+  his/her keys
 
 
 

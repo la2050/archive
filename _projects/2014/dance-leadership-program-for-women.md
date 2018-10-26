@@ -127,6 +127,13 @@ maker_answers:
     - Arts establishments per capita
     - Minority- and women-owned firms
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
   impact_metrics: >-
     We are creating new avenues for aspiring dancers - of affordable
     professional development and income opportunities. We are providing a venue

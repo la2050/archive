@@ -98,6 +98,13 @@ maker_answers:
       Percentage of graduates from local higher education institutions that
       remain in LA County 5 years after graduating (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Quality improvement research
   impact_metrics: "1. Employment in creative industries & Jobs per capita\r\nCSU collaborates with a broad community of artists and innovative social entrepreneurship to put on EDSLA each year. By creating spaces for these artists and innovators to share their talents and products with the community EDSLA supports job creation through their small businesses. CSU¹s Village Market Place social enterprise also creates job training and employment opportunities for local residents, especially youth,\r\nin social entrepreneurship.  The expansion of the VMP to create new permanent jobs in South LA, and the training that interns receive prepares them with multiple transferable skills to be successful for a wide variety of jobs in the future.\r\n\r\n2. Minority and women-owned firms\r\nCSU is a community based non-profit that is led by South Los Angeles residents of color, with significant leadership roles held by women.  It is\r\nCSU¹s mission to create community driven solutions to the problems in our community. We are based in a community that is majority people of color, and are committed to uplifting people of color within and outside our community, as such the small businesses, farmers and firms that we collaborate with are majority owned and/or operated by people of color.\r\n\r\n3. Percentage of graduates from local higher education institutions that remain in LA County 5 years \r\nThrough our work we aim to make South LA a better place to live, where residents have access to healthy food, meaningful and rewarding work and can enjoy arts, culture and entertainment. Through this transformation we aim to build a community where residents with opportunity choose to continue to live, work and play in their community.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   CSU will work with partners to create a series of seven mini Earth Day South

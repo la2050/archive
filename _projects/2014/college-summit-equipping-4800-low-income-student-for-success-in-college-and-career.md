@@ -128,6 +128,12 @@ maker_answers:
     - Academic Performance Index scores
     - College matriculation rates
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: "The need for clearer pathways to and through college is dire. California ranks 18 out of the 20 most highly populated states in high school-to-college enrollment rates. With an 1,000:1 student-to-counselor ratio, California students are significantly shortchanged in guidance—especially critical for first-generation students who lack a college-educated adult in their family to help navigate the process.\r\n\r\nCurrently, only one in three low-income students enroll in college (NCES, The Condition of Education 2011). Worse, an alarming number of students do not complete high school. Los Angeles has one of the lowest high school graduation rates in the country with only 44% of local youth receiving diplomas (Cities in Crisis 2009 Report, America's Promise Alliance). Census data finds only half the adult population in Los Angeles has earned a Bachelor's degree or higher.\r\n\r\nOur work is based on the conviction that many more students can enroll-and succeed-in college if they have access to well-timed information, tools, and guidance. College Summit provides students with these resources so they can effectively recognize and demonstrate their strengths, raise their expectations for what they can accomplish, and work toward accomplishing their goals.\r\n\r\nCollege Summit partner schools report significant gains in college enrollment rates: 12-20% increases over baseline rates, on average. Of participants who enroll in 2- and 4-year colleges, 79% persist to the sophomore year and 74% persist to the junior year (on par with students from all income groups, according to National Student Clearinghouse data). Regionally, our partner schools increased their fall College Enrollment Rate (CER) by 4% compared to 2012. Morningside High had a 10% CER increase from the previous year and Sylmar and Arleta High Schools saw gains of 6% and 5% respectively.   "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Across the 2014-15 school year, College Summit will partner with LA-area

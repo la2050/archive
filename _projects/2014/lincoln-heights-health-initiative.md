@@ -120,6 +120,12 @@ maker_answers:
       Percentage of residents receiving coordinated healthcare services (Dream
       Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
   impact_metrics: >-
     Please refer to the following question regarding evaluation, which addresses
     the above metrics comprehensively.

@@ -204,6 +204,12 @@ maker_answers:
       Unemployment rates (and opportunities) for the formerly incarcerated
       (Dream Metric)
   Please describe yourself: Proposed collaboration (we want to work with partners!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: >-
     By empowering current residents and businesses, expanding  the range and 
     types of business, attracting new incubator activities and artistic

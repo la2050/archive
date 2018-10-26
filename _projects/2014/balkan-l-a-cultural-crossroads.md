@@ -102,6 +102,13 @@ maker_answers:
   How will your project impact the LA2050 “Play” metrics?:
     - Number (and quality) of informal spaces for play (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
   impact_metrics: >-
     Because the arts often move past language barriers given their visual and
     aural natures (dance, music, film, visual art) and because the arts

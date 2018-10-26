@@ -128,6 +128,12 @@ maker_answers:
     - Government responsiveness to residents’ needs (Dream Metric)
     - Attendance at public/open street gatherings (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: >-
     The AGEnts for Change Initiative is a volunteer intensive program and
     through its efforts will increase the number of seniors involved as

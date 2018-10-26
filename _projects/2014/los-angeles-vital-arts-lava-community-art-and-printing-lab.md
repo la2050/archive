@@ -147,6 +147,14 @@ maker_answers:
       Unemployment rates (and opportunities) for the formerly incarcerated
       (Dream Metric)
   Please describe yourself: Proposed collaboration (we want to work with partners!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Quality improvement research
   impact_metrics: "We are all creators. We all have the ability to make and create...art, stories, music. As kids we were all artists and imagination was vital. As technology advances and we get more and more digital we lose the ability to create...its no longer required we can access anything from our phones, we can drive fast and kill people in virtual game environments, new apps keep us staring down at the screen.\r\nWe want to look up...away from the screen and towards our communities, friends and especially toward the artist within us all.\r\nHelping communities to support the arts, in turn helps the arts to support the community. We strive to support the local economy of the community as well as the artistic culture. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We have built an incredible art space in North East LA out of a love for the

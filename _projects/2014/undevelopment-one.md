@@ -183,6 +183,16 @@ maker_answers:
     - Percentage of tree canopy cover (Dream Metric)
     - Preservation of soil through prevention of erosion in global warming.
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Quality improvement research
   impact_metrics: >-
     Undevelopment will provide innovative solutions to the environmental
     toxicity we have inherited from the 20th century industrial landscape.

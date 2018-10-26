@@ -104,6 +104,12 @@ maker_answers:
     - Walk/bike/transit score
     - Rates of mental illnesses
   Please describe yourself: Proposed collaboration (we want to work with partners!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: >-
     Through exercise the obesity rate will drop, healthy eating will occur,
     mental illness will lower (exercise has proven to improve mental health),

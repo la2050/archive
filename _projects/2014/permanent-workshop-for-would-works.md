@@ -159,6 +159,13 @@ maker_answers:
       Employment opportunities for individuals who are homeless or chronically
       unemployed in Skid Row
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
   impact_metrics: >-
     Focusing on small manufacturing, Would-Works is committed to increasing job
     opportunities for individuals who are homeless or chronically unemployed in

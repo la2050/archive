@@ -126,6 +126,12 @@ maker_answers:
     - Adults getting sufficient social & emotional support
     - Government responsiveness to residents’ needs (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Community outreach
   impact_metrics: >-
     This project meets two critically important metrics in the Connect
     application.  First, RAC’s Parent Advocate Program directly addresses

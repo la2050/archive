@@ -129,6 +129,14 @@ maker_answers:
       Unemployment rates (and opportunities) for the formerly incarcerated
       (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
   impact_metrics: "Employment in creative industries:\r\nWe train people to get or create work. We hold job and career fairs. We collaborate with each other on projects that would go elsewhere. \r\n\r\nArts establishments per capita:\r\nPeople are encouraged to teach and learn everything here. We have had arts classes taught here, and have had artists and designers work here. We also help grow startups. \r\n\r\nConcentration of manufacturing activity in LA:\r\nWe will provide low cost access and training for the cutting edge digital design and digital manufacturing that will make it cost effective to keep manufacturing local. This will be part of our mission when we expand our makerspace capabilities. We have partners with full manufacturing capabilities who want to hire for these skills. Also, we help grow startups. \r\n\r\nFederal research grant funding:\r\nWe have had several Droplabs participants apply and receive federal grants. We will get them to do a workshop on their experiences. (Thanks for the idea!) We will seek affiliation with people who have expertise in this area. \r\n\r\nPatents per capita:\r\nThis will come through our makerspace and through our web and mobile application development training. We also have several IP attorneys who want to provide workshops. \r\n\r\nJobs per capita, Minority- and women-owned firms , the Gini coefficient, Number of high-growth startups:\r\nThese are probably the areas where we have the most impact already. We provide free or low cost training to both members and non-members. We hold job fairs. We help grow startups. \r\n\r\nVenture Capital Investment: \r\nWe are already partnering with an organization who does crowdfunding for equity. We will be bringing in VC’s and Angels to give workshops. We help grow startups.\r\n"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Droplabs is bursting at the seams. Where other coworking spaces cost from $250

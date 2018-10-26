@@ -104,6 +104,12 @@ maker_answers:
       seamless transitions between high school, higher education institutions,
       and the workforce) (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
   impact_metrics: "CARECEN’s College Head Start Program will impact the above metrics by: \r\n\r\n1. Encouraging and helping program participants meet and complete their high graduation requirements, therefore helping elevate the district-wide graduating rates, specifically within the Belmont Zone of Choice where the student graduation rate is 34%.\r\n \r\n2. Encouraging participating students to challenge themselves academically by taking on higher proficiency courses in English, Language Arts and Math in order to a greater opportunity to compete for a coveted spot in colleges and universities not only locally but statewide and nationally. \r\n\r\n3. Aiding program participants to complete their high school diploma requirements and test average to above average in standardized testing will increase the Academic Performance Index Scores for individual schools throughout the district. \r\n\r\n4. Encouraging students to enroll in higher learning institutions as the standard for professional acclaim, therefore college matriculation rates will rise. To many program participants, a college degree is a gold standard to achieving the American Dream.  \r\n\r\n5. Creating and developing a strong College Head Start Program and Curriculum involving not only the graduating student, but their families.  Joining forces, both students and their families will be aided with academic enrichment, college admissions and financial aid assistance and, most importantly, support in the transition to college-life. This process covers student’s overall education pipeline. "
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   For the past two years, CARECEN has been building momentum to continue

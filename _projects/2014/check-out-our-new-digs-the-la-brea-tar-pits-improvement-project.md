@@ -130,6 +130,13 @@ maker_answers:
     - Number of parks with intergenerational play opportunities (Dream Metric)
     - Number (and quality) of informal spaces for play (Dream Metric)
   Please describe yourself: Solo actor (just us on this project!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
+    - Quality improvement research
   impact_metrics: >-
     By improving the La Brea Tar Pits Museum and the surrounding park space, the
     project positively impacts many parts of the LA2050 “Play” metric. Drawing

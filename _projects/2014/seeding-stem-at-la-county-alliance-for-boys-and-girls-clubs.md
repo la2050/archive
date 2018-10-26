@@ -158,6 +158,10 @@ maker_answers:
       survey to determine program impact towards inspiring kids for STEM studies
       and careers.
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
   impact_metrics: "The pre and post program survey measures changes in participant confidence in STEM subjects after successful completion of the 12 week program. Seeding STEM is designed as an intervention for 11-14 year olds to curb STEM apathy in high school and increase kids'  interest in STEM career paths. During the pilot program which ran in Spring 2014, participants showed a 35-50% improvement in their perceptions and performance self-evaluations of STEM subjects as well as a collective improvement in their plans to use STEM in their future careers from 49-67%.\r\n\r\nIndirectly, we hypothesize that increased academic confidence will lead to greater academic performance in API measures as program curriculum is designed in alignment with common core standards."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The curriculum was created by East Los Angeles College instructors in

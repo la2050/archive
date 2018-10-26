@@ -152,6 +152,11 @@ maker_answers:
     - Percentage of residents that feel safe in their neighborhoods
     - Number (and quality) of informal spaces for play (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Education/training
   impact_metrics: >-
     Youth who know how to connect to others, and have strategies for minimizing
     their social isolation and maximizing their sense of connection to others

@@ -199,6 +199,11 @@ maker_answers:
       Percentage of graduates from local higher education institutions that
       remain in LA County 5 years after graduating (Dream Metric)
   Please describe yourself: Proposed collaboration (we want to work with partners!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: >-
     Through the creation of an incubation hub for entrepreneurial artists,
     Schkapf will create opportunities for both new employment and the creation

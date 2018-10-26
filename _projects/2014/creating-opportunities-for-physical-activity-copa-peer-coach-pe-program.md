@@ -122,6 +122,10 @@ maker_answers:
   How will your project impact the LA2050 “Live” metrics?:
     - Obesity rates
   Please describe yourself: Proposed collaboration (we want to work with partners!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
   impact_metrics: "The ultimate goal of COPA is to decrease the prevalence of childhood obesity.  This is especially important in many urban, low-income communities within Los Angeles County where the childhood obesity rates exceed that of the County, State, or Country. \r\n\r\nIt used to be the norm that children participated in daily PE classes, which was a factor in increasing activity levels and minimizing the risk of obesity. Now, school budgets have eliminated Physical Education teachers and by doing so often eliminate the one chance that some children have to be active and improve their motor skills. Classroom teachers are left to pick up the slack, yet they get little to no training in physical education instruction and their expertise in motor skills, outdoor classroom management and academic content standards is limited. \r\n\r\nDaily physical activity is further compromised, because many parents do not let their children play outside after school because they feel their neighborhoods are unsafe for outdoor play. \r\n\r\nCOPA fills the void in Physical Education Instruction and gets children moving! It makes PE fun and engaging and trains elementary school classroom teachers to confidently and independently teach PE.   Findings from a 3-year independent evaluation of COPA shows that the program increases children's moderate to vigorous physical activity during PE and increases the frequency and duration of PE lessons offered by teachers. In addition, some districts, where COPA has been offered for several years, show decreases in childhood obesity rates - the ultimate COPA goal!"
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Prototypes’ Pomona Women’s Center has been in operation since 1988, providing

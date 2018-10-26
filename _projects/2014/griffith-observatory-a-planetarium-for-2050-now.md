@@ -163,6 +163,10 @@ maker_answers:
       future, one imagination at a time by motivating students and lifelong
       learners to go out and read a book, ask a question, or stay in school. 
   Please describe yourself: Solo actor (just us on this project!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - 'Technical infrastructure (computers, etc.)'
   impact_metrics: >-
     Griffith Observatory is unique among Los Angeles institutions as a place
     where a broad range of demographic audiences, including students and adult

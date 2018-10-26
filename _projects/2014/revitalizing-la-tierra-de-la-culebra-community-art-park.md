@@ -143,6 +143,13 @@ maker_answers:
       Metric)
     - Percentage of tree canopy cover (Dream Metric)
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
   impact_metrics: >-
     The park will create a safe space in which Angelenos can explore ways to
     address all of these issues and know how to implement them in a real-life

@@ -134,6 +134,16 @@ maker_answers:
     - Access to free wifi (Dream Metric)
     - Telecommuting offset to all other travel infrastructure loads.
   Please describe yourself: Proposed collaboration (we want to work with partners!)
+  What resources does your project need?:
+    - Network/relationship support
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - 'Infrastructure (building/space/vehicles, etc.)'
+    - Education/training
+    - 'Technical infrastructure (computers, etc.)'
+    - Community outreach
+    - Quality improvement research
   impact_metrics: "Pervasive Internet connectivity and local online community services affect every single metric in every LA 2050 goal. \r\n\r\nEven when workers do not telecommute from home, higher speed connections allow businesses to utilize coworking offices in multiple regions near transit hubs, which allow groups of workers to come together in places more convenient and transit friendly than any one office next to a full parking lot. \r\n\r\nThe net offsets to transportation system loads created by telecommuting and co-working hubs provide huge benefits to the local environment and infrastructure maintenance loads. \r\n\r\nStudies show that anyone who commutes more than 45 minutes in each direction is less satisfied with their life overall, so reduced congestion and less stressful commutes have positive effects on both home life and general productivity. Reducing commutes just 5 minutes each way gives a worker back up to 20 hours of their private life each year. Public transit commutes enabled by coworking hubs gives them much more time to read and have fun than sit behind a wheel. They are also much more likely to stay fit by walking or biking to their closest transit stops.\r\n\r\nCommunications networks are the backbone of every civic and business organizing effort in the city. This application process itself requires a computer with Internet access! \r\n\r\nCivic engagement, education, volunteerism, informed voters, government response time, employment, and socialization are all much easier to plan and coordinate online. None of this can happen for every LA citizen equally unless Internet access is ubiquitous to every home, family, and institution in the region."
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Get 100% of LA online faster! Allow citizens, institutions, and small biz to

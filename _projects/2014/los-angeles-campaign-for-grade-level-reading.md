@@ -129,6 +129,11 @@ maker_answers:
     - HS student proficiency in English & Language Arts and Math
     - Academic Performance Index scores
   Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
+  What resources does your project need?:
+    - Money (financial capital)
+    - Volunteers/staff (human capital)
+    - Publicity/awareness (social capital)
+    - Community outreach
   impact_metrics: >-
     As noted previously, 3rd grade reading proficiency is strongly correlated
     with high school graduation.  By offering programs that prepare more 3rd
