@@ -247,7 +247,9 @@
   footer .action small {
     display: block;
     margin-top: 0.75em;
-    max-width: 33em; 
+    max-width: 33em;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
   }
 

@@ -1,6 +1,6 @@
 ---
 title: Page not found, My LA2050 Ideas Archive
-body_class: blueberry
+body_class: lime
 
 permalink: /404.html
 
