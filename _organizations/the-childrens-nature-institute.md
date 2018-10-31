@@ -29,13 +29,13 @@ tags_indicators:
   - Environmental quality & sustainability
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954320598'
 organization_website:
-  - www.discoverybynature.org
+  - https://secure.qgiv.com/for/cni
 twitter: ''
 instagram: ''
 facebook: ''
 ein: '954320598'
 zip: ''
-project_image: 'https://img.youtube.com/vi/xF48V9enLaE/hqdefault.jpg'
+project_image: 'https://mjmiaoren.files.wordpress.com/2010/02/sdc11804.jpg'
 project_video: ''
 project_ids:
   - '3102245'
