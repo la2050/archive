@@ -35,15 +35,11 @@ ein: '421709725'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
-project_ids:
-  - '3102052'
 project_titles:
   - 36 Hours in L.A. 2050
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/36hoursinLA2050_FYA.html'
-  project_ids:
-    - '3102052'
   year_submitted:
     - '2013'
 year_submitted: '2013'

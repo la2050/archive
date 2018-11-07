@@ -15,15 +15,11 @@ ein: '953867724'
 zip: '90005'
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
-project_ids:
-  - '4102032'
 project_titles:
   - CARECEN - LA College Head Start
   - 'CARECEN - LA College Head Start '
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102119'
   year_submitted:
     - '2014'
 year_submitted: '2014'

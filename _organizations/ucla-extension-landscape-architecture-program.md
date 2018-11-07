@@ -22,15 +22,11 @@ zip: '91208'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21750%252Fdisplay%252Fsafari.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102242'
 project_titles:
   - EXPO Line Safari!
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/ExpoSafari.html'
-  project_ids:
-    - '4102100'
   year_submitted:
     - '2014'
 year_submitted: '2014'

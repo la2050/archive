@@ -56,8 +56,6 @@ ein: '510181191'
 zip: ''
 project_image: 'https://img.youtube.com/vi/kfEpQxhOtUk/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102180'
 project_titles:
   - Boot Camp 2050 for Change
   - Housing Long Beach
@@ -65,8 +63,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/bootcamp2050.html'
-  project_ids:
-    - '3102180'
   year_submitted:
     - '2013'
 year_submitted: '2013'

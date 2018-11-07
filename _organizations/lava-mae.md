@@ -21,8 +21,6 @@ ein: '810832318'
 zip: '91605'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/lava-mae.jpg'
 project_video: 'https://www.youtube.com/watch?v=Uxp2LencnXs'
-project_ids:
-  - '8102066'
 project_titles:
   - >-
     Shower Power: Rekindling Dignity & Unlocking Opportunity for our Houseless
@@ -30,8 +28,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/lava-mae/'
-  project_ids:
-    - '8102066'
   year_submitted:
     - '2018'
 year_submitted: '2018'

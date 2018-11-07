@@ -22,15 +22,11 @@ zip: '90006'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23242%252Fdisplay%252F20150904_101442.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102092'
 project_titles:
   - El Basurero
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/basurero.html'
-  project_ids:
-    - '5102092'
   year_submitted:
     - '2015'
 year_submitted: '2015'

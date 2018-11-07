@@ -21,9 +21,6 @@ ein: '300742986'
 zip: '90086'
 project_image: 'https://img.youtube.com/vi/VtA2ubRDvAs/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102138'
-  - '3102154'
 project_titles:
   - LA League of Imagination
   - The Caine's Arcade Challenge
@@ -32,9 +29,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/imagination.html'
     - 'http://maker.good.is/myla2050/projects/cainesarcade.html'
-  project_ids:
-    - '5102138'
-    - '3102154'
   year_submitted:
     - '2015'
     - '2013'

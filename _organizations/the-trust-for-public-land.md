@@ -21,10 +21,6 @@ zip: '90029'
 project_image: >-
   https://www.tpl.org/sites/default/files/styles/1400x609/public/10mw_nationalwalktoaparkday_homepage1400x609_10012018.jpg?itok=OHPrb8Ri
 project_video: ''
-project_ids:
-  - '8102123'
-  - '6102259'
-  - '4102245'
 project_titles:
   - >-
     Green Alleys Initiative – Transforming Polluted Alleys into Vibrant,
@@ -36,11 +32,7 @@ aggregated:
     - 'https://activation.la2050.org/play/the-trust-for-public-land/'
     - >-
       https://challenge.la2050.org/entry/green-alleys-initiative-–-transforming-polluted-alleys-into-vibrant-water-smart-green-space
-    - http://maker.good.is/myLA2050live/projects/GreenOurAlleys.html
-  project_ids:
-    - '8102123'
-    - '6102259'
-    - '4102176'
+    - 'http://maker.good.is/myLA2050live/projects/GreenOurAlleys.html'
   year_submitted:
     - '2018'
     - '2016'

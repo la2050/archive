@@ -25,10 +25,6 @@ zip: '90012'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/university-of-southern-california.jpg
 project_video: 'https://www.youtube.com/watch?v=6iKW4H-17BA'
-project_ids:
-  - '8102133'
-  - '6102273'
-  - '4102125'
 project_titles:
   - Block LA
   - 'Learn, Share, Inspire'
@@ -38,10 +34,6 @@ aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/university-of-southern-california/'
     - 'https://challenge.la2050.org/entry/open-ballot-la'
-  project_ids:
-    - '8102133'
-    - '6102273'
-    - '4102266'
   year_submitted:
     - '2018'
     - '2016'

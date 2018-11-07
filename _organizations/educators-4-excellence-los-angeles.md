@@ -22,9 +22,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8698821265741-team88.jpg
 project_video: 'https://www.youtube.com/embed/vk1BgrHSmZ0?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102063'
-  - '3102121'
 project_titles:
   - Teachers Leading from the Classroom
   - 'Those Who Can, Teach! Elevating Teacher Solutions for Student Needs'
@@ -33,9 +30,6 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/those-who-can-teach!-elevating-teacher-solutions-for-student-needs
     - 'http://maker.good.is/myla2050/projects/E4E.html'
-  project_ids:
-    - '6102063'
-    - '3102121'
   year_submitted:
     - '2016'
     - '2013'

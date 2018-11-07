@@ -23,8 +23,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9065217005741-team88.jpg
 project_video: 'https://www.youtube.com/embed/XaTMp9Bu1AY?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102272'
 project_titles:
   - >-
     A conference inspiring LA professionals toward a net zero future; hosted at
@@ -33,8 +31,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/a-conference-inspiring-la-professionals-toward-a-net-zero-future-hosted-at-a-nonprofit-facility
-  project_ids:
-    - '6102272'
   year_submitted:
     - '2016'
 year_submitted: '2016'

@@ -21,8 +21,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1711077255741-team90.JPG
 project_video: 'https://www.youtube.com/watch?time_continue=6&v=2PabPmta-1g'
-project_ids:
-  - '6102075'
 project_titles:
   - >-
     The Man2Man Project: Preventing boys from becoming dads too early and
@@ -31,8 +29,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-man2man-project-preventing-boys-from-becoming-dads-too-early-and-helping-teen-dads-to-step-up!
-  project_ids:
-    - '6102075'
   year_submitted:
     - '2016'
 year_submitted: '2016'

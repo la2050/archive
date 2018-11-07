@@ -16,8 +16,6 @@ ein: '461053961'
 zip: '90004'
 project_image: 'https://img.youtube.com/vi/sO2seHdnH3c/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102148'
 project_titles:
   - >-
     Mobilize LA’s Youth: Eco-friendly digital media bus equips kids to be the
@@ -28,8 +26,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/ecoMFC.html'
-  project_ids:
-    - '4102060'
   year_submitted:
     - '2014'
 year_submitted: '2014'

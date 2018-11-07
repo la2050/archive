@@ -21,15 +21,11 @@ ein: '952217011'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/BhO5jmXKosA/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102234'
 project_titles:
   - A shady oasis for everyone in Grand Park
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/acoolergrandpark.html'
-  project_ids:
-    - '5102234'
   year_submitted:
     - '2015'
 year_submitted: '2015'

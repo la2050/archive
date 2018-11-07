@@ -23,10 +23,6 @@ zip: '90010'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/homeboy-industries.jpg
 project_video: ''
-project_ids:
-  - '8102053'
-  - '6102095'
-  - '3102149'
 project_titles:
   - 'Global Homeboy Network: Connecting Through Kinship'
   - 'Homeboy Industries: Hope Has An Address'
@@ -37,10 +33,6 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/global-homeboy-network-connecting-through-kinship
     - 'http://maker.good.is/myla2050/projects/homeboyindustries.html'
-  project_ids:
-    - '8102053'
-    - '6102095'
-    - '3102149'
   year_submitted:
     - '2018'
     - '2016'

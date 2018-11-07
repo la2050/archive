@@ -22,8 +22,6 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/charles-r-drew-university-of-medicine-and-science.jpg
 project_video: 'https://www.youtube.com/watch?v=9xHS8SSMejQ'
-project_ids:
-  - '8102017'
 project_titles:
   - >-
     Saturday Science Academy II: Preparing the Next Generation of STEM & Health
@@ -32,8 +30,6 @@ aggregated:
   challenge_url:
     - >-
       https://activation.la2050.org/learn/charles-r-drew-university-of-medicine-and-science/
-  project_ids:
-    - '8102017'
   year_submitted:
     - '2018'
 year_submitted: '2018'

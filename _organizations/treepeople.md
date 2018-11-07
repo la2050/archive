@@ -21,9 +21,6 @@ ein: '237314838'
 zip: '90210'
 project_image: 'https://img.youtube.com/vi/r9LtyQwYAks/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102322'
-  - '4102088'
 project_titles:
   - Education Refugees - Make a huge impact halfway around the world!
   - Models of Mobilization
@@ -31,9 +28,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ModelsofMobilization.html'
-  project_ids:
-    - '5102322'
-    - '4102178'
   year_submitted:
     - '2015'
     - '2014'

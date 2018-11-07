@@ -20,14 +20,11 @@ zip: '90003'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20596%252Fdisplay%252FIMAG0233.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102047'
 project_titles:
   - Neighborhood Art Provides Positive Local Focus
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/ConantMoranBen.html'
-  project_ids: []
   year_submitted:
     - '2014'
 year_submitted: '2014'

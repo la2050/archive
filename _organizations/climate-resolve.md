@@ -23,9 +23,6 @@ ein: '4647362978'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/jRPfyjiCjwg/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102067'
-  - '3102076'
 project_titles:
   - Climate Ready Roofs
   - 'Climate Resolve: Inspiring LA to Prosper in a Changing Climate'
@@ -33,9 +30,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/climatereadyroofs.html'
     - 'http://maker.good.is/myla2050/projects/climateresolve.html'
-  project_ids:
-    - '5102067'
-    - '3102076'
   year_submitted:
     - '2015'
     - '2013'

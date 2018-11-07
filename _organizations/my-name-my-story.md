@@ -15,13 +15,10 @@ ein: '300572278'
 zip: ''
 project_image: 'https://img.youtube.com/vi/A9yf6DpgLSM/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102153'
 project_titles:
   - My Name My Story
 aggregated:
   challenge_url: []
-  project_ids: []
   year_submitted:
     - '2014'
 year_submitted: '2014'

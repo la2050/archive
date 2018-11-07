@@ -21,15 +21,11 @@ ein: '951691012'
 zip: '90048'
 project_image: 'https://img.youtube.com/vi/iQpQqqot8AQ/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102156'
 project_titles:
   - 'JVS Works: Creating Hope and Opportunity'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/JVSWORKSLA.html'
-  project_ids:
-    - '5102156'
   year_submitted:
     - '2015'
 year_submitted: '2015'

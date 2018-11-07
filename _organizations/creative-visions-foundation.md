@@ -52,15 +52,11 @@ ein: 39190 2814
 zip: ''
 project_image: 'https://img.youtube.com/vi/8N5kv8ddErc/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102097'
 project_titles:
   - Creative Activist Program
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/creativeactivists.html'
-  project_ids:
-    - '3102097'
   year_submitted:
     - '2013'
 year_submitted: '2013'

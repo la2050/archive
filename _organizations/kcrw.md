@@ -21,9 +21,6 @@ zip: '90405'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5620032535741-team91.jpg
 project_video: 'https://www.youtube.com/embed/Xt3t96JpHBc?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102113'
-  - '5102158'
 project_titles:
   - >-
     Help build the KCRW Media Center — designed for YOU to CONNECT with public
@@ -34,9 +31,6 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/help-build-the-kcrw-media-center-—-designed-for-you-to-connect-with-public-radio-in-los-angeles
     - 'http://maker.good.is/myla2050connect2015/projects/kcrwcapitalcampaign.html'
-  project_ids:
-    - '6102113'
-    - '5102158'
   year_submitted:
     - '2016'
     - '2015'

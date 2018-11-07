@@ -22,16 +22,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5228131725741-team91.jpg
 project_video: 'https://www.youtube.com/embed/Qy7qio56M78?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102151'
 project_titles:
   - 'Maiden LA, a county-wide network of LA-based ''happenings'' in August 2017'
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/maiden-la-a-county-wide-network-of-la-based-happenings-in-august-2017
-  project_ids:
-    - '6102151'
   year_submitted:
     - '2016'
 year_submitted: '2016'

@@ -22,15 +22,11 @@ zip: '91302'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24052%252Fdisplay%252Fhomelessstreetscene.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102270'
 project_titles:
   - Veterans Gardens LA
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/veteransgardensla.html'
-  project_ids:
-    - '5102270'
   year_submitted:
     - '2015'
 year_submitted: '2015'

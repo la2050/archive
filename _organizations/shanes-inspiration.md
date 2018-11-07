@@ -21,9 +21,6 @@ ein: '954760497'
 zip: '91411'
 project_image: 'https://img.youtube.com/vi/yUDKtK6Gfls/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102266'
-  - '4102191'
 project_titles:
   - Together We Play L.A.!
   - 'Together We Play L.A.! '
@@ -31,9 +28,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/TogetherWePlayLA.html'
     - 'http://maker.good.is/myLA2050play/projects/TogetherWePlayLA.html'
-  project_ids:
-    - '5102266'
-    - '4102212'
   year_submitted:
     - '2015'
     - '2014'

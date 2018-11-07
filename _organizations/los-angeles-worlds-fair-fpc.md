@@ -19,9 +19,6 @@ ein: '462004059'
 zip: '90291'
 project_image: 'https://img.youtube.com/vi/-cj1vPWlAdo/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102199'
-  - '4102139'
 project_titles:
   - 'Los Angeles World''s Fair Collaboration, 2014-2015'
   - Sustainable Future LA
@@ -30,9 +27,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/SustainableFutureLA.html'
     - 'http://maker.good.is/myLA2050connect/projects/LAWF.html'
-  project_ids:
-    - '5102199'
-    - '5102304'
   year_submitted:
     - '2015'
     - '2014'

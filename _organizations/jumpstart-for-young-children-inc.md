@@ -21,8 +21,6 @@ ein: '43262046'
 zip: ''
 project_image: 'https://img.youtube.com/vi/a-3Yo_Yz5Vc/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102153'
 project_titles:
   - >-
     Jumpstart: Delivering Quality Early Education To Close the Achievement Gap
@@ -31,9 +29,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/jstart.html'
     - 'http://maker.good.is/myla2050/projects/Jumpstart.html'
-  project_ids:
-    - '5102153'
-    - '3102161'
   year_submitted:
     - '2015'
     - '2013'

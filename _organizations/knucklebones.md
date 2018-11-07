@@ -21,15 +21,11 @@ ein: '473411058'
 zip: '90013'
 project_image: 'https://img.youtube.com/vi/FAirDH4ROp0/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102162'
 project_titles:
   - Free pLAy for all L.A.
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/playla.html'
-  project_ids:
-    - '5102240'
   year_submitted:
     - '2015'
 year_submitted: '2015'

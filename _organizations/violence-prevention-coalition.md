@@ -22,15 +22,11 @@ zip: '90012'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20605%252Fdisplay%252FRallyinLA.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102252'
 project_titles:
   - LA for Youth
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/LA4YOUTH.html'
-  project_ids:
-    - '4102104'
   year_submitted:
     - '2014'
 year_submitted: '2014'

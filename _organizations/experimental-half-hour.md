@@ -19,15 +19,11 @@ ein: '952540759'
 zip: '91105'
 project_image: 'https://img.youtube.com/vi/DiU_9RR7ZvY/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102068'
 project_titles:
   - Los Angeles Media Lab
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LAmedialab.html'
-  project_ids:
-    - '4102035'
   year_submitted:
     - '2014'
 year_submitted: '2014'

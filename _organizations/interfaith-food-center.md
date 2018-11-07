@@ -17,14 +17,10 @@ zip: '90670'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20849%252Fdisplay%252FNEW_IFCLOGO.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102145'
 project_titles:
   - Four Seasons of Food
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102141'
   year_submitted:
     - '2014'
 year_submitted: '2014'

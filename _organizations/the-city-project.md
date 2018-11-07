@@ -35,8 +35,6 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16667%252Fdisplay%252FImage.jpg=c570x385
 project_video: ''
-project_ids:
-  - '3102246'
 project_titles:
   - >-
     Discovering LA’s Forgotten Landmarks: Celebrating Our Diverse Cultural
@@ -44,8 +42,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/TheCityProject.html'
-  project_ids:
-    - '3102246'
   year_submitted:
     - '2013'
 year_submitted: '2013'

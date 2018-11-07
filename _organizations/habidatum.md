@@ -18,15 +18,11 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8010774165741-team91.png
 project_video: 'https://player.vimeo.com/video/183623434?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102168'
 project_titles:
   - 'LA: Easy Access'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/la-easy-access'
-  project_ids:
-    - '6102168'
   year_submitted:
     - '2016'
 year_submitted: '2016'

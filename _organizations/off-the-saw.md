@@ -21,14 +21,11 @@ zip: '90015'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23544%252Fdisplay%252FIMG_8112_web.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102222'
 project_titles:
   - Creating a Space for the Creative Class
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/offthesaw.html'
-  project_ids: []
   year_submitted:
     - '2015'
 year_submitted: '2015'

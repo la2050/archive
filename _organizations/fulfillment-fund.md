@@ -53,15 +53,11 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16910%252Fdisplay%252FDestination_College_Photo.jpg=c570x385
 project_video: ''
-project_ids:
-  - '3102136'
 project_titles:
   - Destination College
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FulfillmentFund.html'
-  project_ids:
-    - '3102136'
   year_submitted:
     - '2013'
 year_submitted: '2013'

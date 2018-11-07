@@ -15,14 +15,10 @@ ein: '954479271'
 zip: '90015'
 project_image: 'https://img.youtube.com/vi/uz4evo3B7qw/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102098'
 project_titles:
   - SFCLA - Serving Hope and Veggies where LA needs it most!
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102164'
   year_submitted:
     - '2014'
 year_submitted: '2014'

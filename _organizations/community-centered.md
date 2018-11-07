@@ -21,15 +21,11 @@ zip: '90013'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21146%252Fdisplay%252Fcivicla.png=c570x385
 project_video: ''
-project_ids:
-  - '4102044'
 project_titles:
   - 'CivicLA: Connecting You to the Best of LA'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/civicla.html'
-  project_ids:
-    - '4102018'
   year_submitted:
     - '2014'
 year_submitted: '2014'

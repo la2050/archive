@@ -29,17 +29,12 @@ ein: '954302067'
 zip: '90026'
 project_image: 'https://img.youtube.com/vi/YijVi1ZG5EM/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102300'
 project_titles:
   - The Good Grief Garden
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/goodgriefgarden.html'
     - 'http://maker.good.is/myLA2050connect/projects/thedinnerparty.html'
-  project_ids:
-    - '5102300'
-    - '4102088'
   year_submitted:
     - '2015'
     - '2014'

@@ -15,14 +15,10 @@ ein: '261878892'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/g8ndzuZ3kKM/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102229'
 project_titles:
   - Undevelopment One
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102154'
   year_submitted:
     - '2014'
 year_submitted: '2014'

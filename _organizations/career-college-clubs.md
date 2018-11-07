@@ -22,15 +22,11 @@ zip: '90266'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23182%252Fdisplay%252FCCC_pic17_small.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102041'
 project_titles:
   - Middle School Career and College Preparation
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/careerandcollegeclub.html'
-  project_ids:
-    - '5102041'
   year_submitted:
     - '2015'
 year_submitted: '2015'

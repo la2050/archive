@@ -22,16 +22,11 @@ zip: '90019'
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/two-bit-circus-foundation.jpg
 project_video: 'https://www.youtube.com/watch?v=6ZaOSqWls54'
-project_ids:
-  - '8102128'
 project_titles:
   - STEAM Carnival in South Los Angeles
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/two-bit-circus-foundation/'
-  project_ids:
-    - '8102128'
-    - '4102265'
   year_submitted:
     - '2018'
     - '2014'

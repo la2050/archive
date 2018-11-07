@@ -1,4 +1,5 @@
 ---
+original_project_image: 'https://img.youtube.com/vi/EDmhXWDVs3M/hqdefault.jpg'
 published: true
 organization_id: '2015083'
 title: Heal the Bay
@@ -18,12 +19,9 @@ instagram: 'https://instagram.com/healthebay/'
 facebook: 'https://www.facebook.com/HealtheBay/'
 ein: '954031055'
 zip: '90401'
-project_image: https://scontent-lga3-1.cdninstagram.com/vp/f82e9ccb771267df625e241f5f711321/5C4C4558/t51.2885-15/sh0.08/e35/s640x640/26867062_2015248948687602_439145150292164608_n.jpg
-original_project_image: 'https://img.youtube.com/vi/EDmhXWDVs3M/hqdefault.jpg'
+project_image: >-
+  https://scontent-lga3-1.cdninstagram.com/vp/f82e9ccb771267df625e241f5f711321/5C4C4558/t51.2885-15/sh0.08/e35/s640x640/26867062_2015248948687602_439145150292164608_n.jpg
 project_video: ''
-project_ids:
-  - '5102129'
-  - '3102146'
 project_titles:
   - Dropping Knowledge Project - Building a Water-Literate L.A.
   - Dropping Knowledge Project – Building a Water-Literate L.A.
@@ -33,9 +31,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/DroppingKnowledgeLA.html'
     - 'http://maker.good.is/myla2050/projects/healthyneighborhoods.html'
-  project_ids:
-    - '5102129'
-    - '3102146'
   year_submitted:
     - '2015'
     - '2013'

@@ -20,16 +20,12 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22393%252Fdisplay%252FTianguis.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102064'
 project_titles:
   - 'Tianguis: A Digital Exchange of Goods, Ideas, and Cultura'
   - 'Tianguis: A Digital Exchange of Goods Ideas and Cultura'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/tianguis.html'
-  project_ids:
-    - '5102339'
   year_submitted:
     - '2014'
 year_submitted: '2014'

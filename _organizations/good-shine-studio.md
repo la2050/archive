@@ -21,15 +21,11 @@ zip: '90026'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/good-shine-studio.jpg
 project_video: 'https://www.youtube.com/watch?v=03UxLqNGuvE'
-project_ids:
-  - '8102047'
 project_titles:
   - Connect for LA Chinatown - WAPOW Community Media Project
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/good-shine-studio/'
-  project_ids:
-    - '8102047'
   year_submitted:
     - '2018'
 year_submitted: '2018'

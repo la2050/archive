@@ -62,15 +62,11 @@ ein: '453193752'
 zip: ''
 project_image: 'https://img.youtube.com/vi/ZErt5IiuEPA/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102053'
 project_titles:
   - 'daKAT House:  A Public Housing Project for musicians.'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/dakathouse.html'
-  project_ids:
-    - '3102053'
   year_submitted:
     - '2013'
 year_submitted: '2013'

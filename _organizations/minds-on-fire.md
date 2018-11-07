@@ -31,16 +31,12 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16654%252Fdisplay%252FSlide1.jpg=c570x385
 project_video: ''
-project_ids:
-  - '3102075'
 project_titles:
   - 'Building A Community of Leaders, One Middle School Student at a Time'
   - Building A Community of Leaders One Middle School Student at a Time
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/mindsonfire.html'
-  project_ids:
-    - '3102075'
   year_submitted:
     - '2013'
 year_submitted: '2013'

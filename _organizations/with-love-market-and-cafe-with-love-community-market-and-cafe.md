@@ -19,8 +19,6 @@ ein: '463776168'
 zip: ''
 project_image: 'https://img.youtube.com/vi/HVOvMO9t6Gk/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102257'
 project_titles:
   - >-
     With Love Market and Cafe: bringing healthy food, jobs, and community to
@@ -31,8 +29,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/WithLoveLA.html'
-  project_ids:
-    - '4102175'
   year_submitted:
     - '2014'
 year_submitted: '2014'

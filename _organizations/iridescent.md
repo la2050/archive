@@ -19,9 +19,6 @@ ein: '208386654'
 zip: '90007'
 project_image: 'https://img.youtube.com/vi/NTnzCDQ335U/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102146'
-  - '5102145'
 project_titles:
   - Inspiring Girls in Technology Entrepreneurship
   - Iridescent Curiosity Machine Program
@@ -29,9 +26,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CuriosityMachine.html'
     - 'http://maker.good.is/myla2050create2015/projects/Technovation.html'
-  project_ids:
-    - '5102145'
-    - '5102145'
   year_submitted:
     - '2015'
     - '2015'

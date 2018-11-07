@@ -21,16 +21,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4001387745741-team91.jpg
 project_video: 'https://www.youtube.com/embed/xrBYk1R2gXQ?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102237'
 project_titles:
   - Help Open A Youth Center for LGBT Homeless Youth Like No Other!
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/help-open-a-youth-center-for-lgbt-homeless-youth-like-no-other!
-  project_ids:
-    - '6102237'
   year_submitted:
     - '2016'
 year_submitted: '2016'

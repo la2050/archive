@@ -41,15 +41,11 @@ ein: '274568770'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
-project_ids:
-  - '3102074'
 project_titles:
   - PickUp PopUp Produce Station
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/PickUpPopUpProduce.html'
-  project_ids:
-    - '3102074'
   year_submitted:
     - '2013'
 year_submitted: '2013'

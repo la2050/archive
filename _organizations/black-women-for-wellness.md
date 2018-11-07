@@ -20,8 +20,6 @@ zip: '90089'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/black-women-for-wellness.jpg
 project_video: 'https://www.youtube.com/watch?v=M5Q0W1tCJVg'
-project_ids:
-  - '8102009'
 project_titles:
   - Black Women for Wellness
   - ONILATERAL INDUSTRIES - Preserving The Last of Humanity through Science
@@ -29,8 +27,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/black-women-for-wellness/'
-  project_ids:
-    - '8102009'
   year_submitted:
     - '2018'
 year_submitted: '2018'

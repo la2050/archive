@@ -23,15 +23,11 @@ ein: '95.2417645'
 zip: ''
 project_image: 'https://img.youtube.com/vi/0fH09h-Rx9o/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102047'
 project_titles:
   - Why is the grass always greener over the leach fields?
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/GrassGreener.html'
-  project_ids:
-    - '3102047'
   year_submitted:
     - '2013'
 year_submitted: '2013'

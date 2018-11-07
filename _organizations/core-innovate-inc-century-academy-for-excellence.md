@@ -21,16 +21,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5493116165741-team88.jpg
 project_video: ''
-project_ids:
-  - '6102115'
 project_titles:
   - 'Inglewood Speaks: Young Podcasters Discover LA2050’s Homegrown Heroes'
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/inglewood-speaks-young-podcasters-discover-la2050s-homegrown-heroes
-  project_ids:
-    - '6102115'
   year_submitted:
     - '2016'
 year_submitted: '2016'

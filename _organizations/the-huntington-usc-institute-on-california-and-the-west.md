@@ -50,15 +50,11 @@ ein: '951644589'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
-project_ids:
-  - '3102250'
 project_titles:
   - The Los Angeles Service Academy
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LASA.html'
-  project_ids:
-    - '3102250'
   year_submitted:
     - '2013'
 year_submitted: '2013'

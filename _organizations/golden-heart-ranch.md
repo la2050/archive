@@ -22,15 +22,11 @@ zip: '90254'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23906%252Fdisplay%252F2014-08-12_11.41.58.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102113'
 project_titles:
   - Golden Heart Ranch... Creating Opportunities for Special Needs Young Adults.
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/goldenheart.html'
-  project_ids:
-    - '5102113'
   year_submitted:
     - '2015'
 year_submitted: '2015'

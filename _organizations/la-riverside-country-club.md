@@ -37,15 +37,11 @@ ein: '270983281'
 zip: ''
 project_image: 'https://img.youtube.com/vi/rt9TuksVaZU/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102172'
 project_titles:
   - PLUNGE into the waters of the LA River
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LARiversideCC.html'
-  project_ids:
-    - '3102172'
   year_submitted:
     - '2013'
 year_submitted: '2013'

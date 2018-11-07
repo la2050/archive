@@ -15,16 +15,12 @@ ein: '954552419'
 zip: ''
 project_image: 'https://img.youtube.com/vi/zTPVN1p3Lg8/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102183'
 project_titles:
   - >-
     The Achievable Clinic: quality healthcare for families and people with
     developmental disabilities
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102167'
   year_submitted:
     - '2014'
 year_submitted: '2014'

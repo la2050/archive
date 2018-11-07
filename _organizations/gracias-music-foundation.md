@@ -23,8 +23,6 @@ zip: '92123'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/gracias-music-foundation.jpg
 project_video: 'https://www.youtube.com/watch?v=EeCBqVA5f_g'
-project_ids:
-  - '8102048'
 project_titles:
   - >-
     Gracias Music Foundation: Cultivating and empowering musicians that give
@@ -32,8 +30,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/gracias-music-foundation/'
-  project_ids:
-    - '8102048'
   year_submitted:
     - '2018'
 year_submitted: '2018'

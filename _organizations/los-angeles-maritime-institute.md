@@ -21,16 +21,12 @@ ein: '330515416'
 zip: '90731'
 project_image: 'https://img.youtube.com/vi/m_0WUOFanyM/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102190'
 project_titles:
   - Adventure Education Aboard L.A.'s Official Tall Ships
   - Adventure Education Aboard L.A.s Official Tall Ships
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/adventureeducation.html'
-  project_ids:
-    - '5102190'
   year_submitted:
     - '2015'
 year_submitted: '2015'

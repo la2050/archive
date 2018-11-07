@@ -22,8 +22,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7432986155741-team90.jpg
 project_video: 'https://www.youtube.com/embed/IgcIdSHSnMc?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102241'
 project_titles:
   - >-
     The Engineer Factory: Producing engineers in South Los Angeles...one student
@@ -32,8 +30,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-engineer-factory-producing-engineers-in-south-los-angeles-one-student-at-a-time!
-  project_ids:
-    - '6102241'
   year_submitted:
     - '2016'
 year_submitted: '2016'

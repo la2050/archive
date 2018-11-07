@@ -16,14 +16,10 @@ zip: '80302'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21882%252Fdisplay%252FHappy_Greens.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102156'
 project_titles:
   - Every Kid Deserves a Learning Garden
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102170'
   year_submitted:
     - '2014'
 year_submitted: '2014'

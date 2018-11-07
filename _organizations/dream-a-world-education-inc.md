@@ -19,8 +19,6 @@ zip: '90211'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22600%252Fdisplay%252FHearts9.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102057'
 project_titles:
   - >-
     Bringing the arts back to public education one school at a time, one child
@@ -30,8 +28,6 @@ project_titles:
     a time
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102123'
   year_submitted:
     - '2014'
 year_submitted: '2014'

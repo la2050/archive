@@ -23,10 +23,6 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg
 project_video: 'https://www.youtube.com/watch?v=ms14tJAN0ls'
-project_ids:
-  - '8102068'
-  - '6102131'
-  - '4102119'
 project_titles:
   - >-
     Care.Connect.Change.:  UpLIFTing the (people) power of social and emotional
@@ -51,12 +47,6 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/LIFTLosAngeles.html'
     - 'http://maker.good.is/myLA2050connect/projects/LIFT-LA.html'
     - 'http://maker.good.is/myla2050/projects/liftcommunities.html'
-  project_ids:
-    - '8102068'
-    - '6102131'
-    - '5102177'
-    - '4102254'
-    - '3102181'
   year_submitted:
     - '2018'
     - '2016'

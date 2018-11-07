@@ -22,18 +22,13 @@ ein: '465274049'
 zip: '90045'
 project_image: 'https://img.youtube.com/vi/SHjS92F_BK8/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102302'
 project_titles:
   - 'The Incubator School: Designing the High School of Tomorrow, Today'
   - 'The Incubator School: Designing the High School of Tomorrow Today'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/IncSchool.html'
-    - https://maker.good.is/myLA2050learn/projects/incubator.html
-  project_ids:
-    - '5102302'
-    - '4102140'
+    - 'https://maker.good.is/myLA2050learn/projects/incubator.html'
   year_submitted:
     - '2015'
     - '2014'

@@ -56,15 +56,11 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16835%252Fdisplay%252Fkitchen2.jpg=c570x385
 project_video: ''
-project_ids:
-  - '3102106'
 project_titles:
   - 'We are an experimental food and art space in Los Angeles. '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/thankyouforcoming.html'
-  project_ids:
-    - '3102106'
   year_submitted:
     - '2013'
 year_submitted: '2013'

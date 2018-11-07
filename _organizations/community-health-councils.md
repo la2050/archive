@@ -21,9 +21,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3219654155741-team90.JPG
 project_video: 'https://www.youtube.com/embed/LW-vMpFhnl8?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102052'
-  - '3102088'
 project_titles:
   - Save Spaces for Healthy Places
   - >-
@@ -33,9 +30,6 @@ aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/save-spaces-for-healthy-places'
     - 'http://maker.good.is/myla2050/projects/LAOpenAcres.html'
-  project_ids:
-    - '6102052'
-    - '3102088'
   year_submitted:
     - '2016'
     - '2013'

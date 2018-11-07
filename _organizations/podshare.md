@@ -21,9 +21,6 @@ ein: '811021799'
 zip: '90035'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/podshare.jpg'
 project_video: 'https://youtu.be/9T1sxwl670s'
-project_ids:
-  - '8102096'
-  - '6102219'
 project_titles:
   - Building a Co-living Community for LA's Homeless Youth
   - Safe Place for Youth by Podshare
@@ -32,8 +29,6 @@ aggregated:
     - 'https://activation.la2050.org/live/podshare/'
     - >-
       https://challenge.la2050.org/entry/building-a-co-living-community-for-las-homeless-youth
-  project_ids:
-    - '6102219'
   year_submitted:
     - '2018'
     - '2016'

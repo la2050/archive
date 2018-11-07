@@ -19,15 +19,11 @@ ein: 472268086‏
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/pnwgZVtiDAA/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102152'
 project_titles:
   - LA ART FEST
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/LAAF.html'
-  project_ids:
-    - '8102096'
   year_submitted:
     - '2015'
 year_submitted: '2015'

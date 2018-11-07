@@ -23,15 +23,11 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/not-impossible-foundation.jpg
 project_video: ''
-project_ids:
-  - '8102090'
 project_titles:
   - 'Connecting the food secure to nearby, ready-to-eat meals using SMS'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/not-impossible-foundation/'
-  project_ids:
-    - '8102090'
   year_submitted:
     - '2018'
 year_submitted: '2018'

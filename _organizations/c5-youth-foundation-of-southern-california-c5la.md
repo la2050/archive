@@ -23,9 +23,6 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24065%252Fdisplay%252Fclass_of_2016_selfie.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102039'
-  - '4102029'
 project_titles:
   - 'C5LA Alumni Support and College Persistence Program '
   - C5LA’s Youth Leadership Development and College Preparatory Program
@@ -33,9 +30,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/C5LA.html'
-  project_ids:
-    - '5102039'
-    - '4102193'
   year_submitted:
     - '2015'
     - '2014'

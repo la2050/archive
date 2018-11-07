@@ -30,8 +30,6 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16780%252Fdisplay%252Fsmartestk12.homepage.student.v1.000.svg.png=c570x385
 project_video: ''
-project_ids:
-  - '3102092'
 project_titles:
   - >-
     Let's eliminate the education gap: smartestk12 is built by teachers to
@@ -42,8 +40,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/smartestk12.html'
-  project_ids:
-    - '3102092'
   year_submitted:
     - '2013'
 year_submitted: '2013'

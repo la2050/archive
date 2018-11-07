@@ -15,8 +15,6 @@ ein: '954176583'
 zip: ''
 project_image: 'https://img.youtube.com/vi/FKuY_bTZzoM/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102254'
 project_titles:
   - >-
     No More Bullying, Bias and Fights: Making Schools Safe for all Los Angeles
@@ -26,8 +24,6 @@ project_titles:
     Kids & Teachers
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102184'
   year_submitted:
     - '2014'
 year_submitted: '2014'

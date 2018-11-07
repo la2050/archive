@@ -38,15 +38,11 @@ ein: '320308477'
 zip: ''
 project_image: 'https://img.youtube.com/vi/nO6H3p5HpV4/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102126'
 project_titles:
   - Moving Voices of Los Angeles
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/voices.html'
-  project_ids:
-    - '3102126'
   year_submitted:
     - '2013'
 year_submitted: '2013'

@@ -31,15 +31,11 @@ ein: '951890706'
 zip: ''
 project_image: 'https://img.youtube.com/vi/xtg0o0s_GEU/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102037'
 project_titles:
   - 'BE GREAT Mentoring Program '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/begreat.html'
-  project_ids:
-    - '3102037'
   year_submitted:
     - '2013'
 year_submitted: '2013'

@@ -21,15 +21,11 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24129%252Fdisplay%252FScreen_Shot_2015-10-07_at_4.00.20_PM.png=c570x385
 project_video: ''
-project_ids:
-  - '5102191'
 project_titles:
   - 'The Great Streets Challenge: Making Streets Playful Public Places'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/lagreatstreets.html'
-  project_ids:
-    - '5102191'
   year_submitted:
     - '2015'
 year_submitted: '2015'

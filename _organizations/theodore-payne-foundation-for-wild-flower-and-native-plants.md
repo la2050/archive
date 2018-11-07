@@ -21,8 +21,6 @@ zip: '91352'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
 project_video: ''
-project_ids:
-  - '6102261'
 project_titles:
   - >-
     Grow Local: Plant Native! Youth advocacy for sustainable landscapes at LA
@@ -35,9 +33,6 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/grow-local-plant-native!-youth-advocacy-for-sustainable-landscapes-at-la-public-housing
     - 'http://maker.good.is/myla2050connect2015/projects/LFR.html'
-  project_ids:
-    - '6102261'
-    - '5102316'
   year_submitted:
     - '2016'
     - '2015'

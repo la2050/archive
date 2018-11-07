@@ -22,15 +22,11 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/small-business-majority.jpg
 project_video: 'https://www.youtube.com/watch?v=ZgMxPYmoLgA'
-project_ids:
-  - '8102109'
 project_titles:
   - Supporting the entrepreneurs who create a vibrant Los Angeles
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/small-business-majority/'
-  project_ids:
-    - '8102109'
   year_submitted:
     - '2018'
 year_submitted: '2018'

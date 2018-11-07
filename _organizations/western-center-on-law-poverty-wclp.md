@@ -15,14 +15,10 @@ ein: '952897721'
 zip: '90010'
 project_image: 'https://img.youtube.com/vi/-8HpYaBGc4I/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102121'
 project_titles:
   - Health Care for 1 Million Uninsured Los Angeles Residents
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102183'
   year_submitted:
     - '2014'
 year_submitted: '2014'

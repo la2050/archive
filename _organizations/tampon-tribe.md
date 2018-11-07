@@ -21,8 +21,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8470067535741-team91.jpg
 project_video: 'https://www.youtube.com/embed/sVisyYUs8U0?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102239'
 project_titles:
   - >-
     The Period Pack Project: Monthly Feminine Hygiene Packs for 2,000 Homeless
@@ -31,8 +29,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-period-pack-project-monthly-feminine-hygiene-packs-for-2-000-homeless-women-for-10-months
-  project_ids:
-    - '6102239'
   year_submitted:
     - '2016'
 year_submitted: '2016'

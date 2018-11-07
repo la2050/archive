@@ -22,8 +22,6 @@ zip: '90014'
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/the-people-of-change.jpg
 project_video: ''
-project_ids:
-  - '8102122'
 project_titles:
   - >-
     HIP Through Science: bringing quality and hip STEM Education to our urban
@@ -31,8 +29,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/the-people-of-change/'
-  project_ids:
-    - '8102122'
   year_submitted:
     - '2018'
 year_submitted: '2018'

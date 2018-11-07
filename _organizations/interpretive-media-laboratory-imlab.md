@@ -19,8 +19,6 @@ ein: '956006143'
 zip: 90095-1622
 project_image: 'https://img.youtube.com/vi/_1j9tLhT4z8/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102102'
 project_titles:
   - >-
     Trail City LA: Connecting the city through a community authored network of
@@ -28,8 +26,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/trailcity.html'
-  project_ids:
-    - '4102045'
   year_submitted:
     - '2014'
 year_submitted: '2014'

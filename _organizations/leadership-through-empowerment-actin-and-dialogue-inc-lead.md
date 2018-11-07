@@ -20,15 +20,11 @@ zip: '90031'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20586%252Fdisplay%252FEly_Flores.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102115'
 project_titles:
   - Re-Ignite Lincoln Heights
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/ReigniteLH.html'
-  project_ids:
-    - '4102052'
   year_submitted:
     - '2014'
 year_submitted: '2014'

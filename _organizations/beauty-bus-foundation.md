@@ -19,15 +19,11 @@ ein: '263075655'
 zip: ''
 project_image: 'https://img.youtube.com/vi/XoT_36T5K5E/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102022'
 project_titles:
   - Bringing Beauty Home
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/bringingbeautyhome.html'
-  project_ids:
-    - '4102015'
   year_submitted:
     - '2014'
 year_submitted: '2014'

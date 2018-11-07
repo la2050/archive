@@ -21,9 +21,6 @@ zip: '90007'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8267604165741-team90.jpg
 project_video: 'https://www.youtube.com/embed/wq7xVbwiQMA?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102184'
-  - '5102237'
 project_titles:
   - Community-Based Comprehensive Sex Education
   - Helping Los Angeles Youth Make Healthy Decisions And Access Care
@@ -32,9 +29,6 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/community-based-comprehensive-sex-education
     - 'http://maker.good.is/myla2050live2015/projects/PlannedParenthood.html'
-  project_ids:
-    - '6102184'
-    - '5102237'
   year_submitted:
     - '2016'
     - '2015'

@@ -19,15 +19,11 @@ ein: '455055360'
 zip: '90731'
 project_image: 'https://img.youtube.com/vi/nJPC81QoGyk/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102233'
 project_titles:
   - A Paradise of Artistic Innovation and Theatrical Celebration
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/TE-San-Pedro-Rep.html'
-  project_ids:
-    - '4102166'
   year_submitted:
     - '2014'
 year_submitted: '2014'

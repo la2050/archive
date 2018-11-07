@@ -52,15 +52,11 @@ ein: '474528239'
 zip: ''
 project_image: 'https://img.youtube.com/vi/HtWxHzKO0zY/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102032'
 project_titles:
   - The County Resident from District 3
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/CRD3LA.html'
-  project_ids:
-    - '3102032'
   year_submitted:
     - '2013'
 year_submitted: '2013'

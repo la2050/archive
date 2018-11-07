@@ -17,15 +17,11 @@ ein: '465448101'
 zip: '90016'
 project_image: 'https://img.youtube.com/vi/ByhCcHjp3FQ/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102037'
 project_titles:
   - 'BUNCHFEST is Music, Art + Innovation for the masses'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/BUNCHFEST2016.html'
-  project_ids:
-    - '5102127'
   year_submitted:
     - '2015'
 year_submitted: '2015'

@@ -20,15 +20,11 @@ ein: '330614644'
 zip: '90089'
 project_image: 'https://img.youtube.com/vi/SdL6NXZskjo/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102323'
 project_titles:
   - 'Swimming for Life: Water Safety and Competition for Inner-City Youth'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/trojanswimclub.html'
-  project_ids:
-    - '5102323'
   year_submitted:
     - '2015'
 year_submitted: '2015'

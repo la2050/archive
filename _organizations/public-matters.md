@@ -22,9 +22,6 @@ zip: '90026'
 project_image: >-
   https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/43950973_10156427247795199_7861215256188551168_n.jpg?_nc_cat=105&oh=ff5852bea3d214ce190da0b64c6e8bf1&oe=5C5E3537
 project_video: ''
-project_ids:
-  - '5102247'
-  - '3102089'
 project_titles:
   - 'Market Makeovers: NextGen Leaders'
   - 'Urban Futures Lab: Reimagining LA’s Civic and Creative Capital'
@@ -32,8 +29,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/urbanfutureslab.html'
     - 'http://maker.good.is/myla2050/projects/MARKETMAKEOVERS.html'
-  project_ids:
-    - '3102089'
   year_submitted:
     - '2015'
     - '2013'

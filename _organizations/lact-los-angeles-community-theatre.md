@@ -17,15 +17,11 @@ ein: '475244207'
 zip: '90031'
 project_image: 'https://img.youtube.com/vi/fRmzSDzuoRA/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102171'
 project_titles:
   - LACT - Los Angeles Community Theatre
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/LACT.html'
-  project_ids:
-    - '5102171'
   year_submitted:
     - '2015'
 year_submitted: '2015'

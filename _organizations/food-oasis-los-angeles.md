@@ -23,16 +23,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4873052265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/31P5WKMZjqg?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102070'
 project_titles:
   - Connecting People to Healthy Food in Los Angeles
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/connecting-people-to-healthy-food-in-los-angeles
-  project_ids:
-    - '6102070'
   year_submitted:
     - '2016'
 year_submitted: '2016'

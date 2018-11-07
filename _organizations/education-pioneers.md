@@ -35,15 +35,11 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16503%252Fdisplay%252FFB_Cover_photo.jpg=c570x385
 project_video: ''
-project_ids:
-  - '3102120'
 project_titles:
   - 'The power in an hour: Putting time for teachers back in a principal''s day'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/edpioneer.html'
-  project_ids:
-    - '3102120'
   year_submitted:
     - '2013'
 year_submitted: '2013'

@@ -22,11 +22,6 @@ ein: '943059243'
 zip: '90027'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/children-now.jpg'
 project_video: ''
-project_ids:
-  - '8102019'
-  - '6102034'
-  - '5102052'
-  - '4102035'
 project_titles:
   - 'A Pro-Kid LA: Building The Children’s Movement in Los Angeles'
   - 'Leveraging The Children’s Movement to Make LA the Best Place to Learn '
@@ -42,11 +37,6 @@ aggregated:
       https://challenge.la2050.org/entry/lifting-up-las-voice-for-kids-to-live-trauma-free-by-2050
     - 'http://maker.good.is/myla2050learn2015/projects/PROKIDLA.html'
     - 'http://maker.good.is/myLA2050connect/projects/ProKidLA.html'
-  project_ids:
-    - '8102019'
-    - '6102034'
-    - '5102052'
-    - '4102248'
   year_submitted:
     - '2018'
     - '2016'

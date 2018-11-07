@@ -20,8 +20,6 @@ ein: '952540759'
 zip: '90101'
 project_image: 'https://img.youtube.com/vi/H107Gy4bTFs/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102204'
 project_titles:
   - >-
     Linking Middle, High School, & College Students through Humanity Centered
@@ -32,8 +30,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/mediadoneresponsibly.html'
-  project_ids:
-    - '5102204'
   year_submitted:
     - '2015'
 year_submitted: '2015'

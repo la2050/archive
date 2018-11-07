@@ -23,15 +23,11 @@ ein: '471474363'
 zip: ''
 project_image: 'https://img.youtube.com/vi/MY3TeVh867s/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102238'
 project_titles:
   - Play with Music
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/Playwithmusic.html'
-  project_ids:
-    - '5102238'
   year_submitted:
     - '2015'
 year_submitted: '2015'

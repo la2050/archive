@@ -44,8 +44,6 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17230%252Fdisplay%252Fverynice.jpeg=c570x385
 project_video: ''
-project_ids:
-  - '3102114'
 project_titles:
   - >-
     Helping Small Businesses and Independent Contractors in Los Angeles Be Very
@@ -55,8 +53,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/beverynice.html'
-  project_ids:
-    - '3102114'
   year_submitted:
     - '2013'
 year_submitted: '2013'

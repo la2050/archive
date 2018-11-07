@@ -20,15 +20,11 @@ ein: '455405527'
 zip: '90034'
 project_image: 'https://img.youtube.com/vi/g0KxazcQnVA/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102210'
 project_titles:
   - Palms Sustainable Farmers Market and Urban Garden Network
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/MotorAvenueFood.html'
-  project_ids:
-    - '5102210'
   year_submitted:
     - '2015'
 year_submitted: '2015'

@@ -21,9 +21,6 @@ ein: '474318779'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/grid110-inc.jpg'
 project_video: ''
-project_ids:
-  - '8102049'
-  - '5102122'
 project_titles:
   - 'Grid110: Idea to Prototype'
   - We're creating an ecosystem of entrepreneurs and growing new businesses.
@@ -32,9 +29,6 @@ aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/grid110-inc/'
     - 'http://maker.good.is/myla2050create2015/projects/GRID110.html'
-  project_ids:
-    - '8102049'
-    - '5102122'
   year_submitted:
     - '2018'
     - '2015'

@@ -22,9 +22,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8716427165741-team91.png
 project_video: ''
-project_ids:
-  - '6102111'
-  - '5102076'
 project_titles:
   - >-
     Diversifying LA’s manufacturing ownership by empowering workers to buy their
@@ -34,9 +31,6 @@ aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/re-make-it-la'
     - 'http://maker.good.is/myla2050create2015/projects/buyoutyourboss.html'
-  project_ids:
-    - '6102111'
-    - '5102077'
   year_submitted:
     - '2016'
     - '2015'

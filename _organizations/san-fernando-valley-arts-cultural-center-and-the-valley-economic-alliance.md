@@ -23,16 +23,12 @@ ein: '474978841'
 zip: '91403'
 project_image: 'https://img.youtube.com/vi//hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102259'
 project_titles:
   - 'Connecting to Los Angeles Arts, Culture & Entertainment'
   - Connecting to Los Angeles Arts Culture & Entertainment
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/LAACECONNECTS.html'
-  project_ids:
-    - '5102259'
   year_submitted:
     - '2015'
 year_submitted: '2015'

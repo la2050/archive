@@ -24,16 +24,12 @@ zip: '10036'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23674%252Fdisplay%252FImage.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102144'
 project_titles:
   - 'LA Veterans in Need: IAVA’s Rapid Response Referral Program '
   - 'LA Veterans in Need: IAVA’s Rapid Response Referral Program'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/vetsrisingLA.html'
-  project_ids:
-    - '5102144'
   year_submitted:
     - '2015'
 year_submitted: '2015'

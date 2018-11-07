@@ -22,9 +22,6 @@ ein: '261198327'
 zip: '90731'
 project_image: 'https://img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102078'
-  - '3102093'
 project_titles:
   - Healthy Streams for Angelenos
   - 'The Pulse of Los Angeles: Assessing the Watersheds'
@@ -32,9 +29,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/healthystreams.html'
     - 'http://maker.good.is/myla2050/projects/pulseoflosangeles.html'
-  project_ids:
-    - '5102079'
-    - '3102093'
   year_submitted:
     - '2015'
     - '2013'

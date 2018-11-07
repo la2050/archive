@@ -15,14 +15,10 @@ ein: '951643387'
 zip: '90731'
 project_image: 'https://img.youtube.com/vi/7nJBFWm-mb0/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102236'
 project_titles:
   - Toyota Family Learning program
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102177'
   year_submitted:
     - '2014'
 year_submitted: '2014'

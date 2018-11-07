@@ -21,9 +21,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3334798155741-team90.jpg
 project_video: ''
-project_ids:
-  - '6102126'
-  - '4102112'
 project_titles:
   - 'Arts LANDed: Connecting Resources, Educators, Artists, Students, and You'
   - Jose Dávila Public Art Project
@@ -33,9 +30,6 @@ aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/jose-dávila-public-art-project'
     - 'http://maker.good.is/myLA2050connect/projects/ArtsLANDed.html'
-  project_ids:
-    - '6102126'
-    - '4102231'
   year_submitted:
     - '2016'
     - '2014'

@@ -23,8 +23,6 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24136%252Fdisplay%252FScreen_Shot_2015-10-08_at_4.09.45_PM.png=c570x385
 project_video: ''
-project_ids:
-  - '5102048'
 project_titles:
   - >-
     Let's Build Bridges Between Communities And Our Dream LA By Celebrating LA
@@ -35,8 +33,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/InnovateLA.html'
-  project_ids:
-    - '5102048'
   year_submitted:
     - '2015'
 year_submitted: '2015'

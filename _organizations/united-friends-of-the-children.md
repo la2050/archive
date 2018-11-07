@@ -21,10 +21,6 @@ zip: '90017'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1483407105741-team91.jpg
 project_video: 'https://player.vimeo.com/video/169895416?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102270'
-  - '5102332'
-  - '4102244'
 project_titles:
   - College IS for Foster Youth!
   - >-
@@ -34,10 +30,6 @@ aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/college-is-for-foster-youth!'
     - 'http://maker.good.is/myla2050learn2015/projects/College4FosterYouth.html'
-  project_ids:
-    - '6102270'
-    - '5102332'
-    - '4102245'
   year_submitted:
     - '2016'
     - '2015'

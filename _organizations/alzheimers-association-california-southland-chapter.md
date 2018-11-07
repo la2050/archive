@@ -42,8 +42,6 @@ ein: '953718119'
 zip: ''
 project_image: 'https://img.youtube.com/vi/DVIx37igPg0/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102016'
 project_titles:
   - >-
     Changing the Course of the Alzheimer’s Epidemic in L.A. County:  Early
@@ -51,8 +49,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/EarlyDetection.html'
-  project_ids:
-    - '3102016'
   year_submitted:
     - '2013'
 year_submitted: '2013'

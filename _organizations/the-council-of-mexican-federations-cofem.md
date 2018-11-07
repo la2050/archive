@@ -21,8 +21,6 @@ ein: '320154043'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/SVzSpv8Dj74/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102299'
 project_titles:
   - >-
     San Gabriel Mountains Forever: Increasing Public Access to Our Local
@@ -30,8 +28,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/SanGabrielMountains.html'
-  project_ids:
-    - '5102299'
   year_submitted:
     - '2015'
 year_submitted: '2015'

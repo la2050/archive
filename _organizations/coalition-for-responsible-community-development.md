@@ -23,16 +23,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1299310265741-team90.jpg
 project_video: 'https://www.youtube.com/embed/oHWTV6mzQbg?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102044'
 project_titles:
   - Community Uniting for Resolution and Empowerment (CURE)
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/community-uniting-for-resolution-and-empowerment-cure
-  project_ids:
-    - '6102044'
   year_submitted:
     - '2016'
 year_submitted: '2016'

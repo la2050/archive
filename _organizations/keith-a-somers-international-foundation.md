@@ -21,8 +21,6 @@ zip: '90292'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23179%252Fdisplay%252FWeb_New_Com.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102159'
 project_titles:
   - >-
     Enhancing the perspectives of today's youth, and equipping them with life
@@ -33,8 +31,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/KASIF2050.html'
-  project_ids:
-    - '5102159'
   year_submitted:
     - '2015'
 year_submitted: '2015'

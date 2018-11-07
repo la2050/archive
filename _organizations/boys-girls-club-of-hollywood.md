@@ -18,8 +18,6 @@ ein: '951775142'
 zip: '90038'
 project_image: 'https://img.youtube.com/vi/qBtFoJ-YYd0/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102026'
 project_titles:
   - >-
     IamLA- Inspiring the future generation of Angelenos with a youth-led STEAM
@@ -29,8 +27,6 @@ project_titles:
     Awareness Campaign
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102116'
   year_submitted:
     - '2014'
 year_submitted: '2014'

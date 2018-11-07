@@ -29,9 +29,6 @@ zip: '90040'
 project_image: >-
   https://activation.la2050.org/assets/images/play/2048-wide/surf-bus-foundation.jpg
 project_video: 'https://vimeo.com/262573193'
-project_ids:
-  - '8102114'
-  - '6102221'
 project_titles:
   - >-
     Surf Bus and partners present: Splash Force LA, a comprehensive guide to
@@ -42,9 +39,6 @@ aggregated:
     - 'https://activation.la2050.org/play/surf-bus-foundation/'
     - >-
       https://challenge.la2050.org/entry/theraputic-ocean-engagement-surfing-toes-as-in-on-the-nose
-  project_ids:
-    - '8102114'
-    - '6102221'
   year_submitted:
     - '2018'
     - '2016'

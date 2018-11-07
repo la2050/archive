@@ -22,8 +22,6 @@ zip: '90028'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23374%252Fdisplay%252FJulia_Dean_at_Boyle_Heights_B_B_Club.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102185'
 project_titles:
   - >-
     Los Angeles Center of Photography Brings Life Changing Photography Classes
@@ -31,8 +29,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/LACP.html'
-  project_ids:
-    - '5102185'
   year_submitted:
     - '2015'
 year_submitted: '2015'

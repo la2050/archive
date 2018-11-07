@@ -30,16 +30,12 @@ ein: '841713927'
 zip: ''
 project_image: 'https://img.youtube.com/vi/lLS50WusJa4/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102156'
 project_titles:
   - 'LA, the capital of mindfulness in 2050'
   - LA the capital of mindfulness in 2050
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/MindfulLA.html'
-  project_ids:
-    - '3102156'
   year_submitted:
     - '2013'
 year_submitted: '2013'

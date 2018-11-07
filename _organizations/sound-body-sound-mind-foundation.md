@@ -22,8 +22,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4898814105741-team90.jpg
 project_video: 'https://www.youtube.com/embed/wA3zYsq4f3I?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102211'
 project_titles:
   - >-
     Fighting Child Obesity Through the Transformation of Physical Education in
@@ -32,8 +30,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/fighting-child-obesity-through-the-transformation-of-physical-education-in-los-angeles
-  project_ids:
-    - '6102211'
   year_submitted:
     - '2016'
 year_submitted: '2016'

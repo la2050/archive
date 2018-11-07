@@ -17,14 +17,10 @@ zip: 90024-5055
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20927%252Fdisplay%252Findex__element43.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102085'
 project_titles:
   - Imagination Workshop
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102137'
   year_submitted:
     - '2014'
 year_submitted: '2014'

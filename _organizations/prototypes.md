@@ -23,10 +23,6 @@ zip: '90012'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23741%252Fdisplay%252F2013_Pomona_0649.JPG=c570x385
 project_video: ''
-project_ids:
-  - '5102246'
-  - '4102034'
-  - '3102222'
 project_titles:
   - Inspiring Healthy Futures
   - 'Prototypes: Integrated Health Care for Women and Their Children'
@@ -37,10 +33,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/SecondChance.html'
     - 'http://maker.good.is/myla2050/projects/inspirehealth.html'
-  project_ids:
-    - '5102246'
-    - '4102208'
-    - '3102222'
   year_submitted:
     - '2015'
     - '2014'

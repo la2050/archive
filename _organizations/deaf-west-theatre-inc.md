@@ -19,8 +19,6 @@ ein: '954315054'
 zip: ''
 project_image: 'https://img.youtube.com/vi/n__7obsdA8E/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102053'
 project_titles:
   - >-
     Deaf West Theatre Performing Arts Center and Educational Outreach Program
@@ -31,8 +29,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/deafwest.html'
-  project_ids:
-    - '4102026'
   year_submitted:
     - '2014'
 year_submitted: '2014'

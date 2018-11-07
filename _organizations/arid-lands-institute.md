@@ -20,14 +20,10 @@ zip: '91510'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22512%252Fdisplay%252FBoom_Map_300dpi_1200px_wide.jpeg=c570x385
 project_video: ''
-project_ids:
-  - '4102205'
 project_titles:
   - 'Divining LA: Resilient City Design for the Next Hundred Years'
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102113'
   year_submitted:
     - '2014'
 year_submitted: '2014'

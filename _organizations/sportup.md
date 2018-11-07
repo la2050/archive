@@ -23,8 +23,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3953804915741-team90.png
 project_video: 'https://www.youtube.com/embed/Dh_mEDo9vD8?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102233'
 project_titles:
   - >-
     Empowering community organizations to grow through logistics and data
@@ -33,8 +31,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/empowering-community-organizations-to-grow-through-logistics-and-data-analytics
-  project_ids:
-    - '6102233'
   year_submitted:
     - '2016'
 year_submitted: '2016'

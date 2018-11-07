@@ -41,16 +41,12 @@ ein: '568691857'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
-project_ids:
-  - '3102005'
 project_titles:
   - Antigua Coffee House
   - 'Cypress Village Underground Tunnel Art Walk Gallery and Economic Vitality '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Tunnel-Art-Walk.html'
-  project_ids:
-    - '3102005'
   year_submitted:
     - '2013'
 year_submitted: '2013'

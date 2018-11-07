@@ -19,15 +19,11 @@ ein: '956132185'
 zip: '90007'
 project_image: 'https://img.youtube.com/vi/gzqE0ygfM8Y/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102219'
 project_titles:
   - 'Check out our New Digs: The La Brea Tar Pits Improvement Project'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/newdigs.html'
-  project_ids:
-    - '4102093'
   year_submitted:
     - '2014'
 year_submitted: '2014'

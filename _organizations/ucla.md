@@ -22,10 +22,6 @@ zip: 90095-1656
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23820%252Fdisplay%252FTIER.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102327'
-  - '4102241'
-  - '4102039'
 project_titles:
   - >-
     Making Los Angeles the most technologically progressive and healthy city in
@@ -38,9 +34,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/TIER.html'
-  project_ids:
-    - '5102327'
-    - '4102218'
   year_submitted:
     - '2015'
     - '2014'

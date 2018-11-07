@@ -23,8 +23,6 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/justice-la-dignity-and-power-now.jpg
 project_video: 'https://youtu.be/p_JwubxZcKA'
-project_ids:
-  - '8102056'
 project_titles:
   - >-
     Justice LA, along with FreeAmerica, are working to radically transform LA
@@ -32,8 +30,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/justice-la-dignity-and-power-now/'
-  project_ids:
-    - '8102056'
   year_submitted:
     - '2018'
 year_submitted: '2018'

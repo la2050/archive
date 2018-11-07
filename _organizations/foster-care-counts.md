@@ -55,16 +55,12 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16488%252Fdisplay%252FFCC_logo_master_jpeg.jpg=c570x385
 project_video: ''
-project_ids:
-  - '3102131'
 project_titles:
   - Virtual Mentor Program for Foster and At-risk Youth
   - Virtual Mentor Program for Foster and Atrisk Youth
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/virtualmentor.html'
-  project_ids:
-    - '3102131'
   year_submitted:
     - '2013'
 year_submitted: '2013'

@@ -22,8 +22,6 @@ zip: '90015'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/coro-southern-california.jpg
 project_video: 'https://www.youtube.com/watch?v=Du3r0rMVl4Q'
-project_ids:
-  - '8102031'
 project_titles:
   - >-
     Coro Southern California’s Neighborhood Leaders Program: Cultivating Leaders
@@ -31,8 +29,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/coro-southern-california/'
-  project_ids:
-    - '8102031'
   year_submitted:
     - '2018'
 year_submitted: '2018'

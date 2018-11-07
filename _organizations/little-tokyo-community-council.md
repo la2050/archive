@@ -18,14 +18,10 @@ ein: '200258503'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/QQpabiJ0uus/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102253'
 project_titles:
   - 'Sustainable Little Tokyo: A Cultural Ecodistrict'
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102146'
   year_submitted:
     - '2014'
 year_submitted: '2014'

@@ -28,15 +28,11 @@ ein: '800569820'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
-project_ids:
-  - '3102277'
 project_titles:
   - Young Warriors
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/YoungWarriors.html'
-  project_ids:
-    - '3102277'
   year_submitted:
     - '2013'
 year_submitted: '2013'

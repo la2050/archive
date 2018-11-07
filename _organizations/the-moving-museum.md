@@ -19,15 +19,11 @@ ein: '474255808'
 zip: '10018'
 project_image: 'https://img.youtube.com/vi/X9EpK48pYtY/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102307'
 project_titles:
   - The Moving Museum Los Angeles
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/TMMLA.html'
-  project_ids:
-    - '5102307'
   year_submitted:
     - '2015'
 year_submitted: '2015'

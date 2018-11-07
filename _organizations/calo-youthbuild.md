@@ -21,16 +21,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3912790265741-team91.jpg
 project_video: ''
-project_ids:
-  - '6102029'
 project_titles:
   - CALÓ YouthBuild's Mobile Community Solar Arts and STEM Project
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/caló-youthbuilds-mobile-community-solar-arts-and-stem-project
-  project_ids:
-    - '6102029'
   year_submitted:
     - '2016'
 year_submitted: '2016'

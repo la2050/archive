@@ -23,16 +23,12 @@ ein: '912162719'
 zip: '90028'
 project_image: 'https://img.youtube.com/vi/t3QQPi2pnEU/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102010'
 project_titles:
   - 'W.A.R.: The Battle Starts With You... We Are Ready, Are You?'
   - 'W.A.R.: The Battle Starts With You... We Are Ready Are You?'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/weareready.html'
-  project_ids:
-    - '5102010'
   year_submitted:
     - '2015'
 year_submitted: '2015'

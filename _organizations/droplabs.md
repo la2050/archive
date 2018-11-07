@@ -20,9 +20,6 @@ zip: '90031'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21245%252Fdisplay%252Fslide-image-1.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102058'
-  - '3102031'
 project_titles:
   - >-
     Coworking Platform for Micro-Filmmakers with Locations, Legal Tools and
@@ -34,8 +31,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/droplabs.html'
     - 'http://maker.good.is/myla2050/projects/Moebius5000.html'
-  project_ids:
-    - '3102031'
   year_submitted:
     - '2014'
     - '2013'

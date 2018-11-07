@@ -21,15 +21,11 @@ ein: '260454089'
 zip: '90029'
 project_image: 'https://img.youtube.com/vi/a-kQryxgF4M/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102248'
 project_titles:
   - 'Re:Ciclos a movement by bicycle. A new project of the Bicycle Kitchen'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ReCiclos.html'
-  project_ids:
-    - '5102248'
   year_submitted:
     - '2015'
 year_submitted: '2015'

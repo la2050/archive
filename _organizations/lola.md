@@ -18,8 +18,6 @@ zip: '90036'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/lola-parent-company-amir-erica-inc.jpg
 project_video: ''
-project_ids:
-  - '8102069'
 project_titles:
   - Carl Boehm
   - Karin McKemey
@@ -27,7 +25,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/lola-parent-company-amir-erica-inc/'
-  project_ids: []
   year_submitted:
     - '2018'
 year_submitted: '2018'

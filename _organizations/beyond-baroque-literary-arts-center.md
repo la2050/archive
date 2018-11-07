@@ -20,15 +20,11 @@ zip: '90291'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22565%252Fdisplay%252FProposed_Space_for_Venice_Arts_Commons.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102023'
 project_titles:
   - An Arts Commons for Everyone
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/Beyondbaroque.html'
-  project_ids:
-    - '4102016'
   year_submitted:
     - '2014'
 year_submitted: '2014'

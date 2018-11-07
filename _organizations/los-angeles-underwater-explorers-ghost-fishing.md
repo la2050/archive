@@ -20,16 +20,12 @@ ein: '465551374'
 zip: '90068'
 project_image: 'https://img.youtube.com/vi/laadW_CUhSY/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102198'
 project_titles:
   - 'The OCEAN is the best place to play in LA! But, we must keep her clean!'
   - The OCEAN is the best place to play in LA! But we must keep her clean!
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/GhostNetCleanups.html'
-  project_ids:
-    - '5102198'
   year_submitted:
     - '2015'
 year_submitted: '2015'

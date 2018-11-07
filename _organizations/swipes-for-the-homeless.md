@@ -43,8 +43,6 @@ ein: '452038035'
 zip: ''
 project_image: 'https://img.youtube.com/vi/h1GATPgLPxQ/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102241'
 project_titles:
   - >-
     Students Working Together to Combat Homelessness and Reduce Food Waste on
@@ -52,8 +50,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/swipesforthehomeless.html'
-  project_ids:
-    - '3102241'
   year_submitted:
     - '2013'
 year_submitted: '2013'

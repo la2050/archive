@@ -19,9 +19,6 @@ ein: '270126980'
 zip: '91340'
 project_image: 'https://img.youtube.com/vi/poREvQfFFL4/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102266'
-  - '3102279'
 project_titles:
   - 'Future Leaders Initiative - Listen to the Leaders of Tomorrow. '
   - SPEAK UP ACROSS LA!
@@ -31,9 +28,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/YOUTHSPEAKUP.html'
     - 'http://maker.good.is/myla2050/projects/youthspeak.html'
-  project_ids:
-    - '4102110'
-    - '3102279'
   year_submitted:
     - '2014'
     - '2013'

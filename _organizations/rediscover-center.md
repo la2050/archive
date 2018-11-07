@@ -35,15 +35,11 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16706%252Fdisplay%252FreDiscover_Upcyle_Innovate.jpg=c570x385
 project_video: ''
-project_ids:
-  - '3102228'
 project_titles:
   - Upcycle Innovation
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Innovate.html'
-  project_ids:
-    - '3102228'
   year_submitted:
     - '2013'
 year_submitted: '2013'

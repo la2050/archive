@@ -23,15 +23,11 @@ zip: '90025'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23214%252Fdisplay%252FIMG_0438.JPG=c570x385
 project_video: ''
-project_ids:
-  - '5102311'
 project_titles:
   - SBSM Healthy Tomorrow Initiative
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/HealthyTomorrow.html'
-  project_ids:
-    - '5102311'
   year_submitted:
     - '2015'
 year_submitted: '2015'

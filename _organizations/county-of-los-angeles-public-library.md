@@ -22,15 +22,11 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7316447986741-team91.JPG
 project_video: ''
-project_ids:
-  - '6102056'
 project_titles:
   - Tell Your True Tale Writer's Workshop
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/tell-your-true-tale-writers-workshop'
-  project_ids:
-    - '6102056'
   year_submitted:
     - '2016'
 year_submitted: '2016'

@@ -21,10 +21,6 @@ ein: '954311058'
 zip: '90035'
 project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/las-best.jpg'
 project_video: ''
-project_ids:
-  - '8102065'
-  - '6102128'
-  - '4102113'
 project_titles:
   - Connecting for Success
   - >-
@@ -38,10 +34,6 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/las-best-aarp-foundation-experience-corps-brighter-futures-via-reading-proficiency-by-3rd-grade
     - 'http://maker.good.is/myLA2050play/projects/CFS.html'
-  project_ids:
-    - '8102065'
-    - '6102128'
-    - '4102253'
   year_submitted:
     - '2018'
     - '2016'

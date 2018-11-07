@@ -32,9 +32,6 @@ ein: '811715988'
 zip: '90291'
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/make-it-in-la.jpg'
 project_video: 'https://www.youtube.com/watch?v=x2Ty5rjHVyE'
-project_ids:
-  - '8102079'
-  - '5102201'
 project_titles:
   - >-
     Make it in LA – help connect and celebrate LA’s entrepreneurial ecosystem
@@ -46,9 +43,6 @@ aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/make-it-in-la/'
     - 'http://maker.good.is/myla2050create2015/projects/makeitinla.html'
-  project_ids:
-    - '8102079'
-    - '5102201'
   year_submitted:
     - '2018'
     - '2015'

@@ -47,15 +47,11 @@ ein: '383886677'
 zip: ''
 project_image: 'https://img.youtube.com/vi/iGjxg6yI_og/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102071'
 project_titles:
   - Farm on Wheels
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/farmonwheels.html'
-  project_ids:
-    - '3102071'
   year_submitted:
     - '2013'
 year_submitted: '2013'

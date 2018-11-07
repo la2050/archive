@@ -15,15 +15,11 @@ ein: '956006143'
 zip: 90095-1405
 project_image: 'https://img.youtube.com/vi/DITouRhKW80/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102185'
 project_titles:
   - Thriving in a Hotter Los Angeles—100% Sustainability by 2050
 aggregated:
   challenge_url:
-    - https://maker.good.is/myLA2050live/projects/UCLAHotterLA.html
-  project_ids:
-    - '4102180'
+    - 'https://maker.good.is/myLA2050live/projects/UCLAHotterLA.html'
   year_submitted:
     - '2014'
 year_submitted: '2014'

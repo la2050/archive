@@ -21,15 +21,11 @@ ein: '953779389'
 zip: '90020'
 project_image: 'https://img.youtube.com/vi/tFrudFZCeRY/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102105'
 project_titles:
   - Los Angeles Free Income Tax Project
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/FREETAXPREP.html'
-  project_ids:
-    - '4102046'
   year_submitted:
     - '2014'
 year_submitted: '2014'

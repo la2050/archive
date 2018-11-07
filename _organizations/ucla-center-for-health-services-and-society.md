@@ -23,8 +23,6 @@ zip: '90017'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/ucla-center-for-health-services-and-society.jpg
 project_video: 'https://www.youtube.com/watch?v=CDgr7CxOHfA'
-project_ids:
-  - '8102129'
 project_titles:
   - >-
     B-RESILIENT: An Engaging Text Messaging and Mobile App Created by the
@@ -33,8 +31,6 @@ aggregated:
   challenge_url:
     - >-
       https://activation.la2050.org/live/ucla-center-for-health-services-and-society/
-  project_ids:
-    - '8102129'
   year_submitted:
     - '2018'
 year_submitted: '2018'

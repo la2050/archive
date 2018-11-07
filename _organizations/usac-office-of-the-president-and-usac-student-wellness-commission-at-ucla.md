@@ -20,18 +20,12 @@ ein: '951777979'
 zip: '90025'
 project_image: 'https://img.youtube.com/vi/YHlDfLtzSio/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102337'
-  - '4102250'
 project_titles:
   - 'All of Us at UCLA: A Revitalization of Mental Health'
   - 'All of Us: A Campaign to Rethink Mental Health'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ALLOFUSMENTALHEALTH.html'
-  project_ids:
-    - '5102337'
-    - '4102219'
   year_submitted:
     - '2015'
     - '2014'

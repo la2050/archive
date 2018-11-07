@@ -18,14 +18,10 @@ ein: '452443162'
 zip: '67'
 project_image: 'https://img.youtube.com/vi/tMwKJIhKIAU/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102222'
 project_titles:
   - 'The Intern Project: The Transformative Power of Internships'
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102173'
   year_submitted:
     - '2014'
 year_submitted: '2014'

@@ -63,16 +63,12 @@ ein: '954302067'
 zip: ''
 project_image: 'https://img.youtube.com/vi/Xoof6-2YZ_U/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102184'
 project_titles:
   - 'Speak Up When You''re Down: Maternal Mental Health Improvement Project'
   - 'Speak Up When Youre Down: Maternal Mental Health Improvement Project'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/SpeakUp.html'
-  project_ids:
-    - '3102184'
   year_submitted:
     - '2013'
 year_submitted: '2013'

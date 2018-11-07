@@ -47,15 +47,11 @@ ein: '202797313'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
-project_ids:
-  - '3102028'
 project_titles:
   - 'Creative Capital: A campaign for a healthy & prosperous Los Angeles'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/CreativeCapitalLA.html'
-  project_ids:
-    - '3102028'
   year_submitted:
     - '2013'
 year_submitted: '2013'

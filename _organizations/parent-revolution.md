@@ -116,15 +116,11 @@ ein: '202207418'
 zip: ''
 project_image: 'https://img.youtube.com/vi/ajJ28FU4Wws/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102213'
 project_titles:
   - Transforming Los Angeles Schools Using the Parent Trigger Law
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ParentTrigger.html'
-  project_ids:
-    - '3102213'
   year_submitted:
     - '2013'
 year_submitted: '2013'

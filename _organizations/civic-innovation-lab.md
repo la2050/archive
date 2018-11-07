@@ -23,8 +23,6 @@ zip: 90089-0034
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/civic-innovation-lab.jpg
 project_video: ''
-project_ids:
-  - '8102028'
 project_titles:
   - >-
     Bridging social enterprise, technology, and local government to accelerate
@@ -32,8 +30,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/create/civic-innovation-lab/'
-  project_ids:
-    - '8102028'
   year_submitted:
     - '2018'
 year_submitted: '2018'

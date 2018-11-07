@@ -23,15 +23,11 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7522135096741-team90.jpg
 project_video: ''
-project_ids:
-  - '6102158'
 project_titles:
   - Live Unlimited with MDA's Summer Camp
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/live-unlimited-with-mdas-summer-camp'
-  project_ids:
-    - '6102158'
   year_submitted:
     - '2016'
 year_submitted: '2016'

@@ -58,15 +58,11 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16663%252Fdisplay%252FBoyleTalk.jpg=c570x385
 project_video: ''
-project_ids:
-  - '3102237'
 project_titles:
   - 'Building Bridges in the San Gabriel Valley: Social Connectedness in Action'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/sjbsocialservices.html'
-  project_ids:
-    - '3102237'
   year_submitted:
     - '2013'
 year_submitted: '2013'

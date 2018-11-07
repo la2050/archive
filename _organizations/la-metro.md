@@ -20,15 +20,11 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2545821265741-team91.png
 project_video: ''
-project_ids:
-  - '6102121'
 project_titles:
   - Off Peak Podcast
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/off-peak-podcast'
-  project_ids:
-    - '6102121'
   year_submitted:
     - '2016'
 year_submitted: '2016'

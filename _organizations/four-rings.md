@@ -20,15 +20,11 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3092492065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/31Cl_cWYbgY?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102156'
 project_titles:
   - 'Four Rings: Giving LA a Home to Recharge'
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/four-rings-giving-la-a-home-to-recharge'
-  project_ids:
-    - '6102156'
   year_submitted:
     - '2016'
 year_submitted: '2016'

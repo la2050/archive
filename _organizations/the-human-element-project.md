@@ -21,15 +21,11 @@ ein: '912039095'
 zip: '91362'
 project_image: 'https://img.youtube.com/vi/dCvzeDvQtLY/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102214'
 project_titles:
   - 'The Human Element Project: Play in LA'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/Humanelement.html'
-  project_ids:
-    - '4102090'
   year_submitted:
     - '2014'
 year_submitted: '2014'

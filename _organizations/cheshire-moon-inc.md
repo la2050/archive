@@ -66,15 +66,11 @@ ein: '80731426'
 zip: ''
 project_image: 'https://img.youtube.com/vi/mf0l7ocARFM/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102058'
 project_titles:
   - Dancescape Ed
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/DancescapeLA.html'
-  project_ids:
-    - '3102058'
   year_submitted:
     - '2013'
 year_submitted: '2013'

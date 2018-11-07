@@ -38,15 +38,11 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16972%252Fdisplay%252FPacesetter.jpg=c570x385
 project_video: ''
-project_ids:
-  - '3102081'
 project_titles:
   - A Passion at Risk
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Passion.html'
-  project_ids:
-    - '3102081'
   year_submitted:
     - '2013'
 year_submitted: '2013'

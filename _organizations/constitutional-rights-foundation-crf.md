@@ -19,8 +19,6 @@ ein: '952219680'
 zip: '90005'
 project_image: 'https://img.youtube.com/vi/I85PHrZjakM/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102048'
 project_titles:
   - >-
     Practicing Good CITYzenship: Today’s Civic Action Project Builds Prosocial
@@ -28,8 +26,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/CivicActionProject.html'
-  project_ids:
-    - '4102022'
   year_submitted:
     - '2014'
 year_submitted: '2014'

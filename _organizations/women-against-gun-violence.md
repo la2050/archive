@@ -15,18 +15,12 @@ ein: '954738754'
 zip: '90034'
 project_image: 'https://img.youtube.com/vi/ez1sypeq2hI/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102104'
-  - '3102274'
 project_titles:
   - SLAM GUN VIOLENCE
   - The TALK Project
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/SLAM.html'
-  project_ids:
-    - '4102186'
-    - '3102274'
   year_submitted:
     - '2014'
     - '2013'

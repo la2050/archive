@@ -24,15 +24,11 @@ ein: '954635737'
 zip: '90047'
 project_image: 'https://img.youtube.com/vi/ERxmCic5y3o/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102282'
 project_titles:
   - 'Communities Building Resilience: South LA'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/buildingresilienceLA.html'
-  project_ids:
-    - '5102282'
   year_submitted:
     - '2015'
 year_submitted: '2015'

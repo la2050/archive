@@ -22,8 +22,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3020056105741-team91.jpeg
 project_video: ''
-project_ids:
-  - '6102269'
 project_titles:
   - >-
     Ending generational cycles of poverty through urban youth and community
@@ -35,8 +33,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/ending-generational-cycles-of-poverty-through-urban-youth-and-community-development-programs
-  project_ids:
-    - '6102269'
   year_submitted:
     - '2016'
 year_submitted: '2016'

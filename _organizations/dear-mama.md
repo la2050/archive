@@ -18,16 +18,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1708382065741-team91.jpg
 project_video: ''
-project_ids:
-  - '6102116'
 project_titles:
   - Helping L.A. Live Healthier One Taco at a Time!
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/helping-l-a-live-healthier-one-taco-at-a-time!
-  project_ids:
-    - '6102116'
   year_submitted:
     - '2016'
 year_submitted: '2016'

@@ -62,15 +62,11 @@ ein: '952211661'
 zip: ''
 project_image: 'https://img.youtube.com/vi/9PUd4G27uNk/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102162'
 project_titles:
   - Departures Youth Voices Mobile Classroom
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/youthvoicesmobile.html'
-  project_ids:
-    - '3102162'
   year_submitted:
     - '2013'
 year_submitted: '2013'

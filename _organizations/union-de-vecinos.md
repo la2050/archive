@@ -98,15 +98,11 @@ ein: '522076978'
 zip: ''
 project_image: 'https://img.youtube.com/vi/Ih-cjiooJ3M/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102264'
 project_titles:
   - DIY Social Spaces
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/UVLA.html'
-  project_ids:
-    - '3102264'
   year_submitted:
     - '2013'
 year_submitted: '2013'

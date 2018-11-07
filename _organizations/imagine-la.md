@@ -22,9 +22,6 @@ ein: '204637089'
 zip: '90265'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/imagine-la.jpg'
 project_video: 'https://www.youtube.com/watch?v=RBbjWQRI1Lc'
-project_ids:
-  - '8102054'
-  - '6102102'
 project_titles:
   - 'Intersections: The power of our common stories.'
   - Volunteer and be a Part of the Solution to Family Homelessness
@@ -33,9 +30,6 @@ aggregated:
     - 'https://activation.la2050.org/connect/imagine-la/'
     - >-
       https://challenge.la2050.org/entry/volunteer-and-be-a-part-of-the-solution-to-family-homelessness
-  project_ids:
-    - '8102054'
-    - '6102102'
   year_submitted:
     - '2018'
     - '2016'

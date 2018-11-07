@@ -15,9 +15,6 @@ ein: '954773654'
 zip: '90005'
 project_image: 'https://img.youtube.com/vi/TlilAMszJEs/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102213'
-  - '3102247'
 project_titles:
   - 'Everybody Dance!: Transforming Lives Through High-Quality Dance Education'
   - >-
@@ -29,9 +26,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/dance.html'
-  project_ids:
-    - '4102169'
-    - '3102247'
   year_submitted:
     - '2014'
     - '2013'

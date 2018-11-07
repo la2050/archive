@@ -20,8 +20,6 @@ zip: '90016'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21055%252Fdisplay%252FWashington_Square.JPG=c570x385
 project_video: ''
-project_ids:
-  - '4102002'
 project_titles:
   - >-
     Historic district boulevard beautification restoration & economic
@@ -29,8 +27,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/3boulevards.html'
-  project_ids:
-    - '4102004'
   year_submitted:
     - '2014'
 year_submitted: '2014'

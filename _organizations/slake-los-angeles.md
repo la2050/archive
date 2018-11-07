@@ -22,15 +22,11 @@ ein: '181608474'
 zip: ''
 project_image: 'https://img.youtube.com/vi/CDJnJMrwko8/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102233'
 project_titles:
   - 'Slake: Los Angeles'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/slakelosangeles.html'
-  project_ids:
-    - '3102233'
   year_submitted:
     - '2013'
 year_submitted: '2013'

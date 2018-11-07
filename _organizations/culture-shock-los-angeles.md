@@ -20,15 +20,11 @@ ein: '311796801'
 zip: '94611'
 project_image: 'https://img.youtube.com/vi/wmExJ7xdKYc/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102079'
 project_titles:
   - 'C3: Center for Connecting the Community '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/C3.html'
-  project_ids:
-    - '5102080'
   year_submitted:
     - '2015'
 year_submitted: '2015'

@@ -22,14 +22,11 @@ zip: '90089'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23218%252Fdisplay%252FCabrillo_High_School_Campus.JPG=c570x385
 project_video: ''
-project_ids:
-  - '5102206'
 project_titles:
   - Lifelong Mentoring for All
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/MentorMint.html'
-  project_ids: []
   year_submitted:
     - '2015'
 year_submitted: '2015'

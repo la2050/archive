@@ -21,8 +21,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4863691455741-team91.jpg
 project_video: ''
-project_ids:
-  - '6102026'
 project_titles:
   - >-
     Cleantech 2 Edtech: LA schools save energy as students and startups
@@ -31,8 +29,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/cleantech-2-edtech-la-schools-save-energy-as-students-and-startups-implement-cleantech-innovations
-  project_ids:
-    - '6102026'
   year_submitted:
     - '2016'
 year_submitted: '2016'

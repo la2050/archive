@@ -21,15 +21,11 @@ zip: '20002'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/lumos-transforms.jpg
 project_video: ''
-project_ids:
-  - '8102078'
 project_titles:
   - '#ResilientLA: Building Healthy Individuals, Organizations, and Communities'
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/lumos-transforms/'
-  project_ids:
-    - '8102078'
   year_submitted:
     - '2018'
 year_submitted: '2018'

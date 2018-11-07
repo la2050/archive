@@ -21,8 +21,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1862313165741-team91.jpg
 project_video: ''
-project_ids:
-  - '6102041'
 project_titles:
   - >-
     #VoteTogether: Let's Use Music, Food, and Art to Make Voting a Moment of
@@ -31,8 +29,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/votetogether-lets-use-music-food-and-art-to-make-voting-a-moment-of-community-celebration
-  project_ids:
-    - '6102041'
   year_submitted:
     - '2016'
 year_submitted: '2016'

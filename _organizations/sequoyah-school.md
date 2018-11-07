@@ -21,16 +21,12 @@ zip: '91105'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23515%252Fdisplay%252FDSC_0342.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102265'
 project_titles:
   - 'Sequoyah High School '
   - Sequoyah High School
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/seq.html'
-  project_ids:
-    - '5102265'
   year_submitted:
     - '2015'
 year_submitted: '2015'

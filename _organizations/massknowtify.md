@@ -21,8 +21,6 @@ ein: '463345611'
 zip: '90049'
 project_image: 'https://img.youtube.com/vi/ql6hxsjKMCQ/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102141'
 project_titles:
   - >-
     MassKnowtify: Connecting local governments to citizens and communities
@@ -30,7 +28,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/MassKnowtify.html'
-  project_ids: []
   year_submitted:
     - '2014'
 year_submitted: '2014'

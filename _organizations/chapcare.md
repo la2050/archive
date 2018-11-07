@@ -19,14 +19,10 @@ zip: '91103'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21436%252Fdisplay%252FMarch_31_2014_at_5pm.jpeg=c570x385
 project_video: ''
-project_ids:
-  - '4102220'
 project_titles:
   - Spreading ChapCare's Retail Health Insurance Enrollment Shop Model
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102121'
   year_submitted:
     - '2014'
 year_submitted: '2014'

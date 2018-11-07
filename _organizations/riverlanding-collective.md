@@ -76,8 +76,6 @@ ein: '900627151'
 zip: ''
 project_image: 'https://img.youtube.com/vi/_8WrWZXDKdQ/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102090'
 project_titles:
   - >-
     RiverLAnding : An expedition to prototype a “landing” on the banks of the
@@ -85,8 +83,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LARiverLanding.html'
-  project_ids:
-    - '3102090'
   year_submitted:
     - '2013'
 year_submitted: '2013'

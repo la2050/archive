@@ -21,14 +21,11 @@ ein: '465504858'
 zip: '91324'
 project_image: 'https://img.youtube.com/vi/0qhd1kRJ698/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102207'
 project_titles:
   - The Microenterprise Program
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/Microenterprise.html'
-  project_ids: []
   year_submitted:
     - '2015'
 year_submitted: '2015'

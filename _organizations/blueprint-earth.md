@@ -20,8 +20,6 @@ ein: '463558470'
 zip: '91789'
 project_image: 'https://img.youtube.com/vi/H-S2LiQcO00/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102031'
 project_titles:
   - >-
     Blueprint Earth is Making Los Angeles the Environmental Science Capital of
@@ -29,8 +27,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/blueprintearth.html'
-  project_ids:
-    - '5102031'
   year_submitted:
     - '2015'
 year_submitted: '2015'

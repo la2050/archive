@@ -21,8 +21,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6262793265741-team89.jpg
 project_video: 'https://www.youtube.com/embed/_1nAIfTqGIc?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102031'
 project_titles:
   - >-
     To Lift All Boats: The Amazing Untold Story of L.A.'s Economic Opportunity
@@ -31,8 +29,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/to-lift-all-boats-the-amazing-untold-story-of-l-a-s-economic-opportunity-change-makers
-  project_ids:
-    - '6102031'
   year_submitted:
     - '2016'
 year_submitted: '2016'

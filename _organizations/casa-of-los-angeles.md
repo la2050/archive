@@ -22,11 +22,6 @@ zip: '90068'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/casa-of-los-angeles.jpg
 project_video: 'https://youtu.be/nUykHHtLIHo'
-project_ids:
-  - '8102014'
-  - '6102032'
-  - '5102043'
-  - '4102031'
 project_titles:
   - Be a Voice for LA's Foster Care Children!
   - Be the Voice of LA's Foster Care Children!
@@ -41,11 +36,6 @@ aggregated:
       https://challenge.la2050.org/entry/college-collaborative-for-foster-care-youth
     - 'http://maker.good.is/myla2050connect2015/projects/casalosangeles.html'
     - 'http://maker.good.is/myLA2050connect/projects/casaofla.html'
-  project_ids:
-    - '8102014'
-    - '6102032'
-    - '5102043'
-    - '4102247'
   year_submitted:
     - '2018'
     - '2016'

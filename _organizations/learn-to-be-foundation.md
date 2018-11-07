@@ -51,8 +51,6 @@ ein: '261919770'
 zip: ''
 project_image: 'https://img.youtube.com/vi/RuF86dH0Bag/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102178'
 project_titles:
   - >-
     Crowdsourcing Education To Provide Free, One-on-one, Online Tutoring For
@@ -63,8 +61,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ltb.html'
-  project_ids:
-    - '3102178'
   year_submitted:
     - '2013'
 year_submitted: '2013'

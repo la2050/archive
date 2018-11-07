@@ -41,15 +41,11 @@ ein: '908738355'
 zip: ''
 project_image: 'https://img.youtube.com/vi/n_itMCVl124/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102045'
 project_titles:
   - f2 FutureFest LA
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/f2futurefest.html'
-  project_ids:
-    - '3102045'
   year_submitted:
     - '2013'
 year_submitted: '2013'

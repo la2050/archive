@@ -22,15 +22,11 @@ zip: '33062'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22532%252Fdisplay%252FWP1_Logo_new.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102261'
 project_titles:
   - Transforming Communities for Peace
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/peace.html'
-  project_ids:
-    - '4102108'
   year_submitted:
     - '2014'
 year_submitted: '2014'

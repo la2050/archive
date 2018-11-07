@@ -23,17 +23,11 @@ ein: '954302067'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/WjnYc_5sRG8/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102066'
-  - '4102013'
 project_titles:
   - Climate Cents
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ClimateCents.html'
-  project_ids:
-    - '5102066'
-    - '4102194'
   year_submitted:
     - '2015'
     - '2014'

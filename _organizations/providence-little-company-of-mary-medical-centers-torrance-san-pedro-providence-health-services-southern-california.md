@@ -17,14 +17,10 @@ ein: '510224944'
 zip: '90505'
 project_image: 'https://img.youtube.com/vi/S_0nE1f2B1w/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102174'
 project_titles:
   - Creating Opportunities For Physical Activity (COPA) - Peer Coach PE Program
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102160'
   year_submitted:
     - '2014'
 year_submitted: '2014'

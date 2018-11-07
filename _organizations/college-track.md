@@ -21,11 +21,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4013598065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/3R34MzY6_dM?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102047'
-  - '5102071'
-  - '4102043'
-  - '3102082'
 project_titles:
   - College Track
   - 'College Track: Creating a Pathway to College in Boyle Heights'
@@ -40,11 +35,6 @@ aggregated:
       https://challenge.la2050.org/entry/college-track-developing-purpose-driven-leaders-to-transform-la
     - 'http://maker.good.is/myla2050learn2015/projects/iamCollegeTrack.html'
     - 'http://maker.good.is/myla2050/projects/iamcollegetrack.html'
-  project_ids:
-    - '6102047'
-    - '5102071'
-    - '4102224'
-    - '3102082'
   year_submitted:
     - '2016'
     - '2015'

@@ -15,18 +15,12 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24144%252Fdisplay%252FShannonTaTLA2050.jpeg=c570x385
 project_video: ''
-project_ids:
-  - '5102317'
-  - '4102234'
 project_titles:
   - School is Cool initiative
   - Thinking about Tomorrow is making School Cool!
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/SchoolisCool.html'
-  project_ids:
-    - '5102317'
-    - '4102217'
   year_submitted:
     - '2015'
     - '2014'

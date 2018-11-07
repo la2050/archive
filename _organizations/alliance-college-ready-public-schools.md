@@ -21,9 +21,6 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20500%252Fdisplay%252F2013_Graduation_Luskin_Academy_(54).jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102004'
-  - '3102011'
 project_titles:
   - Alliance College-Ready Public Schools - BLAST
   - Alliance Mentoring Program (AMP)
@@ -31,9 +28,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/BLAST.html'
-  project_ids:
-    - '3102011'
-    - '3102011'
   year_submitted:
     - '2014'
     - '2013'

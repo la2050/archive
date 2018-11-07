@@ -23,15 +23,11 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5792245165741-team88.jpg
 project_video: 'https://www.youtube.com/embed/Jmdk4Z5cMIc?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102104'
 project_titles:
   - Agency of Assets
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/agency-of-assets'
-  project_ids:
-    - '6102104'
   year_submitted:
     - '2016'
 year_submitted: '2016'

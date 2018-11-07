@@ -20,8 +20,6 @@ zip: '90012'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/science-academy-for-all.jpg
 project_video: ''
-project_ids:
-  - '8102106'
 project_titles:
   - >-
     New Obesity War (NOW) led by mentor trained kids to change the lifestyle of
@@ -29,8 +27,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/science-academy-for-all/'
-  project_ids:
-    - '8102106'
   year_submitted:
     - '2018'
 year_submitted: '2018'

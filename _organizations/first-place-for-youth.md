@@ -21,8 +21,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3278819955741-team89.jpg
 project_video: ''
-project_ids:
-  - '6102068'
 project_titles:
   - >-
     First Place: Providing at-risk foster youth with the skills they need to be
@@ -31,8 +29,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/first-place-providing-at-risk-foster-youth-with-the-skills-they-need-to-be-college-and-career-ready
-  project_ids:
-    - '6102068'
   year_submitted:
     - '2016'
 year_submitted: '2016'

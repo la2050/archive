@@ -22,9 +22,6 @@ ein: '951890769'
 zip: '91436'
 project_image: 'https://img.youtube.com/vi/z7nrpaONjUI/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102220'
-  - '3102204'
 project_titles:
   - 'Fermenting Change: Connecting Los Angeles through food and faith'
   - 'Project 10: Tithing Urban Harvests Growing Community Food Security'
@@ -32,10 +29,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/fermentingchange.html'
     - 'http://maker.good.is/myla2050/projects/Project10.html'
-  project_ids:
-    - '5102220'
-    - '4102207'
-    - '3102204'
   year_submitted:
     - '2015'
     - '2014'

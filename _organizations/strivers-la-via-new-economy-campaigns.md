@@ -15,16 +15,11 @@ ein: '452991222'
 zip: '90026'
 project_image: 'https://img.youtube.com/vi/lz8FDz2KN0s/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102202'
 project_titles:
   - Strivers.LA - digital tools for student success
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/striversLA.html'
-  project_ids:
-    - '5102095'
-    - '3102100'
   year_submitted:
     - '2014'
     - '2013'

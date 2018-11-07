@@ -19,8 +19,6 @@ zip: '16428'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21319%252Fdisplay%252FGENE_pic.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102084'
 project_titles:
   - >-
     Through education, communication & understanding we can make a difference in
@@ -30,7 +28,6 @@ project_titles:
     LA...its in our GENE!
 aggregated:
   challenge_url: []
-  project_ids: []
   year_submitted:
     - '2014'
 year_submitted: '2014'

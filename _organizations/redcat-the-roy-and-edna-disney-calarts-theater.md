@@ -30,8 +30,6 @@ ein: '956102146'
 zip: ''
 project_image: 'https://img.youtube.com/vi/VpqSppE8ppo/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102227'
 project_titles:
   - >-
     RADAR L.A. International Theater Festival; A vital investment in L.A.Theater
@@ -39,8 +37,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/RADARLA2013.html'
-  project_ids:
-    - '3102227'
   year_submitted:
     - '2013'
 year_submitted: '2013'

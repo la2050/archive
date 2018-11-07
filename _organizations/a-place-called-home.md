@@ -23,15 +23,11 @@ ein: '954427291'
 zip: '90011'
 project_image: 'https://img.youtube.com/vi/wzFv5uV3pew/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102006'
 project_titles:
   - Play for Life in South LA
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/PlayinSouthLA.html'
-  project_ids:
-    - '5102006'
   year_submitted:
     - '2015'
 year_submitted: '2015'

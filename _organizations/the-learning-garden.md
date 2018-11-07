@@ -38,8 +38,6 @@ ein: '203602931'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
-project_ids:
-  - '3102252'
 project_titles:
   - 'Gardens, Gardens - Everywhere!'
   - The Learning Garden
@@ -47,8 +45,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Gardens.html'
-  project_ids:
-    - '3102252'
   year_submitted:
     - '2013'
 year_submitted: '2013'

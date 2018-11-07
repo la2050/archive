@@ -40,8 +40,6 @@ ein: '237360521'
 zip: ''
 project_image: 'https://img.youtube.com/vi/LDkB_pxZu2k/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102239'
 project_titles:
   - >-
     Streetcraft: where street hustlers and tag bangers become creative economy
@@ -49,8 +47,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/streetcraft.html'
-  project_ids:
-    - '3102239'
   year_submitted:
     - '2013'
 year_submitted: '2013'

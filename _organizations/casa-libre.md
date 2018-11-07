@@ -20,15 +20,11 @@ ein: '954609414'
 zip: '90057'
 project_image: 'https://img.youtube.com/vi/20ErlmkuIfQ/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102042'
 project_titles:
   - ACCESS TO EDUCATION FOR ALL!!!!
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CasaLibre.html'
-  project_ids:
-    - '5102042'
   year_submitted:
     - '2015'
 year_submitted: '2015'

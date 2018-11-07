@@ -25,8 +25,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0478134165741-team90.png
 project_video: 'https://www.youtube.com/embed/BUNdHYAuc-o?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102275'
 project_titles:
   - >-
     LA CitySense: Citizen engagement in collection of air quality data for
@@ -35,8 +33,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/la-citysense-citizen-engagement-in-collection-of-air-quality-data-for-improvement-of-public-health
-  project_ids:
-    - '6102275'
   year_submitted:
     - '2016'
 year_submitted: '2016'

@@ -16,14 +16,11 @@ ein: '471474363'
 zip: '90021'
 project_image: 'https://img.youtube.com/vi/o1W8HEqylCg/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102226'
 project_titles:
   - Play With Music Platform (PWMP)
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/PlayWithMusic.html'
-  project_ids: []
   year_submitted:
     - '2014'
 year_submitted: '2014'

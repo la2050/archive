@@ -21,15 +21,11 @@ ein: '453220205'
 zip: '90266'
 project_image: 'https://img.youtube.com/vi/5-OvAiMBAFc/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102283'
 project_titles:
   - the EcoBoard Project
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/ecoboardsLA.html'
-  project_ids:
-    - '5102283'
   year_submitted:
     - '2015'
 year_submitted: '2015'

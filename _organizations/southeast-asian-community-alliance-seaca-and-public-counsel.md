@@ -21,17 +21,12 @@ ein: '452156435'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102195'
 project_titles:
   - 'LA Riverworks: A Vision to Engage LA Communities in River Revitalization'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/LARiverworks.html'
     - 'http://maker.good.is/myLA2050connect/projects/LosAngelesRiverworks.html'
-  project_ids:
-    - '5102275'
-    - '4102213'
   year_submitted:
     - '2015'
     - '2014'

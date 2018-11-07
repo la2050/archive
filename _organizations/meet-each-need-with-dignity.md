@@ -15,14 +15,10 @@ ein: '237306337'
 zip: '91331'
 project_image: 'https://img.youtube.com/vi/A3zOCbnCHLg/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102020'
 project_titles:
   - The Pathway
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102153'
   year_submitted:
     - '2014'
 year_submitted: '2014'
