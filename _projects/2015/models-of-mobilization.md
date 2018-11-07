@@ -23,8 +23,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: The Goldhirsch Foundation & we entered the 2014 Challenge
   Organization(s) name(s): TreePeople
   Organization(s) mailing address(es): "12601 Mulholland Drive\r\nBeverly Hills, CA  90210"
   Organization(s) website(s): www.treepeople.org
@@ -77,7 +77,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: The Goldhirsch Foundation & we entered the 2014 Challenge
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -162,14 +162,6 @@ maker_answers:
     and species of trees planted.  
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "TreePeople has led much of the effort to capture stormwater at the parcel level since the 1990s – work that is now coming to notable fruition. A Multi-Agency Collaborative (MAC), initiated and facilitated by TreePeople is focused on integrated management to capture stormwater in a distributed, decentralized way (see Partners section).  Supporting this are results of the Stormwater Capture Master Plan, completed in 2015 as a result of TreePeople’s partnership with LA Dept. of Water & Power.  Both the MAC and the Master Plan highlight the need for distributed stormwater capture at homes and schools in order to build a local water supply over the next 20 years.\r\n\r\nWe are taking a comprehensive approach to the issues of water supply and tree canopy, partnering with and training neighborhood councils, industry professionals, and home improvement stores to create a holistic nexus of support that will reach a maximum number of community members who will what they need to make water-friendly changes to their homes.   This network will create a groundswell of “innovators”, which will lead to a large mobilization of the public to capture rainwater at home.  \r\n\r\nTreePeople’s comprehensive emphasis on both policy change and community engagement – a “top-down and bottom-up approach” is rare among environmental organizations.  TreePeople’s role as a leader that coalesces people and guides them to take responsibility for their own homes, schools, and neighborhoods is unique.  Nobody that we know in LA can fill those shoes at the present time.  \r\n\r\nThat said, we believe strongly that sustainability is achievable only with an engaged, committed, educated, and prepared populace and we must work in partnership with other environmental and community organizations as well as government agencies in order to do so.   TreePeople is the only nonprofit in LA that is touching upon all audiences – the schools, government agencies, corporate partners, the media and the general public – to drive change toward rainwater harvesting as well as a healthy tree canopy.  There are other organizations, that are focused on planting and caring for trees and we often work together on a project basis - such as City Plants, Northeast Trees, and LA Conservation Corps.  We also work regularly on water policy issues with Heal the Bay and Council for Watershed Health.\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "TreePeople’s partners are critical to its work, as they are the vehicle that moves our ideas forward.  The philosophy of all of TreePeople’s programs is to engender a sense of personal responsibility to care for the environment, which is the best way to influence long-term environmental stewardship.  To that end, our most important partners are those who connect us to the people of Los Angeles.  These include the Neighborhood Council Sustainability Alliance, Communities for a Better Environment, Pacoima Beautiful, and hundreds of K-12 school campuses.  \r\n\r\nTreePeople is leading a revolution in water conservation in Los Angeles, through a Multi-Agency Collaboration (MAC) with the three leading water agencies: LA Dept. of Water & Power, and LA County and LA City Public Works Departments.  Other strategic relationships, including MOUs or other contracts, have been established with multiple government agencies including LA Unified School District Office of Sustainability, Metro Area Transit, US Forest Service (Angeles Forest), City of LA Dept. of Recreation & Parks, and City of Huntington Park.  Industry and corporate partners include Tetra Tech, ARCSA (rainwater catchment professionals) and Macerich Malls. \r\n\r\nOur community-based partners play an important role in the pilot, as they provide the milieu for our outreach efforts and they essentially have a ready-made constituency with clearly defined sociological indices.  At the community level, TreePeople will provide trainings to homeowners, school children and water industry professionals. To do so, we are partnering with home improvement stores and retail malls, the American Rainwater Catchment Systems Association (ARCSA), plumbers’ union, and the Neighborhood Council Sustainability Alliance.  Trainings will give audiences vital understanding of new technologies and practices related to landscape transformation, cistern installation and care, and proper use of multiple forms of water.  \r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The lean budget to carry out Models of Mobilization in the two communities
-    is $305,000.  The supportive elements, including policy and systemic policy
-    work, along with work with the schools, increases the comprehensive and
-    supportive budget to $1,030,000.  We have funding for most of the supportive
-    elements but are seeking funds from the LA2050 Challenge to launch the pilot
-    project in the communities of Huntington Park and Pacoima.  
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "TreePeople\t\r\nModels of Mobilization Budget\t\r\n\t\r\nEXPENSES\t\r\nSalaries\t                                                      150,000\r\nCommunications\t                                50,000\r\nCommunity-Based Social Marketing\t15,000\r\nMaterials/ program costs\t                        35,000\r\nCapital outlay (tech and displays)\t        25,000\r\nConsultants/ technical support\t        30,000\r\nTOTAL PROJECT COST\t                      305,000\r\n\t\r\nREVENUE\t\r\nLeonardo Di Caprio Foundation\t      100,000\r\nLA2050 (pending)\t                              100,000\r\nMacerich\t                                                55,000\r\nThe Boeing Company\t                        50,000\r\nTOTAL REVENUE\t                              305,000\r\n"
   How do you plan to scale the success of your proposal?: "The Models of Mobilization pilot-to-scale project will determine the best ways to mobilize LA communities most impacted by environmental justice issues to protect their health and make livable neighborhoods by adopting eco-friendly behavior in relation to trees and water.  Because we believe strongly that the only way to ensure LA becomes more sustainable is to lead people in taking personal responsibility for the environment, we have designed this project to create turnkey models based on socioeconomic, geographic, and environmental characteristics.  These models will then be ready to be applied in communities with similar characteristics. \r\n\r\nTo support scaling, the MAC is also bringing the public water agencies together to determine how to achieve similar goals at the systemic level. The MAC is helping to break down walls that have existed between these agencies – and their budgets – for decades.  The long-term results could include more efficiency in resource management, along with funding to support community-based and home-based projects in our region that provide multiple benefits for the public, including water security, water quality, flood protection, energy efficiency, access to green space and local jobs.\r\n\r\nScaling efforts will combine the data and models produced by this project with our “success formula” which multiplies the following: (a) Educating and engaging people with nature-based solutions (landscape transformation, rainwater capture, etc);  (b) Developing and implementing communications tools and strategies to mobilize a critical mass;  (c) Creating partnerships at the community and systemic levels for better urban ecosystem management;  (d) Drive policy changes that promote green infrastructure at all government levels.  \r\n\r\nMuch of TreePeople’s community-based work is focused on environmental justice areas, where pollution is high, eco-assets are low, and socioeconomic challenges are immense.  When people think of human rights, they often think of civil liberties, workplace protections, and the right to happiness.  Trees and water aren’t what usually come to mind.  But it is trees and water – and their many benefits – that have a tremendous impact on wellness and health.  Bringing people together for community projects that raise the environmental assets makes neighborhoods cleaner, healthier, and more livable.  \r\n"
 areas_impacted: ''
 partners: ''
@@ -258,32 +250,6 @@ Are there other organizations doing similar work (whether complementary or compe
    TreePeople is leading a revolution in water conservation in Los Angeles, through a Multi-Agency Collaboration (MAC) with the three leading water agencies: LA Dept. of Water & Power, and LA County and LA City Public Works Departments. Other strategic relationships, including MOUs or other contracts, have been established with multiple government agencies including LA Unified School District Office of Sustainability, Metro Area Transit, US Forest Service (Angeles Forest), City of LA Dept. of Recreation & Parks, and City of Huntington Park. Industry and corporate partners include Tetra Tech, ARCSA (rainwater catchment professionals) and Macerich Malls. 
    
    Our community-based partners play an important role in the pilot, as they provide the milieu for our outreach efforts and they essentially have a ready-made constituency with clearly defined sociological indices. At the community level, TreePeople will provide trainings to homeowners, school children and water industry professionals. To do so, we are partnering with home improvement stores and retail malls, the American Rainwater Catchment Systems Association (ARCSA), plumbers’ union, and the Neighborhood Council Sustainability Alliance. Trainings will give audiences vital understanding of new technologies and practices related to landscape transformation, cistern installation and care, and proper use of multiple forms of water.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The lean budget to carry out Models of Mobilization in the two communities is
-  $305,000. The supportive elements, including policy and systemic policy work,
-  along with work with the schools, increases the comprehensive and supportive
-  budget to $1,030,000. We have funding for most of the supportive elements but
-  are seeking funds from the LA2050 Challenge to launch the pilot project in the
-  communities of Huntington Park and Pacoima.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  TreePeople 
-   Models of Mobilization Budget 
-   
-   EXPENSES 
-   Salaries  150,000
-   Communications  50,000
-   Community-Based Social Marketing 15,000
-   Materials/ program costs  35,000
-   Capital outlay (tech and displays)  25,000
-   Consultants/ technical support  30,000
-   TOTAL PROJECT COST  305,000
-   
-   REVENUE 
-   Leonardo Di Caprio Foundation  100,000
-   LA2050 (pending)  100,000
-   Macerich  55,000
-   The Boeing Company  50,000
-   TOTAL REVENUE  305,000
 How do you plan to scale the success of your proposal?: >-
   The Models of Mobilization pilot-to-scale project will determine the best ways
   to mobilize LA communities most impacted by environmental justice issues to

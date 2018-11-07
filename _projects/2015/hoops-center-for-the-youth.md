@@ -19,8 +19,8 @@ project_areas:
   - San Fernando Valley
   - County of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, Ca'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: An email from Sherita Herring
   Organization(s) name(s): Pass Tha Ball
   Organization(s) mailing address(es): "300 S. Santa Fe apt#519\r\nLos Angeles, Ca 90013"
   Organization(s) website(s): www.passthaball.com
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  'City, State': 'Los Angeles, Ca'
+  How did you hear about this challenge?: An email from Sherita Herring
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -152,8 +152,6 @@ maker_answers:
     the area that will be $500-1000( depends on out of state). Also local
     college basketball programs and will look to hire their players/athletes
     during the off season to come and work with the youth. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'This will be right on target $95,000-100,000'
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$30,000 for wood flooring (two courts) \r\n$20,000 equipment (balls, basketball goals, weights, accessories). $7,000($600 a month) Healthy Snacks/Food/Beverages. \r\nBuilding rental fees/amenities $3,000 a month $36,000/yr. \r\n$5000 for basketball trainers\r\n$100,000 will meet our budget"
   How do you plan to scale the success of your proposal?: >-
     Making sure our overhead is kept low, keep creating new ways to engage the
     youth. Continue having great relationships with parents making sure their
@@ -200,13 +198,6 @@ Are there other organizations doing similar work (whether complementary or compe
   the area that will be $500-1000( depends on out of state). Also local college
   basketball programs and will look to hire their players/athletes during the
   off season to come and work with the youth.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'This will be right on target $95,000-100,000'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  $30,000 for wood flooring (two courts) 
-   $20,000 equipment (balls, basketball goals, weights, accessories). $7,000($600 a month) Healthy Snacks/Food/Beverages. 
-   Building rental fees/amenities $3,000 a month $36,000/yr. 
-   $5000 for basketball trainers
-   $100,000 will meet our budget
 How do you plan to scale the success of your proposal?: >-
   Making sure our overhead is kept low, keep creating new ways to engage the
   youth. Continue having great relationships with parents making sure their

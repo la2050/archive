@@ -15,8 +15,8 @@ project_areas:
   - SOUTH LA
   - WESTSIDE
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: 'Los Angeles, CA'
   org_website: www.would-works.com
   org_twitter: '@WouldWorks1'
   org_facebook: 'https://www.facebook.com/pages/WOULD-WORKS/216415171803596'
@@ -83,7 +83,7 @@ maker_answers:
   org_name: Would-Works
   metrics_create_arts: '0'
   metrics_create_manufacturing: '1'
-  metrics_create_researchgrant: '0'
+  city_state: 'Los Angeles, CA'
   metrics_create_patents: '0'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '0'
@@ -116,19 +116,6 @@ maker_answers:
     or ten-fold growth.  
   major_challenges: "Two major barriers to Would-Works growth have been:\r\n-Having permanent workspace\r\n-Developing new products\r\n\r\nBecause of its bootstrapped beginnings, Would-Works has been holding Pop-Up Workshops in an on-demand basis at donated space in Skid Row.  Though this has been effective, the lack of structure and permanence has been a frustration for founders and occasional confusion for Artisans who already deal with a significant amount of impermanence.  With dedicated space Would-Works will be a better-known part of the community.  Artisans and potential Artisans can stop by and learn of scheduled workshops.  Dedicated space will also help with publicity and funding, as those interested in the concept will know where to find Would-Works. \r\n\r\nProduct development and sales is a constant need for Would-Works.  Current products include:\r\n-Three different sizes of cutting boards\r\n-Kubb lawn game\r\n-Bottle openers\r\n\r\nFuture products, including door openers (door stops), clipboards and bike crates are all in development.  An aggressive national sales campaign will make products available to a large audience. Additionally working with a designer to create new products for Would-Works will be integral to our growth. \r\n"
   competition: "No person in Los Angeles should be homeless. Would-Works believes this fact and focuses on providing an opportunity for individuals to work out of homelessness in a dignified way. Would-Works is one part of the larger context that it takes for an individual to end his/her homelessness. There is a large spectrum of assistance from shelters and basic service providers to permanent-supportive housing and employment providers. Would-Works is an essential part of the large fabric of providers; a bridge to larger goals involving housing and employment. By providing a work opportunity for an individual’s need then that person can work on larger goals around housing and potentially employment.\r\n\r\nThere are programs that hire formerly incarcerated individuals or former gang-members such as Chrysalis and Homeboy Industries, but Would-Works is a bridge to that sort of employment. Most of the men and women we work with have been unemployed or employed informally for many years, so have a formal job is a large step.\r\n\r\nWould-Works is taking a different approach than most other organizations. It is not assumed that it is known what every individual living in poverty needs; rather, each person tells Would-Works what they need. Would-Works helps identify goals and has Artisans state what they are working toward. At Would-Works, the individual Artisans are the ones who do the work of meeting their own needs, not the staff.\r\n"
-  cost: >-
-    The $100,000 will cover the costs to scale our operation and increase
-    revenue for sustained operations in the future.  Last year’s operating
-    budget was $7,000 and total revenue was $9,500. This reflects having Pop-Up
-    Workshops twice a month and selling products to local retail stores and
-    online. The LA2050 grant will allow operations to grow with more work
-    sessions and more products, which will allow us to work with more
-    individuals and have more Artisans achieve their goals. The $100,000 will
-    cover costs to scale for the next year, while working on increasing revenue
-    through sales and fundraising to sustain operations and grow. Staff
-    salaries, Artisan payments and other costs over the $100,000 will come from
-    increased product sales and fundraising. 
-  budget: "In order to increase the amount of men and women for whom Would-Works provides a work opportunity, it is necessary to focus on growth. Having a permanent workshop and increasing product offerings will offer great strides in achieving that growth.  A permanent workshop space will allow operations to be more efficient and have more Artisans working at any given time. This has a direct effect in an increase in the amount of products produced and sold, meaning more men and women hired. Our second focus will also be on creating new products with quality design.\r\n\r\nBudget Items  \r\n                                 \r\nPermanent Work Space-$30,000\r\n• $12/sq. ft. for a year/500 sq. ft. for 5 years\r\n• Rent a small manufacturing space in downtown/Central City East\r\n\r\nWork Session Tools-$1,700\r\n• Many tools have been donated to Would-Works, but some additional tools are needed.\r\n• Sanders-$150 x 3= $450, air filtration system-$750, workbenches-$250 x 2=$500\r\n\r\nWork Space Build-Out-$4,000\r\n• Renovate and prepare permanent workspace\r\n• One-time renovation\r\n\r\nDesign Consultant-$20,000\r\n• Hire a product designer to design 5 new products\r\n• Payment: $100 per hour x 200 hours\r\n\r\nLos Angeles Manufacturing Director (part-time)-$9,600\r\n• Hire a woodworker to create the unfinished precuts for work sessions.\r\n• Train a current Artisan into the position\r\n• Payment: $20 per hour/10 hours per week for the first year\r\n\r\nWork Session Supervisor (part-time)-$7,200\r\n• Hire and train a current Artisan to become a supervisor during the works sessions and co-facilitate the sessions\r\n• Payment: $15 per hour x 10 hour per week for the first year\r\n\r\nSales Interns-$10,080\r\n• Hire sales interns to serve as brand ambassadors and increase store presence and sales.\r\n• Payment: $14 per hour x 20 hours per month each x 3 interns\r\n\r\nMarketing-$3,000\r\n• Increase and update marketing materials\r\n\r\nSales Expenses-$10,000\r\n• Sales expenses to increase national retail presence\r\n• Expenses for trade shows and a retail rep\r\n• Expense: $2,500 for trade shows x 2 shows, Sales rep $5,000\r\n\r\nOther Expenses-$4,420\r\n• Additional administrative expenses.\r\n\r\n\r\nTotal: $100,000\r\n\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

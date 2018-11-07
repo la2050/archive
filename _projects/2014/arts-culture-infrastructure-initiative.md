@@ -15,8 +15,8 @@ project_video: ''
 project_areas:
   - LA COUNTY
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: Los Angeles
   org_website: 'http://lastagealliance.com/'
   org_twitter: '@lastagealliance'
   org_facebook: facebook.com/lastagealliance
@@ -86,7 +86,7 @@ maker_answers:
   org_name: LA STAGE Alliance
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: Los Angeles
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '0'
@@ -127,8 +127,6 @@ maker_answers:
     ensure a fair and equitable facilitation of dialogue around our program
     development.
   competition: "LA STAGE Alliance recognizes a shift in the arts service landscape as well as a growing desire for performing arts organizations to recognize the evolving regional demographic landscape and we seek to redefine our role in this environment and context. Between the Theatrical Producers League of LA, and other ad hoc groups, LA Theater Network and Latino Theater Alliance and the merging of Pentacle and Dance Resource Center (in addition to the numerous panels on the subject of “diversity” on our stages and amidst our directors) the time is apt for a clarification and solidification of our role in the community. \r\n\r\nDue to the lack of resources in the arts and culture sector in Los Angeles, LA STAGE Alliance makes a concerted effort to avoid duplicating efforts wherever possible.  If there is another organization or another business that is providing a service similar to one we provide or which we are considering, then that greatly reduces our interest in providing that service.  Instead, we would prefer to divert those resources elsewhere to address another need of the sector that is currently not being fulfilled.\r\n\r\nDue to this strategic philosophy, we work to transform ‘competitors’ into ‘partners.’  For example, when Goldstar Tickets entered the LA market, they took a large percentage of the online discount ticket market that we were currently participating in with our program, LA STAGE Tix.  Despite that ‘competition’ and the corresponding loss of revenue to LA STAGE, we chose to embrace Goldstar as a partner, adjusting LA STAGE Tix to become a niche ticket outlet for theater specific events, while Goldstar grew into providing a more diverse host of entertainment options.  Goldstar also became a sponsor of LA STAGE and we have a mutually supportive relationship with them to this day.\r\n\r\nWe have similar relationships with other entities that operate in the same area that we do, from the Center for Cultural Innovation, the LA County Arts Commission, Los Angeles Times, Footlights Publishing and Bitter-Lemons.com.  With limited available resources and many challenges to address, there is plenty of room for anyone who wants to help forward LA’s cultural landscape and support the profusion of artists and arts organizations.  Therefore, our goal is to interface in the most mutually supportive manner with these other organizations.\r\n"
-  cost: "This project will cost $217,000.\r\n\r\nThe additional costs will be covered by grants from our ongoing supporters or any of our numerous earned income generating programs.\r\n\r\nBecause this work is a natural extension of our ongoing programming, we can easily include this work as an outcome for any subsequent general operating support grants.\r\n"
-  budget: "BUDGET:\r\nProject Management \t\t\t\t\t$50,000 ($50K match by LA STAGE)\r\nAdvocacy Training (contracted to Arts for LA)\t\t$25,000\r\nOutreach coordinator \t\t\t\t\t$10,000\r\nEvent coordination:\t\t\t\t\t$10,000\r\nCommunications:\t\t\t\t\t$5,000\r\nEvent Facilitation/Graphic Recording\t\t\t$5,000 (match by LA STAGE)\r\nMarketing/Promotional Materials \r\n(Printed and Mailed materials, in addition to online):\t$3,000 (match by LA STAGE)\r\nTechnology (computers, internet, phone, etc):\t\t$12,000 (match by LA STAGE)\r\nLegal Consultation:\t\t\t\t\t$2,000 (match by LA STAGE)\r\nOffice Space:\t\t\t\t\t\t$20,000 (match by LA STAGE)\r\nEvent Hospitality\t\t\t\t\t$10,000 (match by LA STAGE)\r\nTravel/Conference\t\t\t\t\t$10,000 (match by LA STAGE)\r\nAdministration/Accounting:\t\t\t\t$5,000 (match by LA STAGE)\r\n\r\nTOTAL BUDGET:\t\t\t\t\t\t$217,000 ($117,000 provided as match)\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

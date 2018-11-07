@@ -16,8 +16,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: One of last year's grantee who is also our supporter
   Organization(s) name(s): Los Angeles Fire Department Foundation
   Organization(s) mailing address(es): "1875 Century Park East, Suite 200\r\nLos Angeles, CA 90067"
   Organization(s) website(s): supportlafd.org
@@ -66,7 +66,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: One of last year's grantee who is also our supporter
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -149,8 +149,6 @@ maker_answers:
     they are also the beneficiary of the program. The LAFD Foundation will
     receive the funding, and LAUSD high school health classes will receive the
     services.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Costs are projected just under $100,000 for the first year.\r\nMany of the costs in the budget are start-up costs for the first year of the project. Expenses will go down in the second year.\r\n\r\nAdditional costs are being covered by the Los Angeles Fire Department. They are paying salaries and benefits of the coordinator and trainers. They are providing two vans, fuel, and maintenance to transport the trainers and equipment.\r\n\r\nBecause the department is short on vehicles, we will be looking for a donation of two new or late-model vans, but will be supported by LAFD in the interim."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Laptop computers (2)             $6079\r\nWireless mouse (2)                     134\r\niPads (2)                                     1399\r\nApple TVs (2)                               140\r\nProjectors (2)                             1099\r\nPortable PA system (2)             1099\r\nManequins (500)                     42,500\r\nCPR training mats (500)           2496\r\nPortable screens                       6239\r\nTotal materials                         61,190\r\nsales tax                                     5813\r\nCPR promotional video           15,000\r\npromotional/educational\r\n      materials                             10,000\r\nTOTAL budget                          92,000"
   How do you plan to scale the success of your proposal?: "With the success of this program, we envision working with other regional and city fire departments and non-profit organizations such as the Red Cross and National HART Foundation to expand the program into additional municipalities in the L.A. region. Moreover, the program could be replicated anywhere in the State of California or the United States, using our curriculum and materials. It is worth noting that the California legislature is reintroducing a bill that was defeated last session requiring CPR training in all high schools throughout the state. We are certain that every community would want this level of training, and we know that every firefighter and paramedic has the skills to do the training. Joining with fire departments and other public health organizations in California, we support legislation to mandate training throughout California and hope the High School CPR Training Program will serve as a cost-effective, efficient model for this anticipated new law.\r\n\r\nSaving lives is important. Giving teenagers the tools to save lives is empowering for them and good for the health of the community."
 areas_impacted: ''
 partners: ''
@@ -199,29 +197,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Our major partner is the Los Angeles Unified School District (LAUSD), and they
   are also the beneficiary of the program. The LAFD Foundation will receive the
   funding, and LAUSD high school health classes will receive the services.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': |-
-  Costs are projected just under $100,000 for the first year.
-   Many of the costs in the budget are start-up costs for the first year of the project. Expenses will go down in the second year.
-   
-   Additional costs are being covered by the Los Angeles Fire Department. They are paying salaries and benefits of the coordinator and trainers. They are providing two vans, fuel, and maintenance to transport the trainers and equipment.
-   
-   Because the department is short on vehicles, we will be looking for a donation of two new or late-model vans, but will be supported by LAFD in the interim.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Laptop computers (2) $6079
-   Wireless mouse (2) 134
-   iPads (2) 1399
-   Apple TVs (2) 140
-   Projectors (2) 1099
-   Portable PA system (2) 1099
-   Manequins (500) 42,500
-   CPR training mats (500) 2496
-   Portable screens 6239
-   Total materials 61,190
-   sales tax 5813
-   CPR promotional video 15,000
-   promotional/educational
-    materials 10,000
-   TOTAL budget 92,000
 How do you plan to scale the success of your proposal?: >-
   With the success of this program, we envision working with other regional and
   city fire departments and non-profit organizations such as the Red Cross and

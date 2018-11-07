@@ -12,8 +12,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: website
   Organization(s) name(s): Justice Lab
   Organization(s) mailing address(es): "450 Linnie Canal\r\nVenice, CA 90291"
   Organization(s) website(s): www.justicelab.net
@@ -53,7 +53,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: website
   'City, State': 'Venice, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -106,8 +106,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Data collection will occur at every stage of the RCLA process and will be ongoing as the would-be defendant progresses through the program. Therefore, opportunities for evaluation will arise at many points.\r\n\r\nFirst, evaluation will occur monthly as RCLA staff and the prosecuting agency review the data collected from the last month of RCLA operations. By analyzing data monthly, stakeholders can learn where crimes are happening, who is committing them, and discover patterns on a micro level.\r\n\r\nSecond, evaluation will occur once a year to develop a report detailing outcomes that RCLA participants have had, whether they have recidivated, and the effect that RCLA has had on the community through metrics such as community service hours completed by participants, and number of RCLA volunteers. "
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are several larger organizations that focus on criminal justice reform more generally, such as the Center for Court Innovation or the Vera Institute for Justice, but none are focused on diverting would-be defendants from the criminal justice system before charges are filed and then working to reconnect them back to their communities. \r\n\r\nOften when we think of reconnecting offenders to their communities, we think of prisoners reentering society after a period of incarceration. However, RCLA is innovative in that seeks to reconnect individuals who commit crimes before they ever step inside a courtroom. Reconnecting at this stage is critical because it provides benefits to all stakeholders in the criminal justice system, and also allows community leaders to get involved in a positive way. \r\n\r\nFurthermore, the RCLA program philosophy is uniquely Californian, based on a diversion model first implemented by the San Francisco District Attorney in 2010. A similar diversion program, the Neighborhood Justice Program, was created by Justice Lab founder Peter Borenstein for the Los Angeles City Attorney in 2014.\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "RCLA will partner with local prosecuting agencies to implement a diversion that involves local community leaders in dealing with low-level crime. The first phase of implementation will involve consulting with the prosecuting agency to design and implement an RCLA program. The second phase will involve making the RCLA program within the prosecuting agency self-sufficient through staffing and training. \r\n\r\nIn this second phase, LA2050 grant funds ($25,000) will be used for hiring and supporting case managers, with additional funding coming from outside sources to ensure that RCLA is properly staffed at each prosecuting agency.\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Justice Lab will oversee Phase 1 (Implementaton) with the local prosecuting agency over four months at a cost of $8,000 per month. Once RCLA has been implemented, it will require at least one compassionate, thorough, and detail oriented case manager to ensure that would-be defendants are being reconnected to their communities and volunteers are well-trained and effective. \r\n\r\nLA2050 grant money will be used to partially fund one case manager at each partner prosecuting agency ($25,000). Therefore, if RCLA is implemented in two prosecuting agencies, then $50,000 of the LA2050 grant will be used to partially fund two case managers' salaries. Additional costs will be covered by funding from outside sources, as well as the partner prosecuting agencies, although the ultimate goal will be to implement and hand off RCLA to our partner agencies at no cost."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Phase 1: Implementation - $8,000 per month per prosecuting agency, which includes recruiting and training community volunteers, and developing a network of services to ensure success in reconnecting would-be defendants.\r\n\r\nPhase 2: Hand off to Partner Agency - $25,000 per RCLA case manager in each prosecuting agency, with additional funding coming from outside sources such as foundations and individuals, as well as any support that the partner agency may be able to afford. \r\n\r\nPhase 3: Long-Term Sustainability of RCLA - an ongoing yearly commitment of $60,000 for each RCLA case manager in each prosecuting agency. To give a sense of how many case managers are required at any given prosecuting agency: If the prosecuting agency is able to divert 1,000 would-be defendants, then it would require at least five case managers to manage RCLA effectively."
   How do you plan to scale the success of your proposal?: "The success and scaling of RCLA depends on prosecuting agencies understanding the need for a diversion that involves community members in dealing with low-level property crimes and/or first-time offenders who have been disconnected from their communities. \r\n\r\nThe ultimate goal of the RCLA campaign would be to have every municipality that prosecutes its own misdemeanors in Los Angeles County to have some sort of RCLA program running, thereby maximizing the number of would-be defendants diverted from the criminal justice system . The inclusive, community-oriented model that RCLA is based on is naturally scaleable as long as there is funding for RCLA case managers. This is the one of the strengths of RCLA program design in response to a dire need: The criminal justice system simply has too many cases in order to be effective. Therefore, the only challenge that exists with regard to scaling is the willingness of prosecutors to try something new.\r\n"
 areas_impacted: ''
 partners: ''
@@ -163,22 +161,6 @@ Are there other organizations doing similar work (whether complementary or compe
   staffing and training. 
    
    In this second phase, LA2050 grant funds ($25,000) will be used for hiring and supporting case managers, with additional funding coming from outside sources to ensure that RCLA is properly staffed at each prosecuting agency.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Justice Lab will oversee Phase 1 (Implementaton) with the local prosecuting
-  agency over four months at a cost of $8,000 per month. Once RCLA has been
-  implemented, it will require at least one compassionate, thorough, and detail
-  oriented case manager to ensure that would-be defendants are being reconnected
-  to their communities and volunteers are well-trained and effective. 
-   
-   LA2050 grant money will be used to partially fund one case manager at each partner prosecuting agency ($25,000). Therefore, if RCLA is implemented in two prosecuting agencies, then $50,000 of the LA2050 grant will be used to partially fund two case managers' salaries. Additional costs will be covered by funding from outside sources, as well as the partner prosecuting agencies, although the ultimate goal will be to implement and hand off RCLA to our partner agencies at no cost.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Phase 1: Implementation - $8,000 per month per prosecuting agency, which
-  includes recruiting and training community volunteers, and developing a
-  network of services to ensure success in reconnecting would-be defendants.
-   
-   Phase 2: Hand off to Partner Agency - $25,000 per RCLA case manager in each prosecuting agency, with additional funding coming from outside sources such as foundations and individuals, as well as any support that the partner agency may be able to afford. 
-   
-   Phase 3: Long-Term Sustainability of RCLA - an ongoing yearly commitment of $60,000 for each RCLA case manager in each prosecuting agency. To give a sense of how many case managers are required at any given prosecuting agency: If the prosecuting agency is able to divert 1,000 would-be defendants, then it would require at least five case managers to manage RCLA effectively.
 How do you plan to scale the success of your proposal?: >-
   The success and scaling of RCLA depends on prosecuting agencies understanding
   the need for a diversion that involves community members in dealing with

@@ -19,8 +19,8 @@ project_areas:
   - South LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': North Hollywood
   Organization(s) mailing address(es): "5710 Satsuma Avenue\r\nNorth Hollywood, CA 91601"
   Organization(s) website(s): www.projectmuszed.org
   Organization(s) twitter handle(s): 'https://twitter.com/projectmuszed'
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
+  'City, State': North Hollywood
   Organization(s) name(s): Project MuszEd
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -137,8 +137,6 @@ maker_answers:
     this further supports the development of culture, community and a creative
     presence in Los Angeles and supports the local economy. 
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "We plan to collaborate with the Coalition for Responsible Community Development, CRCD on this project.  CRCD has long been a staple in South LA providing workforce development opportunities through neighborhood beautification, the rehabilitation of historic buildings and myriad of other services that engage youth.  We project that CRCD will receive $10,000 of this grant to offset anticipated expenses in realizing this project. \r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "We anticipate that this program will cost $186,000 for its initial year.  We are anticipating shifts for the subsequent years as the program and its needs increase.  In an effort cover additional costs, CRCD and Project MuszEd will pursue a program specific appeal, matching funds and grant opportunities.  We will also explore opportunities for in-kind donations and discounted purchases to support reducing costs while ensuring the program implementation. Both agencies are excited about this partnership and the potential and pride it will bring to the youth and to Los Angeles.  We have a steadfast commitment to not only see it through but also looking at unique opportunities, partnerships and collaborations that will ensure its long-term success.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Teaching Artists\t                                                                            46,000\r\nSupplies & Equipment (Sound Equipment, Backline, \r\nComputers, Software)\t                                                                     28,500\r\nCRCD – fee to offset expenses\t                                                     10,000\r\nCommunications/Social Media Support\t                                        2000\r\nAdmin Support (PT)\t                                                                        8000\r\nUniforms (Staff and Student)\t                                                        1500\r\nCulminating Event   \t                                                                        2000\r\nStudent Materials/Incentives\t                                                        2000\r\n\r\nTOTAL                                                                                             $100,000\r\n"
   How do you plan to scale the success of your proposal?: "We plan on taking a wrap-around approach to scale the success of this proposal.  Through this approach we will 1) work on building our network and strengthening our infrastructure; 2) remain realistic about our objectives and our capacity; 3) take a practical approach in considering what we can provide and what we will need to outsource; 4) follow a structure of pre-planning for our budget so that we are clear on our most critical expenditures, avoiding overspending and are able to make sure we maintain long-term fiscal health; 5) value professional development opportunities and will participate in those that will support our staff and the sustainability of the program; and 6) Maintain alignment with curricular guidelines of institutions in which our students may be matriculate in to.\r\n\r\nWe also anticipate being able to engage our students on the processes of building and running a business, associated ethics and any fiscal training available.  With the support of our Board of Directors and through building an Advisory Committee for this project, we will have the expertise and guidance needed to ensure we are exploring every possible angle and making practical and effective decisions in scaling our success."
 areas_impacted: ''
 partners: ''
@@ -193,29 +191,6 @@ Are there other organizations doing similar work (whether complementary or compe
   beautification, the rehabilitation of historic buildings and myriad of other
   services that engage youth. We project that CRCD will receive $10,000 of this
   grant to offset anticipated expenses in realizing this project.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We anticipate that this program will cost $186,000 for its initial year. We
-  are anticipating shifts for the subsequent years as the program and its needs
-  increase. In an effort cover additional costs, CRCD and Project MuszEd will
-  pursue a program specific appeal, matching funds and grant opportunities. We
-  will also explore opportunities for in-kind donations and discounted purchases
-  to support reducing costs while ensuring the program implementation. Both
-  agencies are excited about this partnership and the potential and pride it
-  will bring to the youth and to Los Angeles. We have a steadfast commitment to
-  not only see it through but also looking at unique opportunities, partnerships
-  and collaborations that will ensure its long-term success.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Teaching Artists  46,000
-   Supplies & Equipment (Sound Equipment, Backline, 
-   Computers, Software)  28,500
-   CRCD – fee to offset expenses  10,000
-   Communications/Social Media Support  2000
-   Admin Support (PT)  8000
-   Uniforms (Staff and Student)  1500
-   Culminating Event   2000
-   Student Materials/Incentives  2000
-   
-   TOTAL $100,000
 How do you plan to scale the success of your proposal?: >-
   We plan on taking a wrap-around approach to scale the success of this
   proposal. Through this approach we will 1) work on building our network and

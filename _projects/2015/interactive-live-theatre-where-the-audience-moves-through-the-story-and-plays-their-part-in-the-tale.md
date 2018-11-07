@@ -18,8 +18,8 @@ project_areas:
   - South LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Colleague
   Organization(s) name(s): Haunted Play LLC
   Organization(s) mailing address(es): "4642 Maytime Lane\r\nCulver City, CA 90230"
   Organization(s) website(s): www.enterdelusion.com
@@ -66,7 +66,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Colleague
   'City, State': 'Culver City, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -141,12 +141,6 @@ maker_answers:
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
     We have no partners. This money will go directly toward building out our
     next production.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We have additional investors willing to fund this if we can get some other
-    help....such as MYLA2050 Grant money!
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-    The money will go to our production design team to hire contractors,
-    painters, sculptors and other artists to create the sets.
   How do you plan to scale the success of your proposal?: >-
     Through myself (owner/director) and my two producers, we will build a strong
     creative team that focuses on the vision at all times. My line producer will
@@ -183,12 +177,6 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
   We have no partners. This money will go directly toward building out our next
   production.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We have additional investors willing to fund this if we can get some other
-  help....such as MYLA2050 Grant money!
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  The money will go to our production design team to hire contractors, painters,
-  sculptors and other artists to create the sets.
 How do you plan to scale the success of your proposal?: >-
   Through myself (owner/director) and my two producers, we will build a strong
   creative team that focuses on the vision at all times. My line producer will

@@ -20,8 +20,8 @@ project_areas:
   - South LA
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How did you hear about this challenge?: Radio - NPR
   Organization(s) name(s): A Place Called Home
   Organization(s) mailing address(es): '2830 S Central Ave. Los Angeles, CA 90011'
   Organization(s) website(s): www.Apch.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Radio - NPR
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -125,8 +125,6 @@ maker_answers:
     community organizations by collaboration. For example, all partner
     organizations in the South Central Sports League will benefit as APCH staff
     currently administer the league. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "We project an expected cost of $458,171.04. Additional costs will be covered by program specific and general operating funds. \r\n\r\nAPCH is in good fiscal health, including a 2-month Board-mandated operating reserve and an endowment, and maintains a strong cash flow, allowing us to accommodate any additional costs or unforeseen expenses. Each year we design and implement a strategic fundraising plan to ensure that all programmatic and organizational operations are sustained. Strategies for sustainability include growing the Board of Directors; executing a Capital Campaign to improve and expand our space; developing multi-year organizational budget projections; developing and executing a comprehensive Annual Giving plan; and developing and launching a communications strategy that supports our goals.\r\n\r\nWhen and if program-specific funds present a shortfall, APCH is able to draw from general operating funds raised through three annual fundraisers: our Gala for the Children; the GirlPower Awards Luncheon; and Stars & Strikes. We can also acquire additional unrestricted funds through our Annual Appeals and Newsletter, as well as from foundation, corporations, and major individual donors. \r\n\r\nAPCH’s strength in raising unrestricted funds in no way indicate a lack of need, rather it speaks to the growth of the agency as a whole, and the commitment to providing continually evolving services in areas that are traditionally harder to fund with restricted donations. Our budget and operation have grown over the past five years in direct response to the increasing demand for APCH’s programs and services. \r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Personnel- $300,894.13 \r\nBenefits- $22,272.41 \r\nMaintenance- $2,000.00 \r\nMeals- $1,300.00 \r\nWorkshops & Trainings- $900.00 \r\nFood- $46,550.00 \r\nIndependent Contractors- $2,200.00 \r\nProgram Special Events- $4,772.50 \r\nSupplies & Materials- $12,188.00 \r\nMileage- $700.00 \r\nUniforms- $3,500.00 \r\nSports League Fees/Official fees- $10,000.00 \r\nPrinting & Copying- $660\r\nField Trips- $30,841.00 \r\nPostage & Shipping- $370.00 \r\nParking- $150.00 \r\nMileage- $350.00 \r\nCommunity Events/Giveaways- $17,373.00 \r\nParent engagement classes/workshops/activities- $1150\r\n\r\nTOTAL- $458,171.04\r\n\r\nNote: Field Trips item includes summer camps, trips, college tours and all associated costs. Supplies include annual sports inventory (balls, goals, etc.), games, laundry detergent, mouth guards, meal service items, gloves, hair nets, dishwasher detergent, garden tools supplies (soil, etc.), and more.\r\n"
   How do you plan to scale the success of your proposal?: "To expand our services and meet increasing community demand, we are currently undertaking a capital expansion plan to build a Teen Center and Gallery and Performing Arts Space, addressing APCH's highest priority needs and allow us to provide additional services for the South Los Angeles community. Our Teen Program has grown significantly over the past several years; three years ago the average daily attendance was 35 members and today this has doubled to 80 members on average each day. During that time we have added four new staff who work with the teens, but the program is being run out of the same 800 square foot temporary bungalow the Teen Program has occupied for more than a decade. This space restriction has severely limited the program’s growth and membership. Enrollment in our general and teen membership is so high during the summer months that we are compelled to offer 3-4 field trips (ranging from 12-100 in attendance) per day so that our facilities do not become dangerously overcrowded. The new space will also serve as a performing arts center made available by request to other organizations in the community. This will allow us to host plays, concerts, and other performances and promote greater access to the arts. \r\n\r\nWe also plan to scale our impact through community partnerships, most notably the creation of new community gardens throughout our neighborhood. Additionally, we are in the process of codifying the APCH approach. APCH would like to further codify and standardize the gathering and tracking of data to identify and apply appropriate metrics in assessing and documenting acquisition and development of academic skills and rigor, attitudinal change, social competency, career aptitude, self-efficacy, and preparedness for transition to next levels of education, vocation and independence.\r\n"
 areas_impacted: ''
 partners: ''
@@ -191,39 +189,6 @@ Are there other organizations doing similar work (whether complementary or compe
   community organizations by collaboration. For example, all partner
   organizations in the South Central Sports League will benefit as APCH staff
   currently administer the league.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We project an expected cost of $458,171.04. Additional costs will be covered
-  by program specific and general operating funds. 
-   
-   APCH is in good fiscal health, including a 2-month Board-mandated operating reserve and an endowment, and maintains a strong cash flow, allowing us to accommodate any additional costs or unforeseen expenses. Each year we design and implement a strategic fundraising plan to ensure that all programmatic and organizational operations are sustained. Strategies for sustainability include growing the Board of Directors; executing a Capital Campaign to improve and expand our space; developing multi-year organizational budget projections; developing and executing a comprehensive Annual Giving plan; and developing and launching a communications strategy that supports our goals.
-   
-   When and if program-specific funds present a shortfall, APCH is able to draw from general operating funds raised through three annual fundraisers: our Gala for the Children; the GirlPower Awards Luncheon; and Stars & Strikes. We can also acquire additional unrestricted funds through our Annual Appeals and Newsletter, as well as from foundation, corporations, and major individual donors. 
-   
-   APCH’s strength in raising unrestricted funds in no way indicate a lack of need, rather it speaks to the growth of the agency as a whole, and the commitment to providing continually evolving services in areas that are traditionally harder to fund with restricted donations. Our budget and operation have grown over the past five years in direct response to the increasing demand for APCH’s programs and services.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Personnel- $300,894.13 
-   Benefits- $22,272.41 
-   Maintenance- $2,000.00 
-   Meals- $1,300.00 
-   Workshops & Trainings- $900.00 
-   Food- $46,550.00 
-   Independent Contractors- $2,200.00 
-   Program Special Events- $4,772.50 
-   Supplies & Materials- $12,188.00 
-   Mileage- $700.00 
-   Uniforms- $3,500.00 
-   Sports League Fees/Official fees- $10,000.00 
-   Printing & Copying- $660
-   Field Trips- $30,841.00 
-   Postage & Shipping- $370.00 
-   Parking- $150.00 
-   Mileage- $350.00 
-   Community Events/Giveaways- $17,373.00 
-   Parent engagement classes/workshops/activities- $1150
-   
-   TOTAL- $458,171.04
-   
-   Note: Field Trips item includes summer camps, trips, college tours and all associated costs. Supplies include annual sports inventory (balls, goals, etc.), games, laundry detergent, mouth guards, meal service items, gloves, hair nets, dishwasher detergent, garden tools supplies (soil, etc.), and more.
 How do you plan to scale the success of your proposal?: >-
   To expand our services and meet increasing community demand, we are currently
   undertaking a capital expansion plan to build a Teen Center and Gallery and

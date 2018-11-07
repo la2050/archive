@@ -24,8 +24,8 @@ project_areas:
   - County of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): '6501 Fountain Ave. Los Angeles, CA 90028'
   Organization(s) website(s): www.la-allstars.org
   Organization(s) twitter handle(s): 'https://twitter.com/asaslosangeles'
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'After-School All-Stars, Los Angeles'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -158,10 +158,6 @@ maker_answers:
     will continue to follow these students and provide support as they continue
     through high school.
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Wells Fargo- $0\r\nJunior Achievement- $!,500 \r\nNational Office- $0\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    This project overall will cost roughly around $150,000. The additional cost
-    will be covered by using another grant we received.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Staffing- $60,000\r\nProfessional Development- $5,000\r\nMaterials and Supplies- $10,000\r\nEquipment- $5,000\r\nTransportation- $20,000\r\n\r\n"
   How do you plan to scale the success of your proposal?: >-
     I'll be honest I don't understand this question but would be more than
     willing to discuss with someone once I understand the question.
@@ -209,15 +205,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Wells Fargo- $0
    Junior Achievement- $!,500 
    National Office- $0
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  This project overall will cost roughly around $150,000. The additional cost
-  will be covered by using another grant we received.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Staffing- $60,000
-   Professional Development- $5,000
-   Materials and Supplies- $10,000
-   Equipment- $5,000
-   Transportation- $20,000
 How do you plan to scale the success of your proposal?: >-
   I'll be honest I don't understand this question but would be more than willing
   to discuss with someone once I understand the question.

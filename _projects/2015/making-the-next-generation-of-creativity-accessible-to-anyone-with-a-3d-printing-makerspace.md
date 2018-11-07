@@ -21,10 +21,8 @@ project_video: 'https://www.youtube.com/embed/uVgrIU_Bl9g'
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: >-
-    We applied last year & we, EEZITEC, placed as a top finalist & the
-    Goldhirsch Foundation graciously provided us with office space.
   Organization(s) name(s): EEZITEC
   Organization(s) mailing address(es): 830 Traction Avenue
   Organization(s) website(s): www.eezitec.com
@@ -74,7 +72,9 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: >-
+    We applied last year & we, EEZITEC, placed as a top finalist & the
+    Goldhirsch Foundation graciously provided us with office space.
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -156,10 +156,6 @@ maker_answers:
     money will be utilized by the founders & team members of Eezitec in
     expanding our 3D printing efforts across LA so the $100k will solely go to
     Eezitec's Makerspace to make sure it operates at its peak potential.  
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "We believe a Makerspace would cost $250k, which would go towards rent, products, employees, marketing, & additional overhead costs.  With that being said, we're bootstrapped & gritty & we're not picky with the prize money. As a media-eCommerce tech company in LA, we can do a lot with $100,000. It is enough to help us achieve our goals 10x. We appreciate what we can get & have been firm believers in turning something small into something bigger than ourselves. \r\n\r\nFor additional costs, we would find ways to increase sales on our eCommerce platform to re-invest into the Makerspace, as well as find ways to increase other revenue streams such as customizable 3D Printing jobs & other 3D Printing related services."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-    The split will go as follows -- 25%: Operational Growth; 37.5%: Company
-    Growth; 37.5%: Growth hack Marketing.
   How do you plan to scale the success of your proposal?: >-
     EEZITEC is a media-eCommerce technology company in LA & we will be growing
     our efforts here in our home base. Being a technology company gives us a
@@ -213,19 +209,6 @@ Are there other organizations doing similar work (whether complementary or compe
   will be utilized by the founders & team members of Eezitec in expanding our 3D
   printing efforts across LA so the $100k will solely go to Eezitec's Makerspace
   to make sure it operates at its peak potential.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We believe a Makerspace would cost $250k, which would go towards rent,
-  products, employees, marketing, & additional overhead costs. With that being
-  said, we're bootstrapped & gritty & we're not picky with the prize money. As a
-  media-eCommerce tech company in LA, we can do a lot with $100,000. It is
-  enough to help us achieve our goals 10x. We appreciate what we can get & have
-  been firm believers in turning something small into something bigger than
-  ourselves. 
-   
-   For additional costs, we would find ways to increase sales on our eCommerce platform to re-invest into the Makerspace, as well as find ways to increase other revenue streams such as customizable 3D Printing jobs & other 3D Printing related services.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  The split will go as follows -- 25%: Operational Growth; 37.5%: Company
-  Growth; 37.5%: Growth hack Marketing.
 How do you plan to scale the success of your proposal?: >-
   EEZITEC is a media-eCommerce technology company in LA & we will be growing our
   efforts here in our home base. Being a technology company gives us a

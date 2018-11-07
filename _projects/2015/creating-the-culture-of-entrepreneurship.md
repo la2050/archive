@@ -17,8 +17,8 @@ project_video: 'https://www.youtube.com/embed/ENJ15Tkyiqw'
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: TWITTER
   Organization(s) name(s): 'Citizens Of Culture, '
   Organization(s) mailing address(es): "COC - 974 S Catalina St, Los Angeles CA 90006\t\r\n"
   Organization(s) website(s): www.citizensofculture.com
@@ -66,7 +66,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: TWITTER
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -135,8 +135,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Success is defined  for us by the:\r\n\r\n- Attendee participation expectation versus actual for each event.\r\n\r\n- Feedback from After Event Reviews by attendees (attendee rating system)\r\n\r\n- Analytics regarding impressions of content\r\n\r\n- Collection of useable data set regarding obstacles to entrepreneurial initiation and success (Why people are not starting businesses and why they are failing when they do.)\r\n\r\n- # Of business plans and new enterprises begun as a result of program.\r\n\r\n- Amount of Local and Major Press coverage gained\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "We are inspired by organizations like Catalyst Creative, General Assembly, and Creative Mornings that help entrepreneurs and creatives succeed but none have devoted the time and resource to seeking out so many that have yet to self identify as entrepreneurial.\r\n\r\nWhat makes Citizens Of Culture unique is its commitment to diversity and a broad definition of entrepreneur to include high growth start-up, small business, and sustainable non-profit.  Our program not only services existing creatives but seeks out those who have yet to unlock their creativity.\r\n\r\nThis counters the popular notion that entrepreneurs are always wealthy and well funded, when there are more than one form of capital that can be used to start an enterprise."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Loyola Marymount University- $3,000\r\nYouth Justice Coalition- $10,000"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "$100,000 \r\n\r\nAny additional costs will be covered by ticket sales to events and sponsorship."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Digital Platform                           -     31,000.00\r\nStaff                                              -     26,000.00\r\n  -event staff, chefs, graphic \r\n   designers, speakers\r\n\r\nEvents                                          -     21,920.00\r\nPrint Budget                                -        9,000.00\r\nRetail Pop-Up                              -        5,000.00\r\nVideo Production                        -        4,500.00\r\nMonthly Co-Working Meetups   -        3,500.00\r\n\r\nTOTAL                                          -      99,920.00"
   How do you plan to scale the success of your proposal?: "Through the use and design of the web platform we will publish valuable content that is shareable and useful.\r\n\r\nThis program is a catalyst. We hope to use the grant to initiate the first year of program but to not let it end at the end of the grant. With funds from the first year helping launch the first year sales from events and exposure establishing a base for following years of the program.\r\n\r\nThrough the use of web, social media, and strategic marketing it is likely that the second year of the program could be even bigger than the first.\r\n\r\nOur goal is to reach 10,000 people in one year through event attendance and print, utilizing web and social medial to scale the impact across the web."
 areas_impacted: ''
 partners: ''
@@ -190,23 +188,6 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': |-
   Loyola Marymount University- $3,000
    Youth Justice Coalition- $10,000
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': |-
-  $100,000 
-   
-   Any additional costs will be covered by ticket sales to events and sponsorship.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Digital Platform - 31,000.00
-   Staff - 26,000.00
-    -event staff, chefs, graphic 
-    designers, speakers
-   
-   Events - 21,920.00
-   Print Budget - 9,000.00
-   Retail Pop-Up - 5,000.00
-   Video Production - 4,500.00
-   Monthly Co-Working Meetups - 3,500.00
-   
-   TOTAL - 99,920.00
 How do you plan to scale the success of your proposal?: >-
   Through the use and design of the web platform we will publish valuable
   content that is shareable and useful.

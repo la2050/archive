@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: Email Newsletter
   Organization(s) name(s): Maternal Mental Health NOW
   Organization(s) mailing address(es): >-
     c/o Community Partners, 1000 N Alameda Street, Suite 240, Los Angeles, CA
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Email Newsletter
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -158,14 +158,6 @@ maker_answers:
     be determined.  Each participating FQHC will receive a small stipend to
     cover the personnel time it invests in the project as well as in-kind
     resources and expertise.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Total costs of this project are estimated to be $308,908 over a two year
-    time period.  Maternal Mental Health NOW will cover the additional costs
-    through grant writing and individual donor development.  Maternal Mental
-    Health NOW has already secured $50,000 for this project from the Tikkun Olam
-    Foundation.  In addition, we are in discussions with the California Health
-    Care Foundation and the WM Keck Foundation about funding for this project.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Quality Improvement Manager - $35,000\r\nEvaluation - $30,000\r\nPhotography & Videography - $3,000\r\nWriter - $2,500\r\nEditor - $2,500\r\nPartner Stipends - $15,000\r\nTravel - $3,000\r\nAdministration & Overhead - $9,000"
   How do you plan to scale the success of your proposal?: "Maternal Mental Health NOW will document the content of all activities associated with this project, including trainings, weekly coaching and consultation sessions, care team meetings and collaborative learning opportunities through written notes, and where applicable, photography and videography.  In addition, Maternal Mental Health NOW will utilize patient registries to track and document qualitative and quantitative data on screening, referrals and treatment as well as patient outcomes on a quarterly basis.  During the second year of the project, Maternal Mental Health NOW will utilize its notes, photographs, videos and data to draft, edit and publish a best practice guide on integrating perinatal mental health care into medical settings.  \r\n\r\nThe best practice guide, which aims to serve as a road map for achieving perinatal mental health care integration at the 129 FQHCs serving 3,412,961 patients in California and the 1,202 FQHCs serving 21,726,965 patients nationwide, will include the following elements:\r\n\r\n•\tCase studies of three medical settings and their experiences with the New Family Care Team project;\r\n•\tRecommendations for HIPPA compliant, web-based registries;\r\n•\tSelf-assessment tool for integrating perinatal mental health care in a medical setting;\r\n•\tAdditional resources for achieving perinatal mental health care integration.\r\n\r\nOnce published, the guidebook will be distributed in print and via online channels to The California Improvement Network and other partners and stakeholders.  As a result of the best practice guide, medical settings throughout the state and beyond will be able to utilize Maternal Mental Health NOW’s recommendations so that the model of integrated perinatal mental health care can spread.\r\n"
 areas_impacted: ''
 partners: ''
@@ -227,22 +219,6 @@ Are there other organizations doing similar work (whether complementary or compe
   determined. Each participating FQHC will receive a small stipend to cover the
   personnel time it invests in the project as well as in-kind resources and
   expertise.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Total costs of this project are estimated to be $308,908 over a two year time
-  period. Maternal Mental Health NOW will cover the additional costs through
-  grant writing and individual donor development. Maternal Mental Health NOW has
-  already secured $50,000 for this project from the Tikkun Olam Foundation. In
-  addition, we are in discussions with the California Health Care Foundation and
-  the WM Keck Foundation about funding for this project.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Quality Improvement Manager - $35,000
-   Evaluation - $30,000
-   Photography & Videography - $3,000
-   Writer - $2,500
-   Editor - $2,500
-   Partner Stipends - $15,000
-   Travel - $3,000
-   Administration & Overhead - $9,000
 How do you plan to scale the success of your proposal?: >-
   Maternal Mental Health NOW will document the content of all activities
   associated with this project, including trainings, weekly coaching and

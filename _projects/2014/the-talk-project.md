@@ -17,8 +17,8 @@ project_areas:
   - SOUTH LA
   - SGV
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '0'
-  city_state: 'Los Angeles, CA'
   org_website: www.wagv.org
   org_twitter: '@WAGV'
   org_facebook: >-
@@ -61,7 +61,7 @@ maker_answers:
   org_name: Women Against Gun Violence
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'Los Angeles, CA'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '0'
@@ -90,8 +90,6 @@ maker_answers:
     have similar programs. Ours is unique because we are specifically reaching
     out to families and caregivers of elementary age children via their schools.
     No other program is doing that for gun safety either locally or nationally.
-  cost: "We anticipate the total cost of the TALK Project to exceed $750,000. We estimate the cost per family to be approximately $1.42. With the $100,000 from GOOD and Goldhirsh, we could reach over 70,000 families which would be almost 1/5 of our goal. \r\n\r\nAs stated previously, we are working to secure other collaborators and funding to complete our project."
-  budget: "Here is our detailed budget:\r\n\r\nCost per family for materials and distribution: $1.42 We would use the entire grant to reach 70,422 elementary age families in Los Angeles County."
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

@@ -23,8 +23,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): '828 4th St, #301, Santa Monica, CA 90403'
   Organization(s) website(s): www.reframelabs.org
   Organization(s) twitter handle(s): 'https://twitter.com/ReframeLabs'
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Reframe Labs
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -146,12 +146,6 @@ maker_answers:
     organization nationally focused on next gen learning. When it comes to
     Reframe's programming in Los Angeles, however, 100% of this grant award will
     be used internally. None of it will be used to subcontract other partners. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Overhead cost (3 FTEs and operations) is approximately $600,000/year.\r\n\r\nOur Programming has four levels: Discover (one day workshops), Spark (two-day bootcamps), Redesign (six-month program), and Next Gen Fellowship (1-year fellowship). Programming costs are variable based on the number of participants. Our Year 1 forecast for each program, respectively: 600, 360, 50, 5.  With these assumptions, our Year 1 program costs will be $1,024,500. \r\n\r\nWe anticipate covering the additional cost via philanthropy and are in conversations with other funders. We will also explore making certain components fee-for-service. \r\n\r\nA grant from LA2050 and the publicity that will accompany it will not only help launch Reframe's talent development programs but catalyze other funders as well."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-    A $100,000 grant from LA2050 will go towards hiring one full-time partner
-    who can help shape and facilitate our design programs with educators. This
-    person will ideally be a teacher turned instructional lead and principal,
-    who also has had some consulting experience.  
   How do you plan to scale the success of your proposal?: "Reframe will make all proprietary content freely accessible to all. Unfortunately, we know from experience that even the best (and priciest) research, white papers, and strategic plans ultimately lie on a shelf collecting dust. What brings those findings to life for the masses are direct coaching experiences. Reframe will engage educators in collaborative school design, applying the latest research and practices. \r\n\r\nAs a member of LAUSD's Instructional Technology Initiative (I'm one of five expert resources for the Task Force), I will ensure that Reframe's professional learning opportunities are open to all interested throughout the district. \r\n\r\nI will also diffuse lessons learned through my national network, providing a blueprint for next gen talent development to other regional organizations. \r\n\r\n"
 areas_impacted: ''
 partners: ''
@@ -206,19 +200,6 @@ Are there other organizations doing similar work (whether complementary or compe
   organization nationally focused on next gen learning. When it comes to
   Reframe's programming in Los Angeles, however, 100% of this grant award will
   be used internally. None of it will be used to subcontract other partners.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': |-
-  Overhead cost (3 FTEs and operations) is approximately $600,000/year.
-   
-   Our Programming has four levels: Discover (one day workshops), Spark (two-day bootcamps), Redesign (six-month program), and Next Gen Fellowship (1-year fellowship). Programming costs are variable based on the number of participants. Our Year 1 forecast for each program, respectively: 600, 360, 50, 5. With these assumptions, our Year 1 program costs will be $1,024,500. 
-   
-   We anticipate covering the additional cost via philanthropy and are in conversations with other funders. We will also explore making certain components fee-for-service. 
-   
-   A grant from LA2050 and the publicity that will accompany it will not only help launch Reframe's talent development programs but catalyze other funders as well.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  A $100,000 grant from LA2050 will go towards hiring one full-time partner who
-  can help shape and facilitate our design programs with educators. This person
-  will ideally be a teacher turned instructional lead and principal, who also
-  has had some consulting experience.
 How do you plan to scale the success of your proposal?: >-
   Reframe will make all proprietary content freely accessible to all.
   Unfortunately, we know from experience that even the best (and priciest)

@@ -12,8 +12,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
-  How did you hear about this challenge?: KPCC
   Organization(s) name(s): Individual submitter
   Organization(s) mailing address(es): "11214 Huston St #1, North Hollywood, CA 91601\r\n"
   Organization(s) website(s): www.allhale.net
@@ -59,7 +59,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: KPCC
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -116,8 +116,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Weekly, monthly and yearly data will be collected on water volume, soil health, and wildlife populations at each beaver site. As soon as one colony is established and proven effective, another one can be introduced, tracked, and monitored. This method will ensure that beaver are being kept in areas that will be most beneficial to humans.\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are many, many organizations doing similar work across Canada and the US! What is unique about my proposal is that we would be the first major metropolitan area to use beaver behavior to our advantage.\r\n\r\nShort-Term Beaver Reintroduction Specific to LA County:\r\n-Reintroduce 1-2 beaver families on National Forest and/or privately owned land\r\n-Monitor and record the results for the first 12 months\r\n-Evaluate the data 12 months post-reintroduction and see if more beaver families can be added\r\n-Seek round two of funding\r\n-Move from pilot project to permanent commitment to reintegrating beaver county-wide\r\n\r\nLong-Term Beaver Reintroduction Specific to LA County:\r\n-Work with the Department of Fish and Wildlife and local landowners to implement a county-wide beaver reintroduction program specifically designed to improve surface water storage and soil quality\r\n-Beaver proof key drainages and culverts across the county\r\n-Place beavers in key areas of the San Gabriel Mountains to begin retaining water in the mountains as insurance against low snow years \r\n-Place beavers in key areas around rural and suburban LA county, where flood control, fish & wildlife restoration, and water “savings accounts” are needed\r\n-Monitor beaver behavior on a weekly, monthly and yearly schedule, keeping close records of their activity and water metrics\r\n-Following a 2-year trial period, ascertain whether they would be beneficially introduced into more urban waterways such as the LA river\r\n-Use the newly created beaver habitats as educational tools for school kids and adults all across LA County\r\n-After 2-5 years, establish permanent food forests alongside established beaver habitats\r\n-Use the beavers as a means to upcycle unwanted tree debris. This technique helps them stay put where we want them and also prevents them from felling the trees we want to keep\r\n\r\nBeaver Reintroduction 101 Study List:\r\n1. A Bit of History\r\nhttps://baynature.org/articles/beavers-used-to-be-almost-everywhere-in-california/\r\n \r\n2. The Penultimate Beaver Reintroduction Documentary\r\nhttps://www.youtube.com/watch?v=PLyBZ1mdg2c\r\n \r\n3. Guide and Resources for Beaver Reintroduction\r\nhttp://www.martinezbeavers.org/wordpress/wp-content/uploads/2013/10/Beaver-Restoration-Toolbox-Karl-Malcolm-2013.pdf\r\n \r\n4. Simple Solutions to any Beaver Problem, Urban Problems Included\r\nhttp://www.martinezbeavers.org/wordpress/solutions/\r\n \r\n5. Southland Beaver Blog and Beaver Restoration Guidebook\r\nhttp://southlandbeaver.blogspot.com\r\n "
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "At this point in time, the proposal is a solo project of mine. Any collaborations other than the ones already mentioned are TBD. For the pilot project, it would be quite doable to start with 1 employee, a few volunteers and a willing landowner or government agency. \r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "$100,000 is sufficient to get the pilot program off the ground for the first year or two on a small scale, but to permanently implement the program county-wide it will take more. Additional funding can initially come from landowners in need of water, but ideally City Planners and the Department of Fish and Wildlife will jump on board to help take the project to a larger scale as it becomes evident that this is our best hope for drought recovery.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$10,000 for acquiring the first beaver family for reintroduction.\r\n$10,000 for acquiring basic beaver \"training\" tools (these also protect the surrounding infrastructure) and baffles (pipes that regulate water levels in beaver ponds).\r\n$10,000 for consulting fees. Bring in a beaver expert to teach and implement proper procedure.\r\n$20,000 to hire a temporary, part-time employee to track the results of the first beaver family, measure and monitor water volume, take soil samples, etc. \r\n$50,000 buffer to continue with the project while further funding and approval are in the works.\r\n"
   How do you plan to scale the success of your proposal?: "Success will be scaled one beaver family at a time. Each family creates its own micro-oasis. Careful planning for where we place our first beaver colony is important, but as we familiarize ourselves with their engineering abilities, their territory could be allowed to expand exponentially. As The Southland grows more comfortable with the idea of a symbiotic relationship with beaver, the positive ripple effects will be greater and greater.\r\n"
 areas_impacted: ''
 partners: ''
@@ -192,19 +190,6 @@ Are there other organizations doing similar work (whether complementary or compe
   collaborations other than the ones already mentioned are TBD. For the pilot
   project, it would be quite doable to start with 1 employee, a few volunteers
   and a willing landowner or government agency.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  $100,000 is sufficient to get the pilot program off the ground for the first
-  year or two on a small scale, but to permanently implement the program
-  county-wide it will take more. Additional funding can initially come from
-  landowners in need of water, but ideally City Planners and the Department of
-  Fish and Wildlife will jump on board to help take the project to a larger
-  scale as it becomes evident that this is our best hope for drought recovery.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  $10,000 for acquiring the first beaver family for reintroduction.
-   $10,000 for acquiring basic beaver "training" tools (these also protect the surrounding infrastructure) and baffles (pipes that regulate water levels in beaver ponds).
-   $10,000 for consulting fees. Bring in a beaver expert to teach and implement proper procedure.
-   $20,000 to hire a temporary, part-time employee to track the results of the first beaver family, measure and monitor water volume, take soil samples, etc. 
-   $50,000 buffer to continue with the project while further funding and approval are in the works.
 How do you plan to scale the success of your proposal?: >-
   Success will be scaled one beaver family at a time. Each family creates its
   own micro-oasis. Careful planning for where we place our first beaver colony

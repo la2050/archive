@@ -14,8 +14,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): 'Berth 73, Suite 2, Los Angeles, CA 90731'
   Organization(s) website(s): www.LAMITopSail.org
   Organization(s) twitter handle(s): www.twitter.com/lami_topsail
@@ -57,7 +57,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Los Angeles Maritime Institute
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -148,10 +148,6 @@ maker_answers:
     Environmental Education. We are also collaborating with CalRecycle's
     Environmental Education Initiative to bring professional development to
     L.A.'s teachers aboard our tall ships.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We are requesting $100,000 for 40 program sails and 22 family adventure
-    sails. We do not anticipate any additional costs for this proposal.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "40 program sails (1,400 students) x $1,190 per sail (Title I rate) = $47,600\r\n22 family adventure sails (Sail LA!) x $2,000 per sail = $44,000\r\nAdministration and Overhead = $5,000\r\nMarketing and Promotion = $2,000\r\nPrinting = $1,400\r\n\r\n"
   How do you plan to scale the success of your proposal?: >-
     We have been operating on the L.A. Waterfront for 23 years. We have the
     capacity to increase the number of program sails and youth served annually.
@@ -222,15 +218,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Environmental Education. We are also collaborating with CalRecycle's
   Environmental Education Initiative to bring professional development to L.A.'s
   teachers aboard our tall ships.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We are requesting $100,000 for 40 program sails and 22 family adventure sails.
-  We do not anticipate any additional costs for this proposal.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  40 program sails (1,400 students) x $1,190 per sail (Title I rate) = $47,600
-   22 family adventure sails (Sail LA!) x $2,000 per sail = $44,000
-   Administration and Overhead = $5,000
-   Marketing and Promotion = $2,000
-   Printing = $1,400
 How do you plan to scale the success of your proposal?: >-
   We have been operating on the L.A. Waterfront for 23 years. We have the
   capacity to increase the number of program sails and youth served annually.

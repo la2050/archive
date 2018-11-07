@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: email from LA2050
   Organization(s) name(s): Koreatown Immigrant Worker Alliance
   Organization(s) mailing address(es): "1053 S. New Hampshire\r\nLos Angeles, CA 9006"
   Organization(s) website(s): 'http://kiwa.org/ '
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: email from LA2050
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -119,8 +119,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Our evaluation will answer three questions:\r\n\r\nDoes this save time?\r\n\r\nDoes this accurately predict violators and high road employers? \r\n\r\nDoes this help community based organizations and wage enforcement agencies allocate resources more effectively?\r\n\r\nThese questions will be measured through qualitative interviews with wage enforcement officials and community organizations, as well as with quantitative results from the prediction model. "
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Fifteen organizations comprise the steering committee of the Los Angeles Coalition against Wage Theft, who are dedicated to building awareness of basic labor rights addressing wage and hour violations in specific communities. For example, the Garment Worker Center resolves claims for garment workers; the Restaurant Opportunity Center for restaurant workers; and the CLEAN CarWash Campaign for carwash workers.\r\n\r\nHowever, this is the first known attempt (in Los Angeles or elsewhere) to use machine learning and new data science techniques to help predict when and where wage theft occurs."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "For this project, KIWA is partnering with the UCLA Labor Center as well as researchers and technologists from Princeton University. UCLA Labor Labor is a leading research and education center for worker justice, and will support the identification of existing data and relevant researcher. Tia Koonse, Legal and Policy Researcher Manager, and Veronica Wilson, Partnerships Director, will lead this effort the Labor Center. \r\n\r\nData science and software development will be led by Josh Goldstein and Alex Bollfrass. Josh is CEO of the Department of Better Technology, a company dedicated to making great software to help governments and non-profits serve their communities. He is also a PhD candidate at Princeton, where he works on data-driven public service delivery. He has consulted for Google and the World Bank. Alex is a Ph.D. candidate at Princeton University’s Woodrow Wilson School of International Affairs. His research is on a wide variety of policy topics and emphasizes the application of unique data sources to complex problems, including intelligence assessments of nuclear weapons programs and the implications of changes in climate for human conflict. \r\n\r\nKIWA - $31K\r\nUCLA Labor Center - $12K\r\nPrinceton researchers (as consultants to KIWA) - $57K"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': The pilot will cost $100K.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Project Management ($26K) Develop contextual understanding of the determinants of wage theft, the current process of business auditing, and available data sets.\r\n\r\nData and Software Data Development ($57K) Develop the model in Python or R programming languages and develop web application using Ruby on Rails, Javascript, HTML and CSS\r\n\r\nLabor Law & Policy Analysis ($12K) Apply expertise in wage theft policy development in Los Angeles and Statewide. Work with City and State authorities to implement the new software in day to day wage theft prevention activities and measure effectiveness. \r\nMarketing and Travel ($5K) Share lessons with the broader data science and labor rights communities through blog posts and presentations."
   How do you plan to scale the success of your proposal?: >-
     After completion of a successful pilot, Phase 2 will focus on replication
     and scale at both a city, state and national level. Since the code will be
@@ -189,16 +187,6 @@ Are there other organizations doing similar work (whether complementary or compe
    KIWA - $31K
    UCLA Labor Center - $12K
    Princeton researchers (as consultants to KIWA) - $57K
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': The pilot will cost $100K.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Project Management ($26K) Develop contextual understanding of the determinants
-  of wage theft, the current process of business auditing, and available data
-  sets.
-   
-   Data and Software Data Development ($57K) Develop the model in Python or R programming languages and develop web application using Ruby on Rails, Javascript, HTML and CSS
-   
-   Labor Law & Policy Analysis ($12K) Apply expertise in wage theft policy development in Los Angeles and Statewide. Work with City and State authorities to implement the new software in day to day wage theft prevention activities and measure effectiveness. 
-   Marketing and Travel ($5K) Share lessons with the broader data science and labor rights communities through blog posts and presentations.
 How do you plan to scale the success of your proposal?: >-
   After completion of a successful pilot, Phase 2 will focus on replication and
   scale at both a city, state and national level. Since the code will be open

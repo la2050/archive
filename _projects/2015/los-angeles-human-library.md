@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: friend/colleague
   Organization(s) name(s): Silverlake Independent Jewish Community Center
   Organization(s) mailing address(es): "1110 Bates Avenue\r\nLos Angeles, CA 90029"
   Organization(s) website(s): www.sijcc.net
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: friend/colleague
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -135,15 +135,6 @@ maker_answers:
     similar work bringing together people from different backgrounds and
     geographic regions across LA. We’d also look to other public spaces, like
     Grand Park, where we could host pop-up libraries. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The cost will ultimately depend on how many libraries we have, and the funds
-    to cover each of them will be divided out and given to each of the event
-    organizers. Below we’ve created a budget for the cost of organizing
-    city-wide outreach, an estimated budget per Library (including training
-    sessions for volunteers), and a budget for the culminating storytelling
-    event. Any additional funds would go to funding more pop-up Libraries
-    throughout the city.  
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Outreach:\r\nPaid advertising placement in newspapers and online – $4000\r\nGraphic design - $2500\r\nPrinting/signage - $2000\r\nWebsite (building & maintaining) – $1500\r\nHuman Library Coordinator - $15,000\r\nTOTAL: $25,000\r\n\r\nHuman Libraries:\r\nRentals (tables, pipe & drape, lighting, etc...) - $5000\r\nDocumentation (photo/video) – $2000\r\nTraining Sessions - $1000\r\nFood/drinks – $1000\r\nEvent Staff – $500\r\nPrinting/signage – $500\r\nTOTAL per Library: $10,000\r\nTOTAL for 6 libraries: $60,000\r\n\r\nStorytelling event at SIJCC:\r\nRentals (stage, tables, etc…) - $4000\r\nLighting – $3000\r\nPrinting/signage – $1000\r\nDocumentation (photo/video) – $3000\r\nFood/drinks - $3000\r\nEvent Staff - $1000\r\nTOTAL: $15,000\r\n"
   How do you plan to scale the success of your proposal?: >-
     There are many opportunities to scale the success of the Human Library
     Project, including an annual event hosted at the SIJCC or another location,
@@ -205,41 +196,6 @@ Are there other organizations doing similar work (whether complementary or compe
   bringing together people from different backgrounds and geographic regions
   across LA. We’d also look to other public spaces, like Grand Park, where we
   could host pop-up libraries.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The cost will ultimately depend on how many libraries we have, and the funds
-  to cover each of them will be divided out and given to each of the event
-  organizers. Below we’ve created a budget for the cost of organizing city-wide
-  outreach, an estimated budget per Library (including training sessions for
-  volunteers), and a budget for the culminating storytelling event. Any
-  additional funds would go to funding more pop-up Libraries throughout the
-  city.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Outreach:
-   Paid advertising placement in newspapers and online – $4000
-   Graphic design - $2500
-   Printing/signage - $2000
-   Website (building & maintaining) – $1500
-   Human Library Coordinator - $15,000
-   TOTAL: $25,000
-   
-   Human Libraries:
-   Rentals (tables, pipe & drape, lighting, etc...) - $5000
-   Documentation (photo/video) – $2000
-   Training Sessions - $1000
-   Food/drinks – $1000
-   Event Staff – $500
-   Printing/signage – $500
-   TOTAL per Library: $10,000
-   TOTAL for 6 libraries: $60,000
-   
-   Storytelling event at SIJCC:
-   Rentals (stage, tables, etc…) - $4000
-   Lighting – $3000
-   Printing/signage – $1000
-   Documentation (photo/video) – $3000
-   Food/drinks - $3000
-   Event Staff - $1000
-   TOTAL: $15,000
 How do you plan to scale the success of your proposal?: >-
   There are many opportunities to scale the success of the Human Library
   Project, including an annual event hosted at the SIJCC or another location,

@@ -27,8 +27,8 @@ project_areas:
   - Antelope Valley
   - City of Los Angeles
 maker_answers:
+  'City, State': Los Angeles
   How do you plan to use these resources to make change? Implement and track policy: '1'
-  How did you hear about this challenge?: via a friend who thought HappyCity Los Angeles should enter
   Organization(s) name(s): HappyCity Los Angeles
   Organization(s) mailing address(es): '12419 Marshall St. Los Angeles, CA  90066'
   Organization(s) website(s): 'http://www.happycity.us/'
@@ -81,7 +81,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': Los Angeles
+  How did you hear about this challenge?: via a friend who thought HappyCity Los Angeles should enter
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -153,19 +153,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "The Los Angeles Wellbeing Project’s Vision 80 will be evaluated based on a single index ranging from 0 to 100 with the goal to exceed 80 based on the data collected from respondents from the Gross National Happiness Index surveys.  An example of the output that this methodology can provide can be seen at the website: http://www.happycity.us/los-angeles.html\r\n\r\nIn order to work in conjunction with the goals set forth by LA 2050, our “Los Angeles Wellbeing Project’s Vision 80” will aim to target meeting those goals by 2050. \r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "In 2013, the City of Santa Monica was awarded $1 million from Bloomberg Philanthropies to launch the \"Santa Monica Wellbeing Project\" (http://wellbeing.smgov.net/about/wellbeing-project).  HappyCity Los Angeles will work collaboratively with the team to adopt its methodology to expand the work beyond Santa Monica to the Greater Los Angeles.    \r\n\r\nOur approach will be unique in that the goal would be to expand the work in the future to other cities across the U.S. with Los Angeles leading the way via the outcomes from the \"Los Angeles Well-Being Project\". \r\n "
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "A 20% allocation of the $100,000 grant award is currently estimated for our partners. \r\n\r\nUSC Dornsife Department of Psychology, Los Angeles Promise Zones Project (a White House initiative in collaboration with the U.S. Dept of Housing & Urban Development & Youth Policy Institute), Office of Mayor Eric Garcetti (Sustainable City pLAn & Plan for a Healthy Los Angeles), City of Los Angeles Neighborhood Councils, City of Santa Monica (Santa Monica Wellbeing Project), RAND Corporation, the New Economics Foundation, Centre for Bhutan Studies & GNH Research and the United Nations (17 Sustainable Development Goals), Rockefeller Foundation's 100 Resilient Cities campaign and more.\r\n\r\n\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We would use the funding that the City of Santa Monica was granted of $1M as
-    our benchmark to accomplish a project of this magnitude but will attempt to
-    complete the project without outsourcing the work to other consultants (i.e.
-    RAND Corporation) in order to reduce the costs.  In doing so, we will likely
-    be able lower the cost by 25-35% and rather than creating our own technology
-    platforms to use as tools for the data collection, we will use a low cost or
-    free platform such as those offered from Google and/or partner with
-    organizations such as the Happiness Alliance to use their resources to
-    reduce the overall technical infrastructure costs of the project.  Any
-    amount that is over $100,000 will be raised via crowdfunding specifically
-    designed for nonprofits (i.e. GiveGab).
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "A detailed budget can be found at the Google Spreadsheet link provided below: \r\n\r\nhttps://docs.google.com/spreadsheets/d/1NlSxpaZcIcYF8BB0-WjixGPDWBHK2GvsxESKmNM0ozA/edit#gid=0"
   How do you plan to scale the success of your proposal?: "The Los Angeles Well-Being Project will  be designed to be able to scale to other cities across the U.S. via its technology infrastructure.   HappyCity also has volunteer hosts in other cities and has a goal to expand to 10 cities by March 2016, all which would adopt the methodology that will be developed through this project.\r\n\r\n"
 areas_impacted: ''
 partners: ''
@@ -215,22 +202,6 @@ Are there other organizations doing similar work (whether complementary or compe
   partners. 
    
    USC Dornsife Department of Psychology, Los Angeles Promise Zones Project (a White House initiative in collaboration with the U.S. Dept of Housing & Urban Development & Youth Policy Institute), Office of Mayor Eric Garcetti (Sustainable City pLAn & Plan for a Healthy Los Angeles), City of Los Angeles Neighborhood Councils, City of Santa Monica (Santa Monica Wellbeing Project), RAND Corporation, the New Economics Foundation, Centre for Bhutan Studies & GNH Research and the United Nations (17 Sustainable Development Goals), Rockefeller Foundation's 100 Resilient Cities campaign and more.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We would use the funding that the City of Santa Monica was granted of $1M as
-  our benchmark to accomplish a project of this magnitude but will attempt to
-  complete the project without outsourcing the work to other consultants (i.e.
-  RAND Corporation) in order to reduce the costs. In doing so, we will likely be
-  able lower the cost by 25-35% and rather than creating our own technology
-  platforms to use as tools for the data collection, we will use a low cost or
-  free platform such as those offered from Google and/or partner with
-  organizations such as the Happiness Alliance to use their resources to reduce
-  the overall technical infrastructure costs of the project. Any amount that is
-  over $100,000 will be raised via crowdfunding specifically designed for
-  nonprofits (i.e. GiveGab).
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  A detailed budget can be found at the Google Spreadsheet link provided below: 
-   
-   https://docs.google.com/spreadsheets/d/1NlSxpaZcIcYF8BB0-WjixGPDWBHK2GvsxESKmNM0ozA/edit#gid=0
 How do you plan to scale the success of your proposal?: >-
   The Los Angeles Well-Being Project will be designed to be able to scale to
   other cities across the U.S. via its technology infrastructure. HappyCity also

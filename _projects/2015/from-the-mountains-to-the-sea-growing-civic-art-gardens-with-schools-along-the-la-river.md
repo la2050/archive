@@ -27,8 +27,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  'City, State': 'Los Angeles, Ca'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: Good.is
   Organization(s) name(s): Unycyn Civic Arts
   Organization(s) mailing address(es): "po box 276 \r\nPacific Palisades, CA 90272"
   Organization(s) website(s): www.flowproject.la
@@ -79,7 +79,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  'City, State': 'Los Angeles, Ca'
+  How did you hear about this challenge?: Good.is
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -165,8 +165,6 @@ maker_answers:
     within a united program and vision. Partners will not be receiving money
     from the initial grant. Schools and artists may receive support, though not
     necessarily from the initial grant.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The pilot civic art garden project will cost $500k. Money for this will be raised by selling selected tiles of the artwork, patron donations, and crowdsourcing platforms, online auctions, merchandise related to the projects and foundations whose missions align with our vision, as well as parent and community sponsored events. We will document this process to provide a program for other host schools, along with coordinating opportunities and resources to develop civic art gardens along the river near their schools.\r\n\r\nWe've also developed technology tools to help support projects like ours: flowproject.la, a crowdsourcing website matching projects with patron gifts of time, talent, resources and treasure, and it's offshoot thecurrent, an enewsletter, connect participants and patrons with projects, news and events. All these sustainable revenue streams will help support the growth of the program as well as the growth of each site."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Project Coordination  $20k\r\nProgram Administration $20k\r\nPermits $10k\r\nDesign Fees $10k\r\nProfessional Services (accounting/legal/insurance) $10k\r\nDocumentation of Prototype Process to become Civic Design Program $10k\r\nSchool Program Support $10k\r\nUpdate/Maintain Unycyn Civic Arts Databases: flowproject.la, unycyn.com $10k"
   How do you plan to scale the success of your proposal?: "We will produce a prototype civic art garden, document the process, and develop a program expanding this opportunity to other schools along the river, serving students from elementary though grad school. The program includes events connecting communities at the site(s).\r\n\r\nWe've identified 8 high schools along the river as pilot sites, from public schools specializing in the arts, to parochial schools for catholics and muslims. The other 2 two schools we plan to work with are Inner City Arts to reach elementary school children and Sci-Arc to offer college and graduate students opportunities to engage in real world applications of civic design studies.\r\n\r\nWinning the LA2050 grant will provide seed money for the coordination of partners with this program and producing the prototype garden. In addition to the treasure, winning the LA2050 grant offers opportunities for counsel and potential partnerships with your advisors and their time, talents and resources as well. It would be an honor to work with you to help make LA a better place to play in the most livable, educational, connecting and creative senses of the word! Thanks for the opportunity to share our project and ideas with the public!"
 areas_impacted: ''
 partners: ''
@@ -241,25 +239,6 @@ Are there other organizations doing similar work (whether complementary or compe
   united program and vision. Partners will not be receiving money from the
   initial grant. Schools and artists may receive support, though not necessarily
   from the initial grant.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The pilot civic art garden project will cost $500k. Money for this will be
-  raised by selling selected tiles of the artwork, patron donations, and
-  crowdsourcing platforms, online auctions, merchandise related to the projects
-  and foundations whose missions align with our vision, as well as parent and
-  community sponsored events. We will document this process to provide a program
-  for other host schools, along with coordinating opportunities and resources to
-  develop civic art gardens along the river near their schools.
-   
-   We've also developed technology tools to help support projects like ours: flowproject.la, a crowdsourcing website matching projects with patron gifts of time, talent, resources and treasure, and it's offshoot thecurrent, an enewsletter, connect participants and patrons with projects, news and events. All these sustainable revenue streams will help support the growth of the program as well as the growth of each site.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Project Coordination $20k
-   Program Administration $20k
-   Permits $10k
-   Design Fees $10k
-   Professional Services (accounting/legal/insurance) $10k
-   Documentation of Prototype Process to become Civic Design Program $10k
-   School Program Support $10k
-   Update/Maintain Unycyn Civic Arts Databases: flowproject.la, unycyn.com $10k
 How do you plan to scale the success of your proposal?: >-
   We will produce a prototype civic art garden, document the process, and
   develop a program expanding this opportunity to other schools along the river,

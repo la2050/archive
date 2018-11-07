@@ -19,8 +19,8 @@ project_areas:
   - SGV
   - LA COUNTY
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: Los Angeles
   org_website: www.piecebypiece.org
   org_twitter: '@LAMosaicMecca'
   org_facebook: piecebypiecela
@@ -74,7 +74,7 @@ maker_answers:
   org_name: Piece by Piece
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: Los Angeles
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '0'
@@ -131,8 +131,6 @@ maker_answers:
     the LA Mosaic Mecca project assures achievement of goals.
   major_challenges: "Serving vulnerable populations.  \r\nWe recognize that challenges are inherent to any project that centers on the participation of at-risk and vulnerable populations.  The Mosaic Mecca project centers on arts-learning activity directed to residents of housing aimed at stabilizing vulnerable individuals, including recently-homeless veterans, homeless persons who have been recently-incarcerated and others who face challenges stemming from substance addiction, mental illness, physical disability and similar characteristics observed among those who live well below poverty level.  The strategy to assure success includes close collaboration with Trust counselors, case managers and other program staff dedicated to supporting the success of Residents in retaining stable housing, improving wellness and enhancing self-sufficiency.  Importantly, the extensive program staffing with Trust buildings, including case managers, counselors, health professionals and advocates supporting both the recently incarcerated and veterans significantly reduce challenges in providing effective arts learning experiences and employment opportunity.\r\n\r\nPublic Art Coordination.  \r\nCreating a major public art mosaic manifested through broad community participation (artists, volunteers, groups) in partnering with our trained Artisans (and Artisans in training) will require broad partnership with other Arts organizations and resources centered on design and creation of public art as well as service organizations within Skid Row.  Our leadership team is well positioned to solicit support from every sector, and will foster a spirit of collaboration as a strategy for successful completion of the project.\r\n"
   competition: "Although many arts organizations provide learning experiences, there exist no comparable organizations in Los Angeles. Unique is the approach of making art learning central to workforce development in Skid Row, thereby offering participants, many with little education and limited employment experience, the opportunity to grow soft skills -- such as following instruction, complying with rules, and working in teams – while simultaneously developing hard skills in mosaic design, technique and fabrication.  The innovation is with applying arts learning to  workforce development practice.  The model offers unskilled transitional employment as well as skills training for income earned, post-training, as professional Artisans with advanced skill, and as Artist entreprenuers.\r\n\r\nPiece by Piece is host to a large and growing network of professional artists, engaging more than twenty-five artists in its Visiting Artist series, each uniquely contributing to our training program.  These artists work directly with our participants, in workshops operating in residential community rooms of Trust supportive housing apartments, in the expansive community spaces of the Star complex, or in Piece by Piece studio environs to foster learning and cultivate professional artistic skills among participants.  Successful participants graduate to become a Piece by Piece Artisan, and in this capacity contribute their art skills, as paid Artisans, to completion of large-scale public art and other commissions procured by Piece by Piece.\r\n"
-  cost: "$100,000 will cover costs for compensation to artists and participants, material costs for events, publicity costs and social media management.  The funding will additionally provide for technical training and engineering, mechanical or construction services as may be needed.  Professional development costs covered by the funding include dollars for partners bringing technical design and other skill to the project, as well as graphic services as may be required.\r\nThe overhead costs of project leadership and the vaste infrastructure of facilities and personnel within Skid Row Housing Trust buildings are provided by SRHT.  Artistic knowledge, resources and connections are supplied by Piece by Piece through its ordinary operations.\r\n"
-  budget: "Artistic Staffing   $42,000\r\nArtisan Support Staffing  $24,000\r\nMaterial Costs / Events:  $12,000\r\nPartners/ Contractual Agreements:  $18,000\r\nPromotions:  $4,000\r\n"
   resources_money: '0'
   resources_staff: '1'
   resources_publicity: '1'

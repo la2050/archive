@@ -21,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_learn_communitycollege: '0'
   collaboration: "At Teach For America, we believe that transformation happens through partnership. We consistently engage with other partners in this work, such as First 5 LA, as collaboration is essential to our efforts to further our ECE initiative. Our confirmed partnerships with the following organizations are vital to the success of our program:\r\n\r\n1. Loyola Marymount University (LMU), our university partner for over a decade, where our corps members enroll in credentialing courses during the school year and pursue their Master’s degrees during their second year. In the 2013-14 school year, all of our ECE corps members completed their Master’s degrees at LMU. \r\n\r\n2. Westside Children’s Center, one of our ECE partner schools, provides high-quality early education programs to serve 400 at-risk children (ages 0 – 5) from very low-income families in southwest Los Angeles County. Since 2012, our ECE corps members have attended summer institute training at Westside Children’s Center, during which they receive training in pedagogy and teaching strategies in model classrooms. The teachers at Westside Children’s Center mentor our corps members and gain exposure to the Teach For America instructional program. The current CEO of Westside Children’s Center, Heather Carrigan, joined Teach For America – Los Angeles’ inaugural class after graduating from Princeton University in 1990. While teaching at Warren Lane Elementary School in Inglewood, Heather learned first-hand about teachers’ daily struggles combating educational disparities and has since committed her career to fighting poverty through education reform.\r\n\r\n3. St. Anne’s, one of our ECE partner schools, serves some of the most abused, abandoned, neglected, and otherwise challenged young women and children in Los Angeles County. St. Anne’s offers an array of comprehensive programs including but not limited to, transitional housing, child care, family literacy, and educational and vocational preparation. All of their programs strive to empower and educate by providing the highest level of care and resources so as to help young women and children recognize their own value and potential, giving them the hope and the tools needed for a better future."
-  metrics_learn_earlyeducation: '0'
   org_website: 'http://www.teachforamerica.org/where-we-work/los-angeles'
   org_twitter: 'https://twitter.com/TFA_LA'
   org_facebook: 'https://www.facebook.com/teachforamerica'
@@ -75,7 +75,7 @@ maker_answers:
   who_benefit: "By bringing in and supporting highly committed and effective ECE teachers, Teach For America – Los Angeles is playing a pivotal role in the trajectory of Los Angeles’ young students’ education, shaping their initial understanding of what it means to be a successful student and an active member of a learning community. Teaching in some of the highest-need communities in Los Angeles, our ECE corps members will serve over 300 students and their families each day in the 2014-15 school year. The beneficiaries of our work are verified through their qualification for the federal free- and reduced-price lunch program. Children from families with incomes at or below 185% of the poverty level (which equates to $43,568 for a family of four in 2014) are eligible for reduced-price or free meals. Over 95% of the students we serve on a daily basis are eligible for this program. We currently estimate that 60 to 80% of the students we serve are Latino, and 20 to 40% are African American. \r\n\r\nThe work we do is about people. It is about our students, who have the potential to achieve at the highest levels. It is about their parents, who want the best for their children and their community. It is about our corps members, who work relentlessly to lead their students on more promising academic trajectories. It is about our alumni, who work in education and across a variety of fields to accelerate the pace of change. It is about our staff members, supporters, and partners, who make all of these efforts possible. Together, this movement of individuals reflects a rich diversity of experiences and is united by a shared vision that one day, all children in this nation will have the opportunity to attain an excellent education."
   about_you: 'Los Angeles, CA'
   org_name: Teach For America - Los Angeles
-  metrics_learn_communitycollege: '0'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '1'
   metrics_learn_graduationrates: '1'
   metrics_learn_proficiency: '1'
@@ -111,28 +111,6 @@ maker_answers:
     connect corps members, creating an unparalleled pipeline of outstanding
     leaders with the insight, experiences, and commitment to effect the systemic
     changes necessary to ensure educational opportunity for all.
-  cost: >-
-    We estimate that our efforts to train and support our current 8 ECE corps
-    members, and recruit and select an additional 8 ECE corps members to teach
-    in the 2015-16 school year will cost $317,462. This figure includes the
-    $20,000 ECE salary differential, enabling us to supplement our current ECE
-    corps members’ salaries to maintain our guaranteed minimum salary of
-    $34,000. Teach For America – Los Angeles has garnered significant support
-    from a number of diverse community stakeholders across all sectors. We have
-    been invited to apply to the Atlas Family Foundation to potentially
-    supplement our ECE corps members’ low salaries and are also pursuing ECE
-    funding from the W.M. Keck Foundation. As we grow and diversify our funding
-    base, we aim to identify and request support from other potential ECE
-    funders.
-  budget: >-
-    For the 2014-15 school year, we estimate that our ECE initiative in Los
-    Angeles will cost $317,462. This budget includes our efforts to recruit 8
-    new ECE corps members to teach in the 2015-16 school year, as well as to
-    train and support our 8 ECE corps members who are currently teaching. The
-    $100,000 from LA2050 will go towards our current ECE corps members’ salary
-    differential (to supplement their low salaries and bring them up to Teach
-    For America – Los Angeles’ guaranteed $34,000 salary), as well as enable us
-    to expand our efforts and further our impact in ECE classrooms.
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

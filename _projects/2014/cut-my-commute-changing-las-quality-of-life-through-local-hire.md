@@ -16,8 +16,8 @@ project_areas:
   - SOUTH LA
   - WESTSIDE
 maker_answers:
+  metrics_live_selfsufficiency: '1'
   metrics_live_healthyfood: '0'
-  city_state: 'Los Angeles, CA'
   org_website: www.FASTLa.org
   org_twitter: www.twitter.com/urbanannieLA
   org_facebook: 'https://www.facebook.com/urbananniela '
@@ -61,7 +61,7 @@ maker_answers:
   org_name: Urban Collaborations Group (Partnering with FAST.org)
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '1'
+  city_state: 'Los Angeles, CA'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '1'
   metrics_live_homelessness: '0'
@@ -91,12 +91,6 @@ maker_answers:
     commitment marries passion for giving back to a strategic plan.   
   major_challenges: "Funding – Establishing A 5-Year plan:\r\n\r\nWhile we are confident we can achieve agreement with employers to participate and set the standards to prove emissions savings, building momentum will take several years.  Resources necessary to bring the talent to the table will be significant but achievable.  With the initial investment, an experienced funding team will identify sources with the objective of capturing $1 million in gap funding to continue to develop the local hire infrastructure that will include upgrade of information systems.  The team will include experts that understand foundational expectations, crowd-sourcing measures, philanthropic and governmental sources.  In addition, the team will advance ideas for products or services that become a part of the funding platform over time.\r\n\r\nCapturing Public & Private Participation & Momentum:\r\n\r\nThe program’s benefits must be conveyed to a diverse audience.  The consultant team’s budget includes experts practiced in communicating and enhancing participation through through marketing materials as well as social media, including Twitter, FaceBook and YouTube. \r\n\r\nWe will continue briefings with local stakeholders including government, residents and business organizations working with FASTLA.org's network."
   competition: "FASTLA.org is one such organization with a similar purpose though our focus is creating the mechanism Local Hiring movement that will result in a better quality of life – reduced driving times, cleaner air etc.  There are many organizations committed to health community actions though they are not competitive.  \r\n\r\nBased on our research and current discussions with stakeholders,  we expect support of the concept and acceptance of the broad benefits described here from a host non-profits, government agencies, businesses and community-based organizations."
-  cost: >-
-    Over the next five years we anticipate a reserve of a $1,000,000 will be
-    required to cover costs to implement the program with measurable results. 
-    The details of a total 5-year budget will be examined in the first year with
-    the help of the funding strategist. 
-  budget: "Funding Advisor                                                  $ 15,000\r\nCommunications Firm                                        $ 20,000\r\nFAST.org Management and Consulting\t  $   6,000\r\nCool Climate Lab Consulting\t                          $ 15,000\r\nTransportation Management Services\t          $ 20,000\r\nTechnology Partner\t\t                                  $ 15,000\r\nContingency \t                                                  $   9,000\r\n--------------------------------------------------------------------------------\r\nTOTAL $100,000"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

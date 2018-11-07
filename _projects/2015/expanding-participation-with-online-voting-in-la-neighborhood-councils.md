@@ -19,8 +19,8 @@ project_areas:
   - South LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: I've followed LA2050 & Goldhirsh for the past couple years.
   Organization(s) name(s): Civic Tech USC
   Organization(s) mailing address(es): '350 S Grand Ave, Suite 3350, Los Angeles, CA 90071 '
   Organization(s) website(s): 'http://civictechusc.org/'
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: I've followed LA2050 & Goldhirsh for the past couple years.
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
@@ -143,11 +143,6 @@ maker_answers:
     General Manager of EmpowerLA, the department that runs the neighborhood
     council system. Liu is excited about our proposal and has given us access to
     data, staff, and other resources to study the 2016 elections.  
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Our budget is $100,000, which includes original research; interviews,
-    outreach to, and convenings with residents and local officials; and
-    producing materials like a report on online election best practices for LA.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Project Lead (1/3 time) - $20,000\r\n  Fringe (33.5%) - $6,700\r\n\r\n3 Graduate-Level Researchers (1/4 time) - $37,500\r\n3 Student Workers (200 hr each @ $12/hr) - $7,200\r\n\r\nMeetings & Events - $6,000\r\nReports & Website - $5,000\r\nTravel & Miscellaneous - $4,000\r\nFringe & Research Center F&A (15%) - $12,960\r\n\r\nTOTAL = $99,360"
   How do you plan to scale the success of your proposal?: >-
     The 2016 online voting pilot is in 35 of LA's 96 neighborhood councils, and
     we will work with EmpowerLA to distribute best practices and conduct
@@ -194,23 +189,6 @@ Are there other organizations doing similar work (whether complementary or compe
   General Manager of EmpowerLA, the department that runs the neighborhood
   council system. Liu is excited about our proposal and has given us access to
   data, staff, and other resources to study the 2016 elections.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Our budget is $100,000, which includes original research; interviews, outreach
-  to, and convenings with residents and local officials; and producing materials
-  like a report on online election best practices for LA.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Project Lead (1/3 time) - $20,000
-    Fringe (33.5%) - $6,700
-   
-   3 Graduate-Level Researchers (1/4 time) - $37,500
-   3 Student Workers (200 hr each @ $12/hr) - $7,200
-   
-   Meetings & Events - $6,000
-   Reports & Website - $5,000
-   Travel & Miscellaneous - $4,000
-   Fringe & Research Center F&A (15%) - $12,960
-   
-   TOTAL = $99,360
 How do you plan to scale the success of your proposal?: >-
   The 2016 online voting pilot is in 35 of LA's 96 neighborhood councils, and we
   will work with EmpowerLA to distribute best practices and conduct training

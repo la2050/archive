@@ -13,8 +13,8 @@ project_image: 'https://img.youtube.com/vi/Cb6MAN2lVkg/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Cb6MAN2lVkg'
 project_areas: []
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthcare: '0'
-  metrics_live_airtoxins: '1'
   org_website: 'http://safecast.org'
   org_twitter: '@safecast'
   org_facebook: 'http://www.facebook.com/safecast'
@@ -78,7 +78,7 @@ maker_answers:
   metrics_live_healthyfood: '0'
   city_state: los angeles
   org_name: Safecast
-  metrics_live_selfsufficiency: '0'
+  metrics_live_airtoxins: '1'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '0'
@@ -123,16 +123,6 @@ maker_answers:
     to get more into the field, but this results in untrustworthy data. We opt
     for more expensive sensors that are reliable and provide quality data that
     be acted on directly.
-  cost: >-
-    We're funded by a variety of different sources and grants currently, this
-    would be specifically for Los Angeles and deploying sensors here so we can
-    craft any budget for the project.
-  budget: >-
-    This is a scaling issue, right now our prototypes cost about $2000 each,
-    with $100,000k we could build 50 of those and deploy them immediately. We
-    need to do a little more work to make them production ready, but I suspect
-    those will be half as much, so assuming some of that money is spent on
-    development, we can probably still deploy 75-85 sensors.
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

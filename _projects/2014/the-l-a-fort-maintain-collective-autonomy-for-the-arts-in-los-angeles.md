@@ -16,8 +16,8 @@ project_areas:
   - CENTRAL LA
   - LA COUNTY
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: 'Los Angeles, Ca'
   org_website: www.thelafort.net
   org_twitter: 'http://www.twitter.com/thelafort'
   org_facebook: 'https://www.facebook.com/TheLAFort'
@@ -71,7 +71,7 @@ maker_answers:
   org_name: The L.A. Fort
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: 'Los Angeles, Ca'
   metrics_create_patents: '0'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '1'
@@ -94,8 +94,6 @@ maker_answers:
   achievable_goal: "We are a very hard working team. Our space is almost unrecognizable from when we moved in a little over a year and a half ago. Up until now, we have been totally self sufficient relying on the willingness of our community for material, financial, and time donations. We have already done the majority of the leg work, most important of which, creating a positive reputation. With the proper funding it would not take us long to reach our desired goal. \r\n"
   major_challenges: "1. The biggest barrier we face is the lack of funds to implement all of our ideas. We have a very strong team full of ambition and unique dreams that want to succeed and build new ways to participate in the music and arts in Los Angeles while creating creative economy and developing social and cultural awareness.  \r\n\r\n2.Permits can be a difficult process in Los Angeles but with our funding, we will be able to hire a permitting consultant to make sure that we are abiding by California law and can move forward successfully. \r\n"
   competition: "Think Tank Gallery in downtown Los Angeles is an arts cooperative that hosts alternative art and music events and includes live/work spaces. Another similar space is ArtShareLA which is a sanctuary for the arts in downtown LA that hosts community events and has live/work space. \r\n\r\nThe main difference between these two spaces and The L.A. Fort  is the amount of agency we give to the public and our membership. There are no walls between those who run the Fort and those who are involved. Our structure is set up to allow people to become as involved as they want to be from just attending programs, all the way to running programs and administration while continuing to maintain our integrity and strong image. Although we are able to name similar organizations, we differ in our organizational structures in order to empower and create a strong base for the creative community to grow. \r\n"
-  cost: "We will utilize all $100,000 for update and installing four (4) unisex ADA compliant bathrooms and file a lot change with the city. We will also update all of our electricity and lighting for green efficiency along with our Sound Reinforcement & Lighting System in our theater and performance space.In addition we will update our air conditioning, concrete floor and bring new opportunities to our programs.\r\nIf any additional costs accrue, we will continue to pursue state, city and federal grants as well as seek private donors and investors.\r\n"
-  budget: "$40,000 - (4) unisex ADA compliant bathrooms\r\n$30,000 - LOT change of use with the city of Los Angeles, from storage to community center \r\n$10,000 -Updating Sound Reinforcement and lighting system\r\n$5,000 - Updating our electricity and house lighting for green efficiency \r\n$5,000 - Update our concrete floor \r\n$5,000 - Upgrading our air conditioner unit in install ducting throughout the building \r\n$5,000 - Creating entrepreneurial opportunities through our programming, enabling our members to empl"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '0'

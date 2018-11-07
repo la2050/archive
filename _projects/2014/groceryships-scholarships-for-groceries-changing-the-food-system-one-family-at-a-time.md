@@ -22,8 +22,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_selfsufficiency: '1'
   metrics_live_healthyfood: '1'
-  city_state: Los Angeles
   org_website: www.groceryships.org
   org_twitter: '@groceryships'
   org_facebook: facebook.com/groceryships
@@ -72,7 +72,7 @@ maker_answers:
   org_name: Groceryships
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '1'
+  city_state: Los Angeles
   metrics_live_importedwater: '0'
   metrics_live_obesity: '1'
   metrics_live_homelessness: '0'
@@ -95,8 +95,6 @@ maker_answers:
   achievable_goal: "On August 13, 2014, the first Groceryships group will graduate in South Central Los Angeles. Two weeks later, on August 27th, the second class in the same location will begin. This South Central group is our flagship group, and will receive much of our focus. In October of this year, we will launch a new group at Homeboy Industries, our first satellite location. These groups -- South Central and Homeboy -- are our minimum number of groups for year 2. However, we expect that by the beginning of year 3, we will have at least 5 groups up and running.\r\n\r\nStrategically, our focus in year 2 will be on refining our program model and establishing a sustainable fundraising structure. \r\n\r\nTo refine our program, we will take the following steps:\r\n\r\n•\tProgram Binder--we will create a program binder that includes the curriculum, emotional topics, recipes, journal, and program outline. These will be handed to our next groups of families on the first day of class, and over time will iteratively develop into a stand-alone book that can be sold. \r\n\r\n•\tIncentive Structure--Rather than receiving $100 gift cards, the amount will fluctuate based on completion of certain tasks. There will be a $25 floor  based purely on attendance, and each participant will have the opportunity to earn more money by, for example, demonstrating via texted photos that they ate 5 vegetables/fruits per day ($5), prepared healthy family dinners ($5), lost weight ($2.50 per pound), reviewed weekly grocery store purchases with a nutritionist ($10), and completed a daily food journal ($5). This incentive model is inspired by Family Independence Initiative, who uses a similar model to empower families to emerge from poverty. \r\n\r\n•\tImprove Data Collection & Analysis: We will complete a logic model and specify the desired outcomes of our program. We will do a health screening of each member of participant families. Additionally, we will create before, during, and after surveys to test the knowledge intake and reported behavior changes. Lastly, we will analyze our applications to discern characteristics of our applicant pool.\r\n\r\n•\tTest Different Structures: Our model includes the following variables: education, cooking demonstrations, grocery store tour, financial incentives, 25-week term, 10 family group sizes, etc. We plan to test out different variations, customized to fit potential partners.\r\n\r\n•\tSouth LA Community Film Series: We are now in talks with filmmakers Laurie David and Lori SIlverbush ..."
   major_challenges: "Funding: we are a new organization. Strategy: crowdfunding, grant applications, Corporate Wellness.\r\n\r\nStaffing: Finding health coaches who both understand nutrition, and have the heart and emotional health to create a safe space without giving \"advice\" to families is one of our biggest challenges. "
   competition: "There are about a million places teaching nutrition education and healthy cooking classes. \r\n\r\nThere are none, to our knowledge, that focus primarily on the emotional and spiritual sides of health, and consciously help families create powerful support networks. "
-  cost: "$250,000. \r\n\r\nWe are a young organization, but we are good at fundraising. In a year we raised over $100,000, and we have more on the way. Our founder, Sam Polk, is a sought after speaker, and generates honorariums to Groceryships. We also have developed facility in crowdfunding, and are launching a Corporate Wellness arm to generate profits. "
-  budget: "Groceryships Budget Aug 2014--Aug 2015\t\r\n\t\r\nRevenue\t\r\nIndividual Donors (Major)\t75,000\r\nIndividual Donors (Minor)\t25,000\r\nGrants\t50,000\r\nSpeaking\t14,000\r\nCorporate Wellness\t5,000\r\nTotal Revenue\t169,000\r\n\t\r\nOperating Costs\t\r\nSalaries & Benefits\t100,000\r\nFiscal Sponsor Fees (6.5%)\t9,588\r\nInsurance\t500\r\nIncidentals\t5,000\r\nTotal Operating Costs\t115,088\r\n\t\r\nProgram Costs\t\r\nGroup #1 -- LA's Promise (2 groups)\t\r\nGroceries\t$25,000\r\nPrinting Costs\t$500\r\nFood Demonstrations\t$1,000\r\nGroup #1 -- Total\t$26,500\r\n\t\r\nGroup #2 -- Homeboy Industries (2 groups)\t\r\nGroceries\t25,000\r\nPrinting Costs\t$500\r\nFood Demonstrations\t$1,000\r\nGroup #2 -- Total\t26,500\r\n\t\r\nProgram Costs -- Total\t$53,000\r\n\t\r\nTotal Costs\t168,088\r\n\t\r\n\t"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

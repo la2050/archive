@@ -14,8 +14,8 @@ project_image: >-
 project_video: ''
 project_areas: []
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '1'
-  city_state: 'Commerce, CA '
   org_website: www.leadinc.org
   org_twitter: www.twitter.com/LEAD_Inc
   org_facebook: www.facebook.com/leadinc.org
@@ -119,7 +119,7 @@ maker_answers:
   org_name: 'Leadership through Empowerment, Actin, and Dialogue Inc. (LEAD)'
   metrics_connect_voting: '1'
   metrics_connect_adultsupport: '0'
-  metrics_connect_traveltime: '0'
+  city_state: 'Commerce, CA '
   metrics_connect_culturalevents: '0'
   metrics_connect_publictransit: '0'
   metrics_connect_neighborhoodcouncils: '1'
@@ -182,21 +182,6 @@ maker_answers:
     and our site is easily accessible to the community.  
   major_challenges: "One of the barriers we will face is getting the community to become open about sharing their feelings and viewpoints about social issues and what they care about. Within family settings, the workplace, and school, discussing social issues can be tricky and sometimes controversial especially when you encounter people who are really passionate about a particular subject. We will have to develop relationships with community members and leaders and utilize great communication strategies. Partnering up with existing organization and institutions like churches and schools can help us with initiating conversations and we can begin to build trust with community members. \r\nThe second barrier we will face is skepticism. As mentioned before, many people in Lincoln Heights do not have the best opinions about politics and the way local issues are being addressed. As we explain to people the changes that can come about through volunteerism, voting, and involvement in local politics, people will need to see small accomplishments in order to continue to stay engaged and motivated. We will facilitate the process of dialogues between the community, local elected officials, and the local neighborhood councils in order to show that community that they can be heard if the community continues to be active and connected. Our goal for the first 12 months will be to help the community find solutions for small scale issues and then continue to work with them to tackle bigger community problems. We want to make it visual for the community to see. Based on the information we get back from our surveys, we can show the community what areas of importance can be accomplished sooner and what issues will need continuous community participation in order to affect change. We need to do a lot of positive reinforcement to the people we will work with and the community at large. Posting flyers with positive messages and successes stories will be part of that strategy. \r\n "
   competition: "Southeast Asian Community Alliance (SEACA) is a non-profit that works to build an empowered community through leadership development, education, and advocacy, and community organizing. One of their focus areas is building youth leadership in the community of Northeast Los Angeles. \r\nLegacy LA is a community based non-profit organization whose mission is to make positive interventions in the lives of young people by offering alternatives to gangs and violence. The also build the capacity of young people to help them reach their full potential and equip them with the tools to transform their lives. \r\nYouthBuild Boyle Heights’ mission is to cultivate collaborative learning communities in which every student has the right to an authentic education and plays a meaningful role in creating positive social change. \r\nThese three organization have different aspects that can be complementary to what LEAD is trying to do. LEAD is unique in that we are building bridges between different age groups in the community that do not normally communicate or work together. We are going to incorporate this project into our educational curriculum and give young people service-learning opportunities that will translate into leadership development and job training skills. We can use this vehicle to spark the interest in young people to see the service sector as a place for potential careers. We are also in a unique position in that we have existing relationship with local elected officials, neighborhood councils, and community leaders and we can use this to better inform this project and influence the community in a positive way. Our approach to connecting Angelenos is to invite people from different walks of lives and different perspectives to the table when discussing community needs and solutions. Our use of social media in building supporters and igniting dialogues will set us apart from other organizations. \r\n "
-  cost: >-
-    We believe that this project is doable within the $100,000 limit. Our goal
-    is tangible enough to make a dramatic impact in Lincoln Heights and it is
-    within our capacity to accomplish. Our YouthBuild Program allows us to
-    access young people of Lincoln Heights and they will help us capture the
-    information and data we need to begin and understand the community’s needs
-    better. We also have a pool of 15-20 YouthBuild Alumni from different parts
-    of the county that would be able to help us in our voter registration
-    campaign and many of them have verbally committed. We have two grant writers
-    who are volunteering their time to research grants and write proposals to
-    support our work which will include this project. To support this project,
-    we have already applied to a grant from YouthBuild USA’s LEAP Initiative
-    that will support our goal in developing a community needs assessment and
-    engaging the community in a voter registration campaign. 
-  budget: "Project Manager and Coordinator, Allocation $65,000 \r\nThese staff will be responsible for managing the different components of the project and ensuring outcomes are met. \r\nTransportation, Allocation $5,000 \r\nCovers public transportation cost for volunteers who will be surveyors and canvassers.  \r\nProject Supplies, Allocation $10,000 \r\nMeals for volunteers and Food and refreshments for educational forums, dialogues, and community meetings.\r\nPrinting and marketing, Allocation $10,000 \r\nCost of printing of all documents and marketing materials. Also covers cost for advertisements in the community.\r\nIT and Audio Visual, Allocation $5,000 \r\nAudio visual rental equipment cost and IT support cost for educational forums and community meetings. \r\nIndirect Cost, Allocation $5,000 \r\nAdministrative and fiscal cost of the program.\r\n  \r\n "
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

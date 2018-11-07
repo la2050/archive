@@ -19,8 +19,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_learn_communitycollege: '0'
   collaboration: "The Exploratory: Maker Guilds will work with the Los Angeles Unified Public School District, Santa Monica Unified School District, Science Teachers Network, and Los Angeles Public Libraries to inform teachers and librarians about the challenge and curriculum toolkit. Our collaboration with Pearson Education Corporation will enable us to make our curriculum and project ideas easily accessible to teachers and librarians to integrate in their programs. \r\n\r\nThrough our partnership with The Summer/City of Learning, students connected with our program will have the opportunity to participate in digital badging, a program sponsored by Mayor Garcetti’s Office. This program will enable students to map their progress through their projects and show skills gained to colleges and future employers. \r\n"
-  metrics_learn_earlyeducation: '0'
   org_website: 'http://www.theexploratory.com/'
   org_twitter: '@theexploratory'
   org_facebook: 'https://www.facebook.com/TheExploratory'
@@ -68,7 +68,7 @@ maker_answers:
   who_benefit: "The Tinker.Make.Innovate Challenge will directly benefit 100 librarians and educators, and 3000+ students throughout Los Angeles. Through the Google community and the challenge manual, thousands more students will be able to take part in the challenge in their schools and libraries. The showcase has the potential to benefit 40,000 students, families, educators, and community members by inspiring them and opening their eyes to the possibilities of STEM. As this program continues beyond the 2015 funding year, it has the power to inspire the 687,534 students enrolled in LAUSD schools, over 30,000 teachers, and more than 100 librarians in Los Angeles County directly. \r\n"
   about_you: 'Los Angeles, CA'
   org_name: 'The Exploratory: Maker Guilds'
-  metrics_learn_communitycollege: '0'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '1'
   metrics_learn_graduationrates: '1'
   metrics_learn_proficiency: '0'
@@ -90,8 +90,6 @@ maker_answers:
   achievable_goal: 'We have already established an executable timeline. '
   major_challenges: "The major barriers of the Tinker.Make.Innovate Challenge, are providing funding for additional materials to support student needs and supplying enough support to the interested educators. In anticipation of these challenges we have devised  two solutions to ensure the programs successful implementation.\r\n\r\nTo assure that materials are readily available we have reached out to a list of corporate sponsors interested in supplying in-kind donations; Maker Education Initiative and Intel are two of the corporations on this list. We are also prepared to write letters of support to any librarian or teacher interested in applying for grants to cover additional costs. \r\n\r\nTo best support  all educators and students through the design and creation process, we have recruited a team of volunteers both from local corporations and interested community members. These volunteers will be available at our Maker Space in Culver City as additional resources for our new educators. . The times they are available will be posted on The Exploratory:Maker Guilds website.\r\n"
   competition: "In Orange County, California, the Career Technical Education of Orange County has created a collaborative project called the 2014 Maker Challenge. This challenge serves as an opportunity for students to participate in STEM design projects to use 3D modeling and printing to solve a problem, need, or want. The culmination of this challenge will be a showcase exhibiting the winning student project. \r\n\r\nThe Exploratory: Maker Guilds has built a relationship with the directors of the OC Maker Challenge to learn about the difficulties and experiences in facilitating a citywide challenge. Although the aspect of the city-wide challenge is similar, the curriculum and the support of the educators both in the schools and in libraries make our program unique. \r\n"
-  cost: "We would love to expand the number of librarians and educators we can empower through our project, but the base budget of $100,000 will cover exactly 100 libraries/schools. However, the more in kind donations that can be procured, the more libraries and schools we will be able to accommodate. As we gain additional support from corporate sponsorships and in-kind donations, we will be able to provide additional services like 3D printing and laser-cutting. The project management will be donated by The Exploratory as well as through additional grants.\r\n"
-  budget: "Orientation Workshops: $2500 x 3 = $7500  ( Covers personnel, materials, space and refreshments ) \r\nAdministration of Google Community and Communications: $10,000  ( Covers personnel, equipment ) \r\nMaterials & Tools to be provided for 100 Libraries and Teachers : $750 x 100 = 75,000 ( Actual list of materials to come \r\nTravel reimbursement for volunteers training librarians and teachers: $35/ session stipend * 200 = $7000\r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

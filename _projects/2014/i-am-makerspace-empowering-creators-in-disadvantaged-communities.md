@@ -15,8 +15,8 @@ project_areas:
   - EAST LA
   - LA COUNTY
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: 'Los Angeles, CA'
   org_website: www.iamangelfoundation.org
   org_twitter: '@iamangelfdn'
   org_facebook: www.facebook.com/iamangelfoundation
@@ -71,7 +71,7 @@ maker_answers:
   org_name: i.am.angel Foundation
   metrics_create_arts: '1'
   metrics_create_manufacturing: '1'
-  metrics_create_researchgrant: '0'
+  city_state: 'Los Angeles, CA'
   metrics_create_patents: '0'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '1'
@@ -101,15 +101,6 @@ maker_answers:
   competition: >-
     Not to the degree of quality of programming and opportunities that will.i.am
     and the i.am.angel foundation are able to provide.  
-  cost: >-
-    Running a full-fledged Makerspace could cost up to $800,000 a year or more,
-    but we've been able to save a lot in rental costs with a donated space in
-    the Sears Building.  We also have the fundraising mechanisms in place to
-    cover the rest of the costs.  
-  budget: >-
-    $40,000 for a part-time site manager, $60,000 going towards paying workshop
-    instructors and purchasing equipment.  (We already have a lot of donated
-    equipment and a donated space) 
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

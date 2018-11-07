@@ -29,8 +29,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  'City, State': 'Gardena, CA'
   Organization(s) mailing address(es): '15916 Crenshaw Boulevard, Gardena, CA 90249'
   Organization(s) website(s): www.westcalacademy.com
   Organization(s) twitter handle(s): www.twitter.com/westcalacademy
@@ -78,7 +78,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Gardena, CA'
   Organization(s) name(s): WestCal Academy
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -212,16 +212,6 @@ maker_answers:
     Educational Chair, ASNT-GLAS; Dianne Philibosian, Ph.D., Director, Community
     Health & Wellbeing, Cal State Northridge; Joaquin Santos, Business Manager,
     LIUNA!; Ali Tweini, Trustee, Teamsters Local 2010
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    WestCal Academy connects with the instructor of record who teaches multiple
-    subjects (political science, anthropology, engineering, sociology,
-    psychology, etc.) $100,000 will allow us to expand our program to multiple
-    classes in all nine campuses of the Los Angeles Community College District.
-    WestCal Academy will then link with feeder high schools of those campuses to
-    connect high school students with our program. Additional costs to maintain
-    WestCal Academy operations come from private donations and in-kind
-    contributions (facilities, food, internet, phones, etc.)
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Yearly Budget For Proposal\r\n\r\n1. Twelve months administrative oversight (supervising and instructional support): $40,000\r\n2. Twelve months dedicated space In Gardena headquarters (including utilities - $500 per month) $6000.00\r\n3. Twelve months - Four Part-time WestCal Student Ambassadors ($960 per month per employee) $46,080 \r\n4. 20,000 4 panel programs: $2,001.29\r\n5. Traveling expenses for transportation of speakers to schools: $5,918.71\r\n\r\n\r\n"
   How do you plan to scale the success of your proposal?: >-
     WestCal Academy has successfully proven our concept with students attending
     Los Angeles Trade Technical College and Los Angeles Mission College. Many of
@@ -300,23 +290,6 @@ Are there other organizations doing similar work (whether complementary or compe
   ASNT-GLAS; Dianne Philibosian, Ph.D., Director, Community Health & Wellbeing,
   Cal State Northridge; Joaquin Santos, Business Manager, LIUNA!; Ali Tweini,
   Trustee, Teamsters Local 2010
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  WestCal Academy connects with the instructor of record who teaches multiple
-  subjects (political science, anthropology, engineering, sociology, psychology,
-  etc.) $100,000 will allow us to expand our program to multiple classes in all
-  nine campuses of the Los Angeles Community College District. WestCal Academy
-  will then link with feeder high schools of those campuses to connect high
-  school students with our program. Additional costs to maintain WestCal Academy
-  operations come from private donations and in-kind contributions (facilities,
-  food, internet, phones, etc.)
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Yearly Budget For Proposal
-   
-   1. Twelve months administrative oversight (supervising and instructional support): $40,000
-   2. Twelve months dedicated space In Gardena headquarters (including utilities - $500 per month) $6000.00
-   3. Twelve months - Four Part-time WestCal Student Ambassadors ($960 per month per employee) $46,080 
-   4. 20,000 4 panel programs: $2,001.29
-   5. Traveling expenses for transportation of speakers to schools: $5,918.71
 How do you plan to scale the success of your proposal?: >-
   WestCal Academy has successfully proven our concept with students attending
   Los Angeles Trade Technical College and Los Angeles Mission College. Many of

@@ -20,8 +20,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: forwarded newsletter
   Organization(s) name(s): 'Pando Populus, Inc.; World Studio Foundation, Inc.'
   Organization(s) mailing address(es): "Pando Populus:  8391 Beverly Blvd. #460, Los Angeles, CA 90048\r\nWorld Studio Foundation:  200 Varick Street, #507, New York, NY 10014"
   Organization(s) website(s): 'http://www.PandoPopulus.com'
@@ -78,7 +78,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: forwarded newsletter
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -139,8 +139,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Qualitatively, success means we will develop critical intelligence to foster a Hub network across LA where healthy food can be accessed, air pollution and carbon footprint levels are reduced, opportunities for green jobs arise and self-sufficiency increases, obesity, mental illness and addiction are addressed in more holistic ways, homeless people come to know less alienation, and living in closer relationship to LA-area plants and animals is valued.\r\n\r\nQuantitatively, we will:\r\n\r\no\tID and describe some 10-12 locations of ecological civilization in LA.\r\no\tWrite 3 case studies seeking to understand successful Hub models.\r\no\tAssess small-bets success in nurturing Hub development and growth.\r\no\tDevelop detailed next-step plans based on above research and assessments.  \r\no\tCreate a workable next-steps plan.\r\no\tDemonstrate concept buy-in over social media, including online conversations. \r\no\tIdentify at least 10 opportunities for next-step funding from among a diverse range of funders.\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Our overall orientation and roots offer us special opportunities:\r\n\r\n-- We have relations with many excellent environmental organizations in the city. But we likely hold a singular position in LA among those who are interested in the intersection of big ideas and the Earth.  This emphasis allows us to link a broader diversity of subjects, people, and organizations than groups that focus on a single set of issues. Our inaugural conference in Claremont in June featured more than 80 fields of specialty exploring fundamental assumptions of culture, on behalf of the Earth.  The relationship between broad, transdisciplinary subjects and the planet has been the main focus of our founding chairperson, John B. Cobb, Jr., since at least 1971. \r\n\r\n--Many diverse faith-based organizations are also concerned about creating a healthier LA, broadly conceived. We are collaborating with a number of them, from major world religions to interfaith organizations to those of no faith tradition. Within Los Angeles, however, we have singular opportunities for deep interfaith relations.  Our founding chairperson, at a very active 90 years of age, has unique standing in the field as one of the leading philosophers of religion alive today, in addition to pioneering the intersection of philosophy/religion, ethics, and the environment.  \r\n\r\n--Educational institutions also are interested in a healthier and environmentally stronger Los Angeles, with UCLA as one example among many. The focus of great research institutions, however, tends to be highly specialized. Our focus is very broad, such that a healthy life cannot be understood without reference to economics, philosophy, urban planning and environmental policy as well as to biology, medicine, psychology, and on.\r\n\r\n--Within the art and design community, excellent organizations are taking advantage of LA’s forward-edge position and creating pioneering efforts in the design-for-good movement with a holistic vision in mind.  GOOD Magazine is a wonderful example. The art and design team affiliated with Pando Populus, headed by John Bielenberg, has also long been involved in design for good, with Project M as one example.  Tucker Nichols, formerly artist-in-residence at Facebook, is an example of one with whom we collaborated recently in developing images for branding and social media. World Studio Foundation has a strong track record in national programs as well. \r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "PROGRAM PARTNERS are those which, in addition to the Applicants and their staff, will be conducting program work. They include:\r\n\r\no   Future Partners (John Bielenberg and team):  10%\r\no   Marc O'Brien:  6.5%\r\no   The Millennial Project:  4%\r\no   CA College of the Arts: 0%\r\n\r\nCOLLABORATING PARTNERS are those who have agreed to advise the Applicants in the development of Pando Hubs pilot project, help us reach within their networks, and help us identify already-existing locations. In this advisory role, 15 collaborators will be offered an honorarium of $500 each to thank them for their dedicated commitment (7.5% of the budget). \r\n\r\nWe anticipate that some collaborators will likely participate in the 5-7 small bets this project will initiate, and be funded accordingly, but we will not be limited to initiating small bets within this pool. \r\n\r\n31.5% of the grant award will be reserved for 5-7 small-bet initiatives, any one of which may or may not include one of the collaborators.  The nature of small-bet initiatives, and collaborator involvement, will be determined entirely by the program partners following the process outlined in this proposal.  \r\n\r\nCollaborators include:  \r\n\r\nDesign for good\r\no   Encounter LA\r\no   LA Trade Tech (architecture)/Urban LAbs and River LAbs\r\n\r\nEnvironment/Social Justice\r\no   Amigos de los Rios\r\no   Global Business Incubator\r\no   Jobs Create Peace\r\no   Martin Luther King Coalition of Greater Los Angeles\r\no   Natural Ivy Foundation\r\n\r\nEducational and Interfaith\r\no   Bayan Claremont Islamic Graduate School\r\no   Ecological Civilization International\r\no   Hatchery LA\r\no   Progressive Christians Uniting\r\no   Southern California Committee for the Parliament of the World’s Religions\r\no   United Methodist Church:  California-Pacific Conference (Office of Justice and Compassion; the Eco-Justice Taskforce)\r\no   University of Southern California (USC) Office of Religious Life\r\no   Valley Interfaith Council\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "We have budgeted this Pando Hubs pilot initiative at $100,000.  The track records of Applicants and Program Partners, and the nature of the project as a whole (including its small bets), indicate we will stay within budget. Budget overruns would likely be due to attempting premature scale, which is not considered within the scope of this proposal.\r\n\r\nThe World Studio Foundation has a roughly 20-year track record of operations. Pando Populus is a new organization that has been independently funded to date and will continue to seek sources to support its operational costs outside of any amounts received from this award. Eugene Shirley, project manager and co-founder of Pando Populus, has a long track record in startup ventures, first in the non-profit PBS arena, then in the for-profit tech field. \r\n\r\nMost importantly, we have conceived the programs of this initiative in a way which, by nature, are designed to allow for careful cost control. \r\n\r\nWe will not extend beyond the funding approved for this pilot phase of Pando Hubs development.  \r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "INCOME:  $100,000\r\n\r\nEXPENSE:  $100,000\r\n\r\nAdministrative: $21,300\r\no\tWSF:  6% @ fee:  6,000\r\no\tProject Manager:  $1,500/mo @ 9 mo: 13,500\r\no\tOffice, all-in: $200/mo @ 9 mo: 1,800\r\n\r\nProgram: $78,700\r\no\tCollaborator honoraria: $500/ea @ 15: 7,500\r\no\tBlitz (2 dy): 7,500\r\no\tProject consult: $500/mo @ 9 mo: 4,500\r\no\tSocial media:  $750/mo @ 6 mo: 4,500\r\no\tWeb:  assume $2,000\r\no\tSmall bets: assume 7 initiatives @ average $4,500/ea: 31,500\r\no\tSmall bets program admin: $750/mo @ 6 mo: 4,500\r\no\tResearch and write-up: 9 @ $300/ea: 2,700\r\no\tCase studies write-up: 3 @ $2,000/ea: 6,000\r\no\tDetailed Plans write-up: $3,000\r\no\tTravel: allow 4 trips @ $1,250/ea: $5,000\r\n\r\n\r\n"
   How do you plan to scale the success of your proposal?: "We are launching a pilot project to explore how best to create an ecological civilization in LA, one Pando Hub at a time.  \r\n\r\nWe scale from 0 to 10 by identifying locations that are currently on the LA landscape, understanding the key features that make them work (as well as the features that don't), testing out small-bet ideas for nurturing them, and then developing models for Pando Hubs that are both meaningful in terms of creating an ecological civilization and flexible enough to meet the diversity of opportunity. \r\n\r\nThis growth can be achieved during the pilot period by working with the Pando Corps collaborators we've identified, along with others within our network.  Some additional growth will be achieved organically as we extend the Corps network and ideas spread. \r\n\r\nThe next stage of significant growth will be achieved as we create development models that respond to the most promising range of funding opportunities.  These funding opportunities likely include a full range of for-profit, non-profit, and government sources. \r\n\r\nOne model of a Pando Hub, for instance, might appeal to millennials interested in an urban intentional community; another might offer a low-cost veteran housing solution; another might function more as an urban farm and organic food-producing center. The examples are less important than the fact that each likely offers the opportunity for a different kind of funding structure and/or different model of ownership. The top tier opportunities (assessed according to feasibility and need) will be developed and tested in further pilot projects.\r\n\r\nEventually, Pando Hubs will scale on a franchise model of growth, by which we would provide the branding, a planbook(s) for implementation, and a specialist network. \r\n"
 areas_impacted: ''
 partners: '; World Studio Foundation: 133776523'
@@ -248,40 +246,6 @@ Are there other organizations doing similar work (whether complementary or compe
    o United Methodist Church: California-Pacific Conference (Office of Justice and Compassion; the Eco-Justice Taskforce)
    o University of Southern California (USC) Office of Religious Life
    o Valley Interfaith Council
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We have budgeted this Pando Hubs pilot initiative at $100,000. The track
-  records of Applicants and Program Partners, and the nature of the project as a
-  whole (including its small bets), indicate we will stay within budget. Budget
-  overruns would likely be due to attempting premature scale, which is not
-  considered within the scope of this proposal.
-   
-   The World Studio Foundation has a roughly 20-year track record of operations. Pando Populus is a new organization that has been independently funded to date and will continue to seek sources to support its operational costs outside of any amounts received from this award. Eugene Shirley, project manager and co-founder of Pando Populus, has a long track record in startup ventures, first in the non-profit PBS arena, then in the for-profit tech field. 
-   
-   Most importantly, we have conceived the programs of this initiative in a way which, by nature, are designed to allow for careful cost control. 
-   
-   We will not extend beyond the funding approved for this pilot phase of Pando Hubs development.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  INCOME: $100,000
-   
-   EXPENSE: $100,000
-   
-   Administrative: $21,300
-   o WSF: 6% @ fee: 6,000
-   o Project Manager: $1,500/mo @ 9 mo: 13,500
-   o Office, all-in: $200/mo @ 9 mo: 1,800
-   
-   Program: $78,700
-   o Collaborator honoraria: $500/ea @ 15: 7,500
-   o Blitz (2 dy): 7,500
-   o Project consult: $500/mo @ 9 mo: 4,500
-   o Social media: $750/mo @ 6 mo: 4,500
-   o Web: assume $2,000
-   o Small bets: assume 7 initiatives @ average $4,500/ea: 31,500
-   o Small bets program admin: $750/mo @ 6 mo: 4,500
-   o Research and write-up: 9 @ $300/ea: 2,700
-   o Case studies write-up: 3 @ $2,000/ea: 6,000
-   o Detailed Plans write-up: $3,000
-   o Travel: allow 4 trips @ $1,250/ea: $5,000
 How do you plan to scale the success of your proposal?: >-
   We are launching a pilot project to explore how best to create an ecological
   civilization in LA, one Pando Hub at a time. 

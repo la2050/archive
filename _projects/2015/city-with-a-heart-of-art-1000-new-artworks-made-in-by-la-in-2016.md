@@ -12,8 +12,8 @@ project_video: 'https://www.youtube.com/embed/jpQSRVlR_XM'
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: We follow y'all on instagram & twitter!
   Organization(s) name(s): Heart of Art Gallery
   Organization(s) mailing address(es): "PO Box 781361, Los Angeles, CA, 90016\r\n\r\n(formerly: 1907 Rodeo Rd., Los Angeles, CA 90018)"
   Organization(s) website(s): www.heartofartgalleryla.com
@@ -55,7 +55,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: We follow y'all on instagram & twitter!
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -134,8 +134,6 @@ maker_answers:
     group, our organization is currently working alone. 100% of the grant
     winnings will be used by the Heart of Art Gallery in 2016 to further our
     mission to provide a safe place to create in LA.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "With a budget of $100,000, our proposal has crafted a detailed budget with 2 options for our new gallery location: options to either buy or rent a new home for the gallery. \r\n\r\nLocation Option A, our preferred option to purchase, is just above the winnings at $108,300. Option B, the option to lease, is slightly more conservative and will use exactly the amount of the grant winnings: $100,000. If it turns out that this grant is non-taxable, then Option A will be estimated at $98,000 and Option B estimated at $89,700.\r\n\r\nSince our gallery’s forced closure this September, we are starting over from scratch. Our gofundme campaign is working, and although we are extremely grateful to those who have donated, it seems unlikely we could reopen for long from the amount we have earned there. \r\n\r\nThis generous grant from the LA2050/Goldhirsh Foundation grant committee will provide the funds necessary to reopen at a new location, and we plan on stretching every penny to reach as many artists and make as much art as possible in Los Angeles in 2016, but in the long run, we hope use the funds you've given us to plant seeds that Angeleno Artists may reap for many years to come. \r\n\r\nLos Angeles is our home, and we would like to invest in our city by buying a small part of it. Due to our closure, we already have to find a new location, and this seems the perfect opportunity to turn a tragedy into a mitzvah. There are many commercial real estate options in  LA, with ample private parking, that are within our price range. \r\n\r\nThe options outlined in the budget proposal assume we purchase at $325,000 (Option A), or rent at $4,500 monthly (Option B). Option A is our preferred option. Option A assumes that If we can purchase with a 20% down payment of $65,000, expecting to make a monthly mortgage of $1,750, then the grant we will have received in 2016 will lay down the infrastructure we need to stay open for generations.  \r\n\r\nOur gallery has been operating since 2011 on the donations of artists and art supporters. All of our annual gallery budget goes toward our venue and its related costs. Events, workshops, college visits, and everything else happens through volunteerism in our community, and donations from events.  The small but supplemental income from events and donations will fund the deficit between our Grant and Option A, should Option A come to fruition.  We will continue to seek donations, so that we may spend our resources and time expanding our services to artists."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Heart Of Art Gallery 2016 LA2050/GOOD Grant Budget:\r\n\r\nAll items are ESTIMATED.\r\n\r\nInitial Winning Fees: $10,300\r\n    Grant Tax at 10.3%:  $10,300\r\n\r\n2016 Business Fees: $3,000\r\n    Conversion from Profit to 501(c)3 Non-Profit: one time fee: $1,500 \r\n    2015 CA Taxes (conversion to non profit will significantly reduce this number in following years): $1,500 \r\n\r\nLocation:\r\n  Option A: Purchase: $95,000\r\n    20% Down Payment:  $65,000\r\n    Monthly $1,750 mortgage: $21,000\r\n    Insurance ($900 biannually): $1,800\r\n    Utilities (DWP/Wifi/ Security: $600 per month):  $7,200\r\n    Example property: 3575 South Jefferson, 90018  http://www.propertyshark.com/mason/Property/16270897/3575-S-Western-Ave-Los-Angeles-CA-90018/\r\n\r\n  Option B:  Lease: $86,700\r\n    Security Deposit/ First Month Move In Fees:  $9,000\r\n    Monthly $4,500 rent:  $54,000\r\n    Insurance ($900 biannually): $1,800\r\n    Utilities (DWP/Wifi/ Security: $600 per month):  $7,200\r\n    Land Improvements/Gallery Rebuild (occurring through the 12 month period):  $14,900\r\n    Example Property:  2020 South Western, 90018  http://www.loopnet.com/Listing/19356153/2020-S-Western-Ave-Los-Angeles-CA/\r\n\r\nOption A: Buy: total: $108,300\r\nOption B: Rent: total: $100,000"
   How do you plan to scale the success of your proposal?: "Our proposal will have a proven success record, given how much we have already done with almost nothing. We look forward to being able to provide our space and our services to the amazing artists of Heart Of Art Gallery. Scaling up will be easy once we have laid the infrastructure made possible by you, the 2016 grant committee.\r\n\r\nEvery year we have existed, we have grown in attendance and frequency of our programs by at least 10% (in some years 25%). This past year we hosted an event almost every other weekend with full attendance at our gallery. We expect to continue this trajectory of growth. \r\n\r\nIf we can budget for 100 creative events in 2016, we will plan for 150 in 2017. Over the next five years we plan to keep the gallery open 24/7 to always be there when our people need safety or a place to create, much like a student union at a university. We will continue to seek more artists until the day Heart of Art stops beating.\r\n\r\nAs part of our scaling model we also intend to seek funding from the television, film, streaming and advertising industries in LA.\r\n\r\nThe challenges to our success will always be the continued marginalization of women and LGBTQIA people in poor neighborhoods, but every year that passes in the US brings a few more freedoms and liberties to our communities that we didn't have before. Heart of Art Gallery can only scale up. We will continue to be activists and march for the causes of women and LGBTQIA people, and our success will be measured in direct relation to how the public treats and views us. It will never will be easy to be a creator in our community, but it will always be worth the effort.\r\n\r\nThank you so much for the opportunity to present ourselves to you, the grant committee. We are forever grateful to you for reading this and considering our submission.\r\n\r\nThank you and good luck to all LA2050 Create submitters!"
 areas_impacted: ''
 partners: ''
@@ -197,52 +195,6 @@ Are there other organizations doing similar work (whether complementary or compe
   group, our organization is currently working alone. 100% of the grant winnings
   will be used by the Heart of Art Gallery in 2016 to further our mission to
   provide a safe place to create in LA.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  With a budget of $100,000, our proposal has crafted a detailed budget with 2
-  options for our new gallery location: options to either buy or rent a new home
-  for the gallery. 
-   
-   Location Option A, our preferred option to purchase, is just above the winnings at $108,300. Option B, the option to lease, is slightly more conservative and will use exactly the amount of the grant winnings: $100,000. If it turns out that this grant is non-taxable, then Option A will be estimated at $98,000 and Option B estimated at $89,700.
-   
-   Since our gallery’s forced closure this September, we are starting over from scratch. Our gofundme campaign is working, and although we are extremely grateful to those who have donated, it seems unlikely we could reopen for long from the amount we have earned there. 
-   
-   This generous grant from the LA2050/Goldhirsh Foundation grant committee will provide the funds necessary to reopen at a new location, and we plan on stretching every penny to reach as many artists and make as much art as possible in Los Angeles in 2016, but in the long run, we hope use the funds you've given us to plant seeds that Angeleno Artists may reap for many years to come. 
-   
-   Los Angeles is our home, and we would like to invest in our city by buying a small part of it. Due to our closure, we already have to find a new location, and this seems the perfect opportunity to turn a tragedy into a mitzvah. There are many commercial real estate options in LA, with ample private parking, that are within our price range. 
-   
-   The options outlined in the budget proposal assume we purchase at $325,000 (Option A), or rent at $4,500 monthly (Option B). Option A is our preferred option. Option A assumes that If we can purchase with a 20% down payment of $65,000, expecting to make a monthly mortgage of $1,750, then the grant we will have received in 2016 will lay down the infrastructure we need to stay open for generations. 
-   
-   Our gallery has been operating since 2011 on the donations of artists and art supporters. All of our annual gallery budget goes toward our venue and its related costs. Events, workshops, college visits, and everything else happens through volunteerism in our community, and donations from events. The small but supplemental income from events and donations will fund the deficit between our Grant and Option A, should Option A come to fruition. We will continue to seek donations, so that we may spend our resources and time expanding our services to artists.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Heart Of Art Gallery 2016 LA2050/GOOD Grant Budget:
-   
-   All items are ESTIMATED.
-   
-   Initial Winning Fees: $10,300
-    Grant Tax at 10.3%: $10,300
-   
-   2016 Business Fees: $3,000
-    Conversion from Profit to 501(c)3 Non-Profit: one time fee: $1,500 
-    2015 CA Taxes (conversion to non profit will significantly reduce this number in following years): $1,500 
-   
-   Location:
-    Option A: Purchase: $95,000
-    20% Down Payment: $65,000
-    Monthly $1,750 mortgage: $21,000
-    Insurance ($900 biannually): $1,800
-    Utilities (DWP/Wifi/ Security: $600 per month): $7,200
-    Example property: 3575 South Jefferson, 90018 http://www.propertyshark.com/mason/Property/16270897/3575-S-Western-Ave-Los-Angeles-CA-90018/
-   
-    Option B: Lease: $86,700
-    Security Deposit/ First Month Move In Fees: $9,000
-    Monthly $4,500 rent: $54,000
-    Insurance ($900 biannually): $1,800
-    Utilities (DWP/Wifi/ Security: $600 per month): $7,200
-    Land Improvements/Gallery Rebuild (occurring through the 12 month period): $14,900
-    Example Property: 2020 South Western, 90018 http://www.loopnet.com/Listing/19356153/2020-S-Western-Ave-Los-Angeles-CA/
-   
-   Option A: Buy: total: $108,300
-   Option B: Rent: total: $100,000
 How do you plan to scale the success of your proposal?: >-
   Our proposal will have a proven success record, given how much we have already
   done with almost nothing. We look forward to being able to provide our space

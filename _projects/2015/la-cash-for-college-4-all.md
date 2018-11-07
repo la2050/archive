@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/q4McatdcN78'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): '350 S Bixel Street, Los Angeles, CA 90017'
   Organization(s) website(s): www.lacashforcollege.org
   Organization(s) twitter handle(s): www.twitter.com/lacash4college
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): UNITE-LA
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -128,15 +128,6 @@ maker_answers:
     will receive some supports through this grant averaging in value of $750 to
     pay for costs associated with transportation, financial aid informational
     resources, and materials for the Convention and Workshops. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    LA Cash for College's budget is $350,000 and includes program salaries as
-    well as program expenses, such as: the Convention, student transportation,
-    stipends for workshop sites to help offset some costs, and scholarships. LA
-    Cash for College receives some funding from the California Student Aid
-    Commission, the City of Los Angeles, and private funders, such as the Kresge
-    Foundation. LA Cash for College staff also pursues corporate sponsorships
-    and in-kind supports to offset budget items.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$10,000 towards buses that community partners will uses to bring students to the Convention\r\n$10,000 to give ten $1,000 incentive scholarships for participation in the Convention\r\n$22,500 for supports to 30 community partnerships (averaging $750/community partner) that would pay for transportation to the Convention, supplies for the Financial Aid Completion Workshops, and resources throughout the year\r\n$25,000 to develop the California Student Aid Commission's smart phone application, which was recently launched but doesn't incorporate local information. LA Cash for College would like to develop the app further to include information about where and when LA Cash for College Financial Aid Completion Workshops are being held, a schedule of events happening during the College and Career Convention, and college and financial aid information and resources that can directly be accessed throughout the year.\r\n$32,500 toward LA Cash for College staff salaries."
   How do you plan to scale the success of your proposal?: "The LA Cash for College program recently launched its new website. With the new website, the program is developing better ways of reaching students, including: blogs from staff members and experts about college access issues, an integrated social media strategy, text messaging to students, and intentional emailing.\r\n\r\nIn addition to the website, the LA Cash for College team plans to develop the California Student Aid Commission's smart phone app by linking to the LA Cash for College Campaign. Understanding the ways in which students consume information today, the app will attract more students, give us the ability to measure which resources are most useful to them, and guide our future information and assistance strategies. The application will also allow our program to attract, organize and coordinate volunteers."
 areas_impacted: ''
 partners: ''
@@ -204,21 +195,6 @@ Are there other organizations doing similar work (whether complementary or compe
   some supports through this grant averaging in value of $750 to pay for costs
   associated with transportation, financial aid informational resources, and
   materials for the Convention and Workshops.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  LA Cash for College's budget is $350,000 and includes program salaries as well
-  as program expenses, such as: the Convention, student transportation, stipends
-  for workshop sites to help offset some costs, and scholarships. LA Cash for
-  College receives some funding from the California Student Aid Commission, the
-  City of Los Angeles, and private funders, such as the Kresge Foundation. LA
-  Cash for College staff also pursues corporate sponsorships and in-kind
-  supports to offset budget items.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  $10,000 towards buses that community partners will uses to bring students to
-  the Convention
-   $10,000 to give ten $1,000 incentive scholarships for participation in the Convention
-   $22,500 for supports to 30 community partnerships (averaging $750/community partner) that would pay for transportation to the Convention, supplies for the Financial Aid Completion Workshops, and resources throughout the year
-   $25,000 to develop the California Student Aid Commission's smart phone application, which was recently launched but doesn't incorporate local information. LA Cash for College would like to develop the app further to include information about where and when LA Cash for College Financial Aid Completion Workshops are being held, a schedule of events happening during the College and Career Convention, and college and financial aid information and resources that can directly be accessed throughout the year.
-   $32,500 toward LA Cash for College staff salaries.
 How do you plan to scale the success of your proposal?: >-
   The LA Cash for College program recently launched its new website. With the
   new website, the program is developing better ways of reaching students,

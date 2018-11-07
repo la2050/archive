@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - East LA
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Goldhirsch
   Organization(s) name(s): 'Grid110, Inc.'
   Organization(s) mailing address(es): 555 W. 5th St Suite 630 Los Angeles CA 90039
   Organization(s) website(s): www.grid110.org
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Goldhirsch
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -138,8 +138,6 @@ maker_answers:
     evaluation strategy in collaboration with experts.
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are many other incubators and accelerators in the area, but most of them take equity in their companies. GRID110 is a public benefit cooperation that provides free office space, mentoring and resources without taking equity. \r\n\r\nThe other differentiator is that we were started by entrepreneurs for entrepreneurs. We’re a team solving problems that we we’re all facing. \r\n\r\nWe're a team of community builders dedicated to better connecting LA."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Mayor Eric Garcetti’s Office is our biggest partner (but not a fiscal sponsor) and has opened several doors for us in the way of connecting us with key stakeholders and relevant members of the community.\r\n\r\nBrookfield is currently our largest community sponsor. They own 47% of the buildings on Bunker Hill, and are taking an active interest in supporting the growing ecosystem of startups.\r\n\r\nThe legal firm Nixon Peabody is also invested in helping Grid110 succeed. They have been providing legal mentorship and consultation to our community.\r\n\r\nVarious other local businesses have expressed interest in supporting our community programming.\r\n\r\nAll of the funding from LA2050 will go directly towards Grid110's efforts.\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "To operate one space costs around 100-150K per year, which covers basic overhead for the space, internet and electricity. \r\n\r\nMany of these items we we're able to find funding for, or secured in-kind donations to help operate our first space.\r\n\r\nWe know this endeavor will cost us more than $100k as we open more spaces, but 100K will help us get our second space up and running and further support us in building a community platform to connect what's being created in Los Angeles.\r\n\r\nAt the moment the Grid110 founders and board of directors are volunteering their personal time in lieu of being able to hire a program manager. Hiring a program manager to coordinate mentors, and oversee the day-to-day will be vital to our growth and success. With a program manager we’ll be able to offer more events, and opportunities to further support the growing startup ecosystem in LA.\r\n\r\nAs we grow we will continue to actively seek out partners, and have had much success in building relations with key members of the community.\r\n\r\nWe are also currently exploring multiple sustainability and revenue models to further fund our efforts as we grow.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Our current monthly expenses are as follows:\r\n\r\nBuilding/Office $13,000 +\r\n(Rent, Keys/Key Cards, Insurance, Furniture, Kitchen Supplies, Office Supplies)\r\n\r\nTechnology Services $1,000 +\r\nEmail, Internet, Website Hosting, Equipment\r\n\r\nProgramming/Events $0-200+\r\n(Mentor Lunches,  Advisor Dinners, Community Events )\r\n\r\nMarketing/PR $0\r\n(Print Collateral, Services)\r\n\r\nBusiness Services & Fees $0\r\n(Accounting, Legal, Tax)\r\n\r\nStaff Salary $0\r\n\r\n\r\n\r\nThe biggest pieces the 100K will go towards.\r\n\r\nCommunity programming and resource development $20,000\r\nStaff to manage community programming and efforts $35,000\r\nSeed funds towards general operating costs of opening space #2 and #3. $45,000\r\n\r\n\r\n\r\nIf we receive the LA2050 funding we are happy to explore inviting the LA2050 community to vote on which industry our next space should focus on. This could be anything from health startups, to entertainment companies, to maybe even supporting innovative and new restaurants or brick and mortar shops in LA. We'd love to involve the community in helping us make the decision. "
   How do you plan to scale the success of your proposal?: "The overarching aim at the moment is to activate the ecosystem, promote DTLA as a startup hub, and fill gaps in the business development pipeline.\r\n\r\nAs we continue to expand, we believe we can be the driving force to connect the dots on the entire LA startup ecosystem. \r\n\r\nThrough providing mentorship and resources to our current five startup companies with in our pilot program, they are receiving the support and connections necessary to position them for venture funding, or revenue growth, and thus job creation.\r\n\r\nWith each space we open, we'll be able to help more and more startups on-on-one. We'll continue to curate each advisory board relevant to the industry focus, and continue to grow organically through building sub-communities within each vertical and by providing relevant public programming.\r\n\r\nFor us, our partners, and our startups this effort has been a win-win-win.\r\n\r\nHiring staff for Grid110 will be vital in order for us to grow beyond our first space and continue to scale in growing the starting ecosystem."
 areas_impacted: ''
 partners: ''
@@ -204,50 +202,6 @@ Are there other organizations doing similar work (whether complementary or compe
    Various other local businesses have expressed interest in supporting our community programming.
    
    All of the funding from LA2050 will go directly towards Grid110's efforts.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  To operate one space costs around 100-150K per year, which covers basic
-  overhead for the space, internet and electricity. 
-   
-   Many of these items we we're able to find funding for, or secured in-kind donations to help operate our first space.
-   
-   We know this endeavor will cost us more than $100k as we open more spaces, but 100K will help us get our second space up and running and further support us in building a community platform to connect what's being created in Los Angeles.
-   
-   At the moment the Grid110 founders and board of directors are volunteering their personal time in lieu of being able to hire a program manager. Hiring a program manager to coordinate mentors, and oversee the day-to-day will be vital to our growth and success. With a program manager we’ll be able to offer more events, and opportunities to further support the growing startup ecosystem in LA.
-   
-   As we grow we will continue to actively seek out partners, and have had much success in building relations with key members of the community.
-   
-   We are also currently exploring multiple sustainability and revenue models to further fund our efforts as we grow.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Our current monthly expenses are as follows:
-   
-   Building/Office $13,000 +
-   (Rent, Keys/Key Cards, Insurance, Furniture, Kitchen Supplies, Office Supplies)
-   
-   Technology Services $1,000 +
-   Email, Internet, Website Hosting, Equipment
-   
-   Programming/Events $0-200+
-   (Mentor Lunches, Advisor Dinners, Community Events )
-   
-   Marketing/PR $0
-   (Print Collateral, Services)
-   
-   Business Services & Fees $0
-   (Accounting, Legal, Tax)
-   
-   Staff Salary $0
-   
-   
-   
-   The biggest pieces the 100K will go towards.
-   
-   Community programming and resource development $20,000
-   Staff to manage community programming and efforts $35,000
-   Seed funds towards general operating costs of opening space #2 and #3. $45,000
-   
-   
-   
-   If we receive the LA2050 funding we are happy to explore inviting the LA2050 community to vote on which industry our next space should focus on. This could be anything from health startups, to entertainment companies, to maybe even supporting innovative and new restaurants or brick and mortar shops in LA. We'd love to involve the community in helping us make the decision.
 How do you plan to scale the success of your proposal?: >-
   The overarching aim at the moment is to activate the ecosystem, promote DTLA
   as a startup hub, and fill gaps in the business development pipeline.

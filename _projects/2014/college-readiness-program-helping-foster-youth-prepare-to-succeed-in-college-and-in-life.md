@@ -19,6 +19,7 @@ project_areas:
   - EAST LA
   - SOUTH LA
 maker_answers:
+  metrics_learn_communitycollege: '0'
   collaboration: >-
     One of UFC’s greatest strengths is our partnerships and service linkage with
     other organizations.  Due to the frequency and intimacy of our contact with
@@ -32,7 +33,6 @@ maker_answers:
     Scholars, L.A. Compact, Children’s Law Center, Success in Degrees, Camp
     Felix, First Star UCLA Bruin Guardian Academy, Alliance for Children’s
     Rights, and numerous Foster Family Agencies and Group Homes.
-  metrics_learn_earlyeducation: '0'
   org_website: 'http://www.unitedfriends.org'
   org_twitter: 'http://twitter.com/unitedfriends'
   org_facebook: 'http://www.facebook.com/ufcfans'
@@ -74,7 +74,7 @@ maker_answers:
   who_benefit: "UFC's programs serve foster youth throughout Los Angeles County.  We currently serve approximately 1,300 foster children and youth annually, including 500 individuals in the Readiness program. The CRP is open to any student in Los Angeles County foster care interested in taking advantage of the services UFC has to offer and is not enrolled in a Special Day Class.  New students are recruited in grades seven through nine to ensure the possibility of at least four years of participation.  Students are referred by DCFS social workers, advocates, partner schools, or siblings of CRP students.\r\n\r\nOf CRP program participants:\r\n\r\n•\t58% are female and 42% are male;\r\n•\t44% are African American, 42% Hispanic, 2% Caucasian, 1% Asian, 2% Bi Racial, and 9% Other/NA; and\r\n•\t61% are in high school and 39% are in middle school. \r\n"
   about_you: 'Los Angeles, CA'
   org_name: United Friends of the Children
-  metrics_learn_communitycollege: '0'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '1'
   metrics_learn_graduationrates: '1'
   metrics_learn_proficiency: '1'
@@ -107,8 +107,6 @@ maker_answers:
     establishing a long-term (up to 11 year) continuum of support with the
     specific objective of supporting educational achievement through the
     attainment of a bachelor's degree.  
-  cost: "The total budget for the project is $2,043,103.  \r\n\r\nUFC’s College Readiness Program is central to our work and we are committed to carrying it forward as long as it continues to meet the needs of our target population.  We are fortunate that the community recognizes the value of the program, and provides significant restricted funding each year for its support.  Additional needs are met through unrestricted contributions received and, as necessary, our unrestricted reserve.\r\n\r\nHaving built a healthy reserve through prudent fiscal management over a period of many years, the UFC board has adopted a policy of approving spending from the reserves (while maintaining a level equal to at least six months’ operating needs) to protect against funding shortfalls.  \r\n\r\nTo further ensure our stability, UFC’s Development Department has created a New Initiatives line item in the coming FY budget ($500,000) comprised of new approaches that we think can help us reach our budget goals: systemic change income (partnerships with public/government entities), Named Scholars Programs for education support, expanding our outreach into the corporate area, and using new CrowdRise initiatives to engage a larger percentage of the LA community across a broader demographic, in fundraising events for UFC. This revenue stream will be supported through UFC’s newly created New Initiatives Committee chaired by Robert Daly, Jr.\r\n\r\nAdditionally, we are prioritizing government and foundation grants as a major source of current and future growth income.  Finally, we are working through the Governance Committee to identify new Board members as a key component of achieving our short and long term goals.\r\n"
-  budget: "Funding received will be allocated among some of the most critical elements of the budget, including:\r\n\r\nCounselor salaries and benefits: $50,000\r\nParticipant transportation for workshops and other events: $20,000\r\nTutoring: $20,000\r\n\r\nThe final $10,000 will be allocated to the essential indirect expenses without which no program would be possible."
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

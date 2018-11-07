@@ -15,8 +15,8 @@ project_areas:
   - SOUTH BAY
   - LA COUNTY
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: 'San pedro, CA 90731'
   org_website: www.SanPedroRep.org
   org_twitter: TESanPedroRep
   org_facebook: 'https://www.facebook.com/TESanPedroRep'
@@ -63,7 +63,7 @@ maker_answers:
   org_name: 'Theatrum Elysium, San Pedro Rep'
   metrics_create_arts: '0'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: 'San pedro, CA 90731'
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '0'
@@ -86,11 +86,6 @@ maker_answers:
   achievable_goal: "We can see an impact right away as we can immediately invest the funds in the scholarships, advertising for the training programs and in improvements and additions to our performance spaces.  \r\n\r\nIn the space of 12 months we can build on the reputation that we already have as a theatre that does challenging and ambitious work, and within the first few weeks see an increase in the number of people drawn to San Pedro both for training and our professional projects.  \r\n\r\nIf all goes smoothly, the conservatory - first the 1 month, then the 3 month - can be set up for the spring of 2015, with the 3 month conservatory beginning in the late summer or early fall of 2015.  We can schedule these training sessions to coincide with our professional company's projects so that the two are always in contact and sustaining each other.  \r\n\r\nOnce we've established ourselves in this first year it will be a matter of building on the momentum and student and alumni base to continue to grow our operation and staff.   "
   major_challenges: "Our first barrier is location.  San Pedro is not well known in Los Angeles as an artistic haven.  We might find it difficult to attract artists from farther north in LA (NoHo, Santa Monica, Pasadena, etc.).  This can be combated by offering the scholarships based on need and the students commute (though perhaps not exclusively).  We have found that students will travel almost any distance to get excellent training that feeds them artistically.  Once we promote this aspect and open their eyes to San Pedro and the art that it houses we believe that this challenge will be solved.\r\n\r\nThe second challenge comes in the form of exposure.  We need to be seen to be found, and we need to be found in order to be successful.  We will put together an organized and targeted press campaign in concert utilizing the chamber of commerce, the San Pedro Business Development Corporation and the various print and other media outlets in our area.  We believe that through this coordinated campaign we can increase our exposure to a level that represents the very best of what TE San Pedro Rep and the city of San Pedro have to offer."
   competition: "Not as such, no.  As mentioned before, many theatres have training programs, but none of them link there success of their professional company to their training program.  \r\n\r\nIn San Pedro, there are several theatre companies, but none of them offer training.  In fact you'd have to travel almost 20 miles to find another acting school that isn't a state university, and even then that school will have very different goals and aspirations than TESPR does.  "
-  cost: >-
-    If we implement our plan rigorously, $100,000 will be sufficient.  Any
-    additionally costs will be funded by the professional company's productions,
-    fundraising campaigns, and the directors of the company.     
-  budget: "$65,000 - Administrative costs and salary\r\n[$20,000 - Artistic Director salary]\r\n[$20,000 - Managing Director salary]\r\n[$5,000 - misc. staff salary]\r\n[$10,000 - Teacher Salaries]\r\n[$10,000 - marketing budget]\r\n\r\n$20,000 - Scholarship Fund (dependent on number of students)\r\n[Up to $500/student for 1 month conservatory]\r\n[Up to $1500/student for 3 month conservatory]\r\n\r\n$15,000 - Performance Space Upgrades**\r\n[lighting upgrades - $10,000] \r\n- Portable Dimmer Rack - $4,000\r\n- Grid Pipe and Trusting Upgrades - $2,000\r\n- Robotic Light Units - $4000\r\n[HVAC and A/C install - $3,000]\r\n[Storage Container to convert into Scene and Prop Shop - $2,000]\r\n\r\n**These numbers are approximate and can be adjusted as needed based on actual estimates for improvement costs.  Will likely go down, and any extra monies will be diverted into the scholarship fund. \r\n\r\n\r\n\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

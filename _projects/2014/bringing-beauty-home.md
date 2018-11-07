@@ -19,8 +19,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '1'
-  city_state: 'Santa Monica, CA'
   org_website: www.beautybus.org
   org_twitter: 'https://twitter.com/BeautyBus'
   org_facebook: 'https://www.facebook.com/beautybus'
@@ -94,7 +94,7 @@ maker_answers:
   org_name: Beauty Bus Foundation
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
-  metrics_connect_traveltime: '0'
+  city_state: 'Santa Monica, CA'
   metrics_connect_culturalevents: '0'
   metrics_connect_publictransit: '0'
   metrics_connect_neighborhoodcouncils: '0'
@@ -117,10 +117,6 @@ maker_answers:
   achievable_goal: "We have made some adjustments to our volunteer program that has put us in the position to make the necessary changes outlined above.  We have conducted the research and lined up the necessary consultants to support our work.  \r\n\r\nWe have a full staff, a committed board and a detailed plan.  "
   major_challenges: "The two main challenges we anticipate are the long and cumbersome paperwork and training process. \r\n\r\nPurchasing, integrating and training volunteers on an automated scheduling system for In-Home Visits and Pop-Up Salons.\r\n\r\nThe number of volunteers (250) has remained consistent and our conversion rate (which is the percentage of potential volunteers who attend a training and then actually volunteer) has remained at 50% for the past two years.  \r\n\r\nWith changes in these two key volunteer experiences, we are confident that the number of volunteers and our conversation rate will increase.  Thus increasing the number of clients and caregivers we serve though our programs.  These automations will make for a strong and sustainable volunteer program that will ultimately lead to future expansion.  \r\n"
   competition: "We know of no other organization across the country that does the same work as Beauty Bus.  Two existing organizations, Look Good...Feel Better and Locks of Love offer wonderful services, but dramatically differ from Beauty Bus' unique service model.  LOOK GOOD...FEEL BETTER's (LGFB) core program involves group workshops that teach beauty techniques to female cancer patients.  LGFB also provides one-on-one consultations in some salons where cosmetologists use the patient's makeup as learning tools. \r\nBeauty Bus fills a different need because:\r\n• Beauty Bus not only focuses on cancer - but also serves other diseases.\r\n• Beauty Bus serves caregivers as well as patients.\r\n• Beauty Bus provides in-home services, not just group consultations or one-on-ones in salons.\r\n• At Pop-Up salons, our clients receive actual beauty services, not just workshop lessons.\r\n\r\nLOCKS OF LOVE provides hairpieces to financially disadvantaged children suffering from long-term medical hair loss.  Volunteers grow and donate their hair.\r\nBeauty Bus fills a different need because:\r\n• We serve adults as well as children; our oldest client is 101 and the youngest is 3.\r\n• Hairdressers use their professional skills on patients and caregivers; not only on volunteers who grow their hair and receive free cuts.\r\n• Beauty Bus professional volunteers include nail technicians, estheticians and makeup artists, in addition to hair professionals.\r\n• We serve clients regardless of income, as disease does not discriminate.\r\n"
-  cost: >-
-    We anticipate this program costing us $94,000.  There for an $6,000 cushion
-    will cover unanticipated costs that may occur.  
-  budget: "Staff Time $20,000\r\nMarketing $10,000\r\nPostage and Shipping $4,000\r\nRecruitment and Outreach $10,000\r\nTrainings $5,000\r\nTravel $3,000\r\nEvent Supplies and Rentals $5,000\r\nSoftware $5,000\r\nConsultants $8,000\r\nIPads $4,000\r\nComputer Hardware $20,000\r\nMiscelleanous $6,000\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

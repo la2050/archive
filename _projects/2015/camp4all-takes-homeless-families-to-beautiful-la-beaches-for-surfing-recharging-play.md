@@ -23,8 +23,8 @@ project_areas:
   - Westside
   - County of Los Angeles
 maker_answers:
+  'City, State': 'Santa Monica, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: We applied last year!
   Organization(s) name(s): The Children's Lifesaving Foundation
   Organization(s) mailing address(es): "1112 Montana Avenue-#534\r\nSanta Monica, CA-90403"
   Organization(s) website(s): www.childrenslifesaving.org
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  'City, State': 'Santa Monica, CA'
+  How did you hear about this challenge?: We applied last year!
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -165,10 +165,6 @@ maker_answers:
     agencies such as: Homeboy Industries, LA Mission, Union Rescue Mission, 
     Covenant House, My Friend’s Place, Para Los Ninos, LA’s BEST, Urban Compass,
     and  many others-all located in LA county. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Our current budget is $245,000, and we have funders who will help cover and
-    match this grant from LA2050 this season. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Nutrition/Meals:              $22,500\r\nParking/Transportation/Bus & Van Rentals\r\n                                               $26,000\r\nCounselor Fees:                   $22,000\r\nSurfing Equipment:              $ 8,000 \r\nInsurance/Facility Rentals/\r\nBeach Reservation Fees      $ 7,500\r\nOvernight Camp Expenses: $14,000\r\nTOTAL:                                   $100,000\r\n"
   How do you plan to scale the success of your proposal?: "The CLF plans to scale this Camp4All Program, both by leveraging our social media through this LA2050 grant, as well as use these new funds as an opportunity to serve 500 more ADDITIONAL homeless participants. It would also be amazing to replicate it in Ventura County as well, eventually, and to also add more camps during the Spring season.\r\n"
 areas_impacted: ''
 partners: ''
@@ -224,19 +220,6 @@ Are there other organizations doing similar work (whether complementary or compe
   such as: Homeboy Industries, LA Mission, Union Rescue Mission, Covenant House,
   My Friend’s Place, Para Los Ninos, LA’s BEST, Urban Compass, and many
   others-all located in LA county.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Our current budget is $245,000, and we have funders who will help cover and
-  match this grant from LA2050 this season.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Nutrition/Meals: $22,500
-   Parking/Transportation/Bus & Van Rentals
-    $26,000
-   Counselor Fees: $22,000
-   Surfing Equipment: $ 8,000 
-   Insurance/Facility Rentals/
-   Beach Reservation Fees $ 7,500
-   Overnight Camp Expenses: $14,000
-   TOTAL: $100,000
 How do you plan to scale the success of your proposal?: >-
   The CLF plans to scale this Camp4All Program, both by leveraging our social
   media through this LA2050 grant, as well as use these new funds as an

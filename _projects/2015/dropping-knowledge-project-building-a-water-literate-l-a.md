@@ -18,8 +18,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Santa Monica, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: Goldhirsh Foundation
   Organization(s) name(s): Heal the Bay
   Organization(s) mailing address(es): "1444 9th St.\r\nSanta Monica, CA 90401"
   Organization(s) website(s): www.healthebay.org
@@ -62,7 +62,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Santa Monica, CA'
+  How did you hear about this challenge?: Goldhirsh Foundation
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -121,11 +121,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Heal the Bay will evaluate the success of the Dropping Knowledge Project using the following metrics:\r\n\r\nBetween January 1, 2016-January 31, 2016: Partner contracts will be signed. Heal the Bay will finalize its multi-language curriculum, with input from scientists and partner organizations. \r\n\r\n\r\nBetween February 1, 2016 and February 28, 2016: Heal the Bay will introduce 35 individuals to its water literacy curriculum through its existing Speakers Bureau training program.\r\n\r\nBetween February 1, 2016 and February 28, 2016: Heal the Bay will train volunteers/community partners.\r\n\r\nBetween February 2016 and November 2016: Staff and trained volunteers will provide 150 water-literacy presentations for 8,000 individuals, with a special focus on 95 L.A. neighborhood councils.\r\n\r\nDropping Knowledge Project materials will also be disseminated at 75 community festivals across the city reaching 10,000 people. \r\n\r\nHeal the Bay will evaluate feedback offered through pre- and post tests.\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are currently no other Los Angeles-based organizations providing free, multi-language water literacy programs for the general public. The Los Angeles Department of Water & Power and Metropolitan Water District provide content online, but the information is tailored for K-12th grade audiences, not adults.\r\n\r\nWhat makes Heal the Bay’s approach different is its capacity to meet and educate citizens ‘where they are’ including schools, churches, civic (Rotary and Kiwanis) businesses and community centers and then reinforcing messaging via social media and directing citizens to other useful online resources.\r\n\r\nAs a trusted member of the community for 30 years, Heal the Bay has developed a reputation for integrity and trust. We have a long track record of blending science-based advocacy and hands-on community action. Our awareness and favorability ratings are the highest among local nonprofits. People know us, like us, and listen to what we have to say.\r\n\r\nWe let people be active agents in healing the bay, rather than just passive donors. We have developed a unique voice that is fun and participatory – as demonstrated by our booming social media networks. So we think that we can engage people in direct, funny and powerful ways that traditional nonprofits and bureaucratic “play it safe” government agencies can’t\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "To leverage the impact of its Dropping Knowledge Project, Heal the Bay will contract with PAVA and Pacoima Beautiful, with $10,000 awarded to each group, to support water literacy training, assist in the translation of materials and ultimately provide presentations.\r\n\r\nEach partner will be tasked with participating in 10 hours of training and providing 33 presentations for their target audiences."
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Heal the Bay’s Dropping Knowledge Project is expected to cost $100,000,
-    which includes staff time, training supplies, partner stipends, mileage, and
-    the printing of educational materials.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Heal the Bay’s Dropping Knowledge project budget is approximately $100,000 (January 2016-December 2016).\r\n\r\nStaff time $65,500\r\n-Educational Outreach Manager $37,500\r\n-Programs Director   $8,000\r\n-Programs Associate  $15,000\r\n- Administration  $5,000\r\n\r\nSupplies $14,500\r\n-Binders for curriculum, printing costs, room rental fees, parking fees, mileage, projector equipment\r\n\r\nPartner stipends $20,000\r\nPAVA - Pacific American Volunteer Association and Pacoima Beautiful will each receive $10,000 to support the objectives of the project, attend water literacy training, assist in the translation of materials and ultimately provide presentations for their target populations.\r\n"
   How do you plan to scale the success of your proposal?: "Heal the Bay has three decades of experience spearheading effective educational and advocacy campaigns in Los Angeles. In fact, Heal the Bay’s first major victory was the citizen-driven initiative that resulted in critical infrastructure upgrades at the Hyperion Treatment Plant in 1987– still to this day, one of most important environmental wins to benefit the Santa Monica Bay. \r\n\r\nHeal the Bay is confident that its proposed Dropping Knowledge Project will make a great impact due in large part to the organization’s capacity to develop meaningful, call-to-action messaging, broad network of contacts in the Greater Los Angeles area and reputation as a reliable educational resource for the greater community– the project also has the potential of being successfully replicated in other large urban cities with water security issues and ethnically diverse populations.\r\n"
 areas_impacted: ''
 partners: ''
@@ -208,25 +203,6 @@ Are there other organizations doing similar work (whether complementary or compe
   ultimately provide presentations.
    
    Each partner will be tasked with participating in 10 hours of training and providing 33 presentations to its target audiences.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Heal the Bay’s Dropping Knowledge Project is expected to cost $100,000, which
-  includes staff time, training supplies, partner stipends, mileage, and the
-  printing of educational materials.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Heal the Bay’s Dropping Knowledge project budget is approximately $100,000
-  (January 2016-December 2016).
-   
-   Staff time $65,500
-   Educational Outreach Manager $37,500
-   Programs Director $8,000
-   Programs Associate $15,000
-   Administration $5,000
-   
-   Supplies $14,500
-   Binders for curriculum, printing costs, room rental fees, parking fees, mileage, projector equipment
-   
-   Partner stipends $20,000
-   PAVA - Pacific American Volunteer Association and Pacoima Beautiful will each receive $10,000 to support the objectives of the project, attend water literacy training, assist in the translation of materials and ultimately provide presentations to their target populations.
 How do you plan to scale the success of your proposal?: >-
   Heal the Bay has three decades of experience spearheading effective
   educational and advocacy campaigns in Los Angeles. In fact, Heal the Bay’s

@@ -16,8 +16,8 @@ project_video: 'https://www.youtube.com/embed/4svMiNJ-HL0'
 project_areas:
   - LA COUNTY
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '1'
-  city_state: 'Culver City, CA'
   org_website: www.winla.org
   org_twitter: ''
   org_facebook: 'https://www.facebook.com/WestsideInfantFamilyNetwork'
@@ -114,7 +114,7 @@ maker_answers:
   org_name: Westside Infant-Family Network (WIN)
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'Culver City, CA'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '1'
@@ -159,12 +159,6 @@ maker_answers:
     network of health, mental health, social services and early childhood care;
     and based on family treatment goals, not arbitrary time limits set by public
     funding.
-  cost: >-
-    The annual budget for our program is $995,841.  Additional costs are covered
-    by foundation grants, individual and corporate giving, and funds we earn
-    through professional-level consultation to Early Head Start programs and
-    other agencies serving young children and families.
-  budget: "If successful, WIN would use funds to support a masters-level, bilingual mental health therapist and our bilinguial VFC case manager, as described in our complete program budget below. \r\n\r\nPersonnel \r\n\t\t\r\nExecutive Director  100,873 \r\nClinical Director   87,444 \r\nClinical Info Systems Manager   45,916 \r\nTherapist (VFC site)   27,000 \r\nTherapist 16\t  51,000 \r\nTherapist 15\t\t 55,000 \r\nTherapist  16\t\t 52,000 \r\nTherapist 15\t\t 50,000 \r\nCase Manager\t\t 42,000 \r\nDevelopment Manager\t\t 60,000 \r\nSubtotal Personnel\t\t $571,233 \r\nTaxes/Benefits @ 25%\t\t 142,808 \r\nTotal Personnel + Benefits\t\t $714,041 \r\n\r\nTraining Costs (30-40 hours of training)\t\t\r\nTrainers \t\t $500 \r\nFood\t\t 2,000 \r\nMaterials \t\t 800 \r\nVenues etc\t\t 3,000 \r\nConference Fees and Travel\t\t 13,000 \r\nSubtotal Training\t\t $19,300 \r\n\r\nClinical & Case Management Services\t\t\r\nEducational Supplies\t\t $800 \r\nFamily Night & Client Events\t\t 3,500 \r\nIntership stipends (2-3)\t\t 5,000 \r\nMeeting Food and Supplies\t\t 500 \r\nContract Therapists\t\t 7,000 \r\nDCAR Data Tracking infrastructure\t\t 14,000 \r\nLicensing & Fees\t\t 1,000 \r\nPrinting and Copying\t\t 2,000 \r\nMileage\t\t 9,000 \r\nEmergency Funds for Clients\t\t 2,500 \r\nTotal Clinical & Case Management Services\t\t $45,300 \r\n\r\nRent, Equipment, Supplies \t\t\r\nTravel and Lodging\t\t $3,000 \r\nRent/Utilities\t\t 22,000 \r\nComputer and peripherals - programmatic\t\t 5,000 \r\nWIN Website + Fundraing software\t\t 3,000 \r\nInternet/Telecommunications\t\t 19,000 \r\nSupplies, Materials etc\t\t 15,000 \r\nCPE HR\t\t 15,000 \r\nIT Consultant\t\t 3,700 \r\nBookeeper\t\t 9,000 \r\nAudit\t\t 10,500 \r\nInsurance\t\t 12,000 \r\nSubtotal Non-Personnel\t\t $117,200 \r\n\t\t\r\nSubtotal\t\t $895,841 \r\n \t\t\r\nCross-Agency Capacity Building Infrastructure:\t\t\r\nfor Cross-Agency basic services for families\t\t $100,000 \r\n\r\nTOTAL EXPENSES\t\t $995,841 \r\n"
   resources_money: '0'
   resources_staff: '0'
   resources_publicity: '0'

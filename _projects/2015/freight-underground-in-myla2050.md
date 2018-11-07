@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/Z8CUwycoaCc'
 project_areas:
   - East LA
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
-  How did you hear about this challenge?: Competed last year
   Organization(s) name(s): GRID Logistics Inc
   Organization(s) mailing address(es): '411 S. Hewitt St., Los Angeles, CA 90013'
   Organization(s) website(s): gridinc.biz
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Competed last year
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -226,33 +226,6 @@ maker_answers:
     go primarily to operational expenses and consultant partners to include
     business and project development (computer design), legal, and costs to
     participate in events that will bring networking and trade connections.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    $100,000 dollars was the first infusion to Google Inc.  Seed capital is the
-    life blood to startups.  It gives the startup the ability to operate as a
-    functioning organization while no income is a standard reality. MYLA2050 is
-    seen by us similar to a "seed investor".  We believe we will bring a
-    significant return on investment that will one day be measure by economic
-    value for Los Angeles. This award represents a bridge to funding this
-    startup as we have already begun talks with potential strategic partners and
-    venture capitalists who will bring the next round of investment capital to
-    build the company.  The award from MYLA2050 will buy our startup time and
-    energy to create a stellar team of interns and project supporter in a way
-    that every small startup must experience. Without seed funding, new startups
-    could not exist. To summarize, the $100,000 serves as a bridge to acquire
-    series A funding.  The award itself would trigger a tremendous milestone to
-    attracting venture capital from all over the world.  To the proposers of
-    this competition, the value to winning the MYLA2050 award is equal in value
-    to us as the $100,000 prize.  
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-    $50% goes to two full time human resources to financially sustain their work
-    and commuting costs for a period of 1 year.  President will receive $30k
-    spread over one year and Vice President $20K over one year.  $5K to
-    transportation and participation to relevant events for participation. $20k
-    will be allocated for consultants. $10k computer designers who will work to
-    develop the project on a contract basis. $10k legal expenses over one year.
-    $2.5k will be required to pay rent at the LaKretz Innovation Campus. $2.5k
-    held for any and all unforseen expenses that could be incurred over a period
-    of one year.   
   How do you plan to scale the success of your proposal?: "The program will commence at the La Kretz Innovation Campus where GRID will be further developed by a team of full time and part time intern staff and supported by the centers availability of world class research facilities and equipment.  All printed materials come at no cost to the business.  The program begins with continuing our campaign outreach to stakeholders.  This award will bolster our ability to gain acceptance of the new Office of Extraordinary Innovation created by LAMTA and just opened on October 5th as we will apply as a project participant. In July Governor Brown issued executive order B-32-15 to create pilot projects \"to ensure progress towards a sustainable freight system, these entities initiate work this year on corridor-level freight pilot projects within the State's primary trade corridors that integrate advanced technologies, alternative fuels, freight and fuel infrastructure, and local economic development opportunities.\" Please see the executive order at https://www.gov.ca.gov/news.php?id=19046\r\nThis executive order seeks widespread collaboration to achieve a sustainable freight transportation system.  The MYLA2050 award will sustain our companies efforts to connect with the state, federal, regional, and local stakeholders to move this proposal forward.  We intend to scale the proposal by engaging with private firms interested in investing in our transportation infrastructure, however, we must collaborate with local stakeholders first to ensure that the project is in demand from communities near the freight supply chain.  We seek support from both public and private interests to engage with these \"grassroots\" and under represented constituencies. The ultimate success of failure of this project lies within our ability to evaluate the project for feasibility.  This is what the core mission is of the proposers and the MYLA2050 award is a means to start the process.\r\n"
 areas_impacted: ''
 partners: ''
@@ -360,32 +333,6 @@ Are there other organizations doing similar work (whether complementary or compe
   primarily to operational expenses and consultant partners to include business
   and project development (computer design), legal, and costs to participate in
   events that will bring networking and trade connections.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  $100,000 dollars was the first infusion to Google Inc. Seed capital is the
-  life blood to startups. It gives the startup the ability to operate as a
-  functioning organization while no income is a standard reality. MYLA2050 is
-  seen by us similar to a "seed investor". We believe we will bring a
-  significant return on investment that will one day be measure by economic
-  value for Los Angeles. This award represents a bridge to funding this startup
-  as we have already begun talks with potential strategic partners and venture
-  capitalists who will bring the next round of investment capital to build the
-  company. The award from MYLA2050 will buy our startup time and energy to
-  create a stellar team of interns and project supporter in a way that every
-  small startup must experience. Without seed funding, new startups could not
-  exist. To summarize, the $100,000 serves as a bridge to acquire series A
-  funding. The award itself would trigger a tremendous milestone to attracting
-  venture capital from all over the world. To the proposers of this competition,
-  the value to winning the MYLA2050 award is equal in value to us as the
-  $100,000 prize.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  $50% goes to two full time human resources to financially sustain their work
-  and commuting costs for a period of 1 year. President will receive $30k spread
-  over one year and Vice President $20K over one year. $5K to transportation and
-  participation to relevant events for participation. $20k will be allocated for
-  consultants. $10k computer designers who will work to develop the project on a
-  contract basis. $10k legal expenses over one year. $2.5k will be required to
-  pay rent at the LaKretz Innovation Campus. $2.5k held for any and all
-  unforseen expenses that could be incurred over a period of one year.
 How do you plan to scale the success of your proposal?: >-
   The program will commence at the La Kretz Innovation Campus where GRID will be
   further developed by a team of full time and part time intern staff and

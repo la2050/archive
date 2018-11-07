@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/GLojtCpWaz4'
 project_areas:
   - San Fernando Valley
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: I'm on a Grants email list.
   Organization(s) name(s): Breaking into Hollywood
   Organization(s) mailing address(es): '9595 Wilshire Blvd. 9th Floor, Beverly Hills, CA 90212'
   Organization(s) website(s): www.breakingintohollywood.org
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: I'm on a Grants email list.
   'City, State': 'Sherman Oaks, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
@@ -155,8 +155,6 @@ maker_answers:
     will receive a small gift for donating their time (under $50 per person).
     Each of our budgeted items are specifically allocated for the direct use of
     launching the center. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Launching the center in the first year will cost $100,000. If more is needed, our organization is prepared to use up to an additional $25,000 of our regular revenue toward this new venture. It should be noted that during the first year of the center, one of our administrators will also research other grants that we can apply for to sustain STARS in future years. \r\n\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$24,000 – Rent and associated expenses (utility/internet/etc.); for the center to be located in the city of Los Angeles, in a central location for artists.\r\n$22,000 – Three part-time administrative contractors to work at the center. Note that we have several volunteers and board members that will also be involved with the center. \r\n$15,000 – Project creation equipment, including three video cameras with accessories, two desktop computers, laptop, two printers/copiers combo, and software for filmmaking, editing, creative design and business office.\r\n$7,500 – Marketing and promotional items to promote the center, such as banner, brochures, etc.\r\n$6,000 – Presentation equipment for educational networking workshops, such as flat screen TV, projector and white board/screen\r\n$5,000 – Artistic furnishings to be utilized for events and conference room that can be made available for rental for studio member meetings or small casting sessions for Section projects\r\n$4,000 – Operating expenses for Sections’ collaborative creative projects\r\n$3,500 – Honorariums or small gifts for speakers/power players donating their time as a speaker/instructor/mentor\r\n$3,000 – Insurances and any business/government permits\r\n$10,000 – Standard 10 percent emergency fund\r\nTOTAL $100,000\r\n"
   How do you plan to scale the success of your proposal?: "1.\tBuild a strong network through the resource studio. Through sign-in sheets, surveys and the Sections, we will be able to keep track of every person coming to the center and every person utilizing any aspect of the center. Whether a STARS’ user is attending an event, renting a conference room space, using video editing equipment, or having a career consultation with an industry mentor counselor, we will know that the center has succeeded in its mission.  \r\n2.\tMaking our vision resilient. We will make sure that our volunteers and paid staff are all clear on the vision of the resource studio. We will also be flexible as we execute the vision so that we maximize the benefits it has on the creative community-at-large.\r\n3.\tSustainability of the studio. Twice a month we will have meetings to discuss our current budget so that we can assess its accuracy based on actual center use and operation. This process will allow us to effectively apply for the appropriate local and federal grants based on our center’s usage. \r\n4.\tAccountability to grant donors. We will provide monthly recaps to our Goldhirsh Foundation point of contact. Through our report findings, we will gauge our success and continuously consider implementation of advice provided by the Foundation.\r\n"
 areas_impacted: ''
 partners: ''
@@ -221,25 +219,6 @@ Are there other organizations doing similar work (whether complementary or compe
   receive a small gift for donating their time (under $50 per person). Each of
   our budgeted items are specifically allocated for the direct use of launching
   the center.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Launching the center in the first year will cost $100,000. If more is needed,
-  our organization is prepared to use up to an additional $25,000 of our regular
-  revenue toward this new venture. It should be noted that during the first year
-  of the center, one of our administrators will also research other grants that
-  we can apply for to sustain STARS in future years.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  $24,000 – Rent and associated expenses (utility/internet/etc.); for the center
-  to be located in the city of Los Angeles, in a central location for artists.
-   $22,000 – Three part-time administrative contractors to work at the center. Note that we have several volunteers and board members that will also be involved with the center. 
-   $15,000 – Project creation equipment, including three video cameras with accessories, two desktop computers, laptop, two printers/copiers combo, and software for filmmaking, editing, creative design and business office.
-   $7,500 – Marketing and promotional items to promote the center, such as banner, brochures, etc.
-   $6,000 – Presentation equipment for educational networking workshops, such as flat screen TV, projector and white board/screen
-   $5,000 – Artistic furnishings to be utilized for events and conference room that can be made available for rental for studio member meetings or small casting sessions for Section projects
-   $4,000 – Operating expenses for Sections’ collaborative creative projects
-   $3,500 – Honorariums or small gifts for speakers/power players donating their time as a speaker/instructor/mentor
-   $3,000 – Insurances and any business/government permits
-   $10,000 – Standard 10 percent emergency fund
-   TOTAL $100,000
 How do you plan to scale the success of your proposal?: >-
   1. Build a strong network through the resource studio. Through sign-in sheets,
   surveys and the Sections, we will be able to keep track of every person coming

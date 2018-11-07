@@ -14,8 +14,8 @@ project_video: 'https://www.youtube.com/embed/-8HpYaBGc4I'
 project_areas:
   - EAST LA
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '0'
-  city_state: 'Los Angeles, CA'
   org_website: www.wclp.org
   org_twitter: www.twitter.com/western_center
   org_facebook: www.facebook.com/westerncenter
@@ -68,7 +68,7 @@ maker_answers:
   org_name: Western Center on Law & Poverty (WCLP)
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'Los Angeles, CA'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '0'
@@ -103,13 +103,6 @@ maker_answers:
     procedural policies.  We back up our education and advocacy work with the
     “stick” of litigation, offering additional leverage to our network of
     advocates.
-  cost: >-
-    Western Center will spend approximately $400,000 on our work regarding
-    health care coverage in Los Angeles County.  The award from LA 2050 will be
-    applied to the Grants line item of our budget. The remaining funds will be
-    secured through donations from individuals and law firms, attorneys’ fees
-    and foundation support.
-  budget: "REVENUE\t\t\r\nGrants                                        168,000\r\nAttorneys Fees                            28,189\r\nContributed Attorneys Fees\t\t3,960\r\nCy Pres\t\t                                1,980\r\nContracts\t\t                      40,155\r\nPublications\t\t                        5,940\r\nAnnual Camp./Garden Party      64,350\r\nFair Shake\t\t                        6,930\r\nEnd of Year\t\t                        4,455\r\nEndowment Contribution\t      16,830\r\nOther\t\t                                3,604\r\nCarryover revenue\t\t              40,213\r\nTotal Revenue\t\t            384,605\r\n\t\t\r\nEXPENSES\r\nPersonnel\t\t\r\n    Staff\t\t                             229,641\r\n    Benefits\t\t                       48,560\r\n    Other Personnel\t\t               19,196\r\nTotal Personnel\t\t             297,397\r\n\t\t\r\nNon-Personnel\t\t\r\nFacilities and Equipment\t       30,990\r\nOffice Expenses\t\t               24,459\r\nTravel & Meeting\t\t               11,460\r\nBusiness Expenses\t\t         6,759\r\nOther\t\t                                 8,590\r\nTotal Non-Personnel\t\t       87,208\r\nTotal Expenses\t\t             384,605\r\n\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

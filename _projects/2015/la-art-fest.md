@@ -17,8 +17,8 @@ project_video: 'https://www.youtube.com/embed/pnwgZVtiDAA'
 project_areas:
   - Central LA
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Email
   Organization(s) name(s): LA Art Fest & Julie Rico Gallery
   Organization(s) mailing address(es): "808 N. Spring Street #802\r\nLos Angeles, CA 90012"
   Organization(s) website(s): www.juliericogallery.com
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: Email
   'City, State': 'Los Angeles CA  '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -139,8 +139,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Evaluations:\r\n\r\nAttendance - Attendance will be measured by counting the number of attendees.  The diversity of attendees will be measured by analyzing surnames in a database format. \r\n\r\nQuality of presentations - Successful presentations will be measured by the number of presentations, the diversity of presentations, and the artistic merit of the presentations.  A catalog of presentations will be produced for review by event producers and Los Angeles cultural affairs administrators.\r\n\r\nSuccessful administration of the event will be measured by evaluating conformance with the budget, permit compliance and management of vendors and implementation of sculpture installations. "
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Santa Monica is producing an event called the Glow. The triennial, all-night event that re-imagines Santa Monica Beach as a playground for thoughtful and participatory, temporary art. - See more at: http://glowsantamonica.org/#sthash.3PKtpNZO.dpuf\r\n\r\nMy approach includes 3 music stages. \r\nExperimental music \r\nElectronic Music\r\nMulti-Cultural Stage that will feature various musicians and performers including representations by ethnic artists. \r\n\r\nCrafts Booths for 100 artists. This craft aspect to the event will draw in visitors and create micro-economies for local artists. \r\n\r\nAn indoor art exhibition with 100 participating artists.\r\n\r\nAn outdoor sculpture garden with giant cultures to take place at the Historic State Park. \r\n\r\nAdditionally, the LA ART FEST will be created by local artists. They will be heavily invested in producing the event. A fine art exhibition will take place in a local building adding to the authenticity of it. \r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Artists from the Los Angeles area would assist as volunteers for this event. However several will be hired as producers. \r\n\r\nProducers: $29,400.00 \r\nArtists: \r\nCharlie Smith Art Stipend: $2250.00\r\nDragon Knights Giant Puppets Walking Around Art Stipends: $5000.00\r\n8 Giant Outdoor Sculptures and other art budgets: $25292.00\r\nArtists total budget: $32542.00\r\nGraphic Design : $3000.00\r\n\r\nLA WEEKLY: $4000 or sponsored\r\nMETRO: Should sponsor the LA ART FEST in exchange for publicity on all of our media/pr materials - No fee\r\nHistoric State Park $16,000 or sponsored\r\nCity of L.A. Permits $2500 or sponsored\r\nParking: $3000\r\n\r\n\r\n\r\n\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "This will cost between $100,000.00-$175,000. \r\n\r\nRequesting sponsors:\r\n\r\nHistoric State Park in Chinatown for the sculpture exhibition and crafts fair. (value $16,000)\r\nLA Weekly\r\nCoca Cola\r\nRed Bull \r\nLocal restaurants \r\nOther Corporations for the arts. (Google,  Buzzfeed, Legal Zoom, Netflix, Snapchat, Edmunds, BMW, Cadillac, (A list will be developed.)\r\n\r\nSponsors for the 2005 LA ART FEST included a similar approach to the following organizations will ensue for LA ART FEST 2016 or 2017 :\r\n\r\nPublic Relations:\r\n\r\n•\tMetro - Metro produced bus posters and placed them on each bus. Value ($10,000)\r\n•\tCity of L.A. ($3000)\r\n•\tLA Weekly ($4000)\r\n\r\n\r\nInfrastructure and other PR efforts donated to LA ART FEST 2005 included the following:\r\n\r\n•\tDowntown Center Business- donated PR efforts unknown value.\r\n•\tDistrict (DCBID)- donated PR efforts unknown value.\r\n•\tLos Angeles River Business and Artists Association (LARABA)- donated PR efforts unknown value.\r\n•\tDowntown Center Business - donated PR efforts unknown value.\r\n•\tArt Share - donated Parking (Value $3000)\r\n•\tRichard Meruelo – donated empty lot next to Sci-Arc (Value $15,000)\r\n•\tSony- donated cash ($3000)\r\n•\tCity of L.A.-donated permits unknown value.\r\n•\tLA Weekly-donated PR ads and signs (value $4000)\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "LA ART FEST BUDGET\t\r\nPERSONELL\t\r\nStage Manager \t1500.00\r\nProducer \t1900.00\r\nProducer \t1900.00\r\nProducer\t1900.00\r\nExecutive Producer \t19600.00\r\nWorkers Event Days\t2600.00\r\nEQUIPMENT\t\r\nJose Basstaion Bass Station Sound Co. Generators Christian Manchester \t2700.00\r\nMobius Entertainment Sound/Speakers System \t5000.00\r\nHeavenly Jump Tents \t3300.00\r\nAAA RENTS Stages \t3600.00\r\nAAA RENTS Stage \t1600.00\r\nSunbelt Rentals Forklift \t275.00\r\nGlendale Fence Company \t1000.00\r\nPUBLIC RELATIONS\t\r\nASAP Signs Signs/Banners\t2424.80\r\nU.S. Post Office P.O. Box \t70.00\r\nPostage\t2500.00\r\nPR KCRW \t900.00\r\nBEVERAGES\t\r\nMaddalena Vineyard Wine \t800.00\r\nCoca Cola Coke\t400.00\r\nAce Beverage Beer \t2700.00\r\nARTISTS\t\r\nCharlie Smith Art Stipend \t2250.00\r\nDragon Knights Giant Puppets Walking Around Art Stipend\t5000.00\r\n8 Giant Outdoor Sculptures and other art budgets: \t25292.00\r\nGraphic Design \t3000.00\r\nProjection\t1000.00\r\nMISCELLENEOUS\t\r\nHaul Away Rubbish Dumpster\t600.00\r\nCAST Security\t3584.00\r\nMiscelleneous\t1000.00\r\nCCVideo\t150.00\r\nOther PR Efforts\t1500.00\r\nParking\t3000.00\r\nPermits\t2500.00"
   How do you plan to scale the success of your proposal?: "The LA ART FEST would start out in 1 area of Los Angeles DTLA then expand to other surrounding communities in L.A. \r\n\r\nAn umbrella organization for the LA ART FEST would help guide a city-wide effort. Each community could offer their own version of the the LA ART FEST with an art exhibition, crafts and food aspect as well as a musical component.  As a multi-cultural art event many people would be invited to show off their own cultural manifestation. Since there are hundreds of cultures throughout the L.A. area there is no shortage of content for future LA Art Fests. Content would be presented for exhibitions, performance and crafts presentations. \r\n\r\nMulti-cultural food purveyors would be included to help share the pride of our collective community. There is such a vast array of choices with the new food trucks and other food vendors that each LA ART FEST would contain completely new content each time. "
 areas_impacted: ''
 partners: ''
@@ -253,79 +251,6 @@ Are there other organizations doing similar work (whether complementary or compe
    METRO
    Sony
    + Others
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': |-
-  This will cost between $100,000.00-$175,000. 
-   
-   Requesting sponsors:
-   
-   Historic State Park in Chinatown for the sculpture exhibition and crafts fair. (value $16,000)
-   LA Weekly
-   Coca Cola
-   Red Bull 
-   Local restaurants 
-   Other Corporations for the arts. (Google, Buzzfeed, Legal Zoom, Netflix, Snapchat, Edmunds, BMW, Cadillac, (A list will be developed.)
-   
-   Sponsors for the 2005 LA ART FEST included a similar approach to the following organizations will ensue for LA ART FEST 2016 or 2017 :
-   
-   Public Relations:
-   
-   • Metro - Metro produced bus posters and placed them on each bus. Value ($10,000)
-   • City of L.A. ($3000)
-   • LA Weekly ($4000)
-   
-   
-   Infrastructure and other PR efforts donated to LA ART FEST 2005 included the following:
-   
-   • Downtown Center Business- donated PR efforts unknown value.
-   • District (DCBID)- donated PR efforts unknown value.
-   • Los Angeles River Business and Artists Association (LARABA)- donated PR efforts unknown value.
-   • Downtown Center Business - donated PR efforts unknown value.
-   • Art Share - donated Parking (Value $3000)
-   • Richard Meruelo – donated empty lot next to Sci-Arc (Value $15,000)
-   • Sony- donated cash ($3000)
-   • City of L.A.-donated permits unknown value.
-   • LA Weekly-donated PR ads and signs (value $4000)
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  LA ART FEST BUDGET APPROXIMATE:
-   
-   Stage Manager $1,500.00
-   Producer $1,900.00
-   Producer $1,900.00
-   Producer $1,900.00
-   Executive Producer $19,600.00
-   Production Assistants Event Days $2,600.00
-   EQUIPMENT 
-   Jose Basstaion Bass Station Sound Co. Generators Christian Manchester $2,700.00
-   Mobius Entertainment Sound/Speakers System $5,000.00
-   Heavenly Jump Tents $3,300.00
-   AAA RENTS Stages $3,600.00
-   AAA RENTS Stage $1,600.00
-   Sunbelt Rentals Forklift $275.00
-   Glendale Fence Company $1,000.00
-   PUBLIC RELATIONS 
-   ASAP Signs Signs/Banners $2,424.80
-   U.S. Post Office P.O. Box $70.00
-   Postage $2,500.00
-   PR KCRW $900.00
-   BEVERAGES 
-   Maddalena Vineyard Wine $800.00
-   Coca Cola Coke $400.00
-   Ace Beverage Beer $2,700.00
-   ARTISTS 
-   Charlie Smith Art Stipend $2,250.00
-   Dragon Knights Giant Puppets Walking Around Art Stipend $5,000.00
-   8 Giant Outdoor Sculptures and other art budgets: $25,292.00
-   Graphic Design $3,000.00
-   Projection $1,000.00
-   MISCELLENEOUS 
-   Haul Away Rubbish Dumpster $600.00
-   CAST Security $3,584.00
-   Miscelleneous $1,000.00
-   CCVideo $150.00
-   Other PR Efforts $1,500.00
-   Parking $3,000.00
-   Permits $2,500.00
-   TOTAL $105,545.80
 How do you plan to scale the success of your proposal?: >-
   The LA ART FEST would start out in 1 area of Los Angeles DTLA then expand to
   other surrounding communities in L.A. 

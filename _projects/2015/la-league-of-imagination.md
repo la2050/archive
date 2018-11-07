@@ -18,8 +18,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: Email
   Organization(s) name(s): Imagination Foundation
   Organization(s) mailing address(es): 'P.O. Box 861755, Los Angeles, CA 90086'
   Organization(s) website(s): www.imagination.is
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Email
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -118,10 +118,6 @@ maker_answers:
     would be allocated for the purpose of tools and materials for children to
     use during Chapter meetings. With a total of 20 anticipated Chapters, that
     amount is $20,000.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    This project will cost $150,923. Additional funds are being requested from
-    other local grant making organizations and philanthropists.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Direct Program Expenses include:\r\nWeb Development: $5,400 \r\nConsulting: $2,000\r\nVideo Production: $2,802\r\nConferences & Trainings: $7,500\r\nTools & Materials: $22,500\r\nResearch & Evaluation: $8,000\r\nTravel & Observation: $2,400\r\n\r\nSalaries and Payroll include:\r\nProgram Staff: $60,000\r\nSupport Staff: $12,000\r\nOther: $18,000\r\n\r\nGeneral & Administrative is: $10,322\r\n\r\nTotal Expense is: $150,923\r\n"
   How do you plan to scale the success of your proposal?: "The Imagination Chapters program demonstrates simple, effective and highly scaleable practices for fostering next generation skills and attitudes in children through play.  In large part, the sustainability of the program is due to the simplicity of its implementation; it trains leaders from all walks of life, and it can be implemented within formal and informal educational environments and with basic materials, therefore avoiding cost challenges of similar programs, like maker spaces, or other STEM/engineering programs.\r\n\r\nIn addition to its simple implementation, the Chapters program is scalable and sustainable for two other reasons: 1) massive economies of scale and, 2) a strong network of engaged Chapter Leaders. Regarding economies of scale, because much of Chapter Leader training and support is conducted virtually in group formats, relative costs of management decrease with program growth. And regarding the network of Chapter Leaders, because they are part of such a  strong and highly social international cohort, much of the support leaders receive is provided in peer-to-peer contexts, which is less costly to manage than direct trainings.\r\n\r\nThe LA League of Imagination will be a highly visible entity, both locally and worldwide. Its activities will be well publicized, which will in turn create new interest and continued growth beyond the LA2050 grant.  "
 areas_impacted: ''
 partners: ''
@@ -177,27 +173,6 @@ Are there other organizations doing similar work (whether complementary or compe
   be allocated for the purpose of tools and materials for children to use during
   Chapter meetings. With a total of 20 anticipated Chapters, that amount is
   $20,000.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  This project will cost $150,923. Additional funds are being requested from
-  other local grant making organizations and philanthropists.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Direct Program Expenses include:
-   Web Development: $5,400 
-   Consulting: $2,000
-   Video Production: $2,802
-   Conferences & Trainings: $7,500
-   Tools & Materials: $22,500
-   Research & Evaluation: $8,000
-   Travel & Observation: $2,400
-   
-   Salaries and Payroll include:
-   Program Staff: $60,000
-   Support Staff: $12,000
-   Other: $18,000
-   
-   General & Administrative is: $10,322
-   
-   Total Expense is: $150,923
 How do you plan to scale the success of your proposal?: >-
   The Imagination Chapters program demonstrates simple, effective and highly
   scaleable practices for fostering next generation skills and attitudes in

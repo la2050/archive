@@ -21,8 +21,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: newsletter
   Organization(s) name(s): Urban Word Los Angeles
   Organization(s) mailing address(es): "c/o Beyond Baroque\r\n681 Venice Blvd.\r\nVenice, CA 90291"
   Organization(s) website(s): www.urbanword.org
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: newsletter
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -136,11 +136,6 @@ maker_answers:
     communities and also are key partners as we choose the Youth Poet
     Ambassadors and LA Youth Poet Laureate. Each organization will receive up to
     $10,000 for their participation and partnership.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    This project will cost approx. $120,000. Additional costs of the program
-    will be covered by donor support and earned income from LAUSD residencies
-    that we offer.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Program Director - $24,000\r\nPersonnel (Teaching Artists/Staff) - $40,000\r\n(4) Town Halls (@ $5,000 each - venue/production) - $20,000\r\nWord/Works Trips (@ $2,500/trip) - $10,000\r\n(4) Ambassador/Laureate performances - $10,000\r\nVoter Drives (@ $1,000 each) - $6,000\r\nLibrary Tour - $10,000\r\nAdmin - $10,000\r\n\r\nTOTAL = $120,000 \r\n"
   How do you plan to scale the success of your proposal?: >-
     This program's success is measured in how broadly we can extend these
     opportunities and events. We aim to spread this work through the creative
@@ -194,21 +189,6 @@ Are there other organizations doing similar work (whether complementary or compe
   are key partners as we choose the Youth Poet Ambassadors and LA Youth Poet
   Laureate. Each organization will receive up to $10,000 for their participation
   and partnership.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  This project will cost approx. $120,000. Additional costs of the program will
-  be covered by donor support and earned income from LAUSD residencies that we
-  offer.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Program Director - $24,000
-   Personnel (Teaching Artists/Staff) - $40,000
-   (4) Town Halls (@ $5,000 each - venue/production) - $20,000
-   Word/Works Trips (@ $2,500/trip) - $10,000
-   (4) Ambassador/Laureate performances - $10,000
-   Voter Drives (@ $1,000 each) - $6,000
-   Library Tour - $10,000
-   Admin - $10,000
-   
-   TOTAL = $120,000
 How do you plan to scale the success of your proposal?: >-
   This program's success is measured in how broadly we can extend these
   opportunities and events. We aim to spread this work through the creative and

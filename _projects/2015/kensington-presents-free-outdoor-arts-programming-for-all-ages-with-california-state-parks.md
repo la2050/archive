@@ -20,8 +20,8 @@ project_image: 'https://img.youtube.com/vi/v-5UnN1CD0E/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/v-5UnN1CD0E'
 project_areas: []
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: Word of mouth
   Organization(s) name(s): Kensington Presents
   Organization(s) mailing address(es): "Impact Hub Los Angeles\r\nArts District Downtown LA\r\n830 Traction Ave, #3A\r\nLos Angeles, CA 90013\r\n"
   Organization(s) website(s): www.kensingtonpresents.com
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Word of mouth
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -135,11 +135,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "- Number of total attendees at Kensington Presents events at California State Parks locations \r\n- Audience members visiting a California State Park for the first time \r\n- Audience members reporting the first time they’ve seen a particular style of arts programming (gospel, electronic, opera, classical music, silent film, physical theater etc.)\r\n- Number of kids that attend our seasonal workshops and events\r\n-Adoption and open rates of our e-newsletter \r\n-Visitors and viewership for our site, where we highlight upcoming shows and showcase professional video of each event\r\n- Positive reactions of audience members via social media (#kensingtonpresents #thisiswhyiloveLA)\r\n\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Some series and organizations we’re inspired by are KCRW Summer Nights, Sofar Sounds, and Redcat. \r\n\r\nWhile all three of these institutions are well known and important to the arts and wider communities in LA, Kensington Presents is different in its diversity of programming, deliberate scale and State Parks setting.  \r\n\r\nIn some ways, Kensington combines some of the strengths of these three organizations, maintaining the intimate, community feel of Sofar Sounds, even at a scale closer to KCRW’s events and with a truly eclectic slate of programming loosely similar to Redcat – though our programs are less experimental, FREE, and far more accessible to all.\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Presenting Partner:\r\n\r\nCalifornia State Parks Department \r\n\r\nA portion of the grant will cover hard costs, including staff time, to produce monthly events at the Viaduct.\r\n\r\nProgramming Partners (each will receive a small honorarium):\r\n\r\nLA Philharmonic\r\nCitizens of Culture\r\nStreet Symphony \r\nThe Bluegrass Situation\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Our total budget will be in the range of $125,000 for the year, with
-    additional funds raised through small individual donations and limited
-    corporate sponsorship.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Our total budget breaks down as follows: \r\n\r\n$10,000 / show at the Viaduct x 10 Shows\r\n$25K / Organizational Admin \r\n\r\nViaduct:\r\n3.5K - Artists Compensation\r\n1.5K - Youth engagement program\r\n1K - Event Staffing - Kensington (A/V, Set up, Clean up) \r\n750 - Event Staffing - CA State Parks (Security, Set up, clean up) \r\n1k - Infrastructure rentals (porta potties, tables, chairs, trashcans, etc) \r\n750 - A/V Rentals \r\n750 - Marketing / Outreach \r\n750 - Insurance\r\n"
   How do you plan to scale the success of your proposal?: >-
     Our long term vision for Kensington Presents is to continue our partnership
     with CA State Parks, including regular programming at The Viaduct, an annual
@@ -210,25 +205,6 @@ Are there other organizations doing similar work (whether complementary or compe
    Citizens of Culture
    Street Symphony 
    The Bluegrass Situation
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Our total budget will be in the range of $125,000 for the year, with
-  additional funds raised through small individual donations and limited
-  corporate sponsorship.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Our total budget breaks down as follows: 
-   
-   $10,000 / show at the Viaduct x 10 Shows
-   $25K / Organizational Admin 
-   
-   Viaduct:
-   3.5K - Artists Compensation
-   1.5K - Youth engagement program
-   1K - Event Staffing - Kensington (A/V, Set up, Clean up) 
-   750 - Event Staffing - CA State Parks (Security, Set up, clean up) 
-   1k - Infrastructure rentals (porta potties, tables, chairs, trashcans, etc) 
-   750 - A/V Rentals 
-   750 - Marketing / Outreach 
-   750 - Insurance
 How do you plan to scale the success of your proposal?: >-
   Our long term vision for Kensington Presents is to continue our partnership
   with CA State Parks, including regular programming at The Viaduct, an annual

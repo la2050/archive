@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_create_researchgrant: '1'
   metrics_create_employment: '1'
-  city_state: 'Los Angeles, CA'
   org_website: www.gyst-ink.com
   org_twitter: www.twitter.com/gystink
   org_facebook: www.facebook.com/gystink
@@ -67,7 +67,7 @@ maker_answers:
   org_name: Getting Your Sh*t Together (GYST-INK)
   metrics_create_arts: '1'
   metrics_create_manufacturing: '1'
-  metrics_create_researchgrant: '1'
+  city_state: 'Los Angeles, CA'
   metrics_create_patents: '1'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '1'
@@ -90,18 +90,6 @@ maker_answers:
   achievable_goal: "For both software users as well as those accessing the information on our website, the infrastructure of the GYST Cloud is already in place and has been tested for 15 years by artists, academic institutions, and organizations. Although we are based in Los Angeles, our clients stretch across the globe.\r\n\r\nWe have received mobile platform and application development quotes that are in line with this grants budget.  We have done extensive research in the arts on all things professional practices and have been teaching this at institutions and arts organizations throughout the US. We have published two books, both over 400 pages or vital information for artists as well as a teaching manual to actually teach professional practices to artists.  This ensures that our mission to educate creative professionals can grow beyond our limits as a small artist-run company. Many schools and universities are using this textbook to teach their own classes to facilitate a new generation of business-ready professional artists.\r\n\r\nWe have provided comprehensive surveys on what artists need for the last 15 years, and spent countless hours with in dialog with artists regarding their needs, specifically technology concerns.\r\n\r\nGYST is a company made by artists for artists.  Because we know what it is like to be an artist, our customers are loyal to our brand and wish to share it with their friends and colleagues.  The majority of our business comes from referrals and recommendations.  We know that GYST Cloud will go viral and reach not only the entire Los Angeles Basin but throughout the world."
   major_challenges: "At this point, our largest barrier is funding. We have done due diligence in gathering information, proving software to artists since 2001, and working with institutions across the US (and worldwide). Going cloud-based will solve many issues such as computer platform crossover, upgrades, and access. We have researched working with venture capitalists, however found that they are interested in only creating a profit rather than an ethical commitment to the Los Angeles art community.  We have not been able to find someone to invest without changing the project for their own needs rather than the needs of artists everywhere.\r\n\r\nLanguage barriers in culturally-diverse Los Angeles are another issue, but as translation software becomes available along with translating the program's language, we can create multiple language platforms for GYST Cloud. With language integration and participating language translators, marketing in various languages will become essential for economic equality in the arts."
   competition: "No other company or organization has accomplished the comprehensive software, printed material, online resources, or other methods of educational material that we have provided every kind of artist in Los Angeles and abroad. There are companies who are focusing on a piece of the puzzle, but no one is offering what we are planning here.  The majority of our competitors supply their patrons with a very limited art worldview, essentially dispensing one-dimensional, one-size-fits-all advice that doesn’t address many of the true issues facing artists today.   Nothing that we know of comes close to GYST Cloud’s impact. We are unique in that we are not trying to simply make a profit, we want to cultivate this project because as artists, we believe in our colleagues and surrounding art communities.\r\n\r\nThere are now multiple software packages for the arts, but most of them are poorly designed, unexplainably expensive (especially for galleries), and cannot communicate/integrate with one another. None of these packages is as extensive as our current GYSTPro software. We believe we can help low-income artists as well as established artists and institutions get a better grasp on making things work with newer and more accessible technology. Once we start the income-based subscription process then money will go back into the project. While we are artists too and need make a living, we believe that the project will sustain itself once it launched and accessible to the public from any computer with an internet connection. Expenses will only grow with increased participation. As we do not define what or who an artist is, we help them to define themselves professionally."
-  cost: >-
-    We can do Phase One of this project for $99820 unless of course there are
-    unexpected expenses, but we have run the numbers many times. We will also be
-    doing a crowd funding campaign to raise further funds for the project and to
-    raise funds for low-income artists. Securing this grant would mean that we
-    can look for matching funds, something funders are more apt to fund. Once
-    the project is up and running, the costs will rise, but we will also be
-    getting subscriptions to cover that cost. We are a fiscally sponsored
-    organization so we can seek donations. We are committed to created earned
-    income to continue this project as we know that grants are very special and
-    hard to come by. (so thank you for the opportunity)
-  budget: "Personnel\r\n\r\nProgrammer A: $150 hour (x 150 hrs) = $37500\r\nProgrammer B: $60 hour (x 175 hrs) = $10500\r\nGYST Designer: $30 hour (x60) = $1800\r\nArtist Researchers: $20 hour (x200) = $4000\r\nProject Manager: $50 hour (x 130) = $6500\r\nGYST Tech support: $30 (x 300 first year) = $9000\r\nGYST Outreach and PR: $30 (x 60) = $1800\r\n\r\nPersonnel Total: $71000\r\n\r\nEquipment and Supplies\r\n\r\nSoftware: FileMaker Server, FileMaker Advanced, Web and iApps = $2200\r\nBackup Drives: $1200\r\nMac Computer (need most updated operating systems) = $2500\r\niPhone 5: $420\r\niPad w/wifi: $800\r\n\r\nEquipment and Supplies Total: $7120\r\n\r\nUtilities and Services\r\n\r\nPhone Bill, 1 year: $1200\r\nInstallation Materials: $8000\r\nGYST Cloud hosting: 12 months for testing = $100) per month = $3000\r\nGYST Cloud Hosting: 3 months beta testing: $500 per month = $1500\r\nGYST Cloud Hosting: First 6 months = $8000\r\n\r\n\r\nUtilities and Services Total: $21700\r\n\r\nGRAND TOTAL: $99820\r\n\r\nIn-Kind: All beta testers will receive a full year of GYST Cloud subscription. In addition, we will be running a Kickstarter campaign to create free scholarships for low income artists."
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

@@ -19,8 +19,8 @@ project_areas:
   - SGV
   - SFV
 maker_answers:
+  metrics_learn_unemployment: '0'
   collaboration: "Over the years, TaT has established many community partners along the way, but none have been as integral to the success of our \"School is Cool\" initiative as the Los Angeles Dodgers, Keystone Press, Build-a-Bear, Wal-Mart, Kroger, Ralph's and Panera Bread. Together, we have built a solid foundation around shared values focused on improving our communities today, for tomorrow.\r\n\r\nOur partnership with the LAUSD and the APSAC (Association of Pupil Services and Attendance Counselors) allows us direct contact with every student in their respective school. This gives us an opportunity to work with every student everyday. It also gives us access to over 400 volunteers willing to do what they can to help students achieve in school.\r\n\r\nOur partnership with the LA Dodgers creates a huge opportunity for at-risk students as well as their families. Through our program, students with excellent and perfect attendance throughout the year are invited to Dodger Stadium to enjoy a day at the ballpark. Free tickets for the family, $10 vouchers to be used for (food), hats, pennants and tshirts provide the ultimate experience for our students and their families! This past year, we celebrated attendance with over 20,000 at-risk students in 28 of LAUSD's schools.\r\n\r\nKeystone Press is another highly significant partnership that provides TaT with our perfect and excellent attendance certificates given to students for consistent attendance. Keystone also provides the certificates of appreciation and all other promotional materials for TaT, including brochures and one-sheet printouts. In total, we've handed out over 50,000 certificates for attendance!\r\n\r\nThrough our partnerships with Build-a-Bear, Walmart, Kroger, Ralph's and Panera Bread, our program challenges our students weekly, monthly, and annually by providing constant motivation through various in-kind and monetary donations. These businesses provide a wide variety of incentives and rewards for each eligible student. \r\n\r\nAbove all, one of the most critical factors to the success of our organization's message is the ability to reach as many members of our community as possible. It is often difficult to offset the costs of promotional advertising and we are grateful to our sponsors who provide opportunities to help cover the costs of such materials."
-  about_you: 'Los Angeles, Ca'
   org_website: www.thinkingabouttomorrow.org
   org_twitter: 'https://twitter.com/thinking2morrow'
   org_facebook: >-
@@ -61,7 +61,7 @@ maker_answers:
   org_name: Thinking about Tomorrow
   metrics_learn_earlyeducation: '1'
   metrics_learn_communitycollege: '1'
-  metrics_learn_unemployment: '0'
+  about_you: 'Los Angeles, Ca'
   metrics_learn_graduationrates: '1'
   metrics_learn_proficiency: '1'
   metrics_learn_api: '1'
@@ -96,10 +96,6 @@ maker_answers:
     about other organizations that do similar work are the opportunities to work
     with each other to ensure all children have the best opportunities to learn
     to love and value their education.
-  cost: >-
-    Roughly, our project costs $50,000; as we expand and more students qualify,
-    our costs will increase.
-  budget: "Below is the budget for our \"School is Cool\" initiative -\r\n*These estimates are for one school and as our \"School is Cool\" initiative expands to additional schools, these variable costs will increase.\r\n\r\n> \"We're ALL Here\" Attendance Improvement Program:\r\nSmall Incentives:\r\nBubbles (12/pack) - $7\r\nPens (250/pack) - $32\r\nMotivational pencils (250/pack) - $27\r\nMini Erasers (500/pack) - $10\r\nBoard Games (10/school @ $8) - $80\r\nGift Cards (10/school @ $10) - $100\r\n\r\nLarge Incentives:\r\nBicycles (2/school) - $100\r\nWifi Tablets (2/school) - $300\r\niPod Shuffles (5/school @$50) - $250\r\nMovie Tickets (20/school @ $20) - $400\r\nTickets to Dodger Games (50/school @ $0) - $0\r\nGift Cards (5/school @ $25) - $125\r\n\r\nHonors & Awards:\t\r\nPerfect Attendance Pins (200/school @ $.60) - $120\r\nPerfect Attendance Certificates - $0\r\nExcellent Attendance Certificates - $0 \r\n\r\n20 schools ~ Approx. total = $30,000\r\n\r\n\r\n> \"Back to School\" Supply Drive:\r\n*Our yearly goal is to collect 500 backpacks filled with an ENTIRE school year of school supplies. That's roughly $10,000.\r\n \r\nSupplies:\r\n*Can have a backpack filled with the following supplies for $22 depending on amount of money we raise! Otherwise if supplies are purchased individually, prices are listed below.)\r\n\r\nBackpacks - $10.00\r\nBinders - $2.99\r\nNotebooks - $0.99\r\nFolders - $0.99\r\nPencil Pouch - $2.99\r\nPens - $1.29\r\nPencils - $1.69\r\nCrayons - $4.49\r\nMarkers - $4.99\r\nRulers - $1.49\r\nScissors\t- $2.49\r\nGlue Sticks - $0.99\r\n\r\n~ Approx. total = $10,000\r\n\r\n\r\n> \"Kids on Campus\" making kids believe to achieve:\r\nOur only true cost to running this program is to provide transportation and lunch. Busses are approximately $300 and they hold roughly 50 people. If we can't get lunch sponsored completely, it usually costs about $300.\r\n\r\n~ Approx. total = $10,000"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

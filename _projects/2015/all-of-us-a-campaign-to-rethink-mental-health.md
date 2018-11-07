@@ -22,8 +22,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: Email
   Organization(s) name(s): USAC Office of the President and USAC Student Wellness Commission at UCLA
   Organization(s) mailing address(es): "308 westwood plaza, Los Angeles 90025\r\n"
   Organization(s) website(s): www.allofus.care
@@ -63,7 +63,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Email
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -128,8 +128,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "We will determine the success of our project through the community’s increase in contact with mental health representatives introduced at the Conference. We will also analyze available usage data from counseling and psychological service centers to determine an increase in utilization of counseling and psychological services. This, coupled with an increase in traffic on our website, should help us evaluate the success of our Conference to a large extent.\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Other organizations doing similar work include NAMI at the national level, and ‘Active Minds’ at UCLA and the ‘Mental Health Initiative’ at UCLA, at the local level.\r\nWe're unique since we're taking a proactive approach to outreach, by engaging the work that existing mental health organizations are doing with underprivileged communities. By establishing liaisons and asking these communities to establish a safe space at the conference, we are directly encouraging these communities to begin the dialogue of mental health in their spaces. Furthermore, we are focused on statewide advocacy as well, pushing for funding towards wellness programs and critical care services for our Counseling and Psychological Services at UCLA, as well as other mental health spaces across LA.\r\n\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Our main partners for this campaign include the USAC Office of the President, the Student Wellness Commission (SWC), and Active Minds at UCLA.  We will also be collaborating with UCLA CAPS (Counseling and Psychological Services), the multidisciplinary student mental health center on the UCLA campus, to ensure that all of our messaging and programming is accurate and sensitive of the parties we hope to target with our campaign.  CAPS will train all campaign members in topics pertaining to mental health through Question, Persuade, Refer (QPR) Suicide Prevention Training and Mental Health First Aid training.\r\n \r\nThe USAC Office of the President is responsible for presiding over the Student Body Council and provides services and resources for the UCLA student body through advocacy, education, and programming.  The All of Us campaign was founded by USAC so they are extremely committed to the success of the campaign.  They will provide AOU any support necessary in terms of networking, publicity, and establishing credibility.\r\n \r\nThe SWC at UCLA affirms that student well-being goes hand-in-hand with both physical and psychological health as well as academic success and well-roundedness.  SWC promotes the holistic well-being of the student body through weekly programming of CPR classes, health symposiums, and philanthropic and community service events such as blood drives and Run/Walk at UCLA.  \r\n \r\nActive Minds UCLA Chapter is the student voice for mental health advocacy on campus.  The group provides information on resources for those that suffer from mental health issues and for those who support others who suffer.  Active Minds hold workshops and events on the UCLA campus as well as programs at local elementary schools and community centers.\r\n \r\nThree factors critical to the success of collaboration are (1) we can efficiently create a structure to delegate and accomplish tasks in the most efficient manner possible with our staff of over 100 people (2) we have access to mental health professionals as a resource throughout the creation and execution of the campaign (3)  the SWC’s experience in leading the successful campaign 7000 in Solidarity is vital to the programming for All of Us.  All of the organizations above will collaborate and support All of Us, but the core directors and staff of AOU will be in charge of the funds to facilitate the efficient and effective execution of the All of Us conference and programs.\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "We have estimated that our projects costs will not exceed $100,000.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "We will use $100,000 to implement this project in the following way:\r\nVenue: $30000-$40000\r\nSpeaker Rooming+Traveling Expenses: $10000\r\nHonorarium: $10000\r\nFood: $7000\r\nIncentives: $5000\r\nPaper (for resource handouts): $500\r\nAdvertising: $8000\r\nChairs & Tables Renting: $5000\r\nRenting Projectors/Tech: $1000\r\nMiscellaneous: $13500\r\n\r\n"
   How do you plan to scale the success of your proposal?: "We will use the success of our conference to recruit more volunteers, partner with more organizations with similar objectives, to expand our 2016 conference, our campaign, and the space for dialogue that we hope to create. The bigger the space, the greater the dialogue, and the greater the dialogue, the greater will be the awareness. Hence, when it comes to the scale of our Conference, the sky is the limit.\r\nWe will build and sustain a robust communication effort around our conference through direct marketing (at UCLA), social media and our newsletters, to keep participants engaged in our work, as well as to reach out to as many people as possible. We intend to use pictures, videos and anecdotes from our conference and the rest of our campaign endeavors to display the kind of work that we do throughout the year, and we expect a large increase in our ‘following’ on our Facebook page, Instagram, email lists and twitter this year, helping us to reach out to a larger audience.\r\nThe success of our 2015 Conference will also help us expand our network of contacts that we can use for inviting keynote speakers, conducting workshops and collaborating with experienced organizations in 2016. This in turn will allow us to conduct larger conferences with better resources in the years forward.\r\n"
 areas_impacted: ''
 partners: ''
@@ -187,19 +185,6 @@ Are there other organizations doing similar work (whether complementary or compe
    Active Minds UCLA Chapter is the student voice for mental health advocacy on campus. The group provides information on resources for those that suffer from mental health issues and for those who support others who suffer. Active Minds hold workshops and events on the UCLA campus as well as programs at local elementary schools and community centers.
     
    Three factors critical to the success of collaboration are (1) we can efficiently create a structure to delegate and accomplish tasks in the most efficient manner possible with our staff of over 100 people (2) we have access to mental health professionals as a resource throughout the creation and execution of the campaign (3) the SWC’s experience in leading the successful campaign 7000 in Solidarity is vital to the programming for All of Us. All of the organizations above will collaborate and support All of Us, but the core directors and staff of AOU will be in charge of the funds to facilitate the efficient and effective execution of the All of Us conference and programs.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'We have estimated that our projects costs will not exceed $100,000.'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  We will use $100,000 to implement this project in the following way:
-   Venue: $30000-$40000
-   Speaker Rooming+Traveling Expenses: $10000
-   Honorarium: $10000
-   Food: $7000
-   Incentives: $5000
-   Paper (for resource handouts): $500
-   Advertising: $8000
-   Chairs & Tables Renting: $5000
-   Renting Projectors/Tech: $1000
-   Miscellaneous: $13500
 How do you plan to scale the success of your proposal?: >-
   We will use the success of our conference to recruit more volunteers, partner
   with more organizations with similar objectives, to expand our 2016

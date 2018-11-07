@@ -14,8 +14,8 @@ project_video: 'https://www.youtube.com/embed/SrPeAWx2AMM'
 project_areas:
   - CENTRAL LA
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '1'
-  city_state: 'Los Angeles, CA'
   org_website: www.lanlt.org
   org_twitter: '@LANLT'
   org_facebook: 'https://www.facebook.com/LANeighborhoodLandTrust'
@@ -83,7 +83,7 @@ maker_answers:
   org_name: Los Angeles Neighborhood Land Trust
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
-  metrics_connect_traveltime: '0'
+  city_state: 'Los Angeles, CA'
   metrics_connect_culturalevents: '1'
   metrics_connect_publictransit: '0'
   metrics_connect_neighborhoodcouncils: '1'
@@ -116,8 +116,6 @@ maker_answers:
     nonprofits, and community groups serve as the cornerstone of successful
     implementation of the project, despite these challenges. 
   competition: "Other organizations focus on addressing issues of homelessness in the park. We partner with them to bring improvements to MacArthur Park, but our approach is unique in that it involves direct community involvement in park revitalization efforts. Additionally, the Land Trust is the only organization in the area that is specifically dedicated to enhancing programs, resources, and opportunities at the park. \r\n\r\nHeart of Los Angeles, one of our partners,  is another organization that focuses on beautification of Westlake, through their Urban Fruit Trails program. Their activities are focused in various areas of the community, while our efforts are dedicated to the park itself. Their project compliments our work because it beautifies the community. "
-  cost: "This project will cost $157,527. \r\n\r\nWe will be pursuing additional funding from the County of Los Angeles (our funders for 2014), as well as from our corporate and foundation sponsors. "
-  budget: "Personnel:   $107,206\r\n     Community Organizer (100% FTE) \r\n     Community Planner (100 FTE) \r\n     Executive Director (.05 FTE) \r\n     Fringe benefits @ 21%:  $18,606\r\nPrograms and events: $25,000\r\nMaterials and supplies: $1,000\r\nCommunications materials: $10,000\r\nIndirect @ 10% = $14,321\r\nTOTAL: $157,527\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

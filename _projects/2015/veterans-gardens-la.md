@@ -12,8 +12,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: From a friend
   Organization(s) name(s): Social & Environmental Entrepreneurs
   Organization(s) mailing address(es): '23532 Calabasas Road, Suite A, Calabasas, CA 91302'
   Organization(s) website(s): 'http://www.homefrontrising.org/'
@@ -57,7 +57,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: From a friend
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -125,14 +125,6 @@ maker_answers:
     none are using them to address the rising costs of permanent housing to
     which homeless veterans will need to return.  
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': None.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    This will be a small-scale pilot model of a much bigger vision, which can be
-    reviewed on our website.  The $100,000 will provide start-up funding to
-    build tiny homes for four veterans and begin conversion of vacant urban lots
-    for agricultural use.  Additional funding for administering and expanding
-    the program will come through fundraising, grantwriting and private
-    investment.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Construction Materials $20,000 x 4 veterans = $80,000\r\nMaterials for Urban Garden Site:  $5,000 x 4 sites = $20,000"
   How do you plan to scale the success of your proposal?: >-
     This program is designed to be perpetuated and expanded.  It would require
     additional money for the revolving loan fund, but once in place will
@@ -146,8 +138,6 @@ Please list at least one major barrier/challenge you anticipate. What is your st
 Please explain how you will evaluate your work.: '#N/A'
 Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/veterans-gardens-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24052%252Fdisplay%252Fhomelessstreetscene.jpg=c570x385.jpg

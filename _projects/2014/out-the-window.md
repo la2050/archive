@@ -21,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '0'
-  city_state: 'Los Angeles, CA'
   org_website: www.freewaves.org
   org_twitter: 'https://twitter.com/lafreewaves'
   org_facebook: 'https://www.facebook.com/freewaves'
@@ -74,7 +74,7 @@ maker_answers:
   org_name: L.A. Freewaves
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: 'Los Angeles, CA'
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '1'
@@ -102,8 +102,6 @@ maker_answers:
     In extensive and ongoing inquiry among colleagues world-wide and research on
     the Web, we have found no other organization implementing a project even
     similar to Out the Window. 
-  cost: "Out the Window will cost $100,000.  If funded at a level lower than the requested amount, two viable options exists, listed below in preferential and feasible order.\r\n\r\n   1.\tOut the Window is a scalable project in which the number of \_\_\_\_\_\_\_\_videos may be easily altered.\r\n\r\n   2.\tFreewaves has a significant track record of foundation and \_\_\_\_\_\_\_\_government grants that may be applicable.\r\n"
-  budget: "Videomakers    (182  @ $200): $36,400\r\n\t\t\t\t \r\nTransit TV   $3000 x 7 months   compensation: $21,000 \r\n\r\nAd placards on 2000 buses for 2 months each with \r\ntext number: $8,000\r\n\r\nSocial media specialist 7 mos @ $3000/mo. For social \r\nmedia and text responses: $21,000 \r\n\r\n\r\n10,000 postcards’ design and printing for handouts: $1,000 \r\n\r\nEvaluation design and implementation: $4,000\t\t \r\n\r\nVideo editor on staff  assembling and conforming videos: $8,600  \r\n($20/hr x 430 hours over 28 weeks) \r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

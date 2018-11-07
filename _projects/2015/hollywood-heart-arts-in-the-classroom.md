@@ -18,8 +18,8 @@ project_video: 'https://www.youtube.com/embed/7VGCk_c0VcU'
 project_areas:
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Hollywood, CA'
   Organization(s) mailing address(es): "2690 Beachwood Dr.\r\nHollywood, CA 90064"
   Organization(s) website(s): www.hollywoodheart.org
   Organization(s) twitter handle(s): www.twitter.com/hollywdheart
@@ -62,7 +62,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Hollywood, CA'
   Organization(s) name(s): Hollywood HEART
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -147,14 +147,6 @@ maker_answers:
     Hollywood HEART has hired individuals trained by these organizations to lead
     the workshops but has not entered into any contracts directly with the
     nonprofit organizations.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The program we are proposing is for the LA 2050 Challenge is budgeted at
-    $100,000. We have a number of additional grant proposals pending for this
-    effort.  The ultimate size of the effort will depend on the total amount of
-    funds we receive. However, the LA 2050 Challenge grant by itself will allow
-    us to sustain and further improve our partnership with LA High School and to
-    begin programming at two new sites.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Hollywood HEART: Arts in the HEART of the Classroom Budget\r\n\r\nProgram Coordinator\t\t                     26,000\r\nCurriculum Development\t\t               3,000\r\nIn-class Teaching Artists\t\t             25,200\r\nAfterschool Teaching Artists\t\t     14,400\r\nFringe\t@22% of the above wages\t     15,000\r\nTravel/Mileage\t\t                               4,000\r\nEducational Materials\t\t                       8,400\r\nSpecial Performances\t\t                       4,000\r\nMarketing & Publicity\t\t                       2,000\r\nTOTAL\t\t                                           100,000\r\n\r\n"
   How do you plan to scale the success of your proposal?: "Hollywood HEART’s proposal is in fact the first stage for scaling our Integrated Arts Program by introducing it to two new schools. We have recently launched a major fundraising campaign to increase our school-based programming which complements this effort. We are expanding our partnerships with the entertainment industry to increase both financial support for our programs and mentoring and internship opportunities for our students. We do not envision going beyond three high schools at this time. Goals for the future include the addition of professional development for classroom teachers to institutionalize the integration of the arts into school curricula. We also anticipate extending the program to build a pathway for students into community and four-year colleges.\r\n \r\nThere is extensive research supporting both the need and the potential impact for college-based programs. Recent studies have highlighted the fact that while the high school graduation rates for low-income and at-risk youth are improving, and more of these students are entering college, the college graduation rates for low-income students has remained essentially unchanged since 1970 at a dismal 20%. Studies have long supported the link between a sustained engagement in the arts and improved academic achievement and graduation rates at the high school level. Hollywood HEART proposes that we take advantage of this fact to improve college outcomes as well.\r\n \r\nHollywood HEART is currently reaching out to community colleges who have targeted programs for first generation and low-income students to provide encouragement and support for our students who wish to continue working in art-related fields. We are also in preliminary discussions with a four-year college who has expressed an interest in launching a similar effort. Our initial programming will target students interested in career opportunities for “below the line” positions in film and television which aligns not only with our film and digital media workshops but also our culinary arts and fashion programs which translate easily to catering and costuming careers."
 areas_impacted: ''
 partners: ''
@@ -225,26 +217,6 @@ Are there other organizations doing similar work (whether complementary or compe
   personal creativity and personal growth for at-risk students. Hollywood HEART
   has hired individuals trained by these organizations to lead the workshops but
   has not entered into any contracts directly with the nonprofit organizations.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The program we are proposing is for the LA 2050 Challenge is budgeted at
-  $100,000. We have a number of additional grant proposals pending for this
-  effort. The ultimate size of the effort will depend on the total amount of
-  funds we receive. However, the LA 2050 Challenge grant by itself will allow us
-  to sustain and further improve our partnership with LA High School and to
-  begin programming at two new sites.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Hollywood HEART: Arts in the HEART of the Classroom Budget
-   
-   Program Coordinator  26,000
-   Curriculum Development  3,000
-   In-class Teaching Artists  25,200
-   Afterschool Teaching Artists  14,400
-   Fringe @22% of the above wages  15,000
-   Travel/Mileage  4,000
-   Educational Materials  8,400
-   Special Performances  4,000
-   Marketing & Publicity  2,000
-   TOTAL  100,000
 How do you plan to scale the success of your proposal?: >-
   Hollywood HEART’s proposal is in fact the first stage for scaling our
   Integrated Arts Program by introducing it to two new schools. We have recently

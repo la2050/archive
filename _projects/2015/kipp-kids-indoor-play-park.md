@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How did you hear about this challenge?: Coworker
   Organization(s) name(s): City of Los Angeles Department of Recreation and Parks
   Organization(s) mailing address(es): "7341 Willoughby Ave\r\nLos Angeles, CA 90046"
   Organization(s) website(s): www.lacity.org
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Coworker
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -192,13 +192,6 @@ maker_answers:
     and Alpha Phi receiving about $3000 for their contribution to the project. 
     I anticipate need the bulk of the grant money to purchase equipment and any
     other start up costs for the project (like staff fees).
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    I think this project will cost the full $100,000.  This amount will include
-    the planning, implementation, managing, and evaluation of the project.  It
-    will also include City costs to support such a program as long as it can
-    before it can be left up to each park to find funding to self-sustain the
-    program.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "The estimated budget for this project is as follows: \r\n\r\n$2000 = Playa Vista Moms Group\r\n$2000 = Women In Leisure Services\r\n$3000 = Alpha Phi Fraternity\r\n$43,000 = Staff Fees\r\n$40,000 = Equipment Fees\r\n$10,000 = Miscellaneous Fees (research, potential partners, cleaning fees, permit fees, unforeseen costs)"
   How do you plan to scale the success of your proposal?: >-
     I plan to review all forms of evaluation and personally involve my friends,
     family and myself with the project.  In working with the City of LA's
@@ -283,20 +276,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Alpha Phi receiving about $3000 for their contribution to the project. I
   anticipate need the bulk of the grant money to purchase equipment and any
   other start up costs for the project (like staff fees).
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  I think this project will cost the full $100,000. This amount will include the
-  planning, implementation, managing, and evaluation of the project. It will
-  also include City costs to support such a program as long as it can before it
-  can be left up to each park to find funding to self-sustain the program.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  The estimated budget for this project is as follows: 
-   
-   $2000 = Playa Vista Moms Group
-   $2000 = Women In Leisure Services
-   $3000 = Alpha Phi Fraternity
-   $43,000 = Staff Fees
-   $40,000 = Equipment Fees
-   $10,000 = Miscellaneous Fees (research, potential partners, cleaning fees, permit fees, unforeseen costs)
 How do you plan to scale the success of your proposal?: >-
   I plan to review all forms of evaluation and personally involve my friends,
   family and myself with the project. In working with the City of LA's

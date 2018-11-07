@@ -66,6 +66,48 @@ project_summary: >-
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22625%252Fdisplay%252Flarb_logo.jpg=c570x385
 maker_answers:
+  description1: >-
+    We have already partially succeeded in bringing a sense of community to the
+    cultural life of L.A. in a new way. We are training a new generation in the
+    lost art of editing. We have built something the literary, artistic, &
+    intellectual community is proud to be associated with, & proud to have
+    represent them. We have received extravagant praise from the larger literary
+    community. The New Yorker called us “an instant jewel of the internet,” Pico
+    Iyer said we are “like 1000 angels descending,” Salman Rushdie claims ours
+    was the best piece of criticism written about his work, & writers Jon Robin
+    Baitz & Michael Tolkin call LARB “the best literary magazine in the
+    country.” But more importantly the best writers in the country want to write
+    for us, & continue to come to us not only from all over L.A. County, but
+    also from New York, Boston, the Midwest, the West, & overseas. We have
+    achieved the status of a major voice in the cultural conversation in a
+    remarkably short time. We have been recognized by the publishing industry in
+    Publisher’s Weekly, the business community in Forbes, & the academic
+    community in Chronicle of Higher Education, & many other venues. The
+    accolades are based on our daily achievements in bringing forth smart,
+    dynamic, beautifully written, carefully curated, edited, & fact-checked
+    essays, reviews and interviews and the conversations that develop about them
+    on the website. Primarily, in other words, our site is our achievement, an
+    ever-growing, intelligently interlinked conversation on literature, art,
+    music, film, TV, politics, new media, & the rest of our shared culture. We
+    have succeeded in bringing together writers from around the world, bringing
+    together new writers with top professionals, writers from a wide variety of
+    different cultural worlds: literary fiction, SF, fantasy, mystery, thriller
+    & other genres; the commercial publishing world & the nonprofit & academic
+    worlds; the big presses and the small and the self-published; artists,
+    architects, sociologists, medical researchers, musicians, filmmakers,
+    scientists, & TV writers; & all of these from across a broad array of the
+    immigrant communities that define L.A. We cover a much wider range of texts,
+    genres, media, & topics than the traditional periodicals in this field,
+    reflective of the less hierarchical, less tradition-bound culture of Los
+    Angeles. While the other arts have enjoyed national prominence, literature &
+    criticism have lagged. We feel we have succeeded in making people (including
+    the New York publishing world) understand the importance, diversity, and
+    vibrancy of the literary culture of this, the largest book market in the
+    world, & in making the perspective of L.A. writers we provide part of the
+    necessary reading for publishing professionals around the world. Our pieces
+    are reprinted by Salon, Daily Beast, & publications in Brazil, Germany &
+    elsewhere. And we have managed to begin working toward sustainability,
+    increasing our income significantly. 
   success: >-
     There are 5 central measurements we use to assess how we are doing. (1) We
     will measure our readership. Although our most engaged readers are in L.A.,
@@ -108,7 +150,6 @@ maker_answers:
     interns to other high school, college students & recent graduates. If we are
     serving a broad range of L.A. communities we will consider ourselves a
     success.
-  Organization Name: Los Angeles Review of Books
   Indicator: Arts & Cultural Vitality
   brief: >-
     We are trying to establish a major institution for cultural exchange and
@@ -170,7 +211,6 @@ maker_answers:
     bringing literature, the arts, and culture to their largest possible
     audience, and thus to have their greatest impact, to realize their greatest
     potential.
-  budget explanation: "We have an aspirational budget of $900,000/year, of which we managed to raise $125,000 our first year and $225,000 our second. Our staff is a mixture of volunteers and people on minimal consulting stipends, and although we will continue to rely on volunteers, some professional staff is necessary to insure sustainability. The budget is divided into six areas: Editorial staff: $300,000 -- Managerial, production, and technical staff: $200,000 -- Contributor payments: $250,000 -- Rent and operating expenses: $75,000 -- Development expenses: $75,000.  --- Our income includes sponsorships from universities, publishers, and other institutions, voluntary memberships at different levels; and other gifts and grants, each projected to account for roughly one-third of our total budget. The sponsorship and membership efforts have only just become, so to date, sponsorship income has accounted for 20% of income, membership 5% and gifts and grants 75% (our grantwriting is also just underway, so most of that last figure is from gifts). We are glad to provide an spreadsheet with our financial data to date and our projections for the next several years, with detailed income and expenditures.\r\n\r\nThe $100,000 grant from GOOD would be spent in the following manner: $30,000 for contributor payments, directly benefiting Los Angeles writers (this will pay for 150 to 200 reviews, essays, or interviews at $150 to $200 a piece); $15,000 to help pay for our consulting art director, directly benefiting a local artist; $35,000 to help pay editorial staff stipends, again directly benefiting Los Angeles culture workers; $20,000 for multimedia production, directly benefiting local filmmakers.  All of these workers cobble together livings from multiple sources and have an art practice of their own that these stipends help support. The Editor-in-Chief and many of the section editors and contributors who have full-time professional jobs work as volunteers and will continue to work as volunteers."
   description: >-
     LARB will provide, for the people of Los Angeles, a source of lifetime
     learning, global in scope and yet local in its perspective and in many of
@@ -214,48 +254,7 @@ maker_answers:
     doing cross-promotion on our sites and in social media. We have also started
     to work with LAUSD, a pilot program at Animo Pat Brown Charter H.S.
   website: 'http://lareviewofbooks.org'
-  description1: >-
-    We have already partially succeeded in bringing a sense of community to the
-    cultural life of L.A. in a new way. We are training a new generation in the
-    lost art of editing. We have built something the literary, artistic, &
-    intellectual community is proud to be associated with, & proud to have
-    represent them. We have received extravagant praise from the larger literary
-    community. The New Yorker called us “an instant jewel of the internet,” Pico
-    Iyer said we are “like 1000 angels descending,” Salman Rushdie claims ours
-    was the best piece of criticism written about his work, & writers Jon Robin
-    Baitz & Michael Tolkin call LARB “the best literary magazine in the
-    country.” But more importantly the best writers in the country want to write
-    for us, & continue to come to us not only from all over L.A. County, but
-    also from New York, Boston, the Midwest, the West, & overseas. We have
-    achieved the status of a major voice in the cultural conversation in a
-    remarkably short time. We have been recognized by the publishing industry in
-    Publisher’s Weekly, the business community in Forbes, & the academic
-    community in Chronicle of Higher Education, & many other venues. The
-    accolades are based on our daily achievements in bringing forth smart,
-    dynamic, beautifully written, carefully curated, edited, & fact-checked
-    essays, reviews and interviews and the conversations that develop about them
-    on the website. Primarily, in other words, our site is our achievement, an
-    ever-growing, intelligently interlinked conversation on literature, art,
-    music, film, TV, politics, new media, & the rest of our shared culture. We
-    have succeeded in bringing together writers from around the world, bringing
-    together new writers with top professionals, writers from a wide variety of
-    different cultural worlds: literary fiction, SF, fantasy, mystery, thriller
-    & other genres; the commercial publishing world & the nonprofit & academic
-    worlds; the big presses and the small and the self-published; artists,
-    architects, sociologists, medical researchers, musicians, filmmakers,
-    scientists, & TV writers; & all of these from across a broad array of the
-    immigrant communities that define L.A. We cover a much wider range of texts,
-    genres, media, & topics than the traditional periodicals in this field,
-    reflective of the less hierarchical, less tradition-bound culture of Los
-    Angeles. While the other arts have enjoyed national prominence, literature &
-    criticism have lagged. We feel we have succeeded in making people (including
-    the New York publishing world) understand the importance, diversity, and
-    vibrancy of the literary culture of this, the largest book market in the
-    world, & in making the perspective of L.A. writers we provide part of the
-    necessary reading for publishing professionals around the world. Our pieces
-    are reprinted by Salon, Daily Beast, & publications in Brazil, Germany &
-    elsewhere. And we have managed to begin working toward sustainability,
-    increasing our income significantly. 
+  Organization Name: Los Angeles Review of Books
   description3: >-
     We don't feel we are in competition with any other groups; although
     individual artists may be in competition for grants or audience, and
@@ -505,46 +504,5 @@ cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/los-angeles-review-of-books/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22625%252Fdisplay%252Flarb_logo.jpg=c570x385.jpg
 maker_image_id: '22625'
 maker_image_file_name: larb_logo.jpg
-project_summary_backup: >-
-  We have already partially succeeded in bringing a sense of community to the
-  cultural life of L.A. in a new way. We are training a new generation in the
-  lost art of editing. We have built something the literary, artistic, &
-  intellectual community is proud to be associated with, & proud to have
-  represent them. We have received extravagant praise from the larger literary
-  community. The New Yorker called us “an instant jewel of the internet,” Pico
-  Iyer said we are “like 1000 angels descending,” Salman Rushdie claims ours was
-  the best piece of criticism written about his work, & writers Jon Robin Baitz
-  & Michael Tolkin call LARB “the best literary magazine in the country.” But
-  more importantly the best writers in the country want to write for us, &
-  continue to come to us not only from all over L.A. County, but also from New
-  York, Boston, the Midwest, the West, & overseas. We have achieved the status
-  of a major voice in the cultural conversation in a remarkably short time. We
-  have been recognized by the publishing industry in Publisher’s Weekly, the
-  business community in Forbes, & the academic community in Chronicle of Higher
-  Education, & many other venues. The accolades are based on our daily
-  achievements in bringing forth smart, dynamic, beautifully written, carefully
-  curated, edited, & fact-checked essays, reviews and interviews and the
-  conversations that develop about them on the website. Primarily, in other
-  words, our site is our achievement, an ever-growing, intelligently interlinked
-  conversation on literature, art, music, film, TV, politics, new media, & the
-  rest of our shared culture. We have succeeded in bringing together writers
-  from around the world, bringing together new writers with top professionals,
-  writers from a wide variety of different cultural worlds: literary fiction,
-  SF, fantasy, mystery, thriller & other genres; the commercial publishing world
-  & the nonprofit & academic worlds; the big presses and the small and the
-  self-published; artists, architects, sociologists, medical researchers,
-  musicians, filmmakers, scientists, & TV writers; & all of these from across a
-  broad array of the immigrant communities that define L.A. We cover a much
-  wider range of texts, genres, media, & topics than the traditional periodicals
-  in this field, reflective of the less hierarchical, less tradition-bound
-  culture of Los Angeles. While the other arts have enjoyed national prominence,
-  literature & criticism have lagged. We feel we have succeeded in making people
-  (including the New York publishing world) understand the importance,
-  diversity, and vibrancy of the literary culture of this, the largest book
-  market in the world, & in making the perspective of L.A. writers we provide
-  part of the necessary reading for publishing professionals around the world.
-  Our pieces are reprinted by Salon, Daily Beast, & publications in Brazil,
-  Germany & elsewhere. And we have managed to begin working toward
-  sustainability, increasing our income significantly. 
 
 ---

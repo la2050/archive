@@ -25,8 +25,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Twitter
   Organization(s) name(s): RRM Design Group and Los Angeles Neighborhood Initiative
   Organization(s) mailing address(es): "RRM-3765 South Higuera Street, Suite102, San Luis Obispo, CA 93401\r\nLANI-800 800 Figueroa Street, Suite 970, Los Angeles, CA 90017\r\n"
   Organization(s) website(s): www.rrmdesign.com
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Twitter
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -156,8 +156,6 @@ maker_answers:
     and anything a community can dream up to enjoy outside with friends and
     neighbors
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Los Angeles Neighborhood Initiative will receive $10,000 for agency coordination\r\n$100,000\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "We will seek corporate sponsorship from:\r\nRedbox\r\nIkea\r\nHome Depot\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Agency Coordination - $10,000\r\nDesign, logistics, installation - $40,000\r\n10 Pop-up Plazas - $50,000\r\n"
   How do you plan to scale the success of your proposal?: >-
     We have proven the success at one LA library already. We now plan to grow
     this by a factor of 10 through this grant. After successfully deploying 10
@@ -203,15 +201,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Los Angeles Neighborhood Initiative will receive $10,000 for agency
   coordination
    $100,000
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': |-
-  We will seek corporate sponsorship from:
-   Redbox
-   Ikea
-   Home Depot
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Agency Coordination - $10,000
-   Design, logistics, installation - $40,000
-   10 Pop-up Plazas - $50,000
 How do you plan to scale the success of your proposal?: >-
   We have proven the success at one LA library already. We now plan to grow this
   by a factor of 10 through this grant. After successfully deploying 10 new

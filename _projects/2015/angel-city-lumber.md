@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/4Kt14HIJyiU'
 project_areas:
   - East LA
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: word of mouth
   Organization(s) name(s): Angel City Lumber
   Organization(s) mailing address(es): "3370 Glendale Blvd\r\n#39404\r\nLos Angeles CA 90039\r\nUnited States"
   Organization(s) website(s): www.angelcitylumber.com
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: word of mouth
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -129,8 +129,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Angel City Lumber’s mission is to re-use the readily available resource of Los Angeles’ urban forest and, in so doing, provide the city with high quality, low priced hardwood lumber.  By far the best way to evaluate our success lies in tracking our market share.  By evaluating our sales against those of other Los Angeles lumber companies, that do not source their lumber locally, we can effectively track what impact we are having on delivering a valuable resource to the local artistic community. \r\n\r\nWe have no delusions of grandeur - we are starting small in the hopes of instigating a larger change over time.  Big lumber companies and home centers’ are in no danger of suddenly seeing their sales dry up.  However, by steadily increasing our market share, we hope to present a positive example of how re-using sustainable local resources can not only positively affect our bottom line, but will also aid the creative population we serve."
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are a number of companies throughout the United States practicing urban lumber, though Angel City Lumber is the first to set up shop in Los Angeles.\r\n\r\nUrban Lumber Company\r\n\t\tEugene, OR \t\t        www.urbanlumber.co\r\nNY Heartwoods\r\n\t\tHudson Valley, NY  \twww.newyorkheartwoods.com\r\nWood From the Hood\r\n\t\tMinneapolis, MN   \t        www.woodfromthehood.com\r\nUrban Hardwoods\r\n\t\tSeattle, WA   \t\t        www.urbanhardwoods.com/\r\n\r\nAngel City Lumber has studied the success stories of these companies and intends to both mimc and improve their processes.  We don’t feel the need to be particularly different from these companies, they’ve provided an excellent example of what sustainability looks like in the world of hardwood lumber.\r\nThat being said - there are a few points which differentiate Angel City Lumber.  With the exception of NY Heartwoods, the above companies primary income comes from selling premium-priced furniture constructed from urban lumber – not selling the lumber itself.  Angel City Lumber will focus on selling competitively priced urban lumber to the public. \r\n\r\n\tAnother excellent point in our favor, Los Angeles houses a vast number of tree species.  Due to our favorable climate, typical urban tree species in Los Angeles hail from all six of the inhabitable continents.  We will have a more diverse inventory than any of the above companies  simply by our geography. "
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Angel City Lumber is a partnership between Jeff Perry and Charles DeRosa.  Together we formed a business to turn Los Angeles’ downed trees into affordable, high quality lumber.  Our intention is to invest the full $100,000 of the grant into growing the capacity of Angel City to mill, dry and sell lumber, sourced from Los Angeles, affordably.  \r\n\r\nWe do not have any other partners who will receive the grant money."
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Our goal of bringing urban lumber to Los Angeles is highly scaleable.  So far we have started small, spending $50,000 of our own money to buy a kiln for drying, a mill for cutting and paying monthly rent on 5000 square feet of commercial real estate to house the business.  \r\n\r\nUrban lumber will not catch on immediately - and creating a stock of useable lumber will take time.  Drying three thousand board feet of even a single species will take four to six weeks.$100,000 ensures that Angel City Lumber will be given the time necessary to succeed and will also allow us to enlarge our operation more quickly.  The grant money will buy an additional kiln for drying more wood and doubling our capacity, a forklift for moving trees which often weigh in excess of 5000 lbs., and help pay the rent over coming months while we create a stock of wood that covers the artistic communities’ needs."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "A second Kiln to double our production\t$10,000\r\nA year of rent\t\t\t\t\t                $40,000\r\nA fork lift\t\t\t\t\t                        $8,000\r\nOutreach (Business Cards,Brochures        $15,000\r\nWebsite)\r\nHire a part time employee\t\t\t        $25,000"
   How do you plan to scale the success of your proposal?: "We did not start Angel City Lumber simply to sell wood.  We were seduced by the opportunity to salvage the trees of Los Angeles, otherwise doomed to be buried or chipped, and put them in the hands of artists.  By using local trees and doing the work here in Los Angeles we also saw a way to lower prices - allowing artists and builders to pass on savings to their clients.\r\n\r\nOur long term plan involves scaling up production - there are thousands of usable trees coming down in Los Angeles annually, we want to salvage as many as possible.  This future will require more infrastructure -  vehicles with greater hauling capacity, the hiring of employees and expanding locations. \r\n\r\nThe beauty of urban lumber is the simplicity of it’s message, re-use local resources that are otherwise being wasted.  It is also a sound business plan, as we’ve seen with the success of urban lumber companies elsewhere.  Angel City Lumber hopes to expand it’s operation - while at the same time expanding the awareness of Angelenos of the value of our local resources. "
 areas_impacted: ''
 partners: ''
@@ -198,20 +196,6 @@ Are there other organizations doing similar work (whether complementary or compe
   lumber, sourced from Los Angeles, affordably. 
    
    We do not have any other partners who will receive the grant money.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Our goal of bringing urban lumber to Los Angeles is highly scaleable. So far
-  we have started small, spending $50,000 of our own money to buy a kiln for
-  drying, a mill for cutting and paying monthly rent on 5000 square feet of
-  commercial real estate to house the business. 
-   
-   Urban lumber will not catch on immediately - and creating a stock of useable lumber will take time. Drying three thousand board feet of even a single species will take four to six weeks.$100,000 ensures that Angel City Lumber will be given the time necessary to succeed and will also allow us to enlarge our operation more quickly. The grant money will buy an additional kiln for drying more wood and doubling our capacity, a forklift for moving trees which often weigh in excess of 5000 lbs., and help pay the rent over coming months while we create a stock of wood that covers the artistic communities’ needs.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  A second Kiln to double our production $10,000
-   A year of rent  $40,000
-   A fork lift  $8,000
-   Outreach (Business Cards,Brochures $15,000
-   Website)
-   Hire a part time employee  $25,000
 How do you plan to scale the success of your proposal?: >-
   We did not start Angel City Lumber simply to sell wood. We were seduced by the
   opportunity to salvage the trees of Los Angeles, otherwise doomed to be buried

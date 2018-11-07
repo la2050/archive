@@ -16,8 +16,8 @@ project_areas:
   - SOUTH LA
   - SGV
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '1'
-  city_state: 'Los Angeles, CA'
   org_website: www.pacoimabeautiful.org
   org_twitter: '@PB__Community'
   org_facebook: 'https://www.facebook.com/Pacoima.Beautiful'
@@ -71,7 +71,7 @@ maker_answers:
   org_name: Pacoima Beautiful
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'Los Angeles, CA'
   metrics_live_importedwater: '1'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '0'
@@ -99,17 +99,6 @@ maker_answers:
     organizations who make it a conscious effort to minimize obesity rates in
     our residents by informing them about healthier eating habits and health
     care access.  
-  cost: >-
-    We expect the project’s costs to not exceed $100,000. When estimating the
-    project’s expected costs with a group of advisors we were able to identify
-    an estimated amount of $5,000 additional funding from past contributors. As
-    an additional security we have been able to secure is the use of gardening
-    tools from LAUSD and donated labor from master gardeners and nurseries. In
-    addition when securing permits to proceed with the revitalization plans
-    including public safety personnel and street closure officers we have been
-    successful in the past in getting them waived from our community elected
-    officials.  
-  budget: "Beautification Resources- $ 50,500\r\n-\tSignage: $25,500\r\nNature Parkway/Urban Trails location posts, mile markers, sponsorship plaques, installation, informative plant signs, “pick up after your dog” posts \r\n-\tMaps: $2000\r\nDesign and Print urban trail maps\r\n-\tPlants: $ 5,000\r\nCA native plants\r\n-\tSoil: $7000\r\nDecomposed granite purchase and delivery\r\n-\tLabor: $ 5,000\r\nTop soil removal, damaged tree/plant removal\r\n-\tMaintenance: $2000\r\nWeed removal and debris disposal\r\n-\tPermits: $1000\r\nPlanting and community events\r\n-\tPortable Water for first quarter post planting: $3000\r\n\r\nMarketing $2,500\r\n-\tCommunity information and planting events:  2,000\r\n7 events- (food, water, paper goods, tables, chairs, porta potties, first aid supplies, storage buckets, ice)\r\n-\tStreet marketing: $500\r\nPosters, banners, flyers\r\n-\tSocial media: priceless\r\n\r\n\r\nPersonnel $47,000\r\n-\tConsultants: $ 37,000\r\nProject Lead, community facilitator, evaluation, web page design, social media updates, gas mileage, travel, phone\r\n-\tPacoima Beautiful Bookkeeper- $1000\r\n-\tProject Management (Pacoima Beautiful Staffer)- $7813\r\n-\tOffice space usage and supplies-  $1187\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

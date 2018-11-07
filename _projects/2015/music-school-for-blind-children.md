@@ -18,8 +18,8 @@ project_areas:
   - San Fernando Valley
   - County of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: Email
   Organization(s) name(s): Academy of Music for the Blind
   Organization(s) mailing address(es): "156 N. Primrose Ave.\r\nMonrovia CA 91016 "
   Organization(s) website(s): www.ouramb.org
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Email
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -159,8 +159,6 @@ maker_answers:
     students and use it as a way to raise awareness of the blind and share their
     incredible music with the world. But basically, the grant money will allow
     AMB to keep its doors open to its current students for 2 years! 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "At AMB we take it month by month and having this kind of money would mean we could breath and know we'd be open for almost 2 years! The kids would all get their own guitars!! \r\nHowever, we apply for other grants weekly and have been having some good luck. \r\nJosh Groban's FIND YOUR LIGHT Foundation gave us $10,000 last spring for us to stay open through the summer. We're always looking for more angels like that."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "15,000: Office Manager (1250/month for 12 months)\r\n•\r\n12,000: Assistant Director (1000/month for 12 months)\r\n•\r\n  8,400: Outreach Coordinator (700/month for 12 months)\r\n•\r\n  5,875: Sup1 ($125/week for 47 weeks)\r\n \r\n27,000: AMB-LA, 8 teachers ($1250/wk for 47 wks)\r\n•\r\nLunches for Teachers \r\n($370/yr per teacher)\r\n6,000\r\nAMB Merchandise\r\n 3,000\r\nTeaching Aids/Supplies\r\n 2,000\r\nTheatre Rentals\r\n 4,200\r\nInsurance\r\n 2,000\r\nInstrument Equipment\r\n 4,000\r\nPrinting\r\n    600\r\n2 Holiday Performances\r\n 1,400\r\nTax Preparation\r\n    400\r\nTelephone\r\n 1,600\r\nCTEBVI Conference\r\n    300\r\nPayPal & Bank Fees\r\n    500\r\nPostage\r\n    250\r\nTOTAL EXPENSES\r\n   $90,525"
   How do you plan to scale the success of your proposal?: >-
     The success of this proposal will be seen on the faces of over 30 blind
     children in LA. We will capture these smiles & voices and show LA and the
@@ -214,52 +212,6 @@ Are there other organizations doing similar work (whether complementary or compe
   use it as a way to raise awareness of the blind and share their incredible
   music with the world. But basically, the grant money will allow AMB to keep
   its doors open to its current students for 2 years!
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  At AMB we take it month by month and having this kind of money would mean we
-  could breath and know we'd be open for almost 2 years! The kids would all get
-  their own guitars!! 
-   However, we apply for other grants weekly and have been having some good luck. 
-   Josh Groban's FIND YOUR LIGHT Foundation gave us $10,000 last spring for us to stay open through the summer. We're always looking for more angels like that.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  15,000: Office Manager (1250/month for 12 months)
-   •
-   12,000: Assistant Director (1000/month for 12 months)
-   •
-    8,400: Outreach Coordinator (700/month for 12 months)
-   •
-    5,875: Sup1 ($125/week for 47 weeks)
-    
-   27,000: AMB-LA, 8 teachers ($1250/wk for 47 wks)
-   •
-   Lunches for Teachers 
-   ($370/yr per teacher)
-   6,000
-   AMB Merchandise
-    3,000
-   Teaching Aids/Supplies
-    2,000
-   Theatre Rentals
-    4,200
-   Insurance
-    2,000
-   Instrument Equipment
-    4,000
-   Printing
-    600
-   2 Holiday Performances
-    1,400
-   Tax Preparation
-    400
-   Telephone
-    1,600
-   CTEBVI Conference
-    300
-   PayPal & Bank Fees
-    500
-   Postage
-    250
-   TOTAL EXPENSES
-    $90,525
 How do you plan to scale the success of your proposal?: >-
   The success of this proposal will be seen on the faces of over 30 blind
   children in LA. We will capture these smiles & voices and show LA and the

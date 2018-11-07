@@ -15,8 +15,8 @@ project_video: ''
 project_areas:
   - SOUTH LA
 maker_answers:
+  metrics_live_selfsufficiency: '1'
   metrics_live_healthyfood: '1'
-  city_state: 'Pasadena, CA'
   org_website: 'https://www.facebook.com/theshedpasadena'
   org_twitter: 'https://twitter.com/zanjamadre'
   org_facebook: 'https://www.facebook.com/theshedpasadena'
@@ -70,7 +70,7 @@ maker_answers:
   org_name: 'Zanja Madre, The Shed Pasadena, La Loma Development'
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '1'
+  city_state: 'Pasadena, CA'
   metrics_live_importedwater: '1'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '0'
@@ -99,13 +99,6 @@ maker_answers:
     design-build with community engagement, environmental education, fun and the
     arts. We offer something unique - a creative hands-on opportunity to take
     part in building our future places with regenerative landscapes.
-  cost: >-
-    We estimate that the long term improvements at THE SHED will cost between
-    $250,000 and $350,000. We plan on bringing in additional revenue streams
-    through government and private grants, corporate event film and location
-    rentals for short and long term improvements, including the eventual urban
-    agriculture green roof and community kitchen.
-  budget: "Audiovisual equipment $10,000\r\nHeating $6,000\r\nCooling $6,000\r\nAsphalt Removal & Recycling $30,000\r\nGreenwalls $5,000\r\nPlants & Trees $7,500\r\nHaybale cobb walls $5,000\r\nWater wheel $5,000\r\n10,000 gallon capacity rain tank $10,000\r\nCMS Website & Marketing Materials $10,500\r\nReclaimed & restored furniture (tables, chairs) $5,000"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

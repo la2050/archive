@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - LAUSD
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: Friend
   Organization(s) name(s): The Sound Body Sound Mind Foundation
   Organization(s) mailing address(es): "11100 Santa Monica Blvd. Suite 1910\r\nLos Angeles, CA 90025"
   Organization(s) website(s): 'https://www.uclahealth.org/soundbodysoundmind/Pages/default.aspx'
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Friend
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -180,12 +180,6 @@ maker_answers:
     program.  All $100,000 of grant awards will go to the Sound Body Sound Mind
     Foundation, and we will designate that grant money toward equipment costs
     and building the two fitness centers at the LAUSD high schools.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The $100,000 will cover the entirety of the project.  We have implemented 95
-    fitness centers within LAUSD over the last 15 years, and have maximized our
-    cost-effectiveness in getting the program and fitness centers installed as
-    efficiently as possible.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Budget for SBSM Fitness Centers (Per School)\r\n\r\nCommercial-Grade Fitness Equipment (Strength and Cardio Exercise Machines) - $45,800.00\r\n\r\nMobile Fitness Accessories (Jump ropes, Agility Ladders, Sandbells, Balls, etc.) -  $3,500\r\n\r\nSignage (Fitness Center Sign and Banner) - $400.00\r\n\r\nSBSM Curriculum Books (4 Books) - $300.00\r\n\r\nTotal Expenses (Per School) - $50,000\r\n\r\nTotal Project Expenses (All Schools) - $100,000"
   How do you plan to scale the success of your proposal?: "SBSM has tried to make scalable program that can be implemented at almost any middle or high school by making the program consistent yet flexible.  Class sizes, student abilities, student behaviors, and the amount of space that a school is able to allot for a fitness center varies enormously from school to school.  Giving each school the ability to tailor their fitness center to the school’s needs gives a larger sense of ownership for the school, as well as a more effective use of the fitness equipment and program.  This is one of the reasons why SBSM has grown to impact over 92,000 students per year with our 95 fitness centers in LAUSD. With the help of the L.A. 2050 grant, SBSM will be able to expand our reach in LAUSD even further.\r\n"
 areas_impacted: ''
 partners: ''
@@ -264,25 +258,6 @@ Are there other organizations doing similar work (whether complementary or compe
   of grant awards will go to the Sound Body Sound Mind Foundation, and we will
   designate that grant money toward equipment costs and building the two fitness
   centers at the LAUSD high schools.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The $100,000 will cover the entirety of the project. We have implemented 95
-  fitness centers within LAUSD over the last 15 years, and have maximized our
-  cost-effectiveness in getting the program and fitness centers installed as
-  efficiently as possible.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Budget for SBSM Fitness Centers (Per School)
-   
-   Commercial-Grade Fitness Equipment (Strength and Cardio Exercise Machines) - $45,800.00
-   
-   Mobile Fitness Accessories (Jump ropes, Agility Ladders, Sandbells, Balls, etc.) - $3,500
-   
-   Signage (Fitness Center Sign and Banner) - $400.00
-   
-   SBSM Curriculum Books (4 Books) - $300.00
-   
-   Total Expenses (Per School) - $50,000
-   
-   Total Project Expenses (All Schools) - $100,000
 How do you plan to scale the success of your proposal?: >-
   SBSM has tried to make scalable program that can be implemented at almost any
   middle or high school by making the program consistent yet flexible. Class

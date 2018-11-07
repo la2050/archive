@@ -12,8 +12,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: entered last year with a different project
   Organization(s) name(s): ChallengeMaker
   Organization(s) mailing address(es): "1523 Maltman Ave #5\r\nLos Angeles, CA 90026"
   Organization(s) website(s): www.challengemaker.com
@@ -58,7 +58,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: entered last year with a different project
   'City, State': Los Angeles Ca
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -147,11 +147,6 @@ maker_answers:
     who don't donate. It's also really hard to invite an audience to a challenge
     using other media. 
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Jason McCabe - Founder/ Bis Dev / Designer\r\nJack Conor - Head of Tech\r\nRachael Caine - Peer to Peer Marketing"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Getting us off the ground will cost over $100,000. However we will see
-    revenue spike in just the second month with campaigns we have already began
-    setting up. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Salaries $18750\r\nPayroll Tax & Benefits  $ 15795\r\nDigital Marketing Campaigns 3600\r\nHosting and Bandwith $1000\r\nawyers, accountants, CPAs $1800\r\nTravel, meals, conferences $7500\r\nPhone service $1350\r\nInsurance $300"
   How do you plan to scale the success of your proposal?: "Our platform is built to be completely scaleable. We'll increase staff as need be.\r\n\r\n"
 areas_impacted: ''
 partners: ''
@@ -161,8 +156,6 @@ Please list at least one major barrier/challenge you anticipate. What is your st
 Please explain how you will evaluate your work.: '#N/A'
 Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/challengemaker/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24048%252Fdisplay%252FChallnegeMaker_Deck_V5_1_pdf__page_2_of_8_.png=c570x385.png

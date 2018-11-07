@@ -17,8 +17,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): "PO Box 16311\r\nNorth Hollywood, CA 91615\r\n"
   Organization(s) website(s): www.lamakerspace.com
   Organization(s) twitter handle(s): 'https://twitter.com/LAMakerspace'
@@ -54,7 +54,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): LA Makerspace
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -126,8 +126,6 @@ maker_answers:
     modifications to the curriculum can be made as needed.
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are currently two form of coding camps available in Los Angeles. These are: fully-featured, robust multi-session experiences held by for-profits such as iD Tech Camps, UCode, Planet Bravo, and CodeRev kids. At a cost of $550-$1700 a week, these camps are not accessible to many Angelenos. The second kind are free programs, which are typically one-off workshops or have limited seats because they are sponsored or run by a nonprofit.\r\n\r\nLA Makerspace is one of these nonprofits. We have experience in offering workshops in neighborhoods around LA County via our partnership with the Los Angeles Public Library (LAPL) system. Our workshops in Minecraft are multi-session, but spaces are limited by the funding available for LAPL. Partnering with Connected Camps to hold 200 hours of coding instruction remotely, for free, overcomes many of these obstacles. Particularly, through our partnership with afterschool programs, it empowers non-educator, non-Minecraft experts who work with LA’s underserved youth, to offer the camps for free again and again."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "LA Makerspace will be partnering with Connected Camps, a benefit corporation. Connected Camps was co-founded by LA Makerspace’s founder, technologist and entrepreneur Tara Tiger Brown; with Mimi Ito, Professor in Residence and MacArthur Foundation Chair in Digital Media and Learning at UC Irvine, Research Director of the Digital Media and Learning Research Hub, and Chair of the Connected Learning Research Network; and Katie Salen, game designer and force behind the creation of Institute of Play and its partner school Quest to Learn. \r\n\r\nLA Makerspace - $70,000\r\nConnected Camps - $30,000\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "60 workshop series; 825 Los Angeles students learning to code = $100,000\r\n\r\nThe camp and its curriculum will be facilitated in the form of a series of workshops that will be made available to kids all over Los Angeles. The workshops will be delivered either in-person or online depending on the resources available in each afterschool setting. The in-person workshop is best for those afterschool programs that do not have laptops or sufficient internet access. LA Makerspace will run the entire workshop series and provide coding counselors, Minecraft server memberships for all participants, and something called a Minecraft-in-a-Box kit (1 Minecraft server + 15 laptops). The online coding workshop is for facilities that have computers and sufficient internet access and want to focus on flexibility and providing their staff with professional development. \r\n\r\nWe are proposing that each in-person coding workshop series is composed of 4 2-hour workshops and that we would offer 35 instances of the series with 525 students.  Each online coding workshop series is composed of 8, 1.5 hour workshops and we will offer 25 instances of this series with 300 students.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "In-person coding camps:\r\nAfterschool program provides learning space\r\nLAM provides:\r\n-Lead coding counselor+assistant coding counselor\r\n-Connected Camps curriculum+facilitator guides\r\n-Professional development for staff\r\n-Minecraft (MC) server+15 laptops\r\n-15 MC accounts\r\n15 students per workshop series\r\n4 weeks, 2 hrs per session\r\n$1500 per workshop series for 15 students($100/student)\r\n35 workshop series(525 students)*$1500=$52000\r\n\r\nLAM Equipment\r\nMC-in-a-Box kits (1 MC server+15 laptops+15 MC accounts)=$8500*2 kits=$1700\r\n\r\nOnline Coding Camps\r\nAfterschool program provides learning space with computers and internet access.\r\nConnected Camps provides:\r\n-2 coding camp counselors instruct students online via MC+audio chat\r\n-12 MC accounts\r\n-Access to safe, moderated MC server\r\n-Professional development for staff\r\n-Tech support\r\n12 students per workshop series\r\n8 weeks, 1.5 hr per session\r\n$1200 per workshop series ($100/student)\r\n25 workshop series(300 students)*1200=$30000\r\n\r\n\r\n\r\n\r\n\r\n"
   How do you plan to scale the success of your proposal?: "Ability to scale is built in to the basic premise of the proposal. With years of experience and a hotline to the network of connected learning proponents nationwide, the curriculum will be made in a collaborative process with representatives from end user groups, integrating feedback as we proceed with development. We will be partnering with after-school organizations to deliver the camps, which will include professional development for their staff so they can repeat the camps independently. Additionally, through our partnership with Connected Camps we have another opportunity to scale. Connected Camps offers year-round learning experiences in Minecraft where kids log-in from home, and the curriculum that is developed as part of this proposal could be easily integrated into their core model. Last summer, they served 2,000 kids and have plans to double this number next summer. \r\n"
 areas_impacted: ''
 partners: ''
@@ -198,41 +196,6 @@ Are there other organizations doing similar work (whether complementary or compe
    
    LA Makerspace - $70,000
    Connected Camps - $30,000
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': |-
-  60 workshop series; 825 Los Angeles students learning to code = $100,000
-   
-   The camp and its curriculum will be facilitated in the form of a series of workshops that will be made available to kids all over Los Angeles. The workshops will be delivered either in-person or online depending on the resources available in each afterschool setting. The in-person workshop is best for those afterschool programs that do not have laptops or sufficient internet access. LA Makerspace will run the entire workshop series and provide coding counselors, Minecraft server memberships for all participants, and something called a Minecraft-in-a-Box kit (1 Minecraft server + 15 laptops). The online coding workshop is for facilities that have computers and sufficient internet access and want to focus on flexibility and providing their staff with professional development. 
-   
-   We are proposing that each in-person coding workshop series is composed of 4 2-hour workshops and that we would offer 35 instances of the series with 525 students. Each online coding workshop series is composed of 8, 1.5 hour workshops and we will offer 25 instances of this series with 300 students.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  In-person coding camps:
-   Afterschool program provides learning space
-   LAM provides:
-   -Lead coding counselor+assistant coding counselor
-   -Connected Camps curriculum+facilitator guides
-   -Professional development for staff
-   -Minecraft (MC) server+15 laptops
-   -15 MC accounts
-   15 students per workshop series
-   4 weeks, 2 hrs per session
-   $1500 per workshop series for 15 students($100/student)
-   35 workshop series(525 students)*$1500=$52000
-   
-   LAM Equipment
-   MC-in-a-Box kits (1 MC server+15 laptops+15 MC accounts)=$8500*2 kits=$1700
-   
-   Online Coding Camps
-   Afterschool program provides learning space with computers and internet access.
-   Connected Camps provides:
-   -2 coding camp counselors instruct students online via MC+audio chat
-   -12 MC accounts
-   -Access to safe, moderated MC server
-   -Professional development for staff
-   -Tech support
-   12 students per workshop series
-   8 weeks, 1.5 hr per session
-   $1200 per workshop series ($100/student)
-   25 workshop series(300 students)*1200=$30000
 How do you plan to scale the success of your proposal?: >-
   Ability to scale is built in to the basic premise of the proposal. With years
   of experience and a hotline to the network of connected learning proponents

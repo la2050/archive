@@ -24,8 +24,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Word of mouth from one of our members.
   Organization(s) name(s): Hollywood Curling
   Organization(s) mailing address(es): 'PO Box 7872, Van Nuys Blvd, Panorama City, CA 91409'
   Organization(s) website(s): www.hollywoodcurling.org
@@ -76,7 +76,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Word of mouth from one of our members.
   'City, State': 'Valencia, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -139,8 +139,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Goals:\r\nOpen a dedicated curling facility. The completion of this task is our first evaluation marker.\r\n\r\nIntroduction and exposure of the sport to local Angelenos. Success of this goal will be measured quantitatively by:\r\n- The number of members\r\n- The number of active leagues\r\n- Attendance at tournaments & intro lessons\r\n- Learn to curl attendance\r\n- Number of private events\r\n- National and regional events hosted\r\n\r\nIncreased Annual Growth: Goal of 400+ members within 5 years through marketing and outreach efforts. \r\n\r\nExpansion of Specialty Leagues: In addition to our open and skills specific leagues, we plan to have youth, college, LGBT, municipal, and studio leagues. Additionally, corporate team building events and private parties.  This goal will be evaluated based on the variety of programming achieved within the first 3-5 years with outreach into those respective communities."
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are a number of other sports leagues in the city, including venue specific sports such as ice rinks and bowling alleys. There are NO other curling organizations in Los Angeles; we are the only place to curl and our own building would ensure we remain the only league in place for an extended period of time. \r\n\r\nThat said, we do compete with other entertainment and sporting opportunities which can make it challenging to break through the clutter. We get a tremendous boost every four years during the Olympics, and in 2018 there will be another curling  event added to the Olympic roster. We believe that a facility of our own, at that time, will have a massive impact on the scope of people we are able to reach.\r\n\r\nCurling may not be the first thing that comes to mind when you think of sports in Los Angeles.  It is a grass roots sport that has taken off here, and in other cities in temperate climates across the country, including Phoenix, San Francisco, San Diego and Las Vegas.  The fact that Los Angeles is already known for its Olympic legacy and future Olympic aspirations strengthens the desire to showcase this increasingly popular and unique sport.\r\n\r\nTestimonials:\r\n\r\n“I attended one of the \"Learn to Curl\" events, and it was stupendously fun! Who knew? Everyone there was incredibly friendly, and the group I was in had a great time laughing and cheering each other on. Super supportive environment. I'm only sad I don't live closer because I think I'd be inclined to go more often if I did.” - yelp review by K.A.\r\n\r\n“This might have been the most fun thing I’ve done in the last 5 years.” - yelp review by Roman S.\r\n\r\n“Everyone was really welcoming and made learning the sport fun.  And what's great is that it can be for anyone (young, old, short, tall).” - yelp review by G.S.\r\n\r\n“I met the love of my life at Hollywood Curling, and made her my wife. For that, I am forever grateful.”- Chris Olander, Hollywood Curling Member."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "100% of the grant funding will go toward our capital campaign allowing us to build. Though we do not have any other partners or collaborators on the start-up of this project, funding from the grant would allow us to achieve our goal, and therefore indirectly benefit those community partners with whom we have existing relationships with.\r\n\r\nBelow are a list of non-financial community partners with whom we have worked and continue to nurture relationships with. \r\n\r\nUSA Curling - hosting national events, clinics, and seminars\r\nLA84 - Expansion of youth initiatives\r\nTriumph Foundation - Expansion of our wheelchair & accessibility programs\r\n\r\nTarget community partners include local stakeholder agencies and organizations:\r\nCity of San Fernando Parks Department\r\nSan Fernando Chamber of Commerce\r\nPacoima Beautiful\r\nBoys and Girls Club\r\nYouth Speak Collective\r\nYMCA\r\nLocal public, private, and charter schools"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The estimate for moving into our own facility is approximately $645,000. This includes permitting & professional fees, ice making equipment and installation, HVAC requirements, construction & build out costs, rent deposit to secure the lease, and contingency. To cover this amount we’ve got a multi-faceted approach to our fundraising:\r\n\r\nGeneral Fund - $90K on hand. Through fundraising specific tasks such as our recent Viking River Cruise raffle, as well as leagues, lessons and corporate parties.\r\n\r\nSolicited Donations/ Member Contributions - $200K. Pledges from our 100+ members, as well as solicited donations from other clubs.\r\n\r\nCrowdfunding - Goal: $90-100K. Using a site like Indiegogo, we will appeal to the wider curling community in Canada and the US, and plan on utilizing our network within the high performance curling community around the globe to help spread the word and make the campaign go viral.\r\n\r\nCorporate Sponsorship - Goal: $50-100K. With the number of people who will come through the door, particularly during the Olympic years, we plan to utilize our non-profit status to sell sponsorship opportunities\r\n\r\nPresales - $25K. Through group sales sites such as Groupon or Living Social we can offer advanced deals for learn to curl classes. \r\n\r\nLoans- $50-100K (max $250K available) - Utilizing an interest-free loan program from World Curling Federation, with funds earmarked for the building of new brick & mortar facilities. \r\n\r\nIn Kind Donations- $30-50K. From construction materials, furniture, office equipment, contractor fees, and professional fees.\r\n\r\nTotal Estimated Fundraising Goals: $545K\r\n\r\nThe LA2050 grant would help us bridge that last gap to get us to our goal, and allow us to build the curling club that Los Angeles deserves."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$100,000 will go towards the facility start up budget, approximately $645,000. This money will ensure the implementation of the programming and further fundraising required to reach our goals.\r\n\r\nAllocation of grant funds:\r\n$50,000 professional and permitting fees*\r\n$20,000 rent deposit\r\n$20,000 Ice maintenance equipment\r\n$10,000 toward build-out costs (construction materials and/or contractor fees)\r\n\r\n*In the event that we are able to obtain pro bono work from some of our vendors, any balance will be applied toward buildout and ice plant costs."
   How do you plan to scale the success of your proposal?: "Success will be measured by our ability:\r\n- To offer the benefits of five sheets of quality, curling specific ice to all who access Hollywood Curling\r\n- To expand our capacity of use with inclusive, accessible programming\r\n- To encourage further corporate opportunities to invest in our vision. \r\n- To engage Angelenos in a unique and rewarding social experience\r\n\r\nOur plan is for five sheets of curling ice. This will already be an expansion of ice capacity from our current use. We will have ample opportunity to expand our programing as needed, including adding tournaments and private events. Expanding our marketing reach will be critical to capitalizing on the additional scheduling opportunities we will be able to offer. A facility of this size is suitable for hosting national championship events in the future, making Los Angeles a destination for tournaments, workshops, skills clinics and other training events.\r\n\r\nSan Fernando is also strategically located so that if we are successful, we can expand to other areas of the county, such as San Gabriel Valley, the harbor cities, or west side.  During the next Olympic cycles, we will be able to introduce curling at local ice rinks in these locations with the support and equipment provided by our dedicated facility and volunteers as a home base.\r\n\r\nWith your generous assistance will reach our goal of offering the game of curling to the local community, foster the social and competitive spirit of curling, and teach and develop curlers to compete at a local and national level. This grant opportunity comes at a crucial time in our fundraising campaigns and will ensure the growth of the organization and sport of curling in Los Angeles."
 areas_impacted: ''
 partners: ''
@@ -227,42 +225,6 @@ Are there other organizations doing similar work (whether complementary or compe
    Youth Speak Collective
    YMCA
    Local public, private, and charter schools
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The estimate for moving into our own facility is approximately $645,000. This
-  includes permitting & professional fees, ice making equipment and
-  installation, HVAC requirements, construction & build out costs, rent deposit
-  to secure the lease, and contingency. To cover this amount we’ve got a
-  multi-faceted approach to our fundraising:
-   
-   General Fund - $90K on hand. Through fundraising specific tasks such as our recent Viking River Cruise raffle, as well as leagues, lessons and corporate parties.
-   
-   Solicited Donations/ Member Contributions - $200K. Pledges from our 100+ members, as well as solicited donations from other clubs.
-   
-   Crowdfunding - Goal: $90-100K. Using a site like Indiegogo, we will appeal to the wider curling community in Canada and the US, and plan on utilizing our network within the high performance curling community around the globe to help spread the word and make the campaign go viral.
-   
-   Corporate Sponsorship - Goal: $50-100K. With the number of people who will come through the door, particularly during the Olympic years, we plan to utilize our non-profit status to sell sponsorship opportunities
-   
-   Presales - $25K. Through group sales sites such as Groupon or Living Social we can offer advanced deals for learn to curl classes. 
-   
-   Loans- $50-100K (max $250K available) - Utilizing an interest-free loan program from World Curling Federation, with funds earmarked for the building of new brick & mortar facilities. 
-   
-   In Kind Donations- $30-50K. From construction materials, furniture, office equipment, contractor fees, and professional fees.
-   
-   Total Estimated Fundraising Goals: $545K
-   
-   The LA2050 grant would help us bridge that last gap to get us to our goal, and allow us to build the curling club that Los Angeles deserves.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  $100,000 will go towards the facility start up budget, approximately $645,000.
-  This money will ensure the implementation of the programming and further
-  fundraising required to reach our goals.
-   
-   Allocation of grant funds:
-   $50,000 professional and permitting fees*
-   $20,000 rent deposit
-   $20,000 Ice maintenance equipment
-   $10,000 toward build-out costs (construction materials and/or contractor fees)
-   
-   *In the event that we are able to obtain pro bono work from some of our vendors, any balance will be applied toward buildout and ice plant costs.
 How do you plan to scale the success of your proposal?: |-
   Success will be measured by our ability:
    - To offer the benefits of five sheets of quality, curling specific ice to all who access Hollywood Curling

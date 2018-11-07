@@ -18,8 +18,8 @@ project_areas:
   - San Fernando Valley
   - County of Los Angeles
 maker_answers:
+  'City, State': 'Agoura Hills,Ca'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: Friend
   Organization(s) name(s): Golden Heart Ranch
   Organization(s) mailing address(es): '708 Pier Ave B 194, Hermosa Beach, CA 90254'
   Organization(s) website(s): www.goldenheartranch.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Agoura Hills,Ca'
+  How did you hear about this challenge?: Friend
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -162,11 +162,6 @@ maker_answers:
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
     We will not have any partners on this project. Only collaborators who wish
     to see our success and they will not gain financially from us.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We will cover extra costs by our extensive grant writing, support from
-    family foundations, support from corporations, private donors and
-    fundraising. We are already extensively involved in all of the above.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "I.\tOrganic gardens and vegetable tower installation………….$25,000\r\n\r\nII.\tAdmin for implementing program..……………………………..$7,000\r\n\r\nWe will also use resources such as interns from the local Pierce College agricultural program.\r\n\r\nIII.\tIndoor vocational cooking center…………………………….$40,000\r\n\r\nWe will be able to utilize the donation of an entire Thermador kitchen we have already received and are holding storage.\r\n\r\nIV.\tArt Therapy Vocational Program………………………......…$25,000\r\n\r\nWe will be able to implement the Art Therapy vocational program which will allow us to create and market the handmade goods that we can provide in the art center.\r\n"
   How do you plan to scale the success of your proposal?: >-
     We have already impacted the larger community by bringing the Nationally
     acclaimed Fred Conference to professionals, caregivers, families and self
@@ -208,24 +203,6 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
   We will not have any partners on this project. Only collaborators who wish to
   see our success and they will not gain financially from us.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We will cover extra costs by our extensive grant writing, support from family
-  foundations, support from corporations, private donors and fundraising. We are
-  already extensively involved in all of the above.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  I. Organic gardens and vegetable tower installation………….$25,000
-   
-   II. Admin for implementing program..……………………………..$7,000
-   
-   We will also use resources such as interns from the local Pierce College agricultural program.
-   
-   III. Indoor vocational cooking center…………………………….$40,000
-   
-   We will be able to utilize the donation of an entire Thermador kitchen we have already received and are holding storage.
-   
-   IV. Art Therapy Vocational Program………………………......…$25,000
-   
-   We will be able to implement the Art Therapy vocational program which will allow us to create and market the handmade goods that we can provide in the art center.
 How do you plan to scale the success of your proposal?: >-
   We have already impacted the larger community by bringing the Nationally
   acclaimed Fred Conference to professionals, caregivers, families and self

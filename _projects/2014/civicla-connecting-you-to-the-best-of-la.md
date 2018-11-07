@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '1'
-  city_state: Los Angeles
   org_website: www.communitycentered.org
   org_twitter: '@dorealgood'
   org_facebook: ''
@@ -77,7 +77,7 @@ maker_answers:
   org_name: 'Community Centered '
   metrics_connect_voting: '1'
   metrics_connect_adultsupport: '1'
-  metrics_connect_traveltime: '0'
+  city_state: Los Angeles
   metrics_connect_culturalevents: '1'
   metrics_connect_publictransit: '1'
   metrics_connect_neighborhoodcouncils: '1'
@@ -100,13 +100,6 @@ maker_answers:
   achievable_goal: "The period of one year is an adequate amount of time which will allow for the significant planning, further definition of performance targets, partner relationship management, recruitment and training of volunteers and staff, system development, and the building of essential relationships with other stakeholders that are required to penetrate Greater Los Angeles with a comfortable degree of success.\r\n"
   major_challenges: "One major barrier is the lack of political will by some institutions/entities to share information and resources. The spirit of competition or indifference often prevails over that of collaboration and synergy when resources are scarce and uncertain. It will take very mindful and deliberate consideration to manage relationships in a way that allows for each party to mutually leverage their resources and capacity in a way that does not leave them disadvantaged. There is also a matter of public trust and confidence which must be gained so that Civic LA as a new initiative can build a positive reputation as a responsible steward responsive to stakeholders.\r\n\r\nSecondarily, the LA2050 Challenge is but seed funding for a much larger financial need. The success of this project (with a scope of work that includes incremental growth based on resources committed to it) will largely rely on other organizations to buy-in to the concept and provide additional financial assistance. A prospect list is being development which includes potentially interested parties in the donor community such as community foundations, family foundations, corporate foundations and corporate social responsibility initiatives, and individuals.\r\n"
   competition: "There are many organizations who are have not been identified as competitive, but as potential partners and therefore complementary. These might include volunteer centers in some capacity such as Volunteer Los Angeles, LA Works or collaborative community action agencies the United Way of Greater Los Angeles; there are also specialized event websites like meetup.com, and any number of services with discrete focuses offered through the technology sector. That said, In the short period since the LA2050 Challenge was issued, no other organization doing the exact same work proposed in the same way has been identified -- centralizing and disseminating content, as well as facilitating activities which enable civic engagement and broad, inclusive community improvement outcomes.\r\n"
-  cost: "Civic LA is in the first phase of project development and has not created a comprehensive budget. The contributions of in-kind support that are received will largely determine the level of additional cash/financial support required. The budget will also be shaped by the scale of phased implementations for certain activities of the project (resulting what levels of involvement partners indicate they will have and the overall “user” base of services provided).\r\n"
-  budget: >-
-    $50,000 will be used to fund community organizing fellowships and
-    administrative staffing. $25,000 will be used to fund the development of
-    information technology infrastructure, and the remaining $25,000 will be
-    used to execute community meetings, workshops, leadership development
-    training, and promotional marketing.
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

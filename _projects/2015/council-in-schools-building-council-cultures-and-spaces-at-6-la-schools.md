@@ -21,8 +21,8 @@ project_areas:
   - South LA
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): "P.O. Box 999\r\nOjai, California 93024"
   Organization(s) website(s): www.councilinschools.org
   Organization(s) twitter handle(s): N/A
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): The Ojai Foundation's Council in Schools
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -141,8 +141,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "We will use a combination of quantitive metrics and qualitative surveys to evaluate our work, including: attendance/truancy rates; suspension and expulsion rates; disciplinary referral rates; bullying complaint rates; rates of disciplinary incidents resolved through \"restorative practices\"; standardized test scores; grade point average; students' perceived senses of safety, belonging, and fairness at school; students' reported level of engagement in school; and staffs' perceived senses of effectiveness, purpose, and solidarity at school.\r\nIn addition, we want to collaborate on devising better metrics that more meaningful reflect the short and long-term impact of our work."
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Council in Schools and The Ojai Foundation have been bringing council into Los Angeles schools for over 30 years have been the only organization doing this work. Over the last few years, restorative practices have emerged as an alternative to traditional school discipline processes, which are often punitive, exclusionary, and ineffective. \r\nLike council, restorative justice has its roots in the ways of indigenous peoples and involves a facilitated circle form of dialogue. \r\nAs providers have emerged to meet the burgeoning demand for restorative practices in schools, they recognized that circles are not effective if they are used only to address problems and to restore community when harm has been caused. Rather, circles must also be used to build community. If community has not been built, then there is nothing to restore when things go wrong. Restorative practices organizations have begun developing their own versions of council, which go by a variety of names, such as \"morning meeting\" and \"community circle.\" Other organizations providing restorative practices training and implementation to Los Angeles schools include: the California Conference for Equality and Justice, Community Matters, and Restorative Justice for Oakland Youth.\r\nWhile other organizations have begun doing work similar to council, our approach remains unique. With a history of success bringing council into schools, CIS has a team of experienced council trainers and a library of council curriculum. Unlike other community-building circle processes, which frequently ask participants to share their feelings or opinions on issues, council prompts typically elicit stories from participants' lived experience, as it is the sharing of story that best evokes our compassion for one another, not our opinions nor even our feelings if they don't include our story. We have also developed plans and templates to help educators integrate council into both the academic and social-emotional lives of students. Whereas other organizations often send their people to run community-building circles for teachers, we emphasize training and mentoring so that teachers and administrators take ownership of their councils themselves and the school becomes self-sufficient. We also offer council-based retreats at The Ojai Foundation and other locations where participants can deepen their practice by withdrawing from the city for a day or a weekend and reconnecting with the natural world."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Our partners/collaborators on this project will be:\r\nBright Star Charter Academy (charter management organization) and the five Bright Star schools\r\nGardner Street Elementary School\r\nBeth Ann Morrison, graduate student in Otis College of Art and Design's Public Practice program\r\nK. Ben Loescher, AIA, ICC, LEED AP, Registered Architect; Founding Principal of Loescher Meachem Architects; Program Manager at the Center for Land Use Interpretation\r\n\r\nOur partners/collaborators will not receive any part of the $100,000 grant award directly, other than a stipend of $2,000 to be paid to Mr. Loescher for his design and permitting work on the council space project. $67,000 is budgeted for expanding council and restorative practices at the five Bright Star Schools and $23,000 is budgeted for expanding the council program at Gardner and designing and building the dedicated council space."
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The project we propose will cost $100,000.\r\nAlso, Council in Schools recently received a pledge from another funder for a matching grant worth up to $75,000. Therefore, if we are awarded $100,000 from the LA2050 Grants Challenge, that award will meet our match and we will receive $75,000 in unrestricted funds that can be used to cover any additional costs incurred on this project, as well as to expand our capacity to bring council and restorative practices to more schools."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "*This space is a challenge to insert a detailed budget. Upon request a detailed budget spreadsheet will be provided. \r\n\r\nCOUNCIL AND RESTORATIVE PRACTICES TRAINING AND IMPLEMENTATION AT 6 SCHOOLS:\r\nCouncil Training $6,000\r\nStaff Councils/Group Mentoring/Professional Development $21,500\r\nIndividual Teacher/Administrator Mentoring $28,000\r\nParent/Family Council Facilitation $6,000\r\nYouth Council Leaders Trainings/Retreats $6,400\r\nPeaceTalks Implementation and Curriculum Development $9,500\r\nSchool Council Leadership Committees $3,600\r\n\r\nCOUNCIL SPACE DESIGN AND CONSTRUCTION AT GARDNER:\r\nArchitect stipend $2,000\r\nMaterials\t $3,800\r\nLabor $2,000\r\nEquipment Rental $1,200\t\r\n\r\nFiscal Sponsorship Fee/Administrative Expense $10,000\r\n\r\n"
   How do you plan to scale the success of your proposal?: "Our work is, by its nature, self-propagating. As we train and mentor educators who become practitioners and facilitators of council, and as more young people participate in councils in their schools, the numbers of council carriers grows and the practice spreads.\r\nWe are also at a time in our cultural development when the power and value of circle practices are being remembered. With the growth of the restorative justice movement, there is growing demand for the work we do. We expect the success of this project will create more demand for our services. The Bright Star organization is doing amazing work with severely underserved populations in some of LA's most difficult communities, and council is playing a big part in their success. Opportunities to work with other charter schools are and will continue emerging from our work with Bright Star. \r\nThe council space we are building at Gardner will bring additional attention to our work and additional opportunities to work with other schools, and to collaborate with other artists and architects interested in creating spaces for circle conversations. "
 areas_impacted: ''
 partners: ''
@@ -202,29 +200,6 @@ Are there other organizations doing similar work (whether complementary or compe
    K. Ben Loescher, AIA, ICC, LEED AP, Registered Architect; Founding Principal of Loescher Meachem Architects; Program Manager at the Center for Land Use Interpretation
    
    Our partners/collaborators will not receive any part of the $100,000 grant award directly, other than a stipend of $2,000 to be paid to Mr. Loescher for his design and permitting work on the council space project. $67,000 is budgeted for expanding council and restorative practices at the five Bright Star Schools and $23,000 is budgeted for expanding the council program at Gardner and designing and building the dedicated council space.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': |-
-  The project we propose will cost $100,000.
-   Also, Council in Schools recently received a pledge from another funder for a matching grant worth up to $75,000. Therefore, if we are awarded $100,000 from the LA2050 Grants Challenge, that award will meet our match and we will receive $75,000 in unrestricted funds that can be used to cover any additional costs incurred on this project, as well as to expand our capacity to bring council and restorative practices to more schools.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  *This space is a challenge to insert a detailed budget. Upon request a
-  detailed budget spreadsheet will be provided. 
-   
-   COUNCIL AND RESTORATIVE PRACTICES TRAINING AND IMPLEMENTATION AT 6 SCHOOLS:
-   Council Training $6,000
-   Staff Councils/Group Mentoring/Professional Development $21,500
-   Individual Teacher/Administrator Mentoring $28,000
-   Parent/Family Council Facilitation $6,000
-   Youth Council Leaders Trainings/Retreats $6,400
-   PeaceTalks Implementation and Curriculum Development $9,500
-   School Council Leadership Committees $3,600
-   
-   COUNCIL SPACE DESIGN AND CONSTRUCTION AT GARDNER:
-   Architect stipend $2,000
-   Materials $3,800
-   Labor $2,000
-   Equipment Rental $1,200 
-   
-   Fiscal Sponsorship Fee/Administrative Expense $10,000
 How do you plan to scale the success of your proposal?: >-
   Our work is, by its nature, self-propagating. As we train and mentor educators
   who become practitioners and facilitators of council, and as more young people

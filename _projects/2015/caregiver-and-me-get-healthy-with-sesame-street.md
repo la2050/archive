@@ -23,8 +23,8 @@ project_areas:
   - South LA
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Moorpark, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: twitter
   Organization(s) name(s): >-
     T&L Foundation for Child Care Information, Child Care Alliance of Los
     Angeles, Magnolia Place Family Center (Children's Bureau), Los Angeles
@@ -80,7 +80,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Moorpark, CA'
+  How did you hear about this challenge?: twitter
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -169,12 +169,6 @@ maker_answers:
     expertise of surrounding organizations set this project apart from current
     initiatives.
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Los Angeles County Department of Public Health (LAC DPH) is a collaborative partner providing technical assistance and resources as needed.  They will not receive grant funds.\r\n\r\nChild Care Alliance of Los Angeles will receive $25,000 to design the 1.5 hour class, Develop the 1.5 hour training based on the 3 Sesame Street Materials; “Mommy and Me”format, Conduct 12 trainings over the course of 1 year; Recruit FFN providers in partnership with our R&R’s (mailings, email blasts, phone calls), coordinate and host training (including food) at a local community center (Library, Parks and Rec Center, etc.), Provide child care and provide incentive materials - Physical Activity Kit\r\n\r\nMagnolia Place (Children's Bureau) will receive $15,000 to work with their existing network and additional channels of Family, Friend and Neighbor Caregivers.  Magnolia Place will arrange outreach, child care, location and enable us to work within the trusting boundaries they have established with their FFN community.\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    This pilot will not cost more than $100,000.  We are being mindful and
-    strategic about the communities we are reaching, the number of people we are
-    engaging and working with partners that understand and know our targets
-    which keeps costs at a minimum.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$25,000 to Child Care Alliance of Los Angeles to design class, conduct trainings, do outreach with their Child Care Resource and Referral network, host training at a community center, child care and incentive materials.\r\n$15,000 to Magnolia Place for dedicated staff person to coordinate, provide child care, outreach and liaise with existing ffn network\r\n$20,000 for a T&L Foundation staff person to coordinate the multiple efforts, manage budget and administer the overall project\r\n$20,000 Class Leaders.  To  train and provide incentives for leaders to learn and do the trainings within the community\r\n$5,000 Incentives for providers to attend\r\n$10,000 for outreach through different forms of media and channels in the communities. Print flyers, website, social media, text, as well as some grassroots efforts\r\n$2,500 for location of learning experiences\r\n$2,500 - Scholarship to pay for trustline application for 20 attendees interested in becoming trustlined "
   How do you plan to scale the success of your proposal?: "After we measure the success and lessons learned from the pilot, we are going to write a white paper detailing our experiences.  Showing not only how the overall program was set up and administered but how the different groups of people throughout the license exempt community responded to it.  The goal is to make it easy for other agencies to easily replicate the efforts and learn from our lessons for a successful license exempt outreach plan and class format.\r\n\r\nThere are many changes coming to the child care world through the new federal and state regulations after the Child Care Development Block Grant was signed into law.  One of these big changes is required 10 health and safety trainings.  It is imperative agencies intending to train the license exempt providers receiving subsidies know how to engage this notoriously isolated group of people in a learning opportunities.\r\n\r\nChildren 0-5 are in the care of family members or friends, most likely their grandparents.  These caregivers know how they raised their children and their cultural preferences.  They are not taking into consideration the impact they are having on the child’s weight, nutrient intake and brain development. This set of caregivers need an additional support system and messaging directed just to them.  They are family members and see themselves as such, not as babysitters, caregivers, providers or teachers.  Therefore, we will also reach out to organizations such as Generations United, AARP and other Grandfamilies organizations to consider what a partnership might look like to provide the class throughout these networks.\r\n\r\nThe website with all of the information and how to replicate these efforts will be maintained so the general public will always have access to the white paper, lessons learned and ways to replicate what we accomplished.\r\n"
 areas_impacted: ''
 partners: ', 951690975, 450532426,'
@@ -254,22 +248,6 @@ Are there other organizations doing similar work (whether complementary or compe
    Child Care Alliance of Los Angeles will receive $25,000 to design the 1.5 hour class, Develop the 1.5 hour training based on the 3 Sesame Street Materials; “Mommy and Me”format, Conduct 12 trainings over the course of 1 year; Recruit FFN providers in partnership with our R&R’s (mailings, email blasts, phone calls), coordinate and host training (including food) at a local community center (Library, Parks and Rec Center, etc.), Provide child care and provide incentive materials - Physical Activity Kit
    
    Magnolia Place (Children's Bureau) will receive $15,000 to work with their existing network and additional channels of Family, Friend and Neighbor Caregivers. Magnolia Place will arrange outreach, child care, location and enable us to work within the trusting boundaries they have established with their FFN community.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  This pilot will not cost more than $100,000. We are being mindful and
-  strategic about the communities we are reaching, the number of people we are
-  engaging and working with partners that understand and know our targets which
-  keeps costs at a minimum.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  $25,000 to Child Care Alliance of Los Angeles to design class, conduct
-  trainings, do outreach with their Child Care Resource and Referral network,
-  host training at a community center, child care and incentive materials.
-   $15,000 to Magnolia Place for dedicated staff person to coordinate, provide child care, outreach and liaise with existing ffn network
-   $20,000 for a T&L Foundation staff person to coordinate the multiple efforts, manage budget and administer the overall project
-   $20,000 Class Leaders. To train and provide incentives for leaders to learn and do the trainings within the community
-   $5,000 Incentives for providers to attend
-   $10,000 for outreach through different forms of media and channels in the communities. Print flyers, website, social media, text, as well as some grassroots efforts
-   $2,500 for location of learning experiences
-   $2,500 - Scholarship to pay for trustline application for 20 attendees interested in becoming trustlined
 How do you plan to scale the success of your proposal?: >-
   After we measure the success and lessons learned from the pilot, we are going
   to write a white paper detailing our experiences. Showing not only how the

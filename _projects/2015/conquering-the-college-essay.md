@@ -19,8 +19,8 @@ project_areas:
   - Westside
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Playa Vista, CA'
   Organization(s) mailing address(es): "12963 Runway Road #412\r\nPlaya Vista, CA 90094"
   Organization(s) website(s): www.ApplicantLab.com
   Organization(s) twitter handle(s): 'https://twitter.com/ApplicantLab'
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
+  'City, State': 'Playa Vista, CA'
   Organization(s) name(s): ApplicantLab
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -112,17 +112,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "I envision the project unfolding over three key phases in 2016: \r\n\r\nPhase 1: basic research, spring of 2016 -- meet with LAUSD counselors / English teachersto learn their tips for college essays. We will thus amalgamate \"best practices\" from LAUSD's finest.  Meet with students who have recently completed the college process to learn which challenges they faced.  \r\n\r\nMetric of success:  a product plan with concrete deliverables. \r\n\r\nPhase 2: development, summer of 2016 -- take the feedback from Phase 1 back to my developers and UX designer and iteratively create the new product, getting constant feedback along the way. Hire LAUSD students to help (internships!).\r\n\r\nMetric of success:  software developed & delivered to LAUSD\r\n\r\nPhase 3: launch, autumn of 2016 -- make the product available to help with the UC and \"Common App\" essays. View this as a prototype/pilot: get feedback & iterate!\r\n\r\nMetric of success: successful pilot + tons of feedback + college acceptances!"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There is one other online service, based in NYC, that offers an essay writing platform. It's called www.story2.com\r\n\r\nMy proposed product is unique in that it provides a start-to-finish strategy for the FULL college application, not just one essay in isolation. For example, my product allows users to think about which stories to use in their essays, which stories to write about in their recomendations, which stories to put in their \"brag sheet\", etc. \r\n\r\nIn other words, my patent-pending platform covers the creation of the FULL application, not just one essay. "
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "(see later question on budget)\r\n\r\n\r\n\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Should $100k not be sufficient, here is my plan:  As any entrepreneur will
-    tell you, sometimes you take a loss in the short-term in order to build a
-    business for the long term.  Should additional capital be required, I would
-    first pursue funds from philanthropic organizations.  I would also pursue
-    Venture Capital to help build out the rest of the product. If I can get this
-    product in the hands of LAUSD, and working for LAUSD kids (for free), then
-    that will  be a seal of approval that would allow me to *sell* the product
-    to other school districts around the nation -- a business plan that would
-    hopefully be appealing to an early-stage investor. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Software coders: $40k\r\n\r\nUX consultant: $10k\r\n\r\nContent advisor: $5k\r\n\r\nCompensating LAUSD counselors and English teachers for their time: $10 k \r\n\r\nConducting focus-groups & research interviews with LAUSD students: $5k (combination of direct compensation, plus, e.g. buying pizza for focus groups)\r\n\r\nHiring 2 LAUSD students as summer interns "
   How do you plan to scale the success of your proposal?: "To scale the success, there would be a constant iteration of feedback from students using the product -- we can learn what works & what doesn't.  The product will therefore get better and better over time.  \r\n\r\nIn terms of scaling the business itself, as mentioned above, getting this product into the hands of LAUSD will be a huge signal to other school systems that the product really works. I could then charge them to use it, and use those funds to continue growing the business. \r\n\r\n*NOTE ABOUT THE YOUTUBE VIDEO below! This was a pitch I gave last year; I have since (summer of 2015) completely re-done my UX (for the better!). The fundamental product is the same, but the look-n-feel is much better now. Please let me know if you'd like a tour of the current product (which I am just now getting ready to unveil). Thank you!"
 areas_impacted: ''
 partners: ''
@@ -165,28 +154,6 @@ Are there other organizations doing similar work (whether complementary or compe
    
    In other words, my patent-pending platform covers the creation of the FULL application, not just one essay.
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': (see later question on budget)
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Should $100k not be sufficient, here is my plan: As any entrepreneur will tell
-  you, sometimes you take a loss in the short-term in order to build a business
-  for the long term. Should additional capital be required, I would first pursue
-  funds from philanthropic organizations. I would also pursue Venture Capital to
-  help build out the rest of the product. If I can get this product in the hands
-  of LAUSD, and working for LAUSD kids (for free), then that will be a seal of
-  approval that would allow me to *sell* the product to other school districts
-  around the nation -- a business plan that would hopefully be appealing to an
-  early-stage investor.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Software coders: $40k
-   
-   UX consultant: $10k
-   
-   Content advisor: $5k
-   
-   Compensating LAUSD counselors and English teachers for their time: $10 k 
-   
-   Conducting focus-groups & research interviews with LAUSD students: $5k (combination of direct compensation, plus, e.g. buying pizza for focus groups)
-   
-   Hiring 2 LAUSD students as summer interns
 How do you plan to scale the success of your proposal?: >-
   To scale the success, there would be a constant iteration of feedback from
   students using the product -- we can learn what works & what doesn't. The

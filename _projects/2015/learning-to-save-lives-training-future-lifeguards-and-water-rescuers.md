@@ -20,8 +20,8 @@ project_areas:
   - San Fernando Valley
   - South Bay
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): '221 N. Figueroa Street, Los Angeles, CA  90012'
   Organization(s) website(s): www.laparks.org
   Organization(s) twitter handle(s): 'https://twitter.com/LACityParks'
@@ -68,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): City of Los Angeles Department of Recreation and Parks (RAP)
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '1'
@@ -125,17 +125,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Our work will be evaluated based on the success of the participants. RAP instructors create a curriculum prior to the beginning of the program based on the United States Lifesaving Association, which is the governing body for all open water programs/agencies.\r\n\r\nRAP's program is divided into four age groups:  9-11/12-13/14-15/16-17.  Staff set the same goals for all the different age groups. For instance, during the first year, the goals set for the younger group is to ensure water confidence in the surf and open water environment. By the end of the summer, all junior guards are to be confident in the following: Open water swim in ocean/lakes, Long distance swim and run, Run/swim/run time trials, Basic CPR-First Aid-swim rescues, Competitiveness at meets with other open water agencies.\r\n\r\nThe ultimate design for the junior lifeguards besides life skills and conditioning is to also be a feeder into RAP's Lifeguard program.  Many generations of our lifeguards began as Junior Lifeguards."
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are indeed other organizations with similar programs, largely municipal and county-based Junior Lifeguard programs. The County of Los Angeles sponsors a Junior Lifeguard program, while several coastal communities, including Redondo Beach and Huntington Beach, do the same.  The uniqueness of the City of Los Angeles program is that it endeavors to be inclusive to inland residents, rather than relying on a base of beach-community residents, while still providing exposure to open water (ocean) skills and experiences.  \r\nThe proposal to deliberately incorporate a social component is another uniqueness, resulting from the diversity of the urban experiences that defines our user base.\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': N/A
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The cost of the overall program is estimated at $99,708.91.  Receiving a
-    grant to fund RAP’s Summer 2016 Open Water Junior Lifeguard Program will
-    allow for professional Lifeguard training, resources, field trips to
-    Catalina Island and other environmental refuges, and fund one year’s United
-    States Lifesaving Association (USLA) membership fees for each participant. 
-    The budget also includes additional field trips to the beach for the Hansen
-    Dam participants allowing more exposure to the ocean waters and its
-    environment.  For the first year, scholarships will be available for youth
-    drawn from challenging social-economic areas.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Full-Time Program Operational Staff.....$5,064.00\r\nPart-Time Program Operational Staff....$40,362.88\r\nFringe Benefits Staff Costs.....................$6,255.41\r\nIndirect Staff Costs..................................$5,546.62\r\nEquipment, Supplies, Materials..............$42,480.00\r\n\r\nTotal Program Costs = $99,708.91\r\n"
   How do you plan to scale the success of your proposal?: >-
     The focus would be to scale the impacts of a successful program, rather than
     the size of the program itself, by creating stronger, healthier individuals
@@ -218,20 +207,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Alpha Phi receiving about $3000 for their contribution to the project. I
   anticipate need the bulk of the grant money to purchase equipment and any
   other start up costs for the project (like staff fees).
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  I think this project will cost the full $100,000. This amount will include the
-  planning, implementation, managing, and evaluation of the project. It will
-  also include City costs to support such a program as long as it can before it
-  can be left up to each park to find funding to self-sustain the program.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  The estimated budget for this project is as follows: 
-   
-   $2000 = Playa Vista Moms Group
-   $2000 = Women In Leisure Services
-   $3000 = Alpha Phi Fraternity
-   $43,000 = Staff Fees
-   $40,000 = Equipment Fees
-   $10,000 = Miscellaneous Fees (research, potential partners, cleaning fees, permit fees, unforeseen costs)
 How do you plan to scale the success of your proposal?: >-
   I plan to review all forms of evaluation and personally involve my friends,
   family and myself with the project. In working with the City of LA's

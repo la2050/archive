@@ -14,8 +14,8 @@ project_video: 'https://www.youtube.com/embed/BCRB5ujmBHo'
 project_areas:
   - EAST LA
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '1'
-  city_state: 135 N. Mission Rd.
   org_website: www.promesaboyleheights.org
   org_twitter: '@PromesaBH'
   org_facebook: PromesaBoyleHeights
@@ -59,7 +59,7 @@ maker_answers:
   org_name: Promesa Boyle Heights at Proyecto Pastoral
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
-  metrics_connect_traveltime: '0'
+  city_state: 135 N. Mission Rd.
   metrics_connect_culturalevents: '0'
   metrics_connect_publictransit: '0'
   metrics_connect_neighborhoodcouncils: '0'
@@ -96,21 +96,6 @@ maker_answers:
     sheer range of our strategies is also unique, encompassing direct services,
     the building of local capacity, shifting of local cultures, and impacting
     broader systemic change.
-  cost: >-
-    The total 1-year cost for our Project is $660,000. We have raised $175,000
-    in foundation grants, primarily to support our academic spark projects. We
-    have also leveraged $200,000 in in-kind commitments from our partner
-    organizations, in-kind consultants through Los Angeles Social Venture
-    Partners, and non-cash contributions from the national Promise Neighborhood
-    Institute to support our Efforts to Outcomes database. The LA 2050 grant
-    will allow us to cover the cost of a program association that will lead
-    coordination of the outreach and leadership development efforts of InnerCity
-    Struggle, East LA Community Corporation, and Proyecto Pastoral. She will
-    also support residents in the wellness center campaign and will support our
-    evaluation and communications efforts. We plan to launch a campaign in
-    September to raise additional funds needed for the initiative over the next
-    two years.
-  budget: "LA 2050 Budget\r\nAdministration & Operations\r\nPromesa BH Director $10,000 \r\nProject Coordination: $15,000 \r\nMarketing & Communications: $3,300\r\nData & Evaluations: $1,500\r\nSupplies & Meeting Expenses: $810\r\n\r\nProgram Costs\r\nLeadership Academies: $500\r\nOutereach Events: $300\r\nParent and Youth Engagement & Organizing: $59,000 (InnerCity Struggle: 25,000; Proyecto Pastoral: $25,000, and East LA Communication Corporation $9,000)\r\n\r\nIndirect Costs: $9,090\r\n\r\nTotal Budget: $100,000\r\n\r\nYear 1 Promesa BH Initiative Costs Not Covered by LA 2050 Budget\r\nPromesa BH Director $50,000 \r\nDevelopment & Communications Coordination: $75,000\r\nMarketing & Communications: $11,700\r\nData & Evaluations: $28,500\r\nSupplies & Meeting Expenses: $9,190\r\n\r\nProgram Expenses:\r\nFacilitation, Leadership, Promotora Network, Outreach: $74,200\r\nCommunity School K-College Pathway: $120,000\r\n\r\nWellness Solution Team: $40,000\r\n\r\nIndirect Costs: $41,720\r\n\r\nTotal 1 year initiative Costs: $658,920\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

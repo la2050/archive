@@ -17,8 +17,8 @@ project_areas:
   - East LA
   - City of Los Angeles
 maker_answers:
+  'City, State': Los Angeles
   How do you plan to use these resources to make change? Implement and track policy: '1'
-  How did you hear about this challenge?: Friend
   Organization(s) name(s): Farm LA
   Organization(s) mailing address(es): '2634 Rich Street, Los Angeles CA 90039'
   Organization(s) website(s): www.farmla.org
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': Los Angeles
+  How did you hear about this challenge?: Friend
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Beautify derelict land in Los Angeles
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -153,8 +153,6 @@ maker_answers:
     lawns and Farm LA’s mission is converting vacant unbuildable land into
     sustainable, drought-tolerant edible farms.
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': Farm LA is solely applying for the My LA2050 Grants Challenge.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "We feel confident in creating a functioning model farm in one year for $100,000. To keep the farm functioning we will create a sustainable financial business model in addition to fundraising and applying for grants to keep the farm going and growing indefinitely.\r\nIf there are remaining funds from the $100K budget we would allocate them to our Farm LA curbside mini-garden program by the end of 2016."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Administration: $20,000 *Costs to ensure project runs on schedule and within budget/Collect monthly data/general paperwork\r\nConstruction: $20,000 *Costs for solar install and supervision of all construction related line items\r\nRent or Land Purchase + FeesL $7,000 *We will try to have land donated, if not we have a modest budget for land purchase or rent + fees\r\nProperty Tax (AB551):$1,000 *Our goal will be to implement AB-551 Urban Agriculture Incentive Zone Act\r\nSoil testing:$500 \r\nEngineering Consultant: $2,000 \r\nSolar (PV) System: $6,000 \r\nSecurity/Fence/Locks:\t$3,000 \r\nSlab: $1,200 *Costs to create area production zone and or necessary storage\r\nGrading/Sodding: $1,500 *Costs for leveling\r\nCity (Land-Use) Paperwork/Permitting: $8,000 \r\nInsurance: $800\r\nAnnual Fundraiser: $1,500\r\nMarketing:$2,500\r\nAtmospheric water generator: $20,000\r\nContingency */Additional Curbside: $5,000 *Remaining will go towards creating additional curbside mini-farms in food-desert communities\r\n\r\n"
   How do you plan to scale the success of your proposal?: "Farm LA is the first non-profit organization dedicated to physically rescuing unbuildable land in Los Angeles for solar and drought-tolerant agricultural farming. Even Detroit (a city with very different zoning laws than LA) only just recently started taking over vacant property to supplement organic food needs for its city. The closest thing we could be compared to might be the Victory Gardens of WWII, which were extremely successful and had massive funding by the US government. We are essentially creating the benchmarks for this kind of mission in Los Angeles with it’s own set of variables.\r\n\r\nFor this reason we don’t have the standard 5 year reference for other programs who are doing the same thing to scale for success. But we plan to take a simple and effective collection of our monthly evaluated data (monetary donations, pounds of produce, visitors to site, new volunteer sign-ups, volunteer hours accumulated, weight-loss success stories,  kilowatts generated and gallons of water produced) and from there we can identify the key components that make our program work that month and set key goals for our next month. \r\n\r\nWe plan to ensure the success of our model farm with outreach to students, after school programs, camps, senior centers, neighborhood councils, public offices and walking tours - if every person we meet looks at a vacant piece of land as an opportunity to grow organic food, we feel we are one step closer to a maturing healthy Los Angeles.\r\n\r\nWe want our program to be easily replicated at the end of 2016 hopefully with the support of organizations and communities we’ve worked with that year combined with fundraising, grant writing and effective marketing we can replicate this model easily and count on reoccurring funding to ensure Farm LA’s efforts in making this the healthiest place to live by 2050.\r\n\r\nThough Farm LA is still young, we have the applicable skills to champion our mission. We have no problem taking on leadership roles or getting our hands dirty. We have a commitment to our dream, the passion to expand and serve new sites in the future.\r\n"
 areas_impacted: ''
 partners: ''
@@ -204,30 +202,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Farm LA’s mission is converting vacant unbuildable land into sustainable,
   drought-tolerant edible farms.
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': Farm LA is solely applying for the My LA2050 Grants Challenge.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We feel confident in creating a functioning model farm in one year for
-  $100,000. To keep the farm functioning we will create a sustainable financial
-  business model in addition to fundraising and applying for grants to keep the
-  farm going and growing indefinitely.
-   If there are remaining funds from the $100K budget we would allocate them to our Farm LA curbside mini-garden program by the end of 2016.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Administration: $20,000 *Costs to ensure project runs on schedule and within
-  budget/Collect monthly data/general paperwork
-   Construction: $20,000 *Costs for solar install and supervision of all construction related line items
-   Rent or Land Purchase + FeesL $7,000 *We will try to have land donated, if not we have a modest budget for land purchase or rent + fees
-   Property Tax (AB551):$1,000 *Our goal will be to implement AB-551 Urban Agriculture Incentive Zone Act
-   Soil testing:$500 
-   Engineering Consultant: $2,000 
-   Solar (PV) System: $6,000 
-   Security/Fence/Locks: $3,000 
-   Slab: $1,200 *Costs to create area production zone and or necessary storage
-   Grading/Sodding: $1,500 *Costs for leveling
-   City (Land-Use) Paperwork/Permitting: $8,000 
-   Insurance: $800
-   Annual Fundraiser: $1,500
-   Marketing:$2,500
-   Atmospheric water generator: $20,000
-   Contingency */Additional Curbside: $5,000 *Remaining will go towards creating additional curbside mini-farms in food-desert communities
 How do you plan to scale the success of your proposal?: >-
   Farm LA is the first non-profit organization dedicated to physically rescuing
   unbuildable land in Los Angeles for solar and drought-tolerant agricultural

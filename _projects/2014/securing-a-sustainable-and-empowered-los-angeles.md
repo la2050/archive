@@ -21,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '1'
-  city_state: 'Los Angeles, CA'
   org_website: www.lasustainability.org
   org_twitter: 'https://twitter.com/LAsustainable'
   org_facebook: >-
@@ -67,7 +67,7 @@ maker_answers:
   org_name: Los Angeles Sustainability Collaborative (LASC)
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'Los Angeles, CA'
   metrics_live_importedwater: '1'
   metrics_live_obesity: '1'
   metrics_live_homelessness: '0'
@@ -90,24 +90,6 @@ maker_answers:
   achievable_goal: "LASC has already established a great working foundation in which to grow. All Board Members and staff are in our 20’s and 30’s and are passionate and committed. As with all our big decisions, applying for this grant was strategic. Since Board Members hold full time jobs, the best way to use LA2050 funds is to hire more young professionals to manage our initiatives. This will create new quality green jobs for our region, provide our Board with more experience managing staff, and allow LASC to support more students and advocates. With a dedicated staff person for each initiative, we will be able to identify more opportunities for research, partnerships, and advocacy.\r\n\r\nThrough our RFP process (to select students for Fellowships), we already have a great network of universities and other groups in which to advertise new positions and a process to assess applicants’ strengths. Additionally, we continuously have a list of emerging and current local sustainability issues that we would address if we had increased capacity. We use our funds efficiently, are nimble, eager to learn, and are prepared to take on this challenge.\r\n"
   major_challenges: "Two challenges LASC may face during this grant period are 1) changing partner priorities and 2) general organization growing pains. Creating a sustainable and resilient LA through collaboration is ambitious and sometimes partners, Technical Advisory Committee members, and other experts need more time to provide feedback to students. We value our partners’ time and ameliorate these issues by preparing conservative timelines and encouraging open discussions about commitments. Another way we will address this challenge is by preparing LASC staff to take on a larger portion of the work needed to finalize research project, coordinate meetings, briefings, etc. This way, we can ensure partners’ participate to the fullest extent without negatively impacting our mission, goals, and timelines.\r\n\r\nAnother challenge our Board will continue to face is finding the balance between growing organically and growing strategically. Unforeseen opportunities and issues come up and we are learning to be flexible while keeping the end goal in mind. After 5 years, we have had Board members change jobs, start families, and become more or less involved. To address these growing pains, we established an Advisory Board of Directors of seasoned environmental professionals to help guide LASC’s organizational growth, hired a part time staff to help with day to day tasks, and are adding additional Board members to ensure our growth is successful.\r\n"
   competition: "At the height of the recession in 2009 and as non-profits and community organizations struggled to find resources for research, LASC was created. Since then, LASC has been a matchmaker between academia, non-profit organizations, and policy makers — pioneering a model of collaboration and problem solving. \r\n\r\nThere are no other sustainability organizations with the sole mission of providing critical research needed and professional development to young advocates. Thus, an in-vestment in LASC pays dividends, providing resources to not just one, but many important non-profit organizations and those students who will be the next generation of environmental stewards. LASC is unique in that at its core the organization promotes collaboration in advancing sustainability for LA. While many organizations focus on advocacy, LASC instead utilizes its research and findings to inform decision makers and impact policy. \r\n\r\nAdditionally, the NLS program is the first of its kind in Southern California. The NLS program will fill a critical need in southern California by helping train, empower and launch new leaders to take on issues related to ensuring a healthy and livable community.  The NLS program provides emerging thought leaders with the tools necessary to lead the future of sustainability in southern California. \r\n\r\nTo our knowledge, we are the first organization of its kind utilizing this unique model. \r\n"
-  cost: >-
-    As per the detailed budget (see below) indicates, LASC can complete the
-    proposed project with $100,000. Because the funds will be going towards
-    achieving the LA2050 metrics through LASC research and programs, we
-    anticipate covering any additional costs through LASC's annual fundraising
-    event.
-  budget: >-
-    We anticipate budgeting the $100,000 by initiative area. $15,000 will be
-    allocated for each of the 4 LASC initiatives: Protecting Our Water;
-    Repowering Our Cities; Reinventing Our Streets; and Innovation in
-    Sustainability. The $15,000 will cover staff salary including the Senior
-    Fellows ($12,000) and the graduate student fellowships ($3,000). We
-    anticipate allocating $25,000 for the New Leaders in Sustainability Program.
-    The funding will go towards building the program, the application efforts,
-    and successfully carrying out the pilot program. An additional $15,000 will
-    be budgeted for development, which includes grant writing to go after more
-    partnerships and strategic plan development to ensure LASC successfully
-    meets the LA2050 metrics.
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

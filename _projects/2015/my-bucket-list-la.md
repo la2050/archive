@@ -13,8 +13,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Friend
   Organization(s) name(s): Independent Team of LA Residents
   Organization(s) mailing address(es): '1920 Overland Ave Apt 302, Los Angeles, CA 90025'
   Organization(s) website(s): n/a
@@ -56,7 +56,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Friend
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -118,12 +118,6 @@ maker_answers:
     information to improve our programs and ways to move forward with growth.
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are several organizations who work on pieces of our project, including LA Works (Volunteer), Meet Up (Social), and Eventbrite (Social, Cultural, Historical).  Our approach is unique because it’s the integration and curation of all these aspects, while targeting particular populations and groups for these interactions.  The bucket list is a goal-oriented project that creates incentive for participants to remain engaged over the long term.\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "We will partner with neighborhood councils and the organizations we set up volunteer events with.  Our goal includes learning about the organizations, their missions, people they serve, and their place in the overall community of LA.  If awarded the grant, funds would be budgeted to maximize the impact of the program.  Seeking additional funds from partner organizations will allow us to leverage LA2050 funding to maximize the reach of the program.  \r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    This program would be scalable. The amount we spend could grow or decrease
-    dependent on how much we have to spend.  As noted above, additional funds
-    raised from participating companies and organizations will allow us to
-    maximize the reach of the program. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Fixed Cost: \r\nAdministrative Support - 10 hours a week $20/hr for a year ($10,000)\r\nSample Budget for an Event for 30 participants:\r\nCraft Supplies - 250\r\nFood - 600 (Can be defrayed by program participants and participating restaurants)\r\nTransportation (BUS) - 500\r\nKayaking - 1500\r\nPromotional Supplies - 250\r\nOperational Support - 500\r\nTotal:  $3600\r\n\r\nMultiple events would be planned and implemented over the course of the year.  \r\n"
   How do you plan to scale the success of your proposal?: "By tapping into the existing network of volunteer events, restaurants and activities around Los Angeles, scaling up will require strong partnerships.  We would partner with large corporations for large scale promotion, awareness, and sponsorships for employees or events.  We would also partner with volunteer organizations and non-profits to build strong relationships for future, continued and potentially regular volunteerism or events.  We would need to create a marketing plan to utilize social media, other digital and viral modes of promotion, establish city wide awareness and any other Public Relations need.  Additionally, if scaling up, we would need an operational team or administrative staff to plan and execute the events.  With continued growth we would build a platform to track the events, a bucket list app that includes social sharing as we continue to trek through the digital and social media world.  It would be incredible to then see a project like this grow into other cities.  \r\n"
 areas_impacted: ''
 partners: ''
@@ -133,8 +127,6 @@ Please list at least one major barrier/challenge you anticipate. What is your st
 Please explain how you will evaluate your work.: '#N/A'
 Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/my-bucket-list-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23304%252Fdisplay%252FMyBucketlistLA.png=c570x385.png

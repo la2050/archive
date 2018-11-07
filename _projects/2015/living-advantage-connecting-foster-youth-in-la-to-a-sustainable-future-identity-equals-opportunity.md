@@ -26,8 +26,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: USC Lunch & Learn
   Organization(s) name(s): 'Living Advantage, Inc.'
   Organization(s) mailing address(es): "7095 Hollywood Blvd. #726\r\nHollywood, CA 90028"
   Organization(s) website(s): 'www.LivingAdvantageInc.org '
@@ -77,7 +77,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: USC Lunch & Learn
   'City, State': 'Los Angeles, California'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
@@ -194,23 +194,6 @@ maker_answers:
     single continuous connection they have had since being in the foster care
     system. The budget below will show the additional expenses that keep our
     foster youth and former foster youth engaged, out of trouble and motivated.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Using a collaborative approach we have several streams of funding to meet
-    the matching requirements.  Our strong partnership with USC allows us to
-    leverage countless resources, services and monetary support from different
-    departments. We will also introduce this opportunity to previous LA, Inc.
-    unrestricted funders such as Weingart Foundation, California Community
-    Foundation, Boeing Foundation, CarMax Foundation, Southern CA Gas, and
-    Verizon Foundation.  The issue with our prior unrestricted funders is that
-    they base how much they fund us from our last year’s budget amounts.  After
-    we re-organized from a brick and mortar service provider to a virtual
-    provider our budget decreased tremendously.  We do not receive enough money
-    to implement our technology platform. All other funding’s are for
-    educational and employment services.  We are currently submitting a proposal
-    to Annenberg Foundation and will include the LA2050 opportunity. Also, we
-    are finalizing another contract with LAUSD. We can negotiate with them on
-    how to leverage LA2050 requirements with the population we are servicing. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Please note that this is a percentage of the cost to build capacity to reach 1,000 foster youth.  Of course depending on the streams of funding percentages this will vary. We will pay wages directly for foster youth to help us on the LA2050 Campaign.\r\n\r\n   Management Wages \t    \t\t35,092.32\r\n   Advertising\t\t\t\t     \t  3,538.07\r\n   Accounting Services\t\t\t  1,464.92\r\n  Fund Development\t                   4,220.00\r\n   Employee Benefits\t\t\t   1,994.02\r\n   Equipment Purchase\t\t\t   1,500.00\r\n   Insurance - Liability\t\t\t   3,289.25\r\n   Meals  \t\t\t                           4,538.72\r\n   Office Expenses\t\t\t\t    6558.96\r\n   Utilities\t \t\t\t            2,749.98\r\n   Lease\t\t\t\t                    5,777.16\r\n   Staff Training\t\t                    2,540.00\r\n   Telecommunications\t\t\t    3,156.69\r\n   Transportation\t\t\t\t   5,500.00\r\n   Youth Wages                               14,159.39\r\n   Taxes - Payroll\t        \t\t   1,498.17\r\n   Website Expense                          2,422.35\r\nTotal                  $100,000.00"
   How do you plan to scale the success of your proposal?: "By tracking progress against our goals…\r\nThe increase in how many foster youth we serve, meeting goal of 1,000 youth unduplicated in one year\r\nIncrease in educational outcomes of foster youth high school graduation rates from 45% to 65%, \r\nHigher college enrollment from 3% to at least double 6%,\r\nHigher college graduation rates from 2% to at least double 4%.\r\nDecrease unemployment rates after 24 months foster youth age of out the system\r\nQualitative measures in foster youth behavior and service program outcomes. "
 areas_impacted: ''
 partners: ''
@@ -278,46 +261,6 @@ Are there other organizations doing similar work (whether complementary or compe
   have had since being in the foster care system. The budget below will show the
   additional expenses that keep our foster youth and former foster youth
   engaged, out of trouble and motivated.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Using a collaborative approach we have several streams of funding to meet the
-  matching requirements. Our strong partnership with USC allows us to leverage
-  countless resources, services and monetary support from different departments.
-  We will also introduce this opportunity to previous LA, Inc. unrestricted
-  funders such as Weingart Foundation, California Community Foundation, Boeing
-  Foundation, CarMax Foundation, Southern CA Gas, and Verizon Foundation. The
-  issue with our prior unrestricted funders is that they base how much they fund
-  us from our last year’s budget amounts. After we re-organized from a brick and
-  mortar service provider to a virtual provider our budget decreased
-  tremendously. We do not receive enough money to implement our technology
-  platform. All other funding’s are for educational and employment services. We
-  are currently submitting a proposal to Annenberg Foundation and will include
-  the LA2050 opportunity. Also, we are finalizing another contract with LAUSD.
-  We can negotiate with them on how to leverage LA2050 requirements with the
-  population we are servicing.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Please note that this is a percentage of the cost to build capacity to reach
-  1,000 foster youth. Of course depending on the streams of funding percentages
-  this will vary. We will pay wages directly for foster youth to help us on the
-  LA2050 Campaign.
-   
-    Management Wages   35,092.32
-    Advertising    3,538.07
-    Accounting Services  1,464.92
-    Fund Development  4,220.00
-    Employee Benefits  1,994.02
-    Equipment Purchase  1,500.00
-    Insurance - Liability  3,289.25
-    Meals   4,538.72
-    Office Expenses  6558.96
-    Utilities  2,749.98
-    Lease  5,777.16
-    Staff Training  2,540.00
-    Telecommunications  3,156.69
-    Transportation  5,500.00
-    Youth Wages 14,159.39
-    Taxes - Payroll    1,498.17
-    Website Expense 2,422.35
-   Total $100,000.00
 How do you plan to scale the success of your proposal?: |-
   By tracking progress against our goals…
    The increase in how many foster youth we serve, meeting goal of 1,000 youth unduplicated in one year

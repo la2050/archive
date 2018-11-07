@@ -21,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '0'
-  city_state: 'Los Angeles, CA'
   org_website: www.mhsjp.com
   org_twitter: www.twitter.com/mhs_jp
   org_facebook: >-
@@ -76,7 +76,7 @@ maker_answers:
   org_name: MetroHealth Station - Jefferson Park
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'Los Angeles, CA'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '1'
   metrics_live_homelessness: '0'
@@ -105,10 +105,6 @@ maker_answers:
     kick-start this process.
   major_challenges: "Potential challenge: What if you build it and nobody comes?! We are a new kid on the block. It will take time to earn the trust of those around us who have a distinguished and long history in the South LA community.\r\nWe creating as many connections and collaborative relationships through our community outreach and ongoing youth engagement activities. We have reached out and established firm contacts with major school, community, and local government entities. It is only when we link together that we are able to provide a true safety net.\r\n\r\nPotential challenge: What if you build it and too many come?! A second potential problem we see occurring is a recruitment of too many participants to be housed in MHS - Jefferson Park. This is another reason we have reached out to existing community groups and entities. In the case that we run out of room, we have \"back-up\" facilities with larger capacities."
   competition: "To our knowledge, we are the first interprofessional private practice of medical, dental, rehabilitation, and mental health professionals who are placing as much value on keeping people health and happy vs treating people who are sick and sad.\r\n\r\nWhile other projects may focus on health promotion and educational activity such as healthy eating, exercising, and community service, we incorporate how healthcare is a part of your daily life. We welcome all health-related community groups to join us as we build a healthier LA together ...starting with the power of South LA youth. "
-  cost: >-
-    We estimate that this project will total around $104,500. MHS administration
-    will cover all overages.
-  budget: "Phase 1: Recruitment and Training\r\nPromotion and advertising - $2,000\r\n    - promotional materials\r\n    - collateral\r\n6 Wellness Council meetings - $6,000\r\n    - food and drink\r\n    - speakers\r\n    - collateral\r\n1 Opening event - $3,000\r\n    - food and drink\r\n    - equipment rental\r\n\r\nPhase 2: Planning and Hosting\r\n16 Wellness Council Meetings - $16,000\r\n    - food and drink\r\n    - speakers\r\n    - collateral\r\n8 Wellness Events - $24,000\r\n    - food and drink\r\n    - publicity\r\n    - speakers\r\n    - equipment rental\r\n    - collateral\r\n1 Closing Event - $3,000\r\n    - food and drink\r\n    - equipment\r\n    - collateral\r\nStaff supervision:\r\nCouncil meetings 88 hrs  X 4 staff - $10,500\r\nEvent meetings 100 hrs  X 6 staff - $18,000\r\nPhysical plant costs for all events - $8,550\r\nProfessional consultation/teaching - \r\nCouncil meeting mentorship - $6,000\r\nEvent mentoring/supervision - $7,500\r\nTotal: budget request $104,500\r\n\r\n\r\nStaff salary and overhead - $46,000\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

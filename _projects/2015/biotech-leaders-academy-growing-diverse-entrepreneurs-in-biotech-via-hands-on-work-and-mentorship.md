@@ -22,8 +22,8 @@ project_areas:
   - East LA
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Estolano LeSar Perez Advisors
   Organization(s) name(s): Los Angeles Bioscience Hub
   Organization(s) mailing address(es): "448 South Hill Street, Suite 618\r\nLos Angeles, CA 90013\r\n"
   Organization(s) website(s): www.labiosciencehub.org
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Estolano LeSar Perez Advisors
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -147,8 +147,6 @@ maker_answers:
     lessons they’ve learned during their summer. Lastly, ELAC will also be the
     site of the entrepreneurship classes that take place throughout the
     students’ summer.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'Biotech Leaders Academy can be launched and fully executed with $100,000.'
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "LA Bioscience Hub Internship Match for 20 students (50% match): $52,000 \r\nEmployer Recruitment and Match Program Development: $10,500 \r\nStudent Recruitment, Selection, and Orientation: $7,800 \r\nStudent Placement into Internship Positions: $3,200 \r\nCourse Curriculum Development and Teaching: $22,000 \r\nEnd-of-Program Presentation Event: $3,300 \r\nProgram Evaluation: $1,200\r\nTOTAL: $100,000"
   How do you plan to scale the success of your proposal?: "We intend to scale Biotech Leaders Academy in the following ways:\r\n- Establish stronger partnerships with academic institutions, particularly those with programs dedicated to increasing diversity in STEM, so that more students can connect with industry leaders and internships, and gain valuable biotech entrepreneurship skills. \r\n\r\n- Since we will have an established curriculum for the entrepreneurship academy, we can provide it to colleges and universities that are interested in expanding the program to their campus. \r\n\r\n- We will continue to grow our network of industry partners and foster stronger ties between the colleges and the private sector. Additionally, we will work with industry partners to create opportunities for longer-term internships.\r\n\r\n- We will create a more formal network of mentors that is comprised of industry leaders and professionals who host student interns, present during the entrepreneurship academy, or are generally interested in assisting students as they advance in their education.\r\n\r\n- Seek additional funding sources to support the internship match and course component. "
 areas_impacted: ''
 partners: ''
@@ -221,16 +219,6 @@ Are there other organizations doing similar work (whether complementary or compe
   students can showcase the work and lessons they’ve learned during their
   summer. Lastly, ELAC will also be the site of the entrepreneurship classes
   that take place throughout the students’ summer.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'Biotech Leaders Academy can be launched and fully executed with $100,000.'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  LA Bioscience Hub Internship Match for 20 students (50% match): $52,000 
-   Employer Recruitment and Match Program Development: $10,500 
-   Student Recruitment, Selection, and Orientation: $7,800 
-   Student Placement into Internship Positions: $3,200 
-   Course Curriculum Development and Teaching: $22,000 
-   End-of-Program Presentation Event: $3,300 
-   Program Evaluation: $1,200
-   TOTAL: $100,000
 How do you plan to scale the success of your proposal?: |-
   We intend to scale Biotech Leaders Academy in the following ways:
    - Establish stronger partnerships with academic institutions, particularly those with programs dedicated to increasing diversity in STEM, so that more students can connect with industry leaders and internships, and gain valuable biotech entrepreneurship skills. 

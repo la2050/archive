@@ -20,8 +20,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): "1000 N. Alameda Street, Suite 240\r\nLos Angeles, CA 90012"
   Organization(s) website(s): www.invla.org
   Organization(s) twitter handle(s): ' www.twitter.com/DaysofDialogue'
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): The Institute for Nonviolence in Los Angeles
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -154,10 +154,6 @@ maker_answers:
     or other) to sustain the project subsequent to the end of the grant
     period.    School partners and trained volunteer mediators will provide
     in-kind support in the form of time and use of facilities.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    $161,00.00 - In-Kind contributions will cover additional costs.  Please see
-    the budget below.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "LA2050 REQUEST\t- 100,000\r\n\r\nIN-KIND CONTRIBUTIONS\r\nTrained volunteer mediators - 20,000\t\t\r\nLAUSD staff - 20,000\t\t\r\nLAUSD facilities - 5,000\r\nVideographer & Website development - 10,000\r\nSnacks for youth - 500\t\r\nGraduate student independent evaluator - 500\t\r\nEquipment (computers, camera, printers, editing software) - 5000\t\r\nTOTAL - 61,000\r\n\t\r\nEXPENDITURES\t\t\t\t\r\nProgram Director- Schools - 16,000 (includes benefits)\t\t\t\r\nProgram Director-Vodcasts and other online elements - 16,000 (includes benefits)\t\t\r\nINVLA:  Program Oversight, Resources, Marketing, Office & Conference space, equipment - 20,000\t\t\t\r\nLead Trainers’ stipend (3 people, part time) - 20,000\t\t\t\r\nVideographer/Trainer - 10,000\t\t\r\nWebsite design, development and maintenance - 4,000\t\r\nSnacks for youth - 700\t\r\nVolunteers’ live scans - 300\t\t\t\r\nVodcast studio rental, related expenses, personnel - $3000\t\t\r\nFiscal Sponsor Fee reqd by Community Partners for all contributions-- 10000\t\t\t\r\nTOTAL - 100,000\r\n\r\nPROJECT TOTAL 161000\t\t"
   How do you plan to scale the success of your proposal?: >-
     National expansion of this project will primarily depend on the project’s
     ability to highlight best practices as well as the benefits of
@@ -184,8 +180,6 @@ Please list at least one major barrier/challenge you anticipate. What is your st
 Please explain how you will evaluate your work.: '#N/A'
 Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/the-peer-mediation-network/img.youtube.com/vi/69OXVYZ15kU/maxresdefault.jpg

@@ -18,8 +18,8 @@ project_video: 'https://www.youtube.com/embed/Wx27G6vdyF4'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: newsletter
   Organization(s) name(s): >-
     Arts for Incarcerated Youth Network: includes AIYN members Armory Center for
     the Arts, Bold Ink/WriteGirl, Coalition for Engaged Education, InsideOut
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: newsletter
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -136,13 +136,6 @@ maker_answers:
     additional partners over the coming year.  Per AIYN operating agreements,
     funds are shared to cover programming costs, with a portion allocated
     towards the coordinating and administering of the Network as a whole.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We anticipate this will cost approximately $1.1 million.  We have a verbal
-    commitment of public funds for nearly half that cost.  The remainder will be
-    raised from private foundations.  We have several proposals in development,
-    a few verbal commitments, and are extremely optimistic about the
-    opportunity.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$1,250 gap funding (the difference between the public funding contract and the actual cost to the organizations) for 50 arts modules/year = $62,500\r\n$15,000 AIYN evaluation (includes designing and analyzing evaluation data and benchmarks)\r\n$2,500  community events (with alumni)\r\n$20,000 AIYN coordination (insurance, volunteer clearance management, coordination of modules across sites)"
   How do you plan to scale the success of your proposal?: "As AIYN proves the success of its model, it can provide proof of concept for the permanent embedding of arts programming in the Los Angeles County Probation department.  With the redesign of LA County's probation model set to begin in 2017, this is a unique opportunity to change the entire system to include arts as a resiliency building tool, and a strategy for long-term employment of young people.  \r\n\r\nWith the existing partnership of the Children's Defense Fund through the Freedom Schools, AIYN is poised to demonstrate its effectiveness on a national scale.\r\n\r\nAdditionally, this can serve as an innovative investment in the creative economy of Los Angeles, serving as a connector to young people eager to work, eager to stay in the community, and eager to contribute.  By providing them creative economy skills, education in the field (one of the few fields accessible to folks with a record), and access to working professionals to learn of the myriad jobs within creative industries, AIYN is creating a long-term investment in our youth, our economy, our creative spirit, and in Los Angeles.\r\n"
 areas_impacted: ''
 partners: ''
@@ -191,24 +184,6 @@ Are there other organizations doing similar work (whether complementary or compe
   LA. If awarded the grant, funds would be budgeted to maximize the impact of
   the program. Seeking additional funds from partner organizations will allow us
   to leverage LA2050 funding to maximize the reach of the program.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  This program would be scalable. The amount we spend could grow or decrease
-  dependent on how much we have to spend. As noted above, additional funds
-  raised from participating companies and organizations will allow us to
-  maximize the reach of the program.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Fixed Cost: 
-   Administrative Support - 10 hours a week $20/hr for a year ($10,000)
-   Sample Budget for an Event for 30 participants:
-   Craft Supplies - 250
-   Food - 600 (Can be defrayed by program participants and participating restaurants)
-   Transportation (BUS) - 500
-   Kayaking - 1500
-   Promotional Supplies - 250
-   Operational Support - 500
-   Total: $3600
-   
-   Multiple events would be planned and implemented over the course of the year.
 How do you plan to scale the success of your proposal?: >-
   By tapping into the existing network of volunteer events, restaurants and
   activities around Los Angeles, scaling up will require strong partnerships. We

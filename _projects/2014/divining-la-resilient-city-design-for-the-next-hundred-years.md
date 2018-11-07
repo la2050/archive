@@ -15,8 +15,8 @@ project_video: ''
 project_areas:
   - LA COUNTY
 maker_answers:
+  metrics_live_selfsufficiency: '1'
   metrics_live_healthyfood: '1'
-  city_state: 'Burbank, CA'
   org_website: www.aridlands.org
   org_twitter: '@aridlandsinst'
   org_facebook: 'https://www.facebook.com/aridlands.woodbury'
@@ -60,7 +60,7 @@ maker_answers:
   org_name: Arid Lands Institute
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '1'
+  city_state: 'Burbank, CA'
   metrics_live_importedwater: '1'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '0'
@@ -93,14 +93,6 @@ maker_answers:
     via digital and physical media in the second phase.
   major_challenges: "Efforts to build climate resilience through localization of water supply in urban centers within arid regions are frequently hampered by lack of integration between water supply and water quality policy objectives; lack of integration of water, energy, and carbon objectives; conflicting watershed data, assessment, and management practices across political boundaries; lack of high-resolution data, including projected climate impacts on hydrologic processes; insufficient costs/benefit analysis that includes valuation of ecosystem services; overreliance on single-purpose, single-scale infrastructure design; static, empirical models offering limited options for scenario-based testing and stakeholder involvement. \r\n\r\nThe Divining LA network collaborates across sectors to support an adaptive, dynamic environmental modeling tool that: integrates water supply, quality, energy, carbon, and economic metrics; incorporates high-resolution data, including high-resolution projected climate impacts; measures interactions and feedbacks between human and natural systems; simulates and compares policy  and development scenarios; tests multiscalar and multipurpose approaches, patterns and processes; evaluates impacts and implications of development scenarios on human and natural systems; incorporates design visioning as a mechanism for providing socially and culturally responsive choices that are plausible and acceptable to stakeholders.\r\n"
   competition: "Divining LA is timed to support and amplify related public initiatives, including the establishment of a City of LA Resilience Office through the Rockefeller Foundation’s 100 Resilient Cities campaign; the Mayor’s Great Streets initiative; and the $1 billion dollar retrofit of the LA River by the City, State, and the US Army Corps of Engineers.  Divining LA anticipates the next chapter in LA’s retrofit of the urban fabric:  the capture, filtration, and distribution of local waters (rain, storm, and recycled) across the surface of the entire basin, not just the river bed and its adjacent greensward.  The success of massive public investment in the river will, in large part, depend on how LA remakes the surfaces of the basins that drain to the river.  Divining LA is unique in anticipating LA’s next water chapter at the larger scale and the finer-grain resolution that it does.\r\n"
-  cost: >-
-    We expect Divining LA to unfold over several years.  We have applied for
-    major funding from the National Science Foundation for the scientific and
-    technical aspects of the work.  We expect the public engagement and
-    dissemination phases to cost approximately $350,000. We are actively
-    pursuing funding from private foundations based here in Los Angeles and
-    elsewhere.
-  budget: "20K convening and planning: 2 planning events/listening sessions\r\n\r\n15K  full documentation and archive of planning events including visual and dissemination costs\r\n\r\n45K creation of web-based and printed resources, including prototype digital tool\r\n\r\n20K outreach and communications campaign\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

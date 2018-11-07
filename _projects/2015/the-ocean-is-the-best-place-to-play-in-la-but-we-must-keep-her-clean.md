@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/laadW_CUhSY'
 project_areas:
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: From friends
   Organization(s) name(s): 'Los Angeles Underwater Explorers; Ghost Fishing '
   Organization(s) mailing address(es): '6111 Mulholland Hwy, Los Angeles, CA 90068'
   Organization(s) website(s): www.ghostfishing.org
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: From friends
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -162,15 +162,6 @@ maker_answers:
     50 volunteers (divers and deckhands). The people who commit to the cleanups
     would have their expenses covered on that particular day. Each time we do a
     cleanup, there are about 10-15 people involved, depending on the mission. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    This funding would easily cover us for a year or more. All of the volunteers
-    are already donating their time and their talents, and using their own scuba
-    gear. We are getting donations here and there, plus we are now partnering
-    with Fourth Element "Ocean Positive," a line of swim/ surf wear that is made
-    from recycled fishing nets. They will also be giving us some funding.
-    Lastly, we receive sponsorship from manufacturers of "ghost net removal"
-    gear, namely Eezycut and Halcyon.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "*$200 per diver for breathing gas X 10 = $2,000 X 24 trips/ year = $48,000\r\n*$1,500 per boat charter X 24 trips = $36,000\r\n\r\n$48,000 + $36,000 = $84,000\r\n\r\nRemaining $16,000 for proper training/ certification through Global Underwater Explorers (GUE certifications are required for all volunteer scuba divers), as well as required training for the volunteers (CPR, first aid, oxygen for scuba diving emergencies, etc).\r\n\r\nANY leftover funds will be carried over into the following year. "
   How do you plan to scale the success of your proposal?: >-
     We will keep monitoring our success with our data spread sheet, as described
     earlier. It is critical that we have the opportunity to present to as many
@@ -226,23 +217,6 @@ Are there other organizations doing similar work (whether complementary or compe
   and deckhands). The people who commit to the cleanups would have their
   expenses covered on that particular day. Each time we do a cleanup, there are
   about 10-15 people involved, depending on the mission.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  This funding would easily cover us for a year or more. All of the volunteers
-  are already donating their time and their talents, and using their own scuba
-  gear. We are getting donations here and there, plus we are now partnering with
-  Fourth Element "Ocean Positive," a line of swim/ surf wear that is made from
-  recycled fishing nets. They will also be giving us some funding. Lastly, we
-  receive sponsorship from manufacturers of "ghost net removal" gear, namely
-  Eezycut and Halcyon.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  *$200 per diver for breathing gas X 10 = $2,000 X 24 trips/ year = $48,000
-   *$1,500 per boat charter X 24 trips = $36,000
-   
-   $48,000 + $36,000 = $84,000
-   
-   Remaining $16,000 for proper training/ certification through Global Underwater Explorers (GUE certifications are required for all volunteer scuba divers), as well as required training for the volunteers (CPR, first aid, oxygen for scuba diving emergencies, etc).
-   
-   ANY leftover funds will be carried over into the following year.
 How do you plan to scale the success of your proposal?: >-
   We will keep monitoring our success with our data spread sheet, as described
   earlier. It is critical that we have the opportunity to present to as many

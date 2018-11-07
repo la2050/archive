@@ -17,8 +17,8 @@ project_video: 'https://www.youtube.com/embed/Hey6DKTLdw8'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Wilmington, CA'
   Organization(s) mailing address(es): '540 N. Marine Ave., Wilmington CA 90744'
   Organization(s) website(s): www.sbccthrivela.org
   Organization(s) twitter handle(s): www.twitter.com/sbccthrivela
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Wilmington, CA'
   Organization(s) name(s): SBCC Thrive LA
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -135,8 +135,6 @@ maker_answers:
     home and neighborhood, libraries, and schools.
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Experts in early childhood have called FFN the third rail of early learning systems building and have mostly ignored this critical population. Few initiatives in Los Angeles are working with the FNN population.   First Five LA conducted a research study in 2007 to understand the needs of FFN providers and implemented a limited pilot project.  In 2015, The David and Lucile Packard Foundation contracted with Harding and Company to map the FFN landscape. This assessment found no comparable community based programs to PWW. According to the report, attempts to reach the FFN population are primarily focused on parent engagement/training and family strengthening including projects by Families In Schools, Abriendo Puertas, Magnolia Place Community Initiative, Youth Policy Institute, and CSUN Neighborhood Partners in Action Institute for Community Health and Wellbeing. \r\nThere are a number of national initiatives to bring information on early learning to communities. Too Small to Fail, an initiative of the Clinton Global Foundation, aims to help parents and businesses take meaningful actions to improve the health and well-being of children ages zero to five by promoting new research on the science of children’s brain development, early learning and early health. VROOM is an app, developed by the Bezos Foundation, which supports parents with daily “brain building” activities to do with children 0-5.  While important, neither of these offers direct programing for FFN providers in the Los Angeles area and have limited cultural relevance for diverse populations. They are both, however, potential partners to support PWW with additional best practices. VROOM specifically could provide complementary services to PWW text messaging approach to support FFN providers within PWW network with daily enrichment activities."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "PWW has built strategic partnerships that align and leverage the resources and expertise of a number of partners. Some of the partners were funded at the pilot stage to develop curriculum and instructional models; others are leveraging existing resources to support PWW.  While all of these partners are essential to PWW, two will receive direct funding from the LA 2050 challenge.  Partners include:\r\n\r\n•\tUCLA School of Education and Information Studies has partnered with PWW to develop a place based learning curriculum that is culturally relevant for the FFN population.   The curriculum is designed to turn local assets such as the libraries, parks, and small businesses, into learning opportunities. Each model is progressive and builds the capacity of FFN providers to utilize these local learning sites on an ongoing basis. UCLA School of Education and Information Studies will receive $10,000.  \r\n•\tUCLA School of Social Welfare develops and implements the program evaluation model for PWW\r\n•\tCounty and local library systems provide space, free of cost, for “learning in the library” programs as well as access to ongoing literacy services.  Currently PWW works with the LA County and city library system and will expand to work with municipal libraries where necessary\r\n•\tCounty and city parks and programs host “preschool in the park” providing space for PWW in 9 parks in SPA 8 and will provide an additional 6 locations for future PWW expansion.\r\n•\tLos Angeles County Department of Children’s and Family Services is an ongoing funding partner providing fiscal resources to place families engaged with protective services in PWW programs\r\n•\tCal State Dominguez Hills provides early childhood interns to PWW locations free of cost.\r\n•\tBring Me a Book Foundation provides free early literacy materials to PWW locations. "
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "SBCC is seeking $100,000 to expand its successful PWW pilot throughout Los Angeles County.  There are two primary costs associated with PWW: one time start-up and one year operational costs to build the community based investment and ongoing operational costs to sustain the program. The start-up costs of expanding the number of PWW place based locations for one year is $100,000, the amount of the grant requested from LA 2050 and outlined in the budget.  Beyond LA 2050 resources, further PWW expansion sites can be funded from foundations strategically aligned with PWW’s mission. While FFN has historically been ignored, an interest in them is emerging. In 2012, The David and Lucile Packard Foundation announced a 10-year, $100 million early learning initiative, which included investments in FFN. The Bezos Foundation created the app VROOM and has began to explore partners and funding local initiatives working with non-traditional preschool communities; and First Five LA conducted a horizon scan of the FFN landscape and has invested in pilot programing. These, and other private sector funders, can provide catalytic start-up resources for new PWW programs\r\nPWW has also received a grant from LAUP to support expansion and ongoing operating costs.  The Department of Children and Family Services has also expressed interest in this model and we are currently conducting a pilot in a partnership with the DCFS Torrance office.  We are currently working with the Bring Me a Book Foundation as well as CSU Dominguez Hills to explore additional funding and a partnership with them. And we will be submitting a proposal to The David and Lucile Packard Foundation."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "PERSONNEL\r\n\r\nECE Teachers\t\r\nHours per week avg.: 10\t\r\nSalary: $6,750\t\r\nTax/Benefits: $1,215\r\nTotal: $7,965\r\n\r\nAssistants\r\nHours per week avg.: 10\r\nSalary: $5,400\r\nTax/Benefits: $972\r\nTotal: $6,372\r\n\r\nSUBTOTAL - PERSONNEL COSTS (one site at 45 sessions/year)\r\nSalary: $12,150\r\nTax/Benefits: $2,187\r\nTotal: $14,337\r\n\t\t\t\t\r\nOPERATIONS\r\n\t\t\t\r\nMileage: $100\r\nProgram Supplies: $463\r\nProfessional Development: $100\r\n\r\nSUBTOTAL - OPERATIONS COSTS (one site at 45 sessions per year): $663\r\n\t\t\t\t\r\nTOTAL DIRECT COSTS (one site at 45 sessions per year): $15,000\r\n\t\t\t\t\t\t\t\r\nTOTAL (one site per year at 45 sessions per year): $15,000\r\n\r\nCOST PER FAMILY PER YEAR (based on 30 families per year at 45 sessions per year)\t: $500\r\n\r\nCOST PER PWW SESSION (based on 45 average sessions per year): $333\r\n\r\nCOST PER FAMILY PER SESSION (30 families per year at 45 sessions per year)\t: $11\r\n\t\t\t\t\r\nGRAND TOTAL FOR 6 SITES: $90,000 \r\nUCLA School of Education and Information Studies\t: $10,000\r\n\t\t\t\t\r\nGRAND TOTAL: $100,000\r\n"
   How do you plan to scale the success of your proposal?: "PWW has a bold vision to bring quality early learning experiences to every child in FFN care throughout Los Angeles County closing a critical service gap in the Los Angeles early learning system. Beyond the LA 2050 expansion site, we will achieve this bold vision by leveraging existing public systems and advocating for systems to bring learning out of the classroom and into the community. \r\nSBCC’s role as a strategic community engagement partner to First Five LA’s Best Start programs creates an opportunity for PWW to offer our place based learning model in the Best Start Communities. Created in 1998 to invest LA County’s allocation of funds from California’s Proposition 10 tobacco tax, First 5 LA is a leading early childhood advocate working collaboratively across LA County.  In 2011, First Five LA created a place based strategy called Best Start working in 14 vulnerable communities across LA County.  SBCC is a funded strategic community engagement partner in 13 Best Start communities operating 100 community action groups with over 1,500 residents.   This strategic partnership with First 5 LA Best Start will be an asset in expanding PWW programs throughout LA County.  \r\nSecond, SBCC will partner with other community-based organizations to work in locations outside of the 14 Best Start locations. There are hundreds of community based non-profits throughout Los Angeles County that have deep relationships with the population of families that utilizes FFN care. Moreover, many of these non-profits have a mission to support families. PWW provides these CBO's with a cost effective model to strengthen early outcomes within these communities. PWW will partner with these CBOs to provide technical assistance and support implementation. Finally, in addition to expanding on the ground programming, PWW will work with the LA County and city library system to remove barriers to “early childhood library learning” and leverage opportunities to enhance libraries as early learning centers for all children and partner with the LA County and city parks system to support “preschools in the park” bringing the best practices of place based learning to every city in LA County."
 areas_impacted: ''
 partners: ''
@@ -214,66 +212,6 @@ Are there other organizations doing similar work (whether complementary or compe
    • Los Angeles County Department of Children’s and Family Services is an ongoing funding partner providing fiscal resources to place families engaged with protective services in PWW programs
    • Cal State Dominguez Hills provides early childhood interns to PWW locations free of cost.
    • Bring Me a Book Foundation provides free early literacy materials to PWW locations.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  SBCC is seeking $100,000 to expand its successful PWW pilot throughout Los
-  Angeles County. There are two primary costs associated with PWW: one time
-  start-up and one year operational costs to build the community based
-  investment and ongoing operational costs to sustain the program. The start-up
-  costs of expanding the number of PWW place based locations for one year is
-  $100,000, the amount of the grant requested from LA 2050 and outlined in the
-  budget. Beyond LA 2050 resources, further PWW expansion sites can be funded
-  from foundations strategically aligned with PWW’s mission. While FFN has
-  historically been ignored, an interest in them is emerging. In 2012, The David
-  and Lucile Packard Foundation announced a 10-year, $100 million early learning
-  initiative, which included investments in FFN. The Bezos Foundation created
-  the app VROOM and has began to explore partners and funding local initiatives
-  working with non-traditional preschool communities; and First Five LA
-  conducted a horizon scan of the FFN landscape and has invested in pilot
-  programing. These, and other private sector funders, can provide catalytic
-  start-up resources for new PWW programs
-   PWW has also received a grant from LAUP to support expansion and ongoing operating costs. The Department of Children and Family Services has also expressed interest in this model and we are currently conducting a pilot in a partnership with the DCFS Torrance office. We are currently working with the Bring Me a Book Foundation as well as CSU Dominguez Hills to explore additional funding and a partnership with them. And we will be submitting a proposal to The David and Lucile Packard Foundation.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  PERSONNEL
-   
-   ECE Teachers 
-   Hours per week avg.: 10 
-   Salary: $6,750 
-   Tax/Benefits: $1,215
-   Total: $7,965
-   
-   Assistants
-   Hours per week avg.: 10
-   Salary: $5,400
-   Tax/Benefits: $972
-   Total: $6,372
-   
-   SUBTOTAL - PERSONNEL COSTS (one site at 45 sessions/year)
-   Salary: $12,150
-   Tax/Benefits: $2,187
-   Total: $14,337
-   
-   OPERATIONS
-   
-   Mileage: $100
-   Program Supplies: $463
-   Professional Development: $100
-   
-   SUBTOTAL - OPERATIONS COSTS (one site at 45 sessions per year): $663
-   
-   TOTAL DIRECT COSTS (one site at 45 sessions per year): $15,000
-   
-   TOTAL (one site per year at 45 sessions per year): $15,000
-   
-   COST PER FAMILY PER YEAR (based on 30 families per year at 45 sessions per year) : $500
-   
-   COST PER PWW SESSION (based on 45 average sessions per year): $333
-   
-   COST PER FAMILY PER SESSION (30 families per year at 45 sessions per year) : $11
-   
-   GRAND TOTAL FOR 6 SITES: $90,000 
-   UCLA School of Education and Information Studies : $10,000
-   
-   GRAND TOTAL: $100,000
 How do you plan to scale the success of your proposal?: >-
   PWW has a bold vision to bring quality early learning experiences to every
   child in FFN care throughout Los Angeles County closing a critical service gap

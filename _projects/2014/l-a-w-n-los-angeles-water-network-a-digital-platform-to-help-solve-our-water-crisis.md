@@ -22,8 +22,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '0'
-  city_state: 'Los Angeles, CA'
   org_website: 'http://mlagreen.com/'
   org_twitter: MLAGREEN
   org_facebook: ''
@@ -79,7 +79,7 @@ maker_answers:
   org_name: 'Mia Lehrer + Associates, LA-Mas, Arid Lands Institute'
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'Los Angeles, CA'
   metrics_live_importedwater: '1'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '0'
@@ -105,8 +105,6 @@ maker_answers:
     To our knowledge, a program like this does not yet exist. Many organizations
     are working to gather data related to water, but none have gathered it into
     a user-friendly digital platform for easy access by the public.
-  cost: 'We feel we can achieve this project within $100,000.'
-  budget: "Cataloging projects (ML+A, ALI): $9,000\r\n- 3 weeks, 1 staff member full time ($75/hr)\r\n\r\nGIS Mapping (ML+A): $18,000\r\n- 6 weeks, 1 staff member full time\r\n\r\nCoding (TBD): $18,000\r\n- 6 weeks, 1 staff member full time\r\n\r\nUser experience (LA-MAS): $6000\r\n- 2 weeks, 1 staff member full time\r\n\r\nProject Management (ML+A): $19,000\r\n- 1 year, 2 staff members, part time\r\n\r\nOutreach/Civic Engagement (ALI, ML+A): $30,000\r\n- 1 year, 4 staff members, part time"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

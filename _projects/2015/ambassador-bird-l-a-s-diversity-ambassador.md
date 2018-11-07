@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Friend fowarded the challenge to me
   Organization(s) name(s): Bill Weber Studios
   Organization(s) mailing address(es): "P.O. Box 4322\r\nValley Village, CA 91617"
   Organization(s) website(s): www.averysworld.tv
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Friend fowarded the challenge to me
   'City, State': California
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -149,17 +149,6 @@ maker_answers:
     Broadway and Theme Parks.  Approximately $30,000 for a custom kevlar-molded
     costume (which has superior durability).  GR Print -- Los Angeles printer of
     stickers and promotional materials.  Approximately $5000.  
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    $100,000.  As Los Angeles is the entertainment capital of the world, we
-    intend to seek donations of talent and material (costumes from the Disney
-    costume shop, for example) to support this project. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-    Costume: $30,000 - includes design, molds (for future replacements),
-    administrative expenses.  Souvenir stickers: $5000 - includes design of one
-    L.A.-themed sticker.  E-commerce (to sell licensed merchandise): $15,000 -
-    includes design of merchandise and one website.  Other design and
-    administration: $50,000 - includes professional mascot actor, personal
-    appearance coordinator, management.  
   How do you plan to scale the success of your proposal?: >-
     Once one mascot costume is made and a personal appearance schedule is set,
     it is simple to create multiple costumes (due to the kevlar process) and
@@ -195,17 +184,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Broadway and Theme Parks. Approximately $30,000 for a custom kevlar-molded
   costume (which has superior durability). GR Print -- Los Angeles printer of
   stickers and promotional materials. Approximately $5000.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  $100,000. As Los Angeles is the entertainment capital of the world, we intend
-  to seek donations of talent and material (costumes from the Disney costume
-  shop, for example) to support this project.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Costume: $30,000 - includes design, molds (for future replacements),
-  administrative expenses. Souvenir stickers: $5000 - includes design of one
-  L.A.-themed sticker. E-commerce (to sell licensed merchandise): $15,000 -
-  includes design of merchandise and one website. Other design and
-  administration: $50,000 - includes professional mascot actor, personal
-  appearance coordinator, management.
 How do you plan to scale the success of your proposal?: >-
   Once one mascot costume is made and a personal appearance schedule is set, it
   is simple to create multiple costumes (due to the kevlar process) and

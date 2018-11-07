@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - Westside
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Email through 2050 Newsletter Email Subscription
   Organization(s) name(s): Tagliaferri Howard Architecture
   Organization(s) mailing address(es): "4136 Del Rey Ave.  Marina Del Rey, CA 90292\r\n\r\n3981 Beethoven St Los Angeles, CA 90066"
   Organization(s) website(s): 'http://www.tharchitecture.com/'
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Email through 2050 Newsletter Email Subscription
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -154,8 +154,6 @@ maker_answers:
     community to healthy lifestyles.
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "We propose teaming up with North East Trees a non-profit who has a critical role in the development of the Glendale River Narrows path development.  They have done similar projects across the region and will provide invaluable experience to deliver the project.\r\n\r\nWe propose teaming up with anyone who is interested in the project and who can allocate resources or people to further developing the project.  The more support we can obtain from local organizations and community the higher chance of success the project will have.\r\n\r\nTHarchitecture and North East Trees will work with the community to perform, community workshops, a feasibility study and initial design concepts for the Connector Bridge.  We have previous experience with public works projects and also have consulting engineers who will help engineer the project and work with county engineers and local regulatory agencies to deliver a successful project."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "We have visited the site with North East Trees northeasttrees.org a non-profit organization who has a critical role in the development of the Glendale River Narrows path development and other bike/pedestrian friendly paths around LA and LA County. As an organization they see immense potential in the project and are interested in working with THarchitecture to make this project a reality.  We propose a 50K for North East trees to dedicate one full time employee and 50K for THarchitecture to dedicate one full time employee to the project for the next two years, until the project has catalyzed enough for other methods of Grant funding/Private funding.\r\n\r\nWe will work with other Ballona Creek organizations and Bicycle advocacy Groups:\r\n\r\nballonafriends.org, ballonarenaissance.org, ballonawetlands.org, ballonarestoration.org, labike.org, CCbike.org (culver city cyclists).  Bike LMU, SMspoke.org (santa monica cyclists) "
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Additional cost will be covered by applying for Grants for which the Connector Ped/Bike Brige is a prime candidate, such as Proposition 50- River Parkways Grant program, we will submit for this grant in 2016. We will need additional resources and funding to make this a successful grant application. \r\n\r\nOther sources of Funding: \r\n Los Angeles County - Proposition A Grant\r\nCaltrans - Dept. of Transportation - Environmental Enhancement and Mitigation program\r\nLACity Funding\r\nLACounty Funding\r\n \r\nWe recognize there is a wealth of financial capital within the tech community in Playa Vista, Venice and Santa Monica (aka Silicon Beach) we believe there can be enormous financial support for this project from one or many of these major tech companies.  We will need additional resources and funding to seek the support of these companies."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "As the project is in the infant stage, we need organizers behind the project to garner community support, local governmental support and corporate support for the project. Funding and Resources will be required to run community workshops as well as research and identify funding sources. We feel this project could reach fruition and become a reality faster if there are people who are dedicated full time to the project. THarchitecture proposes to donate all partner and principal time to the project as much is financially possible, however we need capital to allocate resources to the project for a full time employee for the next two years.  \r\n\r\nWe propose North East Trees will use a similar approach to the project and will need capital to dedicate a full time person to the project for the next two years. As they are busy with many other projects, we will need the additional funding to allow this project to be a priority, within their scope of projects.  "
   How do you plan to scale the success of your proposal?: >-
     Success will be determined by the number of people who will use the
     Connector Ped/Bike bridge in the future once it is completed.  We feel it is
@@ -236,31 +234,6 @@ Are there other organizations doing similar work (whether complementary or compe
    We will work with other Ballona Creek organizations and Bicycle advocacy Groups:
    
    ballonafriends.org, ballonarenaissance.org, ballonawetlands.org, ballonarestoration.org, labike.org, CCbike.org (culver city cyclists). Bike LMU, SMspoke.org (santa monica cyclists)
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Additional cost will be covered by applying for Grants for which the Connector
-  Ped/Bike Brige is a prime candidate, such as Proposition 50- River Parkways
-  Grant program, we will submit for this grant in 2016. We will need additional
-  resources and funding to make this a successful grant application. 
-   
-   Other sources of Funding: 
-    Los Angeles County - Proposition A Grant
-   Caltrans - Dept. of Transportation - Environmental Enhancement and Mitigation program
-   LACity Funding
-   LACounty Funding
-    
-   We recognize there is a wealth of financial capital within the tech community in Playa Vista, Venice and Santa Monica (aka Silicon Beach) we believe there can be enormous financial support for this project from one or many of these major tech companies. We will need additional resources and funding to seek the support of these companies.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  As the project is in the infant stage, we need organizers behind the project
-  to garner community support, local governmental support and corporate support
-  for the project. Funding and Resources will be required to run community
-  workshops as well as research and identify funding sources. We feel this
-  project could reach fruition and become a reality faster if there are people
-  who are dedicated full time to the project. THarchitecture proposes to donate
-  all partner and principal time to the project as much is financially possible,
-  however we need capital to allocate resources to the project for a full time
-  employee for the next two years. 
-   
-   We propose North East Trees will use a similar approach to the project and will need capital to dedicate a full time person to the project for the next two years. As they are busy with many other projects, we will need the additional funding to allow this project to be a priority, within their scope of projects.
 How do you plan to scale the success of your proposal?: >-
   Success will be determined by the number of people who will use the Connector
   Ped/Bike bridge in the future once it is completed. We feel it is not a matter

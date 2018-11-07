@@ -24,8 +24,8 @@ project_areas:
   - Westside
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): "1714 W. Sunset Blvd, Los Angeles, CA 90026; 923 East 3rd Street, 307\r\nLos Angeles, CA 90013"
   Organization(s) website(s): 'www.826LA.org, www.youngstorytellers.com'
   Organization(s) twitter handle(s): 'www.twitter.com/826LA, www.twitter.com/youngstory'
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 826LA & Young Storytellers
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -155,18 +155,6 @@ maker_answers:
     826LA and Young Storytellers will collaborate on this project, dividing the
     grant evenly between each organization. Both organizations will partner with
     corporate volunteer programs at entertainment and creative companies. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    826LA and Young Storytellers estimates that it was cost approximately
-    $500,000 to provide support to 2,000 students, to publish a collection of
-    their work, and to celebrate their stories at a public event. Expenses
-    beyond the grant from the Goldhirsh Foundation would be covered by grants
-    from foundations and donations from corporate partners and individual
-    donors. 826LA receives grants to support its in-school program from the City
-    of Los Angeles, Department of Cultural Affairs and the Los Angeles Dodgers
-    Foundation; Young Storytellers receives grant to support its work in schools
-    from the Annenberg Foundation, the Dwight Stuart Youth Fund, and the Ralph
-    M. Parsons Foundation, among others. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "In-School work (826LA): $41,750\r\nIn-School work (Young Storytellers): $41,750\r\nPublication: $10,000\r\nDesign: $4,000\r\nEvent: $2,500 \r\n"
   How do you plan to scale the success of your proposal?: >-
     With the success of this project, 826LA and Young Storytellers will increase
     the public’s knowledge of not only young people’s stories, but also the
@@ -245,23 +233,6 @@ Are there other organizations doing similar work (whether complementary or compe
   826LA and Young Storytellers will collaborate on this project, dividing the
   grant evenly between each organization. Both organizations will partner with
   corporate volunteer programs at entertainment and creative companies.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  826LA and Young Storytellers estimates that it was cost approximately $500,000
-  to provide support to 2,000 students, to publish a collection of their work,
-  and to celebrate their stories at a public event. Expenses beyond the grant
-  from the Goldhirsh Foundation would be covered by grants from foundations and
-  donations from corporate partners and individual donors. 826LA receives grants
-  to support its in-school program from the City of Los Angeles, Department of
-  Cultural Affairs and the Los Angeles Dodgers Foundation; Young Storytellers
-  receives grant to support its work in schools from the Annenberg Foundation,
-  the Dwight Stuart Youth Fund, and the Ralph M. Parsons Foundation, among
-  others.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  In-School work (826LA): $41,750
-   In-School work (Young Storytellers): $41,750
-   Publication: $10,000
-   Design: $4,000
-   Event: $2,500
 How do you plan to scale the success of your proposal?: >-
   With the success of this project, 826LA and Young Storytellers will increase
   the public’s knowledge of not only young people’s stories, but also the

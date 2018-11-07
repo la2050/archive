@@ -24,8 +24,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '1'
-  city_state: 'Los Angeles, CA'
   org_website: 'http://appoflife.com'
   org_twitter: '@App_of_Life'
   org_facebook: 'https://www.facebook.com/appoflife'
@@ -69,7 +69,7 @@ maker_answers:
   org_name: App of Life
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
-  metrics_connect_traveltime: '0'
+  city_state: 'Los Angeles, CA'
   metrics_connect_culturalevents: '1'
   metrics_connect_publictransit: '1'
   metrics_connect_neighborhoodcouncils: '0'
@@ -100,10 +100,6 @@ maker_answers:
     activities and a healthy social life as well as health and fitness. App of
     Life is also democratic in that there will always be a robust free version
     and will work with a variety of other fitness devices and other apps.
-  cost: >-
-    All development and programming proposed in this application will be covered
-    by the $100,000 grant.
-  budget: "There is a lot we can do with this money!\r\n\r\nAPI’s for wearables and apps.\t\t\t\t\t\t $17600\r\nGive App of Life players the ability to connect to leading fitness wearables and apps such as Fitbit, Jawbone Up, Strava Run & Bike and MyFitnessPal. When a player \r\n\r\nFine Tuning\t\t\t\t\t\t\t\t\t\t $10500\r\nOur design and development team will be using this information to inform a fine tuning of the the look and function of App of Life.\r\n\r\n\r\nmakes progress using one of these fitness trackers or apps, they will automatically get points in App of Life. \r\n\r\nAndroid version of the app \t\t\t\t\t\t\t$29400\r\nProgram an Android version of App of Life for each of the four standard Android screen sizes.\r\n\r\n\r\n\r\nWellness Programs\t\t\t\t\t\t\t\t$19000\r\nThis money will go to promote and award prizes for wellness programs.\r\n\r\n\r\nMarketing \t\t\t\t\t\t\t\t\t $23500\r\nWe will build user base through press releases, marketing and advertising.\r\nWe will use targeted advertising such as Facebook mobile ads to market the use of our free app to LA residents who will benefit the most from it. \r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

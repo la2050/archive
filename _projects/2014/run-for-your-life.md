@@ -15,8 +15,8 @@ project_video: ''
 project_areas:
   - SOUTH LA
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthcare: '0'
-  metrics_live_airtoxins: '0'
   org_website: www.Laurel-Foundation.org
   org_twitter: www.twitter.com/thelaurelfdn
   org_facebook: Facebook.com/thelaurelfdn
@@ -57,7 +57,7 @@ maker_answers:
   metrics_live_healthyfood: '0'
   city_state: 'Pasadena, CA '
   org_name: The Laurel Foundation
-  metrics_live_selfsufficiency: '0'
+  metrics_live_airtoxins: '0'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '1'
   metrics_live_homelessness: '0'
@@ -80,8 +80,6 @@ maker_answers:
   achievable_goal: "The project will take 12 months.  This is achievable as we will need the time to create the app (2 months) and then start to market it.  The biggest piece is the marketing and the app.  Securing the permits and location etc will be easy.  \r\n\r\nSo 2 months for the app set up.  Marketing will start immediately to get it ready to launch the program as soon as the app is ready.  Then market market market… secure all logistics and… done!\r\n\r\nTime frame is easy."
   major_challenges: "1. Full time staff to implement the event. \r\nWe will need a minimum of 1 full time staff to do this event.  Solution, we will pay 1 full time staff to do this.  This will come from the award money.\r\n\r\n2. Finding the best mobile app company to create the app.  Solution: we have our connections.  We will interview all the best mobile app creation companies and hire the best.  \r\n"
   competition: "N/A\r\n"
-  cost: 'We can do it for $100,000!'
-  budget: "Mobile App: $20,000\r\nStaff Salary: $30,000\r\nPermits etc.: $4,000\r\nOffice supplies etc: $6,000\r\nAwards (checks) $40,000"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

@@ -24,8 +24,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): '21216 De La Guerra St, Woodland Hills, CA 91364'
   Organization(s) website(s): www.classnube.com
   Organization(s) twitter handle(s): www.twitter.com/classnube
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): ClassNube (Nube means Cloud in Spanish)
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -164,13 +164,6 @@ maker_answers:
     would rather have kids teaching them than a teacher.  It's more fun that
     way.  It's social. 
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "We will be working with Carlos Lauchu\r\nJon Kraft, founding CEO of Pandora, and Girish Venkat, the guy who built one of the most secure websites in the world - stamps.com (it's like printing money).   We will work with some of the best programmers in the world (Lift Off) to make sure the security and level of programming is world class.  This will help us scale to expand our efforts.  \r\n$75,000 will be spent on programmers working for a highly discounted rate through Lift Off, our technical partner on this project.  \r\n$25,000 will be spent on servers, UX designers, teacher support inside of classrooms to make sure there's a conduit between the teachers, students, UX designers, engineers, and programmers.   \r\n\r\nExcept for Carly Saltzman who will be paid approximately $15,000 to work directly with schools and teachers over a year in classrooms, no other partners will be getting paid for this project.  \r\n\r\nWe think it will add an awesome capability to our Xprize Learning platform.  \r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    To create the biology class and a dynamic assessment, it will cost
-    $100,000.  We have developed an preliminary interface and a set of questions
-    and lessons with Mr. Lauchu.  We discussed it with Girish Venkat, the
-    technical lead on the project, who estimated it would be enough to build a
-    biology class feature into our application. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$75,000 Programming & Engineering Costs\r\n$15,000 School & Teacher Liaison & Expenses\r\n$ 5,000  Interface Design\r\n$ 5,000  Servers, extra support & expenses \r\n"
   How do you plan to scale the success of your proposal?: >-
     Once we succeed with the biology class, we will have built the
     infrastructure to tackle any other subject on the platform.  We can expand
@@ -233,17 +226,6 @@ Are there other organizations doing similar work (whether complementary or compe
    Except for Carly Saltzman who will be paid approximately $15,000 to work directly with schools and teachers over a year in classrooms, no other partners will be getting paid for this project. 
    
    We think it will add an awesome capability to our Xprize Learning platform.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  To create the biology class and a dynamic assessment, it will cost $100,000.
-  We have developed an preliminary interface and a set of questions and lessons
-  with Mr. Lauchu. We discussed it with Girish Venkat, the technical lead on the
-  project, who estimated it would be enough to build a biology class feature
-  into our application.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  $75,000 Programming & Engineering Costs
-   $15,000 School & Teacher Liaison & Expenses
-   $ 5,000 Interface Design
-   $ 5,000 Servers, extra support & expenses
 How do you plan to scale the success of your proposal?: >-
   Once we succeed with the biology class, we will have built the infrastructure
   to tackle any other subject on the platform. We can expand to more high

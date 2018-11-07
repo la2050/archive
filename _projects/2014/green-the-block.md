@@ -17,8 +17,8 @@ project_areas:
   - EAST LA
   - LA COUNTY
 maker_answers:
+  metrics_live_selfsufficiency: '1'
   metrics_live_healthyfood: '1'
-  city_state: Long Beach CA
   org_website: www.greeneducationinc.org
   org_twitter: ''
   org_facebook: 'https://www.facebook.com/GreenEducationInc?ref_type=bookmark'
@@ -62,7 +62,7 @@ maker_answers:
   org_name: Green Education Inc.
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '1'
+  city_state: Long Beach CA
   metrics_live_importedwater: '0'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '0'
@@ -85,8 +85,6 @@ maker_answers:
   achievable_goal: "Our estimation for initial outreach and education to an entire block of homeowners is approximately 60 days. Once we accomplish this first phase, we can move into the home & yard audits phase, which is approximately 45 days.\r\n\r\nUrban farm groups, native landscapers and energy efficiency contractors will then be tasked with completing their specific function over the next 7-9 months.\r\n\r\nThis initiative is achievable because of the subject matter experts that will be completing the work. They have many years of experience in their areas of expertise and are extremely knowledgeable in change management and behavioral change approaches for these types of long-term projects as well."
   major_challenges: "1. Resistance or mistrust from families regarding the initiative: Continuous outreach via neighborhood associations, churches, PTSA at local high school, and through local community groups established in the area.\r\n\r\n2. Families reverting back to pre-Green The Block behaviors (using excess energy and water, not tending to Community Garden, Victory Farm and native landscaped yards): Recognize, reward and incentivize families to encourage continuous and sustainable behavior change. Set clear expectation that families will be involved with other components of initiative (sweat equity) to ensure families continue to be engaged.\r\nEnsure partners establish the above systems/processes for their specific segment of the initiative.\r\nEnsure program metrics are evaluated every 3-6 months to determine transfer of knowledge and sustainability of entire program."
   competition: "There are organizations focused on urban farming, community gardening or on native landscaping, but there are no other organizations attempting to create an initiative that brings together, highlights and manages the various components of creating a healthy neighborhood (block).\r\n\r\nThis project will demonstrate to the city, utility companies, educational and workforce development institutions and key stakeholders that we have the capacity to create actual good, long-term jobs and entrepreneurial opportunities via green block initiatives focused on energy efficiency home improvements, urban farming, native landscaping, and sustainability education for community members."
-  cost: "We estimate that approximately $850,000 is required for pilot initiative. \r\n\r\nWe are submitting RFPs for SB535 grant monies, as well as requesting monies from organizations such as LB Gas & Oil, Port of Long Beach, local refineries, SCE, grants from local foundations such as The CA Endowment, and discretionary dollars from the local Councilmember and Mayor of Long Beach."
-  budget: "$25,000: Marketing and Community Outreach - Canvassers, phone bankers and small group presenters\r\n$20,000: Create and distribute Green The Block initiative outreach & education materials to be utilized by subject matter experts and trainers for ongoing training purposes. Train-the-Trainer process included in this budget item.\r\n$25,000: Conduct initial energy efficiency, urban/community farming, native landscaping and gray water system maintenance workshops. \r\n$30,000: Conduct energy efficiency audits to one-block radius of homes.\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

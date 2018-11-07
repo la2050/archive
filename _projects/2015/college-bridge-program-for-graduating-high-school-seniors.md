@@ -16,8 +16,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Long Beach, Ca'
   Organization(s) mailing address(es): "3913 N. Virginia Rd., #207\r\nLong Beach, CA 90807"
   Organization(s) website(s): www.the-ripple-effect.net
   Organization(s) twitter handle(s): www.twitter.com/1rippleeffect
@@ -62,7 +62,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
+  'City, State': 'Long Beach, Ca'
   Organization(s) name(s): The Ripple Effect
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -178,10 +178,6 @@ maker_answers:
     instructors for the bridge program, providing volunteers and providing
     locations for the bridge program to be held.  Each organization will receive
     $1,000 from the grant.  
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We believe to provide two sessions of a summer bridge program servicing 60
-    students, it will cost approximately $62,000.  
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "This would be expenses for 2 sessions of the bridge program, servicing a total of 60 students.\r\n\r\ninstructors for the program\t     $5,000 ($40/hour)\r\nexpenses for field trip\t             $7,500 (6 field trips)\r\nmaterials for students\t             $6,000 ($100/students)\r\nlunch for students\t                   $12,600 ($7/day per student)\r\nbuses for field trips\t             $3,600 (6 field trips)\r\nmetro cards for students\t     $2,100 \r\npartners assistance\t             $3,000 ($1,000/partner)\r\ncoordinator fee\t                     $4,200 ($350/month for 12 months)\r\nstudent stipends\t                    $18,000 ($300/student)\r\nTOTAL\t                                    $62,000\r\n"
   How do you plan to scale the success of your proposal?: >-
     The Ripple Effect is currently in the process of looking for other grant
     opportunities to provide these summer bridge programs.  By continuing to
@@ -265,23 +261,6 @@ Are there other organizations doing similar work (whether complementary or compe
   instructors for the bridge program, providing volunteers and providing
   locations for the bridge program to be held. Each organization will receive
   $1,000 from the grant.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We believe to provide two sessions of a summer bridge program servicing 60
-  students, it will cost approximately $62,000.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  This would be expenses for 2 sessions of the bridge program, servicing a total
-  of 60 students.
-   
-   instructors for the program  $5,000 ($40/hour)
-   expenses for field trip  $7,500 (6 field trips)
-   materials for students  $6,000 ($100/students)
-   lunch for students  $12,600 ($7/day per student)
-   buses for field trips  $3,600 (6 field trips)
-   metro cards for students  $2,100 
-   partners assistance  $3,000 ($1,000/partner)
-   coordinator fee  $4,200 ($350/month for 12 months)
-   student stipends  $18,000 ($300/student)
-   TOTAL  $62,000
 How do you plan to scale the success of your proposal?: >-
   The Ripple Effect is currently in the process of looking for other grant
   opportunities to provide these summer bridge programs. By continuing to

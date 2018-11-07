@@ -14,8 +14,8 @@ project_areas:
   - East LA
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  'City, State': Los Angeles
   Organization(s) mailing address(es): 2432 E 8th St
   Organization(s) website(s): www.playwithmusic.org
   Organization(s) twitter handle(s): www.twitter.com/thenewhist
@@ -60,7 +60,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': Los Angeles
   Organization(s) name(s): >-
     Play with Music, The New History (parent organization of Play with Music,
     current transition filing 501c3 status for Play with Music)
@@ -136,13 +136,6 @@ maker_answers:
     others why Play with Music is transformative. 
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are countless music programs in Los Angeles, but none that combine working with schools to truly modernize music education by teaching technology AND creating original work AND bring the music industry to collaborate with/mentor kids. It’s the combination that makes the program unique, comprehensive, and extremely high impact. \r\n\r\nIn fact, we’re partnering with organizations that do some, but not all, of the things we do.  This includes the Harmony Project (in school orchestra- traditional instrument and theory skills teaching), the Grammy Museum (interactive seminars & workshops with celebrities, and music production education) Creative Visions’ Rock Your World program (content creation / creative expression), and CalArts CAP (teaching creative arts skills)."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "We’ll be working with Harmony Project, the Grammy Museum, Creative Visions Rock Your World, CalArts CAP and Green Dot Public Schools. \r\n\r\nHarmony Project and GDPS provide structure for us to work within. Both partners recognize the importance of what our program offers - in GDPS schools we’re an 8 week after-school program that students opt into. In Harmony Project schools we’re an 8 week component of their year long curriculum. \r\n\r\nGrammy Museum, Creative Visions and CalArtsCAP enhance the Play with Music program by providing field trip and internship opportunities (Grammy), providing video documentation support (CV) and music mentors (CalArts).\r\n\r\nThe CalArts CAP program would be the only partner to receive direct payments from this grant through their providing of music mentors and music-tech support (see our budget for details).\r\n\r\nAll of the LA2050 Grant money will go to funding implementation and execution of Play with Music program."
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Each 16 session program serves 15 kids and costs between $14,000 and $19,000
-    (the fluctuation in price depends on whether we can provide video
-    documentation of student work, enabling them to make “virtual bands” with
-    their music). With $100,000 we could run between 5 and 7 programs next year
-    with our partners, and forever change the lives of 75 to 100 kids.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Play with Music Program Budget\r\n\r\nMODULE 1 - Minimum Viable Resources\r\nCost of an 8-week program, meeting 2x/week for 2 hours (16 sessions) with 15 students.\r\n\r\nMusic Teachers / Mentors - 5 mentors per session work with students - $4,000\r\nProfessional Musicians/Performers - 6 pros come in to work with and perform live for students over 1 session - $900\r\nAudio Editor - transfer, mix, produce & set up audio content from each in student computers to keep program on track- $1,200\r\nProgram Management - $6,000\r\nRecruitment -$600\r\nInsurance - PWM liability insurance - $600\r\nBackground Check / TB / Admin paperwork - $700\r\n\r\nBUDGET TOTAL (minimum): $14,000\r\n\r\n+\r\n\r\nMODULE 2 - Virtual Band component (video)\r\n\r\nVideographers and Editors - Filming of students. Recording, transferring, editing professional musician performances (6) and student performances (15) produced during every session - $4,800\r\n\r\nTOTAL BUDGET (with video) - $18,800\r\n\r\n"
   How do you plan to scale the success of your proposal?: "With an active program that has been funded by the Goldhirsh Foundation, with more metrics of impact / success, and with the implicit endorsement of this highly sought after grant, we will be in a much better position to build a board of directors and continue fundraising to expand the Play with Music program into more classrooms. \r\n\r\nOur scalability is only limited by our funding at this point. Due to the immense access of our existing partners, their active desire to have the Play with Music program run in their classrooms, and the modular nature of the program, we have nearly unlimited potential."
 areas_impacted: ''
 partners: ''
@@ -154,8 +147,6 @@ Please list at least one major barrier/challenge you anticipate. What is your st
 Please explain how you will evaluate your work.: '#N/A'
 Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/play-with-music/img.youtube.com/vi/MY3TeVh867s/maxresdefault.jpg

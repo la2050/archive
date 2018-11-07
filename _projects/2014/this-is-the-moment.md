@@ -17,8 +17,8 @@ project_areas:
   - SFV
   - SOUTH BAY
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_arts: '1'
-  metrics_create_manufacturing: '0'
   org_website: rangoli.org
   org_twitter: ''
   org_facebook: 'https://www.facebook.com/pages/Rangoli-Dance-Company/331420330066'
@@ -69,7 +69,7 @@ maker_answers:
   metrics_create_employment: '1'
   city_state: 'Sherman oaks, CA'
   org_name: Rangoli Foundation for Art & Culture
-  metrics_create_researchgrant: '0'
+  metrics_create_manufacturing: '0'
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '1'
@@ -103,8 +103,6 @@ maker_answers:
     a unique combination and I bring a wealth of information and experience to
     the table. Having lived in Los Angeles for over 40 years and produced for
     nearly 30 years,  I can be realistic in what I am able to accomplish. 
-  cost: 'I plan to conceive this project with the budget of $100,000.'
-  budget: "Artists & Designers - $50,000\r\nProduction - $30,000\r\nMarketing & Exhibition - $20,000"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

@@ -19,8 +19,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '1'
-  city_state: 'Van Nuys, CA'
   org_website: www.mitcheldumlao.com
   org_twitter: ''
   org_facebook: ''
@@ -81,7 +81,7 @@ maker_answers:
   org_name: Dumlao Enterprises
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
-  metrics_connect_traveltime: '0'
+  city_state: 'Van Nuys, CA'
   metrics_connect_culturalevents: '1'
   metrics_connect_publictransit: '1'
   metrics_connect_neighborhoodcouncils: '1'
@@ -115,8 +115,6 @@ maker_answers:
     more interactive experience, as well as the opportunity for tourists to post
     their travel itineraries so that tour specialists can bid & offer their
     services & suggestions to create a more personalized experience.  
-  cost: $100k is adequate to complete the project.
-  budget: "$50k for mobile development (hiring a team of coders to build the back-end of the app).\r\n\r\n$50k between Mitchel & Ray (costs for marketing, management, creative direction, design, administrative work, supplies, & miscellaneous work for overseeing the project for 1 year)"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

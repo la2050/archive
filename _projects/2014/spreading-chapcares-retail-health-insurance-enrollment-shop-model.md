@@ -19,8 +19,8 @@ project_areas:
   - SGV
   - SFV
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '0'
-  city_state: 'Pasadena, California'
   org_website: www.chapcare.org
   org_twitter: 'https://twitter.com/ChapCareOrg'
   org_facebook: 'https://www.facebook.com/pages/ChapCare/1376399879278500?ref_type=bookmark'
@@ -64,7 +64,7 @@ maker_answers:
   org_name: ChapCare
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'Pasadena, California'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '0'
@@ -87,10 +87,6 @@ maker_answers:
   achievable_goal: "ChapCare opened its first health insurance enrollment shop in Pasadena on February 3, 2014. The shop is located at the Paseo Colorado, a major shopping center in the area. ChapCare was able to locate this site in 4 weeks, and operationalize the site in 2 weeks (from lease signing) to provide services.\r\n\tChapCare understands the infrastructure necessary to quickly and effectively open an enrollment shop. The most important aspect is: Operating under a Cloud-Based Infrastructure – Since ChapCare’s health centers operate under a cloud, we do not need to take out internet or phone contracts for our enrollment shops. Instead, we assign a dedicated number for each shop to our existing cloud, add additional phone lines, and link the internet needed at the shop to the cloud. If not operating under this structure it can take up to 120 days to have new internet and phone lines installed. \r\n"
   major_challenges: "Two major barriers to implementation are as follows:\r\n\t1) Staff Recruitment – Due to the language needs of the community (i.e. Spanish and Mandarin/Cantonese or Vietnamese), staff recruitment can sometimes be a challenge.\r\nStrategy to Ensure a Successful Implementation: New Staff will be hired within 30 days of award. The Project Manager will work with ChapCare’s Human Resources Supervisor in the recruitment of project staff. \r\nChapCare’s recruitment process includes screening candidates based on their ability to provide for the cultural/linguistic problems of the communities we serve. ChapCare uses a number of strategies to recruit staff. All open positions are posted on the Community Clinic Association of Los Angeles County website and are forwarded to the California Primary Care Association. The organization also posts positions on Internet-based career sites. \r\nChapCare is a competitive employer among local safety net providers. This has developed out of our track record for growth, operational stability, and reputation for innovation. Attractions to ChapCare that have helped facilitate employee recruitment include: 1) Compensation that is competitive based on industry standards, and 2) Comprehensive benefits such as medical, dental, vision, long-term disability, worker’s compensation, vacation, sick/personal time, and a 403 (b) retirement plan.\r\n2) Securing Enrollment Shop Locations – Finding enrollment shop locations that meet our criteria (clean and inviting space, 1,000 – 1,200 square feet, and a visible location in a high-density area that is frequented by the community) can be difficult.\r\n\tStrategy to Ensure a Successful Implementation: Upon award, ChapCare will reach out to the El Monte/South El Monte Chamber of Commerce, which will liaising with local brokers in the area to support our shop search.\r\n\tChapCare has an existing relationship with the Chamber, and its CEO and Marketing Manager are part of the Chamber’s Ambassador Committee.\r\n"
   competition: "One other Federally Qualified Health Center (AltaMed) utilized the retail enrollment shop model in Los Angeles County during the first Covered California open enrollment period. They opened 2 enrollment shops; 1 in East Los Angeles, and 1 in Santa Ana.\r\n\tTheir enrollment shops provided similar services to our own, comprehensive enrollment services for community members looking to enroll into Covered California and Medi-Cal. AltaMed’s enrollment shops helped support its overall enrollment efforts, which spanned Los Angeles County and Orange County. \r\n\tThe organization completed the most Covered California enrollments (4,687) of any Certified Enrollment Entity in California during the first open enrollment period, and completed 6,295 Medi-Cal enrollments as well.\r\n"
-  cost: >-
-    The proposed project budget is $100,000, which is equal to the award amount
-    available under the LA 2050 project competition.
-  budget: "The project budget is allocated as follows:\r\nEnrollment Counselors (2.0 FTE x $30,000/year) = $60,000. One FTE will be positioned at each of the 2 proposed enrollment shop locations. They will be supported by a network of licensed health insurance agents (HealthCare Access Insurance Services located in Montebello) to support enrollment services.\r\nEmployee Benefits ($60,000 x 20% for benefits) = $12,000. Calculated at our organization's designated rate.\r\nShop Rent ($1,200/shop x 2 shops x 10 months) = $24,000. Based on our current enrollment shop rental rate.\r\nEquipment (computers, phones, etc. for shops) = $4,000. Based on previous experience outfitting our current enrollment shop space.\r\nTOTAL BUDGET = $100,000\r\n\r\n\tAll Outreach and Education costs will be supported by funds awarded to ChapCare by L.A. Care Health Plan. The organizations have an existing Memorandum of Understanding (MOU) in place for this award. \r\n\r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

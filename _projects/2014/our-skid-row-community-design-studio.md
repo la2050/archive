@@ -15,8 +15,8 @@ project_video: ''
 project_areas:
   - CENTRAL LA
 maker_answers:
+  metrics_create_researchgrant: '1'
   metrics_create_employment: '1'
-  city_state: Los Angeles CA
   org_website: www.skidrow.org
   org_twitter: twitter.com/skidroworg
   org_facebook: facebook.com/SkidRowHousingTrust
@@ -81,7 +81,7 @@ maker_answers:
   org_name: Skid Row Housing Trust
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '1'
+  city_state: Los Angeles CA
   metrics_create_patents: '0'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '0'
@@ -104,8 +104,6 @@ maker_answers:
   achievable_goal: "The programming of Our Skid Row is built upon the funded efforts to create a comprehensive participatory neighborhood planning process to develop a long-term vision for equitable development in the Skid Row neighborhood (www.ourskidrow.org) .  Currently, neighborhood mapping that investigates land use and narrative documentation of street views is underway.  Logistically, Our Skid Row operates a temporary storefront that currently headquarters all its programs including, Open Studios.  Collaborative design workshops with many local organizations including LA CAN, Downtown Women's Center, Lamp Arts Community, and others are planned for August and September.  The start-up logistics of Our Skid Row have already been funded and foundational programs are already in progress.  \r\n\r\nIn September-December 2014, we will begin research to identify potential sites for short term improvement.  Jan-March 2015, we will work on securing access and permission to temporarily build or permanently improve a site in Skid Row, which continuing community-engaged research to identify and design appropriate programs for activation.  We will continue to work with partner organizations to increase input and resident participation.  From March 2015-June 2015, we will work to design the proposed project. July-August 2015 we will build and celebrate the community asset.\r\n"
   major_challenges: "Meaningful participation and resident involvement is key to the success of the project, but sometimes difficult to cultivate.  To support outreach efforts, a resident will be hired as an Outreach coordinator to focus on generating a strong resident base.\r\n\r\nLateral design decision-making is difficult to achieve.  To ensure we are able to arrive a collective agreements, all activities and workshops will be open for full participation and the design development process will be fully transparent, with participants facilitating the process.  Hierarchical terminology, processes, and preconceptions will be actively avoided.\r\n"
   competition: "There are no existing design organizations in Skid Row, let alone design firms/groups that work so closely with the community they serve to not only generate designs, but research the issues the communities face, and advocate for the changes they would like to see.  Our Skid Row is driven by the residents and other stakeholders of the community, while bringing nationally recognized design resources to Skid Row to actualize improvements.  (Unsure if this level of community-involved design is happening anywhere in Los Angeles)\r\n\r\nCurrently, there are several arts based organizations in Skid Row which focus on individual expression and creative therapy.  Our Skid Row differs from arts-based practices in that the design work becomes externalized and layered on to the physical environment with functional implications and impact on everyday experiences.  Our Skid Row is complimentary to many of the arts programs in that they can begin harnessing individual artistic expressions into collective visions for neighborhood revitalization.\r\n"
-  cost: "The projected project budget for Our Skid Row is $400.000.  We anticipate the additional $300,000 will come from private foundations.  Projected sources include: Annenberg Foundation $50,000, Surdna Foundation $150,000, Enterprise Community Partners $35,000, California Community Foundation $50,000, National Endowment for the Arts $15,000.\r\n\r\nIn-kind donations for additional design services and materials will also be solicited and anticipated.\r\n"
-  budget: "Personnel:\r\nFT Project Director: $40,000\r\nPT Resident Outreach Coordinator: $12,000\r\nBenefits and Taxes: $12,250\r\n\r\n\r\nNon-Personnel:\r\nSupplies and Materials: $11,000\r\nPrinting and Postage: $5,200\r\nInternet: $1,000\r\nTravel: $1,600\r\nMeetings: $1,950\r\nSpace Rental: $6,000\r\nConsultants: $9,000\r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

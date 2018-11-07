@@ -14,8 +14,8 @@ project_video: 'https://www.youtube.com/embed/6BWp4B7O03I'
 project_areas:
   - CENTRAL LA
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '0'
-  city_state: 'Los Angeles, CA'
   org_website: www.jovenesinc.org
   org_twitter: '@Jovenes_Inc'
   org_facebook: facebook.com/Jovenesinc
@@ -69,7 +69,7 @@ maker_answers:
   org_name: 'Jovenes, Inc.'
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'Los Angeles, CA'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '1'
@@ -99,11 +99,6 @@ maker_answers:
     showing less unaccompanied immigrant youth and more youth from Los Angeles
     County, more African-American youth, and more youth with mental
     disabilities.
-  cost: >-
-    This campaign will cost $250,000 over the next year. We are covering the
-    additional costs by leveraging this application with secured grants from The
-    California Endowment and the Dwight Stewart Youth Fund.
-  budget: "Jovenes, Inc.\t\t\t\tLA 2050\r\nBudget for one year\t\t\t\tRequest\r\n\t\t\t\t\r\nSALARIES\t\t\t\tYEAR 1\r\nExecutive Director\t (90,000 \t6.25%)\t\t5,625\r\nProgram coordinator\t (45,760 \t12.50%)\t\t5,720\r\nProgram Assistant\t  (31,200 \t100.00%)\t\t31,200\r\nTOTAL\t\t\t\t42,545\r\nFringe and Benefit\t (23.53%)\t\t\t10,011\r\nTOTAL PERSONNEL\t\t\t\t52,556\r\nNON PERSONNEL\t\t\t\t\r\nSupplies, material & tech\t\t\t\t5,000\r\nMeetings\t\t\t\t1,900\r\nYouth incentive\t\t\t\t12,000\r\nStory telling partner\t\t\t\t5,000\r\nEvaluation \t\t\t\t6,000\r\nTransportation\t\t\t\t1,500\r\nInsurance \t\t\t\t1,000\r\nPhone \t\t\t\t1,000\r\nOccupancy \t\t\t\t1,000\r\nTOTAL NON PERSONNEL\t\t\t\t34,400\r\nTOTAL PERSONNEL AND NON PERSONNEL\t\t\t\t86,956\r\nadministration\t(15%)\t\t\t13,044\r\nTOTAL \t\t\t\t100,000"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

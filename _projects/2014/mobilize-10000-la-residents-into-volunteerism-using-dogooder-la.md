@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '1'
-  city_state: 'Los Angeles, California'
   org_website: www.positivemindedpeople.com
   org_twitter: ''
   org_facebook: 'https://www.facebook.com/positiveminded'
@@ -67,7 +67,7 @@ maker_answers:
   org_name: Positive Minded People
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
-  metrics_connect_traveltime: '0'
+  city_state: 'Los Angeles, California'
   metrics_connect_culturalevents: '0'
   metrics_connect_publictransit: '0'
   metrics_connect_neighborhoodcouncils: '0'
@@ -90,14 +90,6 @@ maker_answers:
   achievable_goal: "1) Creation of the app: According to estimate from Kinvey, an app development company we consulted for this project that has experience creating apps of this scale, take generally 12-16 weeks to create such an app.\r\n\r\n2) Marketing: We will strategize and engage an intensive marketing approach through social media, online marketing, local news outlets, non-profit partners,  schools and colleges, street marketing, and more to gain 10,000 users to the app to being taking “tracks”."
   major_challenges: "The challenges involved with creating a mobile app includes maintaining low costs and successful deployment and marketing of the app to drive users. \r\n\r\nTo ensure success, we will properly set aside funds to hire Los Angeles based, professional partners to help oversee both aspects, but also use the experience and expertise of our founder, Bennie Mayberry, as well as financial consultants, technologists, and marketing experts within Positive Minded People, which is 1200 people strong, to ensure success. "
   competition: "There are already numerous volunteer apps that strive to connect volunteers with organizations. What these apps do well is list and provide volunteer opportunities for users to find. \r\n\r\nWhat makes our app different is we incorporate a reward base system, promote full immersion into volunteering using \"tracks\", and will have availability with Apple and Android right off the gate, something that doesn’t exists today or executed very well. \r\n"
-  cost: >-
-    $100,000 is enough to cover the initial creation of the app, marketing 
-    resources, and manpower required bring to creation.  Long term additional
-    cost for maintenance of the app and will be covered through venture capital,
-    private investments, and use of a revenue model through in app advertising
-    or  collects fees from non-profits to administer volunteer management
-    through the app. 
-  budget: "$40-60K for app develop\r\n$20K - Marketing Resources\r\n$20K - Manpower for contract"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

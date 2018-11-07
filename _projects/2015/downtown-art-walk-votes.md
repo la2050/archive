@@ -19,8 +19,8 @@ project_areas:
   - Central LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: friend
   Organization(s) name(s): Downtown Los Angeles Art Walk
   Organization(s) mailing address(es): "411 S Main Street, suite M102\r\nLos Angeles, CA 90013"
   Organization(s) website(s): www.downtownartwalk.org
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: friend
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -154,13 +154,6 @@ maker_answers:
     politically-themed murals to introduce children to the idea of participating
     in the political system.
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "We would ask the Regent Theater (and if not the Regent, another local theater) to program films relating to the political process and live broadcasts of major debates as well as live debates on local issues of interest.  We would like to be able to offer the theater up to $10,000 for the use of their facilities, staffing and film rentals. \r\n\r\nWe would ask the Last Bookstore to offer programs and panels by authors and politicians in the week leading up to Art Walk, and to frame these programs under the same rubric - My Vote Matters.  We would like to be able to offer the Last Bookstore up to $2,000 for staff and promotion costs and speakers fees for this programming."
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We think that the cost will be under $45,000.  This will include developing
-    programming and adding staff for the events - for mural tours, gallery
-    tours, artwork  social media, as well as posters/cards for voters.  This
-    will also include costs incurred by the theater for debates and films and
-    the book store for programs and panels.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Staff for development and guiding of five mural tours based on political themes:  $7,500\r\nStaff for development and guiding of ten \"kinder walks\" for groups of children and their families.  These walks will be tied to politically-themed murals and gallery exhibits: $12,500\r\nArtist fees and printing for My Vote Matters posters/cards: $500\r\nArtist fees, permit fees, paint and coating for a My Vote Matters mural: $7,500\r\nStaff for coordinating and promoting My Vote Matters events:  $2,500\r\nCost for Regent Theater (or other local theater) for venue, film rental, staff for debates and film series: $10,000\r\nCost for Last Bookstore for staff, speakers fees and publicity: $2,000\r\n"
   How do you plan to scale the success of your proposal?: >-
     We want to encourage young people to vote and to participate in the
     political process by volunteering for campaigns and causes they believe in. 
@@ -220,21 +213,6 @@ Are there other organizations doing similar work (whether complementary or compe
   facilities, staffing and film rentals. 
    
    We would ask the Last Bookstore to offer programs and panels by authors and politicians in the week leading up to Art Walk, and to frame these programs under the same rubric - My Vote Matters. We would like to be able to offer the Last Bookstore up to $2,000 for staff and promotion costs and speakers fees for this programming.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We think that the cost will be under $45,000. This will include developing
-  programming and adding staff for the events - for mural tours, gallery tours,
-  artwork social media, as well as posters/cards for voters. This will also
-  include costs incurred by the theater for debates and films and the book store
-  for programs and panels.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Staff for development and guiding of five mural tours based on political
-  themes: $7,500
-   Staff for development and guiding of ten "kinder walks" for groups of children and their families. These walks will be tied to politically-themed murals and gallery exhibits: $12,500
-   Artist fees and printing for My Vote Matters posters/cards: $500
-   Artist fees, permit fees, paint and coating for a My Vote Matters mural: $7,500
-   Staff for coordinating and promoting My Vote Matters events: $2,500
-   Cost for Regent Theater (or other local theater) for venue, film rental, staff for debates and film series: $10,000
-   Cost for Last Bookstore for staff, speakers fees and publicity: $2,000
 How do you plan to scale the success of your proposal?: >-
   We want to encourage young people to vote and to participate in the political
   process by volunteering for campaigns and causes they believe in. We can ask

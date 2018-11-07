@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Have helped others submit in previous years
   Organization(s) name(s): UCLA Luskin School of Public Affairs
   Organization(s) mailing address(es): "405 Hilgard Ave.,\r\n3250 Public Policy Bldg"
   Organization(s) website(s): www.luskin.ucla.edu
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Have helped others submit in previous years
   'City, State': 'Los Angeles, CA 90095'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -125,8 +125,6 @@ maker_answers:
     sometimes competitive and occasionally complementary relationship between
     these organizations for the benefit of foster children. 
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "UCLA- Luskin School of Public Affairs, Department of Social Welfare $100,000\r\n\r\nThe Department of Children and Family Services, $0\r\n\r\nFoster Family agencies in LA County"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '$88,000'
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "FosterConnectLA\t\t\t\r\nPersonnel\t\t                       Effort\tTotal (including Benefits)\r\nProject coordinator\t12 mo\t25%\t        $25,000\r\nAdmin Asst\t                12 mo\t20%\t        $15,000\r\n\t\t\t\r\nMeeting/Convenings\t\t\t $2,500\r\n\t\t\t\r\nTravel (mileage @.55)\t\t\t   $500\r\nSupplies \t\t\t                 $5,000\r\n\t\t\t\r\nUCLA server to host site\t\t\t$0\r\n\t\t\t\r\nSubcontracts\t\t\t\r\nWebsite Design\t\t\t          $40,000\r\n\t\t\t\r\nTotal\t\t\t                          $88,000"
   How do you plan to scale the success of your proposal?: "Once this website is designed it will serve the entire county.  Scaling up this proposal could occur in several different mechanisms in future years including:\r\n\r\nIncrease languages to make website accessible to a wider audience (e.g., Arabic, Asian languages,etc)\r\n\r\nExtent our reach and draw in more partners for dissemination and recruitment – interfaith groups, etc\r\n\r\nModify and enhance website from having one entity (UCLA) being primarily responsible for updates to a distributed model where approved partners can update training and community event information etc\r\n\r\nCreate an accessible smartphone app\r\n\r\n\r\n"
 areas_impacted: ''
 partners: ''
@@ -136,8 +134,6 @@ Please list at least one major barrier/challenge you anticipate. What is your st
 Please explain how you will evaluate your work.: '#N/A'
 Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/foster-families-the-other-first-responders/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23745%252Fdisplay%252FUCLA_Connect.jpg=c570x385.jpg

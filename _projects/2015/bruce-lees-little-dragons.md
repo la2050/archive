@@ -18,8 +18,8 @@ project_video: 'https://www.youtube.com/embed/YufCYg-BYaY'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: Colleague
   Organization(s) name(s): 'Bruce Lee Foundation '
   Organization(s) mailing address(es): "11693 San Vicente Blvd\r\nSuite 918\r\nLos Angeles, CA 90049"
   Organization(s) website(s): www.bruceleefoundation.org
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Colleague
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -113,8 +113,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "The three core KPI's we will monitor are: \r\n\r\n1) Initial and Repeat Attendance \r\n2) Personal Application \r\n3) Expansion of Club and School Locations\r\n\r\nINITIAL AND REPEAT ATTENDANCE \r\nWe are confident the iconic energy and cultural relevance of Bruce Lee will encourage initial excitement and strong attendance. A \"full\" class will be considered 20 kids. A core measure of success will be the repeat attendance of students and the continuation of \"full\" classes.\r\n\r\nPERSONAL APPLICATION \r\nWe will work with relevant club and school staff to determine the social effects our curriculum is having on a student by way of their interaction with other students, performance in their studies and extra curricular activities, personal drive and goal setting.\r\n\r\nEXPANSION OF CLUB AND SCHOOL LOCATIONS\r\nIn addition to a focus on the individual and the class environment, a key metric of success will be the number of requests to implement the program in new locations around the county.     "
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are certainly a handful of available Martial Arts after school programs, but these are predominantly located off-footprint, and operated by for-profit entities. \r\n\r\nWe are offering our curriculum at no cost, with a view to serve at-risk, underprivileged, and kids without the means or family income to begin their journey to self-actualization. \r\n\r\nOur uniqueness is in our purpose to use Bruce Lee as a vehicle to inspire and motivate the individual mind, body and soul."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "The Bruce Lee Foundation is the sole stakeholder in this project. We have a network of supporters including Century Martial Arts (http://www.centurymartialarts.com/) that have generously agreed to help source expressions of interest from possible instructors within their network, as an in-kind gesture, and will not be compensated financially for this. \r\n\r\nIt is our goal that as a pilot program, specific to Los Angeles, that the two initial major partners are LA2050 and BLF. "
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "We estimate the total cost for the first year of the program to be around $138,000. The additional costs of insurance and staffing (see detailed budget below) will be built in to the overall Bruce Lee Foundation operating budget for 2016/17, funded by our ongoing public donations and supporters. \r\n\r\nWe estimate reaching 2400 kids in a 12 month period at a cost of $57.50 per child. \r\n\r\n\r\n\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "BUDGET - LA2050 CONTRIBUTION\r\n\r\nWage cost for 10 instructors in first 12 month period = $52,800\r\n($440.00 per month per instructor, $240.00 - 8 per month hours @ $30/hr. $200.00 - 4 weeks @ $50/wk for expense eg; gas, travel) \r\nMarketing = $12,000\r\n(content creation, videography, photography, in-school printed materials. 12 months @ $1000/month) \r\nMaterials for Programs = $24,000 \r\n(Bruce Lee journals and quote books, writing supplies, t-shirts) \r\nInsurance LA2050 Contribution = $11,200\r\n(this is a contribution towards the total cost) \r\n\r\nTOTAL = $100,000\r\n\r\nBUDGET - BRUCE LEE FOUNDATION CONTRIBUTION \r\n\r\nProgram Director = $20,000\r\n(staffed by current Bruce Lee Foundation employee)\r\nInsurance BLF Contribution = $18,000\r\n(the remainder of the estimated insurance cost)\r\nMarketing & PR Support = $0\r\n(use of current BLF online and offline assets)\r\n\r\nTOTAL = $38,000\r\n\r\nPROGRAM BUDGET TOTAL \r\n\r\nLA2050 = $100,000\r\nBLF = $38,000\r\nTOTAL = $138,000\r\n"
   How do you plan to scale the success of your proposal?: "We will initially take a three vertical approach to scaling the program over a 12-36 month period passed the initial 12 month funding term. Scaling is viewed as being able to continue programs within clubs and schools already participating, implementing programs in new areas of LA County and expanding the number of participants per class. The initial allocation of $12,000 for marketing materials is largely an investment in content creation to compliment these three verticals. \r\n\r\n1) Peer-2-Peer Fundraising \r\n2) Recurring Monthly Donations\r\n3) Influencers \r\n\r\nPEER-2-PEER FUNDRAISING \r\nWe will utilize our peer-2-peer fundraising platform to amplify fundraising efforts, giving the power to make a difference directly to our audience, students, schools and clubs by way of personal fundraising campaigns. This type of fundraising is low cost to run, with a high revenue return for the program - increasing the amount of kids we can impact directly. \r\n\r\nRECURRING MONTHLY DONATIONS\r\nThe ability to attract long term recurring monthly donors is strengthened by the program cost per child of $57.50 - making the financial barrier of entry small and the impact on a child's life much greater. We will attract these donors through content creation and engaging marketing campaigns driven by sharing videos, photos and telling the stories of Bruce Lee's Little Dragons via our social media we assets.\r\n\r\nINFLUENCERS \r\nMore and more people are discovering Bruce Lee every day. His social media following alone is now over 20 million. Through the foundations network of corporate, celebrity and social influencers we will share the stories of the kids, clubs and schools taking part in the program to enable larger gifts and partnerships. \r\n\r\nThis pilot program and partnership with LA2050 will be key in proving the overall concept of the program itself, prior to expanding locally within LA county, then to the greater Californian area and eventually reaching other states within the continental US. \r\n "
 areas_impacted: ''
 partners: ''
@@ -168,43 +166,6 @@ Are there other organizations doing similar work (whether complementary or compe
   as an in-kind gesture, and will not be compensated financially for this. 
    
    It is our goal that as a pilot program, specific to Los Angeles, that the two initial major partners are LA2050 and BLF.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We estimate the total cost for the first year of the program to be around
-  $138,000. The additional costs of insurance and staffing (see detailed budget
-  below) will be built in to the overall Bruce Lee Foundation operating budget
-  for 2016/17, funded by our ongoing public donations and supporters. 
-   
-   We estimate reaching 2400 kids in a 12 month period at a cost of $57.50 per child.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  BUDGET - LA2050 CONTRIBUTION
-   
-   Wage cost for 10 instructors in first 12 month period = $52,800
-   ($440.00 per month per instructor, $240.00 - 8 per month hours @ $30/hr. $200.00 - 4 weeks @ $50/wk for expense eg; gas, travel) 
-   Marketing = $12,000
-   (content creation, videography, photography, in-school printed materials. 12 months @ $1000/month) 
-   Materials for Programs = $24,000 
-   (Bruce Lee journals and quote books, writing supplies, t-shirts) 
-   Insurance LA2050 Contribution = $11,200
-   (this is a contribution towards the total cost) 
-   
-   TOTAL = $100,000
-   
-   BUDGET - BRUCE LEE FOUNDATION CONTRIBUTION 
-   
-   Program Director = $20,000
-   (staffed by current Bruce Lee Foundation employee)
-   Insurance BLF Contribution = $18,000
-   (the remainder of the estimated insurance cost)
-   Marketing & PR Support = $0
-   (use of current BLF online and offline assets)
-   
-   TOTAL = $38,000
-   
-   PROGRAM BUDGET TOTAL 
-   
-   LA2050 = $100,000
-   BLF = $38,000
-   TOTAL = $138,000
 How do you plan to scale the success of your proposal?: >-
   We will initially take a three vertical approach to scaling the program over a
   12-36 month period passed the initial 12 month funding term. Scaling is viewed

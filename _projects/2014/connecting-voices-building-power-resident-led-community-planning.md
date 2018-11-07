@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_connect_traveltime: '1'
   metrics_connect_volunteerism: '0'
-  city_state: 'Los Angeles, CA '
   org_website: 'http://www.allianceforcommunitytransit.org/'
   org_twitter: '@All4Transit'
   org_facebook: ''
@@ -76,7 +76,7 @@ maker_answers:
     Development Corporation)
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '0'
-  metrics_connect_traveltime: '1'
+  city_state: 'Los Angeles, CA '
   metrics_connect_culturalevents: '0'
   metrics_connect_publictransit: '1'
   metrics_connect_neighborhoodcouncils: '0'
@@ -110,12 +110,6 @@ maker_answers:
     intends to continue to deepen collaboration with other regional coalitions
     such as LA Thrives, SCANPH, and MOVE LA who share a similar outlook and
     vision but operate from different vantage points. 
-  cost: >-
-    We project total cost for this project to be $182,900. ACT-LA is actively
-    seeking resources to support the work of the coalition. We have secured
-    funding from the California Community Foundation and have applications in to
-    Ben & Jerry’s, Enterprise Community Partners, and The California Endowment. 
-  budget: "With the support of LA2050 we will fund the following items:\r\n25% of full time Coalition Manager: $22088\r\n8 at $5,000 each stipends to members for community engagement: $40000\r\nMarketing & Communications Consultant: $15000\r\nCollateral Materials (Design & Printing ex t-shirts, posters, etc): $12912 \r\nFiscal Sponsor 10% of total grant: $10,000\r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

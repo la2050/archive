@@ -17,8 +17,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Friend
   Organization(s) name(s): Ruckus Projects
   Organization(s) mailing address(es): 8233 W Manchester Ave apt 3
   Organization(s) website(s): www.ruckusprojects.com/
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: Friend
   'City, State': 'Playa del Rey, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -132,10 +132,6 @@ maker_answers:
     The data and technology used to for the project will primarily be open,
     therefore there are no partners for this project. Where other technology is
     required, GIS technology may be purchased at a price.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We believe we can develop and release this application for a projected cost
-    between 85-100k within 7 months.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$3,000 - customer research & data aggregation\r\n$5,000 - surveying and defining requirements\r\n$8,000 - software design & implementation\r\n$18,000 - physical technology system & database maintenance\r\n$3,000 - copyrights & legal advice\r\n$36,000 - coding & system/app development\r\n$6,000 - internal & system testing / refinement\r\n$8,000 - personnel & staffing\r\n$6,000 - piloting - soft release & user feedback\r\n$6,000 - incremental product scaling"
   How do you plan to scale the success of your proposal?: >-
     The project will be scaled by gradually integrating relevant data sources,
     city by city. Through a data verification and authentication process,
@@ -205,20 +201,6 @@ Are there other organizations doing similar work (whether complementary or compe
   The data and technology used to for the project will primarily be open,
   therefore there are no partners for this project. Where other technology is
   required, GIS technology may be purchased at a price.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We believe we can develop and release this application for a projected cost
-  between 85-100k within 7 months.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  $3,000 - customer research & data aggregation
-   $5,000 - surveying and defining requirements
-   $8,000 - software design & implementation
-   $18,000 - physical technology system & database maintenance
-   $3,000 - copyrights & legal advice
-   $36,000 - coding & system/app development
-   $6,000 - internal & system testing / refinement
-   $8,000 - personnel & staffing
-   $6,000 - piloting - soft release & user feedback
-   $6,000 - incremental product scaling
 How do you plan to scale the success of your proposal?: >-
   The project will be scaled by gradually integrating relevant data sources,
   city by city. Through a data verification and authentication process,

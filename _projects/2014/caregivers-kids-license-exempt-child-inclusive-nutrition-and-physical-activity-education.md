@@ -22,8 +22,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '1'
-  city_state: 'Moorpark, CA'
   org_website: 'http://www.tlfcci.org/'
   org_twitter: 'https://twitter.com/TLFCCI'
   org_facebook: 'https://www.facebook.com/tandlfoundationforchildcareinformation'
@@ -67,7 +67,7 @@ maker_answers:
   org_name: T&L Foundation for Child Care Information
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'Moorpark, CA'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '1'
   metrics_live_homelessness: '0'
@@ -90,8 +90,6 @@ maker_answers:
   achievable_goal: "1)    We have a network of organizations and people throughout the child care industry to help us reach the individuals we need to reach, whether it be experts in the industry to do trainings or accessing the license-exempt providers\r\n2)    Already know the information and topics for the customized training, therefore able to focus on a different structure to complement the audience and information being provided \r\n3)    Access to many different materials for use as supplemental materials for learning experiences\r\n4)   We are a small and nimble organization \r\n"
   major_challenges: "1)\tFinding the right person to create the curriculum and effectively creating it to “speak to” the audience it is intended for.  We plan to address this challenge by proactively using existing networks of industry professionals to create the curriculum as well as reaching out to ‘mommy and me’ teachers to get a good perspective of how to facilitate a class in that format.  Also, engage a handful of license-exempt providers that will be willing to work with us as we create the curriculum.\r\n2)\tFinding coach volunteers and creating buy-in that this is the best format for the license-exempt demographic and encouraging them to learn and get comfortable with the new format.  Hire a consultant for “train the trainer” to establish confidence and excitement with the coaches. We will also provide additional compensation to the top 3 coaches who train the most license-exempt providers as well as additional compensation for those who get the most follow up evaluations returned (encouraging follow up between coach and provider).\r\n3)\tGetting follow up evaluations and information from the attendees to gauge whether or not they implemented anything they learned.  Provide a material incentive – gift card or something else of monetary value to those that fill out and return their evaluations.\r\n4)     Getting the license-exempt providers to the trainings.  Working with Child Care Resource and Referral Agencies to assist in outreach, choosing settings in which caregivers can easily attend and consistent, specified messaging leading up to the classes."
   competition: "There are several programs in LA County focusing child obesity – nutrition and physical activity, at home and in the child care settings.  Choose Health LA – Child Care is the project that reaches the same population with similar information. However, their trainings are not specific to license-exempt caregivers.\r\n\r\nThat project also has several sister projects  Choose Health LA – Kids, Choose Health LA – Moms etc.  They address healthy environments but not in the license-exempt child care space.\r\n\r\nThere is the federal program National Education for Obesity Prevention – which is funding projects at the federal level in many counties, including LA County.  \r\nAnother program is through Nemours and the Center for Disease Control (CDC) called the Early Childhood Education Learning Collaborative but this focuses on a cohort of child care centers.\r\nThe audience we are addressing and the way in which we are addressing them, messaging only to them and creating a curriculum format that is just for them, sets us apart from other health and wellness initiatives in the county.  \r\n\r\nWhile other programs might mention the license-exempt provider is a target of their educational materials – it is most likely swept up in the entire child care curriculum and goals, just as our partner had to do because of priorities and lack of funds.\r\n"
-  cost: '$99,640'
-  budget: "6 sets of flyers and 1 registration form to 10,000 homes\t $10,000\r\n\r\nSupplemental resources (printed booklets or demonstrative materials for new format) for the classes \t\t$15,000\r\nMeeting Space\t\t\t\t\t\t$6,500\r\nOutreach via technology and online outlets (SMS, Email, Social, online reg.)\t                                                        $10,140\r\nCoaches incentives \t\t\t\t\t$26,000\r\nProvider incentives \t\t\t\t\t$2,000\r\nConsultant for curriculum \t\t\t$10,000\r\nConsultant for train the trainer \t\t$5,000\r\nEvaluation \t\t\t\t\t\t\t$12,000\r\nOutreach to R&R’s\t\t\t\t\t$3,000\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

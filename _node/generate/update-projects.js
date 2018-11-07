@@ -706,7 +706,7 @@ function processFile(filename) {
   let data = loadMarkdown(filename)
   if (!data) return
 
-  if (!data.yaml.published) return
+  //if (!data.yaml.published) return
 
   /*
   try {
@@ -959,7 +959,7 @@ function processFile(filename) {
   */
 
 
-
+  /*
   if (data.yaml.year_submitted == 2014) {
 
     if (data.yaml.maker_answers["impact_LA_County"] == 1) {
@@ -998,23 +998,22 @@ function processFile(filename) {
 
 
 
-    /*
-    let how_use_resources = []
-    useResources2015.forEach(area => {
-      // console.log(area)
-      if (data.yaml.maker_answers[area] == "1" && area != "How do you plan to use these resources to make change? Other") {
-        how_use_resources.push(area.replace("How do you plan to use these resources to make change? ", ""))
-        // console.log(area.replace("Where will you be working? ", ""))
-      } else if (area == "How do you plan to use these resources to make change? Specifics" && data.yaml.maker_answers[area] != "") {
-        how_use_resources.push(data.yaml.maker_answers[area])
-        // console.log(data.yaml.maker_answers[area])
-      }
-      // delete data[area]
-    })
-    // console.log("project_areas")
-    // console.dir(project_areas)
-    data.yaml.maker_answers["How do you plan to use these resources to make change?"] = how_use_resources
-    */
+    // let how_use_resources = []
+    // useResources2015.forEach(area => {
+    //   // console.log(area)
+    //   if (data.yaml.maker_answers[area] == "1" && area != "How do you plan to use these resources to make change? Other") {
+    //     how_use_resources.push(area.replace("How do you plan to use these resources to make change? ", ""))
+    //     // console.log(area.replace("Where will you be working? ", ""))
+    //   } else if (area == "How do you plan to use these resources to make change? Specifics" && data.yaml.maker_answers[area] != "") {
+    //     how_use_resources.push(data.yaml.maker_answers[area])
+    //     // console.log(data.yaml.maker_answers[area])
+    //   }
+    //   // delete data[area]
+    // })
+    // // console.log("project_areas")
+    // // console.dir(project_areas)
+    // data.yaml.maker_answers["How do you plan to use these resources to make change?"] = how_use_resources
+
 
 
 
@@ -1057,6 +1056,7 @@ function processFile(filename) {
       }
     })
   }
+  */
 
 
 
@@ -1315,6 +1315,19 @@ function processFile(filename) {
   //   data.yaml.project_summary = data.yaml.maker_answers.brief
   // }
 
+  // if (data.yaml.maker_answers) {
+  //   delete data.yaml.maker_answers['Please include a detailed budget of how you will use $100,000 to implement this project.']
+  //   delete data.yaml.maker_answers['How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?']
+  //   delete data.yaml.maker_answers.cost
+  //   delete data.yaml.maker_answers.budget
+  //   delete data.yaml.maker_answers['budget explanation']
+  // }
+
+  // delete data.yaml.project_summary_backup
+
+  // delete data.yaml['Please include a detailed budget of how you will use $100,000 to implement this project.']
+
+  // delete data.yaml['How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?']
 
   saveMarkdown(filename, data)
 }

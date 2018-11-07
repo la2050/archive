@@ -15,8 +15,8 @@ project_video: ''
 project_areas:
   - CENTRAL LA
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: 'Bronx, NY'
   org_website: www.ghettofilm.org
   org_twitter: www.twitter.com/ghettofilm
   org_facebook: www.facebook.com/ghettofilmschool
@@ -60,7 +60,7 @@ maker_answers:
   org_name: Ghetto Film School
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: 'Bronx, NY'
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '0'
@@ -83,8 +83,6 @@ maker_answers:
   achievable_goal: "Year 1 of GFS LA began June 16, 2014. Ghetto Film School's Los Angeles office is run by a dedicated staff committed to overseeing the implementation of the Fellows Program in Los Angeles. \r\n\r\nGFS LA is run by Executive Director Stosh Mintek, who has over 10 years experience leading GFS programs & development. Mr. Mintek oversaw the launch of GFS LA, and is currently in charge of its design, publicity, & fundraising. \r\n\r\nThe GFSLA Program Coordinator, Alvy Johnson, is a GFS alumna with over six years of experience leading GFS classes & Thesis Trips abroad. She oversees recruitment, instruction, and pedagogy. \r\n\r\nThe Program is also assisted by Teaching Artists, Filmmakers in Residence, and an Industry and College Coordinator. Essential to instruction are the many visiting Guest Artists --- working directors, producers screenwriters, cinematographers, and editors working in the industry (2014 Guest Artists include David O. Russell, Catherine Hardwicke, Ken Ziffren, among many others). \r\n\r\nWith support from industry partners and professionals, GFS LA has unprecedented access to the film industry in Los Angeles. Using the award-winning curriculum developed over the past fifteen years in New York City, GFS LA will continue to serve 25 young Los Angeles filmmakers annually.  "
   major_challenges: "1) New Location: Ghetto Film School has been operating in the South Bronx section of New York City for the past fifteen years, and our MacArthur Park location is an expansion of our operation to the west coast. In order to make sure that we develop roots in the community, we have connected with community leaders -- including Heart of Los Angeles (HOLA), an acclaimed non-profit organization that empowers thousands of local youth. By partnering with HOLA, GFS hopes to develop lasting relationships with other artistic groups and non-profits, as well as expand our outreach to the youth in Los Angeles.\r\n\r\n2) Sustainability of Culture: As we expand, it is crucial that Ghetto Film School maintain the same culture and model that has been so successful for the past fifteen years. If our curriculum is to be truly replicable, we need to ensure that all elements of the model are maintained and implemented by all new teachers and administrators. In order to accomplish this, GFS is establishing a new series of orientation and staff training sessions that will work to establish and generate in all GFS staff the culture that makes Ghetto Film School's creative education model unique and effective. "
   competition: "While there are a variety of arts programs and services for youth in LA, none of them use our model, which:\r\n\r\na) involves a deep, long-term commitment of resources and training to a select pool of diverse teenage storytellers;\r\n\r\nb) connects program participants directly with industry leaders (David O. Russell, Lee Daniels, Peter Rice, Greg Mooradian, Jeremy Kramer, etc) who teach workshops and courses that engage filmmaking as a creative, academic and professional practice;\r\n\r\nc) effectively and exclusively teaches narrative filmmaking, because we believe that narrative filmmaking incorporates all areas of creative expression and developing valuable transferable skills. \r\n\r\nOther points that make GFS unique include:\r\na) an explicit goal to connect young people from diverse backgrounds to professional opportunities across creative fields;\r\n\r\nb) a theory of change grounded in High Expectations for our students, mirroring the realities of creative industries.\r\n\r\nThis approach – combined with a visionary Board of Directors and Filmmaker Council, industry-­grade technology resources, and direct access to global film and media businesses – enables GFS to achieve a unique kind of performance as a creative education institution."
-  cost: "Year 1 of GFS LA will cost $600,000. Personnel costs are $255,300, OTPS are $244,700, and GFS Overhead is $100,000. \r\n\r\n21st Century Fox is the lead sponsor for GFS LA and will provide funding for a significant portion of GFS LA's first year of operation. \r\n\r\nOther pending and confirmed funders include Telemundo, Bloomberg, Hollywood Foreign Press Association, and News Corporation. "
-  budget: "$100,000 from LA2050 will go towards personnel costs, rent of the space in MacArthur Park, and film equipment.\r\n\r\n$40,000 -- GFS LA Executive Director Salary ($105,000)\r\n$30,000 -- Rent ($4k/month x 13months in Year 1 = $52,000)\r\n$30,000 -- Equipment ($52,000)"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

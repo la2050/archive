@@ -17,8 +17,8 @@ project_areas:
   - SFV
   - SOUTH BAY
 maker_answers:
+  metrics_live_selfsufficiency: '1'
   metrics_live_healthyfood: '0'
-  city_state: 'Encino, CA'
   org_website: www.mendpoverty.org
   org_twitter: mendpoverty
   org_facebook: www.facebook.com/mendpoverty
@@ -73,7 +73,7 @@ maker_answers:
   org_name: Meet Each Need with Dignity
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '1'
+  city_state: 'Encino, CA'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '0'
@@ -119,10 +119,6 @@ maker_answers:
     serve low-income patients who have no health insurance and are not entitled
     to Medicare or Medi-Cal benefits. 
   competition: "There is no other single organization in Los Angeles that has as many comprehensive services to a community as MEND.  Operationally MEND is unique. It’s privately funded – no regular government funding. There is low overhead cost, generally less than six percent (MEND is 99% volunteer driven). Staff is hired only when programs grow too large for volunteers to handle.\r\n\r\nMEND has become a recognized leader in providing basic services, including the second largest foodbank in LA County; a clothing distribution center that looks like an attractive retail \r\nstore; a holistic Health Clinic that includes medical, dental, vision, and counseling services; needs assessment through home visiting; information plus referral and a large Christmas basket \r\nprogram.  But more importantly, MEND’s mission compels the organization to provide empowerment services that include an Education and Training Center with classes and tutoring for adults and neighborhood children; a gardening training program through its foodbank intended to alleviate hunger and food insecurity; a wide range of health service programs; and special events held throughout the year, each of which includes educational components enabling clients to lead healthier, more productive lives.  All this is unique in several other respects: There is a holistic approach to relieving the effect of poverty, as evidenced by the broad array of services provided under one roof and the opportunity to access these services through many client entry points. Secondly, every service MEND provides has a “pathway to self-reliance.” so clients are shown how to incorporate the service into their lives to live better and contribute to society as caring human beings. Finally, on-going valued collaborations (covered earlier) are part of MEND’s leveraged manpower.\r\n"
-  cost: >-
-    The operating expence will be $492,415. Other costs will be funded by
-    donations, fund raising activities and private/public grants.
-  budget: "The $100,000 will be applied appropriately to high priority parts of the medical program budget below, including Diabetic Clinic Special Medication.\r\n\r\n\t\r\nMedical Program\r\nSalaries\t     131,358 \r\nSenior Staff Support\t\r\nMedical Clinic Manager\t\r\nMedical Assistant\t\r\nOptometrist\t\r\nEmployer Taxes and Benefits\t      23,960 \r\nContingency \t           300 \r\nPostage\t             50 \r\nProfessional Liability Insurance\t        3,000 \r\nPharmaceuticals\t      36,000 \r\nLaboratories\t      25,000 \r\nMedical Office Equipment\t        1,000 \r\nMedical Supplies\t        5,000 \r\nOffice Supplies\t        1,300 \r\nBioWaste/Trash\t        1,400 \r\nProfessional Dues/Licenses\t        4,500 \r\nProfessional Development\t        1,100 \r\nHealth Fair\t           250 \r\nVOIP, T1 Internet and Phone\t        1,400 \r\nVision Clinic Supplies\t      27,500 \r\nDiabetic Clinic Special Medication\t     144,000 \r\nDiabetic Test Strips\t      16,000 \r\nDiabetic Supplies\t        6,500 \r\nComputer expense\t           306 \r\nEquipment rental\t        3,615 \r\nInsurance\t        6,796 \r\nWorker's Comp Iins.\t        3,281 \r\nInterest\t           230 \r\nJanitorial\t        7,079 \r\nLicense and permits\t             68 \r\nMiscellaneous\t           536 \r\nOffice expenses\t        2,659 \r\nPostage\t           230 \r\nPrinting\t           765 \r\nProfessional fees\t        2,586 \r\nProperty taxes\t           918 \r\nRepairs and maintenance\t      16,007 \r\nOn-Call Security\t           668 \r\nSupplies\t        2,040 \r\nTelephone\t           311 \r\nUtilities\t      14,705 \r\n\t\r\n\t\r\n \t \r\nTotal operating expense\t     492,415 \r\n\t\r\nIn-Kind expense\t     630,000 \r\n\t\r\nTotal expense\t  1,122,415 \r\n\t\r\n% of total budget\t8%\r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

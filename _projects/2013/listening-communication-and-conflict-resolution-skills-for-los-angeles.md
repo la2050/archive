@@ -20,12 +20,17 @@ project_summary: >-
 project_image: 'https://img.youtube.com/vi/-wRfwMCYTHY/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/-wRfwMCYTHY'
 maker_answers:
+  description1: >-
+    More than 2,000 members of the public were trained by Avis Ridley-Thomas in
+    the years that I oversaw the Los Angeles City Attorney's Dispute Resolution
+    Program of the Office of the Los Angeles City Attorney.  Emeritus UCLA
+    Professor Buzz Wilms initiated a class at UCLA in 2001, and hundreds of
+    undergraduates have been trained as a result of that class.
   success: >-
     We will train and work with hundreds of people who want to find better ways
     of communicating and resolving conflict.  They will obtain a better
     understanding of community resources to assist them, and learn to intervene
     effectively to help resolve disputes wherever they occur.
-  Organization Name: Institute for Nonviolence in Los Angeles
   Indicator: ' Social Connectedness'
   brief: >-
     This idea will provide those who wish to learn listening, communication and
@@ -38,7 +43,6 @@ maker_answers:
     communication and conflict resolution skills.  This will help move Los
     Angeles toward more effectively addressing the inevitable conflict that we
     encounter in the most constructive ways possible.  
-  budget explanation: "Staff salaries and benefits $ 75,000.\r\nRent and parking $ 12,000.\r\nTravel and Training  $ 5,000.\r\nEquipment $ 5,000.\r\nSupplies $ 3,000.\r\nGrand total - $ 100,000."
   description: >-
     It will help advance the mission of "a mediator on every block," allowing
     neighbors, co-workers and family members to better interact and create more
@@ -48,12 +52,7 @@ maker_answers:
     community in Los Angeles.  All of these collaborators will be made aware and
     invited to participate in this initiative, if it is selected for funding.
   website: www.invla.org
-  description1: >-
-    More than 2,000 members of the public were trained by Avis Ridley-Thomas in
-    the years that I oversaw the Los Angeles City Attorney's Dispute Resolution
-    Program of the Office of the Los Angeles City Attorney.  Emeritus UCLA
-    Professor Buzz Wilms initiated a class at UCLA in 2001, and hundreds of
-    undergraduates have been trained as a result of that class.
+  Organization Name: Institute for Nonviolence in Los Angeles
   description3: >-
     The Institute for Nonviolence in Los Angeles currently works with any and
     all groups who are working for nonviolence and dispute resolution.  We are
@@ -110,11 +109,5 @@ What would success look like in the year 2050 regarding your indicator?: >-
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/listening-communication-and-conflict-resolution-skills-for-los-angeles/img.youtube.com/vi/-wRfwMCYTHY/maxresdefault.jpg
 youtube_video_identifier: '-wRfwMCYTHY'
-project_summary_backup: >-
-  More than 2,000 members of the public were trained by Avis Ridley-Thomas in
-  the years that I oversaw the Los Angeles City Attorney's Dispute Resolution
-  Program of the Office of the Los Angeles City Attorney.  Emeritus UCLA
-  Professor Buzz Wilms initiated a class at UCLA in 2001, and hundreds of
-  undergraduates have been trained as a result of that class.
 
 ---

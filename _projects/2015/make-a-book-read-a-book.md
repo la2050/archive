@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - Westside
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): '11720 Washington Place, Los Angeles, CA 90066'
   Organization(s) website(s): www.bookartsla.org
   Organization(s) twitter handle(s): www.twitter.com/BookArtsLA
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): BookArtsLA
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -121,8 +121,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Survey participants, administrations and our own metric for success which are:\r\n•\tDid children enjoy the process of creating their own books?\r\n•\tDid students learn about their chosen subject?\r\n•\tDid they increase their reading and writing skills?\r\n•\tDid teachers feel that students increased their skills and enthusiasm for their subject and school?\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Currently, BookArtsLA does not believe that an organization exists in the Los Angeles area whose mission is to teach or promote learning by making books.\r\n\r\nBookArtsLA is the only book arts organization in the Los Angeles area that provides outreach to the public via classes, lectures, library programs and other public events.  Other arts organizations bring visual arts programs to schools.  Our intent is to enhance leaning and literacy via handmade books.\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': None
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': No additional costs.  The program is scalable to the budget.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Start up:\r\n1. Managing educator, school meetings and coordination,\r\n    Interview and selection of teachers, training: $5,040\r\n2. Lesson plans, organize materials, prototype lesson plans: $5,840\r\n3. Evaluation forms, purchase materials, equip: $5,100\r\n4. Social media consultant: $5,760\r\n\r\nImplementation:\r\n1.  Two teams of two teachers each: $34,560\r\n2.  Overhead: $36,000\r\n\r\nClose-Out:\r\n1.  Summary of metrics and recommendations: $2,800\r\n\r\nContingency: $4,900\r\nTotal budget: $100,000\r\n    "
   How do you plan to scale the success of your proposal?: "We are currently focusing on underserved elementary schools in our immediate area.  This program can be expand by:\r\n1.\tIdentify schools out of our immediate area and implement the program with the assistance of new participating schools.  The program would concentrate on grades 3-5.\r\n2.\tPrototype the program in a middle school grades 6-8.  Adjust and expand into the local schools as a start.\r\n3.\tReach out to the wider school system and invite schools to apply to the program.\r\n4.\tPublish the results of the program so other schools are aware of the program.\r\n"
 areas_impacted: ''
 partners: ''
@@ -179,24 +177,6 @@ Are there other organizations doing similar work (whether complementary or compe
    
    BookArtsLA is the only book arts organization in the Los Angeles area that provides outreach to the public via classes, lectures, library programs and other public events. Other arts organizations bring visual arts programs to schools. Our intent is to enhance leaning and literacy via handmade books.
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': None
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': No additional costs. The program is scalable to the budget.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Start up:
-   1. Managing educator, school meetings and coordination,
-    Interview and selection of teachers, training: $5,040
-   2. Lesson plans, organize materials, prototype lesson plans: $5,840
-   3. Evaluation forms, purchase materials, equip: $5,100
-   4. Social media consultant: $5,760
-   
-   Implementation:
-   1. Two teams of two teachers each: $34,560
-   2. Overhead: $36,000
-   
-   Close-Out:
-   1. Summary of metrics and recommendations: $2,800
-   
-   Contingency: $4,900
-   Total budget: $100,000
 How do you plan to scale the success of your proposal?: >-
   We are currently focusing on underserved elementary schools in our immediate
   area. This program can be expand by:

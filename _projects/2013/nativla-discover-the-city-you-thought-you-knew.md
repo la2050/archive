@@ -76,8 +76,32 @@ project_summary: >-
 project_image: 'https://img.youtube.com/vi/Dq2cY1SKlFQ/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Dq2cY1SKlFQ'
 maker_answers:
+  description1: >-
+    Though NativLA does not yet exist, it will coalesce my years of experience
+    with nature and the environment.  While earning a BA in Journalism at the
+    University of North Carolina at Chapel Hill, I created the show Habitat for
+    UNC-CH Cable TV on the abundance of nature found on campus.  I spent summers
+    interning at 60 Minutes, The New York Times and studying with the Wildlands
+    Studies Program through San Francisco State University.  My first job out of
+    college was shadowing an environmental reporter at CBS affiliate WRAL-TV in
+    Durham, NC where I put together a reel which landed me my first job
+    reporting, at NBC affiliate KIEM-TV in Eureka, CA.  As morning and then
+    evening anchor, I wrote, produced and filmed dozens of stories on the local
+    environment, including a three-part special on Coho salmon and their plight,
+    and stories on the headwaters of the old growth coastal redwoods in Humboldt
+    County. After moving to Los Angeles, I wrote and produced nature
+    documentaries for television, including Earth’s Fury, Storm Warning and The
+    Top 10 Environmental Disasters.  When I chose to leave the workforce and
+    start a family, I created my own company called Dutch Touch Art designing
+    and commissioning a series of hand-painted oils for the design industry,
+    based on the Netherland’s Golden Age and their iconic depictions of nature
+    in the wild.  Currently, I am Chair of a non-profit organization called
+    Friends of Wonderland, which raises over $450K annually for Wonderland
+    Elementary School in Laurel Canyon.  We provide the enrichment programs that
+    Los Angeles United School District (LAUSD) no longer funds, including PE,
+    library, music and art.  We also ask, where field trips are concerned, that
+    the parents carpool and pay for all admission fees. 
   success: "Success will be measured in three phases: Now, Middle Future and Future\r\n\r\nRight now we have a lot of ground to cover, 4,084 square miles to be exact.  This first phase of the project will serve as a proof of concept.  Success will mean a fully developed mobile application and web presence, with an enticing brand and clear message for the citizens of Los Angeles to engage, be informed and interact with their urban nature.  \r\n\r\nRight now students all over this city are trapped in classrooms without any field trips on the school calendar. A test run of NativLA Field Trips needs to be activated as part of this initial phase.  By focusing on elementary schools in a test district such as South LA, we will populate the map with nature and wildlife destinations, as well as have Nativ Ambassadors ready to open their urban operations to educate and inspire.   Additionally we will provide the sample online materials that will allow teachers and students to delve deeper into each destination. \r\n\r\nThe middle future is to determine the business model that will sustain the project.  For-profit methods include approaching investors, integrated advertising and charging for each app download.  Another approach will be taking the proof of concept to an existing mobile app company like YELP and pitching the concept as their non-profit entity.  Nativ could be “powered by Yelp” or something similar. \r\n\r\nIn the future, NativLA will serve as a proving ground for an approach to urban nature that will be duplicated in every metropolitan city throughout the United States and the world.   And in combining a full featured web-presence with the mobile app, every user, regardless of their socio-economic standing, will have complete access to all Nativ has to offer citizen-scientists around the globe. \r\n"
-  Organization Name: Nativ
   Indicator: ' Environmental Quality'
   brief: >-
     NativLA is a geo-location mobile app that will provide a YELP-like
@@ -148,35 +172,10 @@ maker_answers:
     According to the Center for Eco Literacy, place-based learning encourages
     students to experience the natural world and better understand the places
     where we live, work and learn. 
-  budget explanation: "Mobile App & Website \t4-6 months\t$60K\r\n(Visual design, custom build of iOS and Android apps and a brochure website presence for this phase. )\t\t\t\r\n\r\nFramework for Location-Based Field Guide & Nativ Field Trips\r\n8 months\t$625/wk \t$20K\r\n(Research Assistant to build out supporting framework for Location Based Field Guild and assist with developing test sites for Nativ Field Trips’ including interactive features for teachers and students.)\t\t\t\r\n\r\nProject Dir. Stipend & Expenses \t\r\n8 months\t$625/wk\t        $20K\r\n(Gas expenses, meals on location and materials & supplies (printing paper, ink cartridges)\t\t\t\r\n\r\nTOTAL\t$100,000.00\r\n"
   description: "According to the LA2050 report, the environment where people live, work and play is a key component of quality of life.  But in the City of L.A., only 8% of the land surface is public parks and only 29% of L.A. residents live within a quarter-mile of a public park, leaving more than 600,000 children without access.\r\n\r\nWhile the city strives to create more equitable greenspaces, NativLA’s mission will be to connect all Angelenos to urban nature opportunities in every neighborhood in the city, inspiring environmental stewardship and fostering a city-wide understanding of how nature sustains life. \r\n\r\nAccording The Center for Eco Literacy, nature is our teacher, sustainability is a community practice, and sustainable living is rooted in a deep knowledge of place.  \r\n\r\n“When people acquire a deep knowledge of a particular place, they care about what happens to the landscape, creatures, and people in it. When they understand its ecology and diversity, the web of relationships it supports, and the rhythm of its cycles, they develop appreciation and a sense of kinship with their surroundings. Places known deeply are deeply loved, and well-loved places have the best chance to be protected and preserved for future generations.” – Center for Eco Literacy\r\n"
   collaborators: "Partnering with mobile app company Inside.com, NativLA’s unique interface for both mobile and tablet users will be easy to touch, navigate and share.  Core modes such as Spottings and the Location-based Field Guide will be easy to see and access.  The focus will be on images, icons to represent actions and clean, crisp typography.  There will be easy access to search and sharing features making for a great user experience.\r\n\r\nAdditional collaborators include:\r\nAnnemarie Ralph, Dir. of Environmental Science Magnet at Thomas Starr King Middle School\r\nThe Children’s Nature Institute\r\nLA Urban Rangers\r\nInstitute of Urban Ecology\r\nThe Growing Home\r\nEnrich LA\r\nLos Angeles Community Garden Council\r\nFallen Fruit\r\nRootSimple\r\nSHFT.com\r\n"
   website: www.nativla.com
-  description1: >-
-    Though NativLA does not yet exist, it will coalesce my years of experience
-    with nature and the environment.  While earning a BA in Journalism at the
-    University of North Carolina at Chapel Hill, I created the show Habitat for
-    UNC-CH Cable TV on the abundance of nature found on campus.  I spent summers
-    interning at 60 Minutes, The New York Times and studying with the Wildlands
-    Studies Program through San Francisco State University.  My first job out of
-    college was shadowing an environmental reporter at CBS affiliate WRAL-TV in
-    Durham, NC where I put together a reel which landed me my first job
-    reporting, at NBC affiliate KIEM-TV in Eureka, CA.  As morning and then
-    evening anchor, I wrote, produced and filmed dozens of stories on the local
-    environment, including a three-part special on Coho salmon and their plight,
-    and stories on the headwaters of the old growth coastal redwoods in Humboldt
-    County. After moving to Los Angeles, I wrote and produced nature
-    documentaries for television, including Earth’s Fury, Storm Warning and The
-    Top 10 Environmental Disasters.  When I chose to leave the workforce and
-    start a family, I created my own company called Dutch Touch Art designing
-    and commissioning a series of hand-painted oils for the design industry,
-    based on the Netherland’s Golden Age and their iconic depictions of nature
-    in the wild.  Currently, I am Chair of a non-profit organization called
-    Friends of Wonderland, which raises over $450K annually for Wonderland
-    Elementary School in Laurel Canyon.  We provide the enrichment programs that
-    Los Angeles United School District (LAUSD) no longer funds, including PE,
-    library, music and art.  We also ask, where field trips are concerned, that
-    the parents carpool and pay for all admission fees. 
+  Organization Name: Nativ
   description3: >-
     We don’t see any direct competition in the marketplace today but rather
     invaluable sources of inspiration. NativLA will combine elements from
@@ -481,29 +480,5 @@ What would success look like in the year 2050 regarding your indicator?: >+
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/nativla-discover-the-city-you-thought-you-knew/img.youtube.com/vi/Dq2cY1SKlFQ/maxresdefault.jpg
 youtube_video_identifier: Dq2cY1SKlFQ
-project_summary_backup: >-
-  Though NativLA does not yet exist, it will coalesce my years of experience
-  with nature and the environment.  While earning a BA in Journalism at the
-  University of North Carolina at Chapel Hill, I created the show Habitat for
-  UNC-CH Cable TV on the abundance of nature found on campus.  I spent summers
-  interning at 60 Minutes, The New York Times and studying with the Wildlands
-  Studies Program through San Francisco State University.  My first job out of
-  college was shadowing an environmental reporter at CBS affiliate WRAL-TV in
-  Durham, NC where I put together a reel which landed me my first job reporting,
-  at NBC affiliate KIEM-TV in Eureka, CA.  As morning and then evening anchor, I
-  wrote, produced and filmed dozens of stories on the local environment,
-  including a three-part special on Coho salmon and their plight, and stories on
-  the headwaters of the old growth coastal redwoods in Humboldt County. After
-  moving to Los Angeles, I wrote and produced nature documentaries for
-  television, including Earth’s Fury, Storm Warning and The Top 10 Environmental
-  Disasters.  When I chose to leave the workforce and start a family, I created
-  my own company called Dutch Touch Art designing and commissioning a series of
-  hand-painted oils for the design industry, based on the Netherland’s Golden
-  Age and their iconic depictions of nature in the wild.  Currently, I am Chair
-  of a non-profit organization called Friends of Wonderland, which raises over
-  $450K annually for Wonderland Elementary School in Laurel Canyon.  We provide
-  the enrichment programs that Los Angeles United School District (LAUSD) no
-  longer funds, including PE, library, music and art.  We also ask, where field
-  trips are concerned, that the parents carpool and pay for all admission fees. 
 
 ---

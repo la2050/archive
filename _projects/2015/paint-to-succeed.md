@@ -17,8 +17,8 @@ project_video: 'https://www.youtube.com/embed/s-SSOCwgWEs'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: mujeres de la tierra
   Organization(s) name(s): 'Siqueiros Foundation of the Arts '
   Organization(s) mailing address(es): "2631 1/2 Cullen Street \r\nLos Angeles, CA 90034"
   Organization(s) website(s): 'siqueirosfoundatio.wix.com/sfota#!join/cihc'
@@ -63,7 +63,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: mujeres de la tierra
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -133,12 +133,6 @@ maker_answers:
     We would like to include Homeboy industries with Fabian Debora. This
     organization will recieve if agreed 20% of funds established for each
     mural. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We have estimated that each mural will cost 20,000.00 - 25,000.00 which will
-    include aminstration fees, materials, and payed fee for each muralist,
-    graffiti artist, and fine artist who will be over seeing the process from
-    beginning to end for each mural 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Permits: 200.00-1000.00 depending on wall size\r\nBrushes.Paint,spray cans, rags, buckets: 3000.00- 6000.00\r\nScaffolding rental: 200.00 to 500.00 per day \r\nAdministration fees: 2500.00\r\nCelebration of community mural festival and mural dedication that will attend the completion of each mural. 5000.00\r\nPayment for Muralist, Graffiti artist and Fine artist:approximately 10,000"
   How do you plan to scale the success of your proposal?: >-
     Under the guidance of a professional muralist the process of creating a
     mural will be clearly laid out, from community involvement, to subject
@@ -172,18 +166,6 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
   We would like to include Homeboy industries with Fabian Debora. This
   organization will recieve if agreed 20% of funds established for each mural.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We have estimated that each mural will cost 20,000.00 - 25,000.00 which will
-  include aminstration fees, materials, and payed fee for each muralist,
-  graffiti artist, and fine artist who will be over seeing the process from
-  beginning to end for each mural
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Permits: 200.00-1000.00 depending on wall size
-   Brushes.Paint,spray cans, rags, buckets: 3000.00- 6000.00
-   Scaffolding rental: 200.00 to 500.00 per day 
-   Administration fees: 2500.00
-   Celebration of community mural festival and mural dedication that will attend the completion of each mural. 5000.00
-   Payment for Muralist, Graffiti artist and Fine artist:approximately 10,000
 How do you plan to scale the success of your proposal?: >-
   Under the guidance of a professional muralist the process of creating a mural
   will be clearly laid out, from community involvement, to subject matter, to

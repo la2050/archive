@@ -25,8 +25,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  'City, State': Los Angeles
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: Applied Last year; heard from a friend
   Organization(s) name(s): Tickleberry Place
   Organization(s) mailing address(es): 3876 S. Victoria Ave LA CA 90008
   Organization(s) website(s): www.tickleberryplace.com
@@ -76,7 +76,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  'City, State': Los Angeles
+  How did you hear about this challenge?: Applied Last year; heard from a friend
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -147,8 +147,6 @@ maker_answers:
     benefits from our presence by bringing more families to the the farmers
     market. We also will be be providing childcare and activities for Los
     Angeles Community Garden Council at their annual Community Garden event. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The total cost of opening Tickleberry Place to the community is estimated to be $500,000. The additional costs will be covered by funds acquired through investors.  \r\n\r\nHere is the details of our costs: \r\n\r\nBrand Building and Advertising\r\nSocial Media Management: $500\r\nT-shirts: $1,000\r\nWebsite design, development, and management: $3,000\r\nShort films & videos: $1,000\r\n\r\nPlay Equipment\r\nCost for Basic Active Gym system: $35,000\r\nProtective equipment: $4,000\r\nTotal Cost of toys (Toddler and older kids): $10,000\r\n\r\nBuilding and Design\r\nDecor (furniture, paint, art, artifacts): $20,000\r\nConstruction: $270,000\r\nLeasing & Utilities: $40,000 (First 2 months)\r\n\r\nKitchen & Café\r\nLarge Kitchen Appliances (oven, refrigerator): $15,000\r\nSmall Appliances (coffee/latte maker): $3,000\r\nCooking utensils/Tools: $1,000\r\n\r\nAdministration & Supplies\r\nMaintenance materials: $1,000\r\nComputer systems: $8,000\r\nSupplies: $2,000\r\nEmployee training: $30,000\r\n\r\nOther Expenses\r\nOther expenses (Insurance and consulting): $55,500\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Since the total cost to open Tickleberry Place is $500,000 we will use the $100,000 to cover a portion of the above costs, in addition to hiring employees, community outreach, event materials, a temporary space, and operating fees. \r\n\r\nDetailed breakout of budget for $100,000:\r\nSocial Media Management: $500 for two months\r\nT-shirts: $1,000\r\nShort films & videos: $1,000\r\nSupplies Art & Gardening Activities: $400\r\nEmployees: $10,000\r\nLegal Consulting: $1,000\r\nVenue/Space: $10,000\r\nCost for Basic Active Gym system: $35,000\r\nProtective equipment: $4,000\r\nTotal Cost of toys (Toddler and older kids): $10,000\r\nMaintenance materials: $1,000\r\nComputer systems: $8,000\r\nSupplies: $2,000\r\nInsurance and Consulting Fees: 16,600\r\n"
   How do you plan to scale the success of your proposal?: "Increased Community engagement and support\r\nThe amount of shares we receive on social Media\r\nIncreased number of partnerships\r\nIncreased number at events\r\n"
 areas_impacted: ''
 partners: ''
@@ -214,63 +212,6 @@ Are there other organizations doing similar work (whether complementary or compe
   presence by bringing more families to the the farmers market. We also will be
   be providing childcare and activities for Los Angeles Community Garden Council
   at their annual Community Garden event.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The total cost of opening Tickleberry Place to the community is estimated to
-  be $500,000. The additional costs will be covered by funds acquired through
-  investors. 
-   
-   Here is the details of our costs: 
-   
-   Brand Building and Advertising
-   Social Media Management: $500
-   T-shirts: $1,000
-   Website design, development, and management: $3,000
-   Short films & videos: $1,000
-   
-   Play Equipment
-   Cost for Basic Active Gym system: $35,000
-   Protective equipment: $4,000
-   Total Cost of toys (Toddler and older kids): $10,000
-   
-   Building and Design
-   Decor (furniture, paint, art, artifacts): $20,000
-   Construction: $270,000
-   Leasing & Utilities: $40,000 (First 2 months)
-   
-   Kitchen & Café
-   Large Kitchen Appliances (oven, refrigerator): $15,000
-   Small Appliances (coffee/latte maker): $3,000
-   Cooking utensils/Tools: $1,000
-   
-   Administration & Supplies
-   Maintenance materials: $1,000
-   Computer systems: $8,000
-   Supplies: $2,000
-   Employee training: $30,000
-   
-   Other Expenses
-   Other expenses (Insurance and consulting): $55,500
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Since the total cost to open Tickleberry Place is $500,000 we will use the
-  $100,000 to cover a portion of the above costs, in addition to hiring
-  employees, community outreach, event materials, a temporary space, and
-  operating fees. 
-   
-   Detailed breakout of budget for $100,000:
-   Social Media Management: $500 for two months
-   T-shirts: $1,000
-   Short films & videos: $1,000
-   Supplies Art & Gardening Activities: $400
-   Employees: $10,000
-   Legal Consulting: $1,000
-   Venue/Space: $10,000
-   Cost for Basic Active Gym system: $35,000
-   Protective equipment: $4,000
-   Total Cost of toys (Toddler and older kids): $10,000
-   Maintenance materials: $1,000
-   Computer systems: $8,000
-   Supplies: $2,000
-   Insurance and Consulting Fees: 16,600
 How do you plan to scale the success of your proposal?: |-
   Increased Community engagement and support
    The amount of shares we receive on social Media

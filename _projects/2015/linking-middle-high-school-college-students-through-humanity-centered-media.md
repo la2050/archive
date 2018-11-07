@@ -19,8 +19,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): '65 S. Grand Ave, Pasadena CA 90101'
   Organization(s) website(s): www.mediadoneresponsibly.org
   Organization(s) twitter handle(s): www.twitter.com/mediadoneresp
@@ -60,7 +60,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Media Done Responsibly c/o Pasadena Arts Council
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -144,12 +144,6 @@ maker_answers:
     and Mount Saint Mary's University. $45,000 will be split between them to
     provide internships within the schools and our media partners for their
     student interns. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The costs for launching will be approximately $150,000. We offer TV tapings,
-    local concerts and event, and an annual event to help offset the cost. In
-    addition, we'll continue to do outreach to grant partners, media sponsors,
-    and our donors. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$45k- 10 month internship stipend for 3 students\r\n$15k- Curriculum production and distribution\r\n$20k- Train the trainer inservice for teachers at partner schools\r\n$40k- Project manager salary"
   How do you plan to scale the success of your proposal?: >-
     As we launch, we'll begin to license our media literacy curriculum and
     replicate programs at additional university partners. We currently have
@@ -163,8 +157,6 @@ Please list at least one major barrier/challenge you anticipate. What is your st
 Please explain how you will evaluate your work.: '#N/A'
 Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/linking-middle-high-school-college-students-through-humanity-centered-media/img.youtube.com/vi/H107Gy4bTFs/hqdefault.jpg

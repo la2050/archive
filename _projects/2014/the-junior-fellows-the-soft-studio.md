@@ -21,12 +21,12 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_learn_communitycollege: '1'
   collaboration: >-
     The Soft Studio seeks to be the intermediary between all the junior colleges
     county-wide, regional four year institutions and the local network of
     startup accelerators to establish a pipeline of support for emerging social
     entrepreneurs.
-  metrics_learn_earlyeducation: '0'
   org_website: 'http://woodbury.edu/'
   org_twitter: '@WoodburyU'
   org_facebook: 'https://www.facebook.com/WoodburyU'
@@ -68,7 +68,7 @@ maker_answers:
   who_benefit: "The Soft Studio targets the crop of millennials who, currently floating in and out of junior college, are in a distinct predicament of wanting to pursue something of personal significance but feel anxious over the diminishing options in this increasingly automated and global economy. \r\n\r\nOur pre-accelerator is a scalable and approachable solution for any junior college student because we first redefine social entrepreneurship as turning “problems into pay.”  The Soft Studio is very frank in its approach to the sometimes idealistic notions of social entrepreneurship. We believe students can both provide a very valuable solution to a real world problem and still fulfill their needs for economic stability and growth at the same time.\r\n\r\nOften junior community college students on the lower end of GPA spectrum find the front loaded General Education requirements irrelevant or unrelated to their interests which can lead to increased chances of dropping out. Given the recent surge in research on early intervention and its effects on retention, the Soft Studio will focus on students who may not fit comfortably into the sequence of higher education but who may be more entrepreneurial in spirit. \r\n\r\nAlthough the Soft Studio’s goal is to provide practical and profitable ideas around a student centered problem, we use the studio as an intervention to also establish creative confidence for all participants who complete the workshop.\r\n\r\nOur students have gone on to take their research to inform a business plan, serve as the foundation for a non-profit or be the motivation for product design. Ultimately, we want to help them develop a strategic plan for their life’s work that will enable them to be the type of ‘career mash-up artist’ that will thrive in this contemporary environment.\r\n"
   about_you: 'Los Angeles, CA'
   org_name: 'Woodbury University '
-  metrics_learn_communitycollege: '1'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '0'
   metrics_learn_graduationrates: '0'
   metrics_learn_proficiency: '0'
@@ -103,8 +103,6 @@ maker_answers:
     organizations that we are trying to engage where we are not duplicating
     their efforts but instead aligning our organizational purpose to provide the
     foundation for collaboration and collective impact.
-  cost: "The majority of costs will be in the design and construction of the pop-up inflatable studio along with the necessary technology for a small mobile prototyping lab and production equipment.\r\n\r\nWe would like to leave $20,000 for special membership projects with a cap on each project of up to $500, to cover such things as the fees for non- profit licensing or material fees. \r\n\r\nGiven the size of the pop up studio and accompanying fans, a separate cargo van for transport will need to be purchased to act as both the generator and to hold the equipment as well as be used as a space."
-  budget: "1. Fabrication of pop up inflatable 30’x30’ research dome by Studio Soufflé: $20,000.\r\n\r\n2. Certified preowned Sprinter cargo van for mobile prototyping and inflatable transport: $25,000. \r\n\r\n3. Learning hardware:\r\nRobox 3-D printer: $1,900- $4,000\r\n2 Apple computer editing design stations: $5,000\r\nVideo production equipment (GoPro, 2 Canon 7-D, steadicams, strobes, lighting equipment): $7,000\r\n\r\n4.  Soft Studio furniture and daily materials: $5,000\r\n\r\n5. Visiting Entrepreneur Workshop Stipends: $10,000\r\n\r\n6. Seed money for membership projects: $20,000\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

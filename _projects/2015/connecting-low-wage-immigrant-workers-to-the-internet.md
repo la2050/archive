@@ -20,8 +20,8 @@ project_areas:
   - San Fernando Valley
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Email
   Organization(s) name(s): Instituto de Educacion Popular del Sur de California (IDEPSCA)
   Organization(s) mailing address(es): 1565 W. 14th Street
   Organization(s) website(s): www.idepsca.org
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: Email
   'City, State': Los Angeles
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -174,8 +174,6 @@ maker_answers:
     able to leverage this funding so that each center can have a mobile literacy
     project. Additionally, IDEPSCA has a close relationship with the MIT Center
     for Civic Media, which we will consult with throughout the project. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'To launch and implement the training program for one year will cost $100,000'
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "\t\t\t\t\t\t\r\n\t\t\r\nS A L A R I E S\t\t\t\t\t\t\r\n\tProgram Manager\t\t\t$36,420.00 \r\n\tOutreach/Trainer \t      \t        $7,800.00 \r\n\t\t\t\t\t\t\r\nSubtotal:   S A L A R I E S\t\t\t\t\t\t$44,220.00 \r\nFRINGE  BENEFITS\t\t\t\t\t% to Total Salaries\t\r\n\tMedicare\t\t\t\t1.45%\t641\r\n\tSocial Security\t\t\t\t6.20%\t2,742\r\n\tSUI\t\t\t\t6.20%\t868\r\n\tWorkers Compensation\t\t\t\t2.63%\t1,163\r\n\tHealth\t\t\t\t19.00%\t8,400\r\n\tTraining Tax\t\t\t\t0.00%\t\r\nSubtotal:   FRINGE BENEFITS\t\t\t\t\t35.48%\t13,814\r\n\tTotal Personnel\t\t\t\t\t58,034\r\nPROJECT EXPENSES\t\t\t\t\t\t\r\n\tTransportation and Mileage\t\tTraining, Monthly Mileage\t\t\t6,200\r\n\tOffice Supplies\t\t\t\t\t1,000\r\n\tPrinting and Reproduction\t\t\t\t\t4,000\r\n\tOuteach\t\tRetractable Banner, Business Cards, Flyer, Pens\t\t\t3,750\r\n\tEquipment\t\tPrinter, Lap To, Projector, Phones\t\t\t2,000\r\n\tProfesional Fee\t\tWireless Phone Plans\t\t\t10,000\r\n\t\t\t\t\t\t\r\n\tAdministrative Benefits\t\t\t\t\t15,000\r\n\t\t\t\t\t\t\r\n\tSubtotal: Project Expenses\t\t\t\t\t$41,950.00 \r\nTOTAL  COSTS\t\t\t\t\t\t$99,983.82 "
   How do you plan to scale the success of your proposal?: >-
     The success of our proposal could be scaled in a number of ways. As a part
     of the National Day Labor Organizing Network and working closely with the
@@ -252,34 +250,6 @@ Are there other organizations doing similar work (whether complementary or compe
   so that each center can have a mobile literacy project. Additionally, IDEPSCA
   has a close relationship with the MIT Center for Civic Media, which we will
   consult with throughout the project.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'To launch and implement the training program for one year will cost $100,000'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  S A L A R I E S 
-   Program Manager $36,420.00 
-   Outreach/Trainer    $7,800.00 
-   
-   Subtotal: S A L A R I E S $44,220.00 
-   FRINGE BENEFITS % to Total Salaries 
-   Medicare 1.45% 641
-   Social Security 6.20% 2,742
-   SUI 6.20% 868
-   Workers Compensation 2.63% 1,163
-   Health 19.00% 8,400
-   Training Tax 0.00% 
-   Subtotal: FRINGE BENEFITS 35.48% 13,814
-   Total Personnel 58,034
-   PROJECT EXPENSES 
-   Transportation and Mileage Training, Monthly Mileage 6,200
-   Office Supplies 1,000
-   Printing and Reproduction 4,000
-   Outeach Retractable Banner, Business Cards, Flyer, Pens 3,750
-   Equipment Printer, Lap To, Projector, Phones 2,000
-   Profesional Fee Wireless Phone Plans 10,000
-   
-   Administrative Benefits 15,000
-   
-   Subtotal: Project Expenses $41,950.00 
-   TOTAL COSTS $99,983.82
 How do you plan to scale the success of your proposal?: >-
   The success of our proposal could be scaled in a number of ways. As a part of
   the National Day Labor Organizing Network and working closely with the AFL-CIO

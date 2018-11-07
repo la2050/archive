@@ -18,8 +18,8 @@ project_areas:
   - EAST LA
   - SOUTH LA
 maker_answers:
+  metrics_learn_communitycollege: '0'
   collaboration: "9 Dots Learning Center is partnering with the Boys & Girls Club of Hollywood to create the IamLA STEAM Campaign. BGCH and 9 Dots have existing partnerships with schools in the Los Angeles Unified School District, and have previously worked together to share curriculum and provide STEAM professional development workshops.  Additional collaborations with local colleges and student organizations from UCLA, USC and CSUN will provide guidance, onsite visits with professors, and real time learning. BGCH has worked with the Office of Admissions from these local colleges and will continue to do so in order to gain access to professors and the hands-on learning experiences we plan to offer our youth leaders. \r\n\r\nThe factors contributing to our success are:\r\n1.\tThe identification and training of Youth Leaders from Boys & Girls Club of Hollywood and 9 Dots\r\n2.\tEstablishing working relationships with the administration at local schools\r\n3.\tBGCH’s 75+ years in youth development programs and 9 Dots expertise in STEAM subjects\r\n\r\n\r\n"
-  metrics_learn_earlyeducation: '0'
   org_website: 'http://www.bgchollywood.com'
   org_twitter: 'http://twitter.com/#%21/BGCHkids'
   org_facebook: 'https://www.facebook.com/bgchollywood'
@@ -71,7 +71,7 @@ maker_answers:
   who_benefit: "The IamLA STEAM Campaign will primarily benefit Los Angeles youth in grades 1-8 in the Los Angeles Unified School District, a demographic that is predominantly low income and African American or Latino. The campaign will also benefit the community at large by creating more young role models and leaders working to better their communities. We believe that the age group we are targeting with our campaign is most likely to develop an interest in STEAM, as they have many more years of school left to continue developing their interest in and knowledge of STEAM before applying to college. In the long run, we hope to see an increase in diversity in STEAM fields.\r\n\r\nOne of the goals of our awareness campaign is to instill in our youth the desire to expand their knowledge of STEAM through involvement in programs like BGCH, 9 Dots, and other STEAM programs. Developing an interest in STEAM during their crucial formative years makes it more possible for youth to pursue STEAM fields. When the youth we serve reach high school, they will be more likely to have a deeper understanding of STEAM, making it an accessible option when applying to college and pursuing a career. \r\n\r\nLos Angeles is an enormously diverse city, and its youth provide an immeasurable wealth of experiences and perspectives that can shape the future of the city and its residents.   We believe that if our youth, who will eventually grow up to become college students and young professionals, play a larger role in STEAM fields, Los Angeles will greatly benefit.\r\n"
   about_you: 'Los Angeles, California'
   org_name: Boys & Girls Club of Hollywood
-  metrics_learn_communitycollege: '0'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '0'
   metrics_learn_graduationrates: '0'
   metrics_learn_proficiency: '0'
@@ -115,12 +115,6 @@ maker_answers:
   competition: >-
     We are not aware of other organizations providing peer to peer STEAM
     presentations to schools at this time.
-  cost: >-
-    The IamLA Campaign budget is $107,344.  The additional costs over $100,000
-    will be covered through the BGCH and 9 Dots’ aggressive fundraising programs
-    garnering funds from grants, individual donations, annual giving, and
-    special events.  
-  budget: "PERSONNEL COSTS\t\r\nBGCH STEAM Coordinator - FT @ 35% $16/hrx52wks\t              $11,648\r\nBGCH STEAM Coordinator - PT 29 hrs@50%$16/hrx52wks\t      $12,064\r\n9 DOTS Program Coord. - PT 29 hrs@50%$16/hrx52wks\t      $12,064\r\n9 DOTS Program Coord. - PT 29 hrs@50%$16/hrx52wks   \t      $12,064\r\nAdmin Assistant - PT 20hrs @ $14/hrx52wks\t                              $14,560\r\nYouth Bus Driver - PT (4 hrs/month@$16.50/hrx9 months)\t      $594\r\nSUBTOTAL\t                                                                                              $62,994\r\nBENEFITS @ 15%\t                                                                              $9,449\r\n                                             TOTAL PERSONNEL\t$72,443\r\n\t\r\nNON-PERSONNEL COSTS\t\r\n2 STEAM Mobile Labs @ $1500 each \t                                                $3,000\r\nLego Robotics kits (EV3) 10 @ $340 each \t                                        $3,400\r\nIamLA T-shirts  1000 @ $6 each \t                                                        $6,000\r\nSignage & Printing\t                                                                                $1,200\r\nWebsite Development \t                                                                        $3,000\r\nSTEAM carnival (500 participants)  \t                                                $3,000\r\nTransportation (gas) \t                                                                                $800\r\nField trips (Youth Leaders) \t                                                                $500\r\n                                           TOTAL NON-PERSONNEL \t$20,900\r\nOVERHEAD 15%\t                                                                              $14,001\r\n                                     TOTAL PROGRAM COST\t       $107,344\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '0'

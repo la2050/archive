@@ -21,8 +21,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '1'
-  city_state: 'Los Angeles, CA'
   org_website: www.lawsoup.org
   org_twitter: www.twitter.com/lawsoupdotorg
   org_facebook: www.facebook.com/lawsoup
@@ -80,7 +80,7 @@ maker_answers:
   org_name: 'Law Soup, Inc.'
   metrics_connect_voting: '1'
   metrics_connect_adultsupport: '0'
-  metrics_connect_traveltime: '0'
+  city_state: 'Los Angeles, CA'
   metrics_connect_culturalevents: '1'
   metrics_connect_publictransit: '0'
   metrics_connect_neighborhoodcouncils: '1'
@@ -110,14 +110,6 @@ maker_answers:
   achievable_goal: "We have already taken preliminary steps to implement the project, including creating a sample of the basic structure of the website and much of the content, and developing a detailed plan to complete the initial implementation. To fully implement the project, we will hire a web designer, a communications/community outreach director, and content editors. We will then finish the initial design and content of the website, and begin outreach, using social media and print media, as well as local events to create buzz about the project. We will continue to add content to the website indefinitely.\r\n\r\nGiven what we have already implemented in just two months, it is reasonable to expect that the initial launch and outreach can be achieved within 6 months. Though of course we will continue to add content to the website and continue our outreach efforts indefinitely. "
   major_challenges: "One major challenge in implementing Law Soup LA is ensuring the accuracy of the information provided. Accuracy can be ensured by checking the information against multiple sources, including possibly consulting with outside lawyers and other experts. We will provide citations to as much content as possible so that people can verify for themselves that the information we provide is reliable. \r\n\r\nThat said, although we will do everything possible to ensure accuracy and reliability, we do not plan to make guarantees about reliability of the information. Law Soup LA will not be a law firm nor provide legal advice, and will not be held liable for incorrect information. The project is more of a starting point for legal inquiries, and the website will encourage users to seek an attorney when appropriate.\r\n\r\nA second major challenge is to ensure that people who use the website can easily navigate it and understand the information presented. We will meet this challenge by performing regular “user testing” to get feedback about the site from users, and will modify the format and content according to the results. We believe in being flexible and adaptable, and if the website is not connecting with users, we will experiment with new ideas to find the best way of accomplishing this goal."
   competition: "There is no other site that we are aware of that provides information about key laws, all in one place, that describes the differences in local laws for each city in L.A. County. Other websites, including those related to pro bono law firms, provide great resources that have in depth explanations of various laws, though not at a local level for all municipalities. In addition, these resources are geared towards assisting people after their rights have been violated, which is a reactive approach rather than a proactive one. In contrast, Law Soup LA is designed to help people take a proactive approach to knowing their rights. With Law Soup LA, people will be able to get a clear and concise breakdown of the laws they need to know to be able to prevent legal issues from arising or face these challenges at the time they occur.\r\n\r\nThese other resources are simply not as user friendly as Law Soup LA will be, since they do not provide the information in a form in which busy, working people will be able to easily and quickly benefit. It takes much time to find the information people need to know, and this deters many people from using these resources. It’s simply not feasible for people to read all of these materials to educate themselves about their rights."
-  cost: >-
-    The project can be fully realized with $100,000 for the first year. But to
-    cover any additional costs in the first year, as well as plan for the
-    future, we plan to produce revenue through selling advertising on the site.
-    In addition, we may create a subscription-based portion of the site geared
-    towards professionals, which would provide more extensive information for a
-    small fee.
-  budget: "Web designer compensation, on contract, to design the site to the specifications described above: $5,000\r\nCommunications/marketing/outreach director compensation, full time for one year: $40,000\r\nContent editors compensation, part time and hourly or paid per post: $25,000\r\nEvents: $5,000\r\nEquipment, including computers, tablets, mobile devices, software, servers and/or server contracts: $5,000\r\nAdvertising & outreach: $5,000\r\nOffice space - rent for small office: $10,000\r\nMiscellaneous: $5,000"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

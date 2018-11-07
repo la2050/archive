@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_learn_communitycollege: '0'
   collaboration: "Confirmed collaborators are East Los Angeles College and the Jaime Escalante Math Program which developed the curriculum and the West San Gabriel Valley Boys and Girls Club who successfully facilitated the pilot with six organizations this spring. Additionally, the Los Angeles County Alliance for Boys and Girls Clubs is committed to implementing Seeding STEM for its 26 member organizations throughout the county as part of its STEM initiative (facilitated by lead agency, West San Gabriel Valley Boys and Girls Club). The LACABGC has existed for over ten years and has a track record of county wide events and initiatives   designed to bring together the collective strengths of the individual organizations which are independent non-profits with their own governing boards (examples include Youth of the Year, Teen Summit and myriad program and training opportunities). Three factors critical to the success of this collaboration are the commitment of organization leadership in providing the space and staffing for the twelve week program, staff commitment to training (13 hours), and the facilitation of pre and post perception and interest surveys to measure impact.\r\n\r\nLos Angeles County Alliance for Boys and Girls Clubs:\r\nAntelope Valley Boys & Girls Club\r\nBoys & Girls Club of Carson\r\nBoys & Girls Club of Hollywood\r\nBoys & Girls Club of Malibu\r\nBoys & Girls Club of Pasadena\r\nBoys & Girls Club of Pomona Valley\r\nBoys & Girls Club of San Fernando Valley\r\nBoys & Girls Club of Venice\r\nBoys & Girls Club of West San Gabriel Valley \r\nBoys & Girls Club of Whittier\r\nBoys & Girls Clubs of Long Beach\r\nBoys & Girls Clubs of Santa Monica\r\nBoys & Girls Clubs of the Foothills\r\nBoys & Girls Clubs of the Los Angeles Harbor\r\nBoys & Girls Clubs of the South Bay\r\nChallengers Boys & Girls Club\r\nEast Los Angeles Boys & Girls Club\r\nEast Valley Boys & Girls Club\r\nFort MacArthur Youth Center\r\nLos Angeles Boys & Girls Club\r\nSalesian Boys & Girls Club of Los Angeles\r\nSanta Clarita Valley Boys & Girls Club\r\nThe Boys & Girls Club of Burbank and Greater East Valley, Inc.\r\nVariety Boys & Girls Club\r\nWatts / Willowbrook Boys & Girls Club\r\nWest Valley Boys & Girls Club"
-  metrics_learn_earlyeducation: '0'
   org_website: begreatla.org
   org_twitter: '@GreatFuturesLA '
   org_facebook: facebook.com/BEGREATLA
@@ -91,7 +91,7 @@ maker_answers:
   org_name: >-
     Los Angeles County Alliance for Boys and Girls Clubs (LACABGC) and the West
     San Gabriel Valley Boys and Girls Club
-  metrics_learn_communitycollege: '0'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '0'
   metrics_learn_graduationrates: '0'
   metrics_learn_proficiency: '0'
@@ -124,16 +124,6 @@ maker_answers:
     spring.
   major_challenges: "We anticipate there being a potential challenge in identifying space for a STEM lab required for the project (many pilot participants converted computer  labs into \"STEM\" labs). Additionally staff training could be a challenge for organizations with tight personnel structures and budgets. To overcome these challenges, funding for Seeing STEM includes support for lab supplies and staff training expenses such as overtime and transportation).\r\n\r\nBecause this is a collaborative, we can also overcome space challenges by sharing resources (i.e. community partner locations, neighboring participating organizations, etc.)."
   competition: "We believe our program is unique it its tangible outcomes (measurable increase in STEM fields of study and career), alignment with common core standards, project-based engineer design experience in an after-school setting, targeted age and demographics of participants (middle school aged, predominantly minority, low income children), and county-wide collaborative reach.\r\n\r\nThere are many emergent quality STEM programs in Los Angeles, just few with so many impactful, collaborative elements as Seeding STEM in the Los Angeles County Alliance for Boys and Girls Clubs."
-  cost: "We budgeted $169,000- $200,000 for this project. Additional funding has been committed by Pacific Youth Foundation, Southern California Edison and the Milgard Family Foundation (who generously funded the Seeing STEM pilot at six Boys and Girls Clubs in LA County). We are also pursuing grant opportunities with NBC Universal Foundation, Northrop Grumman Corporation, Warner Bros. and Raytheon.\r\n\r\nWe would like to celebrate the successful completion of this program with a STEM Fest and are pursuing sponsors for a county-wide event in the spring."
-  budget: >-
-    Cost for implementing Seeding STEM is $6,500 per organization. This includes
-    $3,000 for instructional materials and $3,500 for staff training and
-    expenses (two staff per organization). With 26 organizations participating,
-    this expense comes to $169,000. County-wide facilitation of training and pre
-    and post surveys is approximately $10,000 for the lead agency and a
-    culminating STEM Fest event including all participants, facilitators,
-    community stakeholders will be approximately $18-21,000 for a total program
-    expense of $200,000.
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

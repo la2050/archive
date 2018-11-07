@@ -17,8 +17,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Annenberg Foundation tweet
   Organization(s) name(s): The Story Project
   Organization(s) mailing address(es): "432 S. Curson Ave. Suite 6K\r\nLos Angeles, CA 90036"
   Organization(s) website(s): www.storyproject.org
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Annenberg Foundation tweet
   'City, State': 'Los Angeles, CA '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -155,10 +155,6 @@ maker_answers:
     projects at Venice Arts and continue to have an open dialogue, including
     them would be a please. Other possible groups: RAA (Rhythm Arts Alliance,
     Street Poets, Father Greg Boyle's Homeboy Industries)
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We are all film professionals and will budget this program to meet the
-    $100,000 cap. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Teaching Personnel 10,000\r\nStaff 10,000\r\nTransportation 2,500\r\n\r\nProduction\r\nCameras 20,000\r\nLighting 5,000\r\nInstruction 2,000\r\n\r\nPost Production\r\nSoftware 15,000\r\nHardware 25,000\r\n\r\nWebsite Construction 4,500\r\nMarketing 2,500\r\nSocial Media Staff 1,500\r\n\r\nInsurance 2,000"
   How do you plan to scale the success of your proposal?: >-
     As the executive director of The Story Project, I have been fortunate to
     have been through the Annenberg Foundation's Alchemy + governance training,
@@ -219,28 +215,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Venice Arts and continue to have an open dialogue, including them would be a
   please. Other possible groups: RAA (Rhythm Arts Alliance, Street Poets, Father
   Greg Boyle's Homeboy Industries)
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We are all film professionals and will budget this program to meet the
-  $100,000 cap.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Teaching Personnel 10,000
-   Staff 10,000
-   Transportation 2,500
-   
-   Production
-   Cameras 20,000
-   Lighting 5,000
-   Instruction 2,000
-   
-   Post Production
-   Software 15,000
-   Hardware 25,000
-   
-   Website Construction 4,500
-   Marketing 2,500
-   Social Media Staff 1,500
-   
-   Insurance 2,000
 How do you plan to scale the success of your proposal?: >-
   As the executive director of The Story Project, I have been fortunate to have
   been through the Annenberg Foundation's Alchemy + governance training, and

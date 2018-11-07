@@ -28,8 +28,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Previous applicant/newsletter
   Organization(s) name(s): Los Angeles Service Academy
   Organization(s) mailing address(es): "c/o The Huntington Library\r\n1151 Oxford Road\r\nSan Marino, CA  91108"
   Organization(s) website(s): www.LAServiceAcademy.org
@@ -80,7 +80,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Previous applicant/newsletter
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -148,8 +148,6 @@ maker_answers:
     Angeles Public Library -- offer in-kind support to the program (primarily
     meeting spaces).  If successful with LA2050, LASA will utilize the entirety
     of the $100,000 grant for programmatic use in 2016-2017 and 2017-2018.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "LASA currently operates on an $85,000 budget annually.  LA2050 funds would be utilized at $50,000 for 2016-2017 and the same for the following year.\r\n\r\nWith LA2050 support, we feel confident that the additional $35,000 per year could be raised from other philanthropic sources -- several of which have indicated a willingness to help with such shortfalls if LA2050 funds are provided.\r\n\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$80,000 total:\r\n\r\n$7000 expert stipends\r\n$6000 teacher participant stipends\r\n$6000 tickets (harbor, kayaking LA River, various admission fees)\r\n$7000 bus transportation\r\n$10,000 food/snacks/water\r\n$4000 book purchases\r\n$2500 website design/maintenance and communication\r\n$ 500  misc\r\n$42,000 director stipends (2)"
   How do you plan to scale the success of your proposal?: >-
     LASA has grown.  From an initial class of 20 students in 2011-2012, we now
     have a class of 35 students.  We would like to increase the size of a given
@@ -201,23 +199,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Angeles Public Library -- offer in-kind support to the program (primarily
   meeting spaces). If successful with LA2050, LASA will utilize the entirety of
   the $100,000 grant for programmatic use in 2016-2017 and 2017-2018.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  LASA currently operates on an $85,000 budget annually. LA2050 funds would be
-  utilized at $50,000 for 2016-2017 and the same for the following year.
-   
-   With LA2050 support, we feel confident that the additional $35,000 per year could be raised from other philanthropic sources -- several of which have indicated a willingness to help with such shortfalls if LA2050 funds are provided.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  $80,000 total:
-   
-   $7000 expert stipends
-   $6000 teacher participant stipends
-   $6000 tickets (harbor, kayaking LA River, various admission fees)
-   $7000 bus transportation
-   $10,000 food/snacks/water
-   $4000 book purchases
-   $2500 website design/maintenance and communication
-   $ 500 misc
-   $42,000 director stipends (2)
 How do you plan to scale the success of your proposal?: >-
   LASA has grown. From an initial class of 20 students in 2011-2012, we now have
   a class of 35 students. We would like to increase the size of a given class to

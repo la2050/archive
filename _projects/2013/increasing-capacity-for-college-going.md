@@ -47,8 +47,42 @@ project_summary: >-
 project_image: 'https://img.youtube.com/vi/jGa5KEowRPM/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/jGa5KEowRPM'
 maker_answers:
+  description1: >-
+    The Pullias Center for Higher Education is dedicated to improving access to
+    college for low-income and historically under-represented students. The
+    academic arm of our Center has focused on: (1) researching how students,
+    families and schools define and address challenges related to college going
+    and (2) identifying effective strategies for improving college going
+    outcomes. Our publications are widely used as guides by practitioners across
+    the country.  Yet just as significant, our Center has developed a
+    three-pronged outreach approach where we work with schools and students to
+    provide high quality college guidance and support; the three programs we run
+    rank among the Center’s most important achievements to date. The first
+    program we developed – I AM (Increasing Access through Mentoring) provides
+    targeted college guidance support to juniors and seniors in high school as
+    they prepare to apply for college. Many of the students we work with will be
+    the first in their families to attend college. Many also attend high schools
+    with exorbitant counselor to student ratios. I AM mentors work with school
+    based counselors to identify students who might slip through the cracks and
+    then meet with students regularly to make sure the (very complicated)
+    college application process goes smoothly. Once students are accepted to
+    colleges, mentors help students figure out financial aid awards and provide
+    students with support as they decide where to go.  We’ve helped over 1,000
+    students get into college since starting the program in 2005.  The
+    SummerTIME (Tool Information Motivation Education) program focuses on
+    college completion. We bring students who have graduated from LAUSD schools
+    and who will be heading to four-year colleges/universities to USC for a
+    month-long intensive writing program. The curriculum is infused with lessons
+    on college knowledge such has how to balance finances, how to interact with
+    professors and how to cultivate effective study skills.   The third program
+    provides a twist to traditional college outreach approaches. We decided to
+    meet students where they choose to spend after-school hours – in cyberspace!
+    We partnered with USC’s Game Innovation Lab and students from Foshay
+    Learning Center to create a series of role-playing games about college and
+    careers. Our games were developed and pilot tested in Los Angeles and are
+    now utilized nationally. My LA2050 funding would enable us to expand these
+    programs and train practitioners on how to make use of the game-based tools.
   success: "With regards to the effects of the programs on students outcomes, we will measure success by administering surveys to students prior to and post participation in our programs. The surveys will be designed to collect data on the effects of the program on college knowledge and college-going efficacy. We also will conduct selected focus groups with students and practitioners in order to gain a deeper  understanding of which practices are working best for students and their teachers and/or counselors.\r\nWe will also evaluate the project by analyzing the numbers of game players and if/how those numbers increase, thus increasing traction in the project. We will also analyze back-end server data related to the games in order to ascertain the effects of game play on students' college aspirations and/or plans."
-  Organization Name: Pullias Center for Higher Education
   Indicator: ' Education'
   brief: >-
     Our primary goal is to increase college attendance throughout the
@@ -89,25 +123,6 @@ maker_answers:
     grant would enable us to train more mentors, implement guidance activities
     at more schools, expand services offered and ensure college opportunity for
     a larger number of students.
-  budget explanation: >-
-    The $100,000 grant would allow us to expand our activities by providing
-    approximately $60,000 toward additional part-time salaries and benefits for
-    outreach support staff, communication and media support staff and instructor
-    and workshop training staff.  This is necessary as all USC Pullias Center
-    staff salaries and benefits are 100% grant funded. Staff will work directly
-    with students to provide college information and support services.
-    Furthermore, staff will identify partner businesses and train volunteers to
-    serve as mentors. After mentors are trained, project staff will provide
-    ongoing and frequent support to mentors to ensure they are providing
-    effective support.  The remaining $40,000 in funding will be used toward
-    programmatic costs.  These costs include covering low-income students’
-    college application fees, college prep (SAT) testing fees,  and student
-    resources such as college admission tools.  Funding will enable us to take
-    students on local college campus tours and provide college application and
-    financial aid training (FAFSA) workshops for both volunteer mentors,
-    students, and their parents.  A minimal amount of the funding would support
-    volunteer live scan fees and local travel costs for outreach staff and
-    volunteers.  
   description: >-
     Our project will help improve the college-going rates at high schools that
     have the lowest college-going rates within the Los Angeles Unified School
@@ -141,41 +156,7 @@ maker_answers:
     admissions and financial aid processes.
   collaborators: "High schools within the Los Angeles Unified School District: Belmont, Crenshaw, Dorsey, Foshay Learning Center, Fremont, Manual Arts, Marshall, Roosevelt, Roybal Learning Center\r\nUSC Game Innovation Lab\r\nCash for College- Los Angeles Chamber of Commerce\r\nNational College Access Network\r\nSouthern California College Access Network\r\nCollege Access Foundation of California\r\nSelected businesses - to be determined\r\n"
   website: 'http://pullias.usc.edu/'
-  description1: >-
-    The Pullias Center for Higher Education is dedicated to improving access to
-    college for low-income and historically under-represented students. The
-    academic arm of our Center has focused on: (1) researching how students,
-    families and schools define and address challenges related to college going
-    and (2) identifying effective strategies for improving college going
-    outcomes. Our publications are widely used as guides by practitioners across
-    the country.  Yet just as significant, our Center has developed a
-    three-pronged outreach approach where we work with schools and students to
-    provide high quality college guidance and support; the three programs we run
-    rank among the Center’s most important achievements to date. The first
-    program we developed – I AM (Increasing Access through Mentoring) provides
-    targeted college guidance support to juniors and seniors in high school as
-    they prepare to apply for college. Many of the students we work with will be
-    the first in their families to attend college. Many also attend high schools
-    with exorbitant counselor to student ratios. I AM mentors work with school
-    based counselors to identify students who might slip through the cracks and
-    then meet with students regularly to make sure the (very complicated)
-    college application process goes smoothly. Once students are accepted to
-    colleges, mentors help students figure out financial aid awards and provide
-    students with support as they decide where to go.  We’ve helped over 1,000
-    students get into college since starting the program in 2005.  The
-    SummerTIME (Tool Information Motivation Education) program focuses on
-    college completion. We bring students who have graduated from LAUSD schools
-    and who will be heading to four-year colleges/universities to USC for a
-    month-long intensive writing program. The curriculum is infused with lessons
-    on college knowledge such has how to balance finances, how to interact with
-    professors and how to cultivate effective study skills.   The third program
-    provides a twist to traditional college outreach approaches. We decided to
-    meet students where they choose to spend after-school hours – in cyberspace!
-    We partnered with USC’s Game Innovation Lab and students from Foshay
-    Learning Center to create a series of role-playing games about college and
-    careers. Our games were developed and pilot tested in Los Angeles and are
-    now utilized nationally. My LA2050 funding would enable us to expand these
-    programs and train practitioners on how to make use of the game-based tools.
+  Organization Name: Pullias Center for Higher Education
   description3: >-
     Central to the mission of the Pullias Center is a commitment to conducting
     practitioner-oriented research and sharing best practices. While there are
@@ -385,39 +366,5 @@ What would success look like in the year 2050 regarding your indicator?: >-
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/increasing-capacity-for-college-going/img.youtube.com/vi/jGa5KEowRPM/maxresdefault.jpg
 youtube_video_identifier: jGa5KEowRPM
-project_summary_backup: >-
-  The Pullias Center for Higher Education is dedicated to improving access to
-  college for low-income and historically under-represented students. The
-  academic arm of our Center has focused on: (1) researching how students,
-  families and schools define and address challenges related to college going
-  and (2) identifying effective strategies for improving college going outcomes.
-  Our publications are widely used as guides by practitioners across the
-  country.  Yet just as significant, our Center has developed a three-pronged
-  outreach approach where we work with schools and students to provide high
-  quality college guidance and support; the three programs we run rank among the
-  Center’s most important achievements to date. The first program we developed –
-  I AM (Increasing Access through Mentoring) provides targeted college guidance
-  support to juniors and seniors in high school as they prepare to apply for
-  college. Many of the students we work with will be the first in their families
-  to attend college. Many also attend high schools with exorbitant counselor to
-  student ratios. I AM mentors work with school based counselors to identify
-  students who might slip through the cracks and then meet with students
-  regularly to make sure the (very complicated) college application process goes
-  smoothly. Once students are accepted to colleges, mentors help students figure
-  out financial aid awards and provide students with support as they decide
-  where to go.  We’ve helped over 1,000 students get into college since starting
-  the program in 2005.  The SummerTIME (Tool Information Motivation Education)
-  program focuses on college completion. We bring students who have graduated
-  from LAUSD schools and who will be heading to four-year colleges/universities
-  to USC for a month-long intensive writing program. The curriculum is infused
-  with lessons on college knowledge such has how to balance finances, how to
-  interact with professors and how to cultivate effective study skills.   The
-  third program provides a twist to traditional college outreach approaches. We
-  decided to meet students where they choose to spend after-school hours – in
-  cyberspace! We partnered with USC’s Game Innovation Lab and students from
-  Foshay Learning Center to create a series of role-playing games about college
-  and careers. Our games were developed and pilot tested in Los Angeles and are
-  now utilized nationally. My LA2050 funding would enable us to expand these
-  programs and train practitioners on how to make use of the game-based tools.
 
 ---

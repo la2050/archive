@@ -18,8 +18,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
-  How did you hear about this challenge?: 'Radio: KCRW'
   Organization(s) name(s): GREENBOXFARMS
   Organization(s) mailing address(es): '1723 S. Westgate Ave. #7'
   Organization(s) website(s): www.greenboxfarms.com
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: 'Radio: KCRW'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -135,8 +135,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "With the help of our partners, here are a few ways we will measure the success of our project:\r\n\r\n- Conduct research with students to see how their interactions with nature affect their wellbeing and habits. (Prevalence of adverse childhood experiences, rates of mental illness, access to healthy food, obesity rates, and percentage of LA communities that are resilient)\r\n\r\n- The amount of produce grown and their distribution mileage from source (Access to healthy food, percentage of LA communities that are resilient, exposure to air toxins)\r\n\r\n- Vegetation mapping (Percentage of tree canopy cover)\r\n\r\n- The percentage of locally sourced project materials (Percentage of LA communities that are resilient)\r\n\r\n- The amount of money donated to schools via produce sales (Percentage of LA communities that are resilient)\r\n\r\nThese metrics will deliver insight on key issues regarding community health, sustainability, and economic development. "
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are other companies that grow hydroponic produce (only two in Los Angeles), but what makes GREENBOXFARMS unique is that we are driven by social change. (People, environment, economy, and social equity)\r\n\r\nOur holistic process views the community as a whole, and connects stakeholders, students, educators, designers, and policy makers with data so we can create the healthiest place to possibly live.  "
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "We have partnerships with high schools in the Los Angeles area. We are also in the process of partnering with LA based universities so they can assist in the research portion of our project. \r\n\r\nThe high schools will not receive direct grant money. They will receive a GREENBOXFARM on campus, along with an education program for students, and 5% of produce sales.\r\n\r\n "
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Because our farms are modular, mobile, and stackable we can directly control how much our Green Works Project will cost. \r\n\r\nIf for any reason we need additional financial support will will seek funding from venture capitalist, local organizations, and other grant providers."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Research & Development: $5,000\r\nGREENBOXFARM (individual unit): $25,000\r\n                                                           : $25,000\r\nSalaries (including benefits and tax): $44,400\r\nCommunications: $600\r\n\r\nTotal: $100,000"
   How do you plan to scale the success of your proposal?: "GREENBOXFARMS have a small environmental footprint and are modular, mobile, and stackable. Because of this design, we will be able to easily scale up by leveraging venture capital funds and income from produce sales.\r\n\r\nIn the future we would like to create pop up grocery stores. These grocery stores would be made out of recycled shipping containers and would employ local residents."
 areas_impacted: ''
 partners: ''
@@ -186,19 +184,6 @@ Are there other organizations doing similar work (whether complementary or compe
   research portion of our project. 
    
    The high schools will not receive direct grant money. They will receive a GREENBOXFARM on campus, along with an education program for students, and 5% of produce sales.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Because our farms are modular, mobile, and stackable we can directly control
-  how much our Green Works Project will cost. 
-   
-   If for any reason we need additional financial support will will seek funding from venture capitalist, local organizations, and other grant providers.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Research & Development: $5,000
-   GREENBOXFARM (individual unit): $25,000
-    : $25,000
-   Salaries (including benefits and tax): $44,400
-   Communications: $600
-   
-   Total: $100,000
 How do you plan to scale the success of your proposal?: >-
   GREENBOXFARMS have a small environmental footprint and are modular, mobile,
   and stackable. Because of this design, we will be able to easily scale up by

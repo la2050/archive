@@ -14,8 +14,8 @@ project_areas:
   - South LA
   - Westside
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: LA2050 email
   Organization(s) name(s): Los Angeles Audubon Society
   Organization(s) mailing address(es): 'P.O. Box 411301, Los Angeles, CA 90041-8301'
   Organization(s) website(s): www.laaudubon.org
@@ -58,7 +58,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: LA2050 email
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -165,8 +165,6 @@ maker_answers:
     add an additional science-meets-art component through our Venice Arts
     partner.
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Building upon LA Audubon’s successful environmental youth education and community programs, we will partner with Venice Arts to implement Urban Nature Expressed, a collaborative, 24-week after-school arts workshop for low-income teens. \r\n\r\nVenice Arts is an exemplary arts organization honored by, among others, the President’s Commission on The Arts and Humanities, whose mission is to ignite youths' imagination, mentor their creativity, and expand their sense of possibility through high quality, accessible media-based arts education programs. LA Audubon views this partnership with Venice Arts as a way for young people to dive deeper into the urban environment by combining art with science and using photography to express their discoveries in a unique and powerful way. The workshop, held at the Venice Arts’ center, will be co-taught by a Venice Arts teaching artist and documentary photographer, and a LAAS biologist/science illustrator. It is projected that 150+ youth will participate in simple experiments in art and science at a Pop-up Gallery and 200+ adults will be engaged both through the young photographers story development process, and through the exhibition of their work. Using the concept of mapping as a framework for both scientific exploration and creative production, participants will explore the six-mile bike path that travels along Ballona Creek, through the wetlands to the Pacific Ocean. In addition to conducting scientific experiments that explore the natural environment, they will investigate the people who populate the path. Creative research will include photographing and interviewing people at three or four key points and identifying a small subset of people with unique and interesting stories about whom participants will create photo essays.\r\nThe project culminates with a Pop-up Gallery in a community adjacent to the bike path. Locations under consideration include farmer’s markets and community festivals with significant numbers of people and ample foot traffic. Teens will staff the Gallery, lead mini-workshops throughout the day, and engage other young people in simple experiments exploring science and art. Information about the Ballona Creek Bike Path will be made available. This Pop-up Gallery not only celebrates youths’ achievements but, also, promotes awareness about this beautiful slice of urban nature. LA Audubon will allocate $20,000 in grant funds directly to Venice Arts to cover costs for their portion of the workshop.\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The total program costs for Urban Nature Explored & Expressed will be approximately $205,000. LAAS has secured additional funding from National Fish & Wildlife Foundation, US Fish & Wildlife Service, Disney Conservation Fund, California State Parks Foundation and from private foundations and donors to cover the balance of the program costs. With support from LA2050, Los Angeles Audubon will connect more urban youth to nature and engage under-served communities in improving parks, schoolyards and beaches, protecting threatened species and preserving vital habitat. LA2050 funds will pay for buses for field trips throughout the school year to Ballona Wetlands, Kenneth Hahn, and to the Beaches, for schools that otherwise would be unable to participate.  Inner-city youth (high school students and College Fellows) will receive stipends for their work. Under-served communities will benefit from this project, by participating in and creating healthier park environments and schoolyards, where students and teachers can utilize nature as a powerful teaching tool.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "LAAS Budget \r\n\r\nURBAN NATURE EXPLORED (5 site locations, year-long programs)\r\n\r\nLAAS Project Staff: \r\n$53,172 - Program Directors at Ballona Wetlands, Kenneth Hahn, LA Beaches, Baldwin Hills and Schoolyard Habitat, and stipends for College Fellows & High School Interns\r\n\r\n50 Buses for school field trips ($385 per bus):\r\n$11,550 - Ballona Wetlands - 30\r\n$4,620 -   Kenneth Hahn State Rec.Area - 12\r\n$3,080 -   Venice Beach Ecology - 8\r\n\r\nURBAN NATURE EXPRESSED\r\n\r\nWorkshop with Venice Arts (VA)\r\n$4,410 - LAAS Project Leader\r\n$   858 - LAAS Project Assistant\r\n$2,310 - LAAS to schedule Buses for workshop field trips - 6\r\n\r\n$6,257 - VA Project Leader\r\n$1,824 - VA Project Assistant\r\n$3,000 - VA Project Oversight/Manager\r\n$6,000 - VA Cameras for students - 12\r\n$1,919 - VA Supplies, media cards, paper/ink, printing\r\n$1,000 - VA Final culminating student event, invites, food, postcards\r\n\r\n$100,000 - Funding requested from LA2050\r\n"
   How do you plan to scale the success of your proposal?: "We plan to scale our successful proposal by growing environmental leaders. We base this proposal on our past successes and activities. LAAS board members and staff served on the LAUSD Task Force for Outdoor Education and are currently conducting a Teacher Fellowship program that will show teachers how to replicate our program in their own schoolyards, using the outdoors as a classroom for all subjects with curricula aligned to meet state teaching standards. LAAS’ dedicated education staff has kept pace with the growing interest in our environmental programs by hiring student graduates from our program to work with under-served students as mentors and project coordinators. This year, NINE of our alumni taught workshops at our initial Outdoor Education ‘Boot Camp’ at Baldwin Hills for high school interns and restoration leaders. Additionally, we offer high school students a paid internship to study environmental science. Our program provides hands-on work and research experience, mentorship and community service opportunities, and supports students in their college application process. And, bottom line, the students have fun while participating in this demanding program.  We plan to continue to expand our internship program that is investing in the hard work and dedication of our students who are in turn improving green spaces in urban LA. Our future goal is to develop and offer a Community Stewardship Program at a local community college. \r\n\r\nUrban Nature Explored/Expressed will: \r\n* foster a strong connection between under-served communities and    local parks, beaches and open spaces\r\n* engage urban students in hands-on stewardship activities that improve LA’s green spaces for everyone\r\n* empower the next generation of environmental stewards to communicate through art the power of nature in LA\r\n* invest in unemployed/under-employed youth with paid internships in outdoor education and environmental conservation\r\n* increase the number of students having access to nature\r\n* increase the number of children enrolled in after-school programs\r\n* spark new environmental thinking, research and action through student-led community events\_\r\n* collaborate with partners to develop creative ways to spread the importance of conserving nature in LA\r\n"
 areas_impacted: ''
 partners: ''
@@ -264,50 +262,6 @@ Are there other organizations doing similar work (whether complementary or compe
    
    Venice Arts is an exemplary arts organization honored by, among others, the President’s Commission on The Arts and Humanities, whose mission is to ignite youths' imagination, mentor their creativity, and expand their sense of possibility through high quality, accessible media-based arts education programs. LA Audubon views this partnership with Venice Arts as a way for young people to dive deeper into the urban environment by combining art with science and using photography to express their discoveries in a unique and powerful way. The workshop, held at the Venice Arts’ center, will be co-taught by a Venice Arts teaching artist and documentary photographer, and a LAAS biologist/science illustrator. It is projected that 150+ youth will participate in simple experiments in art and science at a Pop-up Gallery and 200+ adults will be engaged both through the young photographers story development process, and through the exhibition of their work. Using the concept of mapping as a framework for both scientific exploration and creative production, participants will explore the six-mile bike path that travels along Ballona Creek, through the wetlands to the Pacific Ocean. In addition to conducting scientific experiments that explore the natural environment, they will investigate the people who populate the path. Creative research will include photographing and interviewing people at three or four key points and identifying a small subset of people with unique and interesting stories about whom participants will create photo essays.
    The project culminates with a Pop-up Gallery in a community adjacent to the bike path. Locations under consideration include farmer’s markets and community festivals with significant numbers of people and ample foot traffic. Teens will staff the Gallery, lead mini-workshops throughout the day, and engage other young people in simple experiments exploring science and art. Information about the Ballona Creek Bike Path will be made available. This Pop-up Gallery not only celebrates youths’ achievements but, also, promotes awareness about this beautiful slice of urban nature. LA Audubon will allocate $20,000 in grant funds directly to Venice Arts to cover costs for their portion of the workshop.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The total program costs for Urban Nature Explored & Expressed will be
-  approximately $205,000. LAAS has secured additional funding from National Fish
-  & Wildlife Foundation, US Fish & Wildlife Service, Disney Conservation Fund,
-  California State Parks Foundation and from private foundations and donors to
-  cover the balance of the program costs. With support from LA2050, Los Angeles
-  Audubon will connect more urban youth to nature and engage under-served
-  communities in improving parks, schoolyards and beaches, protecting threatened
-  species and preserving vital habitat. LA2050 funds will pay for buses for
-  field trips throughout the school year to Ballona Wetlands, Kenneth Hahn, and
-  to the Beaches, for schools that otherwise would be unable to participate.
-  Inner-city youth (high school students and College Fellows) will receive
-  stipends for their work. Under-served communities will benefit from this
-  project, by participating in and creating healthier park environments and
-  schoolyards, where students and teachers can utilize nature as a powerful
-  teaching tool.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  LAAS Budget 
-   
-   URBAN NATURE EXPLORED (5 site locations, year-long programs)
-   
-   LAAS Project Staff: 
-   $53,172 - Program Directors at Ballona Wetlands, Kenneth Hahn, LA Beaches, Baldwin Hills and Schoolyard Habitat, and stipends for College Fellows & High School Interns
-   
-   50 Buses for school field trips ($385 per bus):
-   $11,550 - Ballona Wetlands - 30
-   $4,620 - Kenneth Hahn State Rec.Area - 12
-   $3,080 - Venice Beach Ecology - 8
-   
-   URBAN NATURE EXPRESSED
-   
-   Workshop with Venice Arts (VA)
-   $4,410 - LAAS Project Leader
-   $ 858 - LAAS Project Assistant
-   $2,310 - LAAS to schedule Buses for workshop field trips - 6
-   
-   $6,257 - VA Project Leader
-   $1,824 - VA Project Assistant
-   $3,000 - VA Project Oversight/Manager
-   $6,000 - VA Cameras for students - 12
-   $1,919 - VA Supplies, media cards, paper/ink, printing
-   $1,000 - VA Final culminating student event, invites, food, postcards
-   
-   $100,000 - Funding requested from LA2050
 How do you plan to scale the success of your proposal?: >-
   We plan to scale our successful proposal by growing environmental leaders. We
   base this proposal on our past successes and activities. LAAS board members

@@ -20,8 +20,8 @@ project_image: >-
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, California '
   Organization(s) mailing address(es): '428 West 93rd Street, Los Angeles, CA 90003'
   Organization(s) website(s): www.facebook.com/GreatMindsSTEMSociety
   Organization(s) twitter handle(s): 'https://twitter.com/greatmindstem'
@@ -66,7 +66,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
+  'City, State': 'Los Angeles, California '
   Organization(s) name(s): 'Great Minds STEM Society '
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
@@ -160,19 +160,6 @@ maker_answers:
     the general budget.  However, we will have collaborate with the school board
     and the City of Inglewood to ensure success of our project through a
     community effort. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Great Minds STEM Society believe the estimated cost of leasing the property
-    along with technological equipment will be approximately $60,000. Our
-    organization will use an additional $20,000 to cover financial obligations
-    to STEM professionals, guest speakers, and administrative cost. Great Minds
-    STEM Society have constructed a budget that will not exceed the total cost
-    of the grant during the first year. Our goal is to stay within budget and
-    additional cost, if any, will be raised through fund raisers, private
-    donors, and additional grants such as local and federal government funding.
-    In addition we are working diligently to perform partnerships with BioRad,
-    Northrop Grumman, Raytheon, and aerospace. These companies have community
-    programs that can potentially sponsor any additional needs and cost. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Property Lease-$25,000 for 1 year\r\nTax ID and additional fees- $1200\r\n \r\n(10) Computers\r\n 5-Apple Desktops-$1300\r\n 5-HP Desktops-$1100\r\n\r\n(1) HP Printer-$500\r\n(5)Computer Desk-$400\r\n(12)Computer Chairs-$60\r\n(5)Celestron Biology Microscopes-$500\r\n(1)Projector-$700\r\n(1)Projector Screen-$300\r\n(10) Molecular Model Sets-$70\r\nThis total comes out to about $45,620 \r\nwith taxes and potential price increases an additional 25% of the total cost was added which came out to be $11,405 and a new grand total of $57,025. \r\n\r\n$20,000 will cover financial obligations for contract hires and administrative fees. \r\n\r\nThe additional $20,000 will be saved for any unforeseen fees and/or financial obligations. \r\n\r\n\r\n\r\n"
   How do you plan to scale the success of your proposal?: "Our plan to scale the success is simple. We would like to obtain enough money through grants and other avenues to build our own facility that can hold an influx of students. GMSS would like to build something similar to that of a Boys and Girls Club but strictly dedicated to the profession of STEM. GMSS will be the after school STEM program you will find all the students in the neighborhood spending their time and honing their STEM skills. Our goal is to build four professional, fully equipped science labs comprising of a Biology lab, Analytical Chemistry lab, Organic Chemistry lab, and a Marine Biology lab that will provide students with a wide variety of hands-on opportunities in which students practice technique, gather data, and draw conclusions from those data. GMSS would also like to create an innovative technology and robotics Lab aimed at providing students with the breadth of knowledge that is required for specialization in STEM fields. \r\n"
 areas_impacted: ''
 partners: ''
@@ -245,39 +232,6 @@ Are there other organizations doing similar work (whether complementary or compe
   general budget. However, we will have collaborate with the school board and
   the City of Inglewood to ensure success of our project through a community
   effort.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Great Minds STEM Society believe the estimated cost of leasing the property
-  along with technological equipment will be approximately $60,000. Our
-  organization will use an additional $20,000 to cover financial obligations to
-  STEM professionals, guest speakers, and administrative cost. Great Minds STEM
-  Society have constructed a budget that will not exceed the total cost of the
-  grant during the first year. Our goal is to stay within budget and additional
-  cost, if any, will be raised through fund raisers, private donors, and
-  additional grants such as local and federal government funding. In addition we
-  are working diligently to perform partnerships with BioRad, Northrop Grumman,
-  Raytheon, and aerospace. These companies have community programs that can
-  potentially sponsor any additional needs and cost.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Property Lease-$25,000 for 1 year
-   Tax ID and additional fees- $1200
-    
-   (10) Computers
-    5-Apple Desktops-$1300
-    5-HP Desktops-$1100
-   
-   (1) HP Printer-$500
-   (5)Computer Desk-$400
-   (12)Computer Chairs-$60
-   (5)Celestron Biology Microscopes-$500
-   (1)Projector-$700
-   (1)Projector Screen-$300
-   (10) Molecular Model Sets-$70
-   This total comes out to about $45,620 
-   with taxes and potential price increases an additional 25% of the total cost was added which came out to be $11,405 and a new grand total of $57,025. 
-   
-   $20,000 will cover financial obligations for contract hires and administrative fees. 
-   
-   The additional $20,000 will be saved for any unforeseen fees and/or financial obligations.
 How do you plan to scale the success of your proposal?: >-
   Our plan to scale the success is simple. We would like to obtain enough money
   through grants and other avenues to build our own facility that can hold an

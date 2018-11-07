@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: 'Future of Cities: Leading in LA'
   Organization(s) name(s): Los Angeles Flag
   Organization(s) mailing address(es): 'P.O Box 661712, Los Angeles, CA 90066'
   Organization(s) website(s): www.losangelesflag.org
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: 'Future of Cities: Leading in LA'
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -126,26 +126,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "We can simply and easily track our progress and support through the metrics built into our website and our community Facebook page. We will be able to further evaluate our progress based on support we garner through change.org. \r\n\r\nOur mission is to constantly engage the public, gaining support and attempting to connect with everyone everywhere. Therefore, the effectiveness of this project will be evaluated partially by our ability to target as many neighborhoods, communities, organizations, festivals, etc. as possible. The wider the broadcast, the stronger the message. \r\n\r\nThe overall success of this project hinges solely on getting the initiative passed – until that happens we can’t officially call for design submissions or adopt a new flag. Therefore, we will constantly be evaluating our work in regards to how many people we’ve reached. Our work will not be done until the city approves our proposal and every single Angeleno is united under a great new flag. \r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "No, there are no other organizations doing similar work. \r\n\r\nWhile New Zealand and Fiji are in the midst of redesigning their country flags, and other American cities, such as Milwaukee and San Francisco, are currently campaigning to redesign their city flags, no other organization in Los Angeles is championing this cause. \r\n\r\nThe truth is, the vast majority of Angelenos don’t know what the LA flag looks like – in fact, most don’t even realize that we have a city flag. But whether they realize it or not, people care about flags. Flags are important and people get passionate about them, for better or worse, as evident by the recent controversy with the confederate flag, or the boom of U.S. flag sales after 9/11, or even the unification Chicagoans feel over their ubiquitous city flag. \r\n\r\nOur approach will be unique in that we intend to raise overall awareness about design and how effective it can be when incorporated properly into the framework of our city. Laying this foundation will enabling Angelenos to think about the future of LA as a more connected, well-designed, and cutting-edge city of tomorrow.\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': There are currently no other partners involved in this project.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Right now, the project is budgeted at $100,000 based on the amount of this
-    grant, and the majority of this money is earmarked for advertising with the
-    sole purpose of raising awareness, gathering popular support and convincing
-    city leaders to approve our proposal.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-    $18,000 will be used to produce a stunning campaign video that will serves
-    as a pillar of our campaign – a powerful call-to-action, designed to
-    educate, galvanize, and inspire. $40,000 will be spent on advertising via
-    local radio (e.g. KCRW) and print publications (e.g. LA Weekly, Los Angeles
-    Magazine, LA Times). It will also cover the cost of grassroots advertising
-    (e.g. renting booths at CicLAvia and other local festivals; engaging
-    artists, designers, and students throughout every district; attending
-    conferences such as Future of Cities). $42,000 will be dedicated to boosting
-    social media awareness through platforms such as Facebook and in-app
-    advertising. This aspect of the campaign will focus on obtaining citywide
-    support to pass our initiative. It will also serve to connect and engaging
-    as many Angelenos as possible via social media, while educating them on the
-    importance of city flags and the benefits of a new, well-designed Los
-    Angeles flag. 
   How do you plan to scale the success of your proposal?: "The first step will be to produce the campaign video and advertising materials.\r\n\r\nThen, we will review all upcoming events and advertising opportunities in Los Angeles throughout the next 6 to 8 months and budget for those.\r\n\r\nThe rest of the funds will be allocated on a month-to-month basis based on the conversion rates we get through the various advertising outlets. We’ll start small in advertising pockets, and determine which markets and platforms are most successful and scale our budget accordingly. \r\n\r\nShould the city accept our proposal before our entire budget is spent, the remainder of the funds will go towards increasing enthusiasm and support for the new, redesigned LA flag!\r\n"
 areas_impacted: ''
 partners: ''
@@ -194,25 +174,6 @@ Are there other organizations doing similar work (whether complementary or compe
    
    Our approach will be unique in that we intend to raise overall awareness about design and how effective it can be when incorporated properly into the framework of our city. Laying this foundation will enabling Angelenos to think about the future of LA as a more connected, well-designed, and cutting-edge city of tomorrow.
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': There are currently no other partners involved in this project.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Right now, the project is budgeted at $100,000 based on the amount of this
-  grant, and the majority of this money is earmarked for advertising with the
-  sole purpose of raising awareness, gathering popular support and convincing
-  city leaders to approve our proposal.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  $18,000 will be used to produce a stunning campaign video that will serves as
-  a pillar of our campaign – a powerful call-to-action, designed to educate,
-  galvanize, and inspire. $40,000 will be spent on advertising via local radio
-  (e.g. KCRW) and print publications (e.g. LA Weekly, Los Angeles Magazine, LA
-  Times). It will also cover the cost of grassroots advertising (e.g. renting
-  booths at CicLAvia and other local festivals; engaging artists, designers, and
-  students throughout every district; attending conferences such as Future of
-  Cities). $42,000 will be dedicated to boosting social media awareness through
-  platforms such as Facebook and in-app advertising. This aspect of the campaign
-  will focus on obtaining citywide support to pass our initiative. It will also
-  serve to connect and engaging as many Angelenos as possible via social media,
-  while educating them on the importance of city flags and the benefits of a
-  new, well-designed Los Angeles flag.
 How do you plan to scale the success of your proposal?: >-
   The first step will be to produce the campaign video and advertising
   materials.

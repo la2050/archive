@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_selfsufficiency: '1'
   metrics_live_healthyfood: '1'
-  city_state: 'Los Angeles, CA 90033'
   org_website: www.proyectojardin.org
   org_twitter: www.twitter.com/pjagricorpsla
   org_facebook: 'https://www.facebook.com/pages/Proyecto-Jardin/269671146378710'
@@ -76,7 +76,7 @@ maker_answers:
   org_name: Proyecto Jardin (A Project of Community Partners)
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '1'
+  city_state: 'Los Angeles, CA 90033'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '1'
   metrics_live_homelessness: '0'
@@ -104,8 +104,6 @@ maker_answers:
     to collaborate with LACC. However, PJ is more intentionally focused in the
     agriculture aspect of youth development and this will actually complement
     and strengthen the efforts of LACC. 
-  cost: "$150,000. \r\nWe are working with corporate sponsors. In addition, our board of directors is expanding our fundraising committee and planning to launch and annual gala event in fall 2014."
-  budget: "$50,000: Staff Salaries for Executive Director and Project Manager.\r\n$40,000: AgriCorps Intern Stipends\r\n$10,000: Program Materials & Supplies. "
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

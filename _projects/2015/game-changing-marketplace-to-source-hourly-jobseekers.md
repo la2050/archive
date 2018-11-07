@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/9l0UWGhKU-U'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Friend
   Organization(s) name(s): JobCouch
   Organization(s) mailing address(es): '5512 Verona Court, Westlake Village, CA 91362'
   Organization(s) website(s): www.jobcouch.com/secret
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: Friend
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
@@ -142,11 +142,6 @@ maker_answers:
     employers like Specialty's Cafe & Bakery, The North Face, Creative Baby
     Warehouse, and other hourly employers.  None of the grant will be going to
     the partners.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Our projected cost is $250,000 for 2016.  We will cover the additional cost
-    from generating revenue from employers.  If we are unable to generate
-    revenue, we will seek angel investment.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$30,000 - Outsource development of iOS & Android app\r\n$12,000 - Community donations to High Schools, and youth centers for             brand awareness campaigns\r\n$36,000 - Office Rent & Supplies\r\n$22,000 - Social Media Advertisement (Facebook & Twitter Ads) to drive sign ups & brand awareness"
   How do you plan to scale the success of your proposal?: >-
     With collaboration with city leaders and partnerships with local job
     training centers & job assistance organizations, we will have distribution
@@ -205,15 +200,6 @@ Are there other organizations doing similar work (whether complementary or compe
   employers like Specialty's Cafe & Bakery, The North Face, Creative Baby
   Warehouse, and other hourly employers. None of the grant will be going to the
   partners.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Our projected cost is $250,000 for 2016. We will cover the additional cost
-  from generating revenue from employers. If we are unable to generate revenue,
-  we will seek angel investment.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  $30,000 - Outsource development of iOS & Android app
-   $12,000 - Community donations to High Schools, and youth centers for brand awareness campaigns
-   $36,000 - Office Rent & Supplies
-   $22,000 - Social Media Advertisement (Facebook & Twitter Ads) to drive sign ups & brand awareness
 How do you plan to scale the success of your proposal?: >-
   With collaboration with city leaders and partnerships with local job training
   centers & job assistance organizations, we will have distribution channels to

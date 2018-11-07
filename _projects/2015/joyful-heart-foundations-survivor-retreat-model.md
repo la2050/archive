@@ -26,8 +26,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: 'facebook, previous grantees'
   Organization(s) name(s): Joyful Heart Foundation
   Organization(s) mailing address(es): "16 Marengo Ave Suite 715\r\nPasadena, CA 91101"
   Organization(s) website(s): www.joyfulheartfoundation.org
@@ -79,7 +79,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: 'facebook, previous grantees'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -187,8 +187,6 @@ maker_answers:
     Program partners assist this project by referring survivors to attend the
     retreats offered by Joyful Heart Foundation. Program partners will not
     receive monetary compensation for participating in this project.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "This is a three-year project with a total budget of $1,648,966. The budget for the grant period of this proposal (calendar year 2016) is $549,343. We have raised $165,000 through private and corporate foundations for this grant period and have submitted an additional $255,000 in corporate foundation grant applications, with funding decisions made in December 2015. We have also scheduled a donor cultivation event on November 5th to fundraise for this project. Funding for the first year of this project was successfully secured in full.\r\n \r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Direct Expenses\t \t \t \r\nSalaries\t \t                      \r\nChief Executive Officer $2,699\t\r\nManaging Director $4,182\t \r\nVice President, Clinical Programs $46,125\t\r\nSenior Clinical Manager $52,988\r\nH&W Administrative Coordinator 11,444\r\nHealing Program Coordinator $24,088\t \r\nRetreat Model Replication Coordinator $27,500\r\nAdmin Associate, H&W $6,981\t\r\nResearch Assistant $32,643\t \r\nTotal Salaries and Wages $208,648\t \r\n\t\t \t \r\nFringe Benefits (% of salaries and wages)\t19%\t $39,643\t\r\nTotal Personnel:$ 248,291\t\r\n  \t\t\t \r\nContractors\t\t \t \r\nGeorgetown University $104,292\t \r\nTotal Contracted Services $104,292\t \r\n \t\t \t \r\nOther Costs\t\t \t \r\nRetreats $114,460\t \r\nRetreat Development $57,300\t\r\nDissemination Preparation $25,000\r\nTotal Other Costs $196,760\t \r\n \t\t \t \r\nDirect Expenses Total $549,343\t\r\n\r\nJHF will apply $6075 to the salary of the VP of clinical services, $14,175 to the salary of the clinical manager and $4750 to their fringe benefits. $50K will be applied toward Georgetown and $25K to retreat expenses.  "
   How do you plan to scale the success of your proposal?: "14. How do you plan to scale the success of your proposal? 2500 characters\r\nThe demand for our signature Survivor Retreat Program has long exceeded its availability and reach. In response, we embarked on an ambitious three-year research project in partnership with Georgetown University to conduct retreats within a research model, evaluate their effectiveness, and create a replicable Retreat Model, which can be adopted by partner organizations and offered to survivors, professionals who serve them, and communities beyond our current capacity and scope. With the publication of the model as an evidenced-informed holistic intervention for survivors, agencies within the field will be able to solicit new funding opportunities and expand their offering of healing opportunities to survivors.\r\nIn Year Three of this project, up to three additional retreats will be offered to control group survivors at the conclusion of data collection. Advocates from partner agencies (Peace Over Violence, The Village Family Services and the YWCA of Greater Los Angeles) will shadow JHF staff in these retreats as part of their implementation training. JHF will then conduct a needs assessment of these partner agencies to assess for ability to effectively implement the model. A plan for implementation of the model at these agencies will be developed by JHF, who will provide ongoing technical assistance and mentorship through the implementation period.\r\n \r\nAdditionally, upon the completion of the research project, we will release a complete evaluation of the retreat development process, retreat experience, and post-retreat findings. We will create a dissemination strategy that balances free distribution with needs for training and fidelity to the model. We will publish our curriculum and support its effective dissemination. We will also empower program partners, key staff and researchers, to strategically share the research findings through conferences and written materials.\r\n \r\n"
 areas_impacted: ''
 partners: ''
@@ -275,45 +273,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Program partners assist this project by referring survivors to attend the
   retreats offered by Joyful Heart Foundation. Program partners will not receive
   monetary compensation for participating in this project.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  This is a three-year project with a total budget of $1,648,966. The budget for
-  the grant period of this proposal (calendar year 2016) is $549,343. We have
-  raised $165,000 through private and corporate foundations for this grant
-  period and have submitted an additional $255,000 in corporate foundation grant
-  applications, with funding decisions made in December 2015. We have also
-  scheduled a donor cultivation event on November 5th to fundraise for this
-  project. Funding for the first year of this project was successfully secured
-  in full.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Direct Expenses 
-   Salaries  
-   Chief Executive Officer $2,699 
-   Managing Director $4,182 
-   Vice President, Clinical Programs $46,125 
-   Senior Clinical Manager $52,988
-   H&W Administrative Coordinator 11,444
-   Healing Program Coordinator $24,088 
-   Retreat Model Replication Coordinator $27,500
-   Admin Associate, H&W $6,981 
-   Research Assistant $32,643 
-   Total Salaries and Wages $208,648 
-   
-   Fringe Benefits (% of salaries and wages) 19% $39,643 
-   Total Personnel:$ 248,291 
-     
-   Contractors 
-   Georgetown University $104,292 
-   Total Contracted Services $104,292 
-     
-   Other Costs 
-   Retreats $114,460 
-   Retreat Development $57,300 
-   Dissemination Preparation $25,000
-   Total Other Costs $196,760 
-     
-   Direct Expenses Total $549,343 
-   
-   JHF will apply $6075 to the salary of the VP of clinical services, $14,175 to the salary of the clinical manager and $4750 to their fringe benefits. $50K will be applied toward Georgetown and $25K to retreat expenses.
 How do you plan to scale the success of your proposal?: |-
   14. How do you plan to scale the success of your proposal? 2500 characters
    The demand for our signature Survivor Retreat Program has long exceeded its availability and reach. In response, we embarked on an ambitious three-year research project in partnership with Georgetown University to conduct retreats within a research model, evaluate their effectiveness, and create a replicable Retreat Model, which can be adopted by partner organizations and offered to survivors, professionals who serve them, and communities beyond our current capacity and scope. With the publication of the model as an evidenced-informed holistic intervention for survivors, agencies within the field will be able to solicit new funding opportunities and expand their offering of healing opportunities to survivors.

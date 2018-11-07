@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_learn_communitycollege: '0'
   collaboration: "FosterMore will serve as the lead for the project.  FosterMore is a coalition of nonprofit organizations and foundations united to increase opportunities for youth in foster care. Lead funding and strategic partners include, Casey Family Programs, The Entertainment Industry Foundation, Conrad N. Hilton Foundation, Anthony & Jeanne Pritzker Family Foundation, Stuart Foundation and Youth Villages.  The effort is directed by co-founders, Jennifer Perry, Executive Director of the Children’s Action Network and David Ambroz, Director, Corporate Citizenship and Social Responsibility, Disney-ABC Television Group.  Managing the effort is Mark Daley, of Propper Daley, A Social Impact Agency.  \r\n\r\nRaise a Child, a leader in foster and adoptive parent recruitment will work with potential recruits to see them through the long and often frustrating process of certification to placement.  United Friends of the Children will collaborate by providing volunteer opportunities for individuals wishing to volunteer their time and talents to advance a foster child through education. \r\n"
-  metrics_learn_earlyeducation: '0'
   org_website: www.fostermore.org
   org_twitter: '@fostermore'
   org_facebook: 'https://www.facebook.com/FosterMore'
@@ -63,7 +63,7 @@ maker_answers:
   who_benefit: "Last August The Los Angeles Times reported the county’s shortage of foster care beds had reached “a crisis point.”  At that time “officials acknowledged they don’t have enough personnel to promptly feed children or change diapers.”  \r\n\r\nThe largest immediate beneficiaries of this project will be the 28,000 kids in Los Angeles County’s foster care system.  In addition, roughly 2,500 youth in the county “age-out” meaning they reach the age at which they can no longer remain a ward of the state in foster care, without having received permanent placement. This population of foster youth fares the worst, with more than half living in poverty, a quarter incarcerated the lowest high school and college graduation rates of all youth. \r\n\r\nThe FosterMore coalition’s project to recruit mentors and foster parents will have the secondary impact of generating more interest in adoption, and moving more and more kids into permanent homes.  \r\n\r\nThe community as a whole will benefit because on average, for every young person who ages out of foster care, taxpayers and communities pay $300,000 in social costs like public assistance, incarceration, and lost wages to a community over that person's lifetime. With more than 200,000 youth aging out in the past decade, you can conservatively estimate this problem incurs almost $8 billion in social costs to the United States every year.\r\n"
   about_you: 'Los Angeles, CA'
   org_name: FosterMore
-  metrics_learn_communitycollege: '0'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '0'
   metrics_learn_graduationrates: '1'
   metrics_learn_proficiency: '1'
@@ -89,10 +89,6 @@ maker_answers:
     collaborate as partners and put forth one consistent message is in and of
     itself an outcome.  This coalition enjoys the support of more than 40 other
     like-minded organizations. 
-  cost: >-
-    The total cost of our plan is $115,000.  The coalition partners have agreed
-    to cover the remaining costs if we are awarded this grant. 
-  budget: "The project will cost $115,000 and the remaining $15,000 will be raised from existing donors if we are successful in winning the LA2050 grant.  The budget is broken down as follows.\r\n\r\nTargeted Online Recruitment $50,000\r\nProduction of PSAs and Filmed Products $30,000\r\nWeb Ads and Website Design $10,000\r\nStaff Person Time to Oversee Foster Parent Retention Efforts $10,000\r\nStaff Person Time to Facilitate Volunteer Educational Mentor Recruitment Effort  $15,000\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

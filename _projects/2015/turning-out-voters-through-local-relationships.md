@@ -24,8 +24,8 @@ project_areas:
   - South LA
   - Westside
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: 'Michelle Lin, Liberty Hill Foundation'
   Organization(s) name(s): LA Voice
   Organization(s) mailing address(es): '760 S. Westmoreland Ave Ste. 336, Los Angeles CA 90005'
   Organization(s) website(s): www.lavoicepico.org
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: 'Michelle Lin, Liberty Hill Foundation'
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -155,17 +155,6 @@ maker_answers:
     and the effectiveness of new technology.
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are other organizations doing voter turnout work, but none with our unique, congregation-based, multi-racial, multi-neighborhood approach. Our work will complement the turnout work being done by other great organizations, by ensuring that voters are reached by local leaders developing transformational relationships in addition to more traditional voter turnout contacts. \r\n\r\nOur approach is unique in that we already have the relationships, leadership development capacity, and trust in our target communities that will allow us to transform the electorate. There are no other organizations working out of congregations that can build bridges across race, faith and class in the same way that LA Voice does. "
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': N/A
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    This project will cost us approximately $150,000. In order to transform the
-    electorate in the way we’re envisioning, we will need to assign a full-time
-    Community Organizer to the work, and also hire a part-time person to handle
-    the logistics and data entry needs involved with the campaign. We are
-    pursuing Foundation funding sources to cover the additional costs, and will
-    also cover some expenses out of our General Operating Support funds,
-    congregational membership dues and individual donations. This work is so
-    important to our vision of a fair and just Los Angeles that we will find a
-    way to do it with whatever funds and capacity are necessary. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Staff\r\nFull-time Community Organizer: $45,000\r\nPart-time staff person ($15/hr for 20 hrs/week): $14, 400\r\nBenefits: $17,820\r\nTotal staff: 77,220\r\n\r\nProgram Expenses\r\nPrinting: $2000\r\nMaterials purchase for actions, meetings and canvassing: $11,280\r\nTravel: $5000\r\nOffice supplies: $1500\r\nMailing/postage/delivery: $1000\r\nTelephone: $2000\r\nTotal program expenses: $22,780\r\n\r\nTotal: $100,000"
   How do you plan to scale the success of your proposal?: >-
     Completion of this voter turnout campaign will build infrastructure that
     will allow us to continue our voter turnout work on an increasing scale each
@@ -180,8 +169,6 @@ Please list at least one major barrier/challenge you anticipate. What is your st
 Please explain how you will evaluate your work.: '#N/A'
 Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/turning-out-voters-through-local-relationships/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23660%252Fdisplay%252FLA_2050_collage.jpg=c570x385.jpg

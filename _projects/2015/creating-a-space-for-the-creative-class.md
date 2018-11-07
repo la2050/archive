@@ -19,8 +19,8 @@ project_areas:
   - Central LA
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: friend
   Organization(s) name(s): Off The Saw
   Organization(s) mailing address(es): "407 E Pico Blvd, Studio 1004\r\nLos Angeles, CA 90015"
   Organization(s) website(s): www.offthesaw.com
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: friend
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -141,8 +141,6 @@ maker_answers:
     partnership with the CSULB Art Department: Wood, Craft in America Center,
     Offerman Wood Shop, LA Box Collective, and other artisan makers to include
     Sidecar Furniture,  Artifact Woodworks, and Riiska Design. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The total cost to achieve our project goals is $116,700. We have the commitment of a local business to cover the additional costs. \r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Staff time (20 hours/week @ $35/hour) - $36,400\r\nSpeaker Series, 10 events:\r\n  Speaker fees (3 speakers/event @ $200) - $6,000\r\n  Food & beverage ($500/event) - $5,000\r\n  Projector - $1,200\r\nCraft Business Toolkit:\r\n  Tape recorder - $100\r\n  Transcription services - $3,000\r\n  Podcast production (20 hours/event @ $70/hour) - $14,000\r\n  Writing white papers & business resources (20 hours/event @    \r\n     $70/hour) - $14,000\r\n  Document design ($1,200/document) - $12,000\r\nCurriculum development:\r\n  Workshops - $5,000\r\n  Apprenticeship - $5,000\r\nMarketing & advertising - $15,000\r\n\r\nTotal - $116,700\r\n"
   How do you plan to scale the success of your proposal?: "This proposal will create a speaker series and business toolkit. Capturing the thoughts, experiences, and resources shared by our experts in the business toolkit will create a scalable resource that we can share with craft furniture makers throughout Los Angeles, California, and the US. In addition to promoting the resources through our own network, we will work with partner organizations to leverage their networks as well. While the content of the business toolkit will be geared toward craft furniture makers, we fully expect that the salient points can be extrapolated and applied by artists and artisans more generally. \r\n\r\nOur secondary goals are to grow our existing workshop and apprenticeship programs. We would like to formalize a curriculum for both programs that can be shared with other collective wood shops. \r\n\r\nMore generally, interest in collective shops is growing rapidly as a way to leverage resources and create community. We have already shared our ideas and experiences with similar ventures in Austin, Minneapolis, Northern California, and North Carolina. We will continue to share our perspective and offer our curriculum and toolkit as resources for these new ventures. \r\n"
 areas_impacted: ''
 partners: ''
@@ -207,28 +205,6 @@ Are there other organizations doing similar work (whether complementary or compe
   CSULB Art Department: Wood, Craft in America Center, Offerman Wood Shop, LA
   Box Collective, and other artisan makers to include Sidecar Furniture,
   Artifact Woodworks, and Riiska Design.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The total cost to achieve our project goals is $116,700. We have the
-  commitment of a local business to cover the additional costs.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Staff time (20 hours/week @ $35/hour) - $36,400
-   Speaker Series, 10 events:
-    Speaker fees (3 speakers/event @ $200) - $6,000
-    Food & beverage ($500/event) - $5,000
-    Projector - $1,200
-   Craft Business Toolkit:
-    Tape recorder - $100
-    Transcription services - $3,000
-    Podcast production (20 hours/event @ $70/hour) - $14,000
-    Writing white papers & business resources (20 hours/event @ 
-    $70/hour) - $14,000
-    Document design ($1,200/document) - $12,000
-   Curriculum development:
-    Workshops - $5,000
-    Apprenticeship - $5,000
-   Marketing & advertising - $15,000
-   
-   Total - $116,700
 How do you plan to scale the success of your proposal?: >-
   This proposal will create a speaker series and business toolkit. Capturing the
   thoughts, experiences, and resources shared by our experts in the business

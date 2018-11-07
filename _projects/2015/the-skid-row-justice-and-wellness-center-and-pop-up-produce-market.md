@@ -20,8 +20,8 @@ project_areas:
   - Central LA
   - South LA
 maker_answers:
+  'City, State': Los Angeles
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: Facebook
   Organization(s) name(s): Los Angeles Community Action Network
   Organization(s) mailing address(es): '838 E. 6th St. Los Angeles, CA 90021'
   Organization(s) website(s): www.cangress.org
@@ -76,7 +76,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': Los Angeles
+  How did you hear about this challenge?: Facebook
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -150,12 +150,6 @@ maker_answers:
     Angeles Poverty Department. However, this aspect of the work is part of
     ongoing working relationships between our organizations and thus we will not
     be utilizing funded partners for this specific project.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The total annual budget to implement the healthy food access components of
-    the Skid Row Justice and Wellness Center is $175,000.  We will cover the
-    additional costs with other grant funding and individual donations, of which
-    approximately 50 percent has already been secured.  
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Personnel: \t\r\nCommunity Organizer/Educator (75% FTE) $30,000\r\nMarket Coordinator/Peer Educator (50% FTE) $20,000\r\n\r\nPersonnel Subtotal:\r\n$50,000\r\n\r\nBenefits (at 25% of salaries)\t$12,500\r\n\r\nEquipment/Capital:\r\nComputers for Internet Café\t $5,000\r\nPop-Up Market Space Creation/Improvements\t$12,500\r\n\r\nCapital Subtotal:\r\n$17,500\r\n\r\nOperating Costs: \t\r\nOccupancy $5,000\r\nGarden Supplies $2,500\r\nOffice Supplies $4,000\r\nPrinting (educational materials) $2,500\r\nConferences/Training $1,500\r\nEvaluation $1,000\r\n\r\nOperating Subtotal:\r\n$16,500\r\n\r\nAdministration:\r\nInsurance $3,500\r\n\r\nAdministration Subtotal:\r\n$3,500\r\n\r\nTOTAL Budget $100,000\r\n"
   How do you plan to scale the success of your proposal?: "The LA 2050 Challenge grant will help LA CAN fully implement all of the healthy food access aspects of our new Skid Row Justice and Wellness Center, which will allow us to build upon the successful pop-up market LA CAN operates in the Pueblo del Rio community of South Los Angeles. This market has successfully created a new and sustainable source of fresh produce in an extremely low-income community, provided local employment opportunities, and distributes 0.6 tons of produce each month.  Our project also builds on our streetscape garden at our Skid Row location, which has more than 20 active residents maintaining it, harvesting food grown, and providing it to the community through food demonstrations and meals at community meetings.  \r\n\r\nWe are fully confident that the support we receive from LA 2050 will allow us to continue to expand this proven model for creating a healthy LA. Once operational, we envision building other community gardens and incorporating produce grown in these spaces into our market, expanding the locations and days we are able to operate the market, and sharing this model with other organizations throughout Los Angeles. \r\n\r\nWe know our model for increasing the health of poor communities of color through community education,  gardening, healthy food access, and micro-enterprise works. With the help of LA 2050, we can continue to help make LA the healthiest place to live."
 areas_impacted: ''
 partners: ''
@@ -218,46 +212,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Poverty Department. However, this aspect of the work is part of ongoing
   working relationships between our organizations and thus we will not be
   utilizing funded partners for this specific project.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The total annual budget to implement the healthy food access components of the
-  Skid Row Justice and Wellness Center is $175,000. We will cover the additional
-  costs with other grant funding and individual donations, of which
-  approximately 50 percent has already been secured.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Personnel: 
-   Community Organizer/Educator (75% FTE) $30,000
-   Market Coordinator/Peer Educator (50% FTE) $20,000
-   
-   Personnel Subtotal:
-   $50,000
-   
-   Benefits (at 25% of salaries) $12,500
-   
-   Equipment/Capital:
-   Computers for Internet Café $5,000
-   Pop-Up Market Space Creation/Improvements $12,500
-   
-   Capital Subtotal:
-   $17,500
-   
-   Operating Costs: 
-   Occupancy $5,000
-   Garden Supplies $2,500
-   Office Supplies $4,000
-   Printing (educational materials) $2,500
-   Conferences/Training $1,500
-   Evaluation $1,000
-   
-   Operating Subtotal:
-   $16,500
-   
-   Administration:
-   Insurance $3,500
-   
-   Administration Subtotal:
-   $3,500
-   
-   TOTAL Budget $100,000
 How do you plan to scale the success of your proposal?: >-
   The LA 2050 Challenge grant will help LA CAN fully implement all of the
   healthy food access aspects of our new Skid Row Justice and Wellness Center,

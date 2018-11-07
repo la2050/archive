@@ -21,8 +21,8 @@ project_areas:
   - County of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Twitter
   Organization(s) name(s): 'Girls Inc. of Greater Los Angeles, WhizGirls'
   Organization(s) mailing address(es): "1631 Pontius Ave., Los Angeles, CA 90025 (GI)\r\n"
   Organization(s) website(s): www.girlsincla.org
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Twitter
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -143,12 +143,6 @@ maker_answers:
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
     Girls Inc LA and WhizGirls Academy will collaborate and will equally receive
     $50,000 to implement the project.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The cost of the Girls Inc. program for this project is $133,000. Board
-    member contributions of $50,000 have been designated to cover overhead so
-    that all remaining donations will go directly to program. The balance of
-    $33,000 will be funded through the Girls Inc. LA Celebration Luncheon.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Program Director- $5,000\r\nProgram Coordinators- $15,168\r\nTaxes & Benefits- $6,800\r\nProgram Supplies- $8,866\r\nSnacks- $7,666\r\nTransportation- $1,500\r\nAccounting- $5,000\r\nLegal Fees (™)- $10,000\r\nTeacher Trainings- $30,000\r\nLicensing Curriculum-$10,000"
   How do you plan to scale the success of your proposal?: >-
     The key to success is having trained, professional staff and volunteers as
     mentors for the girls. Partnering with school districts allow easier access
@@ -197,22 +191,6 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
   Girls Inc LA and WhizGirls Academy will collaborate and will equally receive
   $50,000 to implement the project.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The cost of the Girls Inc. program for this project is $133,000. Board member
-  contributions of $50,000 have been designated to cover overhead so that all
-  remaining donations will go directly to program. The balance of $33,000 will
-  be funded through the Girls Inc. LA Celebration Luncheon.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Program Director- $5,000
-   Program Coordinators- $15,168
-   Taxes & Benefits- $6,800
-   Program Supplies- $8,866
-   Snacks- $7,666
-   Transportation- $1,500
-   Accounting- $5,000
-   Legal Fees (™)- $10,000
-   Teacher Trainings- $30,000
-   Licensing Curriculum-$10,000
 How do you plan to scale the success of your proposal?: >-
   The key to success is having trained, professional staff and volunteers as
   mentors for the girls. Partnering with school districts allow easier access

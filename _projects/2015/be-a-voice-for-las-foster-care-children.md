@@ -19,8 +19,8 @@ project_video: ''
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Good.com
   Organization(s) name(s): CASA of Los Angeles
   Organization(s) mailing address(es): '201 Centre Plaza Drive, Monterey Park, CA 91754'
   Organization(s) website(s): www.casala.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Good.com
   'City, State': 'Monterey Park, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -151,8 +151,6 @@ maker_answers:
     in foster care, are more likely to be adopted, and have a better chance of
     achieving greater academic success.
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "CASA/LA’s current partnerships include numerous organizations advocating for the wellbeing of underserved youth throughout Los Angeles County and beyond, such as The Right Way Foundation, Zero to Three, Project ABC, L.A. Child Guidance Center, Child Development Institute, Vista Del Mar Child and Family Services, Secure Transitions Foster Family Agency, the Alliance for Children’s Rights, among others. In addition, of Los Angeles regularly partners with like-minded organizations and governmental agencies to serve—and save—more children in the dependency courts, including:\r\n\r\n•\tLos Angeles Dependency Court\r\n•\tThe Los Angeles Department of Children and Family Services\r\n•\tChildren's Law Center\r\n•\tThe Alliance for Children's Rights\r\n•\tChild Development Institute\r\n•\tLos Angeles Department of Mental Health\r\n•\tLos Angeles Department of Public Health\r\n\r\nHowever, through LA2050, CASA/LA hopes to expand its partnerships to include groups which work with specific diverse populations, like First African Methodist Episcopal Church (FAME), the Los Angeles Latino Chamber of Congress (LALCC), the Los Angeles Gay and Lesbian Center, Hispanic Organization Promoting Education (HOPE), Brotherhood Crusade, and 100 Black Men of Los Angeles. Through this project, CASA hopes to expand outreach to these specific communities and their respective organizations to find new and creative ways to collaborate and to connect community members as CASA volunteers. \r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "$389,680\r\n\r\nAdditional costs will be covered by alternative fundraising through foundations, corporations, events, and individual giving.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Outreach Expenses\r\n\r\nPersonnel - $50,000\r\nAdvertising - $25,000\r\nProfessional Services - $7,500\r\nTraining and Travel - $7,500\r\nFacilities & Equipment - $5,000\r\nInformation Systems - $5,000\r\nTotal Expense - $100,000\r\n"
   How do you plan to scale the success of your proposal?: >-
     This year, CASA aims to serve 1,000 of the 30,000 children in foster care,
     but are goals are far more ambitious than that. In the last five years, CASA
@@ -249,17 +247,6 @@ Are there other organizations doing similar work (whether complementary or compe
    • Los Angeles Department of Public Health
    
    However, through LA2050, CASA/LA hopes to expand its partnerships to include groups which work with specific diverse populations, like First African Methodist Episcopal Church (FAME), the Los Angeles Latino Chamber of Congress (LALCC), the Los Angeles Gay and Lesbian Center, Hispanic Organization Promoting Education (HOPE), Brotherhood Crusade, and 100 Black Men of Los Angeles. Through this project, CASA hopes to expand outreach to these specific communities and their respective organizations to find new and creative ways to collaborate and to connect community members as CASA volunteers.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '389680'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Outreach Expense s
-   
-   Personnel - $50,000
-   Advertising - $25,000
-   Professional Services - $7,500
-   Training and Travel - $7,500
-   Facilities & Equipment - $5,000
-   Information Systems - $5,000
-   Total Expense - $100,000
 How do you plan to scale the success of your proposal?: >-
   This year, CASA aims to serve 1,000 of the 30,000 children in foster care, but
   are goals are far more ambitious than that. In the last five years, CASA has

@@ -21,8 +21,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Collaborator
   Organization(s) name(s): Dreamhaus Inc.
   Organization(s) mailing address(es): "110 E. Hillcrest Blvd.  Suite#112\r\nInglewood, CA 90301"
   Organization(s) website(s): www.dreamhausla.org
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Collaborator
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -153,8 +153,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Dreamhaus will foster an educational & artistic platform by accomplishing the following goals:\r\n(1)\tShowcase 20 artists; new in the professional art circuit, to help them gain experience and build their CV. These artists will have the opportunity to communicate their vision on an open forum artist discussion, showcase their artworks for a month in the Dreamhaus space, and leave with a physical catalogue that can be utilized in advancing their careers outside of Dreamhaus.\r\n(2)\tWe will Track the number of attendees for every event. Our current (250) person core audience will increase 15-20% each quarter, reaching an audience of 400-450 by the end of the year.\r\n(3)\t12 workshops that cultivate a core group of 10 kids into realizing the possibilities of art as a career. We will focus on their specific and unique ideas to help them establish a body of artwork for their art career.\r\n(4)\tEnsure 640 kids receive at least 5 donated gifts for the Christmas season."
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "SPARC, also known as Social and Public Art Resource Center, is an organization that focuses on educating at-risk youth, and is complementary to Dreamhaus and its mission. Its work focuses on community engagement to provide empowerment to the residents of the neighborhood outside of civic debate. While SPARC focuses on the significance of the process in creating the artwork, Dreamhaus intends on measuring the value of the work based on its relativity to the neighborhood. However, both programs show the significant transformative impact that art can have on the important social problems of our generation.\r\n\r\n\r\nAnother organization that does similar work is Elephant Gallery in Glassell Park, CA. This organization is also an “Artist-Run Space” and allows artists to submit proposals, yet they do not have any community-related projects. Elephant Gallery solely presents a platform where artists can showcase their work, however Dreamhaus integrates the surrounding neighborhood with the artists’ vision. Our organization is unique because we believe that we can make a change within the South Los Angeles community by transforming the way the public perceives the career of an artist and to motivate young students who are interested in technical or conceptual arts to pursue a professional art career.\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Collaboration bridges common goals between separate entities. The OPM Company is a successful independent record company dedicated to giving a platform to aspiring musicians. Dom Kennedy, a Los Angeles-born rapper, is an advocate for Dreamhaus and is a partner. In addition, Pacific Dissent is a local, Los Angeles-based contemporary art magazine that features photographers, painters, and writers from around the globe. Their publication is a platform that allows artists to be discovered in cities such as Los Angeles and New York. In this way, Pacific Dissent is a magazine version of what Dreamhaus aspires to be. Both companies hope to shape the future perception of artists, and uncover unprecedented artistic talent. \r\n\r\nBoth partner organizations will gain benefit of this grant through the renovated space and its artists. Dreamhaus, The OPM Company and Pacific Dissent will all share resources and create opportunities by opening the doors to innovative and risk-taking individuals willing to push boundaries as we (together) shape Los Angeles to become the best place to learn, create, connect and live. \r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The Dreamhaus project budget is $106,400. The $6,400 additional costs will be covered through other means, namely donations, sponsorship and rental of the Dreamhaus warehouse. \r\n\r\nOne feature of our budget is allocated for materials to be used for the workshop with elementary school students. It will include painting materials such as paper, paint and brushes. Organizations such as Blick Art Materials have an online website dedicated to fundraising supplies for art programs. Dreamhaus will be using this fundraising operation in order to compensate for the additional cost that will not be covered in the funding provided by LA2050. \r\n\r\nWe have established a network of rental clients that include Interscope Records/Universal Music Group, The Top Shelf Company, and Atlantic Records. The studio is a great location for photo shoots and filming purposes and we are confident these rental fees will cover the lease throughout the year. \r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Drywall/Removable Walls\t\t\t                                $17,000.00 \r\nVentilation\t\t\t                                                        $3,000.00 \r\nLighting \t\t\t                                                                $1,000.00 \r\nWindow Enhancements\t\t\t                                $5,000.00 \r\nFront Door Enhancement\t\t\t                                $700.00 \r\n\t\t\t\r\n\t\t                                                                     Total  $26,700.00 \r\n\t\t\t                         Monthly\r\n\r\nRent\t                                $3,250.00 \t  \t                 $19,500.00 \r\nSecurity Cameras\t\t\t                                                 $10,000.00 \r\nParking\t                                $300.00 \t \t                         $3,600.00 \r\nPayroll\t\t\t                                                                 $4,000.00 \r\nFlat Files (Archives)\t\t\t                                         $4,800.00 \r\nFurniture (Studio)\t\t\t                                                 $2,500.00 \r\nFurniture (Office)\t\t\t                                                 $2,500.00 \r\nArtist Stipend (Shows)\t         $1,000.00 \t                         $12,000.00 \t  \r\nWebsite Maintenance\t         $720.00 \t \t                         $8,640.00 \r\nVideo Documentation\t\t\t                                         $500.00 \r\nVideo Editor\t\t\t                                                         $500.00 \r\nWorkshop - Artist Payment\t $480.00                                  $5,760.00 \r\nWorkshop - Materials\t         $450.00 \t \t                        $5,400.00 \r\n\t\t\t\r\n\t\t\t\r\n\t\t                                                                    Total   $79,700.00 \r\n\t\t\t\r\nTotal \t\t $106,400.00 \r\n"
   How do you plan to scale the success of your proposal?: "Since our proposal outlines our mission to construct an “Artist-Run Space,” the first method of scaling success would be simply having a fully-functional facility, one that houses art events. Moreover, by sustaining a consistent schedule of artist showcases in our studio, our effect can be measured. The projected start date for renovations to the studio will be January 2016. Meanwhile, we will be reviewing proposals of artists with art collections that are ready to show. These candidates will have the opportunity to explain their concept, and, in addition, they will commit to leading a month-long workshop in alignment with the Dreamhaus mission to establish community engagement between artists and youth. As we reach the six-month mark, we hope to discuss the possibility of opening up the studio to displaying two artists per month in order to maintain a level of productivity in the organization. By slowly expanding the operation in this natural fashion, and growing our number of art events consistently (to compete with schedules of certain reputable museums), scaling will be self-evident.\r\n\r\nAnother phase of our plan to measure the success of our proposal is the work we will do with elementary school students. Our co-founders have a history of working with Saturn Elementary School and we would like to expand our work by holding art workshops for small groups of students. We believe that involving a younger generation of students in learning about technical and conceptual art skills will better acclimate them with their studies in school. To give an example-  in a classroom setting, we will limit students to a specific color palette where they will be instructed to create an abstract piece. Once they are finished, we will ask them to explain their thought process and the reasoning behind their creation. We will scale the success by knowing that the children have a strong grasp on conscious decision-making in the art marking process. Our hope is to help students realize the connection between their imagination and their success in everyday classroom setting (and beyond). \r\n\r\nFinally, back to the “Artist Run Space,” we hope that in five years time, Dreamhaus will be a point of reference for corporations to connect with artists. Funding from this grant challenge will allow us to work towards a better Los Angeles as a place to create, connect and live.\r\n"
 areas_impacted: ''
 partners: ''
@@ -214,42 +212,6 @@ Are there other organizations doing similar work (whether complementary or compe
   unprecedented artistic talent. 
    
    Both partner organizations will gain benefit of this grant through the renovated space and its artists. Dreamhaus, The OPM Company and Pacific Dissent will all share resources and create opportunities by opening the doors to innovative and risk-taking individuals willing to push boundaries as we (together) shape Los Angeles to become the best place to learn, create, connect and live.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The Dreamhaus project budget is $106,400. The $6,400 additional costs will be
-  covered through other means, namely donations, sponsorship and rental of the
-  Dreamhaus warehouse. 
-   
-   One feature of our budget is allocated for materials to be used for the workshop with elementary school students. It will include painting materials such as paper, paint and brushes. Organizations such as Blick Art Materials have an online website dedicated to fundraising supplies for art programs. Dreamhaus will be using this fundraising operation in order to compensate for the additional cost that will not be covered in the funding provided by LA2050. 
-   
-   We have established a network of rental clients that include Interscope Records/Universal Music Group, The Top Shelf Company, and Atlantic Records. The studio is a great location for photo shoots and filming purposes and we are confident these rental fees will cover the lease throughout the year.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Drywall/Removable Walls  $17,000.00 
-   Ventilation  $3,000.00 
-   Lighting  $1,000.00 
-   Window Enhancements  $5,000.00 
-   Front Door Enhancement  $700.00 
-   
-    Total $26,700.00 
-    Monthly
-   
-   Rent  $3,250.00    $19,500.00 
-   Security Cameras  $10,000.00 
-   Parking  $300.00  $3,600.00 
-   Payroll  $4,000.00 
-   Flat Files (Archives)  $4,800.00 
-   Furniture (Studio)  $2,500.00 
-   Furniture (Office)  $2,500.00 
-   Artist Stipend (Shows)  $1,000.00  $12,000.00  
-   Website Maintenance  $720.00  $8,640.00 
-   Video Documentation  $500.00 
-   Video Editor  $500.00 
-   Workshop - Artist Payment $480.00 $5,760.00 
-   Workshop - Materials  $450.00  $5,400.00 
-   
-   
-    Total $79,700.00 
-   
-   Total $106,400.00
 How do you plan to scale the success of your proposal?: >-
   Since our proposal outlines our mission to construct an “Artist-Run Space,”
   the first method of scaling success would be simply having a fully-functional

@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_create_researchgrant: '1'
   metrics_create_employment: '1'
-  city_state: 'Los Angeles, CA'
   org_website: 'http://droplabs.net'
   org_twitter: droplabs
   org_facebook: 'https://www.facebook.com/DroplabsLA'
@@ -69,7 +69,7 @@ maker_answers:
   org_name: Droplabs
   metrics_create_arts: '1'
   metrics_create_manufacturing: '1'
-  metrics_create_researchgrant: '1'
+  city_state: 'Los Angeles, CA'
   metrics_create_patents: '1'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '1'
@@ -92,8 +92,6 @@ maker_answers:
   achievable_goal: "Building a startup usually takes several steps:\r\n\r\n1)\tGet a prototype together; (We did this with our original founders.)\r\n2)\tGet a Minimum Viable Product (MVP) and get users;\r\n3)\tEvolve with user input;\r\n4)\tGet funding for growth. \r\n\r\nWhen we started Droplabs three years ago, we decided to follow these steps for the brick and mortar organization that we were building. We are at the end of step three, and have been member led since day one. We’re ready to scale.\r\n\r\nStep three for us looks like this: \r\n•\tWe have a membership and culture that is bright, positive and supportive;\r\n•\tWe have programs that are high value, low cost and repeatable;\r\n•\tWe have a clear plan for how we want to grow; \r\n•\tDroplabs currently exists in a space that is smaller than 1000 square feet.\r\n\r\nWe have had enormous success with our programs and have outgrown our physical infrastructure. We want to continue what we’re doing, and grow to serve more people.\r\n\r\nWith the grant we intend to:\r\n\r\n1)\tExpand our makerspace capabilities;\r\n2)\tMove to larger digs;\r\n3)\tBuild software to manage it using barnraisings;\r\n4)     Build our own furniture, as needed, using the maker machines;\r\n4)\tHire someone part time to manage social media. \r\n\r\nAll of these are very achievable within a year. "
   major_challenges: "Scaling and growth never comes without challenges, and we anticipate a few. \r\n\r\nThe processes we’ve evolved to manage Droplabs will need to scale. These processes include managing classrooms at multiple locations, managing membership, coordinating meetups, and managing maintenance of new equipment. We plan on using some of the money to work with our members to build the software using Barnraisings. \r\nWe also anticipate that we will need to work with professionals for part of this. \r\n\r\nWe also know that managing and maintaining maker equipment and tools in good working order will need to have new processes in place, and new roles in our community to manage them. Again, we have several high quality advisors to help us implement maintenance schedules, and manage staff and volunteers around these. \r\n"
   competition: "There are many coworking spaces in the Los Angeles area, and we have partnered with many of them to host our programs. We’ve also helped another one get started. There are many business models around them as well. The Hub LA, is similar as is Cross Campus. \r\n\r\nThere is a teaching space in New York called the Brooklyn Brainery that has a similar structure to managing classrooms and teachers. \r\n\r\nOur favorite makerspace in Los Angeles is Crashspace. Much of our business model came from their ideas, as they are low cost, run regular membership meetings, collaborate and share their knowledge freely. We also like Los Angeles Makerspace. \r\n\r\nWe were inspired by Boston’s South End Technology Center @ Tent City, where two of our founders worked for a few years. In collaboration with MIT, they had a FabLab where we taught. They also taught many people basic computer skills, including those returning from incarceration. This was founded and run by the brilliant Dr. Mel King and indefatigable Dr. Susan Klimczak.\r\n"
-  cost: "We're currently in negotiation with the city to get more space, so that's a variable. We're assuming $25,000 to $50,000\r\n\r\nWe think that a part time social media person will cost around $15,000. \r\n\r\nWe will sink the rest into maker equipment, and the raw materials to make furniture from open source files. \r\n\r\nOur main goal is to be sustainable. "
-  budget: "$25,000 - $50,000 - rent and utilities\r\n$20,000 - staffing\r\n$30,000 - equipment"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

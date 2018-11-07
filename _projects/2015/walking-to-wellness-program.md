@@ -24,8 +24,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: LA Works email
   Organization(s) name(s): Life Change Up
   Organization(s) mailing address(es): "850 N. Kings Rd. #311\r\nWest Hollywood, Ca. 90069"
   Organization(s) website(s): www.LifeChangeUp.com
@@ -76,7 +76,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: LA Works email
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -146,8 +146,6 @@ maker_answers:
     journey towards health. As such, I would like to list Groceryships as a
     collaboration partner and will share the balance of the funds of
     approximately $43,000 with them.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Estimated budget for one year: $56,668 (12 Groups)\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "ANNUAL PROGRAM BUDGET\r\n12 Groups - 84 Participants (Staggered Start Dates)\r\nStaff Salary: $40,320\r\nEXPENSES:\r\nWalking Shoes: $5,040\r\nFitBit Zip: $5,040\r\nCompletion Prizes: $1,680\r\nLegal / Professional: $1,600\r\nEquipment: $300\r\nSupplies: $228\r\nTelecommunications: $792\r\nMarketing / Advertising: $300\r\nTravel / Meetings: $1,128\r\nMiscellaneous: $240\r\n\r\nTotal Annual Expenses:  $16,348\r\nTotal Annual Program Cost:\t$56,668\r\n\r\nBUDGET (Single Group) - 7 Participants / 7 Week Group\t\r\nBreakdown of Weekly Staff Hours:\r\nClass Meeting: 2\r\nIndividual Walking: 7\r\nMotivational Support (Email, Text, Phone): 7\r\nTotal Wkly Hrs: 16\r\nStaff Salary (Single Group): \t$3,360\r\n\t\r\nEXPENSES (Single Group):\r\nWalking Shoes (7 pairs @ $60 ea): $420\r\nFitBit Zip (7 @ $60): $420\r\nCompletion Prize (Gift Card – 7 @ $20):  $140\r\nLegal / Professional: $133\r\nEquipment: $25\r\nSupplies: $19\r\nTelecommunications: $66\r\nMarketing / Advertising: $25\r\nTravel / Meetings: $94\r\nMiscellaneous: $20\r\n\r\nTotal Single Group Expenses: $1,362\r\nTotal Cost of Single Group:\t$4,722"
   How do you plan to scale the success of your proposal?: >-
     Once the program is established, I plan to expand its scope by developing a
     “train the trainer” curriculum, which will allow others to implement the
@@ -269,48 +267,6 @@ Are there other organizations doing similar work (whether complementary or compe
   towards health. As such, I would like to list Groceryships as a collaboration
   partner and will share the balance of the funds of approximately $43,000 with
   them.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'Estimated budget for one year: $56,668 (12 Groups)'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  ANNUAL PROGRAM BUDGET
-   12 Groups - 84 Participants (Staggered Start Dates)
-   Staff Salary: $40,320
-   EXPENSES:
-   Walking Shoes: $5,040
-   FitBit Zip: $5,040
-   Completion Prizes: $1,680
-   Legal / Professional: $1,600
-   Equipment: $300
-   Supplies: $228
-   Telecommunications: $792
-   Marketing / Advertising: $300
-   Travel / Meetings: $1,128
-   Miscellaneous: $240
-   
-   Total Annual Expenses: $16,348
-   Total Annual Program Cost: $56,668
-   
-   BUDGET (Single Group) - 7 Participants / 7 Week Group 
-   Breakdown of Weekly Staff Hours:
-   Class Meeting: 2
-   Individual Walking: 7
-   Motivational Support (Email, Text, Phone): 7
-   Total Wkly Hrs: 16
-   Staff Salary (Single Group): $3,360
-   
-   EXPENSES (Single Group):
-   Walking Shoes (7 pairs @ $60 ea): $420
-   FitBit Zip (7 @ $60): $420
-   Completion Prize (Gift Card – 7 @ $20): $140
-   Legal / Professional: $133
-   Equipment: $25
-   Supplies: $19
-   Telecommunications: $66
-   Marketing / Advertising: $25
-   Travel / Meetings: $94
-   Miscellaneous: $20
-   
-   Total Single Group Expenses: $1,362
-   Total Cost of Single Group: $4,722
 How do you plan to scale the success of your proposal?: >-
   Once the program is established, I plan to expand its scope by developing a
   “train the trainer” curriculum, which will allow others to implement the

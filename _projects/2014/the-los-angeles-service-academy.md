@@ -16,6 +16,7 @@ project_areas:
   - SOUTH LA
   - SFV
 maker_answers:
+  metrics_learn_unemployment: '0'
   collaboration: >-
     LASA thrives on and can only work through partnerships.  It is in fostering
     these partnerships -- and in showcasing them to the students -- that we
@@ -41,7 +42,6 @@ maker_answers:
     that the LASA participants get to meet high-profile decision-makers and
     leaders across a broad swath of institutions, agencies, and educational
     centers in the region.
-  about_you: 'Los Angeles, CA'
   org_website: 'http://LAServiceAcademy.org'
   org_twitter: 'www.twitter.com/#LAService Academy &  https://twitter.com/HUSC_ICW'
   org_facebook: ' https://www.facebook.com/pages/Huntington-USC-Institute-on-California-and-the-West/299535653439547'
@@ -92,7 +92,7 @@ maker_answers:
     West
   metrics_learn_earlyeducation: '0'
   metrics_learn_communitycollege: '1'
-  metrics_learn_unemployment: '0'
+  about_you: 'Los Angeles, CA'
   metrics_learn_graduationrates: '0'
   metrics_learn_proficiency: '0'
   metrics_learn_api: '1'
@@ -118,8 +118,6 @@ maker_answers:
     We don't think so.  We look like the CORO program, but we aim at high school
     kids.  We met with them, they noticed the similarities, and they told us
     that there was nothing like LASA that they knew of.
-  cost: "We can run LASA for something in the ballpark of $74,000 per year.  Our expenses are simple: stipends for co-directors; bus and other transit fees; stipends for experts; books and other materials for students, interns, teachers; lots of food; some incidentals or service/rental fees; admission for this or that institution or facility; use-fees for, for example, rafting on the LA River.  \r\n\r\n"
-  budget: "I think the previous box explains this pretty well.  But, more specifically:\r\n\r\nFounding Director Bill Deverell  $1000 per month\r\nExecutive Director Doug Smith $2500 per month\r\nTeacher/Intern Stipends $6000 per year\r\nBus/other transit $8000 a year\r\nBooks/materials $6000 a year\r\nFood/Water $6000 a year\r\nStipends for experts $6000 a year\r\nMisc $1000"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

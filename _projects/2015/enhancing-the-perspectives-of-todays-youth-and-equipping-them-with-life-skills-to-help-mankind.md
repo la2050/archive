@@ -16,8 +16,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Marina del Rey, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: 'Colleague referral '
   Organization(s) name(s): Keith A. Somers International Foundation
   Organization(s) mailing address(es): "4712 Admiralty Way\r\nSuite 955 \r\nMarina del Rey, CA 90292"
   Organization(s) website(s): www.keithasomersfoundation.org
@@ -61,7 +61,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Marina del Rey, CA'
+  How did you hear about this challenge?: 'Colleague referral '
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: >-
     Marketing, advertising, to bring substantially greater awareness to the
@@ -142,12 +142,6 @@ maker_answers:
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
     (None at the present time. However we are open to collaborating in order to
     enhance our effectiveness and our reach across all strata of our society)
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The costs associated with operating our non profit, currently, are minimal.
-    This grant, once awarded, will fund new staff positions, and collaborations,
-    that are direly needed to help fulfill our mission statement, throughout Los
-    Angeles County, as well as all of the neighboring counties. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "KASIF PROPOSED 2016 BUDGET \r\n\r\nTotal Revenue - \t$1000,000.00\r\n-----------------------------------------------\t\r\nExecutive Director                     $48,000.00/yr.\r\nProgram Coordinator (Volunteer)\r\nAdmin. Assistant (Volunteer)\r\nTotal Salaries and Wages - \t     $48,000.00\r\n\t\r\nOffice                                          $ 6,000.00\r\nPrinting/Materials                      $15,000.00\r\nAdvertising (tv,radio,internet)   $20,000.00\r\nTelephone\r\n      Landline & Cellular              $1,250.00\r\n\r\nWeb Site/Development/Maintenance\t$2,500.00\r\nTotal Operating Expenses\t\t         $24,750.00\r\nSalary/Operating/Program Expenses\t $48,000.00\t\r\nRevenue Less Expenses\t          (+) $7,250.00 (Misc. expenses)"
   How do you plan to scale the success of your proposal?: >-
     Through collaborations with outside professionals I'll be able to scale the
     success of my proposal, and make the necessary adjustments when those same
@@ -200,31 +194,6 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
   (None at the present time. However we are open to collaborating in order to
   enhance our effectiveness and our reach across all strata of our society)
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The costs associated with operating our non profit, currently, are minimal.
-  This grant, once awarded, will fund new staff positions, and collaborations,
-  that are direly needed to help fulfill our mission statement, throughout Los
-  Angeles County, as well as all of the neighboring counties.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  KASIF PROPOSED 2016 BUDGET 
-   
-   Total Revenue - $1000,000.00
-   ----------------------------------------------- 
-   Executive Director $48,000.00/yr.
-   Program Coordinator (Volunteer)
-   Admin. Assistant (Volunteer)
-   Total Salaries and Wages -  $48,000.00
-   
-   Office $ 6,000.00
-   Printing/Materials $15,000.00
-   Advertising (tv,radio,internet) $20,000.00
-   Telephone
-    Landline & Cellular $1,250.00
-   
-   Web Site/Development/Maintenance $2,500.00
-   Total Operating Expenses  $24,750.00
-   Salary/Operating/Program Expenses $48,000.00 
-   Revenue Less Expenses  (+) $7,250.00 (Misc. expenses)
 How do you plan to scale the success of your proposal?: >-
   Through collaborations with outside professionals I'll be able to scale the
   success of my proposal, and make the necessary adjustments when those same

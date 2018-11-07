@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '1'
-  city_state: 'Santa Fe Springs, California'
   org_website: www.interfaithfoodcenter.org
   org_twitter: ''
   org_facebook: www.facebook.com/interfaithfoodcenter
@@ -97,7 +97,7 @@ maker_answers:
   org_name: Interfaith Food Center
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'Santa Fe Springs, California'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '1'
   metrics_live_homelessness: '0'
@@ -120,14 +120,6 @@ maker_answers:
   achievable_goal: "The first action would be to hire a part time program administrator to oversee the project and begin collaborations with different resources in the community.\r\n\r\nIn order to begin the research and preliminary pamphlet design, partnerships with local colleges will begin during the Fall Semester (2014). Additionally, during Christmas break the extra volunteers on hand will be used to help with coordinating printing materials and pamphlet distribution.\r\n\r\nClients will begin to interact with Four Seasons of Food beginning in January, when they will come in to the office to fulfill their mandatory renewal commitment and receive information about the program. During the re-registration process, Interfaith can inform clients about the program, and distribute both the nutritional information pamphlet and the first seasonal plan (juicing), and inform them of the sign-up process. \r\n\r\nFive classes with 20 clients in each class will be offered each season, with 100 clients receiving instruction and a free kitchen item. \r\n\r\nThe juice season will be from January to March, the blender season will be April to June, July to September will be lunch supplies, and October to December will be slow cooker. \r\n\r\nWith a project administrator to oversee the implementation and also the help of volunteers and local universities, Interfaith anticipates that this project will be able to operate on schedule. Interfaith uses an online database system to track how often a client picks up food in addition to information regarding their personal statistics, and this tool can be used to keep a record of which families are receiving the items. "
   major_challenges: "The two major challenges anticipated will be (1) adjusting the food items being distributed to meet the health standards outlined in the Four Seasons of Food plans and (2) the distribution of kitchen items.\r\n\r\nInterfaith obtains their food through donations and also purchasing it from distributors. A major challenge will be figuring out where the donated goods fit in to the Four Seasons of Food plan, because for the most part Interfaith has no say in what they receive. The solution to this problem is to purchase additional food that supplements the donated goods, and makes up for what is potentially lacking in nutritious value. This means that more fresh fruit ,vegetables, and dairy products will need to be purchased, and funds from the LA 2050 grant would be used.\r\n\r\nThe second challenge facing Four Seasons of Food is to ensure that the kitchen tool distribution is contained to the correct time frame and that it is done as fairly as possible. Clients are authorized to pick up food once a week (twice if the number of people per household exceeds 5 people), and the distribution of the kitchen items would occur throughout the quarter. To ensure that each household receives a fair chance at obtaining a kitchen item and also a say in whether or not they receive it, Interfaith would ask that each client sign up for a demonstration class, and at each demonstration they would receive the item. This way it can be better insured that those clients who wish to learn about the proper way to use the item and also receive education can benefit fully. One individual item cannot be purchased per season per family, and this way only those who truly want to make a change can be provided with the tools needed to succeed. "
   competition: No.
-  cost: >-
-    Interfaith is aiming to have the budget for this project be $100,000. Any
-    additional  costs will be covered by obtaining extra funds through grants.
-    Interfaith has a high success rate at being awarded grants, and with all the
-    community resources available and collaborations happening on this
-    particular program, Interfaith's funding team is confident that adequate
-    capital can be raised if expenses exceed the proposed budget. 
-  budget: "Project Four Seasons of Food\r\n\r\n1. Materials and Printing: \r\na. Class Materials: $10,000\r\nb. Promotions and Menus: $8,000\r\nTOTAL: $18,000\r\n\r\n2. Equipment:\r\na. Blenders: 100@ $50 each= $5,000\r\nb. Slow Cookers: 100 @ $50 each= $5,000\r\nc. Juicers: 100 @ $100 each= $10,000\r\nd. Lunch Boxes: 100 @ $20 each= $2,000\r\nTOTAL: $22,000\r\n\r\n3. Personnel\r\na. Contracted Project Administrator: $30,000\r\nTOTAL: $30,000\r\n\r\n4. Food Costs:\r\na. $2,500 per month for dairy and produce\r\nTOTAL: $30,000\r\n\r\nGRAND TOTAL= $100,000"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '0'

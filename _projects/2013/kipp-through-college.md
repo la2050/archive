@@ -77,8 +77,24 @@ project_summary: >-
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17303%252Fdisplay%252FKIPPThroughCollege3.jpg=c570x385
 maker_answers:
+  description1: >-
+    If it were a district, KIPP LA would be the highest performing in Los
+    Angeles County serving a majority of students from low-income communities. 
+    For nearly a decade, KIPP LA’s schools have been proving what is possible in
+    raising student achievement in traditionally underserved low-income
+    communities. In 2011-12, KIPP LA’s weighted average Academic Performance
+    Index (API) score was 892 (800 is the statewide goal), compared to 700 in
+    the neighboring schools of South and East Los Angeles. KIPP LA Prep, in
+    Boyle Heights, is the highest-performing middle school in Los Angeles
+    Unified School District for the second year in a row with an API of 924.
+    Similarly, KIPP Raíces Academy, in East LA, outperforms 98 percent of
+    elementary schools in California with an API of 961. According to the
+    national norm-referenced SAT-10 test, 96 percent of KIPP LA’s
+    kindergarteners and 94 percent of our first graders scored at or above the
+    national average in English language arts. Finally, 96 percent of KIPP LA
+    alumni are attending high-performing, college-prep high schools, and nearly
+    85 percent are currently enrolled in college.
   success: "A key ingredient to KIPP LA’s success is our commitment to data-driven decision-making and transparency. The KTC team regularly evaluates both quantitative and qualitative data to ensure that we are having the greatest impact possible on our students’ lives. This includes the number of students who matriculate to high-performing high schools, the number of students who participate in KTC support services such as financial aid assistance and counseling, and the number of students who enter, persist in, and graduate from selective colleges and universities.</br></br>In the coming year, KIPP LA and KTC will strive to meet the following goals and objectives:</br></br>\r\n•  Each year, KIPP LA’s middle schools will place 95 percent of eighth graders in college-preparatory high schools (high schools that provide college counseling for all students, offer the “A-G” courses the University of California requires, and have an Academic Performance Index score of 800+).</br>\r\n•  At least 80 percent of KIPP LA middle school alumni will enroll in college each year.</br>\r\n•  At least 10 percent of KIPP LA alumni in grades 9-12 will attend a summer or enrichment program.</br>\r\n•  At least 15 percent of KIPP LA alumni in grades 9-12 will participate in KTC enrichment programs, (such as the alumni volunteer program, internship program, job shadowing, career networking party, college partnership summer programs, college tours/fairs, and application boot camps).</br>\r\n•  At least 80 percent of KIPP LA alumni will persist in college. "
-  Organization Name: KIPP LA Schools
   Indicator: ' Education'
   brief: >-
     At KIPP LA Schools (KIPP LA), we believe that the real achievement gap is
@@ -149,7 +165,6 @@ maker_answers:
     we will increase the number of college graduates in these neighborhoods by
     50%.  In the long term, this will mean dramatic increases in academic
     attainment in some of Los Angeles’ most underserved communities.
-  budget explanation: "Expense Item\tAmount\r\nStaff Salaries \t$52,500.00\r\nProfessional Development\t$1,000.00\r\nKTC Scholarship Fund\t$15,000.00\r\n12th Grade Application Bootcamp\t$500.00\r\nHS Fair\t$3,500.00\r\nCollege Tours\t$9,000.00\r\nAlumni Incentives & Rewards\t$3,500.00\r\nAlumni Internship Program\t$5,000.00\r\nMarketing/PR/Outreach/Communications\t$10,000.00\r\nTotal Budget \t$100,000.00\r\n"
   description: >-
     The neighborhoods of South and East Los Angeles, where KIPP LA students and
     alumni live, face astonishingly high levels of illiteracy, drug abuse, gang
@@ -196,23 +211,7 @@ maker_answers:
     can implement to help close the achievement gap for all students of color
     and first-generation college students.
   website: 'http://www.kippla.org'
-  description1: >-
-    If it were a district, KIPP LA would be the highest performing in Los
-    Angeles County serving a majority of students from low-income communities. 
-    For nearly a decade, KIPP LA’s schools have been proving what is possible in
-    raising student achievement in traditionally underserved low-income
-    communities. In 2011-12, KIPP LA’s weighted average Academic Performance
-    Index (API) score was 892 (800 is the statewide goal), compared to 700 in
-    the neighboring schools of South and East Los Angeles. KIPP LA Prep, in
-    Boyle Heights, is the highest-performing middle school in Los Angeles
-    Unified School District for the second year in a row with an API of 924.
-    Similarly, KIPP Raíces Academy, in East LA, outperforms 98 percent of
-    elementary schools in California with an API of 961. According to the
-    national norm-referenced SAT-10 test, 96 percent of KIPP LA’s
-    kindergarteners and 94 percent of our first graders scored at or above the
-    national average in English language arts. Finally, 96 percent of KIPP LA
-    alumni are attending high-performing, college-prep high schools, and nearly
-    85 percent are currently enrolled in college.
+  Organization Name: KIPP LA Schools
   description3: >-
     In a city where there are over 240 charter schools, KIPP LA recognizes that
     demand is growing for high-quality education alternatives in traditionally
@@ -473,21 +472,5 @@ cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/kipp-through-college/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17303%252Fdisplay%252FKIPPThroughCollege3.jpg=c570x385.jpg
 maker_image_id: '17303'
 maker_image_file_name: KIPPThroughCollege3.jpg
-project_summary_backup: >-
-  If it were a district, KIPP LA would be the highest performing in Los Angeles
-  County serving a majority of students from low-income communities.  For nearly
-  a decade, KIPP LA’s schools have been proving what is possible in raising
-  student achievement in traditionally underserved low-income communities. In
-  2011-12, KIPP LA’s weighted average Academic Performance Index (API) score was
-  892 (800 is the statewide goal), compared to 700 in the neighboring schools of
-  South and East Los Angeles. KIPP LA Prep, in Boyle Heights, is the
-  highest-performing middle school in Los Angeles Unified School District for
-  the second year in a row with an API of 924. Similarly, KIPP Raíces Academy,
-  in East LA, outperforms 98 percent of elementary schools in California with an
-  API of 961. According to the national norm-referenced SAT-10 test, 96 percent
-  of KIPP LA’s kindergarteners and 94 percent of our first graders scored at or
-  above the national average in English language arts. Finally, 96 percent of
-  KIPP LA alumni are attending high-performing, college-prep high schools, and
-  nearly 85 percent are currently enrolled in college.
 
 ---

@@ -18,8 +18,8 @@ project_areas:
   - SGV
   - WESTSIDE
 maker_answers:
+  metrics_learn_communitycollege: '0'
   collaboration: "Los Angeles Unified School District-confirmed\r\nPeace Over Violence has worked in collaboration with LAUSD since 1991, implementing its In Touch With Teens relationship violence prevention curriculum and youth leadership development activities throughout middle and high school campuses. POV & LAUSD are currently partners on a Department of Justice federal grant (STEP), piloting a violence prevention policy, campus wide staff training and response protocols in three schools in Highland Park, LA. This is the second largest school district in the U.S. and a key partner in engaging youth, parents, educators and stakeholders.  \r\n\r\nKPFK 90.7 Beautiful Struggle-confirmed. \r\nYouth leaders continue to participate in The Beautiful Struggle’s weekly segments. TBS commits to running the Campaign PSAs with heavy rotation in February for Teen Dating Violence Prevention and Awareness Month. \r\n\r\nDawn Faelner & John Park-confirmed\r\nDawn and John have come on the project as design consultants, working with youth to develop their ideas into design elements for print, social media, and digital distribution. They are formally trained by Rebeca Mendez, who developed Peace Over Violence's signature brand and brand guidelines. They have been involved with the agency throughout Summer 2014 and will ensure campaign brand consistency. \r\n\r\nThe three critical factors in these partnerships are: 1. school buy-in and support for campaign implementation and dissemination, 2. continuous radio distribution/coverage of campaign, and 3. on going campaign design mentorship and brand development with youth. \r\n"
-  metrics_learn_earlyeducation: '0'
   org_website: peaceoverviolence.org
   org_twitter: '@PeaceOvrViolnce'
   org_facebook: 'https://www.facebook.com/PeaceOverViolence'
@@ -88,7 +88,7 @@ maker_answers:
     population at LAUSD schools campuses and surrounding communities. 
   about_you: 'Los Angeles, CA'
   org_name: Peace Over Violence
-  metrics_learn_communitycollege: '0'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '0'
   metrics_learn_graduationrates: '0'
   metrics_learn_proficiency: '0'
@@ -127,12 +127,6 @@ maker_answers:
     prevention campaign targeted at youth--and adult allies. It is unique in
     that it is developed and run by youth, with mentorship from Peace Over
     Violence staff.  
-  cost: >-
-    The first year of this campaign will cost $100,000, and will include the
-    creation of a campaign coordinator position and print and digital funding
-    expenses to implement the community print, campus print and web based
-    campaign elements. 
-  budget: "Staffing\r\nCampaign Coordinator Salary and Benefits $50,000. \r\nYouth Leader Volunteer Stipends $5000\r\n\r\nPrint-Schools\r\nToolkit for schools (1000), august-february $2885\r\nButtons and stickers for schools, $1500\r\nPosters for schools $4000\r\nStreet Posters 36'x24' (1220 in 40 locations) $7500\r\n\r\nPrint-Community\r\nBillboard production (4); December 2014 $3700\r\nBillboard Advertising (4) Feb 1-Feb 28; $14,000\r\nBus shelter ad production (4); December $180\r\nBus shelter Advertising (4) feb 1-feb 28; $2200\r\nBus tail ad production and advertising (10)—production in december, ad feb1-feb28; $2850\r\nBus exterior ad (side of bus) production and advertising (10)—production in December, ad feb1-feb28; $4850\r\n\r\nDigital Components\r\nDomain Name registration, August $35\r\nTrademark campaign, August-October, $300\r\nWeb app and programming to run consolidated has tag feed on campaign site Sept-Dec; $1500\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

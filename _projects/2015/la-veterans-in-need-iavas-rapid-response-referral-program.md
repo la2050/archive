@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  'City, State': 'New York, NY'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: 'Tara Roth encouraged our Founder and CEO, Paul Rieckhoff, to apply.'
   Organization(s) name(s): Iraq and Afghanistan Veterans of America (IAVA)
   Organization(s) mailing address(es): "114 West 41st Street, 19th floor\r\nNew York, NY 10036\r\n"
   Organization(s) website(s): www.iava.org
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'New York, NY'
+  How did you hear about this challenge?: 'Tara Roth encouraged our Founder and CEO, Paul Rieckhoff, to apply.'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: >-
     IAVA will also continue to advocate for veterans in LA; we supported Vietnam
@@ -146,18 +146,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "IAVA monitors each client’s case through Salesforce, the database that confidentially tracks our interactions with veterans and core program outcomes. Salesforce enables IAVA to process real-time information on: the number of RRRP clients served; the number and type of referrals provided to clients; the number of benefits confirmed as received; and the length of time it takes to resolve each client’s case.\r\n\r\nIAVA also receives direct feedback from RRRP clients. Once their cases have closed, clients complete surveys in which they report their level of satisfaction with their case managers and whether RRRP helped reduce their stress levels. RRRP clients consistently rate the level of service they receive from RRRP VTMs highly. Written feedback further illuminates clients’ experiences with RRRP. “Thank you,” one wrote recently. “You may have just saved my life man.” This is just one example of the warm words of appreciation that RRRP clients have shared. \r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "The need for a program like RRRP is great, and other notable organizations—such as The Soldiers Project, 211, the Battle Buddy Bridge Program and the United Way—are responding to it. To date, however, none are simultaneously providing holistic and ongoing professional support, facilitating seamless access to quality resources, connecting veterans and family members to an expansive peer community, and amplifying impact through data collection and dissemination. Additionally, while this project is focused on veterans in the greater L.A. area, IAVA works nationwide, enabling us to provide continuous care to a potentially transient population.\r\n\r\nSpecific examples of what sets RRRP apart include:\r\n\r\n•\tRRRP offers more than a hotline: Veteran Transition Managers look at clients’ needs holistically and provide ongoing support for as long as it takes. All VTM’s are masters-level social workers, whose education and experience has focused on veterans. Many are veterans or veteran family members.\r\n•\tEach RRRP client has a dedicated point of contact to manage resource navigation, while also having access to IAVA’s expansive peer community. This broad support is more versatile and readily available than would be possible for any single peer counselor.\r\n•\tRRRP connects veterans with a range of resources—from local services to national programs, both governmental and nongovernmental. We listen to clients about what works and what doesn’t, and we make referrals only to best-in-class resources.\r\n•\tRRRP has a low barrier to entry, helping people with all discharge statuses and income levels, as well as family members. No one has to come to an office. Help is just a phone call or email away.\r\n•\tRRRP brings to bear IAVA’s national brand and a decade of media savvy. Thanks in part to our regular media presence our brand is both recognized and trusted; this is critical for a program that requires veterans to proactively ask for help.\r\n•\tBecause RRRP does not provide direct services, it does not compete with providers. We do possess the tools, digital capabilities, and reach to facilitate connections among providers and more seamlessly shepherd clients through the maze.\r\n•\tRRRP tracks program data in real-time, including the number and location of clients served, number and type of referrals and benefits received, average case times, and more. We survey clients about their experience with RRRP and every referral received. This data helps refine program and outreach strategies."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Strong relationships with service providers and a solid understanding of their programs enable VTMs to make better quality referrals and to serve as stronger advocates on clients’ behalf when needed. These providers are also the best sources of referrals to RRRP—a client is more likely to contact RRRP at the recommendation of another service provider that he or she trusts. Top partners in the Greater L.A. area include PATH (People Assisting the Homeless), Volunteers of America, the Soldiers Project, Inner City Law, and Valiant VA Claims Services in Orange County. \r\n\r\nThanks to a grant from a private foundation, IAVA is currently piloting a program in LA through which we provide small ($2,000 to $3,000) sub-grants to a select number of referral partners. We anticipate completing an evaluation of this pilot program by June 2016, with plans to expand the program if it proves successful. We have therefore included $5,000 in the budget for this grant for sub-grants.\r\n\r\nTo advance referral relationships, IAVA is making a concerted effort to develop formal memoranda of understanding with service providers in Greater Los Angeles. IAVA recently hosted a convening in Orange County for representatives from 17 best-in-class service providers from across the employment, education, housing, and mental health sectors. These will be excellent referral partners for RRRP; we plan to host a similar event in southern California in the coming year. "
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    As detailed below, the one year budget for this program is $343,980.  IAVA
-    receives support for this program from a number of foundations, including
-    the Resnick Foundation, Phil and Monica Rosenthal Foundation, Annenberg
-    Foundation and the May and Stanley Smith Charitable Trust. In addition,
-    RRRP’s national activities (including those in California) are funded by the
-    Educational Foundation of America, The van Ameringen Foundation, and
-    Harley-Davidson Foundation. IAVA is committed to sustaining and expanding
-    RRRP, and our development team is working tirelessly alongside senior
-    leadership to diversify and expand revenue sources for the program in LA and
-    on a national basis.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Personnel:\r\nVeteran Transition Managers: $25,080\r\nRRRP Intake Coordinator: $3,990\r\nRRRP Director: $10,830\r\nField Associate: $8,816\r\nField Coordinator: $4,796\r\nChief Program Officer: $3,192\r\nBenefits and Taxes: $14,003\r\nTotal Personnel: $70,707\r\n\r\nNon-Personnel:\r\nInformational/Promotional Materials: $1,350\r\nOutreach Events: $4,940\r\nContractors: $4,750\r\nSub-grants: $5,000\r\nTravel: $3,750\r\nPostage, Supplies, and Misc.: $1,140\r\nTotal Non-Personnel: $20930\r\n\r\nDirect Costs: $91,637\r\nIndirect Costs: $8,363\r\nTOTAL DIRECT AND INDIRECT: $100,000"
   How do you plan to scale the success of your proposal?: >-
     In the short time since its launch in L.A. a little more than a year ago,
     the Rapid Response Referral Program has successfully served hundreds of
@@ -249,40 +237,6 @@ Are there other organizations doing similar work (whether complementary or compe
    Thanks to a grant from a private foundation, IAVA is currently piloting a program in LA through which we provide small ($2,000 to $3,000) sub-grants to a select number of referral partners. We anticipate completing an evaluation of this pilot program by June 2016, with plans to expand the program if it proves successful. We have therefore included $5,000 in the budget for this grant for sub-grants.
    
    To advance referral relationships, IAVA is making a concerted effort to develop formal memoranda of understanding with service providers in Greater Los Angeles. IAVA recently hosted a convening in Orange County for representatives from 17 best-in-class service providers from across the employment, education, housing, and mental health sectors. These will be excellent referral partners for RRRP; we plan to host a similar event in southern California in the coming year.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  As detailed below, the one year budget for this program is $343,980. IAVA
-  receives support for this program from a number of foundations, including the
-  Resnick Foundation, Phil and Monica Rosenthal Foundation, Annenberg Foundation
-  and the May and Stanley Smith Charitable Trust. In addition, RRRP’s national
-  activities (including those in California) are funded by the Educational
-  Foundation of America, The van Ameringen Foundation, and Harley-Davidson
-  Foundation. IAVA is committed to sustaining and expanding RRRP, and our
-  development team is working tirelessly alongside senior leadership to
-  diversify and expand revenue sources for the program in LA and on a national
-  basis.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Personnel:
-   Veteran Transition Managers: $25,080
-   RRRP Intake Coordinator: $3,990
-   RRRP Director: $10,830
-   Field Associate: $8,816
-   Field Coordinator: $4,796
-   Chief Program Officer: $3,192
-   Benefits and Taxes: $14,003
-   Total Personnel: $70,707
-   
-   Non-Personnel:
-   Informational/Promotional Materials: $1,350
-   Outreach Events: $4,940
-   Contractors: $4,750
-   Sub-grants: $5,000
-   Travel: $3,750
-   Postage, Supplies, and Misc.: $1,140
-   Total Non-Personnel: $20930
-   
-   Direct Costs: $91,637
-   Indirect Costs: $8,363
-   TOTAL DIRECT AND INDIRECT: $100,000
 How do you plan to scale the success of your proposal?: >-
   In the short time since its launch in L.A. a little more than a year ago, the
   Rapid Response Referral Program has successfully served hundreds of clients;

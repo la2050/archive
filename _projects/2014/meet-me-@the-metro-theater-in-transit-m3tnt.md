@@ -21,8 +21,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '0'
-  city_state: 'Los Angeles, CA'
   org_website: www.companyofangels.org
   org_twitter: 'https://twitter.com/CoAngels'
   org_facebook: 'https://www.facebook.com/companyofangels'
@@ -75,7 +75,7 @@ maker_answers:
   org_name: Company of Angels (CoA)
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '0'
-  metrics_connect_traveltime: '0'
+  city_state: 'Los Angeles, CA'
   metrics_connect_culturalevents: '1'
   metrics_connect_publictransit: '1'
   metrics_connect_neighborhoodcouncils: '0'
@@ -117,14 +117,6 @@ maker_answers:
     brand of performance competitive enough to secure the services of these
     highly qualified individuals.   
   competition: "As the oldest not-for-profit repertory theater company in Los Angeles, CoA is unique in our more than fifty years of balancing transit-oriented performance, community outreach/engagement and site-specific work. CoA was incorporated by entertainment attorney Bertram Fields, and founders included actors Richard Chamberlain, Leonard Nimoy, Vic Morrow and Vic Tayback.\r\nThere are many organizations engaging in some of the same activities and others employing some of the same techniques, but only M3TNT is connecting all these ingredients together into a cohesive transit, performance and community centered whole. Some organizations doing similar work to CoA are: Chalk Repertory Theatre, CicLavia, Cornerstone Theater Company, Collage Dance Theater, The Industry, Opera Del Espacio and Watts Village Theater Company. \r\nCoA is unique in other ways as well; we dedicate ourselves to reaching out to Los Angeles in new and original ways. CoA depicts Los Angeles in all its multi-ethnic, multi-national, multi-lingual, multi-gendered glory. Over the last five years we have featured new work that depicts communities as diverse as West Hollywood, Montebello, Culver City, Thai and Latino Immigrants, and Skid Row. \r\nOur Mutual Education Theater Academy has worked with low-income residents in Boyle Heights and East LA where we presented adaptations of the Christmas Posadas with the residents of Boyle Heights in which we told the classic story of Mary and Joseph seeking shelter from the perspective of modern day issues like gentrification, gang violence, housing and unemployment in the community from 2007 to 2009. The 2010 production called Sense Us was inspired by one participant’s monologue on the census undertaken that year.  From this, the participants included monologues in the production of a time they felt counted and appreciated. In the 2011, production The Other Side of the Frame participants centered their stories within the Alexandria Hotel – the low-income housing facility where many of them lived. We are currently the only theatre company performing transit-oriented performance in site-specific locations.  \r\n"
-  cost: >-
-    Based on the cost of similar projects in the past, Meet Me @the Metro:
-    Theater/In/Transit is budgeted at exactly $100,000. This budget size is both
-    a reasonable and realistic. Additionally our teams reputation and experience
-    doing this type of transit-oriented work is unmatched and unparalleled. Our
-    fundraising plans are vigorous and this cadre of committed artists and
-    administrators will work determinedly to make this production happen.    
-  budget: "PROJECTED EXPENSES\r\nPersonnel Expenses:\t \r\nSolo Performers: Musicians, Dancers, Artists, etc.\t$7,000.00\r\nArtistic Dir. / Co-Curator (Armando Molina)\t        $5,000.00\r\nCommunity Liaisons \t\t\t\t\t$2,000.00\r\nLogistical Staff/ Tour Guides\t\t\t\t$7,000.00\r\nProducing Director (Selene Santiago)\t\t$5,000.00\r\nCo-Curator (Guillermo Aviles-Rodriguez)\t$4,000.00\r\nResearch Dramaturg (Eowyn Lindsey)\t$1,500.00\r\nTranslator/Interpreters/Audio describer\t$1,000.00\r\nManaging Producer (Richard Azurdia)\t\t$2,000.00\r\nProduction Manager (Maria Pasquarelli)\t$2,500.00\r\nStations Manager\t\t\t\t\t$2,000.00\r\nEditor/Proofer\t(Rachel Fain)\t\t$1,500.00\r\nAssociate Stations Manager\t\t\t$2,000.00\r\nTechnical Director \t\t\t\t\t$1,500.00\r\nCommissioned Theatre Companies (6 @ 2,000)$12,000.00\r\nCommunications Director (David Mack)\t  \t$2,000.00\r\nBilingual Marketing/PR Staff (Xavi Moreno)\t$2,000.00\r\nMarketing Associate  \t\t\t\t\t$1,500.00\r\nCoordinator for Volunteers\t\t\t\t$2,000.00\r\nAdministrative Personnel (Amelia Worfolk)$1,000.00\r\nTravel Expenses:\t \r\nArtist' Travel \t\t\t\t\t\t$2,000.00\r\nArtist' Transportation \t\t\t\t$1,000.00\r\nArtist' Lodging \t\t\t\t\t        $2,000.00\r\nOther Project-Related Expenses:\t \r\nSignage and T-shirt   \t\t\t\t     $2,000.00\r\nProject Development Director\t\t     $1,000.00\r\nWeb site, Logo, banner Design Printing   $3,000.00\r\nDocumentation/Archiving\t\t\t     $1,500.00\r\nSet Dressing (for each performance location) $3,000.00\r\nHistorical Research Materials/Exhibits\t $1,500.00\r\nMetro performance Venue Rental Fees$3,000.00\r\nMeeting/Rehearsal Space Rental Fees\t$2,000.00\r\nEquipment/Supplies \t\t\t\t\t$4,500.00\r\nContingency\t\t\t\t\t\t$7,500.00\r\nHospitality (for opening reception)\t$1,500.00\r\nTOTAL EXPENSES:\t\t\t\t\t$100,000.00\r\n\r\nNOTES\r\n*Audio describer - staff person to provide description for the visually impaired\r\n*Interpreter - staff person to provide sign language interpretation for the hearing impaired\r\n*Translator - staff person to provide translation for non-English and non- Spanish speakers\r\n*Trilingual Marketing - English, Spanish and Korean (the top three languages spoken in Los Angeles County) \r\n*Solo Performers will number in the 6 to 10 range.                                       \r\n*All names attached to jobs have at least two years experience working with CoA or on this concept. \r\n*Show will run for two weekends on Saturdays and Sundays with two shows per day (10am and 4pm) on each of the four show days. Each show will have approximately 75 audience members each.                                                                                              "
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

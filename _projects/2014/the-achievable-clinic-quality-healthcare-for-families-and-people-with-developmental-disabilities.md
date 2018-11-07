@@ -16,8 +16,8 @@ project_video: 'https://www.youtube.com/embed/zTPVN1p3Lg8'
 project_areas:
   - LA COUNTY
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '0'
-  city_state: 'Culver City, CA'
   org_website: www.achievableclinic.org
   org_twitter: 'http://achievableclinic.org/#'
   org_facebook: 'http://www.facebook.com/TheAchievableFoundation'
@@ -69,7 +69,7 @@ maker_answers:
   org_name: The Achievable Foundation
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'Culver City, CA'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '1'
   metrics_live_homelessness: '0'
@@ -133,13 +133,6 @@ maker_answers:
     some of the technical assistance and support that the Federal government
     provides to other special population designees.  
   competition: "There are organizations in Northern CA working on similar issues.  At UC San Francisco, they are working with partners to develop clinical solutions for similar potential clients in the San Mateo county area.  We have collaborated with them to share best practices and possibly link up in the future to form a more systemic partnership.  \r\n\r\nAcross a number of universities, there are Centers of Excellence that are providing various programs to help increase healthcare solutions for people with complex healthcare needs in the developmental disabilities arena.  We are aware of their work, and have collaborated with them in a number of ways.  For instance, we have a collaboration with UCLA's Neuro Psychiatric Institute that allows our patients to get access to mental health professionals with experience in our field. \r\n\r\nFinally, we are working with the Department of Developmental Disabilities via its Regional Center network in a collaborative approach to improving outreach and access to their clients.  Currently, we are working with Westside Regional Center, where our new clinic is co-located. "
-  cost: >-
-    $100,000 is our expected budget, which is covered in more detail in the
-    section below.  The other parts of our operating budget are being sustained
-    via patient revenues, individual donations and continuing support from
-    corporations and foundations as well as public support.  We have also been
-    able to leverage significant pro-bono services and in-kind donations.
-  budget: "Achievable is respectfully asking for $100,000 in funding to support our Executive leadership in documenting our alignment with the FQHC model. At the heart of this request is the creation of an FQHC Special Population planning process that can be documented in order to demonstrate to HRSA exactly how our clinic model operates, with the view of establishing a case for consideration of developmental disabilities as a potential Special Population Designation in future FQHC certification and support initiatives. \r\n\r\nSpecifically, we are asking to be considered for $30,000 in strategic funding to support our CEO’s contributions to the FQHC alignment documentation process, $50,000 for outside consulting support (including research of prior successful designation processes as well as feasibility assessment for Achievable’s plan), and $20,000 for Operations and Development staff contributions (which would include data collections and evaluation of existing operations and patient impacts and costs). \r\n\r\nThese positions are vital to both producing the documentation to be presented to HRSA, and the follow up needed to make a case to the relevant authorities that a special designation for developmental disabilities is both appropriate and viable.  The funding would cover the costs of researching past efforts to create Special Population designation procedures (such as those for people experiencing homelessness), conducting a feasibility analysis, making the case for support, and providing the required data and justification to underpin a similar request on behalf of our population being served."
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

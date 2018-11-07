@@ -30,8 +30,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: past applicant
   Organization(s) name(s): spcaLA
   Organization(s) mailing address(es): '5026 W Jefferson Blvd, Los Angeles, CA 90016'
   Organization(s) website(s): www.spcaLA.com
@@ -82,7 +82,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: past applicant
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -142,12 +142,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "spcaLA wants to expand ASN to help more domestic violence survivors and their pets. We will evaluate our program by reviewing its development.  More specifically, we will assess:\r\n-\tASN foster parent database\r\n-\tprogram staff\r\n-\tfacility space \r\n-\tpartnerships and collaboration with domestic violence shelters and humane organizations\r\n-\t# of animal abusers prosecuted\r\n-\t# of animals and survivors we support\r\nSuccessful implementation of this grant will ultimately demonstrate that more families were helped because of our program’s expansion. \r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "spcaLA’s ASN program was the first of its kind in the country. We have taken clients from as far away as Florida for lack of local resources. And, while a handful of humane organizations offer similar programming and some DV shelters added limited onsite kenneling, it is not enough. \r\nThe sad reality is, many animals in a domestic violence situation have been harmed. Either abused, or made to live in a state of fear, they typically need more than a bed. They need veterinary care and behavior enrichment. They need to learn how to trust people again. They need the resources and expertise that can be provided by a humane agency, like spcaLA.\r\nspcaLA’s approach is unique in a number of ways, on the small, day-to-day scale, spcaLA offers:\r\n-\tTransportation to and from spcaLA facilities for ASN pets\r\n-\tSafe shelter including food, toys, treats and fresh bedding \r\n-\tVeterinary care, including spay/neuter, vaccinations, and routine care, as well as care for more in-depth issues\r\n-\tBehavior enrichment and a plan of care developed by spcaLA Animal Behavior & Training Department\r\n-\tFacilities for multiple pets and those with special medical or behavioral needs\r\n-\tspcaLA is the only nonprofit animal welfare agency in the city of Los Angeles that is also Law Enforcement.  If abusers turned their wrath toward the pets in our care, spcaLA Humane Officers will investigate and gather forensic evidence, so that animal cruelty charges can be brought against the offender.\r\nTo better accommodate the ever-growing demand for ASN services, spcaLA desires to increase these offerings by:\r\n-\tRecruiting and compensating foster parents specific to ASN (currently, spcaLA foster parents do not receive any financial compensation)\r\n-\tHiring additional staff to manage the program\r\n-\tRepurposing existing facilities to house ASN animals and/or paying for boarding facilities\r\nOn a larger scale, spcaLA seeks to make ASN replicable.  Like our award-winning violence-prevention program, Teaching Love & Compassion, spcaLA has developed a comprehensive manual for the ASN program. The manual offers humane agencies step-by-step instructions and guidance to operate the program in their communities.  As part of the LA2050 Challenge, spcaLA seeks to market the ASN manual to other humane agencies in Southern California, thereby developing a true network of support for domestic violence survivors and their pets.\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Successfully expanding ASN involves the collaboration between domestic violence shelters, police officials, and social service agencies. To help survivors, they must know we’re here. These organizations help share our services to those who can use our support.  \r\nWhile our program involves teamwork, ASN will be managed and staffed solely by spcaLA. The entirety of the grant will go to the ASN program. \r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    $100,000 will play a substantial role in expanding the ASN program – a
-    service the LA community deeply needs. But, to continue the program
-    annually, ASN will require continuous funding. To cover these costs, spcaLA
-    will continue to fundraise and allot a program budget.  
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "LA2050 funding will be used to do the following.\r\n-\tHire an ASN coordinator, who will be responsible for foster parent support, recruitment, & retention, as well as managing the boarding facility, evaluating the program and working within the community to increase awareness of our services.\r\n-\tRepurpose an existing spcaLA facility to accommodate ASN pets during peak seasons (typically Oct-Feb) and/or pay for boarding of pets. Costs may include:\r\no\tstaffing (two full-time animal care attendants)\r\no\toperating costs for the facility\r\no\ttransportation (veterinarians, clients, clients)\r\no\tminor renovations/repairs\r\no\tboarding costs\r\n-\tProduce and market ASN materials to other humane agencies\r\n-\tProvide veterinary care, food, and shelter to animals in the program\r\nWe anticipate grant funds will be used as follows:\r\n•\t$10,000: Veterinary Services & Food\r\n•\t$2,500:   Transportation\r\n•\t$70,000: Staff Salary\r\n•\t$1,500:   Foster Compensation\r\n•\t$1,000:   Marketing \r\n•\t$15,000: Facility/Misc."
   How do you plan to scale the success of your proposal?: "The success of our proposal will ultimately be measured by the number of animals and survivors we support, as well as whether or not we are successful in replicating the program. Regardless of how many foster parents we’ve acquired, staff hired, or facilities we’ve repurposed, what is fundamentally important, is the number of lives we’ve improved. The number of men, women, and children we help escape the reign of their abuser and seek refuge. The number of survivors we give hope and peace of mind knowing their cherished pet is in good hands. The number of families we reunite and keep intact. This is how we measure success. \r\n\r\nLast year, we helped 62 men, women, and children in 30 families by caring for their pets. A total of 32 dogs, 5 cats, 1 rabbit and 1 hamster were housed in safe, loving homes while their human families received much needed emotional support from domestic violence shelters across Los Angeles County. This year, we want to help more. \r\nIf expanding the ASN program helps save the lives of more people and pets and catches like wildfire – spreading to other humane organizations and communities - our project will be deemed successful. \r\n"
 areas_impacted: ''
 partners: ''
@@ -204,29 +198,6 @@ Are there other organizations doing similar work (whether complementary or compe
   survivors, they must know we’re here. These organizations help share our
   services to those who can use our support. 
    While our program involves teamwork, ASN will be managed and staffed solely by spcaLA. The entirety of the grant will go to the ASN program.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  $100,000 will play a substantial role in expanding the ASN program – a service
-  the LA community deeply needs. But, to continue the program annually, ASN will
-  require continuous funding. To cover these costs, spcaLA will continue to
-  fundraise and allot a program budget.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  LA2050 funding will be used to do the following.
-   - Hire an ASN coordinator, who will be responsible for foster parent support, recruitment, & retention, as well as managing the boarding facility, evaluating the program and working within the community to increase awareness of our services.
-   - Repurpose an existing spcaLA facility to accommodate ASN pets during peak seasons (typically Oct-Feb) and/or pay for boarding of pets. Costs may include:
-   o staffing (two full-time animal care attendants)
-   o operating costs for the facility
-   o transportation (veterinarians, clients, clients)
-   o minor renovations/repairs
-   o boarding costs
-   - Produce and market ASN materials to other humane agencies
-   - Provide veterinary care, food, and shelter to animals in the program
-   We anticipate grant funds will be used as follows:
-   • $10,000: Veterinary Services & Food
-   • $2,500: Transportation
-   • $70,000: Staff Salary
-   • $1,500: Foster Compensation
-   • $1,000: Marketing 
-   • $15,000: Facility/Misc.
 How do you plan to scale the success of your proposal?: >-
   The success of our proposal will ultimately be measured by the number of
   animals and survivors we support, as well as whether or not we are successful

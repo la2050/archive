@@ -11,8 +11,8 @@ project_image: 'https://img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/fMyc7c0Ylc4'
 project_areas: []
 maker_answers:
+  metrics_connect_traveltime: '1'
   metrics_connect_volunteerism: '0'
-  city_state: 'Los Angeles, CA'
   org_website: www.seaca-la.org
   org_twitter: www.twitter.com/seacala
   org_facebook: 'https://www.facebook.com/seacala'
@@ -54,7 +54,7 @@ maker_answers:
   org_name: Southeast Asian Community Alliance (SEACA)
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '0'
-  metrics_connect_traveltime: '1'
+  city_state: 'Los Angeles, CA'
   metrics_connect_culturalevents: '0'
   metrics_connect_publictransit: '0'
   metrics_connect_neighborhoodcouncils: '0'
@@ -96,12 +96,6 @@ maker_answers:
     know of any organization with our expertise in engaging local communities
     and providing them with tools to connect to opportunities afforded by the LA
     River investment plan.
-  cost: >-
-    We estimate that total cost of the project will be $111,158, including
-    $52,250 in expenses from SEACA and $58,908 in expenses from Public Counsel.
-    Costs exceeding $100,000 will be covered by general operating expenses or
-    additional grant funding raised for the project.
-  budget: "Public Counsel will allocate funding as follows:\r\n\r\nPersonnel\t\t\t\t\t\t\r\n\tSupervising Attorney \t\t$8,458 \r\n\tStaff Attorney \t\t\t$25,500 \r\n\tLegal Assistants \t\t        $4,474 \r\n\tFringe Benefits\t\t        $8,063 \r\n\t\t\t\t\t\t\r\n\tTotal Personnel\t\t        $46,495 \r\n\t\t\t\t\t\t\r\nOperations\t\t\t\t\t\t\r\n\tSpace Costs\t\t\t        $2,047 \r\n\tPostage, Printing, Supplies\t$320 \r\n\tAdvertising and Outreach\t$1,138\r\n\t\t\t\t\t\t\r\n\tTotal Operations\t\t        $3,505 \r\n\t\t\t\t\t\t\r\n\tTOTAL ALLOCATION\t        $50,000\r\n\r\nSEACA will allocate funding as follows:\r\n\r\nPersonnel\t\t\t\t\t\t\r\n\tExecutive Director               $15,000 \r\n\tCommunity Organizer   \t$20,000\r\n\tFringe Benefits\t\t        $8,050\r\n\t\t\t\t\t\t\r\n\tTotal Personnel\t\t        $43,050\r\n\t\t\t\t\t\t\r\nOperations\t\t\t\t\t\t\r\n\tFacilities\t\t\t                $3,900 \r\n\tCommunications\t\t        $50 \r\n\tYouth Stipends\t\t        $3,000\r\n\t\t\t\t\t\t\r\n\tTotal Operations\t\t        $6,950 \r\n\t\t\t\t\t\t\r\n\tTOTAL ALLOCATION      \t$50,000"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

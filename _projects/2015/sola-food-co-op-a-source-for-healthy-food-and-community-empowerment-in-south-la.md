@@ -21,8 +21,8 @@ project_video: 'https://www.youtube.com/embed/fi31RJKyr4I'
 project_areas:
   - South LA
 maker_answers:
+  'City, State': Los Angeles CA
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: one of our co-op members
   Organization(s) name(s): SoLA Food Co-op
   Organization(s) mailing address(es): "1847 W 43rd St\r\nLos Angeles, CA 90062"
   Organization(s) website(s): www.solafoodcoop.com
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': Los Angeles CA
+  How did you hear about this challenge?: one of our co-op members
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: >-
     We will use the resources to reach more prospective members, create
@@ -140,11 +140,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "We'll evaluate our work through new memberships attained, growing our community of supporters, and by being closer to our goal of opening a food co-op. Additionally, we will track awareness of our project in the community through actions outlined in our business plan: surveys conducted at community workshops, follow-ups to our feasibility study(surveys), implementing a successful crowdfunding campaign, and engaging Cooperative Development Services.\r\nThere will be evidence of our growth through hiring a qualified Bookkeeper and Project Manager to implement our growth strategy. With this personnel in place we will grow and achieve our goals sooner"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are two other healthy food stores forming in South LA .Neither one is a cooperative, one or both are b-corps. Neither has opened doors yet. They are situated in the Vermont corridor well east of Leimert Park in the Crenshaw corridor where SoLA plans to be. One is With Love Community Market and Café ( 18th St and Vermont), the other is Community Services Unlimited (66th and Vermont).\r\n\r\nSoLA's profits will belong to the members, that's the big difference.The profits of the co-op are shared and therefore reenter the community through our members.\r\n\r\n We also plan to be a store with classroom space, a deli, in store eating space, a bulk buying section as well as organic produce. SoLA is a unique opportunity for South LA to take charge of it's food sources and it's health and to reap the financial benefits of doing so."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Since it's inception, SoLA has sought advice from cooperative development organizations. We will continue to refer to these our \"elders\" as we grow. They are: California Center for Cooperative Development, and Food Co-op Initiative. There is no cost to SoLA for the expertise and advice of these organizations. Our work with the consulting group specifically geared toward helping build new co-ops,CDS Consulting Co-op, will cost $7,000 for the initial assessment workshop with SoLA's board of directors, in which a strategic plan is created, and an additional $7,000 for their continued consult in a maintenance program for one year.\r\nSoLA  plans to create corporate sponsored memberships for needy families, partnering with organizations like Groceryships, to invite graduates of their program to receive sponsorships to become members of the co-op."
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Our completed store will cost approximately 1.5 million dollars. Ideally, 30
-    % of start-up costs will come from membership equity. Additional funding
-    will include bank loans, member loans , grants, and donations.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Assessment , strategy , and maintenance program for start up co-ops with CDS Consulting Co-op $14,000 \r\nTravel expenses for CDS rep to come to LA $2,000\r\nhttp://www.cdsconsulting.coop/start_coop/4in3_support_program/to\r\n\r\nProject Manager( independent contractor fee) $35,000\r\n\r\nAdvertising and promotional materials $15,000\r\n\r\nAccountant/ bookkeeper, (independent contractor fee) $10,000\r\n\r\nFundraising events costs $18,000\r\n\r\nEducational community workshops costs $6,000"
   How do you plan to scale the success of your proposal?: >-
     A $100,000 dollar award will bring us closer to  the grand opening of SoLA
     Food Co-op and providing this much needed resource for our South LA
@@ -208,25 +203,6 @@ Are there other organizations doing similar work (whether complementary or compe
   strategic plan is created, and an additional $7,000 for their continued
   consult in a maintenance program for one year.
    SoLA plans to create corporate sponsored memberships for needy families, partnering with organizations like Groceryships, to invite graduates of their program to receive sponsorships to become members of the co-op.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Our completed store will cost approximately 1.5 million dollars. Ideally, 30 %
-  of start-up costs will come from membership equity. Additional funding will
-  include bank loans, member loans , grants, and donations.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Assessment , strategy , and maintenance program for start up co-ops with CDS
-  Consulting Co-op $14,000 
-   Travel expenses for CDS rep to come to LA $2,000
-   http://www.cdsconsulting.coop/start_coop/4in3_support_program/to
-   
-   Project Manager( independent contractor fee) $35,000
-   
-   Advertising and promotional materials $15,000
-   
-   Accountant/ bookkeeper, (independent contractor fee) $10,000
-   
-   Fundraising events costs $18,000
-   
-   Educational community workshops costs $6,000
 How do you plan to scale the success of your proposal?: >-
   A $100,000 dollar award will bring us closer to the grand opening of SoLA Food
   Co-op and providing this much needed resource for our South LA community. At

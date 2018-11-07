@@ -20,8 +20,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: Friend
   Organization(s) name(s): Tempest Action Parks
   Organization(s) mailing address(es): "3337 Jack Northrop Ave, Hawthorne, CA 90250\r\n"
   Organization(s) website(s): www.tempestactionparks.com
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Friend
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -145,15 +145,6 @@ maker_answers:
     fitness, yoga, etc. all in an outdoor park setting where everyone can enjoy
     the weather that LA has to offer!
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': N/A.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    First, we would meet with the community and all stakeholder’s involved to
-    design the overall park. From there a project specific cost estimate will be
-    created itemizing all labor and materials needed for the park. If the cost
-    of the park exceeds 100K, then we would work with the city to see if there
-    are any matching grants available, research California state grants that
-    apply to play and or/fitness categories, and fundraise through our two Los
-    Angles based Tempest Academies to help cover the difference.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Preliminary Cost for TMPST Action Park = $100,000.00\r\n\r\nMobilization/General Conditions = $2,500.00\r\nClearing & Grubbing = $2,500.00\r\nRough/Fine Grading = $2,000.00\r\nPlayground Surfacing = $40,000.00\r\nConcrete Obstacles = $40,000.00\r\nBar Systems = $10,000.00\r\nSignage = $3,000.00\r\n"
   How do you plan to scale the success of your proposal?: >-
     We envision that this will be the first flagship TMPST Action Park
     strategically located within LA for the community to enjoy. Based upon the
@@ -193,24 +184,6 @@ Are there other organizations doing similar work (whether complementary or compe
   yoga, etc. all in an outdoor park setting where everyone can enjoy the weather
   that LA has to offer!
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': N/A.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  First, we would meet with the community and all stakeholder’s involved to
-  design the overall park. From there a project specific cost estimate will be
-  created itemizing all labor and materials needed for the park. If the cost of
-  the park exceeds 100K, then we would work with the city to see if there are
-  any matching grants available, research California state grants that apply to
-  play and or/fitness categories, and fundraise through our two Los Angles based
-  Tempest Academies to help cover the difference.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Preliminary Cost for TMPST Action Park = $100,000.00
-   
-   Mobilization/General Conditions = $2,500.00
-   Clearing & Grubbing = $2,500.00
-   Rough/Fine Grading = $2,000.00
-   Playground Surfacing = $40,000.00
-   Concrete Obstacles = $40,000.00
-   Bar Systems = $10,000.00
-   Signage = $3,000.00
 How do you plan to scale the success of your proposal?: >-
   We envision that this will be the first flagship TMPST Action Park
   strategically located within LA for the community to enjoy. Based upon the

@@ -19,8 +19,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Friend
   Organization(s) name(s): LAPD Southwest Business Booster Association Inc.
   Organization(s) mailing address(es): "2109 W. Martin Luther King Jr. Blvd \r\nLos Angeles, CA 90062"
   Organization(s) website(s): 'http://www.southwestyouthprograms.org/index.html'
@@ -68,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: Friend
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -141,11 +141,6 @@ maker_answers:
     youth with the police officers that serve their community and increase
     involvement in public safety.
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': 'LAUSD: $20,000 for school bus transfortation'
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We would like to plan two conferences for the next school year at a total of
-    about $47,000 for each conference. The total should not be more than
-    $100,000.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Guest Speaker:              $5,000.00\r\nLunch:\t                        $3,000.00\r\nBreakfast:\t\t\t$2,000.00\r\nNotebooks:\t\t\t$1,000.00\r\nTags/Stickers:\t\t$200.00\r\nPens:  \t\t\t        $200.00\r\nTable Cloths:\t\t\t$520 \r\nVenue:\t\t\t        $5,000.00\r\nEvent Rentals:\t\t$1,000.00\r\nWalkie Talkies:\t\t$200.00\r\nPhotographer:\t\t$500.00\r\nPrinted Programs:\t\t$500.00\r\nOther:\t\t\t        $500 \r\nPlanning Expenses:\t$100 \r\nt-shirts:\t\t\t        $6,000 \r\nTransportation:\t\t$20,000.00\r\nAV Equipment:\t\t$1,000 \r\n\r\nTotal Per Conference\t$46,720.00\r\n"
   How do you plan to scale the success of your proposal?: "Increased community engagement and support and participation in youth programs. \r\n"
 areas_impacted: ''
 partners: ''
@@ -178,29 +173,6 @@ Are there other organizations doing similar work (whether complementary or compe
   youth with the police officers that serve their community and increase
   involvement in public safety.
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': 'LAUSD: $20,000 for school bus transfortation'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We would like to plan two conferences for the next school year at a total of
-  about $47,000 for each conference. The total should not be more than $100,000.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Guest Speaker: $5,000.00
-   Lunch:  $3,000.00
-   Breakfast: $2,000.00
-   Notebooks: $1,000.00
-   Tags/Stickers: $200.00
-   Pens:   $200.00
-   Table Cloths: $520 
-   Venue:  $5,000.00
-   Event Rentals: $1,000.00
-   Walkie Talkies: $200.00
-   Photographer: $500.00
-   Printed Programs: $500.00
-   Other:  $500 
-   Planning Expenses: $100 
-   t-shirts:  $6,000 
-   Transportation: $20,000.00
-   AV Equipment: $1,000 
-   
-   Total Per Conference $46,720.00
 How do you plan to scale the success of your proposal?: >-
   Increased community engagement and support and participation in youth
   programs.

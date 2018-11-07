@@ -14,8 +14,8 @@ project_video: 'https://www.youtube.com/embed/RQJ6YjAJTNY'
 project_areas:
   - LA COUNTY
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '0'
-  city_state: 'Los Angeles, CA'
   org_website: www.peerhealthexchange.org
   org_twitter: www.twitter.com/PHE_National
   org_facebook: www.facebook.com/PeerHealthExchange
@@ -70,7 +70,7 @@ maker_answers:
   org_name: Peer Health Exchange
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'Los Angeles, CA'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '0'
@@ -98,8 +98,6 @@ maker_answers:
     achieving impact through this model. 
   major_challenges: "1. Need for increased visibility in the LA community to build our network of support\r\n\r\nWe are launching a new communications plan, in conjunction with our national office, and are poised to hire a National Communications Director for the first time in PHE history. As we plan to celebrate our 10th anniversary nationally and our 5th anniversary in LA, we are poised to increase our visibility through new media strategies such as online videos, Giving Tuesday, and a series of celebratory events in LA and beyond. We will also send a quarterly newsletter to our LA donors to stay in close touch with our new and expanding network of supporters in between in-person touchpoints.\r\n\r\n2. Need for strengthened volunteer training as we roll out a brand new curriculum\r\n\r\nWe have key supports in place as we launch our new skills-based curriculum, including an LA Program Director and Program Manager entering their second year, and funding for our national program team members to travel to LA quarterly to provide technical assistance. We have also revised our volunteer training model, including our annual health educator retreat, to focus less on content memorization and more on advanced teaching and facilitation skills, with the goal of a more interactive and engaging curriculum and PHE experience in mind for our teens."
   competition: "Planned Parenthood LA - they train adult volunteers to teach a sexual health curriculum in partner high schools, often through afterschool/weekend programs.  \r\n\r\nPeace Over Violence - they train adult volunteers to teach a teen dating violence/sexual violence curriculum in partner high schools, often through afterschool/weekend programs. \r\n\r\nLA Trust for Children's Health - oversees school-based wellness centers in large LAUSD campuses. Students must opt-in to services.\r\n\r\nIn contrast, we use college student volunteers who are easy for teens to relate to (as age peers), our curriculum is skills-based, and in addition to sexual health, teen dating violence and sexual assault, also includes mental health, substance use, and skills instruction on decision making, communication, advocacy and accessing reliable health resources in teens' own communities. We do not provide direct services such as STI/HIV testing or mental health counseling, but retain strong partnerships and provide referrals to community organizations that provide such services. Our program is during the school day, reaching every 9th grader in each of our partner high schools. "
-  cost: "Our total operating cost in LA for FY15 (July 1, 2014-June 30, 2015) is $608,258. Of that, $158,258 will be provided by our national office, to sustain our efforts while we continue to build our LA board and network of supporters. \r\n\r\nWe plan to raise a total of $450,000 in LA during FY15. If we were to get the LA2050 grant, we would raise the remaining $350,000 as follows:\r\n$70,500: Contributions from our high school partners (PUC Schools and LA Alliance Schools)\r\n$122,000: Contributions from our LA Board members and their networks\r\n$20,000: Pricewaterhouse Coopers\r\n$37,500: Events (ex: cooking demo, PHE LA 5th Anniversary party, PHE Alumni bowling tournament, poker tournament)\r\n$100,000: Foundation Grants + Major Donors (pending)"
-  budget: "\t14-15 Budget\r\n\t\r\nOPERATING EXPENSES\t\r\nSalaries\t $269,430 \r\nPayroll Taxes and Employee Benefits\t 65,844 \r\nTotal Personnel\t 335,274 \r\n\t\r\nPersonnel Costs\t 5,663 \r\nProgram Administration\t 115,765 \r\nExternal Affairs\t 27,655 \r\nGeneral Operating\t 38,635 \r\n15% Local Contribution to National\t 85,266 \r\nTotal Operating Expenses\t 608,258 \r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

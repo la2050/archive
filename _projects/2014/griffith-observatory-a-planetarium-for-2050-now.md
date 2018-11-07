@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_learn_communitycollege: '0'
   collaboration: "The only confirmed collaboration at this point is with the Fiske Planetarium at the University of Colorado, Boulder. Fiske already has installed the 8K planetarium dome projection system we will be purchasing. Until the Observatory system is purchased and installed, Fiske has agreed to let our graphics team view their work on the Fiske dome in exchange for being able to perform our new life in the universe show live in Boulder after it premieres in Los Angeles.\r\nConversations have begun with biology and other visualization experts to identify a core group of animators to support the development of the new planetarium show. Conversations are also being held with different groups of Disney animators to assist with animation. Visualizations from NASA/JPL are likely to be incorporated. Also, a variety of scientific experts are partners to ensure accurate, authentic information. \r\n"
-  metrics_learn_earlyeducation: '0'
   org_website: FriendsOfTheObservatory.org
   org_twitter: '@GriffithFOTO'
   org_facebook: facebook.com/FriendsOfTheObservatory
@@ -78,7 +78,7 @@ maker_answers:
   who_benefit: "Over 300,000 visitors, not only from the greater Los Angeles region but also from around the world, see a planetarium show at Griffith Observatory each year. A visitor survey identified a demographic profile almost identical to the State of California: 43% Caucasian; 36% Hispanic; 9% Asian American; and 6% African American. Underserved audiences make up nearly half of the Observatory's visitor base.\r\n\r\nIn addition, over 26,000 fifth-grade students, most  from Title 1 schools, attend special field trips that support fifth grade California educational science standards. The staffing and material costs are funded by FOTO so that all students may attend FREE. In additions, a “bus scholarship” may be requested to fund transportation.\r\n"
   about_you: 'Los Angeles, CA'
   org_name: Friends Of The Observatory (FOTO)
-  metrics_learn_communitycollege: '0'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '0'
   metrics_learn_graduationrates: '0'
   metrics_learn_proficiency: '0'
@@ -127,16 +127,6 @@ maker_answers:
     The answers are intriguing and surprising. The combination of new equipment
     and unique storytelling will give our community another breathtaking,
     exciting, inspirational experience grounded in science.
-  cost: >-
-    It is anticipated that special animation consultants will cost between
-    $230,000 and $280,000. We are close to closing a $100,000 gift from a
-    private donor. This donor has indicated a willingness to donate again in
-    2015. With the LA2050 grant, we should hit our target. Since we will pay the
-    animators on an hourly basis, if we do not hit the target, we can manage
-    costs by reducing the complexity of the animation.
-  budget: >-
-    We anticipate the need for 2700 hours of animation at a cost between $85 and
-    $105 per hour. 
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '0'

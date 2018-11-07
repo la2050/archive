@@ -16,8 +16,8 @@ project_video: 'https://www.youtube.com/embed/HVOvMO9t6Gk'
 project_areas:
   - LA COUNTY
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: 'Los Angeles, California'
   org_website: Communitymarketandcafe.com
   org_twitter: WithLoveLA
   org_facebook: With Love Community Market and Cafe - Doors Open Late Summer 2014
@@ -83,7 +83,7 @@ maker_answers:
   org_name: 'With Love Market and Cafe, With Love Community Market and Cafe'
   metrics_create_arts: '0'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: 'Los Angeles, California'
   metrics_create_patents: '0'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '0'
@@ -122,12 +122,6 @@ maker_answers:
     healthy food to residents at affordable prices on a regular schedule. Many
     of groups do not have the economy of scale or infrastructure to provide the
     services we want to offer in a reliable manner.
-  cost: >-
-    To be able to start the business, we are looking for about $650,000. We have
-    successfully crowdfunding over $110,000 of that amount and are looking to
-    secure a loan for $400,000, leaving a gap that needs to be filled by
-    investors and grants.
-  budget: "- 40,000 dollars to renovate the space behind the building for outdoor seating in the cafe\r\n- 20,000 will be for furniture, plants, and awning, etc.\r\n- 20,000 will be for construction and remodel of the store\r\n- 20,000 to buy a refrigerated truck for local pick up and drop off\r\n- 10,000 will be for refencing and setting up the back storage area\r\n- 30,000 to hire staff for the local delivery and organization, 1 person to oversee delivery"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

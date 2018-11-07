@@ -24,8 +24,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  'City, State': 'Los Angeles, CA '
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: Friend
   Organization(s) name(s): Clothes The Deal
   Organization(s) mailing address(es): '9525 Imperial Highway, Downey, CA 90242'
   Organization(s) website(s): www.clothesthedeal.org
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Los Angeles, CA '
+  How did you hear about this challenge?: Friend
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -162,15 +162,6 @@ maker_answers:
     project will increase services to 1,000 clients referred from
     collaborators.  The in-kind value of services provided to collaborators is
     valued at $135,000. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Direct costs of the project will total $123,046.  The remaining direct costs
-    will be provided by private foundation and internal fundraising from Clothes
-    The Deal.  The project also requires in-kind expenses of $113,300 for
-    occupancy, utilities, volunteer staff, and business attire required for the
-    project.  In-kind expenses will be provided by Clothes The Deal and project
-    collaborators.   Clothes The Deal and project collaborators have secured and
-    pledged the in-kind funding for the project if awarded the $100,000 grant.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Personnel(Project Manager, Service Coordinator, Volunteer Coordinator, Development Coordinator) = $60,000\r\nAutomotive (mini van, fuel, insurance) = $29,000\r\nWorkshop Supplies(sewing kits, vanity mirrors, travel lint brushes, beauty & hygiene products) = $10,000\r\nOffice Supplies = $1,800\r\nEquipment (2 lap tops, desktop computer, flip camera, digital audio recorder, projector) = $8,000\r\nPrinting & Reproduction = $1,250\r\nBoutique Supplies (Garment Bags, lint rollers, steamers) = $2,500\r\nMarketing Materials (signs, automotive magnets, banners, posters) = $3,500\r\nDisplay equipment (Mannequins and clothing displays) = $3,250\r\nIndirect Costs at 3.14% = $3,746\r\ntotal direct expenses = $123,046\r\n"
   How do you plan to scale the success of your proposal?: >-
     Job placement rates from clients served will be measured to multiple base
     line employment rates.  Base line employment rates include collaborators
@@ -218,27 +209,6 @@ Are there other organizations doing similar work (whether complementary or compe
   awarded the $100,000 grant award, the project will increase services to 1,000
   clients referred from collaborators. The in-kind value of services provided to
   collaborators is valued at $135,000.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Direct costs of the project will total $123,046. The remaining direct costs
-  will be provided by private foundation and internal fundraising from Clothes
-  The Deal. The project also requires in-kind expenses of $113,300 for
-  occupancy, utilities, volunteer staff, and business attire required for the
-  project. In-kind expenses will be provided by Clothes The Deal and project
-  collaborators. Clothes The Deal and project collaborators have secured and
-  pledged the in-kind funding for the project if awarded the $100,000 grant.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Personnel(Project Manager, Service Coordinator, Volunteer Coordinator,
-  Development Coordinator) = $60,000
-   Automotive (mini van, fuel, insurance) = $29,000
-   Workshop Supplies(sewing kits, vanity mirrors, travel lint brushes, beauty & hygiene products) = $10,000
-   Office Supplies = $1,800
-   Equipment (2 lap tops, desktop computer, flip camera, digital audio recorder, projector) = $8,000
-   Printing & Reproduction = $1,250
-   Boutique Supplies (Garment Bags, lint rollers, steamers) = $2,500
-   Marketing Materials (signs, automotive magnets, banners, posters) = $3,500
-   Display equipment (Mannequins and clothing displays) = $3,250
-   Indirect Costs at 3.14% = $3,746
-   total direct expenses = $123,046
 How do you plan to scale the success of your proposal?: >-
   Job placement rates from clients served will be measured to multiple base line
   employment rates. Base line employment rates include collaborators previous

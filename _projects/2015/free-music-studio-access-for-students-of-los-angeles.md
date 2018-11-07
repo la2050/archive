@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - East LA
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: newsletter
   Organization(s) name(s): Eastside Rehearsal
   Organization(s) mailing address(es): '2619 E Cesar E Chavez Ave, Los Angeles, CA 90033'
   Organization(s) website(s): eastsiderehearsal.com
@@ -66,7 +66,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: newsletter
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -133,17 +133,6 @@ maker_answers:
     Rivas. The $100,000 would go directly to the business in buying equipment
     and allowing our doors to be open to students after school for 2 hours
     everyday for 2 school years, as well as the teacher/overseer salary.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The Aguilars have invested $27,000 of their own money to secure the
-    warehouse and start the build of Eastside Rehearsal. They've taken out a
-    loan of another $20,000 on their house, and had their friend Eddie Rivas
-    contribute another $20,000 to finish the project. We are in the midst of
-    building out the warehouse space now and hope to be open in October. The
-    $100,000 grant would help secure the equipment needed and ensure that the
-    business would be up and running with out going further in to debt. The
-    money spent so far went in to renting the property, contractor and building
-    permits, electrical, air conditioning and sound proofing the studio spaces. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "5 drumsets=$2,500\r\n10 additional drum cymbals=$2,500 \r\n5 extra kick pedals=$500\r\n5 guitar amplifiers=$4,700\r\n4 guitar cabinets=$4,000\r\n5 bass amplifiers=$3,700\r\n4 bass cabinets=$1,600\r\n4 PA systems=$3,700\r\n2 back up amplifiers=$2,000\r\n10 microphones= $1,000 \r\n20 xlr cables=$600\r\n10 speaker stands=$600\r\nequipment total=$27,400\r\n\r\nroom rental is $15/hr for 2 hours/day for the students, times 5 rooms = \r\n$150/day times 180 days for 2 school years = $27,000 x2 years= $54,000\r\n\r\nsalary for teacher to oversee the students = $10,800 x2 years=$21,600\r\n\r\nequipment $27,400\r\n5 rooms for students for 2 school years $54,000\r\nteacher salary $21,600\r\nTotal= $103,000 \r\n\r\n\r\n"
   How do you plan to scale the success of your proposal?: >-
     The success of our proposal would look like our practice rooms filled with
     students every day after school, practicing their instruments, forming
@@ -195,40 +184,6 @@ Are there other organizations doing similar work (whether complementary or compe
   The $100,000 would go directly to the business in buying equipment and
   allowing our doors to be open to students after school for 2 hours everyday
   for 2 school years, as well as the teacher/overseer salary.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The Aguilars have invested $27,000 of their own money to secure the warehouse
-  and start the build of Eastside Rehearsal. They've taken out a loan of another
-  $20,000 on their house, and had their friend Eddie Rivas contribute another
-  $20,000 to finish the project. We are in the midst of building out the
-  warehouse space now and hope to be open in October. The $100,000 grant would
-  help secure the equipment needed and ensure that the business would be up and
-  running with out going further in to debt. The money spent so far went in to
-  renting the property, contractor and building permits, electrical, air
-  conditioning and sound proofing the studio spaces.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  5 drumsets=$2,500
-   10 additional drum cymbals=$2,500 
-   5 extra kick pedals=$500
-   5 guitar amplifiers=$4,700
-   4 guitar cabinets=$4,000
-   5 bass amplifiers=$3,700
-   4 bass cabinets=$1,600
-   4 PA systems=$3,700
-   2 back up amplifiers=$2,000
-   10 microphones= $1,000 
-   20 xlr cables=$600
-   10 speaker stands=$600
-   equipment total=$27,400
-   
-   room rental is $15/hr for 2 hours/day for the students, times 5 rooms = 
-   $150/day times 180 days for 2 school years = $27,000 x2 years= $54,000
-   
-   salary for teacher to oversee the students = $10,800 x2 years=$21,600
-   
-   equipment $27,400
-   5 rooms for students for 2 school years $54,000
-   teacher salary $21,600
-   Total= $103,000
 How do you plan to scale the success of your proposal?: >-
   The success of our proposal would look like our practice rooms filled with
   students every day after school, practicing their instruments, forming bands,

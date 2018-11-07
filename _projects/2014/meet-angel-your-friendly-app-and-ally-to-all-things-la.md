@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '1'
-  city_state: 'Los Angeles, CA'
   org_website: PeaceAllies.org
   org_twitter: twitter.com/PeaceAllies
   org_facebook: facebook.com/PeaceAllies
@@ -67,7 +67,7 @@ maker_answers:
   org_name: Peace Allies
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
-  metrics_connect_traveltime: '0'
+  city_state: 'Los Angeles, CA'
   metrics_connect_culturalevents: '1'
   metrics_connect_publictransit: '0'
   metrics_connect_neighborhoodcouncils: '1'
@@ -90,8 +90,6 @@ maker_answers:
   achievable_goal: "This project can be implemented in the next twelve months because creating the app is simply a matter of funding. Once we begin the development, we have a team of people ready to go with backgrounds in leadership, sales, advertising, and marketing.\r\n\r\nAmong our team, we have trusted connections that we will utilize thereby allowing us to build the project in a fast and sustainable way."
   major_challenges: "First Barrier: Funding\r\nFunding is obviously the first barrier and the $100,000 will ease most of that burden. With our professional background, we understand that many unplanned expenses arise with new venture. We are proactively thinking about as many of those \"unplanned\" expenses now and what we would do about it. To ensure continuity of the project, we will immediately begin raising money from other sources such as personal and private donations. We will begin a crowd-funding campaign as well. We will build a revenue platform that allows us to receive funds from sponsors, advertising partners, revenue sharing/referral fees and other premium services through the project.\r\n\r\nSecond Barrier: Exposure\r\nWe believe that every business has the challenge of exposure so we will immediately begin to garner support through social media and our network of connects. Among our group we are well connected to the business and entertainment world and will utilize this as a means of exposure. We also will begin a serious of PSA's (Public Service Announcement) videos highlighting the project and it's benefits to residences. We will also begin partnering with major travel companies "
   competition: "Organizations and products that are similar in scope are the following:\r\nNextDoor - neighborhood watch\r\nYelp - review service\r\nMeetup - join groups\r\n\r\nWhat makes us unique is that our project offers a tourist component, local business reviews/suggestions for improvement that will give the opportunity to help create change and connect people in integrated and actionable ways. We also offer social networking as well as the ability for real-time information such as guides and translators."
-  cost: "angel will cost an estimated $100,000 - $150,000 to create. This cost takes into account fees associated with copyrighting, consulting, research and development, testing and creation. Peace Allies will raise funds through personal and private donations, crowd sourcing and strategic sponsors and partnerships to close the financial gaps.\r\n\r\nProjected Budget for project includes the following:\r\n(First Round Funding: $100,000)\r\n:::: 5,000 - Secure Patents & Copyrights\r\n:::: 2,500 - Website Development And Social Media Creation\r\n:::: 47,500 - Consulting, Research, Design\r\n:::: 20,000 - Development & Testing\r\n:::: 25,000 - Advertising and Marketing\r\n\r\n(Second Round Funding: $50,000)\r\n:::: 20,000 - Advertising and Marketing\r\n:::: 20,000 - Sales & Marketing Team\r\n:::: 10,000 - Merchandise and Give-Aways\r\n\r\n"
-  budget: "Projected Budget for project includes the following:\r\n(First Round Funding)\r\n:::: 5,000 - Secure Patents & Copyrights\r\n:::: 2,500 - Website Development And Social Media Creation\r\n:::: 47,500 - Research, Creative Design\r\n:::: 20,000 - Development & Testing\r\n:::: 25,000 - Advertising and Marketing\r\n\r\nIn Detail:\r\n:::: 5,000 - Secure Patents & Copyrights\r\nWe will need to secure patents and copyright to protect the work of the app. This will also allow us to protect possible future developments from the app as well.\r\n\r\n:::: 2,500 - Website Development And Social Media Creation\r\nWe will need a web presence that is connected to crowd funding and social media so as we are creating awareness for the app we can properly capture leads and communicate updates to users and supporters.\r\n\r\n:::: 47,500 - Consulting, Research, Design\r\nWe will contract with a mobile app agency to consult on the creation process. They will do the necessary research and being the mobile app design.\r\n\r\n:::: 20,000 - Development & Beta-Testing\r\nThe agency will begin the next round of creation into developing a working model beyond the prototype. We will likely also begin beta-testing with users interested in helping improve the app.\r\n\r\n\r\n:::: 25,000 - Advertising and Marketing\r\nOnce we have a working model of the app, we will begin marketing the add through strategic online partners and local businesses."
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

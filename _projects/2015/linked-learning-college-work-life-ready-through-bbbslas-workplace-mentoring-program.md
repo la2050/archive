@@ -29,8 +29,8 @@ project_areas:
   - Antelope Valley
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): "3150 North San Fernando Road, Suite C\r\nLos Angeles, CA 90065"
   Organization(s) website(s): www.bbbsla.org
   Organization(s) twitter handle(s): www.twitter.com/bbbsla
@@ -79,7 +79,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Big Brothers Big Sisters of Greater Los Angeles
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
@@ -152,8 +152,6 @@ maker_answers:
     to 30 youth and 30 adult volunteers per site. The partners will not directly
     receive funds, rather that funds will be used to operate our Workplace
     Mentoring Programs at their facilities.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Our goal is to open two new Workplace Mentoring Sites, which will cost $25,000 per site that together will serve up to 60 new Workplace Mentoring matches. The remaining $50,000 will be used to provide the following services:\r\n1. College advising workshops & college campus visits for the Workplace Mentoring Program for up to 150 students.\r\n2. Case management support for the duration of their participation in the program, which is most often two years until they graduate high school and through college matriculation.\r\n3. Partnership cultivation to reach out to schools in LA's under-resourced regions to identify youth to participate in the program.\r\n\r\nAdditional costs will be covered through corporate and foundation grants.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$25,000 (1 of 2) New Workplace Mentoring Program Sites*\r\n$25,000 (2 of 2) New Workplace Mentoring Program Sites*\r\n$15,000 (3) College Advising Workshops for up to 200 youth\r\n$5,000 College campus visits for up to 200 youth (Logistics, supervision, transportation)\r\n\r\n*Includes on-site staff support; facilitation of on-site sessions; transportation of youth to and from work site, and supplies. "
   How do you plan to scale the success of your proposal?: >-
     For 60 years, BBBSLA has been growing our reach in Los Angeles and our goal
     is to increase the number of Workplace Mentoring Program sites throughout
@@ -222,22 +220,6 @@ Are there other organizations doing similar work (whether complementary or compe
   youth and 30 adult volunteers per site. The partners will not directly receive
   funds, rather that funds will be used to operate our Workplace Mentoring
   Programs at their facilities.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Our goal is to open two new Workplace Mentoring Sites, which will cost $25,000
-  per site that together will serve up to 60 new Workplace Mentoring matches.
-  The remaining $50,000 will be used to provide the following services:
-   1. College advising workshops & college campus visits for the Workplace Mentoring Program for up to 150 students.
-   2. Case management support for the duration of their participation in the program, which is most often two years until they graduate high school and through college matriculation.
-   3. Partnership cultivation to reach out to schools in LA's under-resourced regions to identify youth to participate in the program.
-   
-   Additional costs will be covered through corporate and foundation grants.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  $25,000 (1 of 2) New Workplace Mentoring Program Sites*
-   $25,000 (2 of 2) New Workplace Mentoring Program Sites*
-   $15,000 (3) College Advising Workshops for up to 200 youth
-   $5,000 College campus visits for up to 200 youth (Logistics, supervision, transportation)
-   
-   *Includes on-site staff support; facilitation of on-site sessions; transportation of youth to and from work site, and supplies.
 How do you plan to scale the success of your proposal?: >-
   For 60 years, BBBSLA has been growing our reach in Los Angeles and our goal is
   to increase the number of Workplace Mentoring Program sites throughout Los

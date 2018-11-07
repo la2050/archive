@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_live_selfsufficiency: '1'
   metrics_live_healthyfood: '0'
-  city_state: 'Los Angeles, CA'
   org_website: www.sciarc.edu
   org_twitter: 'www.twitter.com/sciarcnews  '
   org_facebook: www.facebook.com/sciarc
@@ -77,7 +77,7 @@ maker_answers:
   org_name: 'Southern California Institute of Architecture (SCI-Arc) '
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '1'
+  city_state: 'Los Angeles, CA'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '1'
@@ -114,24 +114,6 @@ maker_answers:
     volunteers. 
   major_challenges: "The first challenge SCI-Arc anticipates will be aligning each individual organization’s timeline so that each phase can fall within the academic calendar structure of the initiative. As with any partnership, SCI-Arc and Habitat for Humanity, Greater Los Angeles will need to remain in close collaboration to ensure the project stays on course towards a 2015 summer build for the students.  \r\n\r\nThe second anticipated challenge will be raising costs towards advanced technologies and construction methods. While remaining respectful to the project’s intended program and its urban fabric, SCI-Arc’s focused role of design innovation and sustainability within this project will likely raise the cost of construction of the individual home above Habitat’s existing budget. It is important to note, however, that these decisions are made in consideration of the occupancy cost over time as opposed to the upfront construction costs, as many elements would ultimately decrease energy costs for the user as well as allow for more durable materials. In order to do so, SCI-Arc has committed to secure additional funds to cover the cost of advanced materials, construction techniques, or sustainability measures that may be incorporated into the project.\r\n"
   competition: "Yes, there are other models in which leading architecture schools have partnered with Habitat for Humanity or other affordable housing agencies in order to offer students a design-build program within their curriculum. Some examples include The University of Virginia’s ecoMOD / ecoREMOD project, Auburn University’s DESIGNhabitat Program, or Yale University’s Building Project. \r\n\r\nWhat makes this project unique is that such a program does not currently exist in Los Angeles. In a city boasting several design and architecture schools, this would be the only program in which an architecture school partners with Habitat for Humanity towards the goal of testing new grounds for design innovation within Habitat’s affordable homes and integrating new strategies of sustainability through student-designed projects. In a city named the ‘homeless capital of the US’, such an initiative would help offer well-designed housing for low-income families looking for and deserving of a better life.\r\n"
-  cost: >-
-    SCI-Arc is fortunate to partner with Habitat LA, who will be obtaining
-    financing and/or donated materials and labor for each SCI-Arc/Habitat LA
-    project in line with how they set a budget and construction timeline for all
-    their other single-family residences. Above this budget, however, SCI-Arc
-    has committed to secure additional funds to cover the cost of advanced
-    materials, construction techniques, and sustainability measures that may be
-    incorporated into the project. In addition, SCI-Arc will be seeking
-    additional funds to help cover a faculty coordinator fee and student
-    stipends during the summer, since students may not be eligible for financial
-    aid during this time. While the final additional cost of construction and
-    materials is unforeseeable at the moment, SCI-Arc estimates the total amount
-    of this augmented design, student stipends, and coordinator fee as roughly
-    $335,000. SCI-Arc is committed to securing this amount and has already
-    received a significant pledge from an anonymous donor who has supported the
-    school in the past. Grants such as LA2050 would play a crucial role in the
-    project’s implementation.  
-  budget: "The following is a breakdown of the three main categories towards which funds are being raised, along with how we would use the $100,000 for this project. \r\n\r\nCategory: Student summer stipends/scholarships\r\nDetail: 12 (estimate) at $10,000 each\r\nBudget: $120,000\r\nLA2050 Portion of Budget: $50,000\r\n\r\nCategory: Coordinator Fee\r\nDetail: Project coordination\r\nBudget: $15,000\r\nLA2050 Portion of Budget: $10,000\r\n\r\nCategory: Augmented Design\r\nDetail: Additional advanced materials, construction techniques, consultants, and sustainability measures (estimate based on research of similar programs)\r\nBudget: $200,000\r\nLA2050 Portion of Budget: $40,000\r\n\r\nTotal Budget: $335,000\r\nTotal LA2050 Portion of Budget: $100,000\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

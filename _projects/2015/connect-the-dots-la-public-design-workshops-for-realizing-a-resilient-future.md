@@ -16,8 +16,8 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24151%252Fdisplay%252FCtD_2050_Image_2.jpg=c570x385
 project_areas: []
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: '2014'
   Organization(s) name(s): Connect the Dots LA
   Organization(s) mailing address(es): "Arid Lands Institute\r\n7500 Glenoaks Boulevard\r\nBurbank, CA 91510\r\n"
   Organization(s) website(s): www.aridlands.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: '2014'
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -137,11 +137,6 @@ maker_answers:
     communities @ 15 community leaders; and submitted to public agencies). 
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "CtD’s approach is unique in its application of art and design to deliver cutting-edge science with the potential to shape demonstration projects and public policy. CtD has the support of the prize-winning Drylands Resilience Initiative team, drawn from across sectors and disciplines (ALI, Perkins+Will, Arup, and City of LA Bureau of Engineering).   CtD is a corps of first-users of the Drylands Resilience Initiative’s stormwater decision-making tool, Hazel.\r\n\r\nWhile much wonderful arts-related effort is currently concentrated around reclaiming the LA River as civic space; and much water-supply effort is currently underway by engineers, public utilities, and wholesalers, CtD integrates design thinking into the key to water-resilience:  localization of water supply as a distributed, multi-faceted design challenge, integrated into the surfaces of our buildings, streets, landscapes, and city.  CtD blurs the distinction between arts and utility, and between river and basin, and recognizes that a resilient water supply will need to be embraced by neighborhoods throughout the watershed, in inspiring and surprising ways.\r\n\r\nCtD is also unique in its leadership team: a blend of architects, landscape architects, public artists and successful non-profit managers with drylands design expertise who have hosted large-scale, transformational community events here and in other cities.\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "CtD funding leverages existing partnerships in place.\r\n\r\nResearch: CtD’s works closely with the Arid Lands Institute’s research team, including ALI, Perkins+Will, Arup, and City of LA Bureau of Engineering, to provide high-resolution stormwater data and to prioritize neighborhoods thirsty for public investment in quality public space. CtD also actively consults stormwater plans produced by LA County Flood Control, LA DWP, and City of LA Bureau of Sanitation.  \r\n\r\nOutreach: CtD Engagement Strategist will make every effort to coordinate outreach and public events with initiatives underway at FoLAR; Water LA/River Project; Trust for Public Land; NorthEast Trees; TreePeople; Ciclavia; Pacoima Beautiful; LACounty Bike Coalition, LAUSD, and others.  \r\n\r\nDesign Expertise: CtD will invite wide participation by volunteers in the design professionals through the American Institute of Architects | LA and leverage existing alliances with design firms throughout the basin.  Firms that have supported CtD development and pilot projects include Production Resources Group; Lehrer Architects; agps; Mia Lehrer + Associates; Roto Architects; Perkins+Will, Rios Clementi Hale; ACMartin; Predock Architects; John Kaliski Architects; (M)Arch Studio; and others.\r\n\r\nPolicy Impacts:  CtD, working with student teams from multiple university design programs, will share vision and policy recommendations with community development organizations, neighborhood councils, and city and county-wide watershed development initiatives. CtD will work to advocate for optimal hydrologic function within the Great Streets Initiative and beyond.\r\n\r\nFunding will be dedicated to expanding pilot programs already held in Pacoima (summer 2015) and Van Nuys (Feb 2016); design and fabrication of workshop kit elements; neighborhood outreach and volunteer recruitment; and the creative time of CtD principals.   \r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    $100,000 is an appropriate budget for pilot expansion described above.  To
-    sustain CtD as a program beyond 2016 will require more comprehensive
-    funding. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Geospatial Research Services:\t$5,000\r\n\t\r\nWorkshop Development Lead\t$15,000\r\n\r\nEngagement Strategist:\t$15,000\r\n\r\nDevelopment of Workshop Tools/Design Elements\r\n\r\nHazel Table Prototype 3.0:\t\r\nDesign:  \t$1,500\r\nFabrication: 10 @ 500\t$5,000\t\r\n\r\nPublic Art Curation + Installation:\t$6,000\t\r\nLarge Scale Drylands Design Graphics:\t\r\nConcept + Content\t\t$7,500\r\nFabrication:  8 @ $3,000 \t$24,000\r\n\r\nPrinted Outreach + Interpretive Material:\r\nDesign: Editorial Concept + Content Dev’t\t$1,000\r\nProduction:\t$2,000\r\nWorkshop Supplies:\t\r\nTent rentals: donated/in-kind\r\nLighting/projection equipment: donated/in-kind\r\nChalk, Paint, Paper\t$2,000\r\nRefreshments:  3 @ $500\t$1,000\r\n\t\t\r\nPermits:\r\nBlock party/waived or in-kind\r\n\r\nData Collection, Analysis, Synthesis: \t$10,000\r\n\r\nContingency: \t$5,000\r\n\r\nTotal: \t$100,000\r\n"
   How do you plan to scale the success of your proposal?: >-
     With sustained support, our goal is to bring high-quality stormwater data
     and strong alliances with the design community to diverse neighborhoods in
@@ -225,44 +220,6 @@ Are there other organizations doing similar work (whether complementary or compe
    Policy Impacts: CtD, working with student teams from multiple university design programs, will share vision and policy recommendations with community development organizations, neighborhood councils, and city and county-wide watershed development initiatives. CtD will work to advocate for optimal hydrologic function within the Great Streets Initiative and beyond.
    
    Funding will be dedicated to expanding pilot programs already held in Pacoima (summer 2015) and Van Nuys (Feb 2016); design and fabrication of workshop kit elements; neighborhood outreach and volunteer recruitment; and the creative time of CtD principals.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  $100,000 is an appropriate budget for pilot expansion described above. To
-  sustain CtD as a program beyond 2016 will require more comprehensive funding.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Geospatial Research Services: $5,000
-   
-   Workshop Development Lead $15,000
-   
-   Engagement Strategist: $15,000
-   
-   Development of Workshop Tools/Design Elements
-   
-   Hazel Table Prototype 3.0: 
-   Design:  $1,500
-   Fabrication: 10 @ 500 $5,000 
-   
-   Public Art Curation + Installation: $6,000 
-   Large Scale Drylands Design Graphics: 
-   Concept + Content $7,500
-   Fabrication: 8 @ $3,000 $24,000
-   
-   Printed Outreach + Interpretive Material:
-   Design: Editorial Concept + Content Dev’t $1,000
-   Production: $2,000
-   Workshop Supplies: 
-   Tent rentals: donated/in-kind
-   Lighting/projection equipment: donated/in-kind
-   Chalk, Paint, Paper $2,000
-   Refreshments: 3 @ $500 $1,000
-   
-   Permits:
-   Block party/waived or in-kind
-   
-   Data Collection, Analysis, Synthesis: $10,000
-   
-   Contingency: $5,000
-   
-   Total: $100,000
 How do you plan to scale the success of your proposal?: >-
   With sustained support, our goal is to bring high-quality stormwater data and
   strong alliances with the design community to diverse neighborhoods in every
