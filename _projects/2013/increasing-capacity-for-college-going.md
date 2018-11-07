@@ -47,6 +47,39 @@ project_summary: >-
 project_image: 'https://img.youtube.com/vi/jGa5KEowRPM/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/jGa5KEowRPM'
 maker_answers:
+  success: "With regards to the effects of the programs on students outcomes, we will measure success by administering surveys to students prior to and post participation in our programs. The surveys will be designed to collect data on the effects of the program on college knowledge and college-going efficacy. We also will conduct selected focus groups with students and practitioners in order to gain a deeper  understanding of which practices are working best for students and their teachers and/or counselors.\r\nWe will also evaluate the project by analyzing the numbers of game players and if/how those numbers increase, thus increasing traction in the project. We will also analyze back-end server data related to the games in order to ascertain the effects of game play on students' college aspirations and/or plans."
+  description: >-
+    Our project will help improve the college-going rates at high schools that
+    have the lowest college-going rates within the Los Angeles Unified School
+    District.  Many students who are eligible for college choose not to attend
+    college because they receive little support on how to navigate the
+    college-going process or lack the information on how to apply.  By pairing
+    mentors with high school seniors who are college-eligible, they can
+    successfully guide them through the college application process.   The high
+    school graduation rate in California ranks in the bottom half of all U.S.
+    states, with the Los Angeles Unified School District’s own graduation rate
+    well below the state’s, according to the U.S. Department of Education. 
+    Budget cuts have severely affected the amount of college counselors at the
+    schools. A shortage of counselors limits the support that students receive
+    regarding the college application process. Traditionally, California
+    students' access to counselors varies by grade level, and 29 percent of
+    California school districts have no counseling programs at all. The ratio of
+    students per counselor in California averages 945 to 1, compared to the
+    national average of 477 to 1, ranking California last in the nation.  In Los
+    Angeles, the average ratio is 800 students to 1 guidance counselor. Many
+    under-resourced schools have guidance counselors, but not dedicated college
+    counselors. Students attending private schools and public schools in
+    affluent parts of the city are afforded very different access to college
+    information and support, often supplemented by parents employing private
+    college counselors to shepherd their children through the complexity of
+    college applications. Thus the gap between those who have access to
+    resources and those who don’t remains stark; the implications for college
+    graduation rates and lifetime earning potential are obvious.  By having
+    volunteers serve as mentors, they can alleviate the burden of college
+    counselors having to work with enormous case loads and students can have the
+    one on one interaction needed to understand how to navigate the college
+    admissions and financial aid processes.
+  collaborators: "High schools within the Los Angeles Unified School District: Belmont, Crenshaw, Dorsey, Foshay Learning Center, Fremont, Manual Arts, Marshall, Roosevelt, Roybal Learning Center\r\nUSC Game Innovation Lab\r\nCash for College- Los Angeles Chamber of Commerce\r\nNational College Access Network\r\nSouthern California College Access Network\r\nCollege Access Foundation of California\r\nSelected businesses - to be determined\r\n"
   description1: >-
     The Pullias Center for Higher Education is dedicated to improving access to
     college for low-income and historically under-represented students. The
@@ -82,95 +115,6 @@ maker_answers:
     careers. Our games were developed and pilot tested in Los Angeles and are
     now utilized nationally. My LA2050 funding would enable us to expand these
     programs and train practitioners on how to make use of the game-based tools.
-  success: "With regards to the effects of the programs on students outcomes, we will measure success by administering surveys to students prior to and post participation in our programs. The surveys will be designed to collect data on the effects of the program on college knowledge and college-going efficacy. We also will conduct selected focus groups with students and practitioners in order to gain a deeper  understanding of which practices are working best for students and their teachers and/or counselors.\r\nWe will also evaluate the project by analyzing the numbers of game players and if/how those numbers increase, thus increasing traction in the project. We will also analyze back-end server data related to the games in order to ascertain the effects of game play on students' college aspirations and/or plans."
-  Indicator: ' Education'
-  brief: >-
-    Our primary goal is to increase college attendance throughout the
-    under-served communities of Los Angeles which will have a major impact on
-    improving education in Los Angeles and the state of California.  There are
-    thousands of students that attend schools in Los Angeles that are not
-    getting the information they need to help them with the college going
-    process.  They have the grades and have taken the required courses but are
-    overwhelmed and confused about the college application process so choose not
-    to attend college or go directly to a community college instead of a
-    four-year institution. Attending a community college is not a bad option but
-    may take students at least 3-4 years to transfer to a four-year college if
-    they ultimately want to receive a Bachelor’s degree. The programs that we
-    offer target first generation, low-income, college-bound seniors from
-    low-performing high schools and assist them with the college-going process.
-    The I AM( Increasing Access via Mentoring) program is a mentoring program
-    that provides assistance with the college choice, college admissions and
-    financial aid processes. The SummerTIME (Tools, Information, Motivation, and
-    Education) program teaches advanced writing and “College Knowledge” (e.g.
-    time management, note-taking, financial literacy) to support participating
-    students' transition to the freshman year.  Finally, Collegeology includes
-    games (Application Crunch and Mission: Admission) that teach strategies for
-    navigating the college application process in fun and interactive ways. The
-    first game is a card game, the second is a Facebook Application. In April,
-    we’ll be launching FutureBound, a game targeting middle school students that
-    illustrates the connection between making good decisions in middle school
-    and college/career. We are currently working on a game that fosters
-    financial literacy and knowledge about financial aid options for college. 
-    Here’s the challenge: with I AM and SummerTIME, we are limited by resources
-    as to how many students we can serve. With the online games, we need to
-    train teachers and practitioners on how to use the games. The 2050 grant
-    would help us expand the capacity of these programs.  We currently work with
-    11 high schools and serve approximately 300 students but we would like to
-    expand our college-going model so that we can serve a wider student
-    population in Los Angeles.  Our programs contain tools that can be
-    replicated on a larger scale so that more students will have the opportunity
-    to be accepted to college and receive a college education.  A My LA2050
-    grant would enable us to train more mentors, implement guidance activities
-    at more schools, expand services offered and ensure college opportunity for
-    a larger number of students.
-  description: >-
-    Our project will help improve the college-going rates at high schools that
-    have the lowest college-going rates within the Los Angeles Unified School
-    District.  Many students who are eligible for college choose not to attend
-    college because they receive little support on how to navigate the
-    college-going process or lack the information on how to apply.  By pairing
-    mentors with high school seniors who are college-eligible, they can
-    successfully guide them through the college application process.   The high
-    school graduation rate in California ranks in the bottom half of all U.S.
-    states, with the Los Angeles Unified School District’s own graduation rate
-    well below the state’s, according to the U.S. Department of Education. 
-    Budget cuts have severely affected the amount of college counselors at the
-    schools. A shortage of counselors limits the support that students receive
-    regarding the college application process. Traditionally, California
-    students' access to counselors varies by grade level, and 29 percent of
-    California school districts have no counseling programs at all. The ratio of
-    students per counselor in California averages 945 to 1, compared to the
-    national average of 477 to 1, ranking California last in the nation.  In Los
-    Angeles, the average ratio is 800 students to 1 guidance counselor. Many
-    under-resourced schools have guidance counselors, but not dedicated college
-    counselors. Students attending private schools and public schools in
-    affluent parts of the city are afforded very different access to college
-    information and support, often supplemented by parents employing private
-    college counselors to shepherd their children through the complexity of
-    college applications. Thus the gap between those who have access to
-    resources and those who don’t remains stark; the implications for college
-    graduation rates and lifetime earning potential are obvious.  By having
-    volunteers serve as mentors, they can alleviate the burden of college
-    counselors having to work with enormous case loads and students can have the
-    one on one interaction needed to understand how to navigate the college
-    admissions and financial aid processes.
-  collaborators: "High schools within the Los Angeles Unified School District: Belmont, Crenshaw, Dorsey, Foshay Learning Center, Fremont, Manual Arts, Marshall, Roosevelt, Roybal Learning Center\r\nUSC Game Innovation Lab\r\nCash for College- Los Angeles Chamber of Commerce\r\nNational College Access Network\r\nSouthern California College Access Network\r\nCollege Access Foundation of California\r\nSelected businesses - to be determined\r\n"
-  website: 'http://pullias.usc.edu/'
-  Organization Name: Pullias Center for Higher Education
-  description3: >-
-    Central to the mission of the Pullias Center is a commitment to conducting
-    practitioner-oriented research and sharing best practices. While there are
-    multiple organizations in Los Angeles designed to provide college outreach
-    services to low-income students, we do not view them as competitors. Rather
-    we work with them as collaborators. We value their input and often involve
-    their practitioners on our advisory board to guide our research and program
-    development. We also translate research findings for practitioner audiences
-    and make an effort to share our game products with other organizations in
-    order to improve the college access and completion landscape in Los Angeles.
-    Unfortunately, the high drop-out rates and low college-going rates of
-    students in Los Angeles are concerning. We simply need as many organizations
-    and individuals working together to figure out solutions and provide support
-    to students and teachers/counselors in a concerted effort.
   vision: >-
     Currently California ranks 40th among the states in the rate of high school
     graduates going directly to college.  By 2050, we hope to increase
@@ -191,10 +135,6 @@ maker_answers:
     skills that are required for long-term and sustainable employment.  We would
     like to expand our programs so that we can serve at least 1,000-2,000
     students during the academic year.
-  EIN: 95-1642394
-  Tax Status: ' Non-profit organization'
-  about_you: 'Los Angeles, CA'
-  Does your project impact Los Angeles County?: 'yes'
 What is your idea and how will it impact your indicator?: >-
   Our primary goal is to increase college attendance throughout the underserved
   communities of Los Angeles which will have a major impact on improving

@@ -19,20 +19,7 @@ project_summary: >-
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17110%252Fdisplay%252Frachelschmid.elrio.jpg=c570x385
 maker_answers:
-  description1: "El Rio Schools is a new non-profit; our most important achievement, to date, is regularly attended workshops, playgroups and informational gatherings at the Audubon Center at Debs Park of parents in Northeast Los who have an interest in mindfulness in secular public education. We are building the social network for mindfulness in education in Northeast Los Angeles. \r\n\r\nToday, 439 people liked our facebook page! \r\n\r\nJoan Jaeckel, co-founder, coordinated the successful charter petition writing process for Ocean Charter School, the first Waldorf-inspired publicly chartered school in Los Angeles.  \r\n\r\nFounding board member, Julia Schacter, produced the Emmy nominated PBS documentary, The First Year.  "
   success: "We will evaluate the Mindful Education for LAUSD project by the quality of the working relationships: Are people sharing ideas, cooperating for the good of the project and LA2050? Are we able to work constructively and enjoyably with public education officials and city leaders? Has a university become our partner? Are teachers curious and coming to our working sessions and the Original Play Playshop? Is the result original, engaging and replicable?  Is it designed to be a working model open to the initiative and autonomy of teachers in the classroom? Ultimately success will be measured by the outcomes of the proposal writing process: (1) Does it mirror our highest intentions of designing a Mindful pedagogical approach to curriculum, instruction, assessment, teacher education AND also meet the expectations of the Common Core?  (2) Does the teacher education program teach teachers to teach in creative and playful and active ways - does it inspire them to inspire the students? (3) Does the project attract partnerships and collaborators who will speak for it at the LAUSD hearing (if we submit as a charter) (4) Does LAUSD accept the proposal and will El Rio move forward in 2014-2015 school years as an LAUSD publicly chartered school or an LAUSD pilot school? \r\n\r\n"
-  Indicator: ' Education'
-  brief: >-
-    Mindfulness in education is a means to significantly improve student
-    attention, enjoyment, and achievement. Our idea is to develop a prototype
-    Mindful Education K-8 public school within LAUSD -  either as a charter
-    school or as a pilot school.  Our aim is to develop a  prototype curriculum,
-    teaching methods, methods of assessment, cognitive research data points and
-    teacher education program with the aim of entering a proposal for
-    consideration to the LAUSD between October and December 2013.  The resulting
-    mindful education framework will  serve as a working model for continuous
-    learning about the impact of mindfulness in education on student and
-    community "good". 
   description: >-
     Los Angeles benefits when our public education system serves the needs of
     the 21st century: People who can initiate and create the new world of work,
@@ -51,15 +38,7 @@ maker_answers:
     the data-points of success - attendance, engagement, behaviour, and
     initiative as well as on traditional metrics.  
   collaborators: "Research Institute for Waldorf Education\r\nO. Fred Donaldson, Original Play\r\nRobert Anderson, Senior Assessment Researcher, formerly of CA Dept. of Education and WestEd\r\nDr. Renatta Cooper, First 5 L.A. Comissioner (Ret)\r\nDr. Bruce Perry,  Child Trauma Institute\r\nWe will also include other collaborators, i.e. UCLA Mindful Awareness Research Center, Mindfulness in Education Network, Mind and Life Institute, Non-Violent Communication"
-  website: www.elriocharterschool.org
-  Organization Name: 'El Rio Schools: MIND-FIT EDUCATION FOR THE 21ST CENTURY'
-  description3: >-
-    We have an ontological aversion to a negative view of competition in the
-    area of improving public education in Los Angeles. In general, our approach
-    to adversarial relationships are the practices of non-violent
-    communication.  Beyond that, we hold that the different educational
-    philosophies popping up around LA inspire mutual self-improvement and
-    healthy copying.  
+  description1: "El Rio Schools is a new non-profit; our most important achievement, to date, is regularly attended workshops, playgroups and informational gatherings at the Audubon Center at Debs Park of parents in Northeast Los who have an interest in mindfulness in secular public education. We are building the social network for mindfulness in education in Northeast Los Angeles. \r\n\r\nToday, 439 people liked our facebook page! \r\n\r\nJoan Jaeckel, co-founder, coordinated the successful charter petition writing process for Ocean Charter School, the first Waldorf-inspired publicly chartered school in Los Angeles.  \r\n\r\nFounding board member, Julia Schacter, produced the Emmy nominated PBS documentary, The First Year.  "
   vision: >-
     (1) People in LA will evaluate education in light mindfulness and the
     age-fitness of the program for children and adolescents as well as the test
@@ -72,12 +51,6 @@ maker_answers:
     downstream, more funds will go to educating teachers in mindfulness and
     age-fit instructional capabilities. This will free up funds to go to
     autonomy in the classroom and less to minding from the top.  
-  EIN: 90-0705279
-  Tax Status: ' Non-profit organization'
-  about_you: >-
-    Our school intends to open in Northeast Los Angeles. My home address is
-    12137 Viewcrest Road, Studio City, CA 91604
-  Does your project impact Los Angeles County?: ' no'
 What is your idea and how will it impact your indicator?: >-
   Mindfulness in education is a means to significantly improve student
   attention, enjoyment, and achievement. Our idea is to develop a prototype

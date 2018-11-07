@@ -10,17 +10,6 @@ project_summary: "Lambda Theta Nu Sorority, Incorporated’s overall objective i
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16587%252Fdisplay%252Fphoto-33.JPG=c570x385
 maker_answers:
-  description1: >-
-    As a non-profit organization we cater to the female youth through our
-    programming. Through our philanthropy "TIJERAS," cutting through to enhance
-    education opportunities, we fundraise hundreds of dollars every year to
-    donate to another non-profit organization which carries out this purpose on
-    a grander scale. We also serve our community through our Annual Latina Youth
-    Leadership Conferences that are targeted to middle and high school students.
-    We offer these students workshops about A-G Requirements, resume building,
-    networking, mental health, and student panels among many others. Overall our
-    organization encourages students to pursue a higher education and we offer
-    them the tools and support to do so.
   success: >-
     Evaluation of the project will be in the form of weekly student activity
     logs, pre and post surveys, quizzes, and monitoring of the students. Our
@@ -28,8 +17,6 @@ maker_answers:
     student activities and workshops, success of the students in using their
     money effectively during workshops and activities, as well as their scores
     from the pre-quiz to the post quiz for the program.
-  Indicator: ' Income & Employment'
-  brief: "Lambda Theta Nu Sorority, Incorporated’s overall objective is to implement a financial management class for high school students ages 15-18.  This class will prepare and empower them with financial literacy and the ability to respect and understand the distinction between spending money and using money, becoming effective citizens in a global economic society.\r\n\r\nThe overall impact will teach inner city youth traditionally underexposed to the tools of financial literacy, 1) how to use a bank effectively, 2) the importance of credit, 3) saving your money vs. spending your money, 4) why all money is not “good money,\" and 5) money and college.\r\n"
   description: >-
     Statistics from the California High School Performance Reports presented by
     the State Department of Education indicate that only 63.5% of the Los
@@ -42,14 +29,17 @@ maker_answers:
     aspirations. Students statistically expected to underachieve will be
     empowered to do the opposite.
   collaborators: ''
-  website: www.lambdathetanu.org
-  Organization Name: 'Lambda Theta Nu Sorority, Incorporated'
-  description3: >-
-    We work at our respective campuses with other organizations to make our
-    programs more successful. We invite other non-profit organizations with
-    similar goals to partake in our philanthropic events and also support our
-    fundraising events. We collaborate with many other organizations to make
-    events more successful and have a more powerful impact in the community.
+  description1: >-
+    As a non-profit organization we cater to the female youth through our
+    programming. Through our philanthropy "TIJERAS," cutting through to enhance
+    education opportunities, we fundraise hundreds of dollars every year to
+    donate to another non-profit organization which carries out this purpose on
+    a grander scale. We also serve our community through our Annual Latina Youth
+    Leadership Conferences that are targeted to middle and high school students.
+    We offer these students workshops about A-G Requirements, resume building,
+    networking, mental health, and student panels among many others. Overall our
+    organization encourages students to pursue a higher education and we offer
+    them the tools and support to do so.
   vision: >-
     In the year 2050 this group of students would have reached out to two more
     generations of students developing their financial enrichment, thus
@@ -57,10 +47,6 @@ maker_answers:
     see that more high school students are prepared with the ability to
     understand and use different aspects of banking, money, and credit and its
     relation to personal income.
-  EIN: '943292874'
-  Tax Status: ' Non-profit organization'
-  about_you: 'Los Angeles, CA'
-  Does your project impact Los Angeles County?: 'yes'
 What is your idea and how will it impact your indicator?: >+
   Lambda Theta Nu Sorority, Incorporated’s overall objective is to implement a
   financial management class for high school students ages 1518.  This class
