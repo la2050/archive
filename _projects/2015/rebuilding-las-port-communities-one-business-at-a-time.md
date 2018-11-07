@@ -62,15 +62,6 @@ maker_answers:
       Percentage of graduates from local higher education institutions that
       remain in LA County 5 years after graduating (Dream Metric)
   Please explain how you will evaluate your work.: "In the short term, we measure success as follows:  \r\n1.\tOutreach: We track the level of participation in social media, attendance at events (professionals and students) and the number of applicants to the PortTech Pitch program.\r\n2.\tEducation: We analyze the quality of our programs and events through surveys, allowing us to continually refine and improve our offerings.\r\n3.\tMentoring: We videotape the entrepreneur presentations and mentor comments so that presenters can review their performance and incorporate feedback. We also video the final competition presentations. The “before vs after” presentations verify the tremendous improvements of entrepreneurs and validate the efficacy of the program.\r\n4.\tStudent Participation: Follow-up interviews are conducted with teachers to solicit feedback for program improvement.\r\n\r\nOver the long term, we measure progress using the following metrics:\r\n-\tJobs created\r\n-\tDollars invested\r\n-\tPilot projects initiated\r\n-\tBusinesses established in the Harbor area"
-areas_impacted: ''
-partners: 'ITEP: 743161465, POLAHS: 161649277'
-Please specify below: Harbor area communities surrounding the Ports of Los Angeles and Long Beach
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/rebuilding-las-port-communities-one-business-at-a-time/img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg
 youtube_video_identifier: zmZJYC2WFVk

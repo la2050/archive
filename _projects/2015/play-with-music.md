@@ -58,17 +58,6 @@ maker_answers:
     progress in other areas of education. We will also document student
     testimonials of their experience in the program and beyond to help us show
     others why Play with Music is transformative. 
-areas_impacted: ''
-partners: ''
-Please specify below: >-
-  We can run programs wherever our partners, Green Dot Public Schools, and The
-  Harmony Project, are operating.
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/play-with-music/img.youtube.com/vi/MY3TeVh867s/maxresdefault.jpg
 youtube_video_identifier: MY3TeVh867s

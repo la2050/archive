@@ -45,47 +45,6 @@ maker_answers:
     We will evaluate occupancy rates, energy usage and generally evaluate
     demand. We know from similar construction in different parts of the world
     and different States that demand is very high.
-areas_impacted: ''
-partners: ''
-Please specify below: ''
-'Describe in greater detail how you will make LA the best place to connect:': >-
-  By creating housing and employment we will encourage the chronically homeless
-  to leave the streets. This will improve their lives dramatically and free up
-  all the associated resources. We have a solution to finding space for these
-  communities and we have a training scheme to encourage the acquisition of
-  skills that provide ongoing employment. Chronic homelessness impacts many
-  lives and by providing solutions (housing, jobs, local clinics and community
-  care) we can begin the task of eradicating this tragedy and making LA a model
-  of how all cities should be. Experience has shown us that we can provide
-  individual, high quality homes whose construction can be paid for by a weekly
-  rent of $100 - $140.
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
-  Planning and zoning issues are a major challenge. However we have already
-  'passed' the plan check part of the building process. The major obstacle is
-  land acquisition. If no land is donated (either privately or publicly) we have
-  a solution as to where we can build these show homes and start a community. It
-  is fairly radical, although entirely feasible - the technology hasn't been
-  available until now to utilize this space. We envisage that finding a donor
-  for the show homes will not be difficult however.
-Please explain how you will evaluate your work.: >-
-  We will evaluate occupancy rates, energy usage and generally evaluate demand.
-  We know from similar construction in different parts of the world and
-  different States that demand is very high.
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: >-
-  There are other companies doing similar work but not with the intent of
-  eliminating a specific inner city housing problem. Our buildings are different
-  to every other kind of construction and provide unparalleled safety, energy
-  efficiency and longevity.
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
-  We will be encouraging major construction companies to contribute equipment
-  and materials with the aim of providing the maximum number of homes. The
-  design will be done gratis and it is intended that a lot of the work be done
-  on a volunteer basis. It is intended that every available dollar be put into
-  constructing actual homes.
-How do you plan to scale the success of your proposal?: >-
-  We would partner with the city of Los Angeles to roll out a larger Monolithic
-  Dome building program. We would also look to corporate sponsorship to
-  contribute a number of Dome homes.
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/dome4ahome-a-revolutionary-idea-for-low-income-housing/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23466%252Fdisplay%252Flarge_domes-134_crop.jpg=c570x385.jpg
 maker_image_id: '23466'

@@ -54,15 +54,6 @@ maker_answers:
     - Suspension and expulsion rates (Dream Metric)
     - Truancy rates in elementary and middle schools (Dream Metric)
   Please explain how you will evaluate your work.: "An evaluation and learning system is one of our two grant deliverables.  Metrics for the two deliverables:\r\n(1) High school model\r\nKey components in place by December 2016:\r\ni. Curriculum arcs, including tools for evaluating and providing feedback on student learning\r\nii. Plan for implementing internships\r\niii. Extension of advisory program to cover older teen issues and post high school transition\r\niv. Development of model for implementing individual impact project program for select middle school and all high school students\r\nv. Passes peer review by advisory board of high school design thought leaders\r\nvi. Student achievement data (short run) and post-high school success data (long run).\r\n(2) Evaluation and learning system\r\ni. Portfolio of success metrics developed and approved by full Governing Council by March 2016\r\nii. Constituent surveys developed and piloted May 2016\r\niii. Full annual report template approved by Governing Council by December 2016.\r\n"
-areas_impacted: ''
-partners: ''
-Please specify below: ''
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/the-incubator-school-designing-the-high-school-of-tomorrow-today/img.youtube.com/vi/SHjS92F_BK8/maxresdefault.jpg
 youtube_video_identifier: SHjS92F_BK8

@@ -56,15 +56,6 @@ maker_answers:
     - Number of parks with intergenerational play opportunities (Dream Metric)
     - Number (and quality) of informal spaces for play (Dream Metric)
   Please explain how you will evaluate your work.: "Our goal is to increase access to healthy, safe, playful public spaces. Our success will be in how many people participate in designing spaces in their communities, how many people learn about the benefits of streets as public spaces, and how many people enjoy their time in these spaces. \r\n\r\nSuccess will also be reflected in how many short-term projects we can transform into permanent improvements. We must be able to use our communities’ recommendations for permanent infrastructure. Year over year, we will measure our success by collecting data related to:\r\n•\tIncreased Economic Activity\r\n•\tImproved Access and Mobility\r\n•\tEnhanced Neighborhood Character\r\n•\tGreater Community Engagement\r\n•\tImproved Environmental Resilience\r\n•\tSafer and More Secure Communities\r\n•\tImproved Health Outcomes\r\n\r\nPlease see attached spreadsheet for a full list of metrics we will collect to measure success. \r\n"
-areas_impacted: ''
-partners: ''
-Please specify below: ''
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/the-great-streets-challenge-making-streets-playful-public-places/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24129%252Fdisplay%252FScreen_Shot_2015-10-07_at_4.00.20_PM.png=c570x385.png
 maker_image_id: '24129'

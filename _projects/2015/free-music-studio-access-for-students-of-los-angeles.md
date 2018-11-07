@@ -53,57 +53,6 @@ maker_answers:
       Percentage of graduates from local higher education institutions that
       remain in LA County 5 years after graduating (Dream Metric)
   Please explain how you will evaluate your work.: "Adventures in the arts and music expand who we are as human beings. It is part of our spiritual advancement in the ways we communicate - through melody, rhythms and lyrics- breaking down barriers, and allowing us to experience true happiness. \r\nResearch also shows that music can relieve stress, lower blood pressure, and help relieve pain. \r\n\r\nWe will evaluate our work through the musical advancement of the youth that utilize this program. With the youth bands that form at ESR, we would showcase a live performance at an all ages venue in Boyle Heights so they would be able to have the experience of playing live in front of an audience.\r\n\r\nMore musicians make a better environment. Art makes a better city and ultimately a better world. \r\n\r\n"
-areas_impacted: ''
-partners: ''
-Please specify below: ''
-'Describe in greater detail how you will make LA the best place to connect:': >-
-  We live in the entertainment capitol, with the music industry based in Los
-  Angeles. With gentrification happening at an alarming rate in DTLA, there are
-  closures of music rehearsal studios and rental rooms going up in price. I
-  decided to build a rehearsal space in Boyle Heights where there was none, and
-  plan to open our doors for students to use the facility for free with grant
-  money. 
-   
-   Being a musician has allowed me to travel the world, record records, sell music to film and TV, and has given me a purpose to share my vision and ideas. I want to be an example to the young people here in LA to show them that anything is possible with practice and discipline. And by giving them a space to do this in a neighborhood like Boyle Heights will surely foster some incredible ideas. 
-   Findings indicate that music study uniquely enhances higher brain functions required for reading, mathematics, chess, science, and engineering. If I can be a small but positive change to give back to my community, this would be it. I know from experience that having a creative outlet is so important in keeping kids off the streets and out of trouble. Most kids just need a chance, some guidance and discipline. Music can give them that and so much more.
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
-  The only barrier I see for an after school program is that we would have to
-  have a licensed adult teacher on site during program hours. One of our
-  investors is a teacher and musician himself and could possibly fill this roll.
-  We also plan to have security during business hours.
-Please explain how you will evaluate your work.: >-
-  Adventures in the arts and music expand who we are as human beings. It is part
-  of our spiritual advancement in the ways we communicate - through melody,
-  rhythms and lyrics- breaking down barriers, and allowing us to experience true
-  happiness. 
-   Research also shows that music can relieve stress, lower blood pressure, and help relieve pain. 
-   
-   We will evaluate our work through the musical advancement of the youth that utilize this program. With the youth bands that form at ESR, we would showcase a live performance at an all ages venue in Boyle Heights so they would be able to have the experience of playing live in front of an audience.
-   
-   More musicians make a better environment. Art makes a better city and ultimately a better world.
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: >-
-  School of Rock is a nation wide organization with a similar idea but offers
-  lessons. What is unique about Eastside Rehearsal is that we offer youth a
-  space to create for those who are already interested and practicing music in a
-  lower income neighborhood. Many of the kids in Boyle Heights don't have the
-  money or resources to pursue musical studies. With grant money, we would open
-  our studios for free to those interested in furthering their musical
-  creativity. Most of the hourly rental spaces in LA are located in higher
-  income areas like Atwater Village, Echo Park, and Eagle Rock. ESR will be run
-  by bilingual musicians catering to many of the students here that have English
-  as their second language.
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
-  The partners at Eastside Rehearsal are Meg and Tony Aguilar, and Eddie Rivas.
-  The $100,000 would go directly to the business in buying equipment and
-  allowing our doors to be open to students after school for 2 hours everyday
-  for 2 school years, as well as the teacher/overseer salary.
-How do you plan to scale the success of your proposal?: >-
-  The success of our proposal would look like our practice rooms filled with
-  students every day after school, practicing their instruments, forming bands,
-  participating in live performances at our studio and around Los Angeles. We
-  will surely form relationships with these kids and hope to inspire them with a
-  supportive environment to create and eventually take their ideas around the
-  world like we have.
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/free-music-studio-access-for-students-of-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23180%252Fdisplay%252FESRLogo.jpg=c570x385.jpg
 maker_image_id: '23180'

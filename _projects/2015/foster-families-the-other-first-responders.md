@@ -44,15 +44,6 @@ maker_answers:
     - Government responsiveness to residents’ needs (Dream Metric)
     - Total number of local social media friends and connections (Dream Metric)
   Please explain how you will evaluate your work.: "Fundamentally, most important thing that we can evaluate is whether there is an increase in the number of resource families that become foster parents. This however may take time because making individuals and organizations aware of this new resource will not happen overnight. What we hope to see in the short run is a steady increase in the number of families accessing the information on the website. To this end we will make sure that the website tracks how many people come to the website and what content they are accessing.\r\n\r\nIn order to make this successful we will also have to keep track of several things including the number of other websites that choose to provide a link to our website on theirs and the number of organizations that we can successfully get to the planning and design meetings.\r\n"
-areas_impacted: ''
-partners: ''
-Please specify below: ''
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/foster-families-the-other-first-responders/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23745%252Fdisplay%252FUCLA_Connect.jpg=c570x385.jpg
 maker_image_id: '23745'

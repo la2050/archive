@@ -51,15 +51,6 @@ maker_answers:
       Students perceived sense of safety at and on the way to school (Dream
       Metric)
   Please explain how you will evaluate your work.: "Prior to and after providing peer mediation training, the project will analyze school discipline data and administer online and paper surveys to students to assess their knowledge of conflict resolution principles as well as their perception of the school climate and level of safety at school.  Parents will also complete surveys to assess their knowledge of conflict resolution initiatives.\r\nProject trainers will evaluate real time peer mediations and provide feedback and support and mediation participants will complete surveys following each mediation. Surveys will measure outcomes, including:\r\n- The number of cases mediated and agreements reached \r\n- Whether students knew about mediation before the mediation and how they found out \r\n- Satisfaction levels with the mediation\r\n- Ability of each party to communicate feelings and understand the other person’s point of view \r\n- Whether program participation has an impact on how parties manage disputes outside the classroom"
-areas_impacted: ''
-partners: ''
-Please specify below: ''
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/the-peer-mediation-network/img.youtube.com/vi/69OXVYZ15kU/maxresdefault.jpg
 youtube_video_identifier: 69OXVYZ15kU

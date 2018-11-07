@@ -56,15 +56,6 @@ maker_answers:
     - Number of parks with intergenerational play opportunities (Dream Metric)
     - Number (and quality) of informal spaces for play (Dream Metric)
   Please explain how you will evaluate your work.: "Free Lots Angeles will evaluate its effectiveness in the following ways:\r\n\r\n1) The successful production of three pop-up events on vacant lots in low-income areas of the City;\r\n2) The introduction and institutionalization of City policy that will aggregate all City-owned vacant lots into one publicly-accessible database; and\r\n3) The development of a standard right of entry permit and/or lease agreements that could be used by community members to activate a vacant lot.\r\n\r\nThese goals are monitored by weekly meetings with program staff from each of the Free Lots Angeles partner organizations as well as separate senior-level meetings that take place every month with Executive Directors. These meetings help cultivate strong communication between each organization and also help maintain accountability on agreed upon goals.\r\n"
-areas_impacted: ''
-partners: 'Partner EINs:, 954487664, 270584116, 954230345, 900599471, 421687057'
-Please specify below: ''
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/free-lots-angeles-transforming-vacant-lots-into-neighborhood-assets/img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg
 youtube_video_identifier: KQnPSzqeZRk

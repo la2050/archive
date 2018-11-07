@@ -43,36 +43,6 @@ maker_answers:
   Please explain how you will evaluate your work.: >-
     LACT will have a Board of Directors that meets monthly to evaluate the
     progress of the company. 
-areas_impacted: ''
-partners: ''
-Please specify below: Highland Park
-'Describe in greater detail how you will make LA the best place to connect:': >-
-  We are a group of professional Los Angeles artists, writers, actors and
-  directors who earn our living in live theater. We want to utilize existing
-  theatrical venues like Ramona Hall in Sycamore Grove Park, turning it into a
-  professional training ground for Angelenos. 
-   
-   LACT will have programs for all age ranges. We will welcome anyone wanting to experience the excitement of performing plays that have been written for them, about them and by them. 
-   
-   LACT will help break down the barriers between cultural communities. Highland Park is a perfect example of the diversity within the Los Angeles. It is that very diversity that will inspire our new theatrical works. Because our works will be created within the community, they will inspire the next generation of theater lovers.
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
-  We do not want to be in competition with school drama programs. Our strategy
-  is to present LACT as a place for families and community members who want to
-  supplement the school programs. We will also focus our student programs during
-  the Summer, to provide children with a safe artistic outlet when they are out
-  of school.
-Please explain how you will evaluate your work.: >-
-  LACT will have a Board of Directors that meets monthly to evaluate the
-  progress of the company.
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: >-
-  There are many 99 and 45 seat theatres in Los Angeles, but there is no
-  comprehensive Community Theatre program. 
-   
-   The foundation of the LACT concept is that professional theater artists will be working on each show. These guest artists will share their knowledge and talents. Their expertise will give the community a professional theater experience.
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': N/A
-How do you plan to scale the success of your proposal?: >-
-  Over the 4 years that we make use of the $100k, we will grow our audience and
-  donors to a place where LACT will be self sustainable.
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/lact-los-angeles-community-theatre/img.youtube.com/vi/fRmzSDzuoRA/hqdefault.jpg
 youtube_video_identifier: fRmzSDzuoRA

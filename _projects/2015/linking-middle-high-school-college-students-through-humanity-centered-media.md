@@ -61,15 +61,6 @@ maker_answers:
   Please explain how you will evaluate your work.: >-
     MDR evaluates our work through surveys, professor feedback forms, along with
     mentor and student interviews.
-areas_impacted: ''
-partners: ''
-Please specify below: ''
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/linking-middle-high-school-college-students-through-humanity-centered-media/img.youtube.com/vi/H107Gy4bTFs/hqdefault.jpg
 youtube_video_identifier: H107Gy4bTFs

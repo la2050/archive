@@ -51,15 +51,6 @@ maker_answers:
     - Total number of local social media friends and connections (Dream Metric)
     - Attendance at public/open streets gatherings (Dream Metric)
   Please explain how you will evaluate your work.: "A summative evaluation will be conducted to document the results of the program.  Specific goals of the program will be identified and the degree of accomplishment of those goals documented.  \r\n\r\nThe results will point to changes that should be made in the program in order to improve it in subsequent implementations.  \r\n\r\nThe results will specify program status and conditions for accountability purposes.  \r\n\r\nThe results will also be used as a needs assessment for the subsequent planning of changes in a program to the introduction of new programs and interventions.\r\n"
-areas_impacted: ''
-partners: ''
-Please specify below: ''
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/the-community-engagement-initiative/img.youtube.com/vi/aH5tvjvjOYE/maxresdefault.jpg
 youtube_video_identifier: aH5tvjvjOYE
