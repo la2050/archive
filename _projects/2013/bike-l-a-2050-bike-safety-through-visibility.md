@@ -20,29 +20,11 @@ project_summary: >-
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16963%252Fdisplay%252F2019409068.jpg=c570x385
 maker_answers:
-  description1: >-
-    We have been involved in a number of projects focusing on urban mobility and
-    the interface with cities and the built environment. Marc Alt was founding
-    Executive Director of the Green Parking Council, a non-profit organization
-    which is seeking to transform parking into a platform for innovation to
-    support bike sharing, car sharing, electric car charging infrastructure,
-    green building standards and re-inventing parking as a force for good in
-    cities. Marc has also worked with some of the leading companies in the
-    automotive, architecture and engineering fields on urban mobility projects,
-    including the launch of electric vehicles and charging infrastructure.
-  website: ''
-  Indicator: ' Public Safety'
-  brief: >-
-    Bike L.A. 2050 would like to make biking a safer, healthier option for
-    commuting in L.A. through the use of highly visible public monitoring of
-    bike traffic. To launch the project, bike counters with digital displays
-    will be installed in high traffic locations in Los Angeles to improve
-    awareness of the number of bicyclists using the streets and bike lanes.
-    These digital counters have been installed with much success in cities like
-    Seattle, Portland and in several European cities in Sweden, Denmark and
-    Germany. They are highly visible beacons that have proven successful in
-    broadcasting awareness to drivers, pedestrians and other bikers and help
-    improve the visibility and safety of bicyclists on city streets.
+  success: >-
+    Using measuring devices from companies such as Eco Counter, actual metrics
+    of increases in numbers of bicyclists on city roads will be captured and
+    reported. Baseline and target metrics will be established in partnership
+    with the city and county's master plans for bicycling.
   description: >-
     Increasing the visibility of bicyclists will improve the safety of biking in
     L.A. and will in turn lead to more people feeling comfortable choosing to
@@ -55,22 +37,17 @@ maker_answers:
     Coalition, LADOT, CicLAvia and many of the other advocacy groups that are
     passionate about raising awareness about bicycling safety and improving
     access to safe biking on city and county streets.
-  Organization Name: Bike L.A. 2050
-  success: >-
-    Using measuring devices from companies such as Eco Counter, actual metrics
-    of increases in numbers of bicyclists on city roads will be captured and
-    reported. Baseline and target metrics will be established in partnership
-    with the city and county's master plans for bicycling.
-  description3: >-
-    Bike L.A. 2050 would work in partnership with all of the existing bicycling
-    advocacy groups in L.A. who would like to collaborate on the project. Budget
-    funds allocated towards advocacy and awareness work would promote awareness
-    of these organizations.
+  description1: >-
+    We have been involved in a number of projects focusing on urban mobility and
+    the interface with cities and the built environment. Marc Alt was founding
+    Executive Director of the Green Parking Council, a non-profit organization
+    which is seeking to transform parking into a platform for innovation to
+    support bike sharing, car sharing, electric car charging infrastructure,
+    green building standards and re-inventing parking as a force for good in
+    cities. Marc has also worked with some of the leading companies in the
+    automotive, architecture and engineering fields on urban mobility projects,
+    including the launch of electric vehicles and charging infrastructure.
   vision: "By 2050, a large network of monitoring devices and sensors would be installed throughout the L.A. region, both stationary counting devices and mobile sensing devices via bike-mounted sensors, mobile apps on cellphones and other open source counting, measuring and monitoring devices. This open data would be aggregated and made available to the public and to L.A. County to integrate into existing and future smart city traffic monitoring programs, allowing bicycle traffic to be included in city and county-wide realtime traffic monitoring programs.\r\n\r\nThe biggest success indicator would be increase in public awareness of bike safety, a measurable reduction of bicycling accidents involving vehicles, improvements in human health and well-being due to increased outdoor activity, reduced vehicle miles, improved air quality and a sense of wellbeing and community that has been documented in cultures that use bicycles for commuting."
-  EIN: 575-06-1488
-  Tax Status: ' Non-profit organization'
-  about_you: 'Ojai, CA'
-  Does your project impact Los Angeles County?: 'yes'
 What is your idea and how will it impact your indicator?: >-
   Bike L.A. 2050 would like to make biking a safer, healthier option for
   commuting in L.A. through the use of highly visible public monitoring of bike
