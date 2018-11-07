@@ -24,54 +24,10 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
-  metrics_live_selfsufficiency: '0'
-  metrics_live_healthyfood: '1'
-  org_website: 'http://denglaboratory.weebly.com/'
-  org_twitter: ''
-  org_facebook: 'https://www.facebook.com/Healmyheart2014'
-  org_instagram: ''
-  org_mailingaddress: '10833 Le Conte Avenue A2-237, Los Angeles CA, 90024'
-  EIN: '956006143'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
+  achievable_goal: "Please note, we will be doing tasks simultaneously as we have a wide range of student body to help with the program.\r\n1) Development of an APP will take 2 months\r\n2) AI program will take 6-7 months to build or less depending on complexity of algorithm and initial testing of accuracy\r\n3) We will use 12 months to network with businesses to provide rewards and incentives to app users. As is we have a good network of businesses to back us due to a strong start-up scene within the UCLA and LA community\r\n4) 1 month will be needed to set up server and anonymize the transfer of clinical data\r\n5) 1 month will be needed to create a set of basic dietary regimens and fitness routines\r\n6) 3-4 months will be needed to create a sensor, install sensor and coordinate with local services for access to their network of data\r\n7) 3 months will be spent in social promotion of the app through third party partners as well as through kick-off events  "
   one_sentence_org: >-
     UCLA Medicine and Undergraduate School collaborate to bring  a comprehensive
     method of promoting healthy habits and better health to LA 
-  describe_idea: >-
-    Create a incentivized app with an easy User Interface including aspects such
-    as food, health, fitness; while promoting local businesses
-  describe_organization: >-
-    UCLA seeks to create the first self learning app in the country to provide
-    the best healthy lifestyle service to LA residents 
-  all_county: '1'
-  region_county: '0'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '1'
-  area_southLA: '1'
-  area_sangabrielvalley: '1'
-  area_sanfernandovalley: '1'
-  area_southbay: '1'
-  area_westside: '1'
-  'area_other:': '0'
-  area_other_blank: ''
-  more_detail: >-
-    UCLA Advance Heart Failure and UCLA Undergraduate Schools (Life Sciences,
-    Computer Science) are collaborating to create an app and sensors built
-    around the needs and metrics of the LA community. At the same time, we seek
-    to support local businesses by pairing up with them to provide incentives to
-    community members when visiting these businesses.It will use both AI
-    (artificial intelligence) algorithms and user feedback to provide the best
-    recommendations in multiple aspects of daily life to LA residents; Eat,
-    Health, Life, Fitness. We are looking to collaborate with LA2050 to create a
-    model that provides access to both clinical and preventative care through
-    various platforms while integrating a degree of social networks within them.
   implement: "With a population of close to 4 million individuals, it is a stretch to make LA the healthiest city with campaigns and small scale projects. Rather it is more beneficial to approach the issue of quality of life and health care from a holistic point view accessible by ease from everyone while looking at preventative as well as clinical care. As such, we will need to approach the goal of a healthy city by determining metrics that are related to each other and their prevalence in their respective communities. \r\n\r\nPhase 1 will consist of developing a easy to use sensor (to detect different environmental measurements) and placing said sensors in multiple communities of LA to determine the air quality, toxin levels while also measuring bike and transit scores. Sensors will provide us with live regional data as well as detailed data which to benchmark against the whole of LA as well as against other parts of LA. We will then develop an artificial intelligence program and code it within a simple mobile device application which will be created alongside the program that can be accessible across various platforms such as tablets, phones, computers, etc. The application will consist of 4 programs when opened: Eat, Health, Life, and Fitness- all of which will provide access to several different options. \r\n\r\nPhase 2 will be establishing a wider range  of local businesses to provide incentives to LA residents to one: use the app, and two: provide discounts to residents from supporting local businesses. Incentives will however be only be used for the Food and Fitness aspect of the application. Within the Health option, we will create an AI (same program with different variables) that determines preventative care for basic ailments through the use of over 1,000,000 data points from past clinical care while providing access to local and state healthcare services from which to receive care from for more severe cases. \r\n\r\n"
   impact_live: "Our project may seem like a simple application however it uses complex algorithms, not introduced to a free market before, to target an entire city rather than just concentrate on a specific group of individuals. Los Angeles will be the first city to have an app dedicated to its’ residents and their well being. It seeks to bring preventative healthcare to all (through multiple methods) while basic clinical care onsite to others and access to clinical care to those with more severe cases. The software will be ready to use upon release to the public as information will already have been collected for recommendations to be made upon individualized data points. Individuals will be aware of their dietary, fitness and health habits everyday and will be provided with recommendations and incentives along the way for improvements to their health. Through the integration of social networks, LA, by 2050, will be fully aware of their eating, fitness, and health. The AI system will have more than enough data points to reference to create more sophisticated regiments for individuals. \r\n\r\n\r\nBy 2050 we will have a platform with an AI that can provide healthcare to much more complex cases with the wider base of data points available by then. In terms of air pollution and water metrics, we will have determined areas in LA most prone to elevated levels of air toxins and water usage through the use of sensors which can later be placed at more locations for a very low cost. We will be able to provide the city of LA within the next 5 years a thorough recommendation for improving water conservation and addressing air quality indexes. 2050 will see a less polluted city of LA after the introduction of incentive based programs (free bikes -already in progress in conjunction with local start ups, parking etc) for communities and individuals when participating in alternative transport such as biking, walking, public transport, and carpool.  "
   who_benefit: >-
@@ -96,52 +52,20 @@ maker_answers:
     there will be several more incentivized based models for age groups between
     12-18, and 18-40. 
   partners_collaboration: "We are collaborating with a range of individuals and groups, all of whom who come from various backgrounds and expertise. All of the following collaborators are confirmed and all of whom we have worked with in the past on several successful projects. \r\nUCLA Department of Medicine- Faculty members as well as leading departmental doctors will help develop the AI program for preventative and basic clinical care while advances in the program will allow for more complicated cases to be assessed by the the program. \r\nUCLA Advanced Heart Failure Lab- With extensive research in social network as well as Multi-Organ Dysfunction, the lab will provide their expertise in demographic participation on a zip code level and the most effective method of targeting populations  \r\nUCLA School of Engineering will help acquire/ develop sensors for testing several dream metrics; walking, air, pollution, toxins etc. They will also provide us with a team of undergraduate students for continuous support throughout the development and post development phase. \r\nUCLA Computer Science Department will provide us with app developers and coders who will create the UI as well as the AI program. Several students have worked for and are currently working for very successful and publicly traded startups and have extensive knowledge in AI software building and scaling such a system on a massive scale. This team will be available on hand throughout the project and after the projects success. In the past we have created for UCLA Medical Center its' first Heart Failure Calculator which uses several algorithms to determine mortality rates in patients with heart failure. \r\nUCLA Sociology Department faculty members will help with analyzing complex and big data sets. \r\nUCLA Life Sciences Division undergraduate students in conjunction with the School of Medicine and local fitness trainers will help develop multiple healthy dietary regiments based on user profile and needs. \r\nUCLA Business School undergraduate students and graduate students will seek to further establish connections with local and corporate businesses to provide incentives for users and rewards for those that reach their target goal/metric such as weight loss, miles walked than driven, etc. "
-  org_name: 'UCLA Advance Heart Failure, Heal My HeART, UCLA Department of Medicine '
-  metrics_live_healthcare: '1'
-  metrics_live_airtoxins: '1'
-  city_state: Los Angeles
-  metrics_live_importedwater: '1'
-  metrics_live_obesity: '1'
-  metrics_live_homelessness: '1'
-  metrics_live_walkscore: '1'
-  metrics_live_pollutedwaterways: '1'
-  metrics_live_mentalillness: '1'
-  metrics_live_childhood: '0'
-  metrics_live_communities: '0'
-  metrics_live_healthcareservice: '1'
-  metrics_live_treecanopy: '0'
-  metrics_live_other: '1'
-  metrics_live_blank: Learn coding
-  resources_network: '0'
-  best_place_to_create: '1'
-  best_place_to_play: '1'
-  best_place_to_connect: '0'
-  best_place_to_learn: '1'
   evaluate: " Success will be measured on several factors. While we would want all of LA to use this program at once, we can see results from a small population from which data can be extracted. \r\nWe will measure success by seeing how well mobile clinics are received by communities that need them. We will do this by sending surveys on mobile and web application to those who received treatment to rate improvement on quality of life and basic health. We will benchmark results to an initial survey taken before the implementation of our program. This will continue over the course of 6-12 months depending on success to determine the impact of our program.  \r\n\r\nWe will measure the success rate in transit, fitness and pollution/water metrics by looking at how much water has been conserved after giving residents and communities recommendations on water conservation based on sensor readings and then the same on air quality (reduction of cars, increase of carpool, walking, biking etc) all while providing incentives to do so. Seeing an increase in walking over a course of 6- 8 months will show success to the program. Seeing an improvement in conservation and alternative transits when benchmarking with initial readings will strengthen our foundation of incentivized programs. \r\n\r\nAI program success will be determined through both user feedback and in house testing to maintain accuracy of system. The program will be fed with sample ailments symptoms and asked to come up with recommendations. These will then be compared physician prognosis. \r\n\r\nSeeing an improvement in just one or two communities will prove that our program is an effective one and one that is self sustaining. The system only becomes better with more users and feedback.  "
   two_lessons: "It has been shown through studies and through basic human nature that we work on a rewards mechanism. If asked to do something, people are more inclined to follow through with the request and follow up with it if they are given something back in return. You cannot simply expect something to be done for free. Thats why while providing a service and asking residents of the LA community to strive for a better city and life, we are aiming to provide them with incentives for reaching certain goals and metrics. Past campaigns that targeted similar metrics did not create success on a large scale or at all due to the fact that either: 1) They did not maintain a continuous support structure that can be integrated within an individual's daily life and/or 2) reward them for improving themselves. \r\n\r\nAccess to healthcare is an issue all around the world. Some parts just can’t receive healthcare because they are either: 1) Too far from services provided to them and or 2) They don’t have money or insurance to pay for treatments. Mobile clinics have been met with an incredible amount of success in developing nations as many people there don’t have the financial resources or capability of going to a health care center. Implementing such programs within the city of LA in communities that are in a similar situation will allow for a clear interfacing of easily accessible health care from hospital to your streets. However while a mobile clinic can’t always be available, a need for a self supporting software is demanded. Here we develop an AI in conjunction with UCLA doctors. This AI program is aimed at serving basic ailments and non-emergency treatments for when access to proper health care isn’t readily available- all while continuously learning and improving recommendations as it receives more clinical data points to assess from.  "
-  achievable_goal: "Please note, we will be doing tasks simultaneously as we have a wide range of student body to help with the program.\r\n1) Development of an APP will take 2 months\r\n2) AI program will take 6-7 months to build or less depending on complexity of algorithm and initial testing of accuracy\r\n3) We will use 12 months to network with businesses to provide rewards and incentives to app users. As is we have a good network of businesses to back us due to a strong start-up scene within the UCLA and LA community\r\n4) 1 month will be needed to set up server and anonymize the transfer of clinical data\r\n5) 1 month will be needed to create a set of basic dietary regimens and fitness routines\r\n6) 3-4 months will be needed to create a sensor, install sensor and coordinate with local services for access to their network of data\r\n7) 3 months will be spent in social promotion of the app through third party partners as well as through kick-off events  "
+  more_detail: >-
+    UCLA Advance Heart Failure and UCLA Undergraduate Schools (Life Sciences,
+    Computer Science) are collaborating to create an app and sensors built
+    around the needs and metrics of the LA community. At the same time, we seek
+    to support local businesses by pairing up with them to provide incentives to
+    community members when visiting these businesses.It will use both AI
+    (artificial intelligence) algorithms and user feedback to provide the best
+    recommendations in multiple aspects of daily life to LA residents; Eat,
+    Health, Life, Fitness. We are looking to collaborate with LA2050 to create a
+    model that provides access to both clinical and preventative care through
+    various platforms while integrating a degree of social networks within them.
   major_challenges: "Barriers we anticipate is: 1) Getting people to use the app 2) Falsification of data to redeem rewards 3) Mobile Clinic Mobilization to a mass community \r\n\r\n1) Getting people to use the app will be a challenge but we are aiming to resolve it by offering generous reward program in the initial stages of our app. Some people may have concerns about privacy of data. However we intend to anonymize all user data and simply coding them in binary according to districts than individually so to get a holistic view of everything. This eliminates the need to worry by users. \r\n\r\n2) Some people may claim to have done or reached milestones to redeem incentives. We will place safeguards to limit the changes you can make to your user profile so it stays unique to one individual and allows you to complete certain goals before changing it. Fitness data will be automatically stored and changes will not be possible.  When measuring transit metrics, examples of pictures, pedometer or bringing your bike with you to the eatery will provide as extra ways to prevent people from misusing the program.  \r\n\r\n3) If there is a greater need for mobile clinics than anticipated we will coordinate with UCLA's mobile clinic program and ask for further mobile clinic vans from the school distribution program to meet demands as well as reach out to VC firms to fund the start up\r\n\r\n"
-  competition: >-
-    There is no other apps like this currently. Nor is their an AI program that
-    self learns as more data points given to it. There have been talks of
-    software companies creating one in Silicon Valley but to privatize it but
-    are still under production. Some of us undergraduates who have worked for
-    companies such as those want to build our own and open source it so it is
-    publicly available to everyone for free. We know the algorithm as it is
-    unique to us and want LA to be the first city in the world to have a self
-    sustaining machine learning system to adapt to improving multiple aspects of
-    daily life especially healthcare. These organizations are neither
-    competitive or complementary as their programs are not public information
-    yet so are not aware on what scale they are building their system or what it
-    does exactly. 
-  resources_money: '1'
-  resources_staff: '0'
-  resources_publicity: '1'
-  resources_infrastructure: '0'
-  resources_education: '0'
-  resources_technical: '1'
-  resources_communityoutreach: '0'
-  resources_research: '1'
   Which area(s) of LA does your project benefit?:
     - Central LA
     - East LA

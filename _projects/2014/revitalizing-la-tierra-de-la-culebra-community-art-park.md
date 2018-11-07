@@ -21,87 +21,19 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
-  metrics_live_selfsufficiency: '1'
-  metrics_live_healthyfood: '1'
-  org_website: 'http://aclaparks.tumbler.com/'
-  org_twitter: '@LaCulebraPark'
-  org_facebook: 'https://www.facebook.com/profile.php?id=100006857749196&fref=ts&ref=br_tf'
-  org_instagram: 'http://instagram.com/latierradelaculebra'
-  org_mailingaddress: 'PO Box 421133, Los Angeles, CA 90042'
-  EIN: '954592961'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
-  one_sentence_org: ' We facilitate access to a public park by developing creative and cultural programming to engage the community.'
-  describe_idea: >-
-    Explore urban permaculture concepts through a process of culturally relevant
-    community outreach programming, hands-on learning, and more.
-  describe_organization: ' We @LaCulebraPark will begin offering collaborative urban permaculture workshops that will also allow us to beautify the park!'
-  all_county: '1'
-  region_county: '0'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '1'
-  area_southLA: '1'
-  area_sangabrielvalley: '1'
-  area_sanfernandovalley: '1'
-  area_southbay: '1'
-  area_westside: '1'
-  'area_other:': '0'
-  area_other_blank: ''
-  more_detail: "We are a grassroots community of artists, thinkers, teachers, builders, gardeners, scientists and creative minds who are embarking on a mission to bring new life to a 22 year old community art park, La Tierra de la Culebra, by collectively designing and creating an alternative space to explore urban permaculture concepts through a process of culturally relevant community outreach programming, hands-on learning, and the involvement of at-risk youth through a restorative justice approach.\r\n\r\nFor more information, please visit our facebook page.\r\n\r\n"
-  implement: "We will begin to implement this project by establishing a solid community networking platform through social media, initiating a construction project at the park of an urban permaculture exploration and learning center, simultaneously developing effective and creative expression workshops for the community taught by accountable community members, and then facilitating access to the use of this space for purposeful creative endeavors to promote a sense of community and accountability to the park.\r\n\r\nFor more information, please visit our facebook page.\r\n\r\n"
-  impact_live: "There are many interpretations of what living in a healthy place means. To us, it is an integration of all of the different concepts in a way that they overlap and flow seamlessly to support one aspect that also supports the next one. A holistic approach. Our project is aimed at facilitating access to a space in which we can integrate  all of our different ideas about the notion of living healthy lives and scaffold a conscious awareness amongst community members of how to apply them to their own lives by experiencing them here at the park. We will make Los Angeles the healthiest place to live by promoting a connection and appreciation for healthy foods, disseminating information about how to access these foods either through feasible outlets or growing them at home (even without significant access to space or resources), increasing canopy cover (reducing air toxins) at the park and beyond using fruit bearing trees,  hosting physical engagement activities to fight obesity (and improve the bike/transit score through mobility), combating violent acts through restorative justice programming (guiding responsibility for actions that have hurt or harmed someone else rather than focusing on punishment and isolation from the community), exemplifying conscientious use of water resources and ways of reducing polluted waterways (through water diversion methods, reducing run-off, and and reducing use of harmful chemicals), while simultaneously engaging people’s need for interaction and creativity to sustain a healthy approach to life in the face of adversity and the prevalent socio-economic disparities that are rampant in Los Angeles. \r\n\r\n\r\n"
-  who_benefit: "The project will benefit young children in the vicinity with access to an open park space, it will benefit high school and college students who need an outlet for civic engagement to build skillsets for their future, low-income families seeking access to healthy food and preventive health information, families looking for a place to spend time together and enjoy cultural events, everyone in Los Angeles wanting to explore urban permaculture in a hands-on setting, community members seeking involvement in  sustainable living issues, at-risk youth in the area needing  mentoring and financial support, as well as creative and professional community members needing a supportive space (as well as stipends and materials) in which to share their expertise with others.\r\n"
-  partners_collaboration: "All of the following collaborators have been confirmed.\r\n\r\nQuetzal, an upcoming nursery specializing in healing herbs, fruit trees, and native plants\r\n(providing materials and information)\r\n\r\nPermaculture specialist and consultant David Vestol\r\n\r\nTeaching professionals from the USC Rossier School of Education\r\n\r\nEast Los Angeles Community College student association\r\n\r\nand more\r\n\r\nPotential Collaborators:\r\n\r\nGraphic design Artists, muralists, photographers, architects, yoga teachers, nutrition specialists"
-  org_name: Art Community Land Activism (ACLA)’s La Tierra de la Culebra
-  metrics_live_healthcare: '1'
-  metrics_live_airtoxins: '1'
-  city_state: 'Los Angeles, Ca'
-  metrics_live_importedwater: '1'
-  metrics_live_obesity: '1'
-  metrics_live_homelessness: '1'
-  metrics_live_walkscore: '1'
-  metrics_live_pollutedwaterways: '1'
-  metrics_live_mentalillness: '1'
-  metrics_live_childhood: '1'
-  metrics_live_communities: '1'
-  metrics_live_healthcareservice: '1'
-  metrics_live_treecanopy: '1'
-  metrics_live_other: '0'
-  metrics_live_blank: ''
-  resources_network: '1'
-  best_place_to_create: '1'
-  best_place_to_play: '1'
-  best_place_to_connect: '1'
-  best_place_to_learn: '1'
-  evaluate: "The success of this project will be evaluated using the following metrics:\r\n\r\n1.) Project design and completion (or considerable advancement, 75% or more of design ideas implemented)\r\n\r\n2.) Effectiveness of workshops through community feedback (participation, engagement, questionaires, finished products)\r\n\r\n3.) Community collaboration and accountability as seen through respectful maintenance of the park"
-  two_lessons: "From the LA2050 Report:\r\n\r\n1.) A 2002 study foundthat heavily Latino neighborhoods have only 0.6 park acres per 1,000 people; African American communities have 1.7 park acres per 1,000 people, and largely Caucasian communities have 31.8 park ares per 1,000 residents. (p.28)\r\n\r\n2.) Los Angeles devotes 7.9 pecent (23,798 acres) of ts total land area to parks and open space, which is on par with the national median figure of 8.3 percent. However, access to the city's park infrastructure lags behind much of the nation. (p. 28)"
   achievable_goal: >-
     This will be achievable by designating a time of thorough planning for the
     organization of the construction process and workshop integration,
     accomodating the budget availability as is needed.
+  one_sentence_org: ' We facilitate access to a public park by developing creative and cultural programming to engage the community.'
+  implement: "We will begin to implement this project by establishing a solid community networking platform through social media, initiating a construction project at the park of an urban permaculture exploration and learning center, simultaneously developing effective and creative expression workshops for the community taught by accountable community members, and then facilitating access to the use of this space for purposeful creative endeavors to promote a sense of community and accountability to the park.\r\n\r\nFor more information, please visit our facebook page.\r\n\r\n"
+  impact_live: "There are many interpretations of what living in a healthy place means. To us, it is an integration of all of the different concepts in a way that they overlap and flow seamlessly to support one aspect that also supports the next one. A holistic approach. Our project is aimed at facilitating access to a space in which we can integrate  all of our different ideas about the notion of living healthy lives and scaffold a conscious awareness amongst community members of how to apply them to their own lives by experiencing them here at the park. We will make Los Angeles the healthiest place to live by promoting a connection and appreciation for healthy foods, disseminating information about how to access these foods either through feasible outlets or growing them at home (even without significant access to space or resources), increasing canopy cover (reducing air toxins) at the park and beyond using fruit bearing trees,  hosting physical engagement activities to fight obesity (and improve the bike/transit score through mobility), combating violent acts through restorative justice programming (guiding responsibility for actions that have hurt or harmed someone else rather than focusing on punishment and isolation from the community), exemplifying conscientious use of water resources and ways of reducing polluted waterways (through water diversion methods, reducing run-off, and and reducing use of harmful chemicals), while simultaneously engaging people’s need for interaction and creativity to sustain a healthy approach to life in the face of adversity and the prevalent socio-economic disparities that are rampant in Los Angeles. \r\n\r\n\r\n"
+  who_benefit: "The project will benefit young children in the vicinity with access to an open park space, it will benefit high school and college students who need an outlet for civic engagement to build skillsets for their future, low-income families seeking access to healthy food and preventive health information, families looking for a place to spend time together and enjoy cultural events, everyone in Los Angeles wanting to explore urban permaculture in a hands-on setting, community members seeking involvement in  sustainable living issues, at-risk youth in the area needing  mentoring and financial support, as well as creative and professional community members needing a supportive space (as well as stipends and materials) in which to share their expertise with others.\r\n"
+  partners_collaboration: "All of the following collaborators have been confirmed.\r\n\r\nQuetzal, an upcoming nursery specializing in healing herbs, fruit trees, and native plants\r\n(providing materials and information)\r\n\r\nPermaculture specialist and consultant David Vestol\r\n\r\nTeaching professionals from the USC Rossier School of Education\r\n\r\nEast Los Angeles Community College student association\r\n\r\nand more\r\n\r\nPotential Collaborators:\r\n\r\nGraphic design Artists, muralists, photographers, architects, yoga teachers, nutrition specialists"
+  evaluate: "The success of this project will be evaluated using the following metrics:\r\n\r\n1.) Project design and completion (or considerable advancement, 75% or more of design ideas implemented)\r\n\r\n2.) Effectiveness of workshops through community feedback (participation, engagement, questionaires, finished products)\r\n\r\n3.) Community collaboration and accountability as seen through respectful maintenance of the park"
+  two_lessons: "From the LA2050 Report:\r\n\r\n1.) A 2002 study foundthat heavily Latino neighborhoods have only 0.6 park acres per 1,000 people; African American communities have 1.7 park acres per 1,000 people, and largely Caucasian communities have 31.8 park ares per 1,000 residents. (p.28)\r\n\r\n2.) Los Angeles devotes 7.9 pecent (23,798 acres) of ts total land area to parks and open space, which is on par with the national median figure of 8.3 percent. However, access to the city's park infrastructure lags behind much of the nation. (p. 28)"
+  more_detail: "We are a grassroots community of artists, thinkers, teachers, builders, gardeners, scientists and creative minds who are embarking on a mission to bring new life to a 22 year old community art park, La Tierra de la Culebra, by collectively designing and creating an alternative space to explore urban permaculture concepts through a process of culturally relevant community outreach programming, hands-on learning, and the involvement of at-risk youth through a restorative justice approach.\r\n\r\nFor more information, please visit our facebook page.\r\n\r\n"
   major_challenges: "1.) Having a widespread access to the community for involvement and awareness of the opportunities.\r\n\r\n2. Graffiti, vandalism, and gang-violence.\r\n\r\nTo address the first, we will invest in creating a solid public comunication platform through social media and a strong interactive website.\r\n\r\nThe second will be addressed through a restorative justice approach and providing funding opportunities to at-risk youth."
-  competition: >-
-    Other organizations are seeking to either improve walk ways for public land
-    use and activity, creating gardens, and facilitating access to food. We are
-    unique in that we want to actively engage the community through exploration
-    to inspire them to take these sustainable approaches home to share with
-    friends and family. Providing access to exploration, knowledge, and
-    self-empowerment through activity versus just free giveaways.
-  resources_money: '1'
-  resources_staff: '0'
-  resources_publicity: '1'
-  resources_infrastructure: '1'
-  resources_education: '0'
-  resources_technical: '1'
-  resources_communityoutreach: '1'
-  resources_research: '0'
   Which area(s) of LA does your project benefit?:
     - Central LA
     - East LA

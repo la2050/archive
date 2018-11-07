@@ -20,43 +20,16 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
-  metrics_live_selfsufficiency: '1'
-  metrics_live_healthyfood: '1'
-  org_website: www.proyectojardin.org
-  org_twitter: www.twitter.com/pjagricorpsla
-  org_facebook: 'https://www.facebook.com/pages/Proyecto-Jardin/269671146378710'
-  org_instagram: ''
-  org_mailingaddress: "1200 N. State Street, Suite 1076\r\nLos Angeles, CA 90033"
-  EIN: '954302067'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
+  achievable_goal: "1) We have the land and site control at two locations that will be used for training. \r\n2) We have already trained a pool of over 30 Youth HEALers who will be our primary target population for AgriCorps internships.\r\n3) We have developed an effective curriculum and pilot tested over 75% of the lessons.\r\n4) We have secured 9 partners who are ready to hit the ground running."
   one_sentence_org: >-
     PJ increases access to fresh organic produce by strengthening community
     capacity to establish and maintain sustainable urban farms/gardens.
-  describe_idea: >-
-    LA Agri-Corps prepares urban youth for leadership in food justice by
-    developing core competencies in agro-ecology and community organizing.
-  describe_organization: >-
-    We @pjagricorpsla want to engage 100 urban youth in food justice leadership
-    as agro-ecology and community organizing interns.
-  all_county: '0'
-  region_county: '1'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '1'
-  area_southLA: '1'
-  area_sangabrielvalley: '0'
-  area_sanfernandovalley: '0'
-  area_southbay: '0'
-  area_westside: '0'
-  'area_other:': '1'
-  area_other_blank: 'Northeast Los Angeles: Lincoln Heights, Cypress Park, Highland Park.'
+  implement: "1) Agri-Corps Internships:  Agri-Corps interns complete Proyecto Jardin's urban farm apprentice program, an 8-month project-based learning experience presented in two phases corresponding to cool and warm crop-growing seasons. Phase 1 begins in Fall 2014, with an emphasis on cool season crops and their nutritional and healing benefits. We will use our signature GoodFood Changemaker curriculum, and adaptation of curriculum developed by UC Santa Cruz Center for Agroecology & Sustainable Food Systems, supplemented by consultation with local immigrant farmers who posses deep wisdom and extensive experience in traditional sustainable agriculture. PJ's GoodFood Changemaker curriculum consists of three learning modules: (1) Agro-ecology, (2) Food Systems Literacy, and (3) Community organizing, followed by a 40 hour practicum in community organizing. Together, these learning units synergistically  guide participants to attain core competencies in organic food production, understanding root causes of food system issues, and organizing effectively for policy/systems change. Upon completion of Phase 1, Agri-Corp Interns will continue to Phase 2 in Spring 2015, to apply learned farming skills while expanding knowledge about growing warm season crops and their nutritional/health benefits.   \r\n2) Community Organizing for Outreach & Base-building: In spring 2015, AgriCorps interns will begin recruiting new garden volunteers and presenting workshops, cooking demos, and garden tours at The Wellness Center. Each AgriCorps member will be responsible for building a base of 10 supporters/volunteers who understand community food justice issues in context of larger food system challenges. This cadre of food system leaders, will be recognized as Youth Health Education & Action Leaders (HEALers), and will strengthen organizational capacity to reach and retain youth participants in garden activities and enhance community efforts to transform Boyle Heights’ food environment through policy and systems change.\r\n3) Community Organizing for Education/Awareness: Our 10 AgriCorps Interns and 100 Youth HEALers will be based at the newly designed Community Wellness Center located at the Historic LA County Hospital, splitting their time between our on-site demonstration urban farm and Proyecto Jardin's original training garden at White Memorial Medical Center. They will be trained to use our G.L.A.M. community engagement tools: Greet, Listen, Assess, Motivate, to inspire & mobilize support. "
+  impact_live: "LA Agri-Corps helps make LA the healthiest place to live today because it:\r\n1) Strengthens community capacity to create neighborhood food environments that are culturally revenant, healthy, and linked to improving community economic development and the built environments.\r\n2) We plan to promote sustainable agriculture by encourage cultivation of edible crops that are drought tolerant and/or native to dry, desert climates, such as teary beans, watermelon, peppers, okra, eggplant.\r\n"
+  who_benefit: "1) Youth who need jobs, work development skills.\r\n2) Underserved low-income communities that lack access to fresh, organic, quality produce and experience the economic, health, and social impacts of grocery store red lining. \r\n"
+  partners_collaboration: "Specify whether partenrs are confirmed. \r\n1)\tCity of Los Angeles Summer Youth Employment\r\n2)\tBoyle Heights Technology Academy, \r\n3)\tIkar Synagogue, Green Action \r\n4)\tJewish Federation of Los Angeles\r\n5)\tLAC+ USC Foundation\r\n6)\tThe Wellness Center at LAC + USC\r\n7)\tWhite Memorial Medical Center\r\n8)\tAmigos de Los Rios\r\n9)\tUCLA School of Public Health\r\n"
+  evaluate: "1) 10 AgriCorps Interns Complete the GoodFood Changemaker Curriculum\r\n2) Proyecto Jardin's base of support is expanded to include 100 new Youth HEALers.\r\n3)  10 Presentations are delivered at  The Wellness Center by PJ AgriCorps members, selected from a  menu of organic gardening, healthy food preparation, composting, water-wise gardening, and soil building. "
+  two_lessons: "1) Young people in Boyle Heights and surrounding east side communities need job opportunities linked to real career prospects.\r\n2) Food access and health disparities require place-based solutions that engage the people most deeply affected by these issues to be meaningfully engaged as leaders. "
   more_detail: >-
     LA Agri-Corps is a leadership pipeline that builds community capacity to
     transform neighborhood food environments and regional food systems by
@@ -69,49 +42,7 @@ maker_answers:
     core competencies in agro-ecology while receiving extensive training in
     community organizing to build a base of 100 Youth HEALers (Health Education
     & Action Leaders).
-  implement: "1) Agri-Corps Internships:  Agri-Corps interns complete Proyecto Jardin's urban farm apprentice program, an 8-month project-based learning experience presented in two phases corresponding to cool and warm crop-growing seasons. Phase 1 begins in Fall 2014, with an emphasis on cool season crops and their nutritional and healing benefits. We will use our signature GoodFood Changemaker curriculum, and adaptation of curriculum developed by UC Santa Cruz Center for Agroecology & Sustainable Food Systems, supplemented by consultation with local immigrant farmers who posses deep wisdom and extensive experience in traditional sustainable agriculture. PJ's GoodFood Changemaker curriculum consists of three learning modules: (1) Agro-ecology, (2) Food Systems Literacy, and (3) Community organizing, followed by a 40 hour practicum in community organizing. Together, these learning units synergistically  guide participants to attain core competencies in organic food production, understanding root causes of food system issues, and organizing effectively for policy/systems change. Upon completion of Phase 1, Agri-Corp Interns will continue to Phase 2 in Spring 2015, to apply learned farming skills while expanding knowledge about growing warm season crops and their nutritional/health benefits.   \r\n2) Community Organizing for Outreach & Base-building: In spring 2015, AgriCorps interns will begin recruiting new garden volunteers and presenting workshops, cooking demos, and garden tours at The Wellness Center. Each AgriCorps member will be responsible for building a base of 10 supporters/volunteers who understand community food justice issues in context of larger food system challenges. This cadre of food system leaders, will be recognized as Youth Health Education & Action Leaders (HEALers), and will strengthen organizational capacity to reach and retain youth participants in garden activities and enhance community efforts to transform Boyle Heights’ food environment through policy and systems change.\r\n3) Community Organizing for Education/Awareness: Our 10 AgriCorps Interns and 100 Youth HEALers will be based at the newly designed Community Wellness Center located at the Historic LA County Hospital, splitting their time between our on-site demonstration urban farm and Proyecto Jardin's original training garden at White Memorial Medical Center. They will be trained to use our G.L.A.M. community engagement tools: Greet, Listen, Assess, Motivate, to inspire & mobilize support. "
-  impact_live: "LA Agri-Corps helps make LA the healthiest place to live today because it:\r\n1) Strengthens community capacity to create neighborhood food environments that are culturally revenant, healthy, and linked to improving community economic development and the built environments.\r\n2) We plan to promote sustainable agriculture by encourage cultivation of edible crops that are drought tolerant and/or native to dry, desert climates, such as teary beans, watermelon, peppers, okra, eggplant.\r\n"
-  who_benefit: "1) Youth who need jobs, work development skills.\r\n2) Underserved low-income communities that lack access to fresh, organic, quality produce and experience the economic, health, and social impacts of grocery store red lining. \r\n"
-  partners_collaboration: "Specify whether partenrs are confirmed. \r\n1)\tCity of Los Angeles Summer Youth Employment\r\n2)\tBoyle Heights Technology Academy, \r\n3)\tIkar Synagogue, Green Action \r\n4)\tJewish Federation of Los Angeles\r\n5)\tLAC+ USC Foundation\r\n6)\tThe Wellness Center at LAC + USC\r\n7)\tWhite Memorial Medical Center\r\n8)\tAmigos de Los Rios\r\n9)\tUCLA School of Public Health\r\n"
-  org_name: Proyecto Jardin (A Project of Community Partners)
-  metrics_live_healthcare: '0'
-  metrics_live_airtoxins: '1'
-  city_state: 'Los Angeles, CA 90033'
-  metrics_live_importedwater: '0'
-  metrics_live_obesity: '1'
-  metrics_live_homelessness: '0'
-  metrics_live_walkscore: '0'
-  metrics_live_pollutedwaterways: '0'
-  metrics_live_mentalillness: '1'
-  metrics_live_childhood: '1'
-  metrics_live_communities: '1'
-  metrics_live_healthcareservice: '0'
-  metrics_live_treecanopy: '1'
-  metrics_live_other: '0'
-  metrics_live_blank: ''
-  resources_network: '1'
-  best_place_to_create: '1'
-  best_place_to_play: '1'
-  best_place_to_connect: '1'
-  best_place_to_learn: '1'
-  evaluate: "1) 10 AgriCorps Interns Complete the GoodFood Changemaker Curriculum\r\n2) Proyecto Jardin's base of support is expanded to include 100 new Youth HEALers.\r\n3)  10 Presentations are delivered at  The Wellness Center by PJ AgriCorps members, selected from a  menu of organic gardening, healthy food preparation, composting, water-wise gardening, and soil building. "
-  two_lessons: "1) Young people in Boyle Heights and surrounding east side communities need job opportunities linked to real career prospects.\r\n2) Food access and health disparities require place-based solutions that engage the people most deeply affected by these issues to be meaningfully engaged as leaders. "
-  achievable_goal: "1) We have the land and site control at two locations that will be used for training. \r\n2) We have already trained a pool of over 30 Youth HEALers who will be our primary target population for AgriCorps internships.\r\n3) We have developed an effective curriculum and pilot tested over 75% of the lessons.\r\n4) We have secured 9 partners who are ready to hit the ground running."
   major_challenges: "1) Weather and climate change: We plan to focus on growing drought tolerant foods. We installed a water harvesting system at one of our sites.\r\n2) Additional resources to continue beyond the first year: We have identified corporate sponsors who are on board to donate and assist with identifying other resources. "
-  competition: >-
-    LA Conservation Corps focuses on greening and initial construction. THey
-    have been a good supportive partner to Proyecto Jardin, and we will continue
-    to collaborate with LACC. However, PJ is more intentionally focused in the
-    agriculture aspect of youth development and this will actually complement
-    and strengthen the efforts of LACC. 
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '1'
-  resources_infrastructure: '0'
-  resources_education: '1'
-  resources_technical: '1'
-  resources_communityoutreach: '1'
-  resources_research: '1'
   Which area(s) of LA does your project benefit?:
     - Central LA
     - East LA

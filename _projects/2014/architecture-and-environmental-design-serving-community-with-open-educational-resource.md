@@ -23,87 +23,20 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
-  metrics_learn_communitycollege: '1'
-  collaboration: >-
-    To be clear with time, budget and scope with all our partners will be a key
-    factor for success. World Peace One Education and Communities:  This
-    organization provides UCLA Extension courses to our students to help them go
-    on to higher education with education that matters.  We are developing an
-    articulation agreement with them to take our students and our ENCOUNTER
-    project to the next level of implantation with 'World Peace One Peace
-    Projects. Los Angeles Worlds Fair: Theme of the Los Angeles World's Fair is
-    "The Connected City" collaborating on supporting their goal of pavilion
-    design, fair planning and urban design layout, with the possibility of
-    engaging the students and our partners. The USC Institute for Genetic
-    Medicine Art Gallery: We will continue to work with the Gallery to organize
-    events and gallery exhibitions promoting integrated thinking and holistic
-    approaches.  City Council District 9 is eager to use our student work to
-    prototype a City of Tomorrow. The Los Angeles Open Acres organization has a
-    map with more than 500 open sites that we could transform or virtualize as
-    possible urban interventions. Jobcreate:  We are working with this local
-    organization that has the management skills and training guidelines to take
-    our models and graduated interns to implement their goals. Additionally,
-    ENCOUNTER Network such as Efrain Miramontes, Ken Wyrick, and others bring
-    Journalism, Design, Computer Networking, and other services to the project.
-    Power Of Green:  This is a program of Five Points in the U.S. consults for
-    countries on Sustainable Technology, Green Architecture, and Renewable
-    Energy. Their services and knowledge will augment our interns' opportunity
-    for growth and collaboration. PV Jobs, the e7 Architecture Studio, and their
-    networks provide an immense amount of knowledge that will support
-    virtualization and simulation for this project. The GBI Global Business
-    Incubator a non-profit research organization “think and do tank” that
-    catalyzes the business development process of launching an idea, a business
-    and a community through growing collaborative business incubator cluster
-    models that grow companies that create jobs. Gregory Wright is working
-    students and faculty  to visualize, design, and promote "Sun/ShadeWalls" The
-    Black Caucus California Community College will continue helping us outreach
-    to people of color to be active participants in the built environment as
-    designers, architects, engineers, scientists and leaders.
-  org_website: www.LEARNandSERVEOER.com
-  org_twitter: www.twitter.comLearnandServeOER
-  org_facebook: www.facebook.comLearnandServeOER
-  org_instagram: instagram.comLearnandServeOER
-  org_mailingaddress: learnandserveOER@gmail.com
-  org_ein: '953813527'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
-  describe_organization: >-
-    Provides state approved Architecture and Environmental Design, job
-    placement, visualization and design/mapping services.
+  achievable_goal: >-
+    We have the know-how of the technology and an existing network of partners
+    and collaborators who are ready to take action.  We have identified the
+    needs of the community and we will have a state-of-the-art laboratory that
+    can be used after 2 pm on to 9 pm daily, and all day on Fridays and
+    Saturdays. Through a LA2050 LEARN support grant, the Synergy Serving
+    Communities will be L.A.'s 'Best Place for Learning' in a very short period
+    of time.  LA 2050 LEARN support towards Synergy Serving Communities is a
+    culmination that will be explosive; we have the passion, additional
+    resources, the community, and a diverse group of students as drivers of
+    change.
   one_sentence_project: >-
     Paid internship program: students support students on ENCOUNTER Projects and
     products, maintains Student Store, virtualize LA neighborhoods.
-  describe_idea: >-
-    Need a drawing, design, model, virtualization or help with your idea or
-    product for the environment? Join our ENCOUNTER NETWORK 
-  all_county: '1'
-  region_county: '1'
-  population_county: '1'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '1'
-  area_southLA: '1'
-  area_sangabrielvalley: '1'
-  area_sanfernandovalley: '1'
-  area_southbay: '1'
-  area_westside: '1'
-  'area_other:': '1'
-  area_other_blank: Global
-  more_detail: >-
-    Using synergetic thinking: 1)To serve communities, neighborhood councils,
-    nonprofit organizations, government agencies, businesses, universities,
-    individuals and others with design, virtualization and mapping services.
-    2)To help design furniture, green living products, urban farming, urban
-    interventions, energy/water solutions and green houses for local needs. 3)To
-    provide experience and examples to catalyze Los Angeles as the best place to
-    learn and live. 4)To establish a paid internship program for untapped talent
-    to maintain a store 5) To virtualize some neighborhoods and the River in Los
-    Angeles. 6) To serve partners through our ENCOUNTER Network
   implement: "1.- Implement and establish a clear platform and branding for social media and web presence of who we are, what we’ve done, where we’re going, as well as identifying the services we provide to the community for learning, making, creating and partnering. \r\n2.- Continue with the ENCOUNTER Network bringing together every  month a diverse group of organizations and individuals to work together to make a better LA. Continue serving them through this grant with their projects and ideas. Identify clear process and deliverables to avoid conflicts and false expectations.   \r\n3.- Hire advanced students and leaders to virtualize LA’s South LA Central Corridor to help District 9 visualize and facilitate opportunities for Open Acres.\r\n4.- Hire advanced students and leaders to support first semester students and maintain and develop student store to sustain our program.\r\n5.- Purchase a 3-D printer to create prototypes of products that can be manufactured locally.\r\n6.- Hire advanced students to create Urban Farming Art Constructs Virtually to be used as templates for multiple locations in LA.\r\n7.- Hire advanced students to populate our design catalog for student store with products, furniture, design solutions, mind map apps and more\r\n8.- Develop a clear strategy of integration with our College, District and local initiatives, our partners and the city\r\n9.-Create Synergetic Learning Workshops on our past model for \"United Negro College Fund\" for which we were recognized as role models for the nation.\r\nhttp://www.climateneutralcampus.com/landing.php?whitepaper=cyberone-a-sustainable-and-catalyst-solution-for-higher-education-today\r\n10.- Hire advanced students to populate iTunes University Open Education Resource with all our lesson plans.\r\n11.-Create a mind map with all our partners and individuals available online\r\n12.- Develop a project plan with specific deliverables and outcomes\r\n13.- Organize workshops and gallery exhibitions to display the work and milestones.\r\n14.- Develop transparent deliverables for outcomes on our site to show how Synergetic Learning is the best place to learn today and for 2050.\r\n15.- Hire students to do a small virtualization exercise to show multiple stakeholders how 3-D environments can facilitate learning, communication and support socio-economic growth for the Los Angeles River\r\n16.- Develop an internal college procedure for this program to become institutionalized and sustained.\r\n"
   impact_learn: >-
     The project will provide participants the ability to create and transform
@@ -160,40 +93,53 @@ maker_answers:
     ENCOUNTER projects connect multiple existing organizations that will bring
     the project to the next level financially, technologically and
     academically. 
-  about_you: CA
-  org_name: >-
-    Los Angeles Trade Technical College Architecture and Environmental Design
-    Program
-  metrics_learn_earlyeducation: '0'
-  metrics_learn_unemployment: '1'
-  metrics_learn_graduationrates: '1'
-  metrics_learn_proficiency: '0'
-  metrics_learn_api: '1'
-  metrics_learn_college: '1'
-  metrics_learn_pipeline: '1'
-  metrics_learn_suspension: '0'
-  metrics_learn_truancy: '0'
-  metrics_learn_safety: '1'
-  metrics_learn_other: '1'
-  metrics_learn_blank: Transformation of the Built Environment
-  resources_network: '0'
-  best_place_to_connect: '1'
-  best_place_to_create: '1'
-  best_place_to_play: '1'
-  healthiest_place_to_live: '1'
+  collaboration: >-
+    To be clear with time, budget and scope with all our partners will be a key
+    factor for success. World Peace One Education and Communities:  This
+    organization provides UCLA Extension courses to our students to help them go
+    on to higher education with education that matters.  We are developing an
+    articulation agreement with them to take our students and our ENCOUNTER
+    project to the next level of implantation with 'World Peace One Peace
+    Projects. Los Angeles Worlds Fair: Theme of the Los Angeles World's Fair is
+    "The Connected City" collaborating on supporting their goal of pavilion
+    design, fair planning and urban design layout, with the possibility of
+    engaging the students and our partners. The USC Institute for Genetic
+    Medicine Art Gallery: We will continue to work with the Gallery to organize
+    events and gallery exhibitions promoting integrated thinking and holistic
+    approaches.  City Council District 9 is eager to use our student work to
+    prototype a City of Tomorrow. The Los Angeles Open Acres organization has a
+    map with more than 500 open sites that we could transform or virtualize as
+    possible urban interventions. Jobcreate:  We are working with this local
+    organization that has the management skills and training guidelines to take
+    our models and graduated interns to implement their goals. Additionally,
+    ENCOUNTER Network such as Efrain Miramontes, Ken Wyrick, and others bring
+    Journalism, Design, Computer Networking, and other services to the project.
+    Power Of Green:  This is a program of Five Points in the U.S. consults for
+    countries on Sustainable Technology, Green Architecture, and Renewable
+    Energy. Their services and knowledge will augment our interns' opportunity
+    for growth and collaboration. PV Jobs, the e7 Architecture Studio, and their
+    networks provide an immense amount of knowledge that will support
+    virtualization and simulation for this project. The GBI Global Business
+    Incubator a non-profit research organization “think and do tank” that
+    catalyzes the business development process of launching an idea, a business
+    and a community through growing collaborative business incubator cluster
+    models that grow companies that create jobs. Gregory Wright is working
+    students and faculty  to visualize, design, and promote "Sun/ShadeWalls" The
+    Black Caucus California Community College will continue helping us outreach
+    to people of color to be active participants in the built environment as
+    designers, architects, engineers, scientists and leaders.
   evaluate: "The following projects will be completed:\r\n1.- The creation of an online Central Corridor Virtualization and Geospatial Environment that can be used for strategic planning, visualization and what if scenarios.\r\n2.- The creation of an online Los Angeles Neighborhoods and L.A. River Virtualization and Geospatial Environment that can be used for strategy planning, visualization, and 'what if' scenarios.\r\n3.- An active local and global store stocked with at least 30 products\r\n4.- Increased student retention rates for students in the program; an increased number of student transfers; and an increased number of student job placements.\r\n5.- Facilitated projects for the ENCOUNTER Group.\r\n6.- Connections made between our ENCOUNTER Projects and our partners.\r\n\r\nThe following metrics will be recorded and analyzed:\r\n1.- Number of students that transfer to UCLA Extension\r\n2.- Number of students that move to World Peace One Peace Projects\r\n3.- Number of Business that can start by having a virtual model to explain their project to investors\r\n4.- Number of Innovative products and sustainable solutions\r\n5.- Number of students that get an internship with Power of Green\r\n6.- Number of networks that grow from our synergy"
   two_lessons: "The following projects will be completed:\r\n1.- The creation of an online Central Corridor Virtualization and Geospatial Environment that can be used for strategic planning, visualization and what if scenarios.\r\n2.- The creation of an online Los Angeles Neighborhoods and L.A. River Virtualization and Geospatial Environment that can be used for strategy planning, visualization, and 'what if' scenarios.\r\n3.- An active local and global store stocked with at least 30 products\r\n4.- Increased student retention rates for students in the program; an increased number of student transfers; and an increased number of student job placements.\r\n5.- Facilitated projects for the ENCOUNTER Group.\r\n6.- Connections made between our ENCOUNTER Projects and our partners.\r\n"
-  achievable_goal: >-
-    We have the know-how of the technology and an existing network of partners
-    and collaborators who are ready to take action.  We have identified the
-    needs of the community and we will have a state-of-the-art laboratory that
-    can be used after 2 pm on to 9 pm daily, and all day on Fridays and
-    Saturdays. Through a LA2050 LEARN support grant, the Synergy Serving
-    Communities will be L.A.'s 'Best Place for Learning' in a very short period
-    of time.  LA 2050 LEARN support towards Synergy Serving Communities is a
-    culmination that will be explosive; we have the passion, additional
-    resources, the community, and a diverse group of students as drivers of
-    change.
+  more_detail: >-
+    Using synergetic thinking: 1)To serve communities, neighborhood councils,
+    nonprofit organizations, government agencies, businesses, universities,
+    individuals and others with design, virtualization and mapping services.
+    2)To help design furniture, green living products, urban farming, urban
+    interventions, energy/water solutions and green houses for local needs. 3)To
+    provide experience and examples to catalyze Los Angeles as the best place to
+    learn and live. 4)To establish a paid internship program for untapped talent
+    to maintain a store 5) To virtualize some neighborhoods and the River in Los
+    Angeles. 6) To serve partners through our ENCOUNTER Network
   major_challenges: >-
     This program will become self-sustaining after the grant, since it will
     generate its own money through the student store.  The biggest challenges
@@ -203,21 +149,6 @@ maker_answers:
     transparency in all their procedures, and our new president Larry Franks is
     very supportive of innovative thinking, the local workforce, and improving
     students' lives.
-  competition: >-
-    I am part of a new National Collision for Architecture Programs in the
-    Nation.  Although many applauded my social concern for Architecture and the
-    Built Environment, none of them are moving in that direction, instead just
-    focusing on transferring to universities.  Los Angeles Trade-Technical
-    College has always been about real projects with real experiences.  Our
-    mission is different.
-  resources_money: '1'
-  resources_staff: '0'
-  resources_publicity: '1'
-  resources_infrastructure: '0'
-  resources_education: '1'
-  resources_technical: '1'
-  resources_communityoutreach: '0'
-  resources_research: '1'
   Which area(s) of LA does your project benefit?:
     - Central LA
     - East LA

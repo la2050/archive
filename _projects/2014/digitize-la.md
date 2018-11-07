@@ -20,44 +20,10 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
-  metrics_create_researchgrant: '0'
-  metrics_create_employment: '1'
-  org_website: www.nalip.org
-  org_twitter: www.twitter.com/NALIP_org
-  org_facebook: www.facebook.com/nalip
-  org_instagram: www.instagram.com/nalip_org
-  org_mailingaddress: "1642 Westwood Blvd., Ste 302\r\nLos Angeles, CA 90024"
-  org_ein: '134198479'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '1'
-  describe_collaboration: '0'
-  describe_organization: >-
-    We support and train Latino content creators  to advance their projects,
-    develop their professional skills and take on leadership roles. 
+  achievable_goal: "NALIP has had a solid track record of developing, executing and evaluating empowerment programs. For the last fifteen years, NALIP has had success holding fourteen National Conferences, plus six other National Initiatives: a Latino Writer's Lab™, a Latino Producers Academy™ and a published/on-line Latino Media Resource Guide™, our\"Doing your Doc: Diverse Visions, Regional Voices\" documentary development workshops plus the Latino Media Market™ held during our National Conference and the Latino Artist Mentoring Program. We are now fundraising to support and expand these programs in 2014, plus solidify the infrastructure of our organization to better serve our community. NALIP has the plan, infrastructure, partnerships to successfully carry out Digitize LA. We are currently in discussion with our proposed partners on how the project could be expanded beyond the initial year and become a permanent development track for NALIP.\r\n"
   one_sentence_project: >-
     Digitize LA will bring digital creation tools, development training and job
     skills to Latino content creators in under served LA communities
-  describe_idea: >-
-    #NALIP bring digital creation tools to LA's under served communities. 
-    Proposes to make #LA2050 a better place to create 
-  all_county: '1'
-  region_county: '0'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '1'
-  area_southLA: '1'
-  area_sangabrielvalley: '1'
-  area_sanfernandovalley: '1'
-  area_southbay: '1'
-  area_westside: '1'
-  'area_other:': '0'
-  area_other_blank: ''
-  more_detail: "To provide digital training and content creation tools via community-based workshops and online learning to emerging voices and storytellers in diverse and underrepresented LA communities.  NALIP and its proposed partners would provide access to established community-based content creators working in film, TV, documentaries and new media.\r\n"
   implement: >-
     ALIP will target women and minorities with an emphasis on emerging Latino
     content creators in LA communities traditionally under-served by
@@ -77,42 +43,12 @@ maker_answers:
     Latinos.
   who_benefit: "Los Angeles-based women and minorities with an emphasis on Latino content creators. Digitize LA will support LA-based content creators to develop their professional skills, create original and viable content and most important increase their employability and access to funding, content buyers, studios and talent recruiters.\r\n"
   partners_collaboration: "MiTu, YouTube, NationBuilder and Social Mosaic are not yet confirmed as partners for Digitize LA but have recently collaborated in our Los Angeles-based Media Summit. \r\nhttp://www.nalipmediasummit.com/\r\n\r\nMiTu, Inc., a Los Angeles-based lifestyle YouTube network, presents lifestyle programming for connected Latino audience in English and Spanish. Its network features and distributes various short lifestyle videos and real-life Latino video-makers worldwide through YouTube.\r\n\r\nYouTube is a video-sharing website headquartered in California.\r\n\r\nNationBuilder, a Los Angeles-based company, is a community organizing system.  Software platform that offers easy-to-update website, a people database, and communication tool.\r\n\r\nSocial Mosaic, a Los Angeles-based company, digital agency with integrated digital marketing, social media, Web design development.  \r\n\r\nNationBuilder and Social Mosaic will help NALIP develop and perfect the technology and audience engagement tools to better serve Digitize LA participants.\r\n\r\nMiTu will provide space and access to their development executives to serve as mentors and possible buyer of participants' content."
-  org_name: 'The National Association of Latino Independent Producers, NALIP'
-  metrics_create_arts: '1'
-  metrics_create_manufacturing: '0'
-  city_state: 'Los Angeles, CA'
-  metrics_create_patents: '0'
-  metrics_create_jbs: '0'
-  metrics_create_minoritywomenowned: '1'
-  metrics_create_gini: '0'
-  metrics_create_startups: '0'
-  metrics_create_venturecapital: '1'
-  metrics_create_influencers: '0'
-  metrics_create_recruitingrates: '0'
-  metrics_create_graduates: '0'
-  metrics_create_unemployment: '0'
-  metrics_create_other: '0'
-  metrics_create_blank: ''
-  resources_network: '0'
-  best_place_to_learn: '1'
-  best_place_to_connect: '1'
-  healthiest_place_to_live: '0'
-  best_place_to_play: '0'
   evaluate: "NALIP will be using 5 key metrics to evaluate success of Digitize LA: \r\n\r\n1. Quantitative: Number of Attendees at four of the community-based and ten of the online digital workshops.\r\n\r\n2. Quantitative: Number of digital projects developed, mentored, produced and distributed via Digitize LA.\r\n\r\n3. Quantitative: Number of introductions and or connections through Digitize LA, workshop participation and subsequent participant follow-up.\r\n\r\n4. Qualitative: Surveying participants and mentors with detailed feedback opportunity via an online dedicated form to evaluate the quality of the workshops and on-going mentoring.\r\n\r\n5. Impact and Reach report - included in our Digitize LA post evaluation will be an impact and participant reach report to assess the overall efficiency of the program. \r\n"
   two_lessons: >-
     1. The need for underserved communities to develop skills and original
     content which happens to be in demand at the moment.
-  achievable_goal: "NALIP has had a solid track record of developing, executing and evaluating empowerment programs. For the last fifteen years, NALIP has had success holding fourteen National Conferences, plus six other National Initiatives: a Latino Writer's Lab™, a Latino Producers Academy™ and a published/on-line Latino Media Resource Guide™, our\"Doing your Doc: Diverse Visions, Regional Voices\" documentary development workshops plus the Latino Media Market™ held during our National Conference and the Latino Artist Mentoring Program. We are now fundraising to support and expand these programs in 2014, plus solidify the infrastructure of our organization to better serve our community. NALIP has the plan, infrastructure, partnerships to successfully carry out Digitize LA. We are currently in discussion with our proposed partners on how the project could be expanded beyond the initial year and become a permanent development track for NALIP.\r\n"
+  more_detail: "To provide digital training and content creation tools via community-based workshops and online learning to emerging voices and storytellers in diverse and underrepresented LA communities.  NALIP and its proposed partners would provide access to established community-based content creators working in film, TV, documentaries and new media.\r\n"
   major_challenges: "1. Funds to carry out project. NALIP is currently writing other grants and fundraising from our partners.\r\n\r\n2. Infrastructure. "
-  competition: "Sundance and Film Independent carry out similar work to support independent filmmakers in the USA. We collaborate with both organizations in many of our programs including the NALIP Media Summit, Latino Producers Academy, Latino Writers Lab and Doing Your Doc. For the last ten to fifteen years, we have shared our mentors and resources and access to our development programs. Since its inception, NALIP has focused on Latino content creators. \r\n"
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '0'
-  resources_infrastructure: '1'
-  resources_education: '1'
-  resources_technical: '1'
-  resources_communityoutreach: '1'
-  resources_research: '0'
   Which area(s) of LA does your project benefit?:
     - Central LA
     - East LA

@@ -16,55 +16,22 @@ project_video: 'https://www.youtube.com/embed/4svMiNJ-HL0'
 project_areas:
   - LA COUNTY
 maker_answers:
-  metrics_live_selfsufficiency: '0'
-  metrics_live_healthyfood: '1'
-  org_website: www.winla.org
-  org_twitter: ''
-  org_facebook: 'https://www.facebook.com/WestsideInfantFamilyNetwork'
-  org_instagram: ''
-  org_mailingaddress: "5721 W. Slauson, Suite 200\r\nCulver City, CA 90230"
-  EIN: '274018980'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
+  achievable_goal: >-
+    WIN is an ongoing project, and since launching in 2006, WIN has annually met
+    and/or exceeded its goals. WIN’s highly trained, bilingual therapy staff, as
+    well as partner agency case managers trained by WIN, work in-home with
+    families identified by our partner agencies using a combination of: 1)
+    child-parent dyadic therapy, 2) adult individual therapy for parents, and/or
+    3) intensive, in-home, cross-agency case management for basic needs, to meet
+    clinical and life goals established by families to ensure that their
+    children are able to thrive in safe, nurturing homes.  WIN will use its
+    deep, collaborative infrastructure to ensure that all partners are working
+    together with families to deliver seamless health, mental health, social
+    services and early education such that families can make real, substantive
+    gains.
   one_sentence_org: >-
     We bring high-quality psychotherapy and integrated basic services into
     families' homes to help parents and children heal from trauma.
-  describe_idea: >-
-    When kids are free of trauma and abuse, their brains form architecture key
-    to lifelong physical, mental & social health--we know how to help
-  describe_organization: >-
-    What if every kid had a happy childhood?  WIN works with whole families to
-    heal kids and families who will become our future LA.
-  all_county: '0'
-  region_county: '1'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '0'
-  area_eastLA: '0'
-  area_southLA: '1'
-  area_sangabrielvalley: '0'
-  area_sanfernandovalley: '0'
-  area_southbay: '0'
-  area_westside: '1'
-  'area_other:': '0'
-  area_other_blank: ''
-  more_detail: >-
-    At WIN, we make psychotherapy house calls to kids and parents who are
-    dealing with multiple traumas and poverty during the most critical point of
-    brain development in the human lifespan.  We coordinate our mental health
-    therapy with the food, health care, early intervention and other services of
-    our 3 partner agencies so families recover in a “nest” of integrated care. 
-    And it works: our kids overcome developmental delays, families have
-    measurably stronger relationships, and our parents and less stressed and
-    depressed.  Plus, WIN provides over 700 hours of professional consultation
-    to agencies throughout LA so they can better help families thrive--and we
-    have an ongoing project with Harvard to create better outcomes for kids
-    nationwide.   
   implement: >-
     Through it's therapy and consultation work WIN affects the lives of 1000s of
     individuals yearly, and the core of our program is our intensive clinical
@@ -111,62 +78,21 @@ maker_answers:
     provides 700 hours of direct service to 125-150 staff of 5 agencies in LA to
     affect the lives of 1000s of additional children and families annually. 
   partners_collaboration: "Since 2006, WIN’s network partners have included Venice Family Clinic, Westside Children’s Center and St. Joseph Center.  Respectively, they bring a host of high-quality medical care; early care and early intervention services; and food pantry, housing support and homelessness support to our shared clients.  All of the families who come to WIN are referred from our three partners, and that allows us to ‘nest’ our intensive mental health care within the context of their home-agencies services.   WIN’s partnership relationships are some of the most deeply rooted we’ve encountered, and are critical to our success with families. \r\n\r\nAll WIN families receiving therapy get a home visiting case manager from their home agency, as well as a Master’s level WIN therapist.  Because WIN pays the salaries of partner-agency case managers, our web based  data system rates services on a monthly basis, which helps ensure high quality care.  Because WIN releases its clinical outcomes biannually, our partners know how their families are doing in our care.\r\n\r\nLead clinical staff from each agency and WIN meet to coordinate work at our monthly Program Committee Meetings, and partner agency case managers and supervisors, plus WIN therapists and our clinical director meet weekly for shared case reviews.  WIN trains its partner agency staff with 20-40 hours of multi-disciplinary training each year, plus provides dedicated, weekly mental health consultation to the Early Head Start and/or programmatic staff of each of our partner agencies.\r\n\r\nThanks to WIN’s HIPAA-compliant data system (a system that has become the model for one the state of Connecticut has adopted for its early childhood mental health services), WIN and its partners coordinate care for each family though a jointly prepared on-line service plan that is updated by each agency regularly.  The system reports monthly on how well we’re helping families achieve their goals, and allows staff to communicate in ‘real-time’ regarding family progress—as well as to coordinate care during emergencies.  The system tabulates our biannual outcomes, gathering data input by staff at various levels from all partners, and reminds case managers and therapists when screenings, assessments and releases are due.\r\n"
-  org_name: Westside Infant-Family Network (WIN)
-  metrics_live_healthcare: '1'
-  metrics_live_airtoxins: '0'
-  city_state: 'Culver City, CA'
-  metrics_live_importedwater: '0'
-  metrics_live_obesity: '0'
-  metrics_live_homelessness: '1'
-  metrics_live_walkscore: '0'
-  metrics_live_pollutedwaterways: '0'
-  metrics_live_mentalillness: '1'
-  metrics_live_childhood: '1'
-  metrics_live_communities: '0'
-  metrics_live_healthcareservice: '1'
-  metrics_live_treecanopy: '0'
-  metrics_live_other: '0'
-  metrics_live_blank: ''
-  resources_network: '0'
-  best_place_to_create: '0'
-  best_place_to_play: '0'
-  best_place_to_connect: '0'
-  best_place_to_learn: '1'
   evaluate: "Our goals for children and families are based on substantial data demonstrating that children who are securely attached to their parents and caregivers are happier, healthier and do better in school, work and life over the long-term. WIN’s program goals are as follows: 1) children will be securely attached to their parents/caregivers; 2) if children enter with developmental delays, we will see substantial improvement; 3) parents will feel less stress and more competence in their roles as parents; 4) our network will proactively link families to the basic services they need to stabilize and improve their lives such that our therapy can be more effective; 5) and staff throughout the WIN network will be better able to identify, refer and provide services for families who are in need.  We evaluate our work using the following indicators: \r\n1.\tChildren will improve in developmental outcomes: 70% will show improvement in identified areas of concern after one year of WIN therapy, as screened by the Ages and Stages Questionnaire, administered every six months throughout program involvement.   \r\n2.\tChildren will increase in secure attachment behaviors: 70% will show an increase after one year of WIN therapy, as observed and reported by licensed clinicians and/or master’s-level therapists using the PIR-GAS (Parent-Infant Relationship Global Assessment Scale).\r\n3.\tParents will feel less stress and anxiety: 70% of adults demonstrating need will improve after one year of WIN therapy, as screened by the Parenting Stress Index Short Form.\r\n4.\tFamilies will be successfully linked to services in the community: 60% of identified needs will be linked to services, as tracked through the case management needs assessment and case notes from each agency.  \r\n5.\tDirect service staff will be better able to identify, refer and provide services for families: 75% will show increased knowledge and competency, as indicated by pre- and post- questionnaires collected at WIN-sponsored trainings.  \r\nWIN outcomes are calculated biannually by our Clinical Information Systems Manager and our Clinical Director, using data gathered from the WIN Network. Data are collected on an ongoing basis, using our data tracking system, standardized screenings, assessments and interviews. We also ask families to rate our services through anonymous Parent Satisfaction Surveys, given to all client families biannually and upon graduation.\r\n"
   two_lessons: "1.\tJust like adults, infants and toddlers suffer from mental health issues.  But untreated, impacts can be far more pernicious and entrenched, developing into lifetimes of mental and physical illness, behavior and educational problems, with root causes deeply embedded in brain structures and chemistry.   And children who have experienced early childhood trauma and adversity, the primary cause of early mental health issues, are three to fifty times more likely, depending on the severity and types of trauma, to develop severe mental health issues like psychosis, borderline personality disorder and paranoid schizophrenia than the general population—diagnoses that have been linked to recent tragedies around the country.  Children’s brains are particularly vulnerable to stress and trauma during the critical period from prenatal through three years old, when brain architectures are being formed, but therapy during this window is also more impactful than at other times in the human lifespan.   WIN’s early therapeutic and case management interventions work to prevent long-term, ill effects for children and families, as well as ongoing social costs to educational, medical and legal systems. (Sources:  Danese, Pariante, Caspi, Taylor Poulton, 2007; R. P. Bentall, S. Wickham, M. Shevlin, F. Varese. Do Specific Early-Life Adversities Lead to Specific Symptoms of Psychosis? A Study from the 2007; The Adult Psychiatric Morbidity Survey. Schizophrenia Bulletin, 2012; National Scientific Council on the Developing Child, 2008)\r\n2.\tIn Los Angeles, there are few mental health services for the uninsured, and for the low-income insured, agencies have long waiting lists, limited services in languages other than English and restricted treatment duration.   Within this landscape, WIN fills an important niche.  We provide critically needed early childhood and infant mental health therapy in areas where so many families with young children are facing multiple challenges.  However, unlike many programs, WIN’s therapy is based on treatment goals, not time-limits.  Our services are provided by bilingual therapists, are free to all low-income families, regardless of insurance or immigration status, and are provided in-home to alleviate transportation barriers and improve outcomes.  \r\n"
-  achievable_goal: >-
-    WIN is an ongoing project, and since launching in 2006, WIN has annually met
-    and/or exceeded its goals. WIN’s highly trained, bilingual therapy staff, as
-    well as partner agency case managers trained by WIN, work in-home with
-    families identified by our partner agencies using a combination of: 1)
-    child-parent dyadic therapy, 2) adult individual therapy for parents, and/or
-    3) intensive, in-home, cross-agency case management for basic needs, to meet
-    clinical and life goals established by families to ensure that their
-    children are able to thrive in safe, nurturing homes.  WIN will use its
-    deep, collaborative infrastructure to ensure that all partners are working
-    together with families to deliver seamless health, mental health, social
-    services and early education such that families can make real, substantive
-    gains.
+  more_detail: >-
+    At WIN, we make psychotherapy house calls to kids and parents who are
+    dealing with multiple traumas and poverty during the most critical point of
+    brain development in the human lifespan.  We coordinate our mental health
+    therapy with the food, health care, early intervention and other services of
+    our 3 partner agencies so families recover in a “nest” of integrated care. 
+    And it works: our kids overcome developmental delays, families have
+    measurably stronger relationships, and our parents and less stressed and
+    depressed.  Plus, WIN provides over 700 hours of professional consultation
+    to agencies throughout LA so they can better help families thrive--and we
+    have an ongoing project with Harvard to create better outcomes for kids
+    nationwide.   
   major_challenges: "Risks & Limitations: As demonstrated above, WIN is effective at increasing childhood developmental-educational and child-parent attachment outcomes for families that receive a year or more of child-parent psychotherapy.  However, the long-term effectiveness of our work may be limited by the following factors:\r\na.  Parental physical, mental and social issues: Our client parents often face chronic health, mental health, economic and social issues resulting in the insecure attachment with their children that brought them to WIN initially.  Moreover, some parents with severe mental health issues, such as untreated schizophrenia, are beyond WIN’s ability to treat, and may no longer have children in their custody because the State feels that they are incapable of caring for them. \r\nb. Family Transience: Los Angeles is an expensive city in which to live, and many of our client families are marginally employed and inadequately housed, living with friends, relatives or unauthorized communal rental situations with strangers.  Although the collaboration partners are able to help some families find permanent housing, oftentimes families must leave WIN treatment for work, housing or shelter in areas outside our treatment area (e.g. when a family moves to a domestic violence shelter on the Eastside).  In these cases, where WIN and the family have not reached treatment goals, the family remains at risk for each of the childhood mental health issues.\r\nc. Capacity: To be sure, WIN is achieving its initial purpose: we were created to meet the needs of children and families amongst our agency partners who were struggling with the effects of trauma, mental health issues and insecure attachment during their children’s most important window of neurological development.  Our outcomes are good.  We’ve won several national awards and are one of a small group that have been invited to advise Harvard University and others on creating better systems of care for young children.  However, we can serve only a limited number through our clinical work, and touch perhaps a thousand more though our mental health consultation for other agencies.   In no way is this meeting the needs of thousands of LA children whose brain architectures and futures are being adversely affected for the long-term right now.  Hence, our ongoing work with Harvard: it is our goal to work with the researchers and model programs involved with the Frontiers of Innovation initiative to assess & address needs earlier."
-  competition: >-
-    There are too few mental health services in LA for young children and
-    families suffering from abuse, neglect and trauma.  Fortunately, WIN is not
-    the only program providing such services, such as LA Child Guidance Center,
-    St. John's, and others.  However, WIN is the only program providing in-home
-    therapy early child mental health therapy, dedicated adult individual
-    therapy and case management in families homes;  completely free of charge;
-    regardless of immigration or insurance status; within a dedicated integrated
-    network of health, mental health, social services and early childhood care;
-    and based on family treatment goals, not arbitrary time limits set by public
-    funding.
-  resources_money: '0'
-  resources_staff: '0'
-  resources_publicity: '0'
-  resources_infrastructure: '1'
-  resources_education: '0'
-  resources_technical: '0'
-  resources_communityoutreach: '0'
-  resources_research: '1'
   Which area(s) of LA does your project benefit?:
     - South LA
     - Westside

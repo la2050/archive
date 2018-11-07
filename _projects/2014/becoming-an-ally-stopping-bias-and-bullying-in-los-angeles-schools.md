@@ -20,53 +20,19 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
-  metrics_learn_communitycollege: '0'
-  collaboration: "At the national level, ADL has existing partnerships with the following organizations and initiatives to address bias and bullying: the Ad Council, the American Bar Association’s Anti-Bullying Initiative, Cartoon Network’s Stop Bullying, Speak Up initiative, Common Sense Media, Center for Safe and Responsible Internet Use, Cyberbullying Prevention Center, the Gay, Lesbian and Straight Education Network (GLSEN), the Great American NO BULL Challenge, the International Bullying Prevention Association, MTV’s A Thin Line and Look Different campaigns, Not In Our School, the Olweus Bullying Prevention Program, PACER’s National Bullying Prevention Center, Share My Lesson, Stand4Change, StopBullying.gov, and the Human Rights Campaign’s Welcoming Schools Program.  Each of these organizations and initiatives have partnered with ADL to make the anti-bullying programs successful and bring a wide variety of perspectives and resources to augment ADL’s anti-bullying work.   ADL’s office in Los Angeles is ready to engage these partnerships to ensure the success of our anti-bullying work in the region.\r\n\r\nEducation staff from ADL’s Pacific Southwest Regional Office also hold local positions on the Los Angeles Unified School District’s Commission on Human Relations, Diversity and Equity and the City Human Relations Commission’s Anti-Bullying Coalition.  ADL also works closely with the Los Angeles County Human Relations Commission and other regional partners to plan local conferences including the Cyber Crime Prevention Symposium.  Through its work on coalitions, commissions and similar partnerships, ADL can draw expertise and resources from law enforcement, elected officials, school officials and other human relations experts.  ADL’s local partners assist in identifying schools in need of anti-bullying training and disseminating crucial information across diverse networks. \r\n"
-  org_website: www.adl.org/la
-  org_twitter: 'https://twitter.com/ADL_National'
-  org_facebook: 'https://www.facebook.com/a.world.of.difference.institute?ref=br_tf'
-  org_instagram: ''
-  org_mailingaddress: "10495 Santa Monica Blvd.\r\nLos Angeles, CA 90025"
-  org_ein: '131818723'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
-  describe_organization: "ADL fights anti-Semitism and all forms of bigotry, defends democratic ideals and protects civil rights for all. \r\n"
+  achievable_goal: >-
+    ADL’s A WORLD OF DIFFERENCE® contracts with over two dozen facilitators who
+    can implement Becoming An Ally at 30 schools across Los Angeles should the
+    project be funded.  ADL already coordinates Becoming An Ally and other
+    anti-bias and anti-bullying programs across the region and has the existing
+    staff, technological and coordination infrastructure to begin programming
+    (and transforming Los Angeles) immediately.  ADL and its partners have
+    waiting lists of schools that would like programs but are unable to pay for
+    them.  No time will be required to engage in strategic planning, program
+    build up or outreach.  
   one_sentence_project: >-
     ADL would like to bring its anti-bullying programs, Becoming An Ally, to 30
     underserved schools across Los Angeles County.
-  describe_idea: >-
-    @ADL 's A WORLD OF DIFFERENCE Institute works to end bias & bullying in LA
-    schools. Let's make these programs available to all!
-  all_county: '1'
-  region_county: '0'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '1'
-  area_southLA: '1'
-  area_sangabrielvalley: '1'
-  area_sanfernandovalley: '1'
-  area_southbay: '1'
-  area_westside: '1'
-  'area_other:': '0'
-  area_other_blank: ''
-  more_detail: >-
-    The Anti-Defamation League (ADL)’s Pacific Southwest Regional Office would
-    like to bring its anti-bullying programs, Becoming An Ally, to 30
-    underserved schools across Los Angeles County. The programs will create a
-    greater sense of safety at and on the way to school, reduce truancy rates
-    and increase attendance.  Through its award winning A WORLD OF DIFFERENCE®
-    Institute, ADL will offer 30 schools the opportunity to train up to 40 staff
-    on our best practices for preventing, recognizing, intervening and
-    addressing bullying among students. Our extensive research indicates that
-    bias and prejudice are behind much of the bullying that occurs. Our
-    anti-bias lens addresses racism, homophobia, classism, religious bigotry and
-    other forms of bias. 
   implement: "ADL contracts with over two dozen facilitators to provide training to interested schools in the Los Angeles area.  They have been trained to ensure top quality programming and fidelity to the program models.  The facilitators are overseen by ADL’s full-time Project Director for its A WORLD OF DIFFERENCE® Institute who handles all coordination and logistics for educational programming in the region.  The Project Director is assisted locally by an administrative assistant and supported more broadly by ADL’s national Education Division and its network of 28 regional offices across the United States.  All facilitators must go through an extensive background and security check prior to being issued a contract to facilitate in ADL’s A WORLD OF DIFFERENCE® Institute.  Facilitators must renew contracts on an annual basis.   All Becoming An Ally programs are guided by two facilitators who model the importance of an anti-bias approach to preventing and addressing bullying.  \r\n\r\nRigorously evaluated and based on top notch research and evidence, the Becoming An Ally program utilizes cutting edge, interactive learning activities.  Each school goes through a detailed needs assessment and an agenda setting process with ADL’s A WORLD OF DIFFERENCE® Institute Project Director in the weeks leading up to their program.  Following each day-long program, the Project Director will then produce evaluation reports, identify next steps, and engage in technical assistance with the school to continue its work towards a bias-free and non-violent learning environment.\r\n\r\nFew schools are able to pay the full costs of the program.  Initiatives like LA2050 and the foundations that support them are critical to making these programs available.  ADL’s Pacific Southwest Regional Office has waiting lists for clients eager to access these programs but unable to pay for them.  Funding from LA2050 would allow ADL to immediately begin implementing programs and addressing unmet needs at schools across Los Angeles County.\r\n"
   impact_learn: "Today, far too many students in Los Angeles are dropping out of school, skipping school, and engaging in anti-social activities because they are targeted in school by bullying, violence and bias-related behavior.  According to 2011 data from the United States Centers for Disease Control and Prevention, more than 15 percent of Los Angeles students report that they have been bullied on school property while 29 percent report being in one or more physical fights in the last year.  More than 12 percent report being the target of electronic and cyberbullying.  Even worse, students in Los Angeles are significantly more likely to report a recent suicide attempt than students in other areas across the United States.  \r\n\r\nADL’s Becoming An Ally equips students with the skills they need to be an ally to targets of bullying and positively shift social norms around bullying, harassment and other forms of aggression.  As Los Angeles students then teach these values to their peers—and eventually their own children—long-term changes in norms will be sustained through 2050 and beyond.  These anti-bullying programs will create safer and more welcoming school climates which result in students being more committed to and engaged with their schools—both as current students and after they graduate.  \r\n\r\nAnti-bias and anti-bullying education at all ages helps to reduce violence and community strife and promote safety.  Bias- and bullying-free learning environments are crucial to good mental health for the County’s younger residents now and in the years ahead.\r\n"
   who_benefit: >-
@@ -83,47 +49,22 @@ maker_answers:
     shift social norms and create safer places for many thousands of future
     students, the tertiary beneficiaries.  Further, all of the County’s
     residents will benefit from safer schools and communities.
-  about_you: 'Los Angeles, CA'
-  org_name: Anti-Defamation League - Pacific Southwest Region
-  metrics_learn_earlyeducation: '0'
-  metrics_learn_unemployment: '0'
-  metrics_learn_graduationrates: '0'
-  metrics_learn_proficiency: '0'
-  metrics_learn_api: '0'
-  metrics_learn_college: '0'
-  metrics_learn_pipeline: '0'
-  metrics_learn_suspension: '1'
-  metrics_learn_truancy: '1'
-  metrics_learn_safety: '1'
-  metrics_learn_other: '0'
-  metrics_learn_blank: ''
-  resources_network: '0'
-  best_place_to_connect: '1'
-  best_place_to_create: '0'
-  best_place_to_play: '0'
-  healthiest_place_to_live: '1'
+  collaboration: "At the national level, ADL has existing partnerships with the following organizations and initiatives to address bias and bullying: the Ad Council, the American Bar Association’s Anti-Bullying Initiative, Cartoon Network’s Stop Bullying, Speak Up initiative, Common Sense Media, Center for Safe and Responsible Internet Use, Cyberbullying Prevention Center, the Gay, Lesbian and Straight Education Network (GLSEN), the Great American NO BULL Challenge, the International Bullying Prevention Association, MTV’s A Thin Line and Look Different campaigns, Not In Our School, the Olweus Bullying Prevention Program, PACER’s National Bullying Prevention Center, Share My Lesson, Stand4Change, StopBullying.gov, and the Human Rights Campaign’s Welcoming Schools Program.  Each of these organizations and initiatives have partnered with ADL to make the anti-bullying programs successful and bring a wide variety of perspectives and resources to augment ADL’s anti-bullying work.   ADL’s office in Los Angeles is ready to engage these partnerships to ensure the success of our anti-bullying work in the region.\r\n\r\nEducation staff from ADL’s Pacific Southwest Regional Office also hold local positions on the Los Angeles Unified School District’s Commission on Human Relations, Diversity and Equity and the City Human Relations Commission’s Anti-Bullying Coalition.  ADL also works closely with the Los Angeles County Human Relations Commission and other regional partners to plan local conferences including the Cyber Crime Prevention Symposium.  Through its work on coalitions, commissions and similar partnerships, ADL can draw expertise and resources from law enforcement, elected officials, school officials and other human relations experts.  ADL’s local partners assist in identifying schools in need of anti-bullying training and disseminating crucial information across diverse networks. \r\n"
   evaluate: "ADL will rely on publicly available data on suspensions and expulsions from the Los Angeles Unified School District (LAUSD) and other large districts serving students in our metropolitan area.  These same data will also provide insight into truancy rates among elementary and middle school students. \r\n\r\nLAUSD issues the nationwide Youth Risk Behavior Survey (YRBS) from the Centers for Disease Control and Prevention (CDC) which includes several measures of student safety at school and on the way to school as well as other measures related to bullying and cyberbullying.  CDC and LAUSD issue the YRBS biannually, so this will be a good measure to track medium-term and long-term changes in school climate and safety as we approach 2050.  The data from the YRBS will also provide valuable information about students’ experiences with bullying and harassment broken out by race/ethnicity, gender, sexual orientation and other important identifying characteristics.  \r\n\r\nIn addition to truancy, suspension and expulsion data, and the YRBS measures on bullying and student safety, ADL will also collect program evaluation data from all school sites provided funding through the LA2050 initiative.  These data will allow for a cumulative picture of the impact as well as allow for mid-year changes if patterns emerge that require attention.  ADL is committed to using both external and internal measures of success when evaluating its programming.  \r\n"
   two_lessons: "ADL approaches anti-bullying efforts with an anti-bias lens because we know that the majority of bullying and other aggressive behaviors are rooted in forms of bias like racism, homophobia, religious bigotry, classism and others.  ADL’s anti-bias educational programs from its A WORLD OF DIFFERENCE® Institute form much of the foundation for its anti-bullying programs including Becoming An Ally.  \r\n\r\nADL knows that the teachers and staff who spend every day with their students in their unique school communities have a tremendous amount of wisdom to share.  Facilitators come prepared with interactive, engaging and cutting edge activities that draw the collective wisdom out of the room while avoiding a lecture style.  This ensures that staff as adult learners make meaningful contributions.  Drawing from the experience and collective wisdom in each school community allows for tailored programs to sustainably transform school climates for the better.  ADL facilitators are considered experts on bias and bullying, but they are there to facilitate knowledge sharing among peers as much as they are there to impart critical information and skills.  \r\n"
-  achievable_goal: >-
-    ADL’s A WORLD OF DIFFERENCE® contracts with over two dozen facilitators who
-    can implement Becoming An Ally at 30 schools across Los Angeles should the
-    project be funded.  ADL already coordinates Becoming An Ally and other
-    anti-bias and anti-bullying programs across the region and has the existing
-    staff, technological and coordination infrastructure to begin programming
-    (and transforming Los Angeles) immediately.  ADL and its partners have
-    waiting lists of schools that would like programs but are unable to pay for
-    them.  No time will be required to engage in strategic planning, program
-    build up or outreach.  
+  more_detail: >-
+    The Anti-Defamation League (ADL)’s Pacific Southwest Regional Office would
+    like to bring its anti-bullying programs, Becoming An Ally, to 30
+    underserved schools across Los Angeles County. The programs will create a
+    greater sense of safety at and on the way to school, reduce truancy rates
+    and increase attendance.  Through its award winning A WORLD OF DIFFERENCE®
+    Institute, ADL will offer 30 schools the opportunity to train up to 40 staff
+    on our best practices for preventing, recognizing, intervening and
+    addressing bullying among students. Our extensive research indicates that
+    bias and prejudice are behind much of the bullying that occurs. Our
+    anti-bias lens addresses racism, homophobia, classism, religious bigotry and
+    other forms of bias. 
   major_challenges: "California public schools have substantial standardized testing requirements which can make scheduling trainings at specific times of year (e.g. the late spring) difficult.  ADL will conduct the bulk of the school staff training programs in the fall, winter and just before students return to school in the late summer to avoid scheduling conflicts.\r\n\r\nAnother challenge is the demand.  There is far more need for these programs than can be addressed with $100,000.  ADL will prioritize the schools in most need of these vital trainings to create a list of 30 schools from ADL’s existing waiting list. \r\n"
-  competition: "ADL’s A WORLD OF DIFFERENCE® Institute is a market leader in the development and delivery of diversity education resources, anti-bias and anti-bullying trainings.  Many anti-bullying programs have emerged in the last several years as media outlets and our collective attention had looked more closely at the national issue of bullying.  ADL prides itself in having done anti-bias and anti-bullying work since its A WORLD OF DIFFERENCE® Institute was founded in 1985 to augment other programs of ADL, as a 101-year old civil rights and human relations organization.  While other programs have emerged in recent times to respond to demand, ADL has been providing these high end programs for close to three decades.  \r\n\t\r\nADL’s longstanding commitment to anti-bias and anti-bullying programs has allowed for extensive program evaluation and the hiring of experts in the Education Division to ensure programs are regularly updated and rooted in the best available research.  A WORLD OF DIFFERENCE® Institute training programs and curricular materials are developed and evaluated by a training and curriculum department that interacts on an ongoing basis with other professionals in the field. Institute staff collaborates with colleges, universities, and national funding sources to study and enhance the efficacy of its programs. Collaborative studies have occurred with institutions including Columbia University, Claremont Graduate School, the University of Pennsylvania, and Yale University.  ADL’s A WORD OF DIFFERENCE® Institute has received national recognition including the Peabody, Gabriel and Scripps-Howard awards.\r\n"
-  resources_money: '1'
-  resources_staff: '0'
-  resources_publicity: '1'
-  resources_infrastructure: '0'
-  resources_education: '0'
-  resources_technical: '0'
-  resources_communityoutreach: '0'
-  resources_research: '0'
   Which area(s) of LA does your project benefit?:
     - Central LA
     - East LA

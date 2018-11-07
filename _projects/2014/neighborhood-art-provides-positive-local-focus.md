@@ -16,54 +16,12 @@ project_areas:
   - CENTRAL LA
   - SOUTH LA
 maker_answers:
-  metrics_create_researchgrant: '0'
-  metrics_create_employment: '1'
-  org_website: ConantMoran.com
-  org_twitter: ''
-  org_facebook: ''
-  org_instagram: ''
-  org_mailingaddress: "5811 South Broadway #115\r\nLos Angeles, CA 90003\r\n"
-  org_ein: '461067483'
-  org_nonprofit: '0'
-  org_forprofit: '1'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '1'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '0'
-  describe_organization: >-
-    Conant-Moran is a Design-Build metal fabrication and General Contracting
-    business.
+  achievable_goal: >-
+    At a minimum a sculpture can be completed and installed every 1 1/2 to 2
+    months.  This schedule is acceptable to the artist.
   one_sentence_project: >-
     Fabricate and install neighborhood sculptures that all cultures, races and
     income levels can connect with and take pride in.
-  describe_idea: >-
-    We at Conant-Moran Inc. will install neighborhood sculptures to serve as a
-    positive focal point and community land mark.
-  all_county: '1'
-  region_county: '1'
-  population_county: '1'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '0'
-  area_southLA: '1'
-  area_sangabrielvalley: '0'
-  area_sanfernandovalley: '0'
-  area_southbay: '0'
-  area_westside: '0'
-  'area_other:': '0'
-  area_other_blank: ''
-  more_detail: >-
-    Six to ten metal sculptures will be placed in neighborhoods with the intent
-    to enhance public spaces and introduce art into a culture that is otherwise
-    barren of community-based art.  The unveiling will  BBQ be proceeded by a
-    Community BBQ and Family oriented entertainment.  The project illustrates
-    that art can be a source of pride for the community  and will serve as a
-    landmark for conversation and neighborhood identification. A pilot project
-    has been initiated at 58th and Broadway where a Rubik's Cube metal sculpture
-    has been installed. The public acceptance and positive reception has
-    encouraged this application for funds. The fact that the sculpture has not
-    been vandalized is testament to high public regard for the art.
   implement: >-
     Specific site selection for the sculpture locations will be coordinated with
     District 9 representatives and local leaders in small groups at face to face
@@ -108,42 +66,20 @@ maker_answers:
     change in the environment or culture directly or indirectly changes things
     for the good - for everyone.
   partners_collaboration: "The collaborators for this project are local leaders and District 9 staff who will assist with site selection and the unveiling BBQ's.  These collaborators are not specifically named.  They will be contacted as sculpture projects are developed.  The number of collaboration participants will be small because the primary beneficiaries live and work in the immediate neighborhood.\r\n\r\n1. Community Involvement\r\n2. Communication between parties\r\n3. Recognition of contributions "
-  org_name: Conant Moran Design & Fabrication
-  metrics_create_arts: '1'
-  metrics_create_manufacturing: '0'
-  city_state: CA
-  metrics_create_patents: '0'
-  metrics_create_jbs: '0'
-  metrics_create_minoritywomenowned: '0'
-  metrics_create_gini: '0'
-  metrics_create_startups: '0'
-  metrics_create_venturecapital: '0'
-  metrics_create_influencers: '1'
-  metrics_create_recruitingrates: '0'
-  metrics_create_graduates: '0'
-  metrics_create_unemployment: '0'
-  metrics_create_other: '0'
-  metrics_create_blank: ''
-  resources_network: '1'
-  best_place_to_learn: '1'
-  best_place_to_connect: '1'
-  healthiest_place_to_live: '0'
-  best_place_to_play: '0'
   evaluate: "Predominately through the installation of metal sculptures.  The target is six to ten.  Involvement of the community.  Measured by response to the BBQ's and party.  \r\n\r\nSustainability - Longevity measured in the care the sculptures receive - vandalism "
   two_lessons: "1. Installation of sculpture on 58th and Broadway and the reaction of the neighborhood.\r\n\r\n2. Traveling through LA has revealed a stark contrast between South Central and other sections of LA.  The obvious question is why so much art in some sections and practically none in others? What can be done to enhance artistic projects in the parts of LA that have none?"
-  achievable_goal: >-
-    At a minimum a sculpture can be completed and installed every 1 1/2 to 2
-    months.  This schedule is acceptable to the artist.
+  more_detail: >-
+    Six to ten metal sculptures will be placed in neighborhoods with the intent
+    to enhance public spaces and introduce art into a culture that is otherwise
+    barren of community-based art.  The unveiling will  BBQ be proceeded by a
+    Community BBQ and Family oriented entertainment.  The project illustrates
+    that art can be a source of pride for the community  and will serve as a
+    landmark for conversation and neighborhood identification. A pilot project
+    has been initiated at 58th and Broadway where a Rubik's Cube metal sculpture
+    has been installed. The public acceptance and positive reception has
+    encouraged this application for funds. The fact that the sculpture has not
+    been vandalized is testament to high public regard for the art.
   major_challenges: "1. Securing funds:  Applying for grants\r\n\r\n2. Selecting installation sites: Involve neighborhood and community leaders early in the process"
-  competition: No.  No one is installing sculpture art in South Central LA.
-  resources_money: '1'
-  resources_staff: '0'
-  resources_publicity: '0'
-  resources_infrastructure: '0'
-  resources_education: '0'
-  resources_technical: '0'
-  resources_communityoutreach: '1'
-  resources_research: '1'
   Which area(s) of LA does your project benefit?:
     - Central LA
     - South LA

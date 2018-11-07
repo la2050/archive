@@ -18,54 +18,13 @@ project_areas:
   - SFV
   - WESTSIDE
 maker_answers:
-  metrics_live_selfsufficiency: '0'
-  metrics_live_healthyfood: '0'
-  org_website: 'http://www.metabolicstudio.org'
-  org_twitter: ''
-  org_facebook: 'https://www.facebook.com/metabolicstudio'
-  org_instagram: ''
-  org_mailingaddress: "1745 N. Spring Street Unit 4\r\nLos Angeles, CA 90012"
-  EIN: '261878892'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
+  achievable_goal: >-
+    We have already identified the necessary permits, mapped potential
+    implementation sites, and have confirmed the partnerships needed to
+    accomplish the pilot Undevelopment project.
   one_sentence_org: >-
     The Metabolic Studio transforms nutrients into energy, actions, and objects
     that nurture life.
-  describe_idea: >-
-    Wouldn't it be good if streams that run from the mountains to the sea could
-    again be connected to form a new river moving through our city?
-  describe_organization: >-
-    Metabolic Studio believes that artists must create on the same scale that
-    society has the capacity to destroy
-  all_county: '1'
-  region_county: '0'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '1'
-  area_southLA: '1'
-  area_sangabrielvalley: '1'
-  area_sanfernandovalley: '1'
-  area_southbay: '1'
-  area_westside: '1'
-  'area_other:': '0'
-  area_other_blank: ''
-  more_detail: >-
-    Lauren Bon’s Metabolic Studio and the Harrison Studio, Center for the Force
-    Majeure, propose to renew downtown LA’s historic flood plain. While we don’t
-    support the LA River haphazardly flooding, carefully constructed basins
-    allowing saturation into unused industrial lots could create a flood plain
-    corridor that runs along the LA River and makes use of the network of storm
-    drains receiving water from the mountains and the hills around Northeast LA.
-    Eemian age plants, from roughly 115,000 years ago would be introduced to
-    prepare for a climate change, creating a prophetic ecology along the river
-    corridor.  Climatologists predict that the climate experienced during that
-    time is close to that which we will be facing in 50-100 years    
   implement: >-
     Undevelopment One will be the pilot project for a hoped for network of
     Undevelopments that could, over time, create a paleo-botanical eavesment by
@@ -92,27 +51,6 @@ maker_answers:
   impact_live: "It should be understood that both the Metabolic Studio and the Harrison Studio see the Undevelopment proposal as a new urban narrative. Climatologists predict that the climate experienced during the Eemian Age is close to that which we will be facing in 50-100 years. We note that many cities in the world, perhaps a majority, have profoundly mistreated their river systems. The model that the Harrison Studio and Metabolic Studio wish to put in place is replicable as cities around the world realize that a new way to justify their relationship to nature and the larger environment within which they are embedded has been made available. Our hope is that all artists, engineers, politicians, urban planners and visionaries network plans, funding and initiatives to address entropy rebalancing—meaning that all living systems move toward entropy, but that rate of that process in contemporary society, the stress on nature and on all our living systems is such that we can no longer think of any individual city but rather of collective actions that can rebalance entropy.\r\n\r\n“Artists Must Create on the Same Scale that Society has the Capacity to Destroy.”"
   who_benefit: The LA River corridor and the broader Los Angeles watershed and community
   partners_collaboration: "Each Undevelopment project will be a public/private partnership requiring local, state, and federal agencies and private property owners to cooperate. Our team working on Bending the River Back Into the City is poised to assist with the implementation and have been confirmed: engineers from Geosyntec, landscape/construction professionals from Valley Crest, public affairs advocates from KindelGagan and climatologists from UCLA. The Metabolic Studio, in collaboration with the Harrison Studio, is applying for support for a pilot project for a network of Undevelopment projects. Helen and Newton Harrison of the Harrison Studio have been working with climate change and what future ecosystems might look like for many decades.\r\n\r\nIt should be understood that both the Metabolic Studio and the Harrison Studio see this work as a new urban narrative. They note that many cities in the world, perhaps a majority, have profoundly mistreated their river systems. The model that they wish to put in place is replicable as cities realize that a new way to justify their relationship to nature and the larger environment within which they are embedded has been made available."
-  org_name: Metabolic Studio
-  metrics_live_healthcare: '0'
-  metrics_live_airtoxins: '1'
-  city_state: 'Los Angeles, CA'
-  metrics_live_importedwater: '1'
-  metrics_live_obesity: '0'
-  metrics_live_homelessness: '0'
-  metrics_live_walkscore: '0'
-  metrics_live_pollutedwaterways: '1'
-  metrics_live_mentalillness: '0'
-  metrics_live_childhood: '0'
-  metrics_live_communities: '1'
-  metrics_live_healthcareservice: '0'
-  metrics_live_treecanopy: '1'
-  metrics_live_other: '1'
-  metrics_live_blank: Preservation of soil through prevention of erosion in global warming.
-  resources_network: '1'
-  best_place_to_create: '1'
-  best_place_to_play: '1'
-  best_place_to_connect: '1'
-  best_place_to_learn: '1'
   evaluate: >-
     Success will be measured by resource efficiency, community engagement and
     replicability on other sites and regions.
@@ -134,26 +72,22 @@ maker_answers:
     see Council District One in Los Angeles as a political area that can become
     a role model in how water can be seen as social capital capable of
     supporting community and creating the capacity for environmental renewal. 
-  achievable_goal: >-
-    We have already identified the necessary permits, mapped potential
-    implementation sites, and have confirmed the partnerships needed to
-    accomplish the pilot Undevelopment project.
+  more_detail: >-
+    Lauren Bon’s Metabolic Studio and the Harrison Studio, Center for the Force
+    Majeure, propose to renew downtown LA’s historic flood plain. While we don’t
+    support the LA River haphazardly flooding, carefully constructed basins
+    allowing saturation into unused industrial lots could create a flood plain
+    corridor that runs along the LA River and makes use of the network of storm
+    drains receiving water from the mountains and the hills around Northeast LA.
+    Eemian age plants, from roughly 115,000 years ago would be introduced to
+    prepare for a climate change, creating a prophetic ecology along the river
+    corridor.  Climatologists predict that the climate experienced during that
+    time is close to that which we will be facing in 50-100 years    
   major_challenges: >-
     Land use restrictions and permit delays could possibly create timeline push
     backs for the pilot project.  We will and have already begun to engage all
     the appropriate stakeholders, agencies, and channels to create an efficient
     and timely path to completion and success to avoid such delays.
-  competition: >-
-    We hope to collaborate with any other organizations doing similar work both
-    locally and regionally.
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '1'
-  resources_infrastructure: '1'
-  resources_education: '1'
-  resources_technical: '1'
-  resources_communityoutreach: '1'
-  resources_research: '1'
   Which area(s) of LA does your project benefit?:
     - Central LA
     - East LA

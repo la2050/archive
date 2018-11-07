@@ -22,55 +22,10 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
-  metrics_live_selfsufficiency: '0'
-  metrics_live_healthyfood: '0'
-  org_website: 'http://epicenterla.org/'
-  org_twitter: EPICenter_LA
-  org_facebook: 'https://www.facebook.com/pages/The-Epicenter/220315941470120'
-  org_instagram: ''
-  org_mailingaddress: '220 S Westgate Ave, Los Angeles, CA 90049'
-  EIN: '954522806'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
+  achievable_goal: "Within 12 months of receiving funding, the Cyber Insecurity Initiative will have completed most of the first two phases of its plan, and the third phase will be underway. The planning phase consists of securing appropriate permissions from hospitals and healthcare professionals for participation. We have already begun this process by approaching top-level administrators and healthcare/hospital associations for buy-in. The planning phase also includes designing questionnaires and interview guides; the formative work for this activity is already complete. \r\n\r\nThe assessment phase involves scheduling and conducting interviews with EHR technology buyers, users, disaster managers, administrators, and compliance officers. This is where the majority of the labor will be.  The principal goal is data collection.\r\n\r\nThe analysis phase consists of thorough statistical analysis of the data for the purpose of developing recommendations. We anticipate beginning this phase within one year of receiving funding. The final phase, recommendations, will be completed in the second year of the Cyber Insecurity Initiative. "
   one_sentence_org: >-
     COMMET promotes the widespread use of new medical technology, bridging the
     gap between medicine and technology.
-  describe_idea: >-
-    The Cyber Insecurity Initiative will evaluate risks and recommend solutions
-    to a healthcare system dependent on electronic health records.
-  describe_organization: >-
-    The Cyber Insecurity Initiative will help protect hospitals and patient
-    electronic health records as our health system modernizes
-  all_county: '1'
-  region_county: '0'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '1'
-  area_southLA: '1'
-  area_sangabrielvalley: '1'
-  area_sanfernandovalley: '1'
-  area_southbay: '1'
-  area_westside: '1'
-  'area_other:': '0'
-  area_other_blank: ''
-  more_detail: >-
-    Nearly all LA County’ hospitals have moved to electronic health records
-    (EHR) in compliance with Federal regulations.  We have identified a mismatch
-    regarding perceived versus actual vulnerabilities to these medical records.
-    According to cybersecurity experts, electronic systems are much more
-    vulnerable than we realize, which places LA County residents at great risk. 
-    The next “Cyber Pearl Harbor” may be just around the corner. Our initiative
-    will conduct a thorough vulnerability assessment of digital healthcare
-    information in LA’s hospitals. The differences between cyber threat
-    perceptions and actual vulnerabilities will be collected and analyzed to
-    improve the security of LA County’s EHRs, thus making our population
-    healthier and safer.
   implement: >-
     The Cyber Insecurity Initiative has four main phases: planning, assessment,
     analysis, and recommendations. The planning phase will consist of securing
@@ -102,51 +57,21 @@ maker_answers:
   impact_live: "The residents and visitors of LA County deserve and expect a safe, reliable healthcare system that protects their personal health information and provides unimpeded information to the appropriate provider in a timely manner. We are still at the dawn of a rapidly evolving technological age in healthcare. As our use of healthcare technology and cyberspace expands, so do the cybersecurity threats. The Cyber Insecurity Initiative will proactively address these concerns now, guiding our use of new technology in a safe and responsible manner. By 2050, healthcare will be totally dependent on technology and cyberspace, and the decisions we make now will allow LA to take full advantage of benefits offered by reliable, digitized healthcare while proactively minimizing the risks to the private health information of every individual who uses LA County’s hospitals. \r\n\r\nFurthermore, in a world that is shrinking due to technology, the Cyber Insecurity Initiative will keep Los Angeles at the forefront of healthcare in an increasingly globalized world. LA is a truly global city. As of 2013, there were 3.5 million foreign-born residents in LA County, and there are 135 different languages spoken here.  An estimated 1 in 10 residents is undocumented, and we have millions of international visitors every year. LAX is the sixth busiest airport in the world. For the health of our residents and visitors, our economic prosperity requires a world class healthcare system that maximizes the safe and responsible use of EHRs \r\n\r\nAdditionally, disasters and public health emergencies (such as biological terrorism and pandemic diseases) must be considered. If used to its potential, our healthcare system can use EHRs to mitigate the effects of a disaster and speed the public health emergency response and recovery. In fact, the effective use of EHRs even has the potential to mitigate a pandemic disease in its tracks. This can only be achieved, however, if the system is safe and secure. \r\n\r\nFinally, the routine and safe use of EHRs will drastically improve the daily lives of all LA County residents and visitors. Healthcare can be provided faster, more effectively, more efficiently, and cheaper thanks to the benefits of digitized healthcare. The Cyber Insecurity Initiative will ensure that we do so in a way that minimizes or negates the potential risks to digitized healthcare as we approach 2050. Residents will feel safer knowing that their medical privacy is secure and the system is working well."
   who_benefit: "The Los Angeles County healthcare system is an essential public service available to all residents and visitors. Whether or not a specific individual is using that system at any given point in time, everyone in LA can benefit from that public good. While our thoughts go first to the ill or injured who currently require hospital care, everyone in LA knows that the emergency medical services, emergency rooms, and world class healthcare in general are available to them and their families, if needed. Whether directly or indirectly, all of us benefit from our healthcare system. A well functioning healthcare system is essential to a vibrant, resilient community that can continue to thrive. In the new century, a comprehensive, long-term approach to healthcare cybersecurity is essential to the reliability and public trust of the healthcare system.\r\n\r\nThe cyber security concerns include security breaches, data loss, data for ransom, data corruption Internet breakdown, electrical breakdown, and other hazards that will negatively impact our population’s health in an environment where we are rapidly becoming more and more dependent on digitized healthcare records. Whether caused by a terrorist, a hacker, an accident, or a disaster, the residents and visitors of LA can be assured that their healthcare information is safer thanks to the Cyber Insecurity Initiative. \r\n\r\nThe following examples illustrate the extent of modern security breaches. As healthcare becomes increasingly dependent on digital records, the impact of these breaches will rise. According to a report by a cyber security firm called Redspin, there was a 97% increase in health record breaches from 2010-2011. Ponemon found that these breaches cost the hacked organization approximately $240 per record. In 2011, TRICARE lost their EHR back-up tapes, affecting almost 5 million patients. In 2010, the North Bronx Healthcare Network had 1.7 million EHRs stolen by a hacker. In 2009, Blue Cross and Blue Shield of Tennessee had a hard drive with over one million EHRs stolen. These are among many examples of the mounting risks associated with the transition to EHRs. The costs associated with EHR security breaches are tremendous, and the potential impact on the public’s faith in healthcare providers is even greater.\r\n\r\nAdditionally, the methodology we use can be adapted to other infrastructure, such as public health, public safety (police and fire), emergency management, transportation, electrical grid, public works, etc. "
   partners_collaboration: "Hospital Association of Southern California\r\nHospital Corporation of America (pending)\r\nUCLA Center for Public Health and Disasters\r\nLA County EMS Agency\r\nCalifornia Hospital Association\r\nRed-E (cyber consulting firm)\r\n"
-  org_name: The Center of Medical Multimedia Education and Technology (COMMET)
-  metrics_live_healthcare: '1'
-  metrics_live_airtoxins: '0'
-  city_state: 'Los Angeles, CA'
-  metrics_live_importedwater: '0'
-  metrics_live_obesity: '0'
-  metrics_live_homelessness: '0'
-  metrics_live_walkscore: '0'
-  metrics_live_pollutedwaterways: '0'
-  metrics_live_mentalillness: '0'
-  metrics_live_childhood: '0'
-  metrics_live_communities: '0'
-  metrics_live_healthcareservice: '1'
-  metrics_live_treecanopy: '0'
-  metrics_live_other: '0'
-  metrics_live_blank: >-
-    (1) Percentage of residents who trust the safety and reliability of the
-    healthcare system. (2) Percentage of residents who trust the safety and
-    reliability of electronic healthcare records. 
-  resources_network: '1'
-  best_place_to_create: '1'
-  best_place_to_play: '1'
-  best_place_to_connect: '0'
-  best_place_to_learn: '0'
   evaluate: "Metric 1 (process): Participation of healthcare technology buyers, users, managers, administrators, and compliance officers in the Cyber Insecurity Initiative. To be most effective, we will require the buy-in and support of these individuals to properly assess cybersecurity concerns. The support of both top-level administrators and hospital/healthcare associations will help with this endeavor, and we have already gained some support from them for the initiative. We will certainly be successful with even moderate participation from healthcare technology buyers, users, disaster managers, administrators, and compliance officers, but we seek to maximize their participation.\r\n\r\nMetric 2 (outcome): Gap between perceived cyber threats to the healthcare system (by healthcare administrators, providers, etc.) and actual threats. This measure will be initially assessed through questionnaires and interviews with a wide range of healthcare technology buyers, users, disaster managers, administrators, and compliance officers. The Cyber Insecurity Initiative will then analyze the results and provide recommendations to address the gaps between perceived and actual threats. \r\n\r\nMetric 3 (outcome): Public trust in the safety, accessibility, and reliability of the healthcare system is dependent on technology and cyberspace. This public trust is essential. Public concerns with the healthcare system, such as with the fire departments and emergency medical services response times, are fundamental to the trust in the healthcare system. The EMS system in LA County has already started using EHRs from the moment of first contact with patients (before they even get transported to the hospital). The Cyber Insecurity Initiative can provide recommendations to assess and improve the public’s trust in the emergency medical services system. This can also eventually be extended to other parts of the county’s infrastructure."
   two_lessons: "Lesson 1: In our experience many healthcare technology buyers, users, disaster managers, administrators, and compliance officers are either unaware of or do not fully appreciate the cybersecurity risks to healthcare data.  This lesson is based on consultation with cybersecurity professionals, the literature, and anecdotal information regarding the perceptions of healthcare professionals. This lesson, as well as the desire to have a resilient, robust system in place, is what prompted the need for the Cyber Insecurity Initiative. The extent and scope of the mismatch between cybersecurity and healthcare professionals will be determined and analyzed. Furthermore, many healthcare professionals are reluctant to participate in this type of research because it shines a light on a sensitive issue that they do not fully understand nor want to make public. In other words, they may not want to share their concerns. This is why buy-in and active support from top-level administrators and healthcare/hospital associations is critical.\r\n\r\nLesson 2: Black Swan (low probability, high impact) types of disasters are not part of our daily routine. Thus, many cyber concerns are handled outside the knowledge of the general public. The public’s trust in the healthcare system includes a basic assumption that cybersecurity issues are appropriately addressed. The public is not aware that many healthcare technology buyers, users, disaster managers, administrators, and compliance officers lack a full multidisciplinary appreciation of the cybersecurity risks to their personal health information. Were such knowledge to become widely publicized, then the public’s trust of the healthcare system would be diminished. That’s why it’s so important for the Cyber Insecurity Initiative to be funded. With funding we can proactively address these cybersecurity concerns now, before vulnerabilities can be exploited or new risks can develop. If a current or emerging vulnerability of cybersecurity was exploited without a program like the Cyber Insecurity Initiative to address it, the public trust in the healthcare system would be diminished or even violated."
-  achievable_goal: "Within 12 months of receiving funding, the Cyber Insecurity Initiative will have completed most of the first two phases of its plan, and the third phase will be underway. The planning phase consists of securing appropriate permissions from hospitals and healthcare professionals for participation. We have already begun this process by approaching top-level administrators and healthcare/hospital associations for buy-in. The planning phase also includes designing questionnaires and interview guides; the formative work for this activity is already complete. \r\n\r\nThe assessment phase involves scheduling and conducting interviews with EHR technology buyers, users, disaster managers, administrators, and compliance officers. This is where the majority of the labor will be.  The principal goal is data collection.\r\n\r\nThe analysis phase consists of thorough statistical analysis of the data for the purpose of developing recommendations. We anticipate beginning this phase within one year of receiving funding. The final phase, recommendations, will be completed in the second year of the Cyber Insecurity Initiative. "
+  more_detail: >-
+    Nearly all LA County’ hospitals have moved to electronic health records
+    (EHR) in compliance with Federal regulations.  We have identified a mismatch
+    regarding perceived versus actual vulnerabilities to these medical records.
+    According to cybersecurity experts, electronic systems are much more
+    vulnerable than we realize, which places LA County residents at great risk. 
+    The next “Cyber Pearl Harbor” may be just around the corner. Our initiative
+    will conduct a thorough vulnerability assessment of digital healthcare
+    information in LA’s hospitals. The differences between cyber threat
+    perceptions and actual vulnerabilities will be collected and analyzed to
+    improve the security of LA County’s EHRs, thus making our population
+    healthier and safer.
   major_challenges: "Challenge 1: Some healthcare technology buyers, users, disaster managers, administrators, and compliance officers may be reluctant to participate. In many cases, these individuals are generally aware of such cybersecurity concerns (or perceptions), but do not want the issue examined in detail by an outsider to the hospital or hospital organization. They may not want attention placed on their institution’s weaknesses. \r\n\r\nStrategy 1: Gain buy-in and active support from top-level administrators and healthcare/hospital associations. Help them understand how it is in their organizations’ best interests to proactively study and address these problems. Have them require or encourage their subordinates to participate.  Assure them that all information is confidential and no data will be attributed to any individual, hospital or hospital group. We will give them the opportunity to do either a person-to-person survey or a text-based survey on their cell phones. \r\n\r\n\r\nChallenge 2: Scheduling and logistics. The Cyber Insecurity Initiative will require a substantial number of interviews with healthcare technology buyers, users, disaster managers, administrators, and compliance officers. These are busy professionals with limited time for participating in an endeavor like this. Our organization has excellent project managers, but they will be engaged full time with coordinating the schedules of both the healthcare professionals and the interviewers to accomplish our objective. This phase will take six to eight months to complete. \r\n\r\nStrategy 2: This challenge will be mitigated in a few different ways.  First, the Cyber Insecurity Initiative will ensure that top-level administrators and healthcare/hospital associations require appropriate employees to participate. Second, we will establish the population of potential interviews before starting, and then ensure that our completed interviews are representative of that population. Third, we will develop a text message based questionnaire to ensure that we can collect some data from healthcare professionals who are unable to provide interviews. Since an Internet survey may be troubling to some, we will make available a texting technology we developed that can record and catalog responses in the event that a face-to-face interview is not possible or desirable. This technology has been tested in Vietnam for disease surveillance as well as with the LA County Department of Health Services for assessing waiting room time."
-  competition: >-
-    To our knowledge, there are no other organizations conducting healthcare
-    cybersecurity work like this. It is highly possible that for-profit
-    cybersecurity organizations and the military might be doing related
-    assessments and interventions in-house, but if so, their work is private and
-    proprietary or classified. While other sectors, especially in the military,
-    are being addressed, no organizations are currently seeking to address this
-    issue holistically across the healthcare sector. We need a framework for
-    best practices, and this has to come from the private sector.
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '0'
-  resources_infrastructure: '0'
-  resources_education: '0'
-  resources_technical: '0'
-  resources_communityoutreach: '0'
-  resources_research: '0'
   Which area(s) of LA does your project benefit?:
     - Central LA
     - East LA

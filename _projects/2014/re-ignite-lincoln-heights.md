@@ -14,55 +14,32 @@ project_image: >-
 project_video: ''
 project_areas: []
 maker_answers:
-  metrics_connect_traveltime: '0'
-  metrics_connect_volunteerism: '1'
-  org_website: www.leadinc.org
-  org_twitter: www.twitter.com/LEAD_Inc
-  org_facebook: www.facebook.com/leadinc.org
-  org_instagram: instagram.com/leadinc
-  org_mailingaddress: '2310 Pasadena Ave. Suite 202 Los Angeles, CA 90031'
-  org_ein: '300687144'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '1'
-  describe_collaboration: '0'
-  describe_organization: >-
-    LEAD is a grassroots organization that builds youth leadership, equitable
-    communities, and agents for social change.
+  achievable_goal: >-
+    LEAD has built a great reputation locally and nationally and we have been
+    able to build partnership with several individuals and organization. Our
+    goal of putting forth a community needs assessment, followed by a voter
+    registration campaign and dialogues between elected officials, the
+    neighborhood council, and community members are goals that we have the
+    capacity and knowledge to execute. Two members of our Board of Directors are
+    connected to their local neighborhood councils: Hector Huezo is the Chair of
+    the Neighborhood Council Alliance of River Communities and is a Neighborhood
+    Council Budget Advocate; Albert Ramirez is a member of the Wilmington
+    Neighborhood Council. In addition, another Board Member, Frank Alvarez, is a
+    Senior Organizer with Los Alliance for a New Economy (LAANE), with more than
+    10 years’ experience in community organizing, capacity building, and
+    advocacy. They will help us put together a plan for working with Lincoln
+    Neighborhood Council and help us navigate through local politics. They have
+    years of experience in engaging community members in local politics and will
+    be assets to us in this project. Because of our LEAD YouthBuild Program, we
+    have ongoing programs which we can tap into and use for the benefit of this
+    project. We will be able to leverage multiple streams of funding in
+    conjunction with funding from LA2050. We have built a solid foundation of
+    individual donors and supporters that we can easily tap into for support in
+    this project. We are strategically located in the center of Lincoln Heights
+    and our site is easily accessible to the community.  
   one_sentence_project: >-
     LEAD will facilitate a community needs assessment, voter education and
     registration campaign, and ignite civic engagement in Lincoln Heights
-  describe_idea: >-
-    @Lead_inc will activate Angelenos in Lincoln Heights, survey 300+ through a
-    Community Needs Assessment, and register 200+ to vote.
-  impact_LA_County: '0'
-  region_county: '1'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '0'
-  area_eastLA: '0'
-  area_southLA: '0'
-  area_sangabrielvalley: '0'
-  area_sanfernandovalley: '0'
-  area_southbay: '0'
-  area_westside: '0'
-  'area_other:': '1'
-  area_other_blank: Lincoln Heights and Northeast LA
-  more_detail: >-
-    Lincoln Heights has a rich history of activism and civic engagement. LEAD
-    will re-ignite Lincoln Heights.  LEAD will develop a Community Needs
-    Assessment to better understand priorities and social needs of Angelenos in
-    Lincoln Heights. The results of the assessment will give the community,
-    elected officials, and the local neighborhood council quantitative and
-    qualitative data of community priorities, needs, and the social issues where
-    most services and resources are needed. This is the first step in bringing
-    more attention to Lincoln Heights and helping Angelenos shed light on what
-    they really care about. We then will empower the community to become more
-    civically active through voting and participation in their local
-    neighborhood council. 
   implement: >-
     By reaching out to local organizations, churches, neighborhood councils, and
     community centers, we will survey a minimum of 300 people. Through our
@@ -116,27 +93,6 @@ maker_answers:
     connected and stay active.  
   who_benefit: "This project will benefit the community of Lincoln Heights which has a population of about 31,500 people. The community is predominantly Hispanic/Latino with the next largest group of people is Chinese/Asian. The unemployment level is 12.7% and 36% of the population there is living at or below the poverty level. The high school dropout rate in Lincoln Heights is 33%. This project will aim to impact the following groups of people: \r\nYoung people ages 18 – 24: In addition to the services offered by LEAD YouthBuild, the organizational skills they will develop and community outreach training and experience they will obtain through this project will serve as work experience and leadership experience benefiting them in future employment and/or college enrollment. \r\nPeople ages 25 – 40: This population will be targeted for the community needs assessment, educational forums, and dialogues that will be facilitated. \r\nPeople ages 40 – 75: This population will also be targeted for the community needs assessment, educational forums, and dialogues that will be facilitated. \r\nEach of these groups of people have needs and priorities that may be different from other age ranges. For real and long lasting connectedness to happen, all sides need to be heard and all sides need to be part of the dialogues that will take place with local elected officials and the neighborhood council.  \r\n "
   collaboration: "The following is a list potential partners and collaborations: \r\nLincoln Heights Neighborhood Council is the body representing the community we currently serve. We will gain support for our LEAD YouthBuild and invite them to become thought partners in the implementation of this project. Our goal is to build a good relationship with the neighborhood council, share their goals with the community and build a bridge for more community participation to happen. \r\nL.A. WORKS is a non-profit organization that manages a volunteer action center out of Lincoln Heights. Their goal is to empower Angelenos to address pressing social issues through volunteerism and community collaborations. In partnership, we can create a community volunteer project where people would conduct the community needs assessment surveys. \r\nMetro North WorkSource Center serves the area of Northeast Los Angeles. Their facility will be a great place for surveying people. They have on average 30-50 visitors per day. \r\nYouthBuild Charter School of California currently serves as our educational partner for LEAD YouthBuild. We will work with them to incorporate a service-learning piece into our educational curriculum that would allow students to gain experience and training in community outreach. \r\nUCLA is an existing partner of LEAD YouthBuild and will be helping us build a “College Career Center” for the community. Because of our existing relationship, we are able to reach out to the Urban Planning Department and partner with them in order to compile and analyzing the data generated by the community needs assessment surveys. \r\nYouthBuild USA is a national organization comprised of 200+ youth development programs whose mission is to unleash the intelligence and positive energy of low-income youth to rebuild their communities and their lives. We are an affiliate of YouthBuild USA and are able to access and leverage pass-through grants that enhance our educational services, case management services, and leadership development.   \r\nWe will also reach out to local churches and ask for support in getting the needs assessment surveys filled out by their members. \r\n "
-  org_name: 'Leadership through Empowerment, Actin, and Dialogue Inc. (LEAD)'
-  metrics_connect_voting: '1'
-  metrics_connect_adultsupport: '0'
-  city_state: 'Commerce, CA '
-  metrics_connect_culturalevents: '0'
-  metrics_connect_publictransit: '0'
-  metrics_connect_neighborhoodcouncils: '1'
-  metrics_connect_volunteer: '1'
-  metrics_connect_govresponsiveness: '1'
-  metrics_connect_transitaccessible: '0'
-  metrics_connect_socialmedia: '1'
-  metrics_connect_attendance: '0'
-  metrics_connect_residential segregation: '0'
-  metrics_connect_wifi: '0'
-  metrics_connect_other: '0'
-  metrics_connect_blank: ''
-  resources_network: '0'
-  best_place_to_learn: '0'
-  best_place_to_create: '1'
-  healthiest_place_to_live: '0'
-  best_place_to_play: '0'
   evaluate: "In 12 months, we will activate 100 people in the community of Lincoln Heights in volunteerism and service who would otherwise not do it on their own. This will include surveying people in the community, participating in educational forums, participating in local neighborhood council meetings and city council meetings. Our ultimate goal is to inspire our community members to one day become neighborhood council members themselves.\r\nIn 12 months we will register a minimum of 200 people to vote of which 80% will be of Hispanic/Latino backgrounds. This will not just increase the number of registered voters but raise the number amongst a demographic that historically votes at low rates. \r\nIn 12 months, we will empower 25 community members to join local neighborhood council committees and/or run for a neighborhood council seat. \r\nIn 12 months, we will increase our Facebook likes to 1000.\r\nIn 12 months, we will increase our twitter followers by 100% (from 68 to 136). \r\n "
   two_lessons: >-
     During the 2013 mayoral election in Los Angeles, 222,300 people (12.4% of
@@ -157,39 +113,19 @@ maker_answers:
     communities to become more civically active in order for more of the
     population being represented when decisions are being made and when election
     are being decided.   
-  achievable_goal: >-
-    LEAD has built a great reputation locally and nationally and we have been
-    able to build partnership with several individuals and organization. Our
-    goal of putting forth a community needs assessment, followed by a voter
-    registration campaign and dialogues between elected officials, the
-    neighborhood council, and community members are goals that we have the
-    capacity and knowledge to execute. Two members of our Board of Directors are
-    connected to their local neighborhood councils: Hector Huezo is the Chair of
-    the Neighborhood Council Alliance of River Communities and is a Neighborhood
-    Council Budget Advocate; Albert Ramirez is a member of the Wilmington
-    Neighborhood Council. In addition, another Board Member, Frank Alvarez, is a
-    Senior Organizer with Los Alliance for a New Economy (LAANE), with more than
-    10 years’ experience in community organizing, capacity building, and
-    advocacy. They will help us put together a plan for working with Lincoln
-    Neighborhood Council and help us navigate through local politics. They have
-    years of experience in engaging community members in local politics and will
-    be assets to us in this project. Because of our LEAD YouthBuild Program, we
-    have ongoing programs which we can tap into and use for the benefit of this
-    project. We will be able to leverage multiple streams of funding in
-    conjunction with funding from LA2050. We have built a solid foundation of
-    individual donors and supporters that we can easily tap into for support in
-    this project. We are strategically located in the center of Lincoln Heights
-    and our site is easily accessible to the community.  
+  more_detail: >-
+    Lincoln Heights has a rich history of activism and civic engagement. LEAD
+    will re-ignite Lincoln Heights.  LEAD will develop a Community Needs
+    Assessment to better understand priorities and social needs of Angelenos in
+    Lincoln Heights. The results of the assessment will give the community,
+    elected officials, and the local neighborhood council quantitative and
+    qualitative data of community priorities, needs, and the social issues where
+    most services and resources are needed. This is the first step in bringing
+    more attention to Lincoln Heights and helping Angelenos shed light on what
+    they really care about. We then will empower the community to become more
+    civically active through voting and participation in their local
+    neighborhood council. 
   major_challenges: "One of the barriers we will face is getting the community to become open about sharing their feelings and viewpoints about social issues and what they care about. Within family settings, the workplace, and school, discussing social issues can be tricky and sometimes controversial especially when you encounter people who are really passionate about a particular subject. We will have to develop relationships with community members and leaders and utilize great communication strategies. Partnering up with existing organization and institutions like churches and schools can help us with initiating conversations and we can begin to build trust with community members. \r\nThe second barrier we will face is skepticism. As mentioned before, many people in Lincoln Heights do not have the best opinions about politics and the way local issues are being addressed. As we explain to people the changes that can come about through volunteerism, voting, and involvement in local politics, people will need to see small accomplishments in order to continue to stay engaged and motivated. We will facilitate the process of dialogues between the community, local elected officials, and the local neighborhood councils in order to show that community that they can be heard if the community continues to be active and connected. Our goal for the first 12 months will be to help the community find solutions for small scale issues and then continue to work with them to tackle bigger community problems. We want to make it visual for the community to see. Based on the information we get back from our surveys, we can show the community what areas of importance can be accomplished sooner and what issues will need continuous community participation in order to affect change. We need to do a lot of positive reinforcement to the people we will work with and the community at large. Posting flyers with positive messages and successes stories will be part of that strategy. \r\n "
-  competition: "Southeast Asian Community Alliance (SEACA) is a non-profit that works to build an empowered community through leadership development, education, and advocacy, and community organizing. One of their focus areas is building youth leadership in the community of Northeast Los Angeles. \r\nLegacy LA is a community based non-profit organization whose mission is to make positive interventions in the lives of young people by offering alternatives to gangs and violence. The also build the capacity of young people to help them reach their full potential and equip them with the tools to transform their lives. \r\nYouthBuild Boyle Heights’ mission is to cultivate collaborative learning communities in which every student has the right to an authentic education and plays a meaningful role in creating positive social change. \r\nThese three organization have different aspects that can be complementary to what LEAD is trying to do. LEAD is unique in that we are building bridges between different age groups in the community that do not normally communicate or work together. We are going to incorporate this project into our educational curriculum and give young people service-learning opportunities that will translate into leadership development and job training skills. We can use this vehicle to spark the interest in young people to see the service sector as a place for potential careers. We are also in a unique position in that we have existing relationship with local elected officials, neighborhood councils, and community leaders and we can use this to better inform this project and influence the community in a positive way. Our approach to connecting Angelenos is to invite people from different walks of lives and different perspectives to the table when discussing community needs and solutions. Our use of social media in building supporters and igniting dialogues will set us apart from other organizations. \r\n "
-  resources_money: '1'
-  resources_staff: '0'
-  resources_publicity: '1'
-  resources_infrastructure: '0'
-  resources_education: '1'
-  resources_technical: '0'
-  resources_communityoutreach: '1'
-  resources_research: '0'
   Which area(s) of LA does your project benefit?:
     - Lincoln Heights and Northeast LA
   Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
