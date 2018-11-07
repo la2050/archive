@@ -28,16 +28,14 @@ ein: '953038398'
 zip: ''
 project_image: 'https://img.youtube.com/vi/nPa4Lu7CMPA/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/ALOT.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102027'
 project_titles:
   - 'The A LOT Initiative: Using Art to Activate Vacant City Lots'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/ALOT.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102027'
 youtube_video_identifier: nPa4Lu7CMPA
 cached_project_image: >-
   https://archive-assets.la2050.org/images/arts-council-for-long-beach/img.youtube.com/vi/nPa4Lu7CMPA/hqdefault.jpg

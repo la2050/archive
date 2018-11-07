@@ -49,17 +49,15 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17017%252Fdisplay%252F360.png=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/C-360.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102065'
 project_titles:
   - Collaborative 360 – Creating Successful Pathways to 2050
   - Collaborative 360 — Creating Successful Pathways to 2050
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/C-360.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102065'
 maker_image_file_name: 360.png
 maker_image_id: '17017'
 cached_project_image: >-

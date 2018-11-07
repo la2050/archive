@@ -28,16 +28,14 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17034%252Fdisplay%252FDiva_Mob_with_logo.jpeg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/craftservices.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102083'
 project_titles:
   - Craft Services
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/craftservices.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102083'
 maker_image_file_name: Diva_Mob_with_logo.jpeg
 maker_image_id: '17034'
 cached_project_image: >-

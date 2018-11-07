@@ -15,15 +15,13 @@ ein: '954479271'
 zip: '90015'
 project_image: 'https://img.youtube.com/vi/uz4evo3B7qw/hqdefault.jpg'
 project_video: ''
+challenge_url: []
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102098'
 project_titles:
   - SFCLA - Serving Hope and Veggies where LA needs it most!
-aggregated:
-  challenge_url: []
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102098'
 youtube_video_identifier: uz4evo3B7qw
 cached_project_image: >-
   https://archive-assets.la2050.org/images/st-francis-center/img.youtube.com/vi/uz4evo3B7qw/hqdefault.jpg

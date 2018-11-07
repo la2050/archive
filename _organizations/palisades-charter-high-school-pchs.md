@@ -21,16 +21,14 @@ ein: '92184898'
 zip: '90272'
 project_image: 'https://img.youtube.com/vi/XUlv1Zd4JZU/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/PaliHigh2015.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102226'
 project_titles:
   - Palisades Charter High - Guiding the Path to College & Career Success!
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/PaliHigh2015.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102226'
 youtube_video_identifier: XUlv1Zd4JZU
 cached_project_image: >-
   https://archive-assets.la2050.org/images/palisades-charter-high-school-pchs/img.youtube.com/vi/XUlv1Zd4JZU/hqdefault.jpg

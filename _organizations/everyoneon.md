@@ -22,22 +22,20 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3786211355741-team91.jpg
 project_video: 'https://www.youtube.com/embed/SArUqu9L8eI?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/connect-with-promise-providing-internet-connectivity-devices-to-families-in-public-housing
+year_submitted:
+  - '2016'
+  - '2014'
+project_ids:
+  - '6102065'
+  - '4102067'
 project_titles:
   - 'Bridging the Divide in LA: Language and Digital Literacy Pilot'
   - >-
     Connect with Promise: Providing Internet Connectivity & Devices to Families
     in Public Housing
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/connect-with-promise-providing-internet-connectivity-devices-to-families-in-public-housing
-  year_submitted:
-    - '2016'
-    - '2014'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102065'
-  - '4102067'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/everyoneon/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3786211355741-team91.jpg
 

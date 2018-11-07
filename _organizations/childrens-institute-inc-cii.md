@@ -23,16 +23,14 @@ ein: '951641424'
 zip: '90026'
 project_image: 'https://img.youtube.com/vi/3AOHXhfJeho/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/CIIACES.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102053'
 project_titles:
   - Building Healthy Futures for Children Who’ve Experienced Trauma
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/CIIACES.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102053'
 youtube_video_identifier: 3AOHXhfJeho
 cached_project_image: >-
   https://archive-assets.la2050.org/images/childrens-institute-inc-cii/img.youtube.com/vi/3AOHXhfJeho/maxresdefault.jpg

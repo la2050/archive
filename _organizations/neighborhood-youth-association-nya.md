@@ -38,17 +38,15 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17025%252Fdisplay%252FBoy_reading_to_younger_kids.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/NYAforLA.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102203'
 project_titles:
   - Educating LA's Youth for a Better Future
   - Educating LAs Youth for a Better Future
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/NYAforLA.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102203'
 maker_image_file_name: Boy_reading_to_younger_kids.jpg
 maker_image_id: '17025'
 cached_project_image: >-

@@ -44,17 +44,15 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17044%252Fdisplay%252FFLAA1.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/FLAADanceBachata.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102130'
 project_titles:
   - Shall We Dance in LA?
   - Shall We Dance?
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/FLAADanceBachata.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102130'
 maker_image_file_name: FLAA1.jpg
 maker_image_id: '17044'
 cached_project_image: >-

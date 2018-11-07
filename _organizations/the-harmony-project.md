@@ -23,19 +23,17 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4845089986741-team90.JPG
 project_video: 'https://www.youtube.com/embed/Kep3gB10R3I?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/give-music-change-lives-the-expansion-of-harmony-projects-transformative-program-into-south-la
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102243'
 project_titles:
   - >-
     Give Music Change Lives: The expansion of Harmony Project’s transformative
     program into South LA
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/give-music-change-lives-the-expansion-of-harmony-projects-transformative-program-into-south-la
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102243'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-harmony-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4845089986741-team90.JPG
 

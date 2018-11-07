@@ -22,19 +22,17 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4898814105741-team90.jpg
 project_video: 'https://www.youtube.com/embed/wA3zYsq4f3I?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/fighting-child-obesity-through-the-transformation-of-physical-education-in-los-angeles
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102211'
 project_titles:
   - >-
     Fighting Child Obesity Through the Transformation of Physical Education in
     Los Angeles
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/fighting-child-obesity-through-the-transformation-of-physical-education-in-los-angeles
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102211'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/sound-body-sound-mind-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4898814105741-team90.jpg
 

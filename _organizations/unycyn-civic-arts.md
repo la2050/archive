@@ -17,6 +17,12 @@ ein: '473612459'
 zip: '90272'
 project_image: 'https://img.youtube.com/vi/1Qmy2pX9eEo/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050play2015/projects/mountainstosea.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102334'
 project_titles:
   - >-
     From the Mountains to the Sea, growing Civic Art Gardens with schools along
@@ -24,14 +30,6 @@ project_titles:
   - >-
     From the Mountains to the Sea growing Civic Art Gardens with schools along
     the LA River
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050play2015/projects/mountainstosea.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102334'
 youtube_video_identifier: 1Qmy2pX9eEo
 cached_project_image: >-
   https://archive-assets.la2050.org/images/unycyn-civic-arts/img.youtube.com/vi/1Qmy2pX9eEo/maxresdefault.jpg

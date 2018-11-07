@@ -23,19 +23,17 @@ zip: '90007'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23775%252Fdisplay%252FCB_Logo.jpg=c570x385
 project_video: ''
-project_titles:
-  - South Los Angeles Healthy Corner Store Conversion Program
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/ChildrensBureau.html'
-    - 'http://maker.good.is/myla2050/projects/belong.html'
-  year_submitted:
-    - '2015'
-    - '2013'
-year_submitted: '2015'
-calculated_project_ids:
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/ChildrensBureau.html'
+  - 'http://maker.good.is/myla2050/projects/belong.html'
+year_submitted:
+  - '2015'
+  - '2013'
+project_ids:
   - '5102054'
   - '3102060'
+project_titles:
+  - South Los Angeles Healthy Corner Store Conversion Program
 maker_image_file_name: CB_Logo.jpg
 maker_image_id: '23775'
 cached_project_image: >-

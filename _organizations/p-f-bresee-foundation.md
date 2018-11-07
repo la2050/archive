@@ -22,6 +22,15 @@ ein: '953797363'
 zip: '90004'
 project_image: 'https://img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050play2015/projects/BreseeLA.html'
+  - 'http://maker.good.is/myla2050/projects/Bresee.html'
+year_submitted:
+  - '2015'
+  - '2013'
+project_ids:
+  - '5102225'
+  - '3102219'
 project_titles:
   - >-
     Bresee’s Safe Place to Play for over 2,500 Youth and Families in Central Los
@@ -29,17 +38,6 @@ project_titles:
   - >-
     Bresee’s Safe Place to Play for over 2500 Youth and Families in Central Los
     Angeles
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050play2015/projects/BreseeLA.html'
-    - 'http://maker.good.is/myla2050/projects/Bresee.html'
-  year_submitted:
-    - '2015'
-    - '2013'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102225'
-  - '3102219'
 youtube_video_identifier: yeyzmCpYfFk
 cached_project_image: >-
   https://archive-assets.la2050.org/images/p-f-bresee-foundation/img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg

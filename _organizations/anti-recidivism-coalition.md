@@ -23,16 +23,14 @@ ein: '462140915'
 zip: '90013'
 project_image: 'https://img.youtube.com/vi/jxDLaDNSLjo/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/reduceLArecidivism.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102017'
 project_titles:
   - Developing a Peer Mentorship Model in Juvenile Halls to Build a Healthier LA
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/reduceLArecidivism.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102017'
 youtube_video_identifier: jxDLaDNSLjo
 cached_project_image: >-
   https://archive-assets.la2050.org/images/anti-recidivism-coalition/img.youtube.com/vi/jxDLaDNSLjo/maxresdefault.jpg

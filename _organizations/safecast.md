@@ -15,15 +15,13 @@ ein: '770462154'
 zip: '90232'
 project_image: 'https://img.youtube.com/vi/Cb6MAN2lVkg/hqdefault.jpg'
 project_video: ''
+challenge_url: []
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102092'
 project_titles:
   - Help build a Realtime Environmental Sensor Network
-aggregated:
-  challenge_url: []
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102092'
 youtube_video_identifier: Cb6MAN2lVkg
 cached_project_image: >-
   https://archive-assets.la2050.org/images/safecast/img.youtube.com/vi/Cb6MAN2lVkg/hqdefault.jpg

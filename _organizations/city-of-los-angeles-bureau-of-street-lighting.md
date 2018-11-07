@@ -23,17 +23,15 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/city-of-los-angeles-bureau-of-street-lighting.jpg
 project_video: 'https://youtu.be/tVCxc_xD6Xo'
+challenge_url:
+  - >-
+    https://activation.la2050.org/live/city-of-los-angeles-bureau-of-street-lighting/
+year_submitted:
+  - '2018'
+project_ids:
+  - '8102026'
 project_titles:
   - 'AirCareLA, an Air Quality Education Pilot'
-aggregated:
-  challenge_url:
-    - >-
-      https://activation.la2050.org/live/city-of-los-angeles-bureau-of-street-lighting/
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102026'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/city-of-los-angeles-bureau-of-street-lighting/activation.la2050.org/assets/images/live/2048-wide/city-of-los-angeles-bureau-of-street-lighting.jpg
 

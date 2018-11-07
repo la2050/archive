@@ -37,16 +37,14 @@ ein: '270983281'
 zip: ''
 project_image: 'https://img.youtube.com/vi/rt9TuksVaZU/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/LARiversideCC.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102172'
 project_titles:
   - PLUNGE into the waters of the LA River
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/LARiversideCC.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102172'
 youtube_video_identifier: rt9TuksVaZU
 cached_project_image: >-
   https://archive-assets.la2050.org/images/la-riverside-country-club/img.youtube.com/vi/rt9TuksVaZU/maxresdefault.jpg

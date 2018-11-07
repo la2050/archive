@@ -21,16 +21,14 @@ ein: '432067664'
 zip: '90043'
 project_image: 'https://img.youtube.com/vi/c9y0Bp8kgT4/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/SecondChances.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102104'
 project_titles:
   - Creating Brighter Futures through Second Chances
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/SecondChances.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102104'
 youtube_video_identifier: c9y0Bp8kgT4
 cached_project_image: >-
   https://archive-assets.la2050.org/images/foundation-for-second-chances/img.youtube.com/vi/c9y0Bp8kgT4/maxresdefault.jpg

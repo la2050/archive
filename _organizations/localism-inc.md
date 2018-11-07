@@ -19,18 +19,16 @@ ein: '452177652'
 zip: '90802'
 project_image: 'https://img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050create2015/projects/madeinlongbeach.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102181'
 project_titles:
   - >-
     MADE in Long Beach: Fostering independent entrepreneurship to accelerate the
     local economy
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050create2015/projects/madeinlongbeach.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102181'
 youtube_video_identifier: TNz5Q0G-KAs
 cached_project_image: >-
   https://archive-assets.la2050.org/images/localism-inc/img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg

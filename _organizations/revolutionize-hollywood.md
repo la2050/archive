@@ -23,18 +23,16 @@ zip: '90024'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/revolutionize-hollywood.jpg
 project_video: ''
+challenge_url:
+  - 'https://activation.la2050.org/create/revolutionize-hollywood/'
+year_submitted:
+  - '2018'
+project_ids:
+  - '8102103'
 project_titles:
   - >-
     Revolutionize Hollywood Presents: The ArTrepreneur software a digital Market
     Place for creatives.
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/create/revolutionize-hollywood/'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102103'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/revolutionize-hollywood/activation.la2050.org/assets/images/create/2048-wide/revolutionize-hollywood.jpg
 

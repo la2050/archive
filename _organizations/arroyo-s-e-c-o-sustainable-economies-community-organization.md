@@ -19,16 +19,14 @@ ein: '453003702'
 zip: '90026'
 project_image: 'https://img.youtube.com/vi/ytlmnttRP70/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050connect/projects/ShareLA.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102014'
 project_titles:
   - ShareLA
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050connect/projects/ShareLA.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102014'
 youtube_video_identifier: ytlmnttRP70
 cached_project_image: >-
   https://archive-assets.la2050.org/images/arroyo-s-e-c-o-sustainable-economies-community-organization/img.youtube.com/vi/ytlmnttRP70/maxresdefault.jpg

@@ -21,6 +21,12 @@ ein: '275115367'
 zip: ''
 project_image: 'https://img.youtube.com/vi/jUd4odIOyuc/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/thrdPlace.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102110'
 project_titles:
   - >-
     At thrdPlace, our idea for LA2050 is to provide the digital infrastructure
@@ -28,14 +34,6 @@ project_titles:
   - >-
     At thrdPlace our idea for LA2050 is to provide the digital infrastructure
     for community development
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/thrdPlace.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102110'
 youtube_video_identifier: jUd4odIOyuc
 cached_project_image: >-
   https://archive-assets.la2050.org/images/thrdplace/img.youtube.com/vi/jUd4odIOyuc/hqdefault.jpg

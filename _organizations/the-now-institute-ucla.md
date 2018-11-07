@@ -20,16 +20,14 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7070315265741-team91.png
 project_video: 'https://www.youtube.com/embed/622Zh36LYZ0?rel=0&amp;showinfo=0'
+challenge_url:
+  - 'https://challenge.la2050.org/entry/sustainable-la-2050-gis-portal'
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102251'
 project_titles:
   - Sustainable LA 2050 GIS Portal
-aggregated:
-  challenge_url:
-    - 'https://challenge.la2050.org/entry/sustainable-la-2050-gis-portal'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102251'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-now-institute-ucla/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7070315265741-team91.png
 

@@ -28,20 +28,18 @@ zip: '90048'
 project_image: >-
   https://activation.la2050.org/assets/images/play/2048-wide/kounkuey-design-initiative.jpg
 project_video: 'https://www.youtube.com/watch?v=50O1szspYcg'
+challenge_url:
+  - 'https://activation.la2050.org/play/kounkuey-design-initiative/'
+  - 'http://maker.good.is/myLA2050play/projects/UnlocktheBlock.html'
+year_submitted:
+  - '2018'
+  - '2014'
+project_ids:
+  - '8102058'
+  - '4102106'
 project_titles:
   - 'Play YOUR way, LA!'
   - 'Unlock the Block: Bringing Play Streets to Los Angeles'
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/play/kounkuey-design-initiative/'
-    - 'http://maker.good.is/myLA2050play/projects/UnlocktheBlock.html'
-  year_submitted:
-    - '2018'
-    - '2014'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102058'
-  - '4102106'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/kounkuey-design-initiative/activation.la2050.org/assets/images/play/2048-wide/kounkuey-design-initiative.jpg
 

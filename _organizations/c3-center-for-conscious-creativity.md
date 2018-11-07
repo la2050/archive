@@ -41,16 +41,14 @@ ein: '908738355'
 zip: ''
 project_image: 'https://img.youtube.com/vi/n_itMCVl124/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/f2futurefest.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102045'
 project_titles:
   - f2 FutureFest LA
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/f2futurefest.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102045'
 youtube_video_identifier: n_itMCVl124
 cached_project_image: >-
   https://archive-assets.la2050.org/images/c3-center-for-conscious-creativity/img.youtube.com/vi/n_itMCVl124/maxresdefault.jpg

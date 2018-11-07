@@ -50,16 +50,14 @@ ein: '951642394'
 zip: ''
 project_image: 'https://img.youtube.com/vi/jGa5KEowRPM/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/collegecapacity.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102224'
 project_titles:
   - Increasing Capacity for College Going
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/collegecapacity.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102224'
 youtube_video_identifier: jGa5KEowRPM
 cached_project_image: >-
   https://archive-assets.la2050.org/images/pullias-center-for-higher-education/img.youtube.com/vi/jGa5KEowRPM/maxresdefault.jpg

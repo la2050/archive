@@ -30,18 +30,16 @@ ein: '956102146'
 zip: ''
 project_image: 'https://img.youtube.com/vi/VpqSppE8ppo/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/RADARLA2013.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102227'
 project_titles:
   - >-
     RADAR L.A. International Theater Festival; A vital investment in L.A.Theater
     Artists
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/RADARLA2013.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102227'
 youtube_video_identifier: VpqSppE8ppo
 cached_project_image: >-
   https://archive-assets.la2050.org/images/redcat-the-roy-and-edna-disney-calarts-theater/img.youtube.com/vi/VpqSppE8ppo/hqdefault.jpg

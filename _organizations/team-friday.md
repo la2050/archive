@@ -32,16 +32,14 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17024%252Fdisplay%252FUSE.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/artmageddon.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102104'
 project_titles:
   - ARTmageddon
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/artmageddon.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102104'
 maker_image_file_name: USE.jpg
 maker_image_id: '17024'
 cached_project_image: >-

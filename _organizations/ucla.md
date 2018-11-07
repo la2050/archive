@@ -22,6 +22,14 @@ zip: 90095-1656
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23820%252Fdisplay%252FTIER.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/TIER.html'
+year_submitted:
+  - '2015'
+  - '2014'
+project_ids:
+  - '5102327'
+  - '4102241'
 project_titles:
   - >-
     Making Los Angeles the most technologically progressive and healthy city in
@@ -31,16 +39,6 @@ project_titles:
     awareness and engagement.  
   - 'Trauma Informed Educational Reform: The TIER Project'
   - Securing a Sustainable and Empowered Los Angeles
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/TIER.html'
-  year_submitted:
-    - '2015'
-    - '2014'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102327'
-  - '4102241'
 maker_image_file_name: TIER.jpg
 maker_image_id: '23820'
 cached_project_image: >-

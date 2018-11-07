@@ -22,16 +22,14 @@ ein: '954302067'
 zip: ''
 project_image: 'https://img.youtube.com/vi/q0_2OnUiDiU/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/sustainableworks.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102240'
 project_titles:
   - 'Sustainable Works Presents Dr. Keeling’s Curve '
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/sustainableworks.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102240'
 youtube_video_identifier: q0_2OnUiDiU
 cached_project_image: >-
   https://archive-assets.la2050.org/images/sustainable-works-a-project-of-community-partners/img.youtube.com/vi/q0_2OnUiDiU/maxresdefault.jpg

@@ -21,27 +21,25 @@ zip: '90029'
 project_image: >-
   https://www.tpl.org/sites/default/files/styles/1400x609/public/10mw_nationalwalktoaparkday_homepage1400x609_10012018.jpg?itok=OHPrb8Ri
 project_video: ''
+challenge_url:
+  - 'https://activation.la2050.org/play/the-trust-for-public-land/'
+  - >-
+    https://challenge.la2050.org/entry/green-alleys-initiative-–-transforming-polluted-alleys-into-vibrant-water-smart-green-space
+  - 'http://maker.good.is/myLA2050live/projects/GreenOurAlleys.html'
+year_submitted:
+  - '2018'
+  - '2016'
+  - '2014'
+project_ids:
+  - '8102123'
+  - '6102259'
+  - '4102245'
 project_titles:
   - >-
     Green Alleys Initiative – Transforming Polluted Alleys into Vibrant,
     Water-Smart Green Space
   - Play LA! Open Spaces for LA2050!
   - The Trust for Public Land’s Avalon Green Alley Demonstration Project
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/play/the-trust-for-public-land/'
-    - >-
-      https://challenge.la2050.org/entry/green-alleys-initiative-–-transforming-polluted-alleys-into-vibrant-water-smart-green-space
-    - 'http://maker.good.is/myLA2050live/projects/GreenOurAlleys.html'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2014'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102123'
-  - '6102259'
-  - '4102245'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-trust-for-public-land/www.tpl.org/sites/default/files/styles/1400x609/public/10mw_nationalwalktoaparkday_homepage1400x609_10012018.jpg
 

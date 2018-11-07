@@ -42,17 +42,15 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17068%252Fdisplay%252FLA2050.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/TheCreativeLab.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102111'
 project_titles:
   - 'Fuel LA''s Creative Economy, Help UNIQUE LA Build The Creative Lab!'
   - Fuel LAs Creative Economy Help UNIQUE LA Build The Creative Lab!
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/TheCreativeLab.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102111'
 maker_image_file_name: LA2050.jpg
 maker_image_id: '17068'
 cached_project_image: >-

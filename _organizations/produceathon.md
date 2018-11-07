@@ -22,6 +22,16 @@ ein: '300945310'
 zip: '90071'
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/produceathon.jpg'
 project_video: ''
+challenge_url:
+  - 'https://activation.la2050.org/create/produceathon/'
+  - >-
+    https://challenge.la2050.org/entry/storyteching-delivering-civic-innovation-via-storytelling-technology-based-incentive-challenges
+year_submitted:
+  - '2018'
+  - '2016'
+project_ids:
+  - '8102097'
+  - '6102190'
 project_titles:
   - >-
     #StoryTeching: Delivering civic innovation via storytelling & technology
@@ -29,18 +39,6 @@ project_titles:
   - >-
     ProduceAthon: When HackAthon Meets Incentive Challenge to Catalyze Social
     Change in 72-Hours
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/create/produceathon/'
-    - >-
-      https://challenge.la2050.org/entry/storyteching-delivering-civic-innovation-via-storytelling-technology-based-incentive-challenges
-  year_submitted:
-    - '2018'
-    - '2016'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102097'
-  - '6102190'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/produceathon/activation.la2050.org/assets/images/create/2048-wide/produceathon.jpg
 

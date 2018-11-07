@@ -21,18 +21,16 @@ ein: '954116679'
 zip: '90036'
 project_image: 'https://img.youtube.com/vi/yP9QgOVBaYA/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/ownyourhealthDharma.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102081'
 project_titles:
   - >-
     Own Your Health at Dharma Health Institute: Empowering communities to make
     healthy choices 
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/ownyourhealthDharma.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102081'
 youtube_video_identifier: yP9QgOVBaYA
 cached_project_image: >-
   https://archive-assets.la2050.org/images/dharma-health-institute/img.youtube.com/vi/yP9QgOVBaYA/maxresdefault.jpg

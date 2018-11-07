@@ -20,16 +20,14 @@ ein: '522237551'
 zip: 90065-0756
 project_image: 'https://img.youtube.com/vi/zs2Oe9X1llQ/maxresdefault.jpg'
 project_video: ''
+challenge_url: []
+year_submitted:
+  - '2014'
+  - '2014'
+project_ids:
+  - '4102144'
 project_titles:
   - Original Green Community Food Hub
-aggregated:
-  challenge_url: []
-  year_submitted:
-    - '2014'
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102144'
 youtube_video_identifier: zs2Oe9X1llQ
 cached_project_image: >-
   https://archive-assets.la2050.org/images/home-community-inc/img.youtube.com/vi/zs2Oe9X1llQ/maxresdefault.jpg

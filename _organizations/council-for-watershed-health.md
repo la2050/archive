@@ -22,20 +22,18 @@ ein: '261198327'
 zip: '90731'
 project_image: 'https://img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/healthystreams.html'
+  - 'http://maker.good.is/myla2050/projects/pulseoflosangeles.html'
+year_submitted:
+  - '2015'
+  - '2013'
+project_ids:
+  - '5102078'
+  - '3102093'
 project_titles:
   - Healthy Streams for Angelenos
   - 'The Pulse of Los Angeles: Assessing the Watersheds'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/healthystreams.html'
-    - 'http://maker.good.is/myla2050/projects/pulseoflosangeles.html'
-  year_submitted:
-    - '2015'
-    - '2013'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102078'
-  - '3102093'
 youtube_video_identifier: kQnTJYkpO4A
 cached_project_image: >-
   https://archive-assets.la2050.org/images/council-for-watershed-health/img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg

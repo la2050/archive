@@ -21,16 +21,14 @@ zip: '90007'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-master-chorale.jpg
 project_video: 'https://www.youtube.com/watch?v=hYsa-tWNTm8'
+challenge_url:
+  - 'https://activation.la2050.org/connect/los-angeles-master-chorale/'
+year_submitted:
+  - '2018'
+project_ids:
+  - '8102076'
 project_titles:
   - Big Sing LA
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/los-angeles-master-chorale/'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102076'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/los-angeles-master-chorale/activation.la2050.org/assets/images/connect/2048-wide/los-angeles-master-chorale.jpg
 

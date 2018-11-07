@@ -23,16 +23,14 @@ ein: '954255679'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/sisterblocks.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102196'
 project_titles:
   - Sister Blocks
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/sisterblocks.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102196'
 maker_image_file_name: mcmenyellowandwhite_final.jpg
 maker_image_id: '16057'
 cached_project_image: >-

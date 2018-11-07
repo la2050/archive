@@ -20,15 +20,13 @@ ein: '952782501'
 zip: '91754'
 project_image: 'https://img.youtube.com/vi/JAZZ3YBKHzY/maxresdefault.jpg'
 project_video: ''
+challenge_url: []
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102127'
 project_titles:
   - Seeding STEM at LA County Alliance for Boys and Girls Clubs
-aggregated:
-  challenge_url: []
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102127'
 youtube_video_identifier: JAZZ3YBKHzY
 cached_project_image: >-
   https://archive-assets.la2050.org/images/los-angeles-county-alliance-for-boys-and-girls-clubs-lacabgc-and-the-west-san-gabriel-valley-boys-and-girls-club/img.youtube.com/vi/JAZZ3YBKHzY/maxresdefault.jpg

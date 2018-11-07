@@ -20,16 +20,14 @@ zip: '90048'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22481%252Fdisplay%252FLA2050.png=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050connect/projects/laconversationmeals.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102154'
 project_titles:
   - LA Conversation Meals
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050connect/projects/laconversationmeals.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102154'
 maker_image_file_name: LA2050.png
 maker_image_id: '22481'
 cached_project_image: >-

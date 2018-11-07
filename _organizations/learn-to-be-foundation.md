@@ -51,6 +51,12 @@ ein: '261919770'
 zip: ''
 project_image: 'https://img.youtube.com/vi/RuF86dH0Bag/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/ltb.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102178'
 project_titles:
   - >-
     Crowdsourcing Education To Provide Free, One-on-one, Online Tutoring For
@@ -58,14 +64,6 @@ project_titles:
   - >-
     Crowdsourcing Education To Provide Free Oneonone Online Tutoring For
     Underserved Communities 
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/ltb.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102178'
 youtube_video_identifier: RuF86dH0Bag
 cached_project_image: >-
   https://archive-assets.la2050.org/images/learn-to-be-foundation/img.youtube.com/vi/RuF86dH0Bag/maxresdefault.jpg

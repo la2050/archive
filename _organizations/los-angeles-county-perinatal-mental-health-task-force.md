@@ -63,17 +63,15 @@ ein: '954302067'
 zip: ''
 project_image: 'https://img.youtube.com/vi/Xoof6-2YZ_U/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/SpeakUp.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102184'
 project_titles:
   - 'Speak Up When You''re Down: Maternal Mental Health Improvement Project'
   - 'Speak Up When Youre Down: Maternal Mental Health Improvement Project'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/SpeakUp.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102184'
 youtube_video_identifier: Xoof6-2YZ_U
 cached_project_image: >-
   https://archive-assets.la2050.org/images/los-angeles-county-perinatal-mental-health-task-force/img.youtube.com/vi/Xoof6-2YZ_U/hqdefault.jpg

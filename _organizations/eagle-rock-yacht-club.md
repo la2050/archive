@@ -21,22 +21,20 @@ ein: '272225420'
 zip: '90014'
 project_image: 'https://img.youtube.com/vi/aKgBQ7XR-pg/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050connect/projects/eryc.html'
+  - 'http://maker.good.is/myla2050/projects/theyachtclub.html'
+year_submitted:
+  - '2014'
+  - '2013'
+project_ids:
+  - '4102062'
+  - '3102116'
 project_titles:
   - ' Dodgeball, Community and the Common Good'
   - 'Dodgeball, Prosperity and the Common Good'
   - Dodgeball Community and the Common Good
   - Dodgeball Prosperity and the Common Good
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050connect/projects/eryc.html'
-    - 'http://maker.good.is/myla2050/projects/theyachtclub.html'
-  year_submitted:
-    - '2014'
-    - '2013'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102062'
-  - '3102116'
 youtube_video_identifier: aKgBQ7XR-pg
 cached_project_image: >-
   https://archive-assets.la2050.org/images/eagle-rock-yacht-club/img.youtube.com/vi/aKgBQ7XR-pg/hqdefault.jpg

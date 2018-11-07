@@ -20,18 +20,16 @@ zip: '90024'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20504%252Fdisplay%252Fmyla2.png=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050live/projects/start.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102039'
 project_titles:
   - >-
     Making Los Angeles the most technologically progressive and healthy city in
     the country
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050live/projects/start.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102039'
 maker_image_file_name: myla2.png
 maker_image_id: '20504'
 cached_project_image: >-

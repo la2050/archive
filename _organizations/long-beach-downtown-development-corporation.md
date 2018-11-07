@@ -20,17 +20,15 @@ zip: '90013'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/long-beach-downtown-development-corporation.jpg
 project_video: ''
+challenge_url:
+  - >-
+    https://activation.la2050.org/create/long-beach-downtown-development-corporation/
+year_submitted:
+  - '2018'
+project_ids:
+  - '8102071'
 project_titles:
   - The Sustainable Tech Intellectual Property Education Series (STIPES)
-aggregated:
-  challenge_url:
-    - >-
-      https://activation.la2050.org/create/long-beach-downtown-development-corporation/
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102071'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/long-beach-downtown-development-corporation/activation.la2050.org/assets/images/create/2048-wide/long-beach-downtown-development-corporation.jpg
 

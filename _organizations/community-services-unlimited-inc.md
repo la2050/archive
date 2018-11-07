@@ -21,16 +21,14 @@ ein: '953218396'
 zip: '90089'
 project_image: 'https://img.youtube.com/vi/CQsypZUTmbo/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/Earthdayeveryday.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102045'
 project_titles:
   - Earth Day Every Day
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/Earthdayeveryday.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102045'
 youtube_video_identifier: CQsypZUTmbo
 cached_project_image: >-
   https://archive-assets.la2050.org/images/community-services-unlimited-inc/img.youtube.com/vi/CQsypZUTmbo/maxresdefault.jpg

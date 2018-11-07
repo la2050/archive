@@ -41,16 +41,14 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16740%252Fdisplay%252Fposter1.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/Youth4CLeaders.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102064'
 project_titles:
   - LA2050 Youth 4C Leaders
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/Youth4CLeaders.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102064'
 maker_image_file_name: poster1.jpg
 maker_image_id: '16740'
 cached_project_image: >-

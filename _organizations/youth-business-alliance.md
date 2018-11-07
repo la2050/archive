@@ -22,21 +22,19 @@ zip: '90245'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4435758065741-team91.png
 project_video: ''
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/empower-low-income-youth-to-break-out-of-the-poverty-cycle!
+  - 'http://maker.good.is/myla2050learn2015/projects/YBA.html'
+year_submitted:
+  - '2016'
+  - '2015'
+project_ids:
+  - '6102287'
+  - '5102344'
 project_titles:
   - Empower low income youth to break out of the poverty cycle!
   - YOUTH BUSINESS ALLIANCE
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/empower-low-income-youth-to-break-out-of-the-poverty-cycle!
-    - 'http://maker.good.is/myla2050learn2015/projects/YBA.html'
-  year_submitted:
-    - '2016'
-    - '2015'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102287'
-  - '5102344'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/youth-business-alliance/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4435758065741-team91.png
 

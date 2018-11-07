@@ -40,16 +40,14 @@ ein: '900705279'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/mindfulschoolsLA.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102122'
 project_titles:
   - 'Mindful Education for LAUSD '
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/mindfulschoolsLA.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102122'
 maker_image_file_name: rachelschmid.elrio.jpg
 maker_image_id: '17107'
 cached_project_image: >-

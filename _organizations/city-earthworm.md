@@ -35,16 +35,14 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16537%252Fdisplay%252FLA2050.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/cityearthworm.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102010'
 project_titles:
   - You Can Compost That!
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/cityearthworm.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102010'
 maker_image_file_name: LA2050.jpg
 maker_image_id: '16537'
 cached_project_image: >-

@@ -23,17 +23,15 @@ ein: '912162719'
 zip: '90028'
 project_image: 'https://img.youtube.com/vi/t3QQPi2pnEU/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/weareready.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102010'
 project_titles:
   - 'W.A.R.: The Battle Starts With You... We Are Ready, Are You?'
   - 'W.A.R.: The Battle Starts With You... We Are Ready Are You?'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/weareready.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102010'
 youtube_video_identifier: t3QQPi2pnEU
 cached_project_image: >-
   https://archive-assets.la2050.org/images/after-school-all-stars-los-angeles/img.youtube.com/vi/t3QQPi2pnEU/maxresdefault.jpg

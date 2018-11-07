@@ -23,19 +23,16 @@ zip: '90004'
 project_image: >-
   https://activation.la2050.org/assets/images/play/2048-wide/the-brady-center-to-prevent-gun-violence.jpg
 project_video: 'https://www.youtube.com/watch?v=GpI8redM2To'
+challenge_url:
+  - 'https://activation.la2050.org/play/the-brady-center-to-prevent-gun-violence/'
+year_submitted:
+  - '2018'
+project_ids:
+  - '8102117'
 project_titles:
   - >-
     Inspiring Community Action to End Gun Violence in L.A. by Stopping “Bad
     Apple” Gun Dealers
-aggregated:
-  challenge_url:
-    - >-
-      https://activation.la2050.org/play/the-brady-center-to-prevent-gun-violence/
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102117'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-brady-center-to-prevent-gun-violence/activation.la2050.org/assets/images/play/2048-wide/the-brady-center-to-prevent-gun-violence.jpg
 

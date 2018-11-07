@@ -22,26 +22,24 @@ ein: '461134852'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/la-compost.jpg'
 project_video: 'https://youtu.be/QeunrIbUzt0'
+challenge_url:
+  - 'https://activation.la2050.org/connect/la-compost/'
+  - >-
+    https://challenge.la2050.org/entry/building-community-and-reducing-organic-waste-via-community-compost-hubs-throughout-la-county
+  - 'http://maker.good.is/myla2050live2015/projects/Composthubs.html'
+year_submitted:
+  - '2018'
+  - '2016'
+  - '2015'
+project_ids:
+  - '8102061'
+  - '6102119'
+  - '5102164'
 project_titles:
   - >-
     Building Community and reducing organic waste via Community Compost Hubs
     throughout LA County
   - Connect to Soil and People
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/la-compost/'
-    - >-
-      https://challenge.la2050.org/entry/building-community-and-reducing-organic-waste-via-community-compost-hubs-throughout-la-county
-    - 'http://maker.good.is/myla2050live2015/projects/Composthubs.html'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102061'
-  - '6102119'
-  - '5102164'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/la-compost/activation.la2050.org/assets/images/connect/2048-wide/la-compost.jpg
 

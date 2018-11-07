@@ -21,18 +21,16 @@ ein: '954473701'
 zip: '90027'
 project_image: 'https://img.youtube.com/vi/q9wQFn0hPbk/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050connect/projects/bridgetheatre.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102019'
 project_titles:
   - >-
     BRIDGE-ing Cultures and Cultivating Change in LA through Original Youth &
     Community Theatre
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050connect/projects/bridgetheatre.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102019'
 youtube_video_identifier: q9wQFn0hPbk
 cached_project_image: >-
   https://archive-assets.la2050.org/images/b-r-i-d-g-e-theatre-project-fiscal-sponsor-the-attic-theatre/img.youtube.com/vi/q9wQFn0hPbk/hqdefault.jpg

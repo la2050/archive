@@ -21,20 +21,18 @@ ein: '813470225'
 zip: '90021'
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg'
 project_video: ''
-project_titles:
-  - Farmers Market Delivery
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/create/the-natch-inc/'
-    - >-
-      https://challenge.la2050.org/entry/bringing-the-farmers-market-to-peoples-door
-  year_submitted:
-    - '2018'
-    - '2016'
-year_submitted: '2018'
-calculated_project_ids:
+challenge_url:
+  - 'https://activation.la2050.org/create/the-natch-inc/'
+  - >-
+    https://challenge.la2050.org/entry/bringing-the-farmers-market-to-peoples-door
+year_submitted:
+  - '2018'
+  - '2016'
+project_ids:
   - '8102120'
   - '6102208'
+project_titles:
+  - Farmers Market Delivery
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-natch-inc/activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg
 

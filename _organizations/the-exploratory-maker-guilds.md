@@ -1,14 +1,21 @@
 ---
-project_titles_flagged: 1
+uri: /organizations/the-exploratory-maker-guilds/
+aggregated:
+  org_summary:
+    - >-
+      We engage in food justice helping low-income food entrepreneurs in South
+      Los Angeles create family businesses that reduce food insecurity.
+    - >-
+      The Exploratory: Maker Guilds prepares children to become innovative
+      agents of their future through programming and curriculum development.
 project_titles_from_project_ids:
   - 'LA Mosaic Mecca Project: An Urban Mosaic Intervention on Skid Row'
-project_titles_from_extrapolated_project_ids: []
-uri: /organizations/the-exploratory-maker-guilds/
-organization_name: 'The Exploratory: Maker Guilds'
-ntee_type: ''
-challenge_url: ''
 organization_id_2: '2014200'
 areas_impacted: ''
+project_titles_from_extrapolated_project_ids: []
+organization_name: 'The Exploratory: Maker Guilds'
+project_titles_flagged: 1
+ntee_type: ''
 published: true
 organization_id: temporary__2014151__2
 title: 'The Exploratory: Maker Guilds'
@@ -28,24 +35,15 @@ ein: '522237551'
 zip: '90230'
 project_image: 'https://img.youtube.com/vi/7nv6O3U7szc/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050learn/projects/tinkermakeinnovate.html'
+year_submitted:
+  - '2014'
+  - '2014'
+project_ids:
+  - '4102211'
 project_titles:
   - The Shed Pasadena
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050learn/projects/tinkermakeinnovate.html'
-  org_summary:
-    - >-
-      We engage in food justice helping low-income food entrepreneurs in South
-      Los Angeles create family businesses that reduce food insecurity.
-    - >-
-      The Exploratory: Maker Guilds prepares children to become innovative
-      agents of their future through programming and curriculum development.
-  year_submitted:
-    - '2014'
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102211'
 original_project_ids:
   - '4102211'
 original_project_titles:

@@ -38,16 +38,14 @@ ein: '954856236'
 zip: ''
 project_image: 'https://img.youtube.com/vi/zVwm_GRMSHw/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/HARMONYPROJECT.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102145'
 project_titles:
   - 'Harmony Project '
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/HARMONYPROJECT.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102145'
 youtube_video_identifier: zVwm_GRMSHw
 cached_project_image: >-
   https://archive-assets.la2050.org/images/harmony-project/img.youtube.com/vi/zVwm_GRMSHw/maxresdefault.jpg

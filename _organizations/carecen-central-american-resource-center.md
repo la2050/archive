@@ -35,17 +35,15 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16608%252Fdisplay%252Fcollegeheadstart1.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/collegeheadstart.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102051'
 project_titles:
   - CARECEN's College Head Start
   - CARECENs College Head Start
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/collegeheadstart.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102051'
 maker_image_file_name: collegeheadstart1.jpg
 maker_image_id: '16608'
 cached_project_image: >-

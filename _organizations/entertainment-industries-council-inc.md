@@ -17,6 +17,12 @@ ein: '54259363'
 zip: '90069'
 project_image: 'https://img.youtube.com/vi/5paOc34oG84/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/EICGenerationNext.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102093'
 project_titles:
   - >-
     Generation Next: Ready on the SET and Action - Science, Technology,
@@ -24,14 +30,6 @@ project_titles:
   - >-
     Generation Next: Ready on the SET and Action - Science Technology
     Engineering Arts and Math
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/EICGenerationNext.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102093'
 youtube_video_identifier: 5paOc34oG84
 cached_project_image: >-
   https://archive-assets.la2050.org/images/entertainment-industries-council-inc/img.youtube.com/vi/5paOc34oG84/maxresdefault.jpg

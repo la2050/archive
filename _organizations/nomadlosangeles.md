@@ -20,16 +20,14 @@ zip: '90039'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21917%252Fdisplay%252Fstudio1.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/LAVA.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102159'
 project_titles:
   - 'Los Angeles Vital Arts : LAVA: COMMUNITY ART AND PRINTING LAB'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/LAVA.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102159'
 maker_image_file_name: studio1.jpg
 maker_image_id: '21917'
 cached_project_image: >-

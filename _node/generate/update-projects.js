@@ -1121,7 +1121,7 @@ function processFile(filename) {
   // organizationMarkdownFiles.forEach(item => {
   //   let organization_id = null
 
-  //   item.calculated_project_ids.forEach(project_id => {
+  //   item.project_ids.forEach(project_id => {
   //     if (data.yaml.project_id == project_id) {
   //       organization_id = item.organization_id
   //     }
@@ -1140,8 +1140,8 @@ function processFile(filename) {
   let suspectByTitle = []
   let text = getStringForComparison(fs.readFileSync(filename, 'utf8'))
   organizationMarkdownFiles.forEach(item => {
-    if (item.calculated_project_ids) {
-      item.calculated_project_ids.forEach(project_id => {
+    if (item.project_ids) {
+      item.project_ids.forEach(project_id => {
         if (data.yaml.project_id == project_id) {
           if (text.indexOf(getStringForComparison(item.title)) < 0) {
             if (item.published) suspectByTitle.push(item)
@@ -1159,7 +1159,7 @@ function processFile(filename) {
         }
       })
     } else {
-      // console.log("Coulnd’t find calculated_project_ids for organization:" + item.organization_id + " :: " + item.title)
+      // console.log("Coulnd’t find project_ids for organization:" + item.organization_id + " :: " + item.title)
     }
   })
 

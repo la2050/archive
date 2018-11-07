@@ -57,16 +57,14 @@ ein: '461878739'
 zip: ''
 project_image: 'https://img.youtube.com/vi/EZJvYnujihw/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/CityLife-LA.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102070'
 project_titles:
   - High School Students Shape the Future of Los Angeles
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/CityLife-LA.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102070'
 youtube_video_identifier: EZJvYnujihw
 cached_project_image: >-
   https://archive-assets.la2050.org/images/citylife-la/img.youtube.com/vi/EZJvYnujihw/maxresdefault.jpg

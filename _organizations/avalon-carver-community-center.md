@@ -21,19 +21,17 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0308329715741-team89.jpg
 project_video: 'https://www.youtube.com/embed/rGOQvQ3eOJk?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/mobile-stem-project-is-a-school-based-initiative-designed-to-eliminate-disparities-in-stem-education
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102013'
 project_titles:
   - >-
     Mobile STEM Project is a school based initiative designed to eliminate
     disparities in STEM education
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/mobile-stem-project-is-a-school-based-initiative-designed-to-eliminate-disparities-in-stem-education
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102013'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/avalon-carver-community-center/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0308329715741-team89.jpg
 

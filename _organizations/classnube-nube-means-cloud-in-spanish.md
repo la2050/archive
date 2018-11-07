@@ -22,6 +22,12 @@ ein: '474586012'
 zip: '91364'
 project_image: 'https://img.youtube.com/vi/UYdxlEZVaNA/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/classnube.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102065'
 project_titles:
   - >-
     Graduate thousands of L.A. High School Students with an Awesome Teacher & an
@@ -29,14 +35,6 @@ project_titles:
   - >-
     Graduate thousands of L.A. High School Students with an Awesome Teacher & an
     Innovative App
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/classnube.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102065'
 youtube_video_identifier: UYdxlEZVaNA
 cached_project_image: >-
   https://archive-assets.la2050.org/images/classnube-nube-means-cloud-in-spanish/img.youtube.com/vi/UYdxlEZVaNA/hqdefault.jpg

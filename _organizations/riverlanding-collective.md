@@ -76,18 +76,16 @@ ein: '900627151'
 zip: ''
 project_image: 'https://img.youtube.com/vi/_8WrWZXDKdQ/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/LARiverLanding.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102090'
 project_titles:
   - >-
     RiverLAnding : An expedition to prototype a “landing” on the banks of the
     Los Angeles River
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/LARiverLanding.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102090'
 youtube_video_identifier: _8WrWZXDKdQ
 cached_project_image: >-
   https://archive-assets.la2050.org/images/riverlanding-collective/img.youtube.com/vi/_8WrWZXDKdQ/hqdefault.jpg

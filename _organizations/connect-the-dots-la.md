@@ -23,18 +23,16 @@ zip: '90012'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24151%252Fdisplay%252FCtD_2050_Image_2.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/ConnecttheDotsLA.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102077'
 project_titles:
   - >-
     Connect the Dots LA:  Public Design Workshops for Realizing a Resilient
     Future
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/ConnecttheDotsLA.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102077'
 maker_image_file_name: CtD_2050_Image_2.jpg
 maker_image_id: '24151'
 cached_project_image: >-

@@ -21,18 +21,16 @@ zip: '90405'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/larchmont-charter-school.jpg
 project_video: 'https://www.youtube.com/watch?v=GjY2oTPnxak'
+challenge_url:
+  - 'https://activation.la2050.org/connect/larchmont-charter-school/'
+year_submitted:
+  - '2018'
+project_ids:
+  - '8102064'
 project_titles:
   - >-
     Larchmont Social Justice Alliance allows youth to speak up for social
     justice with a literary voice.
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/larchmont-charter-school/'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102064'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/larchmont-charter-school/activation.la2050.org/assets/images/connect/2048-wide/larchmont-charter-school.jpg
 

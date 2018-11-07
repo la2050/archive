@@ -19,15 +19,13 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21591%252Fdisplay%252Fless.png=c570x385
 project_video: ''
+challenge_url: []
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102116'
 project_titles:
   - Lab Equipment Access for LA Science Teachers
-aggregated:
-  challenge_url: []
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102116'
 maker_image_file_name: less.png
 maker_image_id: '21591'
 cached_project_image: >-

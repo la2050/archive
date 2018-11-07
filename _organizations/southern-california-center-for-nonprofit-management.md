@@ -21,19 +21,17 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0699377525741-team90.png
 project_video: 'http://bit.ly/2016-KP-CNM-Video?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/spark!-connect-convene-collaborate-will-promote-las-culture-of-interconnectedness
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102213'
 project_titles:
   - >-
     SPARK!: CONNECT-CONVENE-COLLABORATE will promote LA’s culture of
     interconnectedness
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/spark!-connect-convene-collaborate-will-promote-las-culture-of-interconnectedness
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102213'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/southern-california-center-for-nonprofit-management/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0699377525741-team90.png
 

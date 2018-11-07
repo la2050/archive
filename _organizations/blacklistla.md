@@ -23,21 +23,19 @@ zip: '90006'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733468065741-team91.JPG
 project_video: 'https://www.youtube.com/embed/YcJFmTnHOeE?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/-blacklistla-on-the-playground-where-we-spent-most-of-our-days
+  - 'http://maker.good.is/myla2050connect2015/projects/blacklistla.html'
+year_submitted:
+  - '2016'
+  - '2015'
+project_ids:
+  - '6102019'
+  - '5102029'
 project_titles:
   - BlacklistLA Moves Toward The Future
   - 'BlacklistLA: On the Playground Where We Spent Most of Our Days'
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/-blacklistla-on-the-playground-where-we-spent-most-of-our-days
-    - 'http://maker.good.is/myla2050connect2015/projects/blacklistla.html'
-  year_submitted:
-    - '2016'
-    - '2015'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102019'
-  - '5102029'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/blacklistla/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733468065741-team91.JPG
 

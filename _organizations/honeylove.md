@@ -37,17 +37,15 @@ ein: '452863213'
 zip: ''
 project_image: 'https://img.youtube.com/vi/TkvIb74D38g/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/HoneyLove.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102150'
 project_titles:
   - Pesticide-Free Los Angeles 2050
   - PesticideFree Los Angeles 2050
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/HoneyLove.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102150'
 youtube_video_identifier: TkvIb74D38g
 cached_project_image: >-
   https://archive-assets.la2050.org/images/honeylove/img.youtube.com/vi/TkvIb74D38g/hqdefault.jpg

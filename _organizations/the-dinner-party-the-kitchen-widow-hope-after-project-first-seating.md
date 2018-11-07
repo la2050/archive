@@ -29,19 +29,17 @@ ein: '954302067'
 zip: '90026'
 project_image: 'https://img.youtube.com/vi/YijVi1ZG5EM/maxresdefault.jpg'
 project_video: ''
-project_titles:
-  - The Good Grief Garden
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/goodgriefgarden.html'
-    - 'http://maker.good.is/myLA2050connect/projects/thedinnerparty.html'
-  year_submitted:
-    - '2015'
-    - '2014'
-year_submitted: '2015'
-calculated_project_ids:
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/goodgriefgarden.html'
+  - 'http://maker.good.is/myLA2050connect/projects/thedinnerparty.html'
+year_submitted:
+  - '2015'
+  - '2014'
+project_ids:
   - '5102300'
   - '4102210'
+project_titles:
+  - The Good Grief Garden
 youtube_video_identifier: YijVi1ZG5EM
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-dinner-party-the-kitchen-widow-hope-after-project-first-seating/img.youtube.com/vi/YijVi1ZG5EM/maxresdefault.jpg

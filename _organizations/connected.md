@@ -21,19 +21,17 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7618226615741-team90.jpg
 project_video: ''
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/careers-come-alive-virtually-in-the-classroom-by-connecting-students-teachers-workplace-experts
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102054'
 project_titles:
   - >-
     Careers Come Alive Virtually  in the Classroom by Connecting Students,
     Teachers & Workplace Experts
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/careers-come-alive-virtually-in-the-classroom-by-connecting-students-teachers-workplace-experts
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102054'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/connected/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7618226615741-team90.jpg
 

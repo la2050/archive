@@ -38,16 +38,14 @@ ein: '320308477'
 zip: ''
 project_image: 'https://img.youtube.com/vi/nO6H3p5HpV4/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/voices.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102126'
 project_titles:
   - Moving Voices of Los Angeles
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/voices.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102126'
 youtube_video_identifier: nO6H3p5HpV4
 cached_project_image: >-
   https://archive-assets.la2050.org/images/filipino-migrant-center/img.youtube.com/vi/nO6H3p5HpV4/hqdefault.jpg

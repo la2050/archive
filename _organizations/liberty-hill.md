@@ -56,18 +56,16 @@ ein: '510181191'
 zip: ''
 project_image: 'https://img.youtube.com/vi/kfEpQxhOtUk/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/bootcamp2050.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102180'
 project_titles:
   - Boot Camp 2050 for Change
   - Housing Long Beach
   - Khmer Girls in Action
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/bootcamp2050.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102180'
 youtube_video_identifier: kfEpQxhOtUk
 cached_project_image: >-
   https://archive-assets.la2050.org/images/liberty-hill/img.youtube.com/vi/kfEpQxhOtUk/hqdefault.jpg

@@ -22,19 +22,17 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7295760875741-team91.jpeg
 project_video: 'https://www.youtube.com/embed/rFJckDRj_3A?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/lit-is-a-community-block-party-with-curated-lights-and-music-featuring-local-sfv-talent
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102278'
 project_titles:
   - >-
     LIT is a community block party with curated lights and music featuring local
     SFV talent
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/lit-is-a-community-block-party-with-curated-lights-and-music-featuring-local-sfv-talent
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102278'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/valley-relics/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7295760875741-team91.jpeg
 

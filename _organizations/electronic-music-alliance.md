@@ -59,17 +59,15 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16296%252Fdisplay%252FEMAHeader.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/EMAPLAY.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102123'
 project_titles:
   - 'EMA PLAY:  Dance, Create, Think, Make the Future'
   - 'EMA PLAY:  Dance Create Think Make the Future'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/EMAPLAY.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102123'
 maker_image_file_name: EMAHeader.jpg
 maker_image_id: '16296'
 cached_project_image: >-

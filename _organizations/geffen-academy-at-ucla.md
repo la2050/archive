@@ -31,18 +31,16 @@ zip: '90017'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/geffen-academy-at-ucla.jpg
 project_video: 'https://youtu.be/m9NRl8lAdZY'
+challenge_url:
+  - 'https://activation.la2050.org/connect/geffen-academy-at-ucla/'
+year_submitted:
+  - '2018'
+project_ids:
+  - '8102043'
 project_titles:
   - >-
     RideLA. Rewarding Impact and Driving Engagement on LA’s Metro via a
     Blockchain based Mobile App.
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/geffen-academy-at-ucla/'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102043'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/geffen-academy-at-ucla/activation.la2050.org/assets/images/connect/2048-wide/geffen-academy-at-ucla.jpg
 

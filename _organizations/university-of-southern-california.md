@@ -25,24 +25,22 @@ zip: '90012'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/university-of-southern-california.jpg
 project_video: 'https://www.youtube.com/watch?v=6iKW4H-17BA'
+challenge_url:
+  - 'https://activation.la2050.org/connect/university-of-southern-california/'
+  - 'https://challenge.la2050.org/entry/open-ballot-la'
+year_submitted:
+  - '2018'
+  - '2016'
+  - '2014'
+project_ids:
+  - '8102133'
+  - '6102273'
+  - '4102125'
 project_titles:
   - Block LA
   - 'Learn, Share, Inspire'
   - Leveraging Neighborhood Data to Activate Local Change
   - Open Ballot LA
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/university-of-southern-california/'
-    - 'https://challenge.la2050.org/entry/open-ballot-la'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2014'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102133'
-  - '6102273'
-  - '4102125'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/university-of-southern-california/activation.la2050.org/assets/images/connect/2048-wide/university-of-southern-california.jpg
 

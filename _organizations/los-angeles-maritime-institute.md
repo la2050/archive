@@ -21,17 +21,15 @@ ein: '330515416'
 zip: '90731'
 project_image: 'https://img.youtube.com/vi/m_0WUOFanyM/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/adventureeducation.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102190'
 project_titles:
   - Adventure Education Aboard L.A.'s Official Tall Ships
   - Adventure Education Aboard L.A.s Official Tall Ships
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/adventureeducation.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102190'
 youtube_video_identifier: m_0WUOFanyM
 cached_project_image: >-
   https://archive-assets.la2050.org/images/los-angeles-maritime-institute/img.youtube.com/vi/m_0WUOFanyM/maxresdefault.jpg

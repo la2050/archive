@@ -23,26 +23,24 @@ zip: '90019'
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/los-angeles-service-academy-lasa.jpg
 project_video: 'https://youtu.be/uGjAQ4LYDr8'
-project_titles:
-  - Los Angeles is a Puzzle; Together We Make Sense of It
-  - Students Engaging Los Angeles
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/learn/los-angeles-service-academy-lasa/'
-    - >-
-      https://challenge.la2050.org/entry/los-angeles-is-a-puzzle-together-we-make-sense-of-it
-    - 'http://maker.good.is/myla2050connect2015/projects/LASA.html'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
-    - '2014'
-year_submitted: '2018'
-calculated_project_ids:
+challenge_url:
+  - 'https://activation.la2050.org/learn/los-angeles-service-academy-lasa/'
+  - >-
+    https://challenge.la2050.org/entry/los-angeles-is-a-puzzle-together-we-make-sense-of-it
+  - 'http://maker.good.is/myla2050connect2015/projects/LASA.html'
+year_submitted:
+  - '2018'
+  - '2016'
+  - '2015'
+  - '2014'
+project_ids:
   - '8102077'
   - '6102145'
   - '5102195'
   - '4102135'
+project_titles:
+  - Los Angeles is a Puzzle; Together We Make Sense of It
+  - Students Engaging Los Angeles
 cached_project_image: >-
   https://archive-assets.la2050.org/images/los-angeles-service-academy-lasa/activation.la2050.org/assets/images/learn/2048-wide/los-angeles-service-academy-lasa.jpg
 

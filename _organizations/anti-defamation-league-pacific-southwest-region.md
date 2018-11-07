@@ -18,16 +18,14 @@ ein: '131818723'
 zip: '90025'
 project_image: 'https://img.youtube.com/vi/3KyvlMJefR4/maxresdefault.jpg'
 project_video: ''
+challenge_url: []
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102010'
 project_titles:
   - 'Becoming An Ally: Stopping Bias and Bullying in Los Angeles Schools '
   - 'Becoming An Ally: Stopping Bias and Bullying in Los Angeles Schools'
-aggregated:
-  challenge_url: []
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102010'
 youtube_video_identifier: 3KyvlMJefR4
 cached_project_image: >-
   https://archive-assets.la2050.org/images/anti-defamation-league-pacific-southwest-region/img.youtube.com/vi/3KyvlMJefR4/maxresdefault.jpg

@@ -19,17 +19,15 @@ ein: '237448515'
 zip: '90078'
 project_image: 'https://img.youtube.com/vi/-MVQfBjaOS0/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050connect/projects/M3TNT.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102046'
 project_titles:
   - 'Meet Me @the Metro: Theater/In/Transit (M3TNT)  '
   - 'Meet Me @the Metro: Theater/In/Transit (M3TNT)'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050connect/projects/M3TNT.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102046'
 youtube_video_identifier: '-MVQfBjaOS0'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/company-of-angels-coa/img.youtube.com/vi/-MVQfBjaOS0/hqdefault.jpg

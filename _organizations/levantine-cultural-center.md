@@ -20,6 +20,12 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22605%252Fdisplay%252FMECAY-Education-Proposal-2014.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/ElevateLosAngeles.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102117'
 project_titles:
   - >-
     Creating Community With L.A.'s Cultural Center for the Middle East/North
@@ -27,14 +33,6 @@ project_titles:
   - >-
     Creating Community With L.A.s Cultural Center for the Middle East/North
     Africa
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/ElevateLosAngeles.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102117'
 maker_image_file_name: MECAY-Education-Proposal-2014.jpg
 maker_image_id: '22605'
 cached_project_image: >-

@@ -67,16 +67,14 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17003%252Fdisplay%252F130126-0191.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/StepUp.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102238'
 project_titles:
   - Professional women Step Up to help underserved teen girls graduate
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/StepUp.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102238'
 maker_image_file_name: 130126-0191.jpg
 maker_image_id: '17003'
 cached_project_image: >-

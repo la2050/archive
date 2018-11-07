@@ -94,16 +94,14 @@ ein: '943179772'
 zip: ''
 project_image: 'https://img.youtube.com/vi/tnpBsy1mGwQ/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/fundthisproject.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102021'
 project_titles:
   - 'LA v2.0: Transforming LA into a World Class Place to Live'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/fundthisproject.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102021'
 youtube_video_identifier: tnpBsy1mGwQ
 cached_project_image: >-
   https://archive-assets.la2050.org/images/angelenos-against-gridlock/img.youtube.com/vi/tnpBsy1mGwQ/hqdefault.jpg

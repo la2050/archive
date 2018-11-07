@@ -20,17 +20,15 @@ ein: '43657544'
 zip: '90049'
 project_image: 'https://img.youtube.com/vi/YufCYg-BYaY/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050play2015/projects/LittleDragons.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102036'
 project_titles:
   - Bruce Lee's Little Dragons
   - Bruce Lees Little Dragons
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050play2015/projects/LittleDragons.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102036'
 youtube_video_identifier: YufCYg-BYaY
 cached_project_image: >-
   https://archive-assets.la2050.org/images/bruce-lee-foundation/img.youtube.com/vi/YufCYg-BYaY/maxresdefault.jpg

@@ -23,16 +23,14 @@ ein: '95.2417645'
 zip: ''
 project_image: 'https://img.youtube.com/vi/0fH09h-Rx9o/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/GrassGreener.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102047'
 project_titles:
   - Why is the grass always greener over the leach fields?
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/GrassGreener.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102047'
 youtube_video_identifier: 0fH09h-Rx9o
 cached_project_image: >-
   https://archive-assets.la2050.org/images/cal-poly-pomona-foundation-inc/img.youtube.com/vi/0fH09h-Rx9o/hqdefault.jpg

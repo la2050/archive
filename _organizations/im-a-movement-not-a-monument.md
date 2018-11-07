@@ -21,17 +21,15 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5378393065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/m_s4N2esUKk?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/no-mind-left-behind-free-tutoring-services-for-pre-k-to-12th-graders
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102101'
 project_titles:
   - 'No Mind Left Behind: Free Tutoring Services for Pre-K to 12th Graders'
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/no-mind-left-behind-free-tutoring-services-for-pre-k-to-12th-graders
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102101'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/im-a-movement-not-a-monument/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5378393065741-team90.jpg
 

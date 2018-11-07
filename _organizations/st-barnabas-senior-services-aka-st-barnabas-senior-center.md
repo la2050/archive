@@ -20,16 +20,14 @@ zip: '90057'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20167%252Fdisplay%252F_DSC5884.JPG=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050connect/projects/AGEntsforChange.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102199'
 project_titles:
   - AGEnts for Change Initiative for Seniors in Los Angeles
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050connect/projects/AGEntsforChange.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102199'
 maker_image_file_name: _DSC5884.JPG
 maker_image_id: '20167'
 cached_project_image: >-

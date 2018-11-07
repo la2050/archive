@@ -52,16 +52,14 @@ ein: 39190 2814
 zip: ''
 project_image: 'https://img.youtube.com/vi/8N5kv8ddErc/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/creativeactivists.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102097'
 project_titles:
   - Creative Activist Program
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/creativeactivists.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102097'
 youtube_video_identifier: 8N5kv8ddErc
 cached_project_image: >-
   https://archive-assets.la2050.org/images/creative-visions-foundation/img.youtube.com/vi/8N5kv8ddErc/maxresdefault.jpg

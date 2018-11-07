@@ -20,16 +20,14 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5488182355741-team91.jpg
 project_video: ''
+challenge_url:
+  - 'https://challenge.la2050.org/entry/open-sourced-smart-city-collaborative'
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102039'
 project_titles:
   - Open Sourced Smart City Collaborative
-aggregated:
-  challenge_url:
-    - 'https://challenge.la2050.org/entry/open-sourced-smart-city-collaborative'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102039'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/city-of-west-hollywood/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5488182355741-team91.jpg
 
