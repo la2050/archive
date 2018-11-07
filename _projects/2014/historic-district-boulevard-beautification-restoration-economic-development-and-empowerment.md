@@ -18,54 +18,15 @@ project_areas:
   - CENTRAL LA
   - LA COUNTY
 maker_answers:
-  metrics_create_researchgrant: '0'
-  metrics_create_employment: '1'
-  org_website: 3boulevards.org
-  org_twitter: ''
-  org_facebook: 3boulevards
-  org_instagram: ''
-  org_mailingaddress: '1915 Virginia Rd, Los Angeles, CA 90016'
-  org_ein: '954086813'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '1'
-  describe_collaboration: '0'
-  describe_organization: >-
-    Revitalization of the  historic boulevards in West Adams & economic
-    development & diversification of the commercial enterprises
+  achievable_goal: >-
+    We have already been canvassing merchants in the community and they have
+    expressed enthusiasm and support.  Many have already started improvement
+    projects and individual residents have adopted trees, parkways and other
+    areas, preserving and improving the plantings and enhancing the ambiance of
+    the area.  We will intensify and expand these activities. 
   one_sentence_project: >-
     Beautification of building facades, planting of street trees & street
     landscaping, general enhancement of the ambient environment 
-  describe_idea: >-
-    grass roots effort to revitalize restore & enhance 3 prominent boulevards in
-    one of LA's most historic & diverse neighborhoods
-  all_county: '0'
-  region_county: '1'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '0'
-  area_southLA: '0'
-  area_sangabrielvalley: '0'
-  area_sanfernandovalley: '0'
-  area_southbay: '0'
-  area_westside: '0'
-  'area_other:': '1'
-  area_other_blank: Connector for the West Side to Downtown LA
-  more_detail: >-
-    When originally built the 3 boulevards served the needs of the residents in
-    what was then the premier neighborhood of the movers and shakers of late
-    19th and early 20th century LA.  While many of the historic and diverse
-    homes and apartments in the neighborhood are  being lovingly restored, the
-    same cannot be said for the commercial enterprises on these key boulevards. 
-    We want to revitalize the commercial nature of the boulevards by attracting
-    new types of businesses to better serve the needs of the residents.  We want
-    to create a neighborhood-serving commercial zone that is pedestrian friendly
-    and easily accessible to local residents in one of the most diverse and
-    dynamic communities in Los Angeles.
   implement: >-
     The project is going to be a grass roots effort of volunteers and
     stakeholders who are residents, business operators and property owners in
@@ -124,27 +85,6 @@ maker_answers:
     that will inspire new efforts by others.  We want the participants to "own"
     the improvements and to inspire others to  do their small part that will
     make an enormous contribution to the community.
-  org_name: 3Boulevards and West Adams Heritage Assocation (WAHA)
-  metrics_create_arts: '1'
-  metrics_create_manufacturing: '0'
-  city_state: 'Los Angeles, CA'
-  metrics_create_patents: '0'
-  metrics_create_jbs: '1'
-  metrics_create_minoritywomenowned: '1'
-  metrics_create_gini: '1'
-  metrics_create_startups: '0'
-  metrics_create_venturecapital: '0'
-  metrics_create_influencers: '1'
-  metrics_create_recruitingrates: '0'
-  metrics_create_graduates: '0'
-  metrics_create_unemployment: '1'
-  metrics_create_other: '0'
-  metrics_create_blank: ''
-  resources_network: '1'
-  best_place_to_learn: '1'
-  best_place_to_connect: '1'
-  healthiest_place_to_live: '1'
-  best_place_to_play: '1'
   evaluate: >-
     1) More street trees planted and enhanced landscaping, 2) buildings
     painted/spruced up to enhance visual appeal and 3) increase in the number of
@@ -153,32 +93,18 @@ maker_answers:
     give them kudos for their efforts.  We will visually document progress with
     before and after photos and/or videos.
   two_lessons: "1) Top-down efforts have not worked.  If the ideas and efforts do not percolate from the bottom up they will not get any traction.\r\n2) Reform/revitalization by committee does not work.  Individuals will take on these improvements and \"own\" them.  What we want to inspire are activities that are small scale, manageable and that do not require permitting and/or lengthy approval  processes."
-  achievable_goal: >-
-    We have already been canvassing merchants in the community and they have
-    expressed enthusiasm and support.  Many have already started improvement
-    projects and individual residents have adopted trees, parkways and other
-    areas, preserving and improving the plantings and enhancing the ambiance of
-    the area.  We will intensify and expand these activities. 
+  more_detail: >-
+    When originally built the 3 boulevards served the needs of the residents in
+    what was then the premier neighborhood of the movers and shakers of late
+    19th and early 20th century LA.  While many of the historic and diverse
+    homes and apartments in the neighborhood are  being lovingly restored, the
+    same cannot be said for the commercial enterprises on these key boulevards. 
+    We want to revitalize the commercial nature of the boulevards by attracting
+    new types of businesses to better serve the needs of the residents.  We want
+    to create a neighborhood-serving commercial zone that is pedestrian friendly
+    and easily accessible to local residents in one of the most diverse and
+    dynamic communities in Los Angeles.
   major_challenges: "1) There will be a fair number of individuals who will not want to take action initially.  Our strategy is to identify blocks with a critical mass of interested individuals, who will make the improvements and inspire others by the success of their efforts.\r\n2) Cost will be a limiting factor for many.  We intend to disseminate information on where trees can be obtained for free or at low cost, find local nurseries who will sell plants at discounts, artists, landscapers and consultants who will provide services pro bono or at affordable cost and to solicit donations from sponsors to pay for materials.  Sweat equity will be the basis of the painting and planting and maintenance activities necessary to implement the improvements."
-  competition: >-
-    There are other organizations conducting similar activities in the community
-    but they have focused  on the residential areas not the commercial ones. 
-    There is no organization that wants to be an umbrella organization that will
-    foster communication and activities between residents, merchants,
-    artists/artisans and commercial property owners as we do.  We will also be a
-    clearing house using our website, Facebook, flyers, newsletters and news
-    media as a source of information and resources for those wishing to engage
-    in the improvement activities.  We will also acknowledge and give kudos to
-    those who successfully implement projects on our site, through print media
-    and possibly signage at the improvement location.
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '1'
-  resources_infrastructure: '0'
-  resources_education: '0'
-  resources_technical: '0'
-  resources_communityoutreach: '1'
-  resources_research: '0'
   Which area(s) of LA does your project benefit?:
     - Central LA
     - Connector for the West Side to Downtown LA

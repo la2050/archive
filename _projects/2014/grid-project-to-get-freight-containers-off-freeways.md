@@ -21,49 +21,14 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
-  metrics_live_selfsufficiency: '0'
-  metrics_live_healthyfood: '0'
-  org_website: 'http://www.gridinc.biz/'
-  org_twitter: '@GRIDInc'
-  org_facebook: 'https://www.facebook.com/gridlogisticsinc'
-  org_instagram: N/A
-  org_mailingaddress: '411 S. Hewitt Street, Los Angeles, CA, 90013'
-  EIN: '454109556'
-  org_nonprofit: '0'
-  org_forprofit: '1'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
+  achievable_goal: >-
+    We can't implement the entire project within twelve months, but the LA2050
+    grant, if we win it, would allow us to work full-time on funding the CSUN
+    study which will make the GRID project itself a viable target for investors.
+    That is achievable within twelve months.
   one_sentence_org: >-
     We aim to boost throughput at the Ports of LA & Long Beach while actually
     reducing truck traffic & pollution along the 710 freight corridor
-  describe_idea: >-
-    Combine an advanced ship/train transloading facility with current rail lines
-    & an underground shuttle train to move containers through LA
-  describe_organization: >-
-    Boost export/import trade while actually reducing traffic, pollution, and
-    wear & tear on public roads with GRID!
-  all_county: '0'
-  region_county: '1'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '0'
-  area_eastLA: '1'
-  area_southLA: '1'
-  area_sangabrielvalley: '1'
-  area_sanfernandovalley: '0'
-  area_southbay: '0'
-  area_westside: '0'
-  'area_other:': '0'
-  area_other_blank: ''
-  more_detail: >-
-    Our project comprises the Superdock, an integrated transloading and storage
-    facility for shipping containers that would transfer cargo directly between
-    ships and trains faster than current systems can, and would also service our
-    Freight Pipeline, a dedicated electric underground freight shuttle to move
-    cargo between the ports and local distribution centers.
   implement: >-
     We currently have a feasibility study pending at CSUN, which, once
     completed, would enable us to win private financing that would fund
@@ -84,48 +49,15 @@ maker_answers:
     economically-challenged communities.
   who_benefit: "*All cities along the 710 corridor, from Long Beach to Santa Fe Springs to Pasadena\r\n*Inland Empire cities where distribution centers and major railyards are sited (eg, Colton, San Bernardino)\r\n*Residents of 710 corridor cities, who now suffer grave health effects from diesel pollution and intense traffic congestion\r\n*Working people in a broad area, who will have more access to middle-skill jobs that pay well in warehousing and distribution, as well as the docks and railyards.\r\n*The Ports of Los Angeles and Long Beach, who will suffer less truck traffic and will find new developable land in areas no longer needed for container storage\r\n*Anyone who commutes by car, bus, or bicycle through the 710 corridor, since GRID will take large numbers of heavy trucks off the roads and freeways\r\n*City, county, and state agencies who will enjoy extended road maintenance intervals as truck traffic is thinned out "
   partners_collaboration: "Sierra Club (letters of support; confirmed)\r\nCSUN (feasibility study awaiting funding; confirmed & enthusiastic)\r\nUSC (analysis; unconfirmed)"
-  org_name: GRID Logistics Inc.
-  metrics_live_healthcare: '0'
-  metrics_live_airtoxins: '1'
-  city_state: 'Los Angeles, CA'
-  metrics_live_importedwater: '0'
-  metrics_live_obesity: '0'
-  metrics_live_homelessness: '0'
-  metrics_live_walkscore: '1'
-  metrics_live_pollutedwaterways: '0'
-  metrics_live_mentalillness: '0'
-  metrics_live_childhood: '1'
-  metrics_live_communities: '1'
-  metrics_live_healthcareservice: '0'
-  metrics_live_treecanopy: '0'
-  metrics_live_other: '0'
-  metrics_live_blank: ''
-  resources_network: '1'
-  best_place_to_create: '0'
-  best_place_to_play: '1'
-  best_place_to_connect: '1'
-  best_place_to_learn: '0'
   evaluate: "*If GRID draws more ship traffic to the Ports of Long Beach and Los Angeles\r\n\r\n*If GRID moves at least 70% of port container traffic onto commercial rail or our dedicated Freight Pipeline\r\n\r\n*If GRID reduces traffic congestion to levels significantly below current projections on streets and freeways in the 710 corridor"
   two_lessons: "*That we cannot solve the problems caused by our historical dependence on road traffic by simply making more and bigger roads--that simply makes the problems bigger.\r\n\r\n*That coordinated systems such as we have designed GRID to be work better than piecemeal efforts slapped together without a vision over time. (Please remember that GRID integrates with existing rail networks as well.)"
-  achievable_goal: >-
-    We can't implement the entire project within twelve months, but the LA2050
-    grant, if we win it, would allow us to work full-time on funding the CSUN
-    study which will make the GRID project itself a viable target for investors.
-    That is achievable within twelve months.
+  more_detail: >-
+    Our project comprises the Superdock, an integrated transloading and storage
+    facility for shipping containers that would transfer cargo directly between
+    ships and trains faster than current systems can, and would also service our
+    Freight Pipeline, a dedicated electric underground freight shuttle to move
+    cargo between the ports and local distribution centers.
   major_challenges: "*We anticipate some resistance from municipal agencies, who tend to suffer from institutional inertia; that is why we are so strongly focused on building grassroots support from neighborhood, community, public health, environmental, and labor organizations.\r\n\r\n*We anticipate difficulty in obtaining financing for a large visionary project such as GRID, which we will address through the CSUN feasibility study."
-  competition: >-
-    No other organization is projecting anything similar to GRID. The SuperDock
-    is unique, The Freight Pipeline resembles the Metro Freight paradigm
-    proposed several years ago by J. H. Crawford, but is far larger and much
-    more robust--pus, we have in-company expertise in pipeline systems.
-  resources_money: '1'
-  resources_staff: '0'
-  resources_publicity: '1'
-  resources_infrastructure: '0'
-  resources_education: '0'
-  resources_technical: '0'
-  resources_communityoutreach: '1'
-  resources_research: '0'
   Which area(s) of LA does your project benefit?:
     - East LA
     - South LA

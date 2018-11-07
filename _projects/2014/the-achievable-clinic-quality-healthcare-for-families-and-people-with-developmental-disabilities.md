@@ -16,44 +16,19 @@ project_video: 'https://www.youtube.com/embed/zTPVN1p3Lg8'
 project_areas:
   - LA COUNTY
 maker_answers:
-  metrics_live_selfsufficiency: '0'
-  metrics_live_healthyfood: '0'
-  org_website: www.achievableclinic.org
-  org_twitter: 'http://achievableclinic.org/#'
-  org_facebook: 'http://www.facebook.com/TheAchievableFoundation'
-  org_instagram: none
-  org_mailingaddress: info@achievable.org
-  EIN: '954552419'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
+  achievable_goal: >-
+    Twelve months will allow us to begin the research and initial interaction
+    stages of implementation, including scheduling meetings with the appropriate
+    federal authorities.  That being said, we are aware that this is the
+    beginning of  long-term investment in effecting truly wide-ranging change
+    that could impact how possibly millions of americans get access to
+    healthcare.  The system does not take into account the unique needs of
+    people with developmental disabilities, and our hope that this process will
+    begin changing how the healthcare network works for this growing part of our
+    community.
   one_sentence_org: >-
     Our comprehensive health center offers high quality, comprehensive health
     care for individuals with developmental disabilities.
-  describe_idea: >-
-    Achievable is looking for new support as it transitions into becoming a
-    fully operational Federally Qualified Health Center for LA County
-  describe_organization: >-
-    The new Clinic @achievable offers LA a new model that expands access to
-    healthcare for individuals with developmental disabilities
-  all_county: '0'
-  region_county: '0'
-  population_county: '1'
-  'no': '0'
-  area_centralLA: '0'
-  area_eastLA: '0'
-  area_southLA: '0'
-  area_sangabrielvalley: '0'
-  area_sanfernandovalley: '0'
-  area_southbay: '0'
-  area_westside: '0'
-  'area_other:': '1'
-  area_other_blank: 'Although based in Culver City, we serve families across LA County.'
-  more_detail: "The Achievable Clinic is a state-licensed Federally Qualified Health Center (FQHC) specializing in providing appropriate, coordinated, continuous, high-quality and comprehensive healthcare services to our under-served community members, with a special focus on serving individuals with developmental disabilities and their families who lack access to such care in the broader community. \r\nFederal support comes with compliance requirements that do not always take into account the unique needs of our clients.  Achievable is looking to collaborate with LA2050 in order to align our model of care with FQHC rules and expectations while still meeting the complex healthcare needs of our clients as well as ensuring long term financial sustainability.  "
   implement: "FQHCs that focus on special populations such as residents of public housing, persons experiencing homelessness or agricultural workers, are subject to special waivers and accommodations that allow the FQHCs to address the unique health care needs of these groups.  No such process currently exists for people with developmental disabilities. \r\n\r\nIt is our hope that we can demonstrate to HRSA the merits of designating people with developmental disabilities as a special population.  Consequently such a designation would allow us to get the proper reimbursement rate for services rendered as well as allow us to receive continued HRSA grant funding. \r\n\r\nIn that regard, we believe that a significant portion of funding could be allocated to the efforts of our CEO and additional consulting support as Achievable looks to streamline operations, ensure federal, state and county compliance, grow our patient base and ensure that we are properly compensated for the care we provide to our clients.  "
   impact_live: >-
     The groups of people we serve are amongst the most medically complex
@@ -66,27 +41,6 @@ maker_answers:
     own health even as they care for our patients.
   who_benefit: "The Achievable Foundation is a nonprofit organization founded in 1996 with the mission of significantly improving the health and quality of life of under-served individuals living in Los Angeles County who have developmental disabilities such as autism, intellectual disability, cerebral palsy and epilepsy. \r\n\r\nIndividuals with developmental disabilities have numerous complex health care needs and experience poorer health than the general population, including disproportionately high incidence of chronic conditions and preventable mortality.   Although state and federally-supported Community Health Center programs provide significant support for meeting the needs of many vulnerable populations, there is no specific framework for addressing the unique challenges posed in serving a patient base made up primarily of individuals with developmental disabilities.\r\n\r\nWe aim to serve the tens of thousands of potential clients that may seek our services from across the entire county of Los Angeles."
   partners_collaboration: "The Achievable Clinic is leveraging our strategic partnerships with organizations like the Westside Regional Center (WRC)--where we are co-located-- to offer a growing spectrum of health care services to the expanding number of individuals with developmental disabilities who have MediCal insurance coverage through L.A. Care Health Plan.  Based on the latest information from L.A. Care, there are over 2,286 clients at WRC (or roughly one third of all WRC clients) signed up with one of L.A. Care’s health plan providers.   \r\n\r\nAs part of an extensive outreach plan, Achievable is looking to become the medical home of choice for many new L.A. Care clients. Serving as a medical home to L.A. Care clients places our clinic in a strategic position to contribute significantly towards L.A. Care Health Plan’s Triple Aim goals of achieving excellent patient outcomes, excellent patient experiences, and cost effectiveness and efficiency on behalf of our shared clients. To that end, we seek to improve patient experiences while minimizing long-term medical costs through an integrated, whole-person approach to addressing the ongoing healthcare needs of our community members.  \r\n\r\nIf we can demonstrate the effectiveness of this strategy working with WRC, this could be expanded to the other Regional Centers across LA County that together serve tens of thousands of individuals with developmental disabilities."
-  org_name: The Achievable Foundation
-  metrics_live_healthcare: '1'
-  metrics_live_airtoxins: '0'
-  city_state: 'Culver City, CA'
-  metrics_live_importedwater: '0'
-  metrics_live_obesity: '1'
-  metrics_live_homelessness: '0'
-  metrics_live_walkscore: '0'
-  metrics_live_pollutedwaterways: '0'
-  metrics_live_mentalillness: '1'
-  metrics_live_childhood: '0'
-  metrics_live_communities: '0'
-  metrics_live_healthcareservice: '1'
-  metrics_live_treecanopy: '0'
-  metrics_live_other: '0'
-  metrics_live_blank: ''
-  resources_network: '0'
-  best_place_to_create: '0'
-  best_place_to_play: '0'
-  best_place_to_connect: '0'
-  best_place_to_learn: '1'
   evaluate: >-
     Achievable deliverables would include both a planning document that will be
     shared with our Health Resource Services Administration (HRSA) liaison and
@@ -112,16 +66,7 @@ maker_answers:
     healthcare gap for clients with developmental disabilities it is vital to
     have viable demonstration pilots to learn from and Achievable can be one of
     those such blueprints with your support.
-  achievable_goal: >-
-    Twelve months will allow us to begin the research and initial interaction
-    stages of implementation, including scheduling meetings with the appropriate
-    federal authorities.  That being said, we are aware that this is the
-    beginning of  long-term investment in effecting truly wide-ranging change
-    that could impact how possibly millions of americans get access to
-    healthcare.  The system does not take into account the unique needs of
-    people with developmental disabilities, and our hope that this process will
-    begin changing how the healthcare network works for this growing part of our
-    community.
+  more_detail: "The Achievable Clinic is a state-licensed Federally Qualified Health Center (FQHC) specializing in providing appropriate, coordinated, continuous, high-quality and comprehensive healthcare services to our under-served community members, with a special focus on serving individuals with developmental disabilities and their families who lack access to such care in the broader community. \r\nFederal support comes with compliance requirements that do not always take into account the unique needs of our clients.  Achievable is looking to collaborate with LA2050 in order to align our model of care with FQHC rules and expectations while still meeting the complex healthcare needs of our clients as well as ensuring long term financial sustainability.  "
   major_challenges: >-
     The primary challenges are that this process may be laying the groundwork
     for eventual change that may take more than 12 months.  Change at the
@@ -132,15 +77,6 @@ maker_answers:
     awareness even at the initial stages of this project may allow us to get
     some of the technical assistance and support that the Federal government
     provides to other special population designees.  
-  competition: "There are organizations in Northern CA working on similar issues.  At UC San Francisco, they are working with partners to develop clinical solutions for similar potential clients in the San Mateo county area.  We have collaborated with them to share best practices and possibly link up in the future to form a more systemic partnership.  \r\n\r\nAcross a number of universities, there are Centers of Excellence that are providing various programs to help increase healthcare solutions for people with complex healthcare needs in the developmental disabilities arena.  We are aware of their work, and have collaborated with them in a number of ways.  For instance, we have a collaboration with UCLA's Neuro Psychiatric Institute that allows our patients to get access to mental health professionals with experience in our field. \r\n\r\nFinally, we are working with the Department of Developmental Disabilities via its Regional Center network in a collaborative approach to improving outreach and access to their clients.  Currently, we are working with Westside Regional Center, where our new clinic is co-located. "
-  resources_money: '1'
-  resources_staff: '0'
-  resources_publicity: '1'
-  resources_infrastructure: '0'
-  resources_education: '0'
-  resources_technical: '0'
-  resources_communityoutreach: '1'
-  resources_research: '0'
   Which area(s) of LA does your project benefit?:
     - 'Although based in Culver City, we serve families across LA County.'
   Does your project impact Los Angeles County?: Yes (benefits a population of LA County)

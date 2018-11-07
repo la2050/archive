@@ -15,50 +15,17 @@ project_video: ''
 project_areas:
   - LA COUNTY
 maker_answers:
-  metrics_live_selfsufficiency: '0'
-  metrics_live_healthyfood: '0'
-  org_website: imaginationworkshop.org
-  org_twitter: ''
-  org_facebook: ''
-  org_instagram: ''
-  org_mailingaddress: "760 Westwood Plaza, Suite C8 – 183K,\r\nLos Angeles, CA 90024-5055\r\n"
-  EIN: '237161543'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '1'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '0'
+  achievable_goal: >-
+    Weekly sessions with homeless and PTSD veterans could begin immediately at
+    with Calvet, the Salvation Army, or New Directions, or at a rented space. 
+    The connections with the veteran agencies are already established.  During
+    six months of weekly sessions with our professionally trained theater
+    artists, the scripts for the four theater works will be written by staff and
+    clients together.  Each theater work will take two months of rehearsal,
+    which can all be simultaneous.  The theater is a rental, and the publicity
+    is a three month process.  IW has been creating original theater with the
+    mentally ill for 45 years.
   one_sentence_org: We help mental health consumers live fuller lives using the theater arts.
-  describe_idea: >-
-    IW proposes applying its 45 years of proven service to the mentally ill to
-    helping homeless veterans and veterans suffering from PTSD.
-  describe_organization: >-
-    Imagination Workshop uses the theater arts to help the mentally ill live
-    better, fuller lives.
-  all_county: '0'
-  region_county: '1'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '0'
-  area_eastLA: '0'
-  area_southLA: '0'
-  area_sangabrielvalley: '0'
-  area_sanfernandovalley: '1'
-  area_southbay: '0'
-  area_westside: '1'
-  'area_other:': '0'
-  area_other_blank: ''
-  more_detail: >-
-    One hundred homeless veterans and veterans suffering PTSD have a series of
-    20 weekly structured hour-long meetings (in groups of 15) where they are
-    mentored by professional theater artists (actors, writers, directors) in the
-    creation of four original theater works, which are then mounted
-    professionally for the general public in Los Angeles professional theater
-    venues, and are performed by the veterans and professional actors together,
-    under the direction of a professional theater directer and produced by a
-    professional theater producer.
   implement: >-
     We train and supply the professional theater artists, and continue our 20
     year relationship with services at the Veterans Administration such as New
@@ -97,49 +64,18 @@ maker_answers:
     a standing invitation to work with their vets, but have not, of late, been
     able to fund our work.  With funding, IW is definitely invited to work with
     these organizations.
-  org_name: Imagination Workshop
-  metrics_live_healthcare: '0'
-  metrics_live_airtoxins: '0'
-  city_state: 'Los Angeles, CA'
-  metrics_live_importedwater: '0'
-  metrics_live_obesity: '0'
-  metrics_live_homelessness: '1'
-  metrics_live_walkscore: '0'
-  metrics_live_pollutedwaterways: '0'
-  metrics_live_mentalillness: '1'
-  metrics_live_childhood: '0'
-  metrics_live_communities: '0'
-  metrics_live_healthcareservice: '0'
-  metrics_live_treecanopy: '0'
-  metrics_live_other: '0'
-  metrics_live_blank: ''
-  resources_network: '0'
-  best_place_to_create: '1'
-  best_place_to_play: '1'
-  best_place_to_connect: '1'
-  best_place_to_learn: '1'
   evaluate: "1.  Veterans participation in groups, the writing of an original script, and the public performance.\r\n\r\n2. Doing screenings of the veterans' participation in their programs (12 Step, New Directions, etc.)  in partnership with staff at New Directions, Calvet, and the Salvation Army, before after and during their participation with IW.\r\n\r\n3.  Follow up reports on the participating veterans' progress in job finding, self-care, sobriety (for 12 step veterans, and in controlling PTSD."
   two_lessons: "1.  Everyone has the creative spark.  \r\n\r\n2. The experience of creating and performing original theater involves disciples that positively effect the happiness and fullness of life for the mentally ill."
-  achievable_goal: >-
-    Weekly sessions with homeless and PTSD veterans could begin immediately at
-    with Calvet, the Salvation Army, or New Directions, or at a rented space. 
-    The connections with the veteran agencies are already established.  During
-    six months of weekly sessions with our professionally trained theater
-    artists, the scripts for the four theater works will be written by staff and
-    clients together.  Each theater work will take two months of rehearsal,
-    which can all be simultaneous.  The theater is a rental, and the publicity
-    is a three month process.  IW has been creating original theater with the
-    mentally ill for 45 years.
+  more_detail: >-
+    One hundred homeless veterans and veterans suffering PTSD have a series of
+    20 weekly structured hour-long meetings (in groups of 15) where they are
+    mentored by professional theater artists (actors, writers, directors) in the
+    creation of four original theater works, which are then mounted
+    professionally for the general public in Los Angeles professional theater
+    venues, and are performed by the veterans and professional actors together,
+    under the direction of a professional theater directer and produced by a
+    professional theater producer.
   major_challenges: "1.  Getting the veterans from the various agencies to meet together at one time is a difficult problem.  With this funding we could solve it by having several groups going that offer an array of meeting times.\r\n\r\n2. Scheduling a professional theater venue in LA with performance space available at the right time.  This is solved because IW has long-standing relationships with LA area theaters, and they do their best to accommodate us."
-  competition: "Imagination Workshop is the longest running arts and mental health organization in this country.  For more than forty years, hundreds of actors and writers from Broadway, film and television, including such well-known names as Susan Sarandon, Ted Danson and Sam Waterston, have, through IW, worked on stage with more than forty-five thousand people suffering mental illness, most of whom have never before experienced theater’s ability to transcend real life. On stage, troubled people who have difficulty dealing with even the simplest aspects of life suddenly discover that, as a fictional character, they can do all that they ever imagined and more.\r\n\r\nOver its many productive years, the IW has served a diverse community of every race, age, sex, ethnicity and economic background. IW has brought its singular approach to theater to the poor, the elderly, and children at risk of becoming involved with gangs and drugs. Psychiatric participants include people suffering from catatonia, schizophrenia, depression, compulsive-obsessive disorders, and even patients in locked wards.\r\n\r\nStudies at Semel Institute at UCLA have shown that participation in Imagination Workshop leads to positive behavioral and life changes that are permanent.  \r\n\r\nImagination Workshop uses the metaphor.  In traditional psychodrama therapies, patients act out scened from their own lives.  In Imagination workshop, they create characters to play far removed from themselves.  It's an opportunity to try on a new personality, walk in another's shoes, and safely explore behavior modes and experience discovery of the role creativity can make in everyday living.  Among the results of this experience for the patients are often improved social skills, enhanced performance in job interviews, and higher self-esteem, all buttressed by the accomplishment of writing and acting in a play.  Scientific studies at the UCLA Semel Institute have proven these results.  "
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '1'
-  resources_infrastructure: '0'
-  resources_education: '0'
-  resources_technical: '0'
-  resources_communityoutreach: '1'
-  resources_research: '1'
   Which area(s) of LA does your project benefit?:
     - San Fernando Valley
     - Westside

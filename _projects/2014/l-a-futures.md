@@ -20,54 +20,17 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
-  metrics_learn_communitycollege: '1'
-  collaboration: "Our confirmed business partner t confirmed collaborators are:\r\nTBWA\\Chiat\\Day\r\nDDB California\r\nIgnitedUSA\r\nSaatchi & Saatchi\r\nThinkLA, consortium of creative companies\r\nOur confirmed school confirmed collaborators are:\r\nDorsey High School\r\nJames Foshay Learning Center\r\nPasadena High School\r\nVenice High School\r\nWe have worked for several years with these collaborators.\r\nThree factors that are critical to the success of these partnerships are:\r\n1) Shared decision-making\r\n2) Understanding of roles and expectations\r\n3) Evaluation and improvement"
-  org_website: www.lightbringerproject.com
-  org_twitter: lbp@lightbringerp
-  org_facebook: lightbringerproject
-  org_instagram: lbp@lightbringerp
-  org_mailingaddress: '99 So. Raymond Avenue, Pasadena, CA 91105'
-  org_ein: '954287043'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
-  describe_organization: >-
-    Light Bringer Project builds communities through the power of the arts and
-    education
+  achievable_goal: >-
+    We have four business partners and four school partners and the program has
+    already been tracked. This includes classroom visits and visits to
+    companies' major headquarters. Meetings between partners are currently
+    taking place at this time, for the purpose of creating scheduling and
+    curriculum development. We are also in the process of forming further
+    collaborations with community-based organizations who serve as clients for
+    the students' campaigns. 
   one_sentence_project: >-
     L.A. Futures builds success tracks for public high school youth into college
     and career
-  describe_idea: >-
-    We at @lightbringerp are helping diverse high school students go to college
-    and achieve their dream jobs
-  all_county: '1'
-  region_county: '0'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '1'
-  area_southLA: '1'
-  area_sangabrielvalley: '1'
-  area_sanfernandovalley: '0'
-  area_southbay: '1'
-  area_westside: '1'
-  'area_other:': '0'
-  area_other_blank: ''
-  more_detail: >-
-    L.A. Futures is a work-based learning program which partners public schools
-    with major creative companies to prepare students for success in college and
-    beyond. Students build competencies and life skills through professional
-    mentorships, job role exposure and student-driven public service projects.
-    Through these real-world experiences, students can build success tracks into
-    our community's thriving creative industry. An industry which represents
-    over 10% of the gross economic contribution to the Los Angeles region needs
-    a job-prepared talent pool to draw upon. High school is where to start.
-    Educational entrepreneurship, through business and community partnerships,
-    provides the resources. L.A. Futures is the connection.
   implement: >-
     Since it was inaugurated several years ago, L.A. Futures has served hundreds
     of upper-division high school students who have gone on to higher education
@@ -129,28 +92,7 @@ maker_answers:
     future talent pool of our own community the creative industry is greatly
     benefitted if we bear in mind that 726,300 direct and indirect jobs, or 1 in
     7 jobs, represent the human capital that vitalizes this industry. 
-  about_you: 'Pasadena, CA 91105'
-  org_name: Light Bringer Project
-  metrics_learn_earlyeducation: '0'
-  metrics_learn_unemployment: '1'
-  metrics_learn_graduationrates: '1'
-  metrics_learn_proficiency: '1'
-  metrics_learn_api: '1'
-  metrics_learn_college: '1'
-  metrics_learn_pipeline: '1'
-  metrics_learn_suspension: '0'
-  metrics_learn_truancy: '0'
-  metrics_learn_safety: '0'
-  metrics_learn_other: '0'
-  metrics_learn_blank: >-
-    Industry diversity of employment goals, preparedness for new and future job
-    roles, diverse generations impact on the products and services of the
-    creative industry
-  resources_network: '1'
-  best_place_to_connect: '1'
-  best_place_to_create: '1'
-  best_place_to_play: '1'
-  healthiest_place_to_live: '1'
+  collaboration: "Our confirmed business partner t confirmed collaborators are:\r\nTBWA\\Chiat\\Day\r\nDDB California\r\nIgnitedUSA\r\nSaatchi & Saatchi\r\nThinkLA, consortium of creative companies\r\nOur confirmed school confirmed collaborators are:\r\nDorsey High School\r\nJames Foshay Learning Center\r\nPasadena High School\r\nVenice High School\r\nWe have worked for several years with these collaborators.\r\nThree factors that are critical to the success of these partnerships are:\r\n1) Shared decision-making\r\n2) Understanding of roles and expectations\r\n3) Evaluation and improvement"
   evaluate: >-
     Formal evaluation measurements are used to assess the performance and
     quality-level of the L.A. Futures program and to make recommendations for
@@ -163,14 +105,17 @@ maker_answers:
     industry professionals to help us bring the L.A. Futures program to the next
     level. 
   two_lessons: "The following two lessons have informed our project:\r\n1) The expressed need for industry to hire within our own community\r\n2) The need for students to literally see and experience exciting job roles that they can aspire toward."
-  achievable_goal: >-
-    We have four business partners and four school partners and the program has
-    already been tracked. This includes classroom visits and visits to
-    companies' major headquarters. Meetings between partners are currently
-    taking place at this time, for the purpose of creating scheduling and
-    curriculum development. We are also in the process of forming further
-    collaborations with community-based organizations who serve as clients for
-    the students' campaigns. 
+  more_detail: >-
+    L.A. Futures is a work-based learning program which partners public schools
+    with major creative companies to prepare students for success in college and
+    beyond. Students build competencies and life skills through professional
+    mentorships, job role exposure and student-driven public service projects.
+    Through these real-world experiences, students can build success tracks into
+    our community's thriving creative industry. An industry which represents
+    over 10% of the gross economic contribution to the Los Angeles region needs
+    a job-prepared talent pool to draw upon. High school is where to start.
+    Educational entrepreneurship, through business and community partnerships,
+    provides the resources. L.A. Futures is the connection.
   major_challenges: >-
     One barrier is to be able to accomplish this with a small staff, led by a
     Program Coordinator and Lead Instructor Mentors. Our strategy for meeting
@@ -181,23 +126,6 @@ maker_answers:
     program. Further, we are creating a strategic plan for developing the
     program over the next 3 years, building an advisory panel to broaden student
     participation and business collaboration.
-  competition: >-
-    This project is unique because it is not a one-time event, it is sequential.
-    Generally, others offer field trips, career days and job shadowing. In some
-    cases, internships are available. These are vital to students' growth and
-    job preparedness. What sets LA Futures apart is that it is a two-year
-    program. Students are drawn in and their learning is customized, objectives
-    and interests are met. Sequential experiences de-mystify the industry. Our
-    mentors develop personal relationships with student participants they serve.
-    As a result, internships become more likely from engagement.
-  resources_money: '1'
-  resources_staff: '0'
-  resources_publicity: '1'
-  resources_infrastructure: '0'
-  resources_education: '0'
-  resources_technical: '1'
-  resources_communityoutreach: '0'
-  resources_research: '1'
   Which area(s) of LA does your project benefit?:
     - Central LA
     - East LA

@@ -15,43 +15,20 @@ project_areas:
   - CENTRAL LA
   - EAST LA
 maker_answers:
-  metrics_create_researchgrant: '0'
-  metrics_create_employment: '1'
-  org_website: 'http://experimentalhalfhour.com'
-  org_twitter: 'http://twitter.com/exphalfhour'
-  org_facebook: 'http://facebook.com/experimentalhalfhour'
-  org_instagram: 'http://instagram.com/experimentalhalfhour'
-  org_mailingaddress: '65 S. Grand Avenue, Pasadena, CA 91105'
-  org_ein: '952540759'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
-  describe_organization: >-
-    We are a multimedia arts organization that collaborates with artists to
-    document, showcase, produce, and broadcast a half-hour TV show.
+  achievable_goal: "We currently have a three camera mobile HD TV studio, however we lack a permanent home and studio to be based out of. With the monetary support from the LA 2050 Goals grant we will be able to secure a location immediately, build out the space, and start planning the public programming for the year. The project is fully achievable once a space is leased. Half of the equipment has been purchased and we have several community organizations on-board to contribute to the initial startup of the facility. \r\n"
   one_sentence_project: >-
     Start a media lab that functions as a hybrid between a public access TV
     station and an A/V production facility that fosters community.
-  describe_idea: >-
-    LA Media Lab brings artists together to create and share information through
-    sound and video.
-  all_county: '0'
-  region_county: '1'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '1'
-  area_southLA: '0'
-  area_sangabrielvalley: '0'
-  area_sanfernandovalley: '0'
-  area_southbay: '0'
-  area_westside: '0'
-  'area_other:': '0'
-  area_other_blank: ''
+  implement: "We have already began to implement the foundation of our plan through building a mobile studio, hosting live television tapings, teaching A/V workshops, and collaborating with local artists. We are adept with both the professional equipment and support skills needed to create a public forum accessible to children, artists, and people from the local community interested in working with media and video. \r\n\r\nWe will select a centrally-located space in Los Angeles to serve as a broadcast center.  Our  vision is to build two TV studios: one housing a traditional three-camera setup, which allows more complex tapings and visual effects. The other will be a smaller studio serving more intimate video tapings.  Several adjacent multi-use rooms will serve as classrooms for youth education and training for emerging and established professionals, with public workshops, and in-house artist studios and residencies.  Through the media lab’s outreach and workshops, community members will be trained in how to operate equipment and develop the audiovisual storytelling techniques necessary to realize their vision.\r\n\r\nGeographic selection of the space will focus on the eastside of Los Angeles, a region underserved with local resources, rich with cost-effective space, and located at a demographic cross-section.  Within our rental budget we can procure a space both proportionate to meet the needs of our facility and centrally accessible to the diverse communities we will serve."
+  impact_create: "By creating a publicly-available media lab we will enrich the community through active participation in events, tapings, and broadcasting. The lab will serve as a hub for Los Angeles audio and video culture both through providing the end-product, and through serving as a central meeting point placing exhibition space and artistic disciplines in context with a larger community.\r\n\r\nIt will reconnect the community to lacking resources by providing a facility specialized to meet a number of activities.  Hosting residencies for guest artists will further aid in diversifying our growing creative community - allowing interaction with and exposure to working artists in Los Angeles as well as international artists working in alternative media. Giving the local community exposure to artists and resources has a myriad of beneficial social, cultural and economic effects. The center we propose to establish will enable local community members and children to gain valuable skills and resources to prepare them for a lifetime of creative work in digital media.  Additionally, our media lab would allow skilled artists to employ their professional training for use on a community level.\r\n\r\nThere is a lack of access to public media resources to an ever technological oriented culture that we hope to account for through our center.  Our media labs will fill a broad variety of needs: as a way for people to inform each other and express their specific voices about their local community needs; as a way for people to engage with their own community on a grassroots level; as a way to give marginalized voices in the community a sense of agency; and as a way for the community to produce work using professional media equipment that is otherwise out of range.  Our center will help to produce videos that community members want to share with the rest of LA."
+  who_benefit: "Through the establishment of a media lab we will take what our city is notorious for— media production— and decentralize it into an everyday act artists from across Los Angeles can participate in.  By moving media production away from only being in the realm of large corporations and into the hands of the artistic and local community we will establish LA as a vanguard for multimedia art production and groundbreaking exhibitions.\r\n\r\nOur center will positively reach a range of people. It will benefit local artists through allowing access to video technology that is otherwise limited to institutions or commercial ventures.  It will provide a space for them to experiment with new ideas and work.  It will benefit community members curious to further their knowledge of video and digitized forms -  those interested to produce their own media, whether it’s a vlog, television show or video installation.  It will positively impact the local youth because it will offer an inspiring, exciting, and professional environment where one can be exposed to the infinite possibilities that video technologies and multimedia artists have to offer. "
+  partners_collaboration: "Pasadena Arts Council\r\nArtists\r\nGhosting.TV\r\nKXLU\r\nDublab\r\nKCHUNG TV\r\nGYST Radio\r\n\r\nWe have worked with each of the partners listed above and each brings a unique element to the project through their individual strengths. The Pasadena Arts Council will serve as the fiscal sponsor for this project and is the current fiscal sponsor for Experimental Half-Hour. Ghosting.TV is LA’s premier monthly artist hang-out and screening series of cutting edge video art and animation.  Through the use of our media lab’s space they will be able to expand their reach to a growing audience and continue to host visiting artists to present their work.  Through our collaborations with DJs at LA based FM radio station KXLU, we look forward to having a more consolidated space to host events and remote broadcasts.  Dublab is a non-profit web radio collective that has been broadcasting independently since 1999. They curate shows and host video screenings - sharing a vision very much aligned to ours. A broader space for us would facilitate more productions for our collaboration[s] and would benefit not only the scope of their programming, but the local television and media platforms in LA.  For the UCLA Hammer Museum’s 2014 Made in L.A. biennial exhibition, KChung Radio launched its subsidiary television network KChung TV and hired Experimental Half-Hour as video technical producers to help realize their project. We loaned them our mobile studio system and trained KChung volunteers to use the equipment so they could produce their own series of variety shows. GYST Ink is an artist-run company providing information, technology and solutions created by artists for artists. GYST would be able to use the video technologies to broaden their journalistic coverage of the arts community. \r\n"
+  evaluate: "Participants in the first year\r\n\r\nExhibitions Held\r\n\r\nMeasurable press from events and exhibitions\r\n"
+  two_lessons: >-
+    Having a public community station is important. When we lived in Portland we
+    saw the impact that it had in the community there. Whether talking about
+    social issues or making creative videos the media center provide a hub for
+    people of all class, viewpoint, ethnicity, religion, and aesthetic. 
   more_detail: >-
     The LA Media lab serves primarily as a public access station. The secondary
     purpose is to provide a workspace for artists and the local community to
@@ -63,48 +40,7 @@ maker_answers:
     developed and united a growing network of amateur and professional artists,
     videographers, and musicians eager to access a center like the one we
     propose to facilitate.
-  implement: "We have already began to implement the foundation of our plan through building a mobile studio, hosting live television tapings, teaching A/V workshops, and collaborating with local artists. We are adept with both the professional equipment and support skills needed to create a public forum accessible to children, artists, and people from the local community interested in working with media and video. \r\n\r\nWe will select a centrally-located space in Los Angeles to serve as a broadcast center.  Our  vision is to build two TV studios: one housing a traditional three-camera setup, which allows more complex tapings and visual effects. The other will be a smaller studio serving more intimate video tapings.  Several adjacent multi-use rooms will serve as classrooms for youth education and training for emerging and established professionals, with public workshops, and in-house artist studios and residencies.  Through the media lab’s outreach and workshops, community members will be trained in how to operate equipment and develop the audiovisual storytelling techniques necessary to realize their vision.\r\n\r\nGeographic selection of the space will focus on the eastside of Los Angeles, a region underserved with local resources, rich with cost-effective space, and located at a demographic cross-section.  Within our rental budget we can procure a space both proportionate to meet the needs of our facility and centrally accessible to the diverse communities we will serve."
-  impact_create: "By creating a publicly-available media lab we will enrich the community through active participation in events, tapings, and broadcasting. The lab will serve as a hub for Los Angeles audio and video culture both through providing the end-product, and through serving as a central meeting point placing exhibition space and artistic disciplines in context with a larger community.\r\n\r\nIt will reconnect the community to lacking resources by providing a facility specialized to meet a number of activities.  Hosting residencies for guest artists will further aid in diversifying our growing creative community - allowing interaction with and exposure to working artists in Los Angeles as well as international artists working in alternative media. Giving the local community exposure to artists and resources has a myriad of beneficial social, cultural and economic effects. The center we propose to establish will enable local community members and children to gain valuable skills and resources to prepare them for a lifetime of creative work in digital media.  Additionally, our media lab would allow skilled artists to employ their professional training for use on a community level.\r\n\r\nThere is a lack of access to public media resources to an ever technological oriented culture that we hope to account for through our center.  Our media labs will fill a broad variety of needs: as a way for people to inform each other and express their specific voices about their local community needs; as a way for people to engage with their own community on a grassroots level; as a way to give marginalized voices in the community a sense of agency; and as a way for the community to produce work using professional media equipment that is otherwise out of range.  Our center will help to produce videos that community members want to share with the rest of LA."
-  who_benefit: "Through the establishment of a media lab we will take what our city is notorious for— media production— and decentralize it into an everyday act artists from across Los Angeles can participate in.  By moving media production away from only being in the realm of large corporations and into the hands of the artistic and local community we will establish LA as a vanguard for multimedia art production and groundbreaking exhibitions.\r\n\r\nOur center will positively reach a range of people. It will benefit local artists through allowing access to video technology that is otherwise limited to institutions or commercial ventures.  It will provide a space for them to experiment with new ideas and work.  It will benefit community members curious to further their knowledge of video and digitized forms -  those interested to produce their own media, whether it’s a vlog, television show or video installation.  It will positively impact the local youth because it will offer an inspiring, exciting, and professional environment where one can be exposed to the infinite possibilities that video technologies and multimedia artists have to offer. "
-  partners_collaboration: "Pasadena Arts Council\r\nArtists\r\nGhosting.TV\r\nKXLU\r\nDublab\r\nKCHUNG TV\r\nGYST Radio\r\n\r\nWe have worked with each of the partners listed above and each brings a unique element to the project through their individual strengths. The Pasadena Arts Council will serve as the fiscal sponsor for this project and is the current fiscal sponsor for Experimental Half-Hour. Ghosting.TV is LA’s premier monthly artist hang-out and screening series of cutting edge video art and animation.  Through the use of our media lab’s space they will be able to expand their reach to a growing audience and continue to host visiting artists to present their work.  Through our collaborations with DJs at LA based FM radio station KXLU, we look forward to having a more consolidated space to host events and remote broadcasts.  Dublab is a non-profit web radio collective that has been broadcasting independently since 1999. They curate shows and host video screenings - sharing a vision very much aligned to ours. A broader space for us would facilitate more productions for our collaboration[s] and would benefit not only the scope of their programming, but the local television and media platforms in LA.  For the UCLA Hammer Museum’s 2014 Made in L.A. biennial exhibition, KChung Radio launched its subsidiary television network KChung TV and hired Experimental Half-Hour as video technical producers to help realize their project. We loaned them our mobile studio system and trained KChung volunteers to use the equipment so they could produce their own series of variety shows. GYST Ink is an artist-run company providing information, technology and solutions created by artists for artists. GYST would be able to use the video technologies to broaden their journalistic coverage of the arts community. \r\n"
-  org_name: Experimental Half-Hour
-  metrics_create_arts: '1'
-  metrics_create_manufacturing: '0'
-  city_state: 'Los Angeles, CA'
-  metrics_create_patents: '0'
-  metrics_create_jbs: '0'
-  metrics_create_minoritywomenowned: '1'
-  metrics_create_gini: '0'
-  metrics_create_startups: '0'
-  metrics_create_venturecapital: '0'
-  metrics_create_influencers: '1'
-  metrics_create_recruitingrates: '1'
-  metrics_create_graduates: '1'
-  metrics_create_unemployment: '0'
-  metrics_create_other: '0'
-  metrics_create_blank: ''
-  resources_network: '1'
-  best_place_to_learn: '1'
-  best_place_to_connect: '1'
-  healthiest_place_to_live: '0'
-  best_place_to_play: '1'
-  evaluate: "Participants in the first year\r\n\r\nExhibitions Held\r\n\r\nMeasurable press from events and exhibitions\r\n"
-  two_lessons: >-
-    Having a public community station is important. When we lived in Portland we
-    saw the impact that it had in the community there. Whether talking about
-    social issues or making creative videos the media center provide a hub for
-    people of all class, viewpoint, ethnicity, religion, and aesthetic. 
-  achievable_goal: "We currently have a three camera mobile HD TV studio, however we lack a permanent home and studio to be based out of. With the monetary support from the LA 2050 Goals grant we will be able to secure a location immediately, build out the space, and start planning the public programming for the year. The project is fully achievable once a space is leased. Half of the equipment has been purchased and we have several community organizations on-board to contribute to the initial startup of the facility. \r\n"
   major_challenges: "Our biggest barriers are space and money. We need funding to rent and outfit a space to better serve the community. In order to account for our lack of a consolidated space, we’ve had to host events in site specific places. While this has been good, we think that a permanent space would allow us a broader range of programming as well as allowing us to be able to realize our specific vision. We’ve been able to hold fundraisers for past projects and events. This space would allow some leeway to focus on fundraising efforts because so far we have been dealing with finding a space as well as fundraising. \r\n"
-  competition: "The city of Los Angeles has no functional public access studio station that serves the broader Los Angeles community. We are the only organization that is proposing a free and public access television and artist run media lab that will be available for all ages (adults and children).\r\n\r\nThe organizations that we work with - while not doing the exact work that we are doing,  nonetheless support our vision and want to contribute to our work. With a consolidated space, we will be able to include the resources and experience that they offer. Our vision is unique, but it also includes other groups working in media, radio and art. We are the only organization that is working with this type of media plan. We feel that we are serving the community in a way that is important and is not currently being fostered.\r\n\r\nExperimental Half-Hour was started as a platform to engage and broadcast local and international musicians, performance artists, dancers, and comedians. The half-hour episodes provide a record of contemporary performing arts and video culture. Conceptual collaboration is stimulated by access to a broad range of new and old technologies ranging from live video broadcasting to glitch-based homemade video effects “stomp” boxes. We want to create a collaborative environment that stimulates unexpected, pleasant surprises. Experiences that that bring artists and the community together.  "
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '1'
-  resources_infrastructure: '1'
-  resources_education: '0'
-  resources_technical: '1'
-  resources_communityoutreach: '0'
-  resources_research: '0'
   Which area(s) of LA does your project benefit?:
     - Central LA
     - East LA

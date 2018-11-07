@@ -14,55 +14,10 @@ project_image: >-
 project_video: ''
 project_areas: []
 maker_answers:
-  metrics_create_researchgrant: '0'
-  metrics_create_employment: '1'
-  org_website: WWW.URBANAIR.IS
-  org_twitter: '@URBANAIRPROJECT'
-  org_facebook: www.facebook.com/UrbanAirProject
-  org_instagram: ''
-  org_mailingaddress: "1605 NORTH TOPANGA CANYON BLVD\r\nTOPANGA CYN, CA 90290"
-  org_ein: '263261159'
-  org_nonprofit: '0'
-  org_forprofit: '1'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '0'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '1'
-  describe_organization: >-
-    Urban Air is a global artwork that transforms urban billboards into living,
-    intelligently networked, suspended  cloud forests.  
+  achievable_goal: "pilot installation and rollout\r\nDuring the design and prep phase Urban Air will erect the pilot or prototype greenboard in Los Angeles — ideally in Q1 2015.  Summit Media has already guaranteed donation of the media site for the Urban Air prototype.  This pilot installation will serve multiple ends:  1) it will allow us to do real-world testing of the technologies, designs and construction techniques before rolling out to other target sites;  2) it will provide an engine to build velocity for marketing and promotion — telling the Urban Air story;  and 3) it allows Urban Air to market its successful Kickstarter campaign, which generated over 21,000 blog posts and articles, 150,000 downloads of video, and over 600,000 social media impressions.  \r\nbeaco2n climate monitoring project\r\nEach Urban Air “greenboard” will be a local ground-zero node in a networked array of sensors providing real-time measurements of carbon dioxide and other pollutants. This is made possible by the collaboration of the renowned University of California Berkeley Atmospheric Science Center BEACO2N atmospheric observation project.  BEACO2N has produced a single-sensor node for CO2, NO2, O3, CO and other atmospheric gases, and will provide these proprietary sensors for Urban Air. Data from the sensors is collected once every five seconds and transmitted to a centralized server for broadcast. BEACO2N combines and calculates all data to produce an accurate, highly resolved picture of real-time pollutant concentrations, which is streamable to a custom mobile app or web-based dashboard.  \r\n\r\nlocal expediter/coordinator\r\nOne of the key production assumptions is that Urban Air will require a “local expediter” to ensure a smooth permitting and construction process — someone who is experienced with the environment of local outdoor advertising construction in the target cities, knows the local tradesmen and materials suppliers, and is familiar with the relevant city government agencies.  \r\nRMG, our outdoor advertising design specialist, has a national network of such expediters, and it’s even possible that Urban Air will be able to engage one expediter with experience in all of the target cities."
   one_sentence_project: >-
     Urban-scaled purposeful artworks as networked atmospheric monitors — fuse
     good art and good science to the global commercial infrastructure
-  describe_idea: >-
-    @urbanairproject transforms billboards to floating cloud forests and
-    networked climate monitors.Vote to make it happen in LA!
-  all_county: '1'
-  region_county: '0'
-  population_county: '0'
-  'no': '0'
-  area_centralLA: '0'
-  area_eastLA: '0'
-  area_southLA: '0'
-  area_sangabrielvalley: '0'
-  area_sanfernandovalley: '0'
-  area_southbay: '0'
-  area_westside: '0'
-  'area_other:': '0'
-  area_other_blank: ''
-  more_detail: >-
-    Urban Air reimagines one of the prime symbols of urban commercial messaging
-    as a powerful public/private partnership in service of climate science and
-    the green economy, inspiring dialog around urban blight/green space and
-    climate change. Urban Air sites are embedded with proprietary sensor
-    technologies measuring CO2 levels and other key atmospheric gases in and
-    around the billboard’s cloud forest.  Each “greenboard” is a local node in a
-    networked array of sensors provided through partnership with the BEACO2N
-    atmospheric observation project. Urban Air is also a platform for social
-    engagement and as urban nodes - and also as virtual hangouts broadcasting
-    free Urban Air WiFi  as location services in mobile apps and other social
-    media. 
   implement: "During the design and prep phase Urban Air will erect the pilot or prototype greenboard in Los Angeles — ideally in Q1 2015.  Summit Media has already guaranteed donation of the media site for the Urban Air prototype.  This pilot installation will serve multiple ends:  1) it will allow us to do real-world testing of the technologies, designs and construction techniques before rolling out to other target sites;  2) it will provide an engine to build velocity for marketing and promotion — telling the Urban Air story;  and 3) it allows Urban Air to market its successful Kickstarter campaign, which generated over 21,000 blog posts and articles, 150,000 downloads of video, and over 600,000 social media impressions.  \r\n\r\nsite considerations\r\nIdeally the sponsor/underwriting partner(s) will have existing relationships (or even existing contracts) for outdoor media, and would be able to offer Urban Air several location choices in each target c40 city.  We assume this will be a point of negotiation with sponsor partners, but ideally the Urban Air team would be able to make the final determination as to the sites.  \r\nSome of the considerations driving suitability of Urban Air sites are:\r\n\r\nHigh traffic/visibility for maximum impact of the project.\r\nViability of the existing billboard:  will it require retrofitting and is it capable of being re-designed within the budget/technical parameters established for the project.\r\nSuitability for data monitoring goals of the project.\r\nSuitability for social networking/destination goals of the project.\r\nVisual/aesthetic considerations, such as surrounding buildings and background picture.\r\n\r\nAlthough much site research can be done virtually (with googleEarth/gMaps street view, existing photos provided by outdoor media companies, etc.), members of the Urban Air team will be required to make at least one site visit during this project phase (structural engineer, designer and/or project lead).  This visit also will net important documentation assets, including site photographs and plans.\r\nclimate science and installation duration\r\nThe vision of Urban Air, and one of its key concepts, is to monitor and publicize carbon footprint reduction through the year 2020 (this is the c40 initiative target date, and also the target date of the BEACO2N project).  For the costs of the strategic BEACO2N partnership to make sense, and to ensure scientific value for the project, BEACO2N sensors must be in place for at least one year — ideally two years or more. "
   impact_create: "Urban Air is a public artwork that also puts an active face on the possibility of urban sustainability. Urban Air will bring an urgency and vibrancy to the civic landscape, inspire community dialogue and action, beautify transit corridors, and ultimately connect people. Much like a modern city, bamboo is at once both vertical and horizontal.  Each culm is connected to and sustained by the others through a vast rhizome network. Like streets, mass transit, or electrical grids in a modern city, everything and everyone is connected. The health of any individual within such a system is ultimately dependent on the health of the system as a whole. Urban Air will contribute to the overall health of Los Angeles. \r\n\r\nThroughout history, art has been a vital sphere and critical element in the construct of communities. It has lived in the public realm in cave paintings, religious idols and shrines, piazza’s, monuments, and more. In the 20th century, with the privatization of culture, art moved more into the realm of institutions, museums, and private collections. The sphere of art however, still occupies critical social space. It enhances cities by contributing to commerce and helping to revitalize neighborhoods and communities. Today however, the presence and role of art is frequently replaced by advertising. Urban Air will also generate value and spectacle in the public realm, though with a different intent.  \r\n\r\nUrban Air reclaims the territory of advertising traditionally occupied by billboards, and as such directly intervenes, engages, and transforms it. Today advertising is consciously exploring its ability to generate new value. Social entrepreneurship, transparency, and sustainability are emerging as business’s new index of what matters. Likewise, the need to experience creativity “for no reason” - art for art’s sake - in daily, urban life, becomes more urgent. Urban Air takes on that action. With its ideal climate, Los Angeles is poised to become a world leader in sustainable urban culture. As an accessible work of art and a green, interconnected billboard, Urban Air will be a flag flown for both.\r\n"
   who_benefit: >-
@@ -78,27 +33,6 @@ maker_answers:
     green apirations and policies, and be the first in the worl to launch a
     global program.
   partners_collaboration: "The following collaborators are all confirmed and been on board 6 months to 2 years\r\n\r\nthe urban air team\r\nUrban Air is conceived, designed, and will be produced by Stephen Glassman Studio.  Urban Air has rapidly expanded from a solo artist’s vision into a work of scale and impact, and has inspired key vanguard professionals in related fields — engineers, technologists, media professionals, environmental and industry figures — all collaborating to realize not only the prototype Urban Air installation in Los Angeles, but to craft a viable, scalable system that will allow Urban Air billboard gardens to be elevated in dense urban environments around the globe. \r\nThe Urban Air executive team includes artist and designer Stephen Glassman, who has created socially-relevant large-scale artworks around the world, Supervising Producer Steve Reiss, an environmentalist and award winning producer who has collaborated with a long roster of Hollywood A-list talent across all media, and Aaron Slavin, a multi-faceted creative producer who specializes in grand-scale festivals — especially site-specific multi-media works with an art/science focus that impact urban civic spaces.  \r\n\r\nkey collaborators and technologies\L:\r\n\r\nstephen glassman studios (Design and Production)\r\n\r\nSHFT.com - Adrian Grenier and Peter Glatzer, producers\L\r\n\r\nbeaco2n climate project (U.C. Berkeley Atmospheric Science Center)\r\n\r\narup (Engineering / Environmental Consultants)\r\n\r\n \L4 ton dream  (Computer Graphics / Pre-visualization)\r\n\r\nsummit media (U.S. Outdoor Advertising)\r\n\r\nrmg, inc. (Outdoor Advertising Design and Fabrication)\r\n\r\n\Lmcdaniel, inc. (Fabrication and Installation)\t\r\n\L\r\natomizing systems, inc. (Cold Fog Hydration)\r\n\r\n\Lamerican bamboo society (ABS — National Bamboo Supply Network)\_\r\n\r\nDeborah Marton – NY Restoration Project\r\n(urban planning / sustainability)\r\n\r\nSophie Wong – Marketing Arm\r\nMarketing and promotion\r\n\r\n\r\n"
-  org_name: URBAN AIR
-  metrics_create_arts: '1'
-  metrics_create_manufacturing: '0'
-  city_state: 'TOPANGA CYN, CA'
-  metrics_create_patents: '0'
-  metrics_create_jbs: '0'
-  metrics_create_minoritywomenowned: '0'
-  metrics_create_gini: '0'
-  metrics_create_startups: '0'
-  metrics_create_venturecapital: '0'
-  metrics_create_influencers: '1'
-  metrics_create_recruitingrates: '0'
-  metrics_create_graduates: '0'
-  metrics_create_unemployment: '0'
-  metrics_create_other: '0'
-  metrics_create_blank: ''
-  resources_network: '1'
-  best_place_to_learn: '1'
-  best_place_to_connect: '1'
-  healthiest_place_to_live: '1'
-  best_place_to_play: '1'
   evaluate: "The first and most important measure of success is a prominent, fully produced and realized Urban Air billboard at a significant intersection or at a major thoroughfare in Los Angeles by the end of 2013. However, its realization alone is only the beginning of the equation. As the piece is intended to be a catalyst, the impact it generates is of equal, if not greater importance. Urban Air must inspire widespread and formidable dialogue, a matrix that can be tracked to some extent through media coverage. Likewise the amount of interest and inquiry by other cities to create like projects will indicate a measure of success. As has been done to date, we will note success in the ability of Urban Air to inspire academic curriculums, generate college classes and workshops, and stimulate other professional collaborations and artistic endeavors. An important evaluation will be the goal of shifting the edges and territories of art, building, and infrastructure in the public realm.  For example, Arup Engineering is already beginning in-house conversations to explore the possibility of public building – both art and architecture – as possible creative and beautiful solutions to a greener urban future.\r\n\r\nA technical success will be in the comparative monitoring of environmental qualities. The embedded environmental sensors will be streaming to the Urban Air website, and this data stream will be available to the public. Traffic to the website, both its quantity and quality, will be easily measured.\r\n\r\nSuccess will also mean a measurable and discernable result in the culture of advertising within the city and beyond. This could include launching a potential collaboration with an advertising company or a discernable change in the aesthetics of some ad campaigns. Questions we will ask ourselves to measure success and evaluate our project will include: Did we affect a cultural change and inspire artistic and sustainable innovation in the advertising landscape? Can Urban Air inspire and begin to generate an advertising landscape that contributes to the city and serves people? Can we begin to imagine buildings and monuments that both clean the air and beautify the skyline?  As ultimately we would like to see Urban Air become a global initiative, perhaps in partnership with the Clinton C40 Initiative – a combined effort of the 40 largest cities in the world to reduce their carbon footprint by the year 2020, to generate interest and a connection with them would be an important and "
   two_lessons: >-
     The barriers between Art, Commerce, Science, Public, and Private have led us
@@ -108,17 +42,19 @@ maker_answers:
     is recontextualized s a serviceable infrastructure, and advertising becomes
     a beautiful service, and opaque messaging becomes transparent nodes of
     interconnectivity.
-  achievable_goal: "pilot installation and rollout\r\nDuring the design and prep phase Urban Air will erect the pilot or prototype greenboard in Los Angeles — ideally in Q1 2015.  Summit Media has already guaranteed donation of the media site for the Urban Air prototype.  This pilot installation will serve multiple ends:  1) it will allow us to do real-world testing of the technologies, designs and construction techniques before rolling out to other target sites;  2) it will provide an engine to build velocity for marketing and promotion — telling the Urban Air story;  and 3) it allows Urban Air to market its successful Kickstarter campaign, which generated over 21,000 blog posts and articles, 150,000 downloads of video, and over 600,000 social media impressions.  \r\nbeaco2n climate monitoring project\r\nEach Urban Air “greenboard” will be a local ground-zero node in a networked array of sensors providing real-time measurements of carbon dioxide and other pollutants. This is made possible by the collaboration of the renowned University of California Berkeley Atmospheric Science Center BEACO2N atmospheric observation project.  BEACO2N has produced a single-sensor node for CO2, NO2, O3, CO and other atmospheric gases, and will provide these proprietary sensors for Urban Air. Data from the sensors is collected once every five seconds and transmitted to a centralized server for broadcast. BEACO2N combines and calculates all data to produce an accurate, highly resolved picture of real-time pollutant concentrations, which is streamable to a custom mobile app or web-based dashboard.  \r\n\r\nlocal expediter/coordinator\r\nOne of the key production assumptions is that Urban Air will require a “local expediter” to ensure a smooth permitting and construction process — someone who is experienced with the environment of local outdoor advertising construction in the target cities, knows the local tradesmen and materials suppliers, and is familiar with the relevant city government agencies.  \r\nRMG, our outdoor advertising design specialist, has a national network of such expediters, and it’s even possible that Urban Air will be able to engage one expediter with experience in all of the target cities."
+  more_detail: >-
+    Urban Air reimagines one of the prime symbols of urban commercial messaging
+    as a powerful public/private partnership in service of climate science and
+    the green economy, inspiring dialog around urban blight/green space and
+    climate change. Urban Air sites are embedded with proprietary sensor
+    technologies measuring CO2 levels and other key atmospheric gases in and
+    around the billboard’s cloud forest.  Each “greenboard” is a local node in a
+    networked array of sensors provided through partnership with the BEACO2N
+    atmospheric observation project. Urban Air is also a platform for social
+    engagement and as urban nodes - and also as virtual hangouts broadcasting
+    free Urban Air WiFi  as location services in mobile apps and other social
+    media. 
   major_challenges: "Working creatively on a large scale in the public realm is always a challenge. Lead Artist Stephen Glassman has a long history and substantial portfolio creating and producing high concept, large scale, structural artworks in the public domain. He understands navigating this frontier.\r\n\r\nBillboards are a unique territory. We are fortunate to have the support and partnership of Summit Media. Through Summit, we have been working closely with licensed billboard fabricators and engineers that are specifically equipped to engineer, permit, and install custom billboards. Their expertise will be augmented by structural engineer Bruce Danziger of Arup – a premier global engineering firm that has engineered break through architectural landmarks around the world – from the Beijing Olympic Stadium to Seattle's Public Library. Stephen has collaborated with Buce and Arup on a half dozen prior projects.\r\n\r\nThe environmental sensors and intelligent technology is also a cutting edge territory, and for this Arup’s participation is again invaluable. Russell Fortmeyer is Arup’s senior sustainability and technology consultant. The technology we will be incorporating is all existing – it is only the context that is unique. Russell and Arup have many colleagues in this field that are excited to contribute. UrbanAir producer Steve Reiss and advisor Deborah Marton have long histories in environmental charitable development, and have worked with several technology companies who are excited to participate.\r\n\r\nLike any authentic and vital artwork, the greatest risk and challenge UrbanAir faces is to create something that has never before existed – to embrace the unknown and create something from nothing. The key to UrbanAir’s success is its remarkable team – years of experience and proven expertise in cutting edge, civic scale projects. They are vanguard professionals inspired by bold challenges, and committed to creating a better world."
-  competition: "Stephen Glassman Studio  is committed to a rigorous inquiry that  intuitively explores concept , form, and process. Glassman is engaged in the creation of large-scale national and international public art works that include architecturally integrated sculptures, civic monuments, plazas, bridges, and transit developments.  Often formidable in scale, the work extends organically from a site and is distinct in its ability to invite, generate and celebrate community. Stephen Glassman represents a generation of public artists that have always created work on the street - art for art’s sake in a social context.\r\n\r\nGenerally speaking, the production arena for artists relies on the luxury art market (galleries and museums), public percent for art funding, academia, and/or design services. Like other art studios, Stephen Glassman is active in all of these venues. What makes his approach unique however, is that these venues are only part of the overall context of his work. Glassman comes from a history of cross disciplinary collaborations - not only with architects and engineers... but also with graffiti artists, circus acrobats, martial artists, bamboo workers, dancers, performers, and artists such as Perry Farrel, Philippe Petit, Jonathan Borofsky, Paris Opera, Moscow Circus, and filmmakers such as Kevin Kerslake and Catherine Hardwicke  (his European debut received the most significant critical acclaim from the scientific community). Stephen Glassman’s work and practice is the result of a lifetime of community development, dialogue, and production. \r\n\r\nUrban Air represents a distinct breakthrough. Glassman’s choice to work in the public realm (circa 1992) was a choice to develop scale and social impact in his work. While sculptures indeed became “big”, he began to feel that the “box” they existed within was growing just as big. The challenge was to achieve a freer scale, and that answer lied within the size, budgets, or markets of the work, but rather within the arena of its “context”.\r\n\r\nUrban Air achieves a scale and impact that cannot be measured in feet, inches, or locale. It gives up public sculpture’s traditional reliance on a “public art”  context. Rather, it lives as a bold intuitive gesture between disciplines, between arenas, between territories. It is revolutionary in that it is a form and concept that is scalable.  And, as evidenced bby its viral internet presence, Urban Air speaks tangibly and powerfully  to a global audience.\r\n\r\n"
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '1'
-  resources_infrastructure: '1'
-  resources_education: '0'
-  resources_technical: '0'
-  resources_communityoutreach: '1'
-  resources_research: '0'
   Which area(s) of LA does your project benefit?: []
   Does your project impact Los Angeles County?: 'No'
   How will your project impact the LA2050 “Create” metrics?:

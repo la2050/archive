@@ -13,40 +13,12 @@ project_image: 'https://img.youtube.com/vi/Cb6MAN2lVkg/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Cb6MAN2lVkg'
 project_areas: []
 maker_answers:
-  metrics_live_selfsufficiency: '0'
-  metrics_live_healthcare: '0'
-  org_website: 'http://safecast.org'
-  org_twitter: '@safecast'
-  org_facebook: 'http://www.facebook.com/safecast'
-  org_instagram: none
-  org_mailingaddress: '3913 Spade Pl, Culver City, CA 90232'
-  EIN: '770462154'
-  org_nonprofit: '1'
-  org_forprofit: '0'
-  org_government: '0'
-  org_individual: '0'
-  describe_soloactor: '1'
-  describe_proposedcollaboration: '0'
-  describe_collaboration: '0'
-  describe_organization: >-
-    Hoping to build out a realtime environmental monitoring sensor network in
-    Los Angeles!
-  all_county: '1'
-  region_county: '1'
-  population_county: '1'
-  'no': '0'
-  area_centralLA: '1'
-  area_eastLA: '1'
-  area_southLA: '1'
-  area_sangabrielvalley: '1'
-  area_sanfernandovalley: '1'
-  area_southbay: '1'
-  area_westside: '1'
-  'area_other:': '0'
-  area_other_blank: ''
-  describe_idea: >-
-    We have a prototype network up and running in Fukushima Japan now, want to
-    launch full network in Los Angeles.
+  achievable_goal: >-
+    Our prototype network is up and running currently, if we had confirmed
+    funding for development of the production sensors we could put that into
+    action. Our track record shows how fast we can move and what we can pull
+    off, so it's really just a matter of getting the sensors in hand and putting
+    them out in the world.
   more_detail: >-
     Started in response to the Fukushima meltdown in 2011 - In 3 years Safecast
     has built the most trusted citizen monitoring network for radiation data in
@@ -55,9 +27,6 @@ maker_answers:
     network and adding other environmental data to that - air quality, weather,
     etc. We have a prototype network up and running now, but would love to
     deploy a full network in Los Angeles as the first US initiative.
-  implement: >-
-    Finalize the production version of our sensors, secure locations then
-    purchase, build and deploy sensors around Los Angeles.
   impact_live: >-
     With our radiation data we changed the established method of reporting data
     as huge averages to giving pinpoint data down to a specific GPS location,
@@ -75,27 +44,6 @@ maker_answers:
     concrete data for their work, and policy/government who currently have
     limited data with which to make decisions.
   partners_collaboration: For Los Angeles we won't need any partners to deploy this.
-  metrics_live_healthyfood: '0'
-  city_state: los angeles
-  org_name: Safecast
-  metrics_live_airtoxins: '1'
-  metrics_live_importedwater: '0'
-  metrics_live_obesity: '0'
-  metrics_live_homelessness: '0'
-  metrics_live_walkscore: '0'
-  metrics_live_pollutedwaterways: '1'
-  metrics_live_mentalillness: '0'
-  metrics_live_childhood: '0'
-  metrics_live_communities: '0'
-  metrics_live_healthcareservice: '0'
-  metrics_live_treecanopy: '0'
-  metrics_live_other: '0'
-  metrics_live_blank: ''
-  resources_network: '0'
-  best_place_to_create: '1'
-  best_place_to_play: '0'
-  best_place_to_connect: '0'
-  best_place_to_learn: '0'
   evaluate: >-
     If we can deploy enough sensors to collect relevant data, if the data we
     collect is useful to others, if people make decisions based on our data.
@@ -105,32 +53,14 @@ maker_answers:
     them in ways they never imagined. We also learned the value of lean and
     agile development -rather than making plans for 5 years from now we decide
     what we can do that will be most impactful today.
-  achievable_goal: >-
-    Our prototype network is up and running currently, if we had confirmed
-    funding for development of the production sensors we could put that into
-    action. Our track record shows how fast we can move and what we can pull
-    off, so it's really just a matter of getting the sensors in hand and putting
-    them out in the world.
+  implement: >-
+    Finalize the production version of our sensors, secure locations then
+    purchase, build and deploy sensors around Los Angeles.
   major_challenges: >-
     We thought volunteers would be our biggest problem, but we have more
     volunteers and offers to help and house sensors than we know what do to do
     with. Our problems have consistently been getting enough hardware out to
     people fast enough.
-  competition: >-
-    There are lots of organizations collecting environmental data, the core
-    difference with Safecast is we are focused on only collecting high quality
-    scientifically defensible data. Many other groups focus on cheaper sensors
-    to get more into the field, but this results in untrustworthy data. We opt
-    for more expensive sensors that are reliable and provide quality data that
-    be acted on directly.
-  resources_money: '1'
-  resources_staff: '1'
-  resources_publicity: '1'
-  resources_infrastructure: '0'
-  resources_education: '0'
-  resources_technical: '0'
-  resources_communityoutreach: '0'
-  resources_research: '0'
   Which area(s) of LA does your project benefit?:
     - Central LA
     - East LA
