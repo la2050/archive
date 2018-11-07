@@ -22,19 +22,14 @@ zip: '90016'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23622%252Fdisplay%252FironboxeducationLA2050.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/powerovernumbers.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102147'
 project_titles:
   - Giving Students Power Over Numbers and Power Over Learning
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/powerovernumbers.html'
-  project_ids: []
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102147'
 maker_image_file_name: ironboxeducationLA2050.jpg
 maker_image_id: '23622'
 cached_project_image: >-

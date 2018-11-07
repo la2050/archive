@@ -21,20 +21,14 @@ ein: '471275709'
 zip: '90301'
 project_image: 'https://img.youtube.com/vi/yy9nnTHABlE/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050create2015/projects/DREAMHAUS.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102085'
 project_titles:
   - Pioneer the Dreams and Aspirations of Youth & Artists in South Los Angeles
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050create2015/projects/DREAMHAUS.html'
-  project_ids:
-    - '5102085'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102085'
 youtube_video_identifier: yy9nnTHABlE
 cached_project_image: >-
   https://archive-assets.la2050.org/images/dreamhaus-inc/img.youtube.com/vi/yy9nnTHABlE/maxresdefault.jpg

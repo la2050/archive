@@ -21,20 +21,14 @@ ein: '823768348'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/süprseed.jpg'
 project_video: 'https://www.youtube.com/watch?v=KcRryxjBr-8'
+challenge_url:
+  - 'https://activation.la2050.org/live/süprseed/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102113'
 project_titles:
   - Bring Fresh Food Where it's Needed with Education + Access via SÜPRMARKT
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/live/süprseed/'
-  project_ids:
-    - '8102113'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102113'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/süprseed-inc/activation.la2050.org/assets/images/live/2048-wide/süprseed.jpg
 

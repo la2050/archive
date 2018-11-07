@@ -21,19 +21,14 @@ zip: '90015'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23544%252Fdisplay%252FIMG_8112_web.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050create2015/projects/offthesaw.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102222'
 project_titles:
   - Creating a Space for the Creative Class
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050create2015/projects/offthesaw.html'
-  project_ids: []
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102222'
 maker_image_file_name: IMG_8112_web.jpg
 maker_image_id: '23544'
 cached_project_image: >-

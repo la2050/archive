@@ -22,6 +22,10 @@ zip: '91711'
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/crayon-collection.jpg
 project_video: 'https://www.youtube.com/watch?v=oGbTN4Ysvfw'
+challenge_url:
+  - 'https://activation.la2050.org/learn/crayon-collection/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102032'
 project_titles:
@@ -31,16 +35,6 @@ project_titles:
   - >-
     Crayon Collection: prevent waste in landfills; increase arts education in
     low income schools. 
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/learn/crayon-collection/'
-  project_ids:
-    - '8102032'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102032'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/crayon-collection/activation.la2050.org/assets/images/learn/2048-wide/crayon-collection.jpg
 

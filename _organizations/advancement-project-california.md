@@ -21,24 +21,17 @@ ein: '954835230'
 zip: 90026-3291
 project_image: 'https://img.youtube.com/vi/nt_fnRYCyhI/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050play/projects/DisruptViolence.html'
+  - 'http://maker.good.is/myla2050/projects/SafeStreetsinWatts.html'
+year_submitted:
+  - '2014'
+  - '2013'
 project_ids:
   - '4102003'
+  - '3102007'
 project_titles:
   - 'Disrupt Violence: Hot Zones into Play Zones'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050play/projects/DisruptViolence.html'
-    - 'http://maker.good.is/myla2050/projects/SafeStreetsinWatts.html'
-  project_ids:
-    - '4102005'
-    - '3102007'
-  year_submitted:
-    - '2014'
-    - '2013'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102003'
-  - '3102007'
 youtube_video_identifier: nt_fnRYCyhI
 cached_project_image: >-
   https://archive-assets.la2050.org/images/advancement-project-california/img.youtube.com/vi/nt_fnRYCyhI/maxresdefault.jpg

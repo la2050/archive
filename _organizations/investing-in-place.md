@@ -23,6 +23,13 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/investing-in-place.jpg
 project_video: 'https://www.youtube.com/watch?v=p_hZaJvzgqE'
+challenge_url:
+  - 'https://activation.la2050.org/connect/investing-in-place/'
+  - >-
+    https://challenge.la2050.org/entry/you-cant-get-ahead-if-you-cant-get-around-stories-research-on-howweroll
+year_submitted:
+  - '2018'
+  - '2016'
 project_ids:
   - '8102055'
   - '6102107'
@@ -31,21 +38,6 @@ project_titles:
   - >-
     You Can’t Get Ahead If You Can’t Get Around: Stories & Research on
     #HowWeRoll
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/investing-in-place/'
-    - >-
-      https://challenge.la2050.org/entry/you-cant-get-ahead-if-you-cant-get-around-stories-research-on-howweroll
-  project_ids:
-    - '8102055'
-    - '6102107'
-  year_submitted:
-    - '2018'
-    - '2016'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102055'
-  - '6102107'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/investing-in-place/activation.la2050.org/assets/images/connect/2048-wide/investing-in-place.jpg
 

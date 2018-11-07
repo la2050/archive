@@ -22,6 +22,13 @@ zip: '90714'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9165635165741-team90.JPG
 project_video: ''
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/the-bilingual-scientists-engineers-mathematicians-and-innovators-semi-program
+  - 'http://maker.good.is/myla2050learn2015/projects/dualimmersion.html'
+year_submitted:
+  - '2016'
+  - '2015'
 project_ids:
   - '6102176'
   - '5102231'
@@ -30,21 +37,6 @@ project_titles:
   - >-
     The Bilingual Scientists, Engineers, Mathematicians and Innovators (SEMI)
     Program
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/the-bilingual-scientists-engineers-mathematicians-and-innovators-semi-program
-    - 'http://maker.good.is/myla2050learn2015/projects/dualimmersion.html'
-  project_ids:
-    - '6102176'
-    - '5102231'
-  year_submitted:
-    - '2016'
-    - '2015'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102176'
-  - '5102231'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/patrick-henry-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9165635165741-team90.JPG
 

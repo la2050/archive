@@ -22,23 +22,16 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/a-healthier-community-starts-with-youth.jpg
 project_video: 'https://vimeo.com/241727342'
+challenge_url:
+  - 'https://activation.la2050.org/live/a-healthier-community-starts-with-youth/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102004'
 project_titles:
   - >-
     A youth-led public health program involving health professionals, students,
     & our communities.
-aggregated:
-  challenge_url:
-    - >-
-      https://activation.la2050.org/live/a-healthier-community-starts-with-youth/
-  project_ids:
-    - '8102004'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102004'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/a-healthier-community-starts-with-youth/activation.la2050.org/assets/images/live/2048-wide/a-healthier-community-starts-with-youth.jpg
 

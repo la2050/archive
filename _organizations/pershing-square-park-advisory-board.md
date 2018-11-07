@@ -20,25 +20,17 @@ zip: '90012'
 project_image: >-
   https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/12347862_872341026221470_7403512315305716290_n.jpg?_nc_cat=104&oh=7b52d5a8687b32457d6f60fadc3117f6&oe=5C56422B
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050play/projects/KidsplayatPS.html'
+  - 'http://maker.good.is/myla2050/projects/KidsPlayatPS.html'
+year_submitted:
+  - '2014'
+  - '2013'
 project_ids:
   - '4102167'
   - '3102218'
 project_titles:
   - Kids Play at Pershing Square
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050play/projects/KidsplayatPS.html'
-    - 'http://maker.good.is/myla2050/projects/KidsPlayatPS.html'
-  project_ids:
-    - '4102068'
-    - '3102218'
-  year_submitted:
-    - '2014'
-    - '2013'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102167'
-  - '3102218'
 maker_image_file_name: Kids_Play_-_both_playgrounds_from_6th.jpg
 maker_image_id: '20546'
 cached_project_image: >-

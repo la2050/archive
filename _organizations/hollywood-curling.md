@@ -21,22 +21,16 @@ ein: '262477682'
 zip: '91409'
 project_image: 'https://img.youtube.com/vi/3ceZFpvVVU0/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050connect2015/projects/HOLLYWOODCURLING.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102134'
 project_titles:
   - >-
     Hollywood Curling- Building the San Fernando Valley Curling Center in Los
     Angeles
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050connect2015/projects/HOLLYWOODCURLING.html'
-  project_ids:
-    - '5102134'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102134'
 youtube_video_identifier: 3ceZFpvVVU0
 cached_project_image: >-
   https://archive-assets.la2050.org/images/hollywood-curling/img.youtube.com/vi/3ceZFpvVVU0/hqdefault.jpg

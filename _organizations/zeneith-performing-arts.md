@@ -21,23 +21,17 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6990906684741-team91.jpg
 project_video: 'https://www.youtube.com/embed/AW4FRTnLfzw?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/the-inner-city-dance-project-teaching-professional-dance-and-theater-to-las-inner-city-youth
+year_submitted:
+  - '2016'
 project_ids:
   - '6102289'
 project_titles:
   - >-
     The Inner City Dance Project: Teaching professional dance and theater to
     LA’s inner city youth
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/the-inner-city-dance-project-teaching-professional-dance-and-theater-to-las-inner-city-youth
-  project_ids:
-    - '6102289'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102289'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/zeneith-performing-arts/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6990906684741-team91.jpg
 

@@ -18,6 +18,9 @@ ein: '522007028'
 zip: '90245'
 project_image: 'https://img.youtube.com/vi/XNxfMssLYzc/hqdefault.jpg'
 project_video: ''
+challenge_url: []
+year_submitted:
+  - '2014'
 project_ids:
   - '4102042'
 project_titles:
@@ -27,15 +30,6 @@ project_titles:
   - >-
     College Summit: Equipping 4800 Low-Income Student For Success in College and
     Career
-aggregated:
-  challenge_url: []
-  project_ids:
-    - '4102122'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102042'
 youtube_video_identifier: XNxfMssLYzc
 cached_project_image: >-
   https://archive-assets.la2050.org/images/college-summit-southern-california/img.youtube.com/vi/XNxfMssLYzc/hqdefault.jpg

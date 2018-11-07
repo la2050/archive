@@ -23,6 +23,13 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5056172635741-team91.JPG
 project_video: 'https://www.youtube.com/embed/_7_25X6aAm4?rel=0&amp;showinfo=0'
+challenge_url:
+  - 'https://challenge.la2050.org/entry/celebrate-pacoima'
+  - 'http://maker.good.is/myla2050/projects/pacoimabeautiful.html'
+year_submitted:
+  - '2016'
+  - '2014'
+  - '2013'
 project_ids:
   - '6102173'
   - '4102087'
@@ -32,23 +39,6 @@ project_titles:
   - Extending the East San Fernando Valley Nature Parkway
   - Pacoima Beautiful
   - Van Nuys Blvd. Green Project
-aggregated:
-  challenge_url:
-    - 'https://challenge.la2050.org/entry/celebrate-pacoima'
-    - 'http://maker.good.is/myla2050/projects/pacoimabeautiful.html'
-  project_ids:
-    - '6102173'
-    - '4102236'
-    - '3102212'
-  year_submitted:
-    - '2016'
-    - '2014'
-    - '2013'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102173'
-  - '4102087'
-  - '3102212'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/pacoima-beautiful/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5056172635741-team91.JPG
 

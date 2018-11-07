@@ -23,21 +23,15 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7313280725741-team88.jpg
 project_video: 'https://www.youtube.com/embed/FvhRr2XfcvQ?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/free-showers-for-the-homeless-in-downtown-los-angeles
+year_submitted:
+  - '2016'
 project_ids:
   - '6102134'
 project_titles:
   - 'Free Showers for the Homeless in Downtown, Los Angeles'
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/free-showers-for-the-homeless-in-downtown-los-angeles
-  project_ids:
-    - '6102134'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102134'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/living-spring-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7313280725741-team88.jpg
 

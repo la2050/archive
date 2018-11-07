@@ -29,21 +29,15 @@ ein: '270794887'
 zip: ''
 project_image: 'https://img.youtube.com/vi/4zAG6xu-HQM/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/cartel.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102008'
 project_titles:
   - 'cARTel: Collaborative Arts LA''s To-Do List'
   - 'cARTel: Collaborative Arts LAs ToDo List'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/cartel.html'
-  project_ids:
-    - '3102008'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102008'
 youtube_video_identifier: 4zAG6xu-HQM
 cached_project_image: >-
   https://archive-assets.la2050.org/images/cartel-collaborative-arts-la/img.youtube.com/vi/4zAG6xu-HQM/hqdefault.jpg

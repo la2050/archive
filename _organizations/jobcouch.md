@@ -19,20 +19,14 @@ ein: '465572000'
 zip: '91362'
 project_image: 'https://img.youtube.com/vi/9l0UWGhKU-U/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050create2015/projects/jobcouch.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102150'
 project_titles:
   - Game Changing Marketplace to Source Hourly Jobseekers
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050create2015/projects/jobcouch.html'
-  project_ids:
-    - '5102239'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102150'
 youtube_video_identifier: 9l0UWGhKU-U
 cached_project_image: >-
   https://archive-assets.la2050.org/images/jobcouch/img.youtube.com/vi/9l0UWGhKU-U/maxresdefault.jpg

@@ -21,6 +21,12 @@ zip: '90016'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23662%252Fdisplay%252FCarrie_15-00963.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/ASN.html'
+  - 'http://maker.good.is/myLA2050play/projects/generationempathy.html'
+year_submitted:
+  - '2015'
+  - '2014'
 project_ids:
   - '5102279'
   - '4102197'
@@ -36,20 +42,6 @@ project_titles:
     spcaLAs ASN: Helping domestic violence survivors & their pets live safer
     healthier lives
   - End Violence Create Generation Empathy®
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/ASN.html'
-    - 'http://maker.good.is/myLA2050play/projects/generationempathy.html'
-  project_ids:
-    - '5102279'
-    - '4102214'
-  year_submitted:
-    - '2015'
-    - '2014'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102279'
-  - '4102197'
 maker_image_file_name: Carrie_15-00963.jpg
 maker_image_id: '23662'
 cached_project_image: >-

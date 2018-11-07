@@ -20,20 +20,14 @@ ein: '951992732'
 zip: 91330-8309
 project_image: 'https://img.youtube.com/vi/5tvdNOJ7fCw/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/CREATEProject.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102313'
 project_titles:
   - CREATE Project
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/CREATEProject.html'
-  project_ids:
-    - '5102313'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102313'
 youtube_video_identifier: 5tvdNOJ7fCw
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-university-corporation/img.youtube.com/vi/5tvdNOJ7fCw/hqdefault.jpg

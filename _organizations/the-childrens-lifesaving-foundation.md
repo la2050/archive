@@ -22,6 +22,14 @@ zip: '90403'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1698840075741-team91.PNG
 project_video: 'https://www.youtube.com/embed/FGTFKKha0-Q?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/help-us-create-and-inspire-the-future-tech-leaders-of-la!
+  - 'http://maker.good.is/myla2050play2015/projects/Camp4All.html'
+year_submitted:
+  - '2016'
+  - '2015'
+  - '2014'
 project_ids:
   - '6102238'
   - '5102298'
@@ -35,24 +43,6 @@ project_titles:
   - >-
     Camp4All takes homeless families to beautiful LA beaches for surfing
     recharging & play!
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/help-us-create-and-inspire-the-future-tech-leaders-of-la!
-    - 'http://maker.good.is/myla2050play2015/projects/Camp4All.html'
-  project_ids:
-    - '6102238'
-    - '5102298'
-    - '4102241'
-  year_submitted:
-    - '2016'
-    - '2015'
-    - '2014'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102238'
-  - '5102298'
-  - '4102209'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-childrens-lifesaving-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1698840075741-team91.PNG
 

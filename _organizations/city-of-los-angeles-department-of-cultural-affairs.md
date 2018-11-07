@@ -43,20 +43,14 @@ ein: '956000735'
 zip: ''
 project_image: 'https://img.youtube.com/vi/ZobE5kX4dTc/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/LACreates.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102067'
 project_titles:
   - LA Creates! Media Arts Learning Initiative
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/LACreates.html'
-  project_ids:
-    - '3102067'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102067'
 youtube_video_identifier: ZobE5kX4dTc
 cached_project_image: >-
   https://archive-assets.la2050.org/images/city-of-los-angeles-department-of-cultural-affairs/img.youtube.com/vi/ZobE5kX4dTc/hqdefault.jpg

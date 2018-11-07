@@ -21,20 +21,14 @@ ein: '954116679'
 zip: 90089-0034
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/mirys-list.jpg'
 project_video: 'https://youtu.be/6re3u9HlO-A'
+challenge_url:
+  - 'https://activation.la2050.org/connect/mirys-list/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102083'
 project_titles:
   - 'Welcome, Neighbor: Making LA the most welcoming place in America'
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/mirys-list/'
-  project_ids:
-    - '8102083'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102083'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/mirys-list/activation.la2050.org/assets/images/connect/2048-wide/mirys-list.jpg
 

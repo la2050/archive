@@ -22,6 +22,12 @@ zip: '90103'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20571%252Fdisplay%252Fdahlia3queque.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050play/projects/LAKidsGarden.html'
+  - 'http://maker.good.is/myla2050/projects/MuirRanch.html'
+year_submitted:
+  - '2014'
+  - '2013'
 project_ids:
   - '4102150'
   - '3102200'
@@ -35,20 +41,6 @@ project_titles:
   - >-
     Kids who sling kale eat kale: Launch 5 School Garden CSAs in LAs Food
     Deserts
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050play/projects/LAKidsGarden.html'
-    - 'http://maker.good.is/myla2050/projects/MuirRanch.html'
-  project_ids:
-    - '4102061'
-    - '3102200'
-  year_submitted:
-    - '2014'
-    - '2013'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102150'
-  - '3102200'
 maker_image_file_name: dahlia3queque.jpg
 maker_image_id: '20571'
 cached_project_image: >-

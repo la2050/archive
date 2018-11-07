@@ -21,20 +21,14 @@ ein: '264236328'
 zip: '90028'
 project_image: 'https://img.youtube.com/vi/t_fQo1Z6VSg/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050play2015/projects/HollywoodCentralPark.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102106'
 project_titles:
   - Hollywood Central Park proves that LA is the Best Place to Play
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050play2015/projects/HollywoodCentralPark.html'
-  project_ids:
-    - '5102106'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102106'
 youtube_video_identifier: t_fQo1Z6VSg
 cached_project_image: >-
   https://archive-assets.la2050.org/images/friends-of-the-hollywood-central-park-fhcp/img.youtube.com/vi/t_fQo1Z6VSg/hqdefault.jpg

@@ -21,8 +21,16 @@ zip: '91352'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
 project_video: ''
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/grow-local-plant-native!-youth-advocacy-for-sustainable-landscapes-at-la-public-housing
+  - 'http://maker.good.is/myla2050connect2015/projects/LFR.html'
+year_submitted:
+  - '2016'
+  - '2015'
 project_ids:
   - '6102261'
+  - '5102316'
 project_titles:
   - >-
     Grow Local: Plant Native! Youth advocacy for sustainable landscapes at LA
@@ -30,21 +38,6 @@ project_titles:
   - >-
     Grow Local: Plant Native! Youth advocacy for sustainable landscapes at LA
     Public Housing
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/grow-local-plant-native!-youth-advocacy-for-sustainable-landscapes-at-la-public-housing
-    - 'http://maker.good.is/myla2050connect2015/projects/LFR.html'
-  project_ids:
-    - '6102261'
-    - '5102316'
-  year_submitted:
-    - '2016'
-    - '2015'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102261'
-  - '5102316'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/theodore-payne-foundation-for-wild-flower-and-native-plants/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
 

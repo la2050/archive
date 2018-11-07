@@ -23,21 +23,15 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5119808783741-team88.png
 project_video: 'https://www.youtube.com/embed/A702YxASJIo?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/i3-arts-fest-an-interactive-immersive-and-innovative-public-arts-festival
+year_submitted:
+  - '2016'
 project_ids:
   - '6102099'
 project_titles:
   - 'I3 Arts Fest: An Interactive, Immersive and Innovative Public Arts Festival'
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/i3-arts-fest-an-interactive-immersive-and-innovative-public-arts-festival
-  project_ids:
-    - '6102099'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102099'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/i3-arts-fest/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5119808783741-team88.png
 

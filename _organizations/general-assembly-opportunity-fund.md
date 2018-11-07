@@ -18,21 +18,15 @@ ein: '272807367'
 zip: '10010'
 project_image: 'https://img.youtube.com/vi/CMmY955jD5A/maxresdefault.jpg'
 project_video: ''
+challenge_url: []
+year_submitted:
+  - '2014'
 project_ids:
   - '4102081'
 project_titles:
   - >-
     Opportunity Fund: Transformative Education & Opportunities in Technology for
     Underrepresented Groups
-aggregated:
-  challenge_url: []
-  project_ids:
-    - '4102064'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102081'
 youtube_video_identifier: CMmY955jD5A
 cached_project_image: >-
   https://archive-assets.la2050.org/images/general-assembly-opportunity-fund/img.youtube.com/vi/CMmY955jD5A/maxresdefault.jpg

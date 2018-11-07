@@ -32,21 +32,15 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16991%252Fdisplay%252Flasmartmap3.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/lasmartmap.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102066'
 project_titles:
   - 'Connecting Angelenos Through Smart, Engaging Neighborhood Maps'
   - Connecting Angelenos Through Smart Engaging Neighborhood Maps
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/lasmartmap.html'
-  project_ids:
-    - '3102066'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102066'
 maker_image_file_name: lasmartmap3.jpg
 maker_image_id: '16991'
 cached_project_image: >-

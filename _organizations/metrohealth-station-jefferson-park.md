@@ -16,18 +16,13 @@ zip: '90018'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22268%252Fdisplay%252FHeathy_Teens__LA.png=c570x385
 project_video: ''
+challenge_url: []
+year_submitted:
+  - '2014'
 project_ids:
   - '4102015'
 project_titles:
   - Healthy Teens Los Angeles
-aggregated:
-  challenge_url: []
-  project_ids: []
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102015'
 maker_image_file_name: Heathy_Teens__LA.png
 maker_image_id: '22268'
 cached_project_image: >-

@@ -31,20 +31,14 @@ ein: '460946310'
 zip: ''
 project_image: 'https://img.youtube.com/vi/CqF0Cn4dZJs/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/Greening7thinDTLA.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102155'
 project_titles:
   - Greening 7th St. in Skid Row/DTLA
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/Greening7thinDTLA.html'
-  project_ids:
-    - '3102155'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102155'
 youtube_video_identifier: CqF0Cn4dZJs
 cached_project_image: >-
   https://archive-assets.la2050.org/images/industrial-district-green/img.youtube.com/vi/CqF0Cn4dZJs/hqdefault.jpg

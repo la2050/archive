@@ -20,20 +20,14 @@ ein: '473703367'
 zip: '90249'
 project_image: 'https://img.youtube.com/vi/f_x1AGOuR7A/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/westcal.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102340'
 project_titles:
   - WestCal Career Pathways
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/westcal.html'
-  project_ids:
-    - '5102340'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102340'
 youtube_video_identifier: f_x1AGOuR7A
 cached_project_image: >-
   https://archive-assets.la2050.org/images/westcal-academy/img.youtube.com/vi/f_x1AGOuR7A/hqdefault.jpg

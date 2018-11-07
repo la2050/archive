@@ -19,21 +19,15 @@ ein: '952540759'
 zip: '91105'
 project_image: 'https://img.youtube.com/vi/awJQoJqGL-o/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102224'
 project_titles:
   - 'The Mirror, Mirror Project'
   - The Mirror Mirror Project
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'
-  project_ids:
-    - '4102094'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102224'
 youtube_video_identifier: awJQoJqGL-o
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-mirror-mirror-project/img.youtube.com/vi/awJQoJqGL-o/hqdefault.jpg

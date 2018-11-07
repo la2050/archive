@@ -19,20 +19,14 @@ ein: '273886515'
 zip: '90057'
 project_image: 'https://img.youtube.com/vi/G4cMVQVTBkM/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/StreetArt.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102212'
 project_titles:
   - StreetArt Brokerage Firm
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/StreetArt.html'
-  project_ids:
-    - '4102089'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102212'
 youtube_video_identifier: G4cMVQVTBkM
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-gabba-gallery-and-andrea-lahue-aka-random-act-aka-random-act-projects/img.youtube.com/vi/G4cMVQVTBkM/hqdefault.jpg

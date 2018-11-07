@@ -21,23 +21,17 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4956546915741-team89.JPG
 project_video: 'https://www.youtube.com/embed/lRjoDtwYF8s?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/meetsocal-a-kpcc-in-person-event-series-of-in-community-experiences-to-better-connect-angelenos
+year_submitted:
+  - '2016'
 project_ids:
   - '6102214'
 project_titles:
   - >-
     #MeetSoCal: A KPCC In Person event series of in-community experiences to
     better connect Angelenos
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/meetsocal-a-kpcc-in-person-event-series-of-in-community-experiences-to-better-connect-angelenos
-  project_ids:
-    - '6102214'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102214'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/southern-california-public-radio-kpcc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4956546915741-team89.JPG
 

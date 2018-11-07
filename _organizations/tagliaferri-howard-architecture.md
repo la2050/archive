@@ -22,20 +22,14 @@ zip: '90066'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23805%252Fdisplay%252FLA2050_Cover_image_flattened2.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050connect2015/projects/BallonaBikePedBridge.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102290'
 project_titles:
   - Ballona Creek Pedestrian/Bike Connector Bridge
-aggregated:
-  challenge_url:
-    - >-
-      http://maker.good.is/myla2050connect2015/projects/BallonaBikePedBridge.html
-  project_ids: []
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102290'
 maker_image_file_name: LA2050_Cover_image_flattened2.jpg
 maker_image_id: '23805'
 cached_project_image: >-

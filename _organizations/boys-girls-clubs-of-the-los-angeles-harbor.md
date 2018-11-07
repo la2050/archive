@@ -18,19 +18,13 @@ ein: '951661682'
 zip: '90731'
 project_image: 'https://img.youtube.com/vi/sI0_dZ4TpAA/maxresdefault.jpg'
 project_video: ''
+challenge_url: []
+year_submitted:
+  - '2014'
 project_ids:
   - '4102027'
 project_titles:
   - College Bound
-aggregated:
-  challenge_url: []
-  project_ids:
-    - '4102117'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102027'
 youtube_video_identifier: sI0_dZ4TpAA
 cached_project_image: >-
   https://archive-assets.la2050.org/images/boys-girls-clubs-of-the-los-angeles-harbor/img.youtube.com/vi/sI0_dZ4TpAA/maxresdefault.jpg

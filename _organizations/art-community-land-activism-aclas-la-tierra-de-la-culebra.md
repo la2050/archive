@@ -20,19 +20,13 @@ ein: '954592961'
 zip: '90042'
 project_image: 'https://img.youtube.com/vi/jAOkF8UAOLI/maxresdefault.jpg'
 project_video: ''
+challenge_url: []
+year_submitted:
+  - '2014'
 project_ids:
   - '4102094'
 project_titles:
   - Revitalizing La Tierra de la Culebra community art park
-aggregated:
-  challenge_url: []
-  project_ids:
-    - '4102114'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102094'
 youtube_video_identifier: jAOkF8UAOLI
 cached_project_image: >-
   https://archive-assets.la2050.org/images/art-community-land-activism-aclas-la-tierra-de-la-culebra/img.youtube.com/vi/jAOkF8UAOLI/maxresdefault.jpg

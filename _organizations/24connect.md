@@ -22,20 +22,14 @@ zip: '90048'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22856%252Fdisplay%252Fcreative_capital_img.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/CreativeCapital.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102001'
 project_titles:
   - CREATIVE CAPITAL FEST
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/CreativeCapital.html'
-  project_ids:
-    - '4102074'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102001'
 maker_image_file_name: creative_capital_img.jpg
 maker_image_id: '22856'
 cached_project_image: >-

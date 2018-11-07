@@ -19,20 +19,14 @@ ein: '510618883'
 zip: '90046'
 project_image: 'https://img.youtube.com/vi/qtJ5XumU1Gw/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050play/projects/BalkansLA.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102194'
 project_titles:
   - BALKAN - L.A. CULTURAL CROSSROADS
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050play/projects/BalkansLA.html'
-  project_ids:
-    - '4102084'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102194'
 youtube_video_identifier: qtJ5XumU1Gw
 cached_project_image: >-
   https://archive-assets.la2050.org/images/south-east-european-film-festival/img.youtube.com/vi/qtJ5XumU1Gw/maxresdefault.jpg

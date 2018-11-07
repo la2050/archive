@@ -39,20 +39,14 @@ ein: '841024566'
 zip: ''
 project_image: 'https://img.youtube.com/vi/Gx66ZyZaf90/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/GreenKidsLA2050.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102201'
 project_titles:
   - Pavement to Parks
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/GreenKidsLA2050.html'
-  project_ids:
-    - '3102201'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102201'
 youtube_video_identifier: Gx66ZyZaf90
 cached_project_image: >-
   https://archive-assets.la2050.org/images/national-park-service/img.youtube.com/vi/Gx66ZyZaf90/hqdefault.jpg

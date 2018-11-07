@@ -23,6 +23,13 @@ zip: '90012'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1371941023741-team90.jpg
 project_video: 'https://www.youtube.com/embed/Wx27G6vdyF4?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/arts-for-incarcerated-youth-network-using-arts-to-build-camptocareer-pipeline-for-youth
+  - 'http://maker.good.is/myla2050create2015/projects/AIYN.html'
+year_submitted:
+  - '2016'
+  - '2015'
 project_ids:
   - '6102012'
   - '5102024'
@@ -31,21 +38,6 @@ project_titles:
     Arts for Incarcerated Youth Network: using arts to build #camptocareer
     pipeline for youth
   - Arts for Incarcerated Youth Network
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/arts-for-incarcerated-youth-network-using-arts-to-build-camptocareer-pipeline-for-youth
-    - 'http://maker.good.is/myla2050create2015/projects/AIYN.html'
-  project_ids:
-    - '6102012'
-    - '5102024'
-  year_submitted:
-    - '2016'
-    - '2015'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102012'
-  - '5102024'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/arts-for-incarcerated-youth-network/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1371941023741-team90.jpg
 

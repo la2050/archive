@@ -41,20 +41,14 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16553%252Fdisplay%252FLA_2050__r.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/poroushousing.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102112'
 project_titles:
   - 'Porous Housing 2050: Housing Typology for DTLA in 2050'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/poroushousing.html'
-  project_ids:
-    - '3102112'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102112'
 maker_image_file_name: LA_2050__r.jpg
 maker_image_id: '16553'
 cached_project_image: >-

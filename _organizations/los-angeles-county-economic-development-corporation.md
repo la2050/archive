@@ -22,21 +22,15 @@ zip: '90071'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23271%252Fdisplay%252FStratPlanProg_Cover.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050create2015/projects/LAEconomicGrowthPlan.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102187'
 project_titles:
   - 'Implementing LA County’s Strategic Plan for Economic Development: 2016-2020 '
   - 'Implementing LA County’s Strategic Plan for Economic Development: 2016-2020'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050create2015/projects/LAEconomicGrowthPlan.html'
-  project_ids:
-    - '5102187'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102187'
 maker_image_file_name: StratPlanProg_Cover.jpg
 maker_image_id: '23271'
 cached_project_image: >-

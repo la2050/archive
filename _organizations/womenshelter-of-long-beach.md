@@ -22,21 +22,15 @@ zip: '90832'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20761%252Fdisplay%252Flogo.png=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050connect/projects/SNAC.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102259'
 project_titles:
   - 'Safe Networks, Active Communities'
   - Safe Networks Active Communities
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050connect/projects/SNAC.html'
-  project_ids:
-    - '4102107'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102259'
 maker_image_file_name: logo.png
 maker_image_id: '20761'
 cached_project_image: >-

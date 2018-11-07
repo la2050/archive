@@ -56,20 +56,14 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17141%252Fdisplay%252FLeroy.JPG=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/MillionBagGiveaway.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102050'
 project_titles:
   - The Million Reusable Bag Giveaway
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/MillionBagGiveaway.html'
-  project_ids:
-    - '3102050'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102050'
 maker_image_file_name: Leroy.JPG
 maker_image_id: '17141'
 cached_project_image: >-

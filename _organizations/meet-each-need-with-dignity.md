@@ -15,19 +15,13 @@ ein: '237306337'
 zip: '91331'
 project_image: 'https://img.youtube.com/vi/A3zOCbnCHLg/hqdefault.jpg'
 project_video: ''
+challenge_url: []
+year_submitted:
+  - '2014'
 project_ids:
   - '4102020'
 project_titles:
   - The Pathway
-aggregated:
-  challenge_url: []
-  project_ids:
-    - '4102153'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102020'
 youtube_video_identifier: A3zOCbnCHLg
 cached_project_image: >-
   https://archive-assets.la2050.org/images/meet-each-need-with-dignity/img.youtube.com/vi/A3zOCbnCHLg/hqdefault.jpg

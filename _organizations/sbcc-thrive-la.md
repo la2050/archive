@@ -23,27 +23,20 @@ ein: '237360521'
 zip: '90744'
 project_image: 'https://img.youtube.com/vi/Hey6DKTLdw8/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/sbccpww.html'
+  - 'http://maker.good.is/myLA2050create/projects/streetcraftla.html'
+  - 'http://maker.good.is/myla2050/projects/streetcraft.html'
+year_submitted:
+  - '2015'
+  - '2014'
+  - '2013'
 project_ids:
   - '5102262'
   - '4102186'
+  - '3102239'
 project_titles:
   - Preschool Without Walls
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/sbccpww.html'
-    - 'http://maker.good.is/myLA2050create/projects/streetcraftla.html'
-    - http://maker.good.is/myla2050/projects/streetcraft.html
-  project_ids:
-    - '5102262'
-  year_submitted:
-    - '2015'
-    - '2014'
-    - '2013'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102262'
-  - '4102186'
-  - '3102239'
 youtube_video_identifier: Hey6DKTLdw8
 cached_project_image: >-
   https://archive-assets.la2050.org/images/sbcc-thrive-la/img.youtube.com/vi/Hey6DKTLdw8/hqdefault.jpg

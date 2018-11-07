@@ -19,20 +19,14 @@ ein: '471442056'
 zip: '90027'
 project_image: 'https://img.youtube.com/vi/KofWk5qh3jE/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/TheImaginedFutures.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102228'
 project_titles:
   - The Imagined Futures
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/TheImaginedFutures.html'
-  project_ids:
-    - '4102096'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102228'
 youtube_video_identifier: KofWk5qh3jE
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-project-for-the-imagined-futures/img.youtube.com/vi/KofWk5qh3jE/hqdefault.jpg

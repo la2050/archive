@@ -21,21 +21,15 @@ ein: '472219458'
 zip: '90066'
 project_image: 'https://img.youtube.com/vi/EJWQ6cYZBCk/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/happycityla.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102125'
 project_titles:
   - 'Los Angeles Well-Being Project '
   - Los Angeles Well-Being Project
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/happycityla.html'
-  project_ids:
-    - '5102125'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102125'
 youtube_video_identifier: EJWQ6cYZBCk
 cached_project_image: >-
   https://archive-assets.la2050.org/images/happycity-los-angeles/img.youtube.com/vi/EJWQ6cYZBCk/hqdefault.jpg

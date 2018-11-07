@@ -19,20 +19,16 @@ ein: '900771336'
 zip: ''
 project_image: 'https://img.youtube.com/vi/kNqNTSXVqsI/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/FORT.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102072'
 project_titles:
   - FORT (Resident Makers Program to help creatives start their own companies).
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/FORT.html'
-  project_ids: []
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102072'
 youtube_video_identifier: kNqNTSXVqsI
-cached_project_image: https://archive-assets.la2050.org/images/fort/img.youtube.com/vi/kNqNTSXVqsI/hqdefault.jpg
+cached_project_image: >-
+  https://archive-assets.la2050.org/images/fort/img.youtube.com/vi/kNqNTSXVqsI/hqdefault.jpg
 
 ---

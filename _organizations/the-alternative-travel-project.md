@@ -24,26 +24,18 @@ ein: '464888726'
 zip: '90025'
 project_image: 'https://img.youtube.com/vi/u0DYRf98w-o/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/altravelproject.html'
+  - 'http://maker.good.is/myLA2050connect/projects/ALTravelProject.html'
+year_submitted:
+  - '2015'
+  - '2014'
 project_ids:
   - '5102296'
   - '4102206'
 project_titles:
   - The Alternative Travel Project
   - The Alternative Travel Project - Go car FREE for just ONE day!
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/altravelproject.html'
-    - 'http://maker.good.is/myLA2050connect/projects/ALTravelProject.html'
-  project_ids:
-    - '5102296'
-    - '4102215'
-  year_submitted:
-    - '2015'
-    - '2014'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102296'
-  - '4102206'
 youtube_video_identifier: u0DYRf98w-o
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-alternative-travel-project/img.youtube.com/vi/u0DYRf98w-o/maxresdefault.jpg

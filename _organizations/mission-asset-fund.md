@@ -33,21 +33,15 @@ zip: ''
 project_image: >-
   https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/13669238_1181409091911320_4114766164205155164_n.png?_nc_cat=106&oh=4fe74964532708cfdab996d6d793ba29&oe=5C5EC6FD
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/LendingCircles.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102198'
 project_titles:
   - 'Building on LA''s Social Capital '
   - 'Building on LAs Social Capital '
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/LendingCircles.html'
-  project_ids:
-    - '3102198'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102198'
 youtube_video_identifier: AXqYX0rfbys
 cached_project_image: >-
   https://archive-assets.la2050.org/images/mission-asset-fund/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/13669238_1181409091911320_4114766164205155164_n.png

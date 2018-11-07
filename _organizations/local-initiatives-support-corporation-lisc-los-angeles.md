@@ -22,6 +22,10 @@ zip: '90071'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23259%252Fdisplay%252Fpicture_1.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050create2015/projects/CreativepLAce.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102179'
 project_titles:
@@ -31,16 +35,6 @@ project_titles:
   - >-
     Creating culturally vibrant commercial corridors in LAs diverse
     neighborhoods
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050create2015/projects/CreativepLAce.html'
-  project_ids:
-    - '5102179'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102179'
 maker_image_file_name: picture_1.jpg
 maker_image_id: '23259'
 cached_project_image: >-

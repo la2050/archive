@@ -15,6 +15,11 @@ ein: '510179305'
 zip: '90017'
 project_image: 'https://img.youtube.com/vi/nF2CnqS_6oQ/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/POV.html'
+year_submitted:
+  - '2014'
+  - '2013'
 project_ids:
   - '4102164'
   - '3102215'
@@ -23,19 +28,6 @@ project_titles:
   - Make A Choice Campaign
   - Peace Over Violence
   - Childrens Counseling Program at POV
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/POV.html'
-  project_ids:
-    - '4102159'
-    - '3102215'
-  year_submitted:
-    - '2014'
-    - '2013'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102164'
-  - '3102215'
 youtube_video_identifier: nF2CnqS_6oQ
 cached_project_image: >-
   https://archive-assets.la2050.org/images/peace-over-violence/img.youtube.com/vi/nF2CnqS_6oQ/maxresdefault.jpg

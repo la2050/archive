@@ -23,6 +23,12 @@ zip: '90013'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/raise-a-child-inc.jpg
 project_video: 'https://vimeo.com/261964830'
+challenge_url:
+  - 'https://activation.la2050.org/connect/raise-a-child-inc/'
+  - 'http://maker.good.is/myLA2050connect/projects/RaiseAChild.html'
+year_submitted:
+  - '2018'
+  - '2014'
 project_ids:
   - '8102100'
   - '4102180'
@@ -33,20 +39,6 @@ project_titles:
   - >-
     20000 KIDS PROJECT LA: Connecting LA’s foster children with loving homes in
     our diverse communities
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/raise-a-child-inc/'
-    - 'http://maker.good.is/myLA2050connect/projects/RaiseAChild.html'
-  project_ids:
-    - '8102100'
-    - '4102263'
-  year_submitted:
-    - '2018'
-    - '2014'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102100'
-  - '4102180'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/raise-a-child-inc/activation.la2050.org/assets/images/connect/2048-wide/raise-a-child-inc.jpg
 

@@ -21,24 +21,17 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5555652265741-team90.jpg
 project_video: 'https://www.youtube.com/embed/ueKmJQlz92o?rel=0&amp;showinfo=0'
+challenge_url:
+  - 'https://challenge.la2050.org/entry/spark-la-youth-mentorships'
+  - 'http://maker.good.is/myla2050learn2015/projects/SparkLA.html'
+year_submitted:
+  - '2016'
+  - '2015'
 project_ids:
   - '6102216'
+  - '5102278'
 project_titles:
   - Spark LA Youth Mentorships
-aggregated:
-  challenge_url:
-    - 'https://challenge.la2050.org/entry/spark-la-youth-mentorships'
-    - 'http://maker.good.is/myla2050learn2015/projects/SparkLA.html'
-  project_ids:
-    - '6102216'
-    - '5102278'
-  year_submitted:
-    - '2016'
-    - '2015'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102216'
-  - '5102278'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/spark-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5555652265741-team90.jpg
 

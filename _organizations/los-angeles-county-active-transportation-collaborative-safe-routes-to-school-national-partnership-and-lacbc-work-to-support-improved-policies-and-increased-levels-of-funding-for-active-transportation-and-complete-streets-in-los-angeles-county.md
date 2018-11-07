@@ -23,21 +23,15 @@ zip: '90013'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22795%252Fdisplay%252FLA2050-pic-1_copy.jpg=c570x385
 project_video: ''
+challenge_url: []
+year_submitted:
+  - '2014'
 project_ids:
   - '4102258'
 project_titles:
   - >-
     Los Angeles Gets There: A Regional Storytelling project about mobility in
     Los Angeles County
-aggregated:
-  challenge_url: []
-  project_ids:
-    - '4102148'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102258'
 maker_image_file_name: LA2050-pic-1_copy.jpg
 maker_image_id: '22795'
 cached_project_image: >-

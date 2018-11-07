@@ -74,10 +74,10 @@ const attributes = [
   'zip',
   'project_image',
   'project_video',
+  'challenge_url',
+  'year_submitted',
   'project_ids',
   'project_titles',
-  'aggregated',
-  'year_submitted',
   'calculated_project_ids',
   'original_project_ids',
   'original_project_titles',
@@ -142,7 +142,7 @@ function processFile(filename) {
 
   // console.log("data.yaml.year_submitted: " + data.yaml.year_submitted)
 
-  if (data.yaml.published == false) return
+  // if (data.yaml.published == false) return
 
   /*
   try {
@@ -305,6 +305,7 @@ function processFile(filename) {
   // }
 
 
+  /*
   let project_ids = []
   let candidate_project_ids = []
   let suspect_project_ids = []
@@ -381,6 +382,7 @@ function processFile(filename) {
 
     // data.yaml.calculated_project_ids = project_ids
   }
+  */
 
 
   // delete data.yaml.calculated_project_ids
@@ -399,51 +401,31 @@ function processFile(filename) {
   //   return 0
   // })
 
-  /*
-  {% comment %}
-  {% for project_id in page.project_ids %}
-    {% assign data_list = data_collection.docs | where: "project_id", project_id %}
-    {% if data_list.size > 0 %}
-      {% assign project_list = project_list | push: data_list[0] %}
-    {% endif %}
-  {% endfor %}
 
-  {% comment %} SHIM {% endcomment %}
-  {% for project_id in page.aggregated.project_ids %}
-    {% assign data_list = data_collection.docs | where: "project_id", project_id | where: "organization_id", page.organization_id %}
-    {% if data_list.size > 0 %}
-      {% assign project_list = project_list | push: data_list[0] %}
-    {% endif %}
-  {% endfor %}
+  // delete data.yaml.project_ids
+  // delete data.yaml.aggregated.project_ids
 
-  {% comment %} SHIM {% endcomment %}
-  {% if project_list.size <= 0 %}
-    {% assign data_list = data_collection.docs | where: "organization_id", page.organization_id %}
-    {% if data_list.size > 0 %}
-      {% assign project_list = project_list | push: data_list[0] %}
-    {% endif %}
-  {% endif %}
+  // if (!data.yaml.year_submitted || data.yaml.year_submitted == null || data.yaml.year_submitted == "" || typeof(data.yaml.year_submitted) != "string") {
+  //   console.log("found missing year_submitted: " + data.yaml.organization_id + " :: " + data.yaml.title)
+  // }
+  // if (!data.yaml.title) {
+  //   console.log("found missing title: " + data.yaml.organization_id)
+  // }
 
-  {% comment %} SHIM {% endcomment %}
-  {% if project_list.size <= 0 %}
-    {% for project_id in page.aggregated.project_ids %}
-      {% assign data_list = data_collection.docs | where: "project_id", project_id %}
-      {% if data_list.size > 0 %}
-        {% assign project_list = project_list | push: data_list[0] %}
-      {% endif %}
-    {% endfor %}
-  {% endif %}
-  {% endcomment %}
-  */
+  // if (data.yaml.year_submitted != data.yaml.aggregated.year_submitted[0]) {
+  //   console.log("**** found mismatched year_submitted")
+  //   console.dir(data.yaml)
+  // }
 
-  if (!data.yaml.year_submitted || data.yaml.year_submitted == null || data.yaml.year_submitted == "" || typeof(data.yaml.year_submitted) != "string") {
-    console.log("found missing year_submitted: " + data.yaml.organization_id + " :: " + data.yaml.title)
-  }
-  if (!data.yaml.title) {
-    console.log("found missing title: " + data.yaml.organization_id)
-  }
+  // data.yaml.year_submitted = data.yaml.aggregated.year_submitted
+  // delete data.yaml.aggregated.year_submitted
 
-  // saveMarkdown(filename, data)
+  // data.yaml.challenge_url = data.yaml.aggregated.challenge_url
+  // delete data.yaml.aggregated.challenge_url
+
+
+
+  saveMarkdown(filename, data)
 }
 
 

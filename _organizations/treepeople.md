@@ -21,6 +21,11 @@ ein: '237314838'
 zip: '90210'
 project_image: 'https://img.youtube.com/vi/r9LtyQwYAks/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/ModelsofMobilization.html'
+year_submitted:
+  - '2015'
+  - '2014'
 project_ids:
   - '5102322'
   - '4102088'
@@ -28,19 +33,6 @@ project_titles:
   - Education Refugees - Make a huge impact halfway around the world!
   - Models of Mobilization
   - 'TreeMapLA:  Crowd-Sourcing a Healthy Watershed, sponsored by TreePeople'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/ModelsofMobilization.html'
-  project_ids:
-    - '5102322'
-    - '4102178'
-  year_submitted:
-    - '2015'
-    - '2014'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102322'
-  - '4102088'
 youtube_video_identifier: r9LtyQwYAks
 cached_project_image: >-
   https://archive-assets.la2050.org/images/treepeople/img.youtube.com/vi/r9LtyQwYAks/maxresdefault.jpg

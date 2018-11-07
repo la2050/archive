@@ -23,22 +23,16 @@ zip: '90015'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/topanga-womens-circle.jpg
 project_video: 'https://youtu.be/9lVdk4emJ-M'
+challenge_url:
+  - 'https://activation.la2050.org/live/topanga-womens-circle/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102126'
 project_titles:
   - >-
     Topanga Women's Circle: Expanding our Circle to Ease Homelessness in Los
     Angeles
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/live/topanga-womens-circle/'
-  project_ids:
-    - '8102126'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102126'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/topanga-womens-circle/activation.la2050.org/assets/images/live/2048-wide/topanga-womens-circle.jpg
 

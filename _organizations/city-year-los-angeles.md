@@ -21,9 +21,21 @@ zip: '90012'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/city-year-los-angeles.jpg
 project_video: 'https://www.youtube.com/watch?v=oUBvw2A2YMI'
+challenge_url:
+  - 'https://activation.la2050.org/connect/city-year-los-angeles/'
+  - >-
+    https://challenge.la2050.org/entry/bringing-stem-to-city-year-after-school-programs-in-boyle-heights-and-pico-union
+  - 'http://maker.good.is/myla2050learn2015/projects/CYLAPARTNERSHIP.html'
+  - 'http://maker.good.is/myLA2050learn/projects/CYLAPLAS.html'
+year_submitted:
+  - '2018'
+  - '2016'
+  - '2015'
+  - '2014'
 project_ids:
   - '8102027'
   - '6102040'
+  - '5102062'
   - '4102038'
 project_titles:
   - >-
@@ -33,29 +45,6 @@ project_titles:
   - >-
     City Year Los Angeles Expansion into two PLAS High Schools: Jordan and
     Roosevelt
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/city-year-los-angeles/'
-    - >-
-      https://challenge.la2050.org/entry/bringing-stem-to-city-year-after-school-programs-in-boyle-heights-and-pico-union
-    - 'http://maker.good.is/myla2050learn2015/projects/CYLAPARTNERSHIP.html'
-    - http://maker.good.is/myLA2050learn/projects/CYLAPLAS.html
-  project_ids:
-    - '8102027'
-    - '6102040'
-    - '5102062'
-    - '4102249'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
-    - '2014'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102027'
-  - '6102040'
-  - '5102062'
-  - '4102038'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/city-year-los-angeles/activation.la2050.org/assets/images/connect/2048-wide/city-year-los-angeles.jpg
 

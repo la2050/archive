@@ -20,21 +20,6 @@ project_areas:
   - San Fernando Valley
   - City of Los Angeles
 maker_answers:
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Email
-  Organization(s) name(s): Instituto de Educacion Popular del Sur de California (IDEPSCA)
-  Organization(s) mailing address(es): 1565 W. 14th Street
-  Organization(s) website(s): www.idepsca.org
-  Organization(s) twitter handle(s): www.twitter.com/idepsca
-  Organization(s) facebook handle(s): www.facebook.com/IDEPSCA
-  Organization(s) instagram handle(s): ''
-  Please share the direct link for voters to sign up for your newsletter(s): ''
-  EIN (for each organization): 95-4431992
-  'Describe your organization(s): Non-profit': '1'
-  'Describe your organization(s): For-profit': '0'
-  'Describe your organization(s): Government': '0'
-  'Describe your organization(s): Other': '0'
-  'Describe your organization(s): Specifics': ''
   'In one sentence, please describe what your organization does': >-
     IDEPSCA organizes and educates low immigrant workers concerned with solving
     problems in their own communities in the areas of workforce and economic
@@ -47,51 +32,6 @@ maker_answers:
     phones including JobsLA, GoMetro, MyLA 311. We will also show workers how to
     use social media apps to connect to their government representatives and
     local neighborhood councils. 
-  Please write a sample tweet to describe your submission.: >-
-    All #losangeles workers should connect to city services from their phones.
-    We'll show them how #la2050
-  LA is the best place to LEARN: '0'
-  LA is the best place to CREATE: '0'
-  LA is the best place to PLAY: '0'
-  LA is the healthiest place to LIVE: '1'
-  Where will you be working? Central LA: '0'
-  Where will you be working? East LA: '0'
-  Where will you be working? San Gabriel Valley: '0'
-  Where will you be working? San Fernando Valley: '1'
-  Where will you be working? South LA: '0'
-  Where will you be working? Westside: '0'
-  Where will you be working? South Bay: '0'
-  Where will you be working? Antelope Valley: '0'
-  Where will you be working? County of Los Angeles (countywide): '0'
-  Where will you be working? City of Los Angeles: '1'
-  Where will you be working? LAUSD: '0'
-  Where will you be working? Other: '1'
-  Where will you be working? Specifics: >-
-    Neighborhoods of Pico Union, Downtown, Westlake, Hollywood, North Hollywood,
-    Cypress Park, Van Nuys and Wilmingotn
-  How do you plan to use these resources to make change? Conduct research: '1'
-  How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
-  How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  'City, State': Los Angeles
-  How do you plan to use these resources to make change? Implement and track policy: '0'
-  How do you plan to use these resources to make change? Other: '0'
-  How do you plan to use these resources to make change? Specifics: ''
-  How will your proposal improve the following “Connect” metrics? Rates of volunteerism: '0'
-  How will your proposal improve the following “Connect” metrics? Voting rates by race: '0'
-  How will your proposal improve the following “Connect” metrics? Adults getting sufficient social & emotional support: '0'
-  How will your proposal improve the following “Connect” metrics? Median travel time to work: '1'
-  How will your proposal improve the following “Connect” metrics? Attendance at cultural events: '0'
-  How will your proposal improve the following “Connect” metrics? Number of public transit riders: '1'
-  How will your proposal improve the following “Connect” metrics? Participation in neighborhood councils: '1'
-  How will your proposal improve the following “Connect” metrics? Percentage of Angelenos that volunteer informally (Dream Metric): '0'
-  How will your proposal improve the following “Connect” metrics?  Government responsiveness to residents’ needs (Dream Metric): '1'
-  How will your proposal improve the following “Connect” metrics? Transit-accessible housing and employment (the share of housing units and percentage of jobs that are located near transit): '1'
-  How will your proposal improve the following “Connect” metrics? Total number of local social media friends and connections (Dream Metric): '1'
-  How will your proposal improve the following “Connect” metrics? Attendance at public/open streets gatherings (Dream Metric): '0'
-  How will your proposal improve the following “Connect” metrics? Residential segregation (Dream Metric): '0'
-  How will your proposal improve the following “Connect” metrics? Access to free wifi (Dream Metric): '1'
   Describe in greater detail how you will make LA the best place to connect.: "IDEPSCA will design and implement a series of blingual English/Spanish trainings for low wage immigrant workers on how to use their mobile phones to better connect them to services in the City of LA. The trainings will include how to connect to free wireless networks and use apps on their phones including JobsLA, GoMetro, MyLA 311. We will also show workers how to use social media apps to connect to their government representatives and local neighborhood councils. These trainings will be conducted in and around the seven day labor centers in the City of Los Angeles. While the digital divide may be closing, with more people accessing mobile technology, there is still a knowledge gap when it comes to knowing how to access city services including how to catch a bus to a job, who their City Council member is, and when the next neighborhood council meeting is. Additionally, many people worry about accessing information on their cell phones because of the high cost of data access. This is why teaching people where they can access free wifi in Los Angeles is critical. According to a 2008 study we conducted in five day labor centers in Los Angeles we found that most workers (78%) owned mobile phones and used them on a regular basis. A\r\nmajority of the respondents reported using their phones primarily for work purposes and also to contact friends and family in other countries. We discovered that phone models and plans varied greatly, as did usage of specific phone features such as text, video, and photos. Interestingly, many workers knew how to\r\ntake photos using their mobile phones but did not know how to send these to others others. Mobile tech has changed much since 2008 and we would additionally like to use this opportunity to assess low immigrant worker access to mobile phones and their use of civic tech. We would also like to create a mobile phone lending library, that would allow worker members to \"check out\" a smart phone while they are at a worker center. They can use this phone to contact an employer or use one of the city apps. This would have the dual purpose of increasing access to smart phone tech, allow workers to practice skills they learned in trainings, and access city information and services. "
   How can the LA2050 community and other stakeholders help your proposal succeed?:
     - Money (financial capital)
@@ -111,17 +51,6 @@ maker_answers:
     - >-
       Neighborhoods of Pico Union, Downtown, Westlake, Hollywood, North
       Hollywood, Cypress Park, Van Nuys and Wilmingotn
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '0'
   How will your proposal improve the following “Connect” metrics?:
     - Median travel time to work
     - Number of public transit riders
@@ -132,17 +61,6 @@ maker_answers:
       percentage of jobs that are located near transit)
     - Total number of local social media friends and connections (Dream Metric)
     - Access to free wifi (Dream Metric)
-  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
-    One of the major challenges/barriers we anticipate is that because of the
-    temporary nature of work opportunities for many low wage immigrant workers,
-    we may not have all the workers attend consecutive trainings. There are
-    multiple strategies for overcoming this: 1- conducting the workshops on an
-    ongoing basis including follow up visits, 2- creating a train the trainers
-    model that will have at least one worker who is well versed in using mobile
-    technology who can act as a resource for workers in between workshops
-    sessions, and 3 leaving visuals (ie posters,pamphlets) with instructions on
-    how to access certain apps and tools on cell phones in the worker centers
-    where we conduct workshops. 
   Please explain how you will evaluate your work.: >-
     One way we will evaluate our work will be via pre and post surveys. The pre
     surveys will assess how many workers across the seven day labor centers
@@ -151,144 +69,6 @@ maker_answers:
     phone, didn't know I could). At the end of 6 months of training, we will
     conduct a post survey to see if those numbers changed and the impact (jobs,
     shorter commute times, more participation in government). 
-  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: >-
-    I am not aware of other organizations doing similar work. What is unique
-    about our proposed approached is that it directly meets low-income immigrant
-    workers where they are at : physically in terms of locations where they are
-    seeking work and other services and also in terms of access or lack there of
-    to mobile tools. We believe that this approach will continue to prove that
-    Los Angeles is a city that is all inclusive of immigrant community members.
-    In 2008, IDEPSCA along with USC Annenberg School of Communications created
-    an open source sms based storytelling platform for low wage immigrant
-    workers. This model has been used globally. 
-  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
-    IDEPSCA operates four of the seven day labor centers in the City of Los
-    Angeles. All seven centers are funded by the City of Los Angeles and
-    monitored by the Los Angeles Economic & Workforce Development Department.
-    Together, IDEPSCA, with the other organizations that operate day labor
-    centers in the City of LA : CARECEN and YPI, have developed a shared
-    strategic vision for the day labor centers to transform them into wrap
-    around service centers that serve not just day laborers, but their families
-    and neighbors. A portion of this includes immigrant integration. While the
-    other organizations will not receive funding, it is our hope that we will be
-    able to leverage this funding so that each center can have a mobile literacy
-    project. Additionally, IDEPSCA has a close relationship with the MIT Center
-    for Civic Media, which we will consult with throughout the project. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'To launch and implement the training program for one year will cost $100,000'
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "\t\t\t\t\t\t\r\n\t\t\r\nS A L A R I E S\t\t\t\t\t\t\r\n\tProgram Manager\t\t\t$36,420.00 \r\n\tOutreach/Trainer \t      \t        $7,800.00 \r\n\t\t\t\t\t\t\r\nSubtotal:   S A L A R I E S\t\t\t\t\t\t$44,220.00 \r\nFRINGE  BENEFITS\t\t\t\t\t% to Total Salaries\t\r\n\tMedicare\t\t\t\t1.45%\t641\r\n\tSocial Security\t\t\t\t6.20%\t2,742\r\n\tSUI\t\t\t\t6.20%\t868\r\n\tWorkers Compensation\t\t\t\t2.63%\t1,163\r\n\tHealth\t\t\t\t19.00%\t8,400\r\n\tTraining Tax\t\t\t\t0.00%\t\r\nSubtotal:   FRINGE BENEFITS\t\t\t\t\t35.48%\t13,814\r\n\tTotal Personnel\t\t\t\t\t58,034\r\nPROJECT EXPENSES\t\t\t\t\t\t\r\n\tTransportation and Mileage\t\tTraining, Monthly Mileage\t\t\t6,200\r\n\tOffice Supplies\t\t\t\t\t1,000\r\n\tPrinting and Reproduction\t\t\t\t\t4,000\r\n\tOuteach\t\tRetractable Banner, Business Cards, Flyer, Pens\t\t\t3,750\r\n\tEquipment\t\tPrinter, Lap To, Projector, Phones\t\t\t2,000\r\n\tProfesional Fee\t\tWireless Phone Plans\t\t\t10,000\r\n\t\t\t\t\t\t\r\n\tAdministrative Benefits\t\t\t\t\t15,000\r\n\t\t\t\t\t\t\r\n\tSubtotal: Project Expenses\t\t\t\t\t$41,950.00 \r\nTOTAL  COSTS\t\t\t\t\t\t$99,983.82 "
-  How do you plan to scale the success of your proposal?: >-
-    The success of our proposal could be scaled in a number of ways. As a part
-    of the National Day Labor Organizing Network and working closely with the
-    AFL-CIO we could bring our trainings and materials to other day labor/worker
-    centers across the country. This could be done by us growing our own staff
-    to a group of trainers dedicated to different regions. Additionally, part of
-    the training could include a train the trainer model, where we would train
-    different cohorts to conduct mobile access trainings to various regions
-    first in the state, then on the West Coast, followed by national growth. 
-areas_impacted: ''
-partners: ''
-Please specify below: >-
-  Neighborhoods of Pico Union, Downtown, Westlake, Hollywood, North Hollywood,
-  Cypress Park, Van Nuys and Wilmingotn
-'Describe in greater detail how you will make LA the best place to connect:': >-
-  IDEPSCA will design and implement a series of blingual English/Spanish
-  trainings for low wage immigrant workers on how to use their mobile phones to
-  better connect them to services in the City of LA. The trainings will include
-  how to connect to free wireless networks and use apps on their phones
-  including JobsLA, GoMetro, MyLA 311. We will also show workers how to use
-  social media apps to connect to their government representatives and local
-  neighborhood councils. These trainings will be conducted in and around the
-  seven day labor centers in the City of Los Angeles. While the digital divide
-  may be closing, with more people accessing mobile technology, there is still a
-  knowledge gap when it comes to knowing how to access city services including
-  how to catch a bus to a job, who their City Council member is, and when the
-  next neighborhood council meeting is. Additionally, many people worry about
-  accessing information on their cell phones because of the high cost of data
-  access. This is why teaching people where they can access free wifi in Los
-  Angeles is critical. According to a 2008 study we conducted in five day labor
-  centers in Los Angeles we found that most workers (78%) owned mobile phones
-  and used them on a regular basis. A
-   majority of the respondents reported using their phones primarily for work purposes and also to contact friends and family in other countries. We discovered that phone models and plans varied greatly, as did usage of specific phone features such as text, video, and photos. Interestingly, many workers knew how to
-   take photos using their mobile phones but did not know how to send these to others others. Mobile tech has changed much since 2008 and we would additionally like to use this opportunity to assess low immigrant worker access to mobile phones and their use of civic tech. We would also like to create a mobile phone lending library, that would allow worker members to "check out" a smart phone while they are at a worker center. They can use this phone to contact an employer or use one of the city apps. This would have the dual purpose of increasing access to smart phone tech, allow workers to practice skills they learned in trainings, and access city information and services.
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
-  One of the major challenges/barriers we anticipate is that because of the
-  temporary nature of work opportunities for many low wage immigrant workers, we
-  may not have all the workers attend consecutive trainings. There are multiple
-  strategies for overcoming this: 1- conducting the workshops on an ongoing
-  basis including follow up visits, 2- creating a train the trainers model that
-  will have at least one worker who is well versed in using mobile technology
-  who can act as a resource for workers in between workshops sessions, and 3
-  leaving visuals (ie posters,pamphlets) with instructions on how to access
-  certain apps and tools on cell phones in the worker centers where we conduct
-  workshops.
-Please explain how you will evaluate your work.: >-
-  One way we will evaluate our work will be via pre and post surveys. The pre
-  surveys will assess how many workers across the seven day labor centers
-  currently access City of LA services on their mobile phones and why or why not
-  (i.e. didn't know how, was afraid to, don't have wi-fi, don't have cell phone,
-  didn't know I could). At the end of 6 months of training, we will conduct a
-  post survey to see if those numbers changed and the impact (jobs, shorter
-  commute times, more participation in government).
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: >-
-  I am not aware of other organizations doing similar work. What is unique about
-  our proposed approached is that it directly meets low-income immigrant workers
-  where they are at : physically in terms of locations where they are seeking
-  work and other services and also in terms of access or lack there of to mobile
-  tools. We believe that this approach will continue to prove that Los Angeles
-  is a city that is all inclusive of immigrant community members. In 2008,
-  IDEPSCA along with USC Annenberg School of Communications created an open
-  source sms based storytelling platform for low wage immigrant workers. This
-  model has been used globally.
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
-  IDEPSCA operates four of the seven day labor centers in the City of Los
-  Angeles. All seven centers are funded by the City of Los Angeles and monitored
-  by the Los Angeles Economic & Workforce Development Department. Together,
-  IDEPSCA, with the other organizations that operate day labor centers in the
-  City of LA : CARECEN and YPI, have developed a shared strategic vision for the
-  day labor centers to transform them into wrap around service centers that
-  serve not just day laborers, but their families and neighbors. A portion of
-  this includes immigrant integration. While the other organizations will not
-  receive funding, it is our hope that we will be able to leverage this funding
-  so that each center can have a mobile literacy project. Additionally, IDEPSCA
-  has a close relationship with the MIT Center for Civic Media, which we will
-  consult with throughout the project.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'To launch and implement the training program for one year will cost $100,000'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  S A L A R I E S 
-   Program Manager $36,420.00 
-   Outreach/Trainer    $7,800.00 
-   
-   Subtotal: S A L A R I E S $44,220.00 
-   FRINGE BENEFITS % to Total Salaries 
-   Medicare 1.45% 641
-   Social Security 6.20% 2,742
-   SUI 6.20% 868
-   Workers Compensation 2.63% 1,163
-   Health 19.00% 8,400
-   Training Tax 0.00% 
-   Subtotal: FRINGE BENEFITS 35.48% 13,814
-   Total Personnel 58,034
-   PROJECT EXPENSES 
-   Transportation and Mileage Training, Monthly Mileage 6,200
-   Office Supplies 1,000
-   Printing and Reproduction 4,000
-   Outeach Retractable Banner, Business Cards, Flyer, Pens 3,750
-   Equipment Printer, Lap To, Projector, Phones 2,000
-   Profesional Fee Wireless Phone Plans 10,000
-   
-   Administrative Benefits 15,000
-   
-   Subtotal: Project Expenses $41,950.00 
-   TOTAL COSTS $99,983.82
-How do you plan to scale the success of your proposal?: >-
-  The success of our proposal could be scaled in a number of ways. As a part of
-  the National Day Labor Organizing Network and working closely with the AFL-CIO
-  we could bring our trainings and materials to other day labor/worker centers
-  across the country. This could be done by us growing our own staff to a group
-  of trainers dedicated to different regions. Additionally, part of the training
-  could include a train the trainer model, where we would train different
-  cohorts to conduct mobile access trainings to various regions first in the
-  state, then on the West Coast, followed by national growth.
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/connecting-low-wage-immigrant-workers-to-the-internet/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23511%252Fdisplay%252F3014224447_e908044cf3_o.jpg=c570x385.jpg
 maker_image_id: '23511'

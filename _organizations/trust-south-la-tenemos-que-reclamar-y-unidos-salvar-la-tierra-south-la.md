@@ -88,21 +88,15 @@ zip: ''
 project_image: >-
   https://scontent-lga3-1.cdninstagram.com/vp/9e2f7cf807ee3d828ce61e335b033f1a/5C4816E0/t51.2885-15/e35/14566729_1134408803308905_6445803479507140608_n.jpg
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/TRUSTSouthLA2050.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102259'
 project_titles:
   - 'TRUST South LA 2050: Affordable Homes, Sustainable Neighborhoods'
   - 'TRUST South LA 2050: Affordable Homes Sustainable Neighborhoods'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/TRUSTSouthLA2050.html'
-  project_ids:
-    - '3102259'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102259'
 youtube_video_identifier: zwlibJLtPOE
 cached_project_image: >-
   https://archive-assets.la2050.org/images/trust-south-la-tenemos-que-reclamar-y-unidos-salvar-la-tierra-south-la/scontent-lga3-1.cdninstagram.com/vp/9e2f7cf807ee3d828ce61e335b033f1a/5C4816E0/t51.2885-15/e35/14566729_1134408803308905_6445803479507140608_n.jpg

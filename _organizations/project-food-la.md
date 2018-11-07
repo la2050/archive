@@ -72,20 +72,14 @@ ein: '952803401'
 zip: ''
 project_image: 'https://img.youtube.com/vi/ZBTmjmoABZE/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/potlucktruck.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102221'
 project_titles:
   - Potluck Truck
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/potlucktruck.html'
-  project_ids:
-    - '3102221'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102221'
 youtube_video_identifier: ZBTmjmoABZE
 cached_project_image: >-
   https://archive-assets.la2050.org/images/project-food-la/img.youtube.com/vi/ZBTmjmoABZE/maxresdefault.jpg

@@ -52,26 +52,18 @@ ein: '271272815'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/CitySourcedCrimeApp.html'
+  - 'http://maker.good.is/myla2050/projects/ZenFunder.html'
+year_submitted:
+  - '2013'
+  - '2013'
 project_ids:
   - '3102019'
   - '3102017'
 project_titles:
   - Civic Crowdfunding Platform for Local Government and Schools
   - Smartphone App for Civic Crime Reporting
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/CitySourcedCrimeApp.html'
-    - 'http://maker.good.is/myla2050/projects/ZenFunder.html'
-  project_ids:
-    - '3102017'
-    - '3102017'
-  year_submitted:
-    - '2013'
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102019'
-  - '3102017'
 maker_image_file_name: zenfunder-la2050.png
 maker_image_id: '16290'
 cached_project_image: >-

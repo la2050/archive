@@ -24,28 +24,20 @@ ein: '383687836'
 zip: '90037'
 project_image: 'https://img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050play2015/projects/FreeLotsAngeles.html'
+  - 'http://maker.good.is/myLA2050connect/projects/MacArthurParkConnect.html'
+  - 'http://maker.good.is/myla2050/projects/FruitVegetableOasis.html'
+year_submitted:
+  - '2015'
+  - '2014'
+  - '2013'
 project_ids:
-  - '5102192'
-project_titles:
-  - 'FREE LOTS ANGELES: Transforming Vacant Lots into Neighborhood Assets'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050play2015/projects/FreeLotsAngeles.html'
-    - 'http://maker.good.is/myLA2050connect/projects/MacArthurParkConnect.html'
-    - 'http://maker.good.is/myla2050/projects/FruitVegetableOasis.html'
-  project_ids:
-    - '5102192'
-    - '4102202'
-    - '3102188'
-  year_submitted:
-    - '2015'
-    - '2014'
-    - '2013'
-year_submitted: '2015'
-calculated_project_ids:
   - '5102192'
   - '4102132'
   - '3102188'
+project_titles:
+  - 'FREE LOTS ANGELES: Transforming Vacant Lots into Neighborhood Assets'
 youtube_video_identifier: KQnPSzqeZRk
 cached_project_image: >-
   https://archive-assets.la2050.org/images/los-angeles-neighborhood-land-trust-lanlt-leadership-for-urban-renewal-lurn-trust-south-la-konkuey-design-initiative-kdi-esperanza-community-housing-corporation-community-health-councils-chc/img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg

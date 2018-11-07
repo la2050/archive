@@ -22,20 +22,14 @@ zip: '91601'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23245%252Fdisplay%252FSlide1.JPG=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/SoundWorksLA.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102244'
 project_titles:
   - SoundWorks L.A.
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/SoundWorksLA.html'
-  project_ids:
-    - '5102244'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102244'
 maker_image_file_name: Slide1.JPG
 maker_image_id: '23245'
 cached_project_image: >-

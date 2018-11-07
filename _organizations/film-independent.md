@@ -21,20 +21,14 @@ zip: '90012'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/film-independent.jpg
 project_video: 'https://youtu.be/-PSOJBGkQ-Y'
+challenge_url:
+  - 'https://activation.la2050.org/connect/film-independent/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102040'
 project_titles:
   - 'Made in LA: Show us your LA and your vision for the future'
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/film-independent/'
-  project_ids:
-    - '8102040'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102040'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/film-independent/activation.la2050.org/assets/images/connect/2048-wide/film-independent.jpg
 

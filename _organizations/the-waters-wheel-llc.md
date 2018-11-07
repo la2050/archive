@@ -38,20 +38,14 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16690%252Fdisplay%252F100_Trees_3.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/Heal_This_City.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102108'
 project_titles:
   - Heal This City
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/Heal_This_City.html'
-  project_ids:
-    - '3102108'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102108'
 maker_image_file_name: 100_Trees_3.jpg
 maker_image_id: '16690'
 cached_project_image: >-

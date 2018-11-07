@@ -19,6 +19,10 @@ ein: '454105869'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/mutuo.jpg'
 project_video: 'https://www.youtube.com/watch?v=Xr8XGS427jo'
+challenge_url:
+  - 'https://activation.la2050.org/live/mutuo/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102086'
 project_titles:
@@ -27,15 +31,6 @@ project_titles:
      
      If only LA knew the opportunity that lies in our backyards…
   - "A house for Tommy in my backyard! \r\nIf only LA knew the opportunity that lies in our backyards…\r\n"
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/live/mutuo/'
-  project_ids: []
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102086'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/mutuo/activation.la2050.org/assets/images/live/2048-wide/mutuo.jpg
 

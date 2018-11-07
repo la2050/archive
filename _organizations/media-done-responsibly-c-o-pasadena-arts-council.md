@@ -20,6 +20,10 @@ ein: '952540759'
 zip: '90101'
 project_image: 'https://img.youtube.com/vi/H107Gy4bTFs/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/mediadoneresponsibly.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102204'
 project_titles:
@@ -29,16 +33,6 @@ project_titles:
   - >-
     Linking Middle High School & College Students through Humanity Centered
     Media
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/mediadoneresponsibly.html'
-  project_ids:
-    - '5102204'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102204'
 youtube_video_identifier: H107Gy4bTFs
 cached_project_image: >-
   https://archive-assets.la2050.org/images/media-done-responsibly-c-o-pasadena-arts-council/img.youtube.com/vi/H107Gy4bTFs/hqdefault.jpg

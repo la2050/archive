@@ -20,19 +20,14 @@ zip: '90027'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21305%252Fdisplay%252FGYSTInksoftware_artworktracking.png=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/GYSTCloud4Art.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102082'
 project_titles:
   - GYST Cloud for Art
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/GYSTCloud4Art.html'
-  project_ids: []
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102082'
 maker_image_file_name: GYSTInksoftware_artworktracking.png
 maker_image_id: '21305'
 cached_project_image: >-

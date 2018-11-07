@@ -23,26 +23,20 @@ zip: '90065'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/la-river-public-art-project-c-o-erw-design.jpg
 project_video: 'https://www.youtube.com/watch?v=Gr6O_ZaGMQo'
+challenge_url:
+  - >-
+    https://activation.la2050.org/connect/la-river-public-art-project-c-o-erw-design/
+  - 'http://maker.good.is/myla2050play2015/projects/TENFEET2016.html'
+year_submitted:
+  - '2018'
+  - '2015'
 project_ids:
   - '8102063'
+  - '5102304'
 project_titles:
   - >-
     The Art Barge: a traveling, interactive archive of art and culture
     precedents along the LA River.
-aggregated:
-  challenge_url:
-    - >-
-      https://activation.la2050.org/connect/la-river-public-art-project-c-o-erw-design/
-    - 'http://maker.good.is/myla2050play2015/projects/TENFEET2016.html'
-  project_ids:
-    - '5102247'
-  year_submitted:
-    - '2018'
-    - '2015'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102063'
-  - '5102304'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/la-river-public-art-project-c-o-erw-design/activation.la2050.org/assets/images/connect/2048-wide/la-river-public-art-project-c-o-erw-design.jpg
 

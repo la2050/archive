@@ -21,6 +21,12 @@ ein: '272797687'
 zip: '90027'
 project_image: 'http://enrichla.org/wp-content/uploads/2018/05/IMG_0804-1050x788.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050play/projects/enrichla.html'
+  - 'http://maker.good.is/myla2050/projects/enrichla.html'
+year_submitted:
+  - '2014'
+  - '2013'
 project_ids:
   - '4102065'
   - '3102124'
@@ -28,20 +34,6 @@ project_titles:
   - 75 School Gardens in Los Angeles Schools!
   - EnrichLA- A Garden in EVERY School!
   - EnrichLA A Garden in EVERY School!
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050play/projects/enrichla.html'
-    - 'http://maker.good.is/myla2050/projects/enrichla.html'
-  project_ids:
-    - '4102033'
-    - '3102124'
-  year_submitted:
-    - '2014'
-    - '2013'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102065'
-  - '3102124'
 youtube_video_identifier: 3CNwJdOyIDQ
 cached_project_image: >-
   https://archive-assets.la2050.org/images/enrichla/enrichla.org/wp-content/uploads/2018/05/IMG_0804-1050x788.jpg

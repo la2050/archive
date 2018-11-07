@@ -24,20 +24,14 @@ ein: '20661629'
 zip: '90021'
 project_image: 'https://img.youtube.com/vi/d7u6LPKVtv4/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/LACAN.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102186'
 project_titles:
   - The Skid Row Justice and Wellness Center and Pop-Up Produce Market
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/LACAN.html'
-  project_ids:
-    - '5102186'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102186'
 youtube_video_identifier: d7u6LPKVtv4
 cached_project_image: >-
   https://archive-assets.la2050.org/images/los-angeles-community-action-network/img.youtube.com/vi/d7u6LPKVtv4/maxresdefault.jpg

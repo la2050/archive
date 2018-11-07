@@ -19,21 +19,15 @@ ein: '55777888'
 zip: '90034'
 project_image: 'https://img.youtube.com/vi/s-SSOCwgWEs/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050create2015/projects/painttosucceed.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102268'
 project_titles:
   - 'Paint to Succeed '
   - Paint to Succeed
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050create2015/projects/painttosucceed.html'
-  project_ids:
-    - '5102268'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102268'
 youtube_video_identifier: s-SSOCwgWEs
 cached_project_image: >-
   https://archive-assets.la2050.org/images/siqueiros-foundation-of-the-arts/img.youtube.com/vi/s-SSOCwgWEs/maxresdefault.jpg

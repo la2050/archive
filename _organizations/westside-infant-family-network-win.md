@@ -15,22 +15,16 @@ ein: '274018980'
 zip: '90230'
 project_image: 'https://img.youtube.com/vi/4svMiNJ-HL0/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050live/projects/WIN.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102203'
 project_titles:
   - >-
     Happy kids, Healthy Families for a Better LA: bringing mental health into
     families homes.
-aggregated:
-  challenge_url:
-    - http://maker.good.is/myLA2050live/projects/WIN.html
-  project_ids:
-    - '4102185'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102203'
 youtube_video_identifier: 4svMiNJ-HL0
 cached_project_image: >-
   https://archive-assets.la2050.org/images/westside-infant-family-network-win/img.youtube.com/vi/4svMiNJ-HL0/hqdefault.jpg

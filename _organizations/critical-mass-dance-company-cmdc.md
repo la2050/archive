@@ -20,20 +20,14 @@ ein: '954107449'
 zip: '90006'
 project_image: 'https://img.youtube.com/vi/K83J6XaqQlM/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/Danceleadership.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102050'
 project_titles:
   - Dance Leadership Program for Women
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/Danceleadership.html'
-  project_ids:
-    - '4102024'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102050'
 youtube_video_identifier: K83J6XaqQlM
 cached_project_image: >-
   https://archive-assets.la2050.org/images/critical-mass-dance-company-cmdc/img.youtube.com/vi/K83J6XaqQlM/hqdefault.jpg

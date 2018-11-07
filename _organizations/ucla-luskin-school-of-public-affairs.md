@@ -21,20 +21,14 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23745%252Fdisplay%252FUCLA_Connect.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050connect2015/projects/FosterConnectLA.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102330'
 project_titles:
   - 'Foster Families: The Other First Responders'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050connect2015/projects/FosterConnectLA.html'
-  project_ids:
-    - '5102330'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102330'
 maker_image_file_name: UCLA_Connect.jpg
 maker_image_id: '23745'
 cached_project_image: >-

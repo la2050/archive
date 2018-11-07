@@ -22,6 +22,17 @@ ein: '943059243'
 zip: '90027'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/children-now.jpg'
 project_video: ''
+challenge_url:
+  - 'https://activation.la2050.org/connect/children-now/'
+  - >-
+    https://challenge.la2050.org/entry/lifting-up-las-voice-for-kids-to-live-trauma-free-by-2050
+  - 'http://maker.good.is/myla2050learn2015/projects/PROKIDLA.html'
+  - 'http://maker.good.is/myLA2050connect/projects/ProKidLA.html'
+year_submitted:
+  - '2018'
+  - '2016'
+  - '2015'
+  - '2014'
 project_ids:
   - '8102019'
   - '6102034'
@@ -35,29 +46,6 @@ project_titles:
     Making LA the Best Place to Connect Angelenos to Support a Strong Start for
     Niñitos
   - Leveraging The Children’s Movement to Make LA the Best Place to Learn
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/children-now/'
-    - >-
-      https://challenge.la2050.org/entry/lifting-up-las-voice-for-kids-to-live-trauma-free-by-2050
-    - 'http://maker.good.is/myla2050learn2015/projects/PROKIDLA.html'
-    - 'http://maker.good.is/myLA2050connect/projects/ProKidLA.html'
-  project_ids:
-    - '8102019'
-    - '6102034'
-    - '5102052'
-    - '4102248'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
-    - '2014'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102019'
-  - '6102034'
-  - '5102052'
-  - '4102035'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/children-now/activation.la2050.org/assets/images/connect/2048-wide/children-now.jpg
 

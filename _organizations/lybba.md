@@ -87,23 +87,18 @@ ein: '383777236'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/OPENHEALTHCentral.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102193'
 project_titles:
   - OPENHealth Central  Putting the "care" back in healthcare
   - OPENHealth Central  Putting the care back in healthcare
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/OPENHEALTHCentral.html'
-  project_ids:
-    - '3102193'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102193'
 maker_image_file_name: openhealthcentral.png
 maker_image_id: '16271'
-cached_project_image: https://archive-assets.la2050.org/images/lybba/maker.good.is/images/placeholder/idea.png
+cached_project_image: >-
+  https://archive-assets.la2050.org/images/lybba/maker.good.is/images/placeholder/idea.png
 
 ---

@@ -42,22 +42,16 @@ ein: '953718119'
 zip: ''
 project_image: 'https://img.youtube.com/vi/DVIx37igPg0/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/EarlyDetection.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102016'
 project_titles:
   - >-
     Changing the Course of the Alzheimer’s Epidemic in L.A. County:  Early
     Detection Counts Campaign
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/EarlyDetection.html'
-  project_ids:
-    - '3102016'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102016'
 youtube_video_identifier: DVIx37igPg0
 cached_project_image: >-
   https://archive-assets.la2050.org/images/alzheimers-association-california-southland-chapter/img.youtube.com/vi/DVIx37igPg0/hqdefault.jpg

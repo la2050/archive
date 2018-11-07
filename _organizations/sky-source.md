@@ -20,6 +20,11 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4076350854741-team90.jpg
 project_video: 'https://www.youtube.com/embed/d0EPG2F9qzk?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/tap-the-source-using-art-and-atmospheric-water-generation-to-supply-free-water-to-the-community
+year_submitted:
+  - '2016'
 project_ids:
   - '6102229'
 project_titles:
@@ -29,17 +34,6 @@ project_titles:
   - >-
     Tap The Source: Using Art and Atmospheric Water Generation to Supply Free
     Water to the Community
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/tap-the-source-using-art-and-atmospheric-water-generation-to-supply-free-water-to-the-community
-  project_ids:
-    - '6102229'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102229'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/sky-source/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4076350854741-team90.jpg
 

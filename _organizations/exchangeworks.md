@@ -20,20 +20,14 @@ ein: '462746723'
 zip: '90404'
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050create2015/projects/ExchangeWorks.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102095'
 project_titles:
   - 'EWLA: Creating a network for exchange between artists and the public'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050create2015/projects/ExchangeWorks.html'
-  project_ids:
-    - '4102133'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102095'
 maker_image_file_name: EW_Molly_EWLA_sm.jpg
 maker_image_id: '23585'
 cached_project_image: >-

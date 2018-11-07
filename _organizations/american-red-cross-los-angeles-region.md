@@ -21,6 +21,14 @@ zip: '90025'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21941%252Fdisplay%252Fcommunity_ambassdor_graphic_button_graphic.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050connect2015/projects/HomeFireCampaignLA.html'
+  - 'http://maker.good.is/myLA2050connect/projects/communityambassadors.html'
+  - 'http://maker.good.is/myla2050/projects/PrepareLA.html'
+year_submitted:
+  - '2015'
+  - '2014'
+  - '2013'
 project_ids:
   - '5102015'
   - '4102008'
@@ -31,24 +39,6 @@ project_titles:
   - Connected Communities – Resilient LA!
   - Connected + Engaged = Resilient Communities
   - PrepareLA — Building Resilience through Community and Volunteer Engagement
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050connect2015/projects/HomeFireCampaignLA.html'
-    - 'http://maker.good.is/myLA2050connect/projects/communityambassadors.html'
-    - 'http://maker.good.is/myla2050/projects/PrepareLA.html'
-  project_ids:
-    - '5102015'
-    - '4102192'
-    - '3102018'
-  year_submitted:
-    - '2015'
-    - '2014'
-    - '2013'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102015'
-  - '4102008'
-  - '3102018'
 maker_image_file_name: community_ambassdor_graphic_button_graphic.jpg
 maker_image_id: '21941'
 cached_project_image: >-

@@ -19,20 +19,14 @@ ein: '463878728'
 zip: '90013'
 project_image: 'https://img.youtube.com/vi/IscZOss0am8/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050play2015/projects/passthaball.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102230'
 project_titles:
   - Hoops Center for the Youth
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050play2015/projects/passthaball.html'
-  project_ids:
-    - '5102230'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102230'
 youtube_video_identifier: IscZOss0am8
 cached_project_image: >-
   https://archive-assets.la2050.org/images/pass-tha-ball/img.youtube.com/vi/IscZOss0am8/maxresdefault.jpg

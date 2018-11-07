@@ -69,20 +69,14 @@ ein: '453263196'
 zip: ''
 project_image: 'https://img.youtube.com/vi/YCMb5z0EVGw/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/onedayinlosangeles.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102209'
 project_titles:
   - One Day in Los Angeles
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/onedayinlosangeles.html'
-  project_ids:
-    - '3102209'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102209'
 youtube_video_identifier: YCMb5z0EVGw
 cached_project_image: >-
   https://archive-assets.la2050.org/images/one-day-on-earth/img.youtube.com/vi/YCMb5z0EVGw/maxresdefault.jpg

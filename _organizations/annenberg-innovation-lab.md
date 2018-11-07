@@ -21,20 +21,14 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5836115265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/Miif0LRI6Ls?rel=0&amp;showinfo=0'
+challenge_url:
+  - 'https://challenge.la2050.org/entry/sankofa-city'
+year_submitted:
+  - '2016'
 project_ids:
   - '6102008'
 project_titles:
   - Sankofa City
-aggregated:
-  challenge_url:
-    - 'https://challenge.la2050.org/entry/sankofa-city'
-  project_ids:
-    - '6102008'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102008'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/annenberg-innovation-lab/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5836115265741-team91.jpg
 

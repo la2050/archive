@@ -20,6 +20,10 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23755%252Fdisplay%252FHydroponickids1.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/GREENBOXFARMS.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102119'
 project_titles:
@@ -27,16 +31,6 @@ project_titles:
     Revitalizing the way Los Angeles grows mentally, physically, and
     economically.
   - Revitalizing the way Los Angeles grows mentally physically and economically.
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/GREENBOXFARMS.html'
-  project_ids:
-    - '5102090'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102119'
 maker_image_file_name: Hydroponickids1.jpg
 maker_image_id: '23755'
 cached_project_image: >-

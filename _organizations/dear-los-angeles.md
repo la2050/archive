@@ -29,20 +29,14 @@ ein: N/A
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/DearLosAngeles.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102103'
 project_titles:
   - Dear Los Angeles
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/DearLosAngeles.html'
-  project_ids:
-    - '3102103'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102103'
 maker_image_file_name: IMG_1031.JPG
 maker_image_id: '16214'
 cached_project_image: >-

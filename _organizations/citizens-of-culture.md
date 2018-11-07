@@ -21,6 +21,14 @@ zip: '91506'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/citizens-of-culture.jpg
 project_video: 'https://vimeo.com/250192634'
+challenge_url:
+  - 'https://activation.la2050.org/connect/citizens-of-culture/'
+  - 'https://challenge.la2050.org/entry/nous-tous-a-gallery-for-all-of-us'
+  - 'http://maker.good.is/myla2050create2015/projects/citzensofculture.html'
+year_submitted:
+  - '2018'
+  - '2016'
+  - '2015'
 project_ids:
   - '8102022'
   - '6102097'
@@ -31,24 +39,6 @@ project_titles:
   - >-
     The View From Here: Conversations About The Most Important Issues Of Our
     Time
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/citizens-of-culture/'
-    - 'https://challenge.la2050.org/entry/nous-tous-a-gallery-for-all-of-us'
-    - 'http://maker.good.is/myla2050create2015/projects/citzensofculture.html'
-  project_ids:
-    - '8102022'
-    - '6102097'
-    - '4102095'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102022'
-  - '6102097'
-  - '5102056'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/citizens-of-culture/activation.la2050.org/assets/images/connect/2048-wide/citizens-of-culture.jpg
 

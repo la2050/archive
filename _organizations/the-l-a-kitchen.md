@@ -55,20 +55,14 @@ ein: '461639779'
 zip: ''
 project_image: 'https://img.youtube.com/vi/inC3OJbaTT4/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/thelakitchen.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102251'
 project_titles:
   - 'L.A. Kitchen: Neither Food or People Should Ever Go to Waste'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/thelakitchen.html'
-  project_ids:
-    - '3102251'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102251'
 youtube_video_identifier: inC3OJbaTT4
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-l-a-kitchen/img.youtube.com/vi/inC3OJbaTT4/maxresdefault.jpg

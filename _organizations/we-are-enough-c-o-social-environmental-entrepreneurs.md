@@ -22,21 +22,15 @@ zip: 90089-0034
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/we-are-enough-c-o-social-environmental-entrepreneurs.jpg
 project_video: 'https://youtu.be/hYxxWm_J0Yc'
+challenge_url:
+  - >-
+    https://activation.la2050.org/create/we-are-enough-c-o-social-environmental-entrepreneurs/
+year_submitted:
+  - '2018'
 project_ids:
   - '8102136'
 project_titles:
   - 'We Are Enough: Women Investing $$$ in Women... the Way to Change the World!'
-aggregated:
-  challenge_url:
-    - >-
-      https://activation.la2050.org/create/we-are-enough-c-o-social-environmental-entrepreneurs/
-  project_ids:
-    - '8102136'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102136'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/we-are-enough-c-o-social-environmental-entrepreneurs/activation.la2050.org/assets/images/create/2048-wide/we-are-enough-c-o-social-environmental-entrepreneurs.jpg
 

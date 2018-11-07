@@ -22,21 +22,15 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2500980265741-team91.jpg
 project_video: ''
+challenge_url:
+  - 'https://challenge.la2050.org/entry/connecting-communities-through-fotos'
+year_submitted:
+  - '2016'
 project_ids:
   - '6102129'
 project_titles:
   - Connecting Communities through Fotos
   - Las Fotos Project
-aggregated:
-  challenge_url:
-    - 'https://challenge.la2050.org/entry/connecting-communities-through-fotos'
-  project_ids:
-    - '6102129'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102129'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/las-fotos-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2500980265741-team91.jpg
 

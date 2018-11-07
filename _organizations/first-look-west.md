@@ -75,20 +75,14 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16416%252Fdisplay%252FFLOW-image-2.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/FLOW.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102127'
 project_titles:
   - 'Jobs for LA’s Cleantech Future: the FLoW Multiplier Program'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/FLOW.html'
-  project_ids:
-    - '3102127'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102127'
 maker_image_file_name: FLOW-image-2.jpg
 maker_image_id: '16416'
 cached_project_image: >-

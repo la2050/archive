@@ -17,20 +17,14 @@ ein: '475244207'
 zip: '90031'
 project_image: 'https://img.youtube.com/vi/fRmzSDzuoRA/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050play2015/projects/LACT.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102171'
 project_titles:
   - LACT - Los Angeles Community Theatre
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050play2015/projects/LACT.html'
-  project_ids:
-    - '5102171'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102171'
 youtube_video_identifier: fRmzSDzuoRA
 cached_project_image: >-
   https://archive-assets.la2050.org/images/lact-los-angeles-community-theatre/img.youtube.com/vi/fRmzSDzuoRA/hqdefault.jpg

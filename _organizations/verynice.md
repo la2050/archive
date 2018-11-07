@@ -44,6 +44,10 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17230%252Fdisplay%252Fverynice.jpeg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/beverynice.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102114'
 project_titles:
@@ -52,16 +56,6 @@ project_titles:
     Nice.
   - verynice
   - verynice gives half of its work away for free to nonprofits
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/beverynice.html'
-  project_ids:
-    - '3102114'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102114'
 maker_image_file_name: verynice.jpeg
 maker_image_id: '17230'
 cached_project_image: >-

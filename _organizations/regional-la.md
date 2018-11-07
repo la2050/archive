@@ -21,20 +21,14 @@ ein: '824799787'
 zip: '9005'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/regional-la.jpg'
 project_video: 'https://www.youtube.com/watch?v=rdB1z_4U_0A'
+challenge_url:
+  - 'https://activation.la2050.org/connect/regional-la/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102102'
 project_titles:
   - 'REGIONAL.LA: Delivering Community Engagement to Los Angeles County'
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/regional-la/'
-  project_ids:
-    - '8102102'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102102'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/regional-la/activation.la2050.org/assets/images/connect/2048-wide/regional-la.jpg
 

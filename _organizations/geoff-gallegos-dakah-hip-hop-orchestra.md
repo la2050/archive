@@ -62,20 +62,14 @@ ein: '453193752'
 zip: ''
 project_image: 'https://img.youtube.com/vi/ZErt5IiuEPA/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/dakathouse.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102053'
 project_titles:
   - 'daKAT House:  A Public Housing Project for musicians.'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/dakathouse.html'
-  project_ids:
-    - '3102053'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102053'
 youtube_video_identifier: ZErt5IiuEPA
 cached_project_image: >-
   https://archive-assets.la2050.org/images/geoff-gallegos-dakah-hip-hop-orchestra/img.youtube.com/vi/ZErt5IiuEPA/hqdefault.jpg

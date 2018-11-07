@@ -20,22 +20,16 @@ zip: 91341-0567
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20691%252Fdisplay%252FCars_Attribution_Biofriendly_Creative_Commons_license.jpeg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050connect/projects/Fix_our_traffic.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102230'
 project_titles:
   - >-
     Fix our Traffic: Getting people to rapid transit stations one neighborhood
     at a time
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050connect/projects/Fix_our_traffic.html'
-  project_ids:
-    - '4102097'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102230'
 maker_image_file_name: Cars_Attribution_Biofriendly_Creative_Commons_license.jpeg
 maker_image_id: '20691'
 cached_project_image: >-

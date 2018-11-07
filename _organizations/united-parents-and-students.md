@@ -21,22 +21,16 @@ zip: '90057'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/united-parents-and-students.jpg
 project_video: 'https://vimeo.com/205438757'
+challenge_url:
+  - 'https://activation.la2050.org/connect/united-parents-and-students/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102131'
 project_titles:
   - >-
     United Parents and Students: Developing Cultures of Civic Engagement Across
     Los Angeles
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/united-parents-and-students/'
-  project_ids:
-    - '8102131'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102131'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/united-parents-and-students/activation.la2050.org/assets/images/connect/2048-wide/united-parents-and-students.jpg
 

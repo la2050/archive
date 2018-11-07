@@ -20,23 +20,16 @@ zip: '90012'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/world-harvest-charities-family-services.jpg
 project_video: 'https://youtu.be/Jtc3hudRjRA'
+challenge_url:
+  - 'https://activation.la2050.org/live/world-harvest-charities-family-services/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102139'
 project_titles:
   - >-
     World Harvest Dream Village: Affordable Housing with Food, Jobs, Healthcare,
     and Community.
-aggregated:
-  challenge_url:
-    - >-
-      https://activation.la2050.org/live/world-harvest-charities-family-services/
-  project_ids:
-    - '8102139'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102139'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/world-harvest-charities-family-services/activation.la2050.org/assets/images/live/2048-wide/world-harvest-charities-family-services.jpg
 

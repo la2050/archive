@@ -21,20 +21,14 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24096%252Fdisplay%252Fexercise.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/LIVEWELLPICOUNION.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102068'
 project_titles:
   - Live Well Pico Union
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/LIVEWELLPICOUNION.html'
-  project_ids:
-    - '5102068'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102068'
 maker_image_file_name: exercise.jpg
 maker_image_id: '24096'
 cached_project_image: >-

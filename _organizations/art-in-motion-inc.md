@@ -18,6 +18,10 @@ zip: '91403'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21797%252Fdisplay%252FSPIFF-Youth-Intensive.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/AIM.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102016'
 project_titles:
@@ -27,16 +31,6 @@ project_titles:
   - >-
     Educating traditionally underserved youth about working in the entertainment
     industry
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/AIM.html'
-  project_ids:
-    - '4102010'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102016'
 maker_image_file_name: SPIFF-Youth-Intensive.jpg
 maker_image_id: '21797'
 cached_project_image: >-

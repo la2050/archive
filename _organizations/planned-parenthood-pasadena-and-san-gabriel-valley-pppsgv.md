@@ -18,22 +18,16 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7186712265741-team91.JPG
 project_video: 'https://www.youtube.com/embed/x07ncVd8hWY?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/northeast-los-angeles-and-the-san-gabriel-valley-get-prepd-and-pepd!!
+year_submitted:
+  - '2016'
 project_ids:
   - '6102185'
 project_titles:
   - 'Northeast Los Angeles and the San Gabriel Valley Get PreP''d and PEP''d!! '
   - Northeast Los Angeles and the San Gabriel Valley Get PreP'd and PEP'd!!
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/northeast-los-angeles-and-the-san-gabriel-valley-get-prepd-and-pepd!!
-  project_ids:
-    - '6102185'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102185'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/planned-parenthood-pasadena-and-san-gabriel-valley-pppsgv/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7186712265741-team91.JPG
 

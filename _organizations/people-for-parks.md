@@ -23,6 +23,15 @@ zip: '90013'
 project_image: >-
   https://activation.la2050.org/assets/images/play/2048-wide/people-for-parks.jpg
 project_video: 'https://www.youtube.com/watch?v=J2ZWX_tk4BU'
+challenge_url:
+  - 'https://activation.la2050.org/play/people-for-parks/'
+  - >-
+    https://challenge.la2050.org/entry/people-for-parks-community-school-parks-go-kid-healthy!
+  - 'http://maker.good.is/myla2050play2015/projects/peopleforparks.html'
+year_submitted:
+  - '2018'
+  - '2016'
+  - '2015'
 project_ids:
   - '8102095'
   - '6102181'
@@ -33,25 +42,6 @@ project_titles:
     Community School Parks in LA
   - People for Parks' Community School Parks Go Kid Healthy!
   - People for Parks’ Community School Parks
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/play/people-for-parks/'
-    - >-
-      https://challenge.la2050.org/entry/people-for-parks-community-school-parks-go-kid-healthy!
-    - 'http://maker.good.is/myla2050play2015/projects/peopleforparks.html'
-  project_ids:
-    - '8102095'
-    - '6102181'
-    - '5102232'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102095'
-  - '6102181'
-  - '5102232'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/people-for-parks/activation.la2050.org/assets/images/play/2048-wide/people-for-parks.jpg
 

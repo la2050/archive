@@ -21,21 +21,15 @@ zip: 91802-6428
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22531%252Fdisplay%252FPhoto_Collage_v6.jpg=c570x385
 project_video: ''
+challenge_url: []
+year_submitted:
+  - '2014'
 project_ids:
   - '4102128'
 project_titles:
   - >-
     Project: SCHOLARS - empowering college and college bound students of all
     ages to succeed
-aggregated:
-  challenge_url: []
-  project_ids:
-    - '4102150'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102128'
 maker_image_file_name: Photo_Collage_v6.jpg
 maker_image_id: '22531'
 cached_project_image: >-

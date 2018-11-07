@@ -21,20 +21,14 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6888645593741-team90.png
 project_video: ''
+challenge_url:
+  - 'https://challenge.la2050.org/entry/la-votes'
+year_submitted:
+  - '2016'
 project_ids:
   - '6102033'
 project_titles:
   - LA Votes
-aggregated:
-  challenge_url:
-    - 'https://challenge.la2050.org/entry/la-votes'
-  project_ids:
-    - '6102033'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102033'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/center-for-the-study-of-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6888645593741-team90.png
 

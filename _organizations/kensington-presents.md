@@ -19,6 +19,10 @@ ein: '455635609'
 zip: '90013'
 project_image: 'https://img.youtube.com/vi/v-5UnN1CD0E/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050play2015/projects/KENSINGTONPRESENTS.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102160'
 project_titles:
@@ -28,16 +32,6 @@ project_titles:
   - >-
     Kensington Presents: Free outdoor arts programming for all ages with
     California State Parks
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050play2015/projects/KENSINGTONPRESENTS.html'
-  project_ids:
-    - '5102160'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102160'
 youtube_video_identifier: v-5UnN1CD0E
 cached_project_image: >-
   https://archive-assets.la2050.org/images/kensington-presents/img.youtube.com/vi/v-5UnN1CD0E/hqdefault.jpg

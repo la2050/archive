@@ -21,6 +21,12 @@ ein: '473675225'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/cisofla.html'
+  - 'http://maker.good.is/myla2050/projects/cislosangeles.html'
+year_submitted:
+  - '2015'
+  - '2013'
 project_ids:
   - '5102074'
   - '3102085'
@@ -30,20 +36,6 @@ project_titles:
     who need it
   - 'Communities In Schools of Los Angeles: A Vision of 100% Graduation in LAUSD'
   - 'Getting LA students to graduate: educating the whole child'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/cisofla.html'
-    - 'http://maker.good.is/myla2050/projects/cislosangeles.html'
-  project_ids:
-    - '5102075'
-    - '3102085'
-  year_submitted:
-    - '2015'
-    - '2013'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102074'
-  - '3102085'
 youtube_video_identifier: 8RfGcPRl--8
 cached_project_image: >-
   https://archive-assets.la2050.org/images/communities-in-schools-of-los-angeles/img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg

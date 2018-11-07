@@ -21,22 +21,16 @@ ein: '943490342'
 zip: '90230'
 project_image: 'https://img.youtube.com/vi/wGHuWyQEQIU/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050create2015/projects/DELUSION.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102127'
 project_titles:
   - >-
     Interactive Live Theatre where the audience moves through the story and
     plays their part in the tale
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050create2015/projects/DELUSION.html'
-  project_ids:
-    - '4102158'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102127'
 youtube_video_identifier: wGHuWyQEQIU
 cached_project_image: >-
   https://archive-assets.la2050.org/images/haunted-play-llc/img.youtube.com/vi/wGHuWyQEQIU/maxresdefault.jpg

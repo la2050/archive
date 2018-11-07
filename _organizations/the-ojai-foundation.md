@@ -23,6 +23,13 @@ zip: '93024'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3746850165741-team90.jpg
 project_video: ''
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/community-circle-space-initiative-creating-a-place-and-sharing-a-process-for-authentic-connection
+  - 'http://maker.good.is/myla2050learn2015/projects/CIS.html'
+year_submitted:
+  - '2016'
+  - '2015'
 project_ids:
   - '6102252'
   - '5102308'
@@ -34,21 +41,6 @@ project_titles:
     Community Circle Space Initiative: Creating a place and sharing a process
     for authentic connection
   - 'Council in Schools: Building Council Cultures and Spaces at 6 LA Schools'
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/community-circle-space-initiative-creating-a-place-and-sharing-a-process-for-authentic-connection
-    - 'http://maker.good.is/myla2050learn2015/projects/CIS.html'
-  project_ids:
-    - '6102252'
-    - '5102308'
-  year_submitted:
-    - '2016'
-    - '2015'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102252'
-  - '5102308'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-ojai-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3746850165741-team90.jpg
 

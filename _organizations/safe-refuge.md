@@ -21,21 +21,15 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0952754165741-team91.jpg
 project_video: ''
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/expanding-economic-empowerment-at-safe-refuge
+year_submitted:
+  - '2016'
 project_ids:
   - '6102203'
 project_titles:
   - Expanding Economic Empowerment at Safe Refuge
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/expanding-economic-empowerment-at-safe-refuge
-  project_ids:
-    - '6102203'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102203'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/safe-refuge/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0952754165741-team91.jpg
 

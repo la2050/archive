@@ -25,9 +25,17 @@ zip: '90015'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24040%252Fdisplay%252Fconnect_SLATEZsigners.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050connect2015/projects/SLATE_Z.html'
+  - 'http://maker.good.is/myLA2050learn/projects/LearnandServeOER.html'
+year_submitted:
+  - '2015'
+  - '2014'
+  - '2014'
 project_ids:
   - '5102197'
   - '4102138'
+  - '4102012'
 project_titles:
   - >-
     Los Angeles Trade-Technical College South LA Transit Empowerment Zone
@@ -35,23 +43,6 @@ project_titles:
   - >-
     Architecture and Environmental Design: Serving Community with Open
     Educational Resource
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050connect2015/projects/SLATE_Z.html'
-    - 'http://maker.good.is/myLA2050learn/projects/LearnandServeOER.html'
-  project_ids:
-    - '5102197'
-    - '4102203'
-    - '4102204'
-  year_submitted:
-    - '2015'
-    - '2014'
-    - '2014'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102197'
-  - '4102138'
-  - '4102012'
 maker_image_file_name: connect_SLATEZsigners.jpg
 maker_image_id: '24040'
 cached_project_image: >-

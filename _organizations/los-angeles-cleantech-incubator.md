@@ -23,20 +23,14 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6504718986741-team91.jpg
 project_video: ''
+challenge_url:
+  - 'https://challenge.la2050.org/entry/youth-cleantech-training-program'
+year_submitted:
+  - '2016'
 project_ids:
   - '6102137'
 project_titles:
   - Youth Cleantech Training Program
-aggregated:
-  challenge_url:
-    - 'https://challenge.la2050.org/entry/youth-cleantech-training-program'
-  project_ids:
-    - '6102137'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102137'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/los-angeles-cleantech-incubator/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6504718986741-team91.jpg
 

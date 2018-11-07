@@ -22,21 +22,15 @@ zip: '90031'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20805%252Fdisplay%252F1525354_1412741148965740_1670155225_n.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/WCCW.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102232'
 project_titles:
   - 'A Physical Space for the WCCW '
   - A Physical Space for the WCCW
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/WCCW.html'
-  project_ids:
-    - '4102098'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102232'
 maker_image_file_name: 1525354_1412741148965740_1670155225_n.jpg
 maker_image_id: '20805'
 cached_project_image: >-

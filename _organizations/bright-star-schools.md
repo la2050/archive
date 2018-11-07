@@ -95,20 +95,14 @@ ein: '550806673'
 zip: ''
 project_image: 'https://img.youtube.com/vi/-t89MRZW7G0/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/connections.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102042'
 project_titles:
   - The Connections Program
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/connections.html'
-  project_ids:
-    - '3102042'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102042'
 youtube_video_identifier: '-t89MRZW7G0'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/bright-star-schools/img.youtube.com/vi/-t89MRZW7G0/maxresdefault.jpg

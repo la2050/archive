@@ -20,6 +20,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4142800165741-team91.png
 project_video: 'https://www.youtube.com/embed/EVn09zI9fe4?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/future-focus-college-and-career-pathways-for-la-county-students
+year_submitted:
+  - '2016'
+  - '2014'
 project_ids:
   - '6102046'
   - '4102041'
@@ -28,20 +34,6 @@ project_titles:
   - >-
     LA Bridge: Ensuring Under-represented Students Enroll in and Graduate from
     Colleges in LA County
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/future-focus-college-and-career-pathways-for-la-county-students
-  project_ids:
-    - '6102046'
-    - '4102223'
-  year_submitted:
-    - '2016'
-    - '2014'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102046'
-  - '4102041'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/college-bridge/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4142800165741-team91.png
 

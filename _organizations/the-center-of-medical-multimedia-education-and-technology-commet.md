@@ -19,6 +19,11 @@ ein: '954522806'
 zip: '90049'
 project_image: 'https://img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/COMMET.html'
+year_submitted:
+  - '2015'
+  - '2014'
 project_ids:
   - '5102297'
   - '4102247'
@@ -29,19 +34,6 @@ project_titles:
   - >-
     The Cyber Insecurity Initiative of the Los Angeles Healthcare Security
     Systems Project
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/COMMET.html'
-  project_ids:
-    - '5102297'
-    - '4102216'
-  year_submitted:
-    - '2015'
-    - '2014'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102297'
-  - '4102247'
 youtube_video_identifier: NNetdspYB4M
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-center-of-medical-multimedia-education-and-technology-commet/img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg

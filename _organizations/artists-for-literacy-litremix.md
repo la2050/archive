@@ -21,20 +21,14 @@ ein: '943390795'
 zip: '90034'
 project_image: 'https://img.youtube.com/vi/0EQnXawnCQk/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/LitRemix.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102023'
 project_titles:
   - LitRemix
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/LitRemix.html'
-  project_ids:
-    - '5102023'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102023'
 youtube_video_identifier: 0EQnXawnCQk
 cached_project_image: >-
   https://archive-assets.la2050.org/images/artists-for-literacy-litremix/img.youtube.com/vi/0EQnXawnCQk/hqdefault.jpg

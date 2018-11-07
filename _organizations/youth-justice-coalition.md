@@ -23,20 +23,14 @@ ein: '830466818'
 zip: '90302'
 project_image: 'https://img.youtube.com/vi/31zyNJHGmig/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/freelahighschool.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102345'
 project_titles:
   - 'Education for Everyone: Alternative High School for Pushed-Out Youth'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/freelahighschool.html'
-  project_ids:
-    - '5102345'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102345'
 youtube_video_identifier: 31zyNJHGmig
 cached_project_image: >-
   https://archive-assets.la2050.org/images/youth-justice-coalition/img.youtube.com/vi/31zyNJHGmig/hqdefault.jpg

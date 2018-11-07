@@ -62,22 +62,16 @@ ein: '262567190'
 zip: ''
 project_image: 'https://img.youtube.com/vi/Uj3t-8frJ4Q/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/UGLYAPP.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102195'
 project_titles:
   - >-
     START SEEING UGLY!  A social app to reveal and transform blighted parts of
     Los Angeles
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/UGLYAPP.html'
-  project_ids:
-    - '3102195'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102195'
 youtube_video_identifier: Uj3t-8frJ4Q
 cached_project_image: >-
   https://archive-assets.la2050.org/images/materials-applications/img.youtube.com/vi/Uj3t-8frJ4Q/maxresdefault.jpg

@@ -19,19 +19,14 @@ ein: '262209104'
 zip: '90250'
 project_image: 'https://img.youtube.com/vi/k-SpD948tJc/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050play2015/projects/TempestActionParks.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102293'
 project_titles:
   - TMPST Action Parks provide creative movement to LA through play and fitness
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050play2015/projects/TempestActionParks.html'
-  project_ids: []
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102293'
 youtube_video_identifier: k-SpD948tJc
 cached_project_image: >-
   https://archive-assets.la2050.org/images/tempest-action-parks/img.youtube.com/vi/k-SpD948tJc/maxresdefault.jpg

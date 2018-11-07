@@ -23,23 +23,17 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6633121265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/wTWVo0OKkL8?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/emx-la-noho-artwalk-a-platform-for-educating-engaging-the-community-through-electronic-music
+year_submitted:
+  - '2016'
 project_ids:
   - '6102138'
 project_titles:
   - >-
     EMX LA & NoHo ArtWalk: A Platform for Educating & Engaging the Community
     through Electronic Music
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/emx-la-noho-artwalk-a-platform-for-educating-engaging-the-community-through-electronic-music
-  project_ids:
-    - '6102138'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102138'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/emx-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6633121265741-team91.jpg
 

@@ -39,21 +39,15 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16903%252Fdisplay%252FLBSpan2med.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/RXforLA.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102107'
 project_titles:
   - An Rx for LA - Combining Art & Technology to ReBuild Los Angeles
   - An Rx for LA  Combining Art & Technology to ReBuild Los Angeles
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/RXforLA.html'
-  project_ids:
-    - '3102107'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102107'
 maker_image_file_name: LBSpan2med.jpg
 maker_image_id: '16903'
 cached_project_image: >-

@@ -48,20 +48,14 @@ ein: '651169693'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/kpi.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102165'
 project_titles:
   - Building Future Leaders through STEM Education
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/kpi.html'
-  project_ids:
-    - '3102165'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102165'
 maker_image_file_name: Stem_pic.jpg
 maker_image_id: '16366'
 cached_project_image: >-

@@ -21,20 +21,14 @@ ein: '951691012'
 zip: '90048'
 project_image: 'https://img.youtube.com/vi/iQpQqqot8AQ/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050create2015/projects/JVSWORKSLA.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102156'
 project_titles:
   - 'JVS Works: Creating Hope and Opportunity'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050create2015/projects/JVSWORKSLA.html'
-  project_ids:
-    - '5102156'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102156'
 youtube_video_identifier: iQpQqqot8AQ
 cached_project_image: >-
   https://archive-assets.la2050.org/images/jvs-los-angeles/img.youtube.com/vi/iQpQqqot8AQ/hqdefault.jpg

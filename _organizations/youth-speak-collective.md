@@ -19,6 +19,12 @@ ein: '270126980'
 zip: '91340'
 project_image: 'https://img.youtube.com/vi/poREvQfFFL4/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050connect/projects/YOUTHSPEAKUP.html'
+  - 'http://maker.good.is/myla2050/projects/youthspeak.html'
+year_submitted:
+  - '2014'
+  - '2013'
 project_ids:
   - '4102266'
   - '3102279'
@@ -27,20 +33,6 @@ project_titles:
   - SPEAK UP ACROSS LA!
   - Youth Speak Collective
   - 'Future Leaders Initiative  Listen to the Leaders of Tomorrow. '
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050connect/projects/YOUTHSPEAKUP.html'
-    - 'http://maker.good.is/myla2050/projects/youthspeak.html'
-  project_ids:
-    - '4102110'
-    - '3102279'
-  year_submitted:
-    - '2014'
-    - '2013'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102266'
-  - '3102279'
 youtube_video_identifier: poREvQfFFL4
 cached_project_image: >-
   https://archive-assets.la2050.org/images/youth-speak-collective/img.youtube.com/vi/poREvQfFFL4/maxresdefault.jpg

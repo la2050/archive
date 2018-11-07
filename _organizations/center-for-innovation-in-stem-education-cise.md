@@ -22,23 +22,17 @@ zip: ''
 project_image: >-
   https://scontent-lga3-1.cdninstagram.com/vp/87312e416f30060766fe7fda3f4d32f7/5C3CA11B/t51.2885-15/e35/38081903_369052070293126_155768293343363072_n.jpg
 project_video: ''
+challenge_url:
+  - >-
+    https://activation.la2050.org/learn/center-for-innovation-in-stem-education-cise/
+year_submitted:
+  - '2018'
 project_ids:
   - '8102016'
 project_titles:
   - >-
     Next Generation Science Standards: Empowering Teachers to Empower Students
     for the Future of STEM
-aggregated:
-  challenge_url:
-    - >-
-      https://activation.la2050.org/learn/center-for-innovation-in-stem-education-cise/
-  project_ids:
-    - '8102016'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102016'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/center-for-innovation-in-stem-education-cise/scontent-lga3-1.cdninstagram.com/vp/87312e416f30060766fe7fda3f4d32f7/5C3CA11B/t51.2885-15/e35/38081903_369052070293126_155768293343363072_n.jpg
 

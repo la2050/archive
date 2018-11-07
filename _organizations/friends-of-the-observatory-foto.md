@@ -19,19 +19,13 @@ zip: '90027'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20477%252Fdisplay%252F405.jpg=c570x385
 project_video: ''
+challenge_url: []
+year_submitted:
+  - '2014'
 project_ids:
   - '4102077'
 project_titles:
   - Griffith Observatory--A pLAnetarium for 2050 now!
-aggregated:
-  challenge_url: []
-  project_ids:
-    - '4102128'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102077'
 maker_image_file_name: 405.jpg
 maker_image_id: '20477'
 cached_project_image: >-

@@ -23,29 +23,21 @@ zip: '92612'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/think-tank-productions-inc-dba-think-tank-gallery.jpg
 project_video: 'https://youtu.be/msrLyYttTv8'
+challenge_url:
+  - >-
+    https://activation.la2050.org/create/think-tank-productions-inc-dba-think-tank-gallery/
+  - >-
+    https://challenge.la2050.org/entry/think-tanks-red-tape-removal-program-–-untying-the-bureaucratic-knots-from-la-art-production
+year_submitted:
+  - '2018'
+  - '2016'
 project_ids:
   - '8102125'
+  - '6102263'
 project_titles:
   - >-
     Create Above the Radar Program – Think Tank Gallery Spotlight on Creative
     Opportunity
-aggregated:
-  challenge_url:
-    - >-
-      https://activation.la2050.org/create/think-tank-productions-inc-dba-think-tank-gallery/
-    - >-
-      https://challenge.la2050.org/entry/think-tanks-red-tape-removal-program-–-untying-the-bureaucratic-knots-from-la-art-production
-  project_ids:
-    - '5102319'
-    - '6102263'
-    - '8102125'
-  year_submitted:
-    - '2018'
-    - '2016'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102125'
-  - '6102263'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/think-tank-productions-inc-dba-think-tank-gallery/activation.la2050.org/assets/images/create/2048-wide/think-tank-productions-inc-dba-think-tank-gallery.jpg
 

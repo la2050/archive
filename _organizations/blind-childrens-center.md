@@ -22,6 +22,10 @@ ein: '951656369'
 zip: ''
 project_image: 'https://img.youtube.com/vi/z__BDhvkp9Q/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/bcc.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102030'
 project_titles:
@@ -31,16 +35,6 @@ project_titles:
   - >-
     Blind Childrens Center to strengthen new Social Skills Program with CREATIVE
     GROWTH CENTER
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/bcc.html'
-  project_ids:
-    - '5102030'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102030'
 youtube_video_identifier: z__BDhvkp9Q
 cached_project_image: >-
   https://archive-assets.la2050.org/images/blind-childrens-center/img.youtube.com/vi/z__BDhvkp9Q/hqdefault.jpg

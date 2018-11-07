@@ -23,22 +23,15 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6126977535741-team91.png
 project_video: 'https://www.youtube.com/embed/auo58FNeynU?rel=0&amp;showinfo=0'
+challenge_url:
+  - 'https://challenge.la2050.org/entry/connecting-hearts-to-children-on-skid-row'
+year_submitted:
+  - '2016'
 project_ids:
   - '6102285'
 project_titles:
   - 'Connecting Hearts To Children On Skid Row '
   - Connecting Hearts To Children On Skid Row
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/connecting-hearts-to-children-on-skid-row
-  project_ids:
-    - '6102285'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102285'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/worthy-of-love/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6126977535741-team91.png
 

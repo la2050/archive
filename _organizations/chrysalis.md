@@ -23,6 +23,11 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1107194355741-team88.jpg
 project_video: 'https://www.youtube.com/embed/9fQj9v92GS4?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/changing-lives-through-jobs-create-a-secondchance-for-l-a-through-employment
+year_submitted:
+  - '2016'
 project_ids:
   - '6102036'
 project_titles:
@@ -32,17 +37,6 @@ project_titles:
   - >-
     Changing Lives Through Jobs: Create a #SecondChance for L.A. through
     employment
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/changing-lives-through-jobs-create-a-secondchance-for-l-a-through-employment
-  project_ids:
-    - '6102036'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102036'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/chrysalis/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1107194355741-team88.jpg
 

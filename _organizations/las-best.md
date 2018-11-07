@@ -21,6 +21,15 @@ ein: '954311058'
 zip: '90035'
 project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/las-best.jpg'
 project_video: ''
+challenge_url:
+  - 'https://activation.la2050.org/learn/las-best/'
+  - >-
+    https://challenge.la2050.org/entry/las-best-aarp-foundation-experience-corps-brighter-futures-via-reading-proficiency-by-3rd-grade
+  - 'http://maker.good.is/myLA2050play/projects/CFS.html'
+year_submitted:
+  - '2018'
+  - '2016'
+  - '2014'
 project_ids:
   - '8102065'
   - '6102128'
@@ -32,25 +41,6 @@ project_titles:
     Proficiency by 3rd Grade
   - 'The KidBot Project: Expanding robotics programs to every community in LA!'
   - 'The KidBot Project: Expanding robotics programs to every community in LA! '
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/learn/las-best/'
-    - >-
-      https://challenge.la2050.org/entry/las-best-aarp-foundation-experience-corps-brighter-futures-via-reading-proficiency-by-3rd-grade
-    - 'http://maker.good.is/myLA2050play/projects/CFS.html'
-  project_ids:
-    - '8102065'
-    - '6102128'
-    - '4102253'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2014'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102065'
-  - '6102128'
-  - '4102113'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/las-best/activation.la2050.org/assets/images/learn/2048-wide/las-best.jpg
 

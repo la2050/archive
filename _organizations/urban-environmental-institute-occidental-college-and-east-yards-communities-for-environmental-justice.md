@@ -25,28 +25,20 @@ zip: '90040'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23743%252Fdisplay%252FScreen_Shot_2015-10-06_at_10.04.00_AM.png=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050connect2015/projects/LAmobilized.html'
+  - 'http://maker.good.is/myla2050connect2015/projects/AbundantFeast.html'
+  - 'http://maker.good.is/myla2050/projects/BuildingBlocksLA.html'
+year_submitted:
+  - '2015'
+  - '2015'
+  - '2013'
 project_ids:
-  - '5102335'
-project_titles:
-  - LA Mobilized
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050connect2015/projects/LAmobilized.html'
-    - 'http://maker.good.is/myla2050connect2015/projects/AbundantFeast.html'
-    - 'http://maker.good.is/myla2050/projects/BuildingBlocksLA.html'
-  project_ids:
-    - '5102335'
-    - '5102063'
-    - '3102266'
-  year_submitted:
-    - '2015'
-    - '2015'
-    - '2013'
-year_submitted: '2015'
-calculated_project_ids:
   - '5102335'
   - '5102063'
   - '3102266'
+project_titles:
+  - LA Mobilized
 maker_image_file_name: Screen_Shot_2015-10-06_at_10.04.00_AM.png
 maker_image_id: '23743'
 cached_project_image: >-

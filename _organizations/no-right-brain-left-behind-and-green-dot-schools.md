@@ -1,4 +1,5 @@
 ---
+original_project_image: 'https://img.youtube.com/vi/y3Gts_Aoxd8/hqdefault.jpg'
 published: true
 organization_id: '2013145'
 title: No Right Brain Left Behind and Green Dot Schools
@@ -36,30 +37,23 @@ org_summary: >-
    <p>NRBLB has been awarded accolades by Core77Design and The Swedish-American Chamber of Commerce; presented at events such as TEDx, Art Directors Club, and LiveWire; and been featured in FastCompany, GOOD Magazine, Core77, BrainPickings, Design Mind, and Art Rebels. To date, NRBLB has built a strong coalition of companies, design schools, education networks, and creative professionals able to develop scalable, low-cost, and adoptable innovation tools that enhance creativity inside and outside of classrooms. </p>
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954679811'
 organization_website:
-  - http://greendot.org
+  - 'http://greendot.org'
 twitter: ''
 instagram: ''
 facebook: ''
 ein: '954679811'
 zip: ''
-project_image: https://pbs.twimg.com/media/Dp0_YyTU0AACEA9.jpg:large
-original_project_image: 'https://img.youtube.com/vi/y3Gts_Aoxd8/hqdefault.jpg'
+project_image: 'https://pbs.twimg.com/media/Dp0_YyTU0AACEA9.jpg:large'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/salamanderproject.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102207'
 project_titles:
   - 'The Salamander Project: Re-designing Creativity in Education'
   - 'The Salamander Project: Redesigning Creativity in Education'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/salamanderproject.html'
-  project_ids:
-    - '3102207'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102207'
 youtube_video_identifier: y3Gts_Aoxd8
 cached_project_image: >-
   https://archive-assets.la2050.org/images/no-right-brain-left-behind-and-green-dot-schools/img.youtube.com/vi/y3Gts_Aoxd8/hqdefault.jpg

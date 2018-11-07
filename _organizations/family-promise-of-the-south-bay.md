@@ -21,20 +21,14 @@ zip: '90018'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/family-promise-of-the-south-bay.jpg
 project_video: 'https://www.youtube.com/watch?v=5y2nTF_hrSE'
+challenge_url:
+  - 'https://activation.la2050.org/live/family-promise-of-the-south-bay/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102039'
 project_titles:
   - TINY CITIES FOR L.A.’S HOMELESS
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/live/family-promise-of-the-south-bay/'
-  project_ids:
-    - '8102039'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102039'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/family-promise-of-the-south-bay/activation.la2050.org/assets/images/live/2048-wide/family-promise-of-the-south-bay.jpg
 

@@ -49,20 +49,14 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16898%252Fdisplay%252Fca_civic_innovation_project_logo.png=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/LACivicLab.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102206'
 project_titles:
   - LA Civic Engagement Lab
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/LACivicLab.html'
-  project_ids:
-    - '3102206'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102206'
 maker_image_file_name: ca_civic_innovation_project_logo.png
 maker_image_id: '16898'
 cached_project_image: >-

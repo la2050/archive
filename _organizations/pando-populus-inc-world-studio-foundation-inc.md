@@ -24,20 +24,14 @@ zip: '10014'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23521%252Fdisplay%252FEco_Civ.png=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/PANDOHUBS.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102227'
 project_titles:
   - PANDO HUBS
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/PANDOHUBS.html'
-  project_ids:
-    - '5102227'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102227'
 maker_image_file_name: Eco_Civ.png
 maker_image_id: '23521'
 cached_project_image: >-

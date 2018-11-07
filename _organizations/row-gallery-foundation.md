@@ -19,20 +19,14 @@ ein: '465706323'
 zip: '90013'
 project_image: 'https://img.youtube.com/vi/ApjqumUUgTI/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/RowGallery.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102182'
 project_titles:
   - 'Row Gallery Foundation: Empowering Artists from All Walks of Life'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/RowGallery.html'
-  project_ids:
-    - '4102078'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102182'
 youtube_video_identifier: ApjqumUUgTI
 cached_project_image: >-
   https://archive-assets.la2050.org/images/row-gallery-foundation/img.youtube.com/vi/ApjqumUUgTI/hqdefault.jpg

@@ -21,6 +21,16 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4013598065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/3R34MzY6_dM?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/college-track-developing-purpose-driven-leaders-to-transform-la
+  - 'http://maker.good.is/myla2050learn2015/projects/iamCollegeTrack.html'
+  - 'http://maker.good.is/myla2050/projects/iamcollegetrack.html'
+year_submitted:
+  - '2016'
+  - '2015'
+  - '2014'
+  - '2013'
 project_ids:
   - '6102047'
   - '5102071'
@@ -34,28 +44,6 @@ project_titles:
     How To Increase The Percentage Of Underserved Youth Graduating From College
     in Boyle Heights
   - Ensuring Boyle Heights 12th Graders Graduate From College
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/college-track-developing-purpose-driven-leaders-to-transform-la
-    - 'http://maker.good.is/myla2050learn2015/projects/iamCollegeTrack.html'
-    - 'http://maker.good.is/myla2050/projects/iamcollegetrack.html'
-  project_ids:
-    - '6102047'
-    - '5102071'
-    - '4102224'
-    - '3102082'
-  year_submitted:
-    - '2016'
-    - '2015'
-    - '2014'
-    - '2013'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102047'
-  - '5102071'
-  - '4102043'
-  - '3102082'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/college-track/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4013598065741-team90.jpg
 

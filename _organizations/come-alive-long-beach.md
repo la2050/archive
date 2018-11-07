@@ -23,21 +23,15 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7808945355741-team90.jpg
 project_video: 'https://www.youtube.com/embed/SCPg1hapsGE?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/community-collaboration-for-low-cost-creative-summer-art-camps-in-long-beach
+year_submitted:
+  - '2016'
 project_ids:
   - '6102048'
 project_titles:
   - Community Collaboration For Low Cost Creative Summer Art Camps In Long Beach
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/community-collaboration-for-low-cost-creative-summer-art-camps-in-long-beach
-  project_ids:
-    - '6102048'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102048'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/come-alive-long-beach/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7808945355741-team90.jpg
 

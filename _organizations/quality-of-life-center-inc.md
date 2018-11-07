@@ -28,20 +28,14 @@ ein: '550896331'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/QualityOfLifeCenter.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102225'
 project_titles:
   - Improve The Quality of Life Through Education and Community Support
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/QualityOfLifeCenter.html'
-  project_ids:
-    - '3102225'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102225'
 maker_image_file_name: 2010-2011_Graduation_Picture.171103650_std.jpg
 maker_image_id: '16300'
 cached_project_image: >-

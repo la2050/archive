@@ -23,6 +23,19 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/youth-policy-institute.jpg
 project_video: 'https://youtu.be/__37Jfcwzr8'
+challenge_url:
+  - 'https://activation.la2050.org/connect/youth-policy-institute/'
+  - >-
+    https://challenge.la2050.org/entry/undermine-college-undermatching-using-technology-to-select-the-best-college-fit-for-las-students
+  - 'http://maker.good.is/myla2050learn2015/projects/YPICOLLEGEPROMISE.html'
+  - 'http://maker.good.is/myLA2050play/projects/YPI.html'
+  - 'http://maker.good.is/myla2050/projects/PromiseNeighborhood.html'
+year_submitted:
+  - '2018'
+  - '2016'
+  - '2015'
+  - '2014'
+  - '2013'
 project_ids:
   - '8102140'
   - '6102288'
@@ -37,33 +50,6 @@ project_titles:
     Undermine College Undermatching: Using Technology to Select the Best College
     Fit for LA's Students
   - 'YPI’s COLLEGE PROMISE: College Matched Savings Accounts'
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/youth-policy-institute/'
-    - >-
-      https://challenge.la2050.org/entry/undermine-college-undermatching-using-technology-to-select-the-best-college-fit-for-las-students
-    - 'http://maker.good.is/myla2050learn2015/projects/YPICOLLEGEPROMISE.html'
-    - 'http://maker.good.is/myLA2050play/projects/YPI.html'
-    - 'http://maker.good.is/myla2050/projects/PromiseNeighborhood.html'
-  project_ids:
-    - '8102140'
-    - '6102288'
-    - '5102347'
-    - '4102267'
-    - '3102278'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
-    - '2014'
-    - '2013'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102140'
-  - '6102288'
-  - '5102347'
-  - '4102265'
-  - '3102278'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/youth-policy-institute/activation.la2050.org/assets/images/connect/2048-wide/youth-policy-institute.jpg
 

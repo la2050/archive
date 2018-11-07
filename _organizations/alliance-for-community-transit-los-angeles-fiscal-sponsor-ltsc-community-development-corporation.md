@@ -23,25 +23,18 @@ ein: '263106566'
 zip: '90013'
 project_image: 'https://img.youtube.com/vi/xcozMknxurc/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050connect/projects/ConnectingVoices.html'
+  - 'http://maker.good.is/myla2050/projects/lagreenteensummit.html'
+year_submitted:
+  - '2014'
+  - '2013'
 project_ids:
   - '4102005'
+  - '3102013'
 project_titles:
   - 'Connecting Voices, Building Power: Resident Led  Community Planning'
   - 'Connecting Voices Building Power: Resident Led Community Planning'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050connect/projects/ConnectingVoices.html'
-    - 'http://maker.good.is/myla2050/projects/lagreenteensummit.html'
-  project_ids:
-    - '4102002'
-    - '3102013'
-  year_submitted:
-    - '2014'
-    - '2013'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102005'
-  - '3102013'
 youtube_video_identifier: xcozMknxurc
 cached_project_image: >-
   https://archive-assets.la2050.org/images/alliance-for-community-transit-los-angeles-fiscal-sponsor-ltsc-community-development-corporation/img.youtube.com/vi/xcozMknxurc/maxresdefault.jpg

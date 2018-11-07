@@ -20,20 +20,14 @@ zip: '90071'
 project_image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2d/2015_Special_Olympics_Closing_Ceremony_on_August_2%2C_2015.jpg
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050connect/projects/LA2015.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102198'
 project_titles:
   - Special Olympics World Games 2015
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050connect/projects/LA2015.html'
-  project_ids:
-    - '4102085'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102198'
 youtube_video_identifier: DMG32xJ5p-Q
 cached_project_image: >-
   https://archive-assets.la2050.org/images/special-olympics-world-games-2015/upload.wikimedia.org/wikipedia/commons/2/2d/2015_Special_Olympics_Closing_Ceremony_on_August_2%2C_2015.jpg

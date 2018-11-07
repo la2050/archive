@@ -21,20 +21,14 @@ ein: '463516486'
 zip: '90063'
 project_image: 'https://img.youtube.com/vi/Eg3e5xfocOk/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/almabackyardfarms.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102006'
 project_titles:
   - 'Create LA: The Place Where No Space – or Life – is Wasted'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/almabackyardfarms.html'
-  project_ids:
-    - '4102006'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102006'
 youtube_video_identifier: Eg3e5xfocOk
 cached_project_image: >-
   https://archive-assets.la2050.org/images/alma-backyard-farms/img.youtube.com/vi/Eg3e5xfocOk/hqdefault.jpg

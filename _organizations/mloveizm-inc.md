@@ -25,21 +25,15 @@ ein: '452495405'
 zip: ''
 project_image: 'https://img.youtube.com/vi/Q4dC-OX4vTw/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/mloveizm.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102077'
 project_titles:
   - 'MLoveizm Supports, Empowers and Inspires Los Angeles Artists'
   - MLoveizm Supports Empowers and Inspires Los Angeles Artists
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/mloveizm.html'
-  project_ids:
-    - '3102077'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102077'
 youtube_video_identifier: Q4dC-OX4vTw
 cached_project_image: >-
   https://archive-assets.la2050.org/images/mloveizm-inc/img.youtube.com/vi/Q4dC-OX4vTw/hqdefault.jpg

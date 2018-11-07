@@ -23,20 +23,14 @@ zip: '90014'
 project_image: >-
   https://activation.la2050.org/assets/images/play/2048-wide/south-bay-bicycle-coalition.jpg
 project_video: 'https://youtu.be/ZE0fqJVRj80'
+challenge_url:
+  - 'https://activation.la2050.org/play/south-bay-bicycle-coalition/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102111'
 project_titles:
   - Activate South Bay LA Trails!
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/play/south-bay-bicycle-coalition/'
-  project_ids:
-    - '8102111'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102111'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/south-bay-bicycle-coalition/activation.la2050.org/assets/images/play/2048-wide/south-bay-bicycle-coalition.jpg
 

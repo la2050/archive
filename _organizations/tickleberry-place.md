@@ -22,6 +22,15 @@ zip: '90008'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7538982455741-team90.png
 project_video: 'https://www.youtube.com/embed/USaJI1-Ab8E?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/tickleberry-place-a-mobile-play-explore-and-learn-pop-up
+  - 'http://maker.good.is/myla2050play2015/projects/Tickleberryplace.html'
+  - 'http://maker.good.is/myLA2050play/projects/Tickleberryplace.html'
+year_submitted:
+  - '2016'
+  - '2015'
+  - '2014'
 project_ids:
   - '6102265'
   - '5102319'
@@ -31,25 +40,6 @@ project_titles:
   - Tickleberry Place Indoor Play Gym
   - 'Tickleberry Place, a mobile PLAY, EXPLORE and LEARN pop-up'
   - Tickleberry Place
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/tickleberry-place-a-mobile-play-explore-and-learn-pop-up
-    - 'http://maker.good.is/myla2050play2015/projects/Tickleberryplace.html'
-    - 'http://maker.good.is/myLA2050play/projects/Tickleberryplace.html'
-  project_ids:
-    - '6102265'
-    - '5102102'
-    - '4102244'
-  year_submitted:
-    - '2016'
-    - '2015'
-    - '2014'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102265'
-  - '5102319'
-  - '4102235'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/tickleberry-place/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7538982455741-team90.png
 

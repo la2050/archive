@@ -19,6 +19,10 @@ ein: '954315054'
 zip: ''
 project_image: 'https://img.youtube.com/vi/n__7obsdA8E/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/deafwest.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102053'
 project_titles:
@@ -28,16 +32,6 @@ project_titles:
   - >-
     Deaf West Theatre Performing Arts Center and Educational Outreach Program
     Residency
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/deafwest.html'
-  project_ids:
-    - '4102026'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102053'
 youtube_video_identifier: n__7obsdA8E
 cached_project_image: >-
   https://archive-assets.la2050.org/images/deaf-west-theatre-inc/img.youtube.com/vi/n__7obsdA8E/maxresdefault.jpg

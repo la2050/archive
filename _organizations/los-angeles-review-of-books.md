@@ -21,6 +21,17 @@ zip: '90028'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6409369455741-team91.jpg
 project_video: ''
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/larb-usc-publishing-institute-and-workshop
+  - 'http://maker.good.is/myla2050create2015/projects/LARB.html'
+  - 'http://maker.good.is/myLA2050create/projects/LARB.html'
+  - 'http://maker.good.is/myla2050/projects/LARB2050.html'
+year_submitted:
+  - '2016'
+  - '2015'
+  - '2014'
+  - '2013'
 project_ids:
   - '6102144'
   - '5102194'
@@ -31,29 +42,6 @@ project_titles:
   - LARB/USC Publishing Institute and Workshop
   - Los Angeles Review of Books
   - Los Angeles Review of Books Enabling LA Creativity
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/larb-usc-publishing-institute-and-workshop
-    - 'http://maker.good.is/myla2050create2015/projects/LARB.html'
-    - 'http://maker.good.is/myLA2050create/projects/LARB.html'
-    - 'http://maker.good.is/myla2050/projects/LARB2050.html'
-  project_ids:
-    - '6102144'
-    - '5102194'
-    - '4102233'
-    - '3102189'
-  year_submitted:
-    - '2016'
-    - '2015'
-    - '2014'
-    - '2013'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102144'
-  - '5102194'
-  - '4102134'
-  - '3102189'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/los-angeles-review-of-books/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6409369455741-team91.jpg
 

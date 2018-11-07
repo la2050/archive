@@ -21,22 +21,16 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/cardborigami-inc.jpg
 project_video: 'https://www.youtube.com/watch?v=w47i_b8U5-0&feature=youtu.be'
+challenge_url:
+  - 'https://activation.la2050.org/live/cardborigami-inc/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102013'
 project_titles:
   - >-
     Pop-Up Sites for Overnight Temporary Shelter: Serving our homeless neighbors
     with dignity first
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/live/cardborigami-inc/'
-  project_ids:
-    - '8102013'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102013'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/cardborigami-inc/activation.la2050.org/assets/images/live/2048-wide/cardborigami-inc.jpg
 

@@ -21,20 +21,14 @@ ein: '475212304'
 zip: '90069'
 project_image: 'https://img.youtube.com/vi/_AEWWNe6eQw/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/walking.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102176'
 project_titles:
   - Walking to Wellness Program
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/walking.html'
-  project_ids:
-    - '5102176'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102176'
 youtube_video_identifier: _AEWWNe6eQw
 cached_project_image: >-
   https://archive-assets.la2050.org/images/life-change-up/img.youtube.com/vi/_AEWWNe6eQw/hqdefault.jpg

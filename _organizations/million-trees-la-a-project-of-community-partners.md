@@ -68,6 +68,10 @@ ein: '954302067'
 zip: ''
 project_image: 'https://img.youtube.com/vi/IMUZKtO4vOw/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/FruitTreesforLA.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102197'
 project_titles:
@@ -77,16 +81,6 @@ project_titles:
   - >-
     Million Trees LA  Plant Toward a Sustainable Urban Forest That Supports
     Healthy Families .
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/FruitTreesforLA.html'
-  project_ids:
-    - '3102197'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102197'
 youtube_video_identifier: IMUZKtO4vOw
 cached_project_image: >-
   https://archive-assets.la2050.org/images/million-trees-la-a-project-of-community-partners/img.youtube.com/vi/IMUZKtO4vOw/maxresdefault.jpg

@@ -46,20 +46,14 @@ ein: '954660373'
 zip: ''
 project_image: 'https://img.youtube.com/vi/w8o0x9VRbvE/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/artsharela.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102026'
 project_titles:
   - Creative Placemaking in Downtown L.A.
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/artsharela.html'
-  project_ids:
-    - '3102026'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102026'
 youtube_video_identifier: w8o0x9VRbvE
 cached_project_image: >-
   https://archive-assets.la2050.org/images/art-share-l-a/img.youtube.com/vi/w8o0x9VRbvE/maxresdefault.jpg

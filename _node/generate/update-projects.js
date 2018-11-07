@@ -706,7 +706,7 @@ function processFile(filename) {
   let data = loadMarkdown(filename)
   if (!data) return
 
-  if (!data.yaml.published) return
+  //if (!data.yaml.published) return
 
   /*
   try {
@@ -959,7 +959,7 @@ function processFile(filename) {
   */
 
 
-
+  /*
   if (data.yaml.year_submitted == 2014) {
 
     if (data.yaml.maker_answers["impact_LA_County"] == 1) {
@@ -998,23 +998,22 @@ function processFile(filename) {
 
 
 
-    /*
-    let how_use_resources = []
-    useResources2015.forEach(area => {
-      // console.log(area)
-      if (data.yaml.maker_answers[area] == "1" && area != "How do you plan to use these resources to make change? Other") {
-        how_use_resources.push(area.replace("How do you plan to use these resources to make change? ", ""))
-        // console.log(area.replace("Where will you be working? ", ""))
-      } else if (area == "How do you plan to use these resources to make change? Specifics" && data.yaml.maker_answers[area] != "") {
-        how_use_resources.push(data.yaml.maker_answers[area])
-        // console.log(data.yaml.maker_answers[area])
-      }
-      // delete data[area]
-    })
-    // console.log("project_areas")
-    // console.dir(project_areas)
-    data.yaml.maker_answers["How do you plan to use these resources to make change?"] = how_use_resources
-    */
+    // let how_use_resources = []
+    // useResources2015.forEach(area => {
+    //   // console.log(area)
+    //   if (data.yaml.maker_answers[area] == "1" && area != "How do you plan to use these resources to make change? Other") {
+    //     how_use_resources.push(area.replace("How do you plan to use these resources to make change? ", ""))
+    //     // console.log(area.replace("Where will you be working? ", ""))
+    //   } else if (area == "How do you plan to use these resources to make change? Specifics" && data.yaml.maker_answers[area] != "") {
+    //     how_use_resources.push(data.yaml.maker_answers[area])
+    //     // console.log(data.yaml.maker_answers[area])
+    //   }
+    //   // delete data[area]
+    // })
+    // // console.log("project_areas")
+    // // console.dir(project_areas)
+    // data.yaml.maker_answers["How do you plan to use these resources to make change?"] = how_use_resources
+
 
 
 
@@ -1057,6 +1056,7 @@ function processFile(filename) {
       }
     })
   }
+  */
 
 
 
@@ -1077,6 +1077,18 @@ function processFile(filename) {
   //   for (let prop in data.yaml) {
   //     if (data.yaml.hasOwnProperty(prop)) {
   //       uniqueAttributes[data.yaml.year_submitted][prop] = 1
+  //     }
+  //   }
+  // }
+  // if (data.yaml.year_submitted && data.yaml.year_submitted != "") {
+  //   if (!uniqueAttributes[data.yaml.year_submitted]) {
+  //     uniqueAttributes[data.yaml.year_submitted] = {}
+  //   }
+  //   if (data.yaml.maker_answers) {
+  //     for (let prop in data.yaml.maker_answers) {
+  //       if (data.yaml.maker_answers.hasOwnProperty(prop)) {
+  //         uniqueAttributes[data.yaml.year_submitted][prop] = 1
+  //       }
   //     }
   //   }
   // }
@@ -1121,7 +1133,7 @@ function processFile(filename) {
   // organizationMarkdownFiles.forEach(item => {
   //   let organization_id = null
 
-  //   item.calculated_project_ids.forEach(project_id => {
+  //   item.project_ids.forEach(project_id => {
   //     if (data.yaml.project_id == project_id) {
   //       organization_id = item.organization_id
   //     }
@@ -1140,8 +1152,8 @@ function processFile(filename) {
   let suspectByTitle = []
   let text = getStringForComparison(fs.readFileSync(filename, 'utf8'))
   organizationMarkdownFiles.forEach(item => {
-    if (item.calculated_project_ids) {
-      item.calculated_project_ids.forEach(project_id => {
+    if (item.project_ids) {
+      item.project_ids.forEach(project_id => {
         if (data.yaml.project_id == project_id) {
           if (text.indexOf(getStringForComparison(item.title)) < 0) {
             if (item.published) suspectByTitle.push(item)
@@ -1159,7 +1171,7 @@ function processFile(filename) {
         }
       })
     } else {
-      // console.log("Coulnd’t find calculated_project_ids for organization:" + item.organization_id + " :: " + item.title)
+      // console.log("Coulnd’t find project_ids for organization:" + item.organization_id + " :: " + item.title)
     }
   })
 
@@ -1315,9 +1327,449 @@ function processFile(filename) {
   //   data.yaml.project_summary = data.yaml.maker_answers.brief
   // }
 
+  // if (data.yaml.maker_answers) {
+  //   delete data.yaml.maker_answers['Please include a detailed budget of how you will use $100,000 to implement this project.']
+  //   delete data.yaml.maker_answers['How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?']
+  //   delete data.yaml.maker_answers.cost
+  //   delete data.yaml.maker_answers.budget
+  //   delete data.yaml.maker_answers['budget explanation']
+  // }
 
-  saveMarkdown(filename, data)
+  // delete data.yaml.project_summary_backup
+
+  // delete data.yaml['Please include a detailed budget of how you will use $100,000 to implement this project.']
+
+  // delete data.yaml['How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?']
+
+  // let attributesInUse2015 = {
+  //   "In one sentence, please describe what your organization does": 1,
+  //   "In one to three sentences, please describe your proposal.": 1,
+  //   "Where will you be working?": 1,
+  //   "How do you plan to use these resources to make change?": 1,
+  //   "How will your proposal improve the following “Learn” metrics?": 1,
+  //   "How will your proposal improve the following “Create” metrics?": 1,
+  //   "How will your proposal improve the following “Play” metrics?": 1,
+  //   "How will your proposal improve the following “Connect” metrics?": 1,
+  //   "How will your proposal improve the following “Live” metrics?": 1,
+  //   "Describe in greater detail how you will make LA the best place to learn.": 1,
+  //   "Describe in greater detail how you will make LA the best place to create.": 1,
+  //   "Describe in greater detail how you will make LA the best place to play.": 1,
+  //   "Describe in greater detail how you will make LA the best place to connect.": 1,
+  //   "Describe in greater detail how you will make LA the healthiest place to live:": 1,
+  //   "Please explain how you will evaluate your work.": 1,
+  //   "How can the LA2050 community and other stakeholders help your proposal succeed?": 1
+  // }
+
+  // if (data.yaml.year_submitted == 2015 && data.yaml.maker_answers) {
+  //   attributes2015.forEach(attribute => {
+  //     if (!attributesInUse2015[attribute]) {
+  //       delete data.yaml.maker_answers[attribute]
+  //     }
+  //   })
+  // }
+
+  // let attributesInUse2014 = {
+  //   "Please describe yourself": 1,
+  //   "one_sentence_project": 1,
+  //   "one_sentence_org": 1,
+  //   "Does your project impact Los Angeles County?": 1,
+  //   "Which area(s) of LA does your project benefit?": 1,
+  //   "more_detail": 1,
+  //   "implement": 1,
+  //   "impact_learn": 1,
+  //   "impact_create": 1,
+  //   "impact_play": 1,
+  //   "impact_connect": 1,
+  //   "impact_live": 1,
+  //   "who_benefit": 1,
+  //   "collaboration": 1,
+  //   "partners_collaboration": 1,
+  //   "How will your project impact the LA2050 “Learn” metrics?": 1,
+  //   "How will your project impact the LA2050 “Create” metrics?": 1,
+  //   "How will your project impact the LA2050 “Play” metrics?": 1,
+  //   "How will your project impact the LA2050 “Connect” metrics?": 1,
+  //   "How will your project impact the LA2050 “Live” metrics?": 1,
+  //   "impact_metrics": 1,
+  //   "evaluate": 1,
+  //   "two_lessons": 1,
+  //   "achievable_goal": 1,
+  //   "major_challenges": 1,
+  //   "What resources does your project need?": 1
+  // }
+
+  // if (data.yaml.year_submitted == 2014 && data.yaml.maker_answers) {
+  //   attributes2014.forEach(attribute => {
+  //     if (!attributesInUse2014[attribute]) {
+  //       delete data.yaml.maker_answers[attribute]
+  //     }
+  //   })
+  // }
+
+  // let attributesInUse2013 = {
+  //   'description1': 1,
+  //   'collaborators': 1,
+  //   'success': 1,
+  //   'description': 1,
+  //   'vision': 1
+  // }
+
+  // if (data.yaml.year_submitted == 2013 && data.yaml.maker_answers) {
+  //   attributes2013.forEach(attribute => {
+  //     if (!attributesInUse2013[attribute]) {
+  //       delete data.yaml.maker_answers[attribute]
+  //     }
+  //   })
+  // }
+
+
+  /*
+  // '2013': 
+  delete data.yaml['What is your idea and how will it impact your indicator?']
+  delete data.yaml['What are some of your organization’s most important achievements to date?']
+  delete data.yaml['Please identify any partners or collaborators who will work with you on this project.']
+  delete data.yaml['Please explain how you will evaluate your project. How will you measure success?']
+  delete data.yaml['How will your project benefit Los Angeles? Please be specific.']
+  delete data.yaml['What would success look like in the year 2050 regarding your indicator?']
+
+  // '2014': 
+  delete data.yaml['Which area(s) of LA does your project benefit? Other (elaborate)']
+  delete data.yaml['What is your idea/project in more detail?']
+  delete data.yaml['What will you do to implement this idea/project?']
+  delete data.yaml['How will your idea/project help make LA the best place to connect today? In LA2050?']
+  delete data.yaml['Whom will your project benefit? Please be specific.']
+
+  // '2015': 
+  delete data.yaml['areas_impacted']
+  delete data.yaml['partners']
+  delete data.yaml['Please specify below']
+  delete data.yaml['Describe in greater detail how you will make LA the best place to connect:']
+  delete data.yaml['Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?']
+  delete data.yaml['Please explain how you will evaluate your work.']
+  delete data.yaml['Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?']
+  delete data.yaml['Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?']
+  delete data.yaml['How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?']
+  delete data.yaml['Please include a detailed budget of how you will use $100,000 to implement this project.']
+  delete data.yaml['How do you plan to scale the success of your proposal?']
+  */
+
+  // saveMarkdown(filename, data)
 }
+
+
+let attributes2013 = [
+  'description1',
+  'website',
+  'Indicator',
+  'brief',
+  'description',
+  'collaborators',
+  'Organization Name',
+  'success',
+  'description3',
+  'vision',
+  'EIN',
+  'Tax Status',
+  'about_you',
+  'Does your project impact Los Angeles County?'
+]
+
+let attributes2014 = [
+  'metrics_connect_traveltime',
+  'metrics_connect_voting',
+  'org_website',
+  'org_twitter',
+  'org_facebook',
+  'org_instagram',
+  'org_mailingaddress',
+  'org_ein',
+  'org_nonprofit',
+  'org_forprofit',
+  'org_government',
+  'org_individual',
+  'describe_soloactor',
+  'describe_proposedcollaboration',
+  'describe_collaboration',
+  'describe_organization',
+  'impact_LA_County',
+  'region_county',
+  'population_county',
+  'no',
+  'area_centralLA',
+  'area_eastLA',
+  'area_southLA',
+  'area_sangabrielvalley',
+  'area_sanfernandovalley',
+  'area_southbay',
+  'area_westside',
+  'area_other:',
+  'area_other_blank',
+  'describe_idea',
+  'more_detail',
+  'implement',
+  'impact_connect',
+  'who_benefit',
+  'collaboration',
+  'metrics_connect_volunteerism',
+  'city_state',
+  'org_name',
+  'metrics_connect_adultsupport',
+  'metrics_connect_culturalevents',
+  'metrics_connect_publictransit',
+  'metrics_connect_neighborhoodcouncils',
+  'metrics_connect_volunteer',
+  'metrics_connect_govresponsiveness',
+  'metrics_connect_transitaccessible',
+  'metrics_connect_socialmedia',
+  'metrics_connect_attendance',
+  'metrics_connect_residential segregation',
+  'metrics_connect_wifi',
+  'metrics_connect_other',
+  'metrics_connect_blank',
+  'resources_network',
+  'best_place_to_learn',
+  'best_place_to_create',
+  'healthiest_place_to_live',
+  'best_place_to_play',
+  'evaluate',
+  'two_lessons',
+  'achievable_goal',
+  'major_challenges',
+  'competition',
+  'resources_money',
+  'resources_staff',
+  'resources_publicity',
+  'resources_infrastructure',
+  'resources_education',
+  'resources_technical',
+  'resources_communityoutreach',
+  'resources_research',
+  'Which area(s) of LA does your project benefit?',
+  'Does your project impact Los Angeles County?',
+  'How will your project impact the LA2050 “Connect” metrics?',
+  'Please describe yourself',
+  'What resources does your project need?',
+  'impact_metrics',
+  'one_sentence_project',
+  'partners_collaboration',
+  'impact_play',
+  'City_State',
+  'one_sentence_org',
+  'all_county',
+  'name',
+  'handle',
+  'metrics_play_openspace',
+  'metrics_play_afterschool',
+  'metrics_play_crime',
+  'metrics_play_safe',
+  'metrics_play_sportingevents',
+  'metrics_play_park',
+  'metrics_play_vibrantpark',
+  'metrics_play_intergenerational',
+  'metrics_play_informal',
+  'metrics_play_other',
+  'metrics_play_blank',
+  'best_place_to_connect',
+  'How will your project impact the LA2050 “Play” metrics?',
+  'metrics_create_researchgrant',
+  'metrics_create_employment',
+  'impact_create',
+  'metrics_create_arts',
+  'metrics_create_manufacturing',
+  'metrics_create_patents',
+  'metrics_create_jbs',
+  'metrics_create_minoritywomenowned',
+  'metrics_create_gini',
+  'metrics_create_startups',
+  'metrics_create_venturecapital',
+  'metrics_create_influencers',
+  'metrics_create_recruitingrates',
+  'metrics_create_graduates',
+  'metrics_create_unemployment',
+  'metrics_create_other',
+  'metrics_create_blank',
+  'How will your project impact the LA2050 “Create” metrics?',
+  'metrics_learn_communitycollege',
+  'impact_learn',
+  'about_you',
+  'metrics_learn_earlyeducation',
+  'metrics_learn_unemployment',
+  'metrics_learn_graduationrates',
+  'metrics_learn_proficiency',
+  'metrics_learn_api',
+  'metrics_learn_college',
+  'metrics_learn_pipeline',
+  'metrics_learn_suspension',
+  'metrics_learn_truancy',
+  'metrics_learn_safety',
+  'metrics_learn_other',
+  'metrics_learn_blank',
+  'How will your project impact the LA2050 “Learn” metrics?',
+  'metrics_live_selfsufficiency',
+  'metrics_live_healthyfood',
+  'EIN',
+  'impact_live',
+  'metrics_live_healthcare',
+  'metrics_live_airtoxins',
+  'metrics_live_importedwater',
+  'metrics_live_obesity',
+  'metrics_live_homelessness',
+  'metrics_live_walkscore',
+  'metrics_live_pollutedwaterways',
+  'metrics_live_mentalillness',
+  'metrics_live_childhood',
+  'metrics_live_communities',
+  'metrics_live_healthcareservice',
+  'metrics_live_treecanopy',
+  'metrics_live_other',
+  'metrics_live_blank',
+  'How will your project impact the LA2050 “Live” metrics?'
+]
+
+let attributes2015 = [
+  'How do you plan to use these resources to make change? Mobilize for systems change',
+  'How do you plan to use these resources to make change? Advocate with policymakers and leaders',
+  'Organization(s) name(s)',
+  'Organization(s) mailing address(es)',
+  'Organization(s) website(s)',
+  'Organization(s) twitter handle(s)',
+  'Organization(s) facebook handle(s)',
+  'Organization(s) instagram handle(s)',
+  'Please share the direct link for voters to sign up for your newsletter(s)',
+  'EIN (for each organization)',
+  'Describe your organization(s): Non-Profit',
+  'Describe your organization(s): For-profit',
+  'Describe your organization(s): Government',
+  'Describe your organization(s): Other',
+  'Describe your organization(s): Specifics',
+  'In one sentence, please describe what your organization does',
+  'In one to three sentences, please describe your proposal.',
+  'Please write a sample tweet to describe your submission.',
+  'LA is the best place to LEARN',
+  'LA is the best place to CONNECT',
+  'LA is the best place to PLAY',
+  'LA is the healthiest place to LIVE',
+  'Where will you be working? Central LA',
+  'Where will you be working? East LA',
+  'Where will you be working? San Gabriel Valley',
+  'Where will you be working? San Fernando Valley',
+  'Where will you be working? South LA',
+  'Where will you be working? Westside',
+  'Where will you be working? South Bay',
+  'Where will you be working? Antelope Valley',
+  'Where will you be working? County of Los Angeles (countywide)',
+  'Where will you be working? City of Los Angeles (citywide)',
+  'Where will you be working? LAUSD',
+  'Where will you be working? Other',
+  'Where will you be working? Specifics',
+  'How do you plan to use these resources to make change? Conduct research',
+  'How do you plan to use these resources to make change? Engage residents and stakeholders',
+  'How do you plan to use these resources to make change? Implement a pilot or new project',
+  'How do you plan to use these resources to make change? Expand a pilot or a program',
+  'How did you hear about this challenge?',
+  'City, State',
+  'How do you plan to use these resources to make change? Implement and track policy',
+  'How do you plan to use these resources to make change? Other',
+  'How do you plan to use these resources to make change? Specifics',
+  'How will your proposal improve the following “Create” metrics? Employment in the creative industries',
+  'How will your proposal improve the following “Create” metrics? Arts establishments per capita',
+  'How will your proposal improve the following “Create” metrics? Concentration of manufacturing activity in LA',
+  'How will your proposal improve the following “Create” metrics? Federal research grant funding',
+  'How will your proposal improve the following “Create” metrics? Patents per capital',
+  'How will your proposal improve the following “Create” metrics? Jobs per capita',
+  'How will your proposal improve the following “Create” metrics? Minority- and women-owned firms',
+  'How will your proposal improve the following “Create” metrics? Gini coefficient',
+  'How will your proposal improve the following “Create” metrics? Number of high growth startups',
+  'How will your proposal improve the following “Create” metrics? Venture capital investment',
+  'How will your proposal improve the following “Create” metrics? Measures of cultural and global economic influence (“soft power”) (Dream Metric)',
+  'How will your proposal improve the following “Create” metrics? Recruiting and retention rates for local higher education institutions (Dream Metric)',
+  'How will your proposal improve the following “Create” metrics? Percentage of graduates from local higher education institutions that remain in LA County 5 years after graduating (Dream Metric)',
+  'How will your proposal improve the following “Create” metrics? Unemployment rates (and opportunities) for the formerly incarcerated (Dream Metric)',
+  'Describe in greater detail how you will make LA the best place to create.',
+  'How can the LA2050 community and other stakeholders help your proposal succeed?',
+  'How do you plan to use these resources to make change?',
+  'Where will you be working?',
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Specifics',
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Other',
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research',
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital)',
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital)',
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital)',
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)',
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Education/training',
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)',
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach',
+  'How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support',
+  'How will your proposal improve the following “Create” metrics?',
+  'Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?',
+  'Please explain how you will evaluate your work.',
+  'Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?',
+  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?',
+  'How do you plan to scale the success of your proposal?',
+  'Describe your organization(s): Non-profit',
+  'In one sentence, please describe what your organization does.',
+  'LA is the best place to CREATE',
+  'Where will you be working? County of Los Angeles',
+  'Where will you be working? City of Los Angeles',
+  'How will your proposal improve the following “Play” metrics? Access to open space and park facilities',
+  'How will your proposal improve the following “Play” metrics? Number of children enrolled in afterschool programs',
+  'How will your proposal improve the following “Play” metrics? Per capita crime rates',
+  'How will your proposal improve the following “Play” metrics? Percentage of residents that feel safe in their neighborhoods',
+  'How will your proposal improve the following “Play” metrics? Attendance at major league sporting events',
+  'How will your proposal improve the following “Play” metrics? Residents within 1⁄4 mile of a park (Dream Metric)',
+  'How will your proposal improve the following “Play” metrics? Number of residents with easy access to a “vibrant” park (Dream Metric)',
+  'How will your proposal improve the following “Play” metrics? Number of parks with intergenerational play opportunities (Dream Metric)',
+  'How will your proposal improve the following “Play” metrics? Number (and quality) of informal spaces for play (Dream Metric)',
+  'Describe in greater detail how you will make LA the best place to play.',
+  'How will your proposal improve the following “Play” metrics?',
+  'How will your proposal improve the following “Learn” metrics? Percentage of children enrolled in early education programs',
+  'How will your proposal improve the following “Learn” metrics? Percent of community college students completing a certificate, degree, or transfer-related program in six years',
+  'How will your proposal improve the following “Learn” metrics? Youth unemployment and underemployment',
+  'How will your proposal improve the following “Learn” metrics?  District-wide graduation rates',
+  'How will your proposal improve the following “Learn” metrics?  District-wide graduation ratesHS student proficiency in English & Language Arts and Math',
+  'How will your proposal improve the following “Learn” metrics?  District-wide graduation ratesAcademic Performance Index* scores',
+  'How will your proposal improve the following “Learn” metrics?  District-wide graduation ratesCollege matriculation rates',
+  'How will your proposal improve the following “Learn” metrics?  Student education pipeline (an integrated network of pre-schools, K-12 institutions, and higher education systems that prepares students for seamless transitions between high school, higher ed',
+  'How will your proposal improve the following “Learn” metrics? Suspension and expulsion rates (Dream Metric)',
+  'How will your proposal improve the following “Learn” metrics? Truancy rates in elementary and middle schools (Dream Metric)',
+  'How will your proposal improve the following “Learn” metrics? Students perceived sense of safety at and on the way to school (Dream Metric)',
+  'Describe in greater detail how you will make LA the best place to learn.',
+  'How will your proposal improve the following “Learn” metrics?',
+  'How do you plan to use these resources to make change?  Advocate with policymakers and leaders',
+  'How will your proposal improve the following “Connect” metrics? Rates of volunteerism',
+  'How will your proposal improve the following “Connect” metrics? Voting rates by race',
+  'How will your proposal improve the following “Connect” metrics? Adults getting sufficient social & emotional support',
+  'How will your proposal improve the following “Connect” metrics? Median travel time to work',
+  'How will your proposal improve the following “Connect” metrics? Attendance at cultural events',
+  'How will your proposal improve the following “Connect” metrics? Number of public transit riders',
+  'How will your proposal improve the following “Connect” metrics? Participation in neighborhood councils',
+  'How will your proposal improve the following “Connect” metrics? Percentage of Angelenos that volunteer informally (Dream Metric)',
+  'How will your proposal improve the following “Connect” metrics?  Government responsiveness to residents’ needs (Dream Metric)',
+  'How will your proposal improve the following “Connect” metrics? Transit-accessible housing and employment (the share of housing units and percentage of jobs that are located near transit)',
+  'How will your proposal improve the following “Connect” metrics? Total number of local social media friends and connections (Dream Metric)',
+  'How will your proposal improve the following “Connect” metrics? Attendance at public/open streets gatherings (Dream Metric)',
+  'How will your proposal improve the following “Connect” metrics? Residential segregation (Dream Metric)',
+  'How will your proposal improve the following “Connect” metrics? Access to free wifi (Dream Metric)',
+  'Describe in greater detail how you will make LA the best place to connect.',
+  'How will your proposal improve the following “Connect” metrics?',
+  'How will your proposal improve the following “Live” metrics?  Access to healthy food',
+  'HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Healthcare access',
+  'How will your proposal improve the following “Live” metrics? Exposure to air toxins',
+  'How will your proposal improve the following “Live” metrics? Number of households below the self-sufficiency index',
+  'HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percent of imported water',
+  'HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Obesity rates',
+  'HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Housing affordability',
+  'HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of homelessness',
+  'HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Walk/bike/transit score',
+  'HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Acres and miles of polluted waterways',
+  'HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of mental illness',
+  'HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Prevalence of adverse childhood experiences (Dream Metric)',
+  'HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of LA communities that are resilient (Dream Metric)',
+  'HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of residents receiving coordinated healthcare services (Dream Metric)',
+  'HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of tree canopy cover (Dream Metric)',
+  'DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE HEALTHIEST PLACE TO LIVE: ',
+  'How will your proposal improve the following “Live” metrics?'
+]
+
 
 
 // https://stackoverflow.com/questions/20822273/best-way-to-get-folder-and-file-list-in-javascript#21459809
@@ -1402,7 +1854,7 @@ createOrganizationsLookup()
 
 updateFolder('../_projects')
 
-// console.dir(uniqueAttributes)
+//console.dir(uniqueAttributes)
 
 /*
 { '2013': 

@@ -21,22 +21,16 @@ ein: '320154043'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/SVzSpv8Dj74/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050play2015/projects/SanGabrielMountains.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102299'
 project_titles:
   - >-
     San Gabriel Mountains Forever: Increasing Public Access to Our Local
     Mountains
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050play2015/projects/SanGabrielMountains.html'
-  project_ids:
-    - '5102299'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102299'
 youtube_video_identifier: SVzSpv8Dj74
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-council-of-mexican-federations-cofem/img.youtube.com/vi/SVzSpv8Dj74/maxresdefault.jpg

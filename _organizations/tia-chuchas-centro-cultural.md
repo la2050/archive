@@ -21,6 +21,12 @@ ein: '470919488'
 zip: '91342'
 project_image: 'https://img.youtube.com/vi/gX3uzlinkXc/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050create2015/projects/poetry.html'
+  - 'http://maker.good.is/myla2050/projects/tiachucha.html'
+year_submitted:
+  - '2015'
+  - '2013'
 project_ids:
   - '5102318'
   - '3102258'
@@ -30,20 +36,6 @@ project_titles:
   - >-
     Tia Chuchas Centro Culturals Arts Transforms Community  A Multimedia
     Wellness Project
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050create2015/projects/poetry.html'
-    - 'http://maker.good.is/myla2050/projects/tiachucha.html'
-  project_ids:
-    - '5102318'
-    - '3102258'
-  year_submitted:
-    - '2015'
-    - '2013'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102318'
-  - '3102258'
 youtube_video_identifier: gX3uzlinkXc
 cached_project_image: >-
   https://archive-assets.la2050.org/images/tia-chuchas-centro-cultural/img.youtube.com/vi/gX3uzlinkXc/maxresdefault.jpg

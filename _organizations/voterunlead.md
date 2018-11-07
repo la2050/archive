@@ -20,22 +20,16 @@ ein: '46'
 zip: '90275'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/voterunlead.jpg'
 project_video: 'https://www.youtube.com/watch?v=UJlhdh9rWgs'
+challenge_url:
+  - 'https://activation.la2050.org/connect/voterunlead/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102134'
 project_titles:
   - >-
     Women Lead L.A.: Activating Women to Collaborate, Lead, and Make Positive
     Change
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/voterunlead/'
-  project_ids:
-    - '8102134'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102134'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/voterunlead/activation.la2050.org/assets/images/connect/2048-wide/voterunlead.jpg
 

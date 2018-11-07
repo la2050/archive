@@ -21,20 +21,14 @@ ein: '800696339'
 zip: ''
 project_image: 'https://img.youtube.com/vi/fmzJcYDzdUw/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/LightingForLAParks.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102055'
 project_titles:
   - STATE OF THE ART LIGHTING FOR CITY PARKS!
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/LightingForLAParks.html'
-  project_ids:
-    - '3102055'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102055'
 youtube_video_identifier: fmzJcYDzdUw
 cached_project_image: >-
   https://archive-assets.la2050.org/images/hive-lighting/img.youtube.com/vi/fmzJcYDzdUw/maxresdefault.jpg

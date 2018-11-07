@@ -38,21 +38,15 @@ ein: '753193159'
 zip: ''
 project_image: 'https://img.youtube.com/vi/c2e6ERN-dS8/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/machineproject.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102194'
 project_titles:
   - 'Everything, Everywhere: LA 2050'
   - 'Everything Everywhere: LA 2050'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/machineproject.html'
-  project_ids:
-    - '3102194'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102194'
 youtube_video_identifier: c2e6ERN-dS8
 cached_project_image: >-
   https://archive-assets.la2050.org/images/machine-project/img.youtube.com/vi/c2e6ERN-dS8/maxresdefault.jpg

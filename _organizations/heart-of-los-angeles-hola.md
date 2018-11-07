@@ -86,20 +86,14 @@ ein: '954397418'
 zip: ''
 project_image: 'https://img.youtube.com/vi/0CZIOxlCozk/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/heartofla.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102147'
 project_titles:
   - Visual Arts Education at Heart of Los Angeles
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/heartofla.html'
-  project_ids:
-    - '3102147'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102147'
 youtube_video_identifier: 0CZIOxlCozk
 cached_project_image: >-
   https://archive-assets.la2050.org/images/heart-of-los-angeles-hola/img.youtube.com/vi/0CZIOxlCozk/maxresdefault.jpg

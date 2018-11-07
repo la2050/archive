@@ -19,22 +19,16 @@ ein: '954230350'
 zip: '90018'
 project_image: 'https://img.youtube.com/vi/V_x6dj_Fa9M/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/LACECenter.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102111'
 project_titles:
   - >-
     Liberate Arts! Intersect Our Communities! Create a Liberation Arts Institute
     to make our own stories
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/LACECenter.html'
-  project_ids:
-    - '4102050'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102111'
 youtube_video_identifier: V_x6dj_Fa9M
 cached_project_image: >-
   https://archive-assets.la2050.org/images/lace-center/img.youtube.com/vi/V_x6dj_Fa9M/maxresdefault.jpg

@@ -28,21 +28,15 @@ zip: '91383'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/action-civics-la-an-initiative-of-mikva-challenge.jpg
 project_video: 'https://www.youtube.com/watch?v=DRyOMoxgsbE'
+challenge_url:
+  - >-
+    https://activation.la2050.org/connect/action-civics-la-an-initiative-of-mikva-challenge/
+year_submitted:
+  - '2018'
 project_ids:
   - '8102005'
 project_titles:
   - Youth Voice 2020
-aggregated:
-  challenge_url:
-    - >-
-      https://activation.la2050.org/connect/action-civics-la-an-initiative-of-mikva-challenge/
-  project_ids:
-    - '8102005'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102005'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/action-civics-la-an-initiative-of-mikva-challenge/activation.la2050.org/assets/images/connect/2048-wide/action-civics-la-an-initiative-of-mikva-challenge.jpg
 

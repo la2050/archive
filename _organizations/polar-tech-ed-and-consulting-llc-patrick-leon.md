@@ -21,21 +21,16 @@ zip: '85226'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23673%252Fdisplay%252Fvidaenequilibrio.png=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/LifeInBalance.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102240'
 project_titles:
   - >-
     Vida en equilibrio:Aplicación móvil para el bienestar/Life in Balance: A
     Mobile Wellness Application
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/LifeInBalance.html'
-  project_ids: []
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102240'
 maker_image_file_name: vidaenequilibrio.png
 maker_image_id: '23673'
 cached_project_image: >-

@@ -22,19 +22,14 @@ ein: '813851393'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/twigg-how-to.jpg'
 project_video: ''
+challenge_url:
+  - 'https://activation.la2050.org/connect/twigg-how-to/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102127'
 project_titles:
   - '51%: Our Reality'
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/twigg-how-to/'
-  project_ids: []
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102127'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/twigg-how-to/activation.la2050.org/assets/images/connect/2048-wide/twigg-how-to.jpg
 

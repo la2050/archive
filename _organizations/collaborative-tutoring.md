@@ -40,20 +40,14 @@ ein: '462388422'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/CollaborativeTutor.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102020'
 project_titles:
   - Mentoring through Education Movement
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/CollaborativeTutor.html'
-  project_ids:
-    - '3102020'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102020'
 maker_image_file_name: Screen_shot_2013-03-28_at_2.40.43_PM.png
 maker_image_id: '17103'
 cached_project_image: >-

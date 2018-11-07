@@ -20,23 +20,17 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4196312265741-team91.jpg
 project_video: ''
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/connection-pointe-–-technology-education-tools-for-blind-teachers-and-students
+year_submitted:
+  - '2016'
 project_ids:
   - '6102020'
 project_titles:
   - >-
     Connection Pointe – Technology Education Tools for Blind Teachers and
     Students
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/connection-pointe-–-technology-education-tools-for-blind-teachers-and-students
-  project_ids:
-    - '6102020'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102020'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/braille-institute-of-america/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4196312265741-team91.jpg
 

@@ -19,20 +19,14 @@ ein: '453189725'
 zip: ''
 project_image: 'https://img.youtube.com/vi/XFrn3G05ZVc/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/LCreativo.html'
+year_submitted:
+  - '2014'
 project_ids:
   - '4102049'
 project_titles:
   - L Creativo - A Latin Indie Music Community
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/LCreativo.html'
-  project_ids:
-    - '5102117'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102049'
 youtube_video_identifier: XFrn3G05ZVc
 cached_project_image: >-
   https://archive-assets.la2050.org/images/creative-cycle-llc-dba-l-creativo/img.youtube.com/vi/XFrn3G05ZVc/hqdefault.jpg

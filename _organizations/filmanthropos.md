@@ -23,22 +23,16 @@ ein: '462443400'
 zip: ''
 project_image: 'https://img.youtube.com/vi/--BnysezHK0/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/filmanthropos.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102044'
 project_titles:
   - Empowering LAUSD with a Transmedia Education Platform for Change
   - Leading Change with PrdouceAthons
   - Leading Change with ProducAthons
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/filmanthropos.html'
-  project_ids:
-    - '3102044'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102044'
 youtube_video_identifier: '--BnysezHK0'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/filmanthropos/img.youtube.com/vi/--BnysezHK0/hqdefault.jpg

@@ -21,21 +21,15 @@ ein: '461639779'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/l-a-kitchen.jpg'
 project_video: 'https://vimeo.com/262575721'
+challenge_url:
+  - 'https://activation.la2050.org/live/l-a-kitchen/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102059'
 project_titles:
   - 'Seed to Sky: building an economic bridge from LA’s community gardens to LAX'
   - 'Seed to Sky:  building an economic bridge from LA''s community gardens to LAX'
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/live/l-a-kitchen/'
-  project_ids:
-    - '8102059'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102059'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/l-a-kitchen/activation.la2050.org/assets/images/live/2048-wide/l-a-kitchen.jpg
 

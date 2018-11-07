@@ -63,20 +63,14 @@ ein: '710929869'
 zip: ''
 project_image: 'https://img.youtube.com/vi/pUrKNHKdDLA/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/giantharpproject.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102099'
 project_titles:
   - The Los Angeles Giant Harp Project
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/giantharpproject.html'
-  project_ids:
-    - '3102099'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102099'
 youtube_video_identifier: pUrKNHKdDLA
 cached_project_image: >-
   https://archive-assets.la2050.org/images/string-theory-productions/img.youtube.com/vi/pUrKNHKdDLA/hqdefault.jpg

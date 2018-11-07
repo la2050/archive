@@ -21,6 +21,13 @@ zip: '91601'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4065764555741-team91.jpg
 project_video: 'https://www.youtube.com/embed/sMiWY0aFpkk?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/3-d-space-teaches-3-d-image-creation-from-analog-photography-to-digital-virtual-reality
+  - 'http://maker.good.is/myla2050create2015/projects/la3dspace.html'
+year_submitted:
+  - '2016'
+  - '2015'
 project_ids:
   - '6102001'
   - '5102004'
@@ -34,21 +41,6 @@ project_titles:
   - >-
     3-D SPACE: The Center For Stereoscopic Photography Art Cinema and Education
     in Los Angeles
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/3-d-space-teaches-3-d-image-creation-from-analog-photography-to-digital-virtual-reality
-    - 'http://maker.good.is/myla2050create2015/projects/la3dspace.html'
-  project_ids:
-    - '6102001'
-    - '5102004'
-  year_submitted:
-    - '2016'
-    - '2015'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102001'
-  - '5102004'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/3-d-space/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4065764555741-team91.jpg
 

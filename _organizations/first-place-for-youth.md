@@ -21,23 +21,17 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3278819955741-team89.jpg
 project_video: ''
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/first-place-providing-at-risk-foster-youth-with-the-skills-they-need-to-be-college-and-career-ready
+year_submitted:
+  - '2016'
 project_ids:
   - '6102068'
 project_titles:
   - >-
     First Place: Providing at-risk foster youth with the skills they need to be
     college and career ready
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/first-place-providing-at-risk-foster-youth-with-the-skills-they-need-to-be-college-and-career-ready
-  project_ids:
-    - '6102068'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102068'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/first-place-for-youth/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3278819955741-team89.jpg
 

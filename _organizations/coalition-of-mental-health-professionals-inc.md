@@ -38,20 +38,14 @@ ein: '954395737'
 zip: ''
 project_image: 'https://img.youtube.com/vi/gTKhNc98GIc/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/workersrising.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102078'
 project_titles:
   - 'Partnership for Black Workers Rising '
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/workersrising.html'
-  project_ids:
-    - '3102078'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102078'
 youtube_video_identifier: gTKhNc98GIc
 cached_project_image: >-
   https://archive-assets.la2050.org/images/coalition-of-mental-health-professionals-inc/img.youtube.com/vi/gTKhNc98GIc/maxresdefault.jpg

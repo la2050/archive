@@ -42,21 +42,15 @@ ein: TBC
 zip: ''
 project_image: 'https://img.youtube.com/vi/gatKpPjdUvo/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/CuriousFoodTruck.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102022'
 project_titles:
   - Curious Catalyst
   - 'Food Truck + Food Desert = Win Win Win! '
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/CuriousFoodTruck.html'
-  project_ids:
-    - '3102022'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102022'
 youtube_video_identifier: gatKpPjdUvo
 cached_project_image: >-
   https://archive-assets.la2050.org/images/curious-catalyst/img.youtube.com/vi/gatKpPjdUvo/maxresdefault.jpg

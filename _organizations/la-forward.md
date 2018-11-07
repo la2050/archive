@@ -20,6 +20,10 @@ ein: '954781974'
 zip: '90747'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/la-forward.jpg'
 project_video: 'https://youtu.be/iK1p6nJf5bg'
+challenge_url:
+  - 'https://activation.la2050.org/connect/la-forward/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102062'
 project_titles:
@@ -29,16 +33,6 @@ project_titles:
   - >-
     Connecting Angelenos to the Coalitions Shaping a Fair, Vibrant, and
     Sustainable Los Angeles 
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/la-forward/'
-  project_ids:
-    - '8102062'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102062'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/la-forward/activation.la2050.org/assets/images/connect/2048-wide/la-forward.jpg
 

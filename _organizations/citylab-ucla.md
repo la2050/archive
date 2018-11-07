@@ -39,21 +39,15 @@ ein: '956006143'
 zip: ''
 project_image: 'https://img.youtube.com/vi/T-_qt-Ah9-0/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/backyardhomes.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102069'
 project_titles:
   - 'Backyard Homes: Sustainable, Flexible, Affordable Housing for LA'
   - 'Backyard Homes: Sustainable Flexible Affordable Housing for LA'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/backyardhomes.html'
-  project_ids:
-    - '3102069'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102069'
 youtube_video_identifier: T-_qt-Ah9-0
 cached_project_image: >-
   https://archive-assets.la2050.org/images/citylab-ucla/img.youtube.com/vi/T-_qt-Ah9-0/maxresdefault.jpg

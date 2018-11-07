@@ -22,20 +22,14 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9449291893741-team90.jpg
 project_video: 'https://www.youtube.com/embed/UOyRvF_8T3s?rel=0&amp;showinfo=0'
+challenge_url:
+  - 'https://challenge.la2050.org/entry/glenfeliz-helping-la-grow'
+year_submitted:
+  - '2016'
 project_ids:
   - '6102073'
 project_titles:
   - 'Glenfeliz: Helping LA Grow'
-aggregated:
-  challenge_url:
-    - 'https://challenge.la2050.org/entry/glenfeliz-helping-la-grow'
-  project_ids:
-    - '6102073'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102073'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/friends-of-glenfeliz/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9449291893741-team90.jpg
 

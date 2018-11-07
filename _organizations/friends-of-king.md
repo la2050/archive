@@ -21,20 +21,14 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0761849894741-team91.jpg
 project_video: 'https://www.youtube.com/embed/LO-jFIvksfc?rel=0&amp;showinfo=0'
+challenge_url:
+  - 'https://challenge.la2050.org/entry/la-plays-at-king'
+year_submitted:
+  - '2016'
 project_ids:
   - '6102074'
 project_titles:
   - LA Plays at King
-aggregated:
-  challenge_url:
-    - 'https://challenge.la2050.org/entry/la-plays-at-king'
-  project_ids:
-    - '6102074'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102074'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/friends-of-king/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0761849894741-team91.jpg
 

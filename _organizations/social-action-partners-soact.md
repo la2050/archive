@@ -22,26 +22,19 @@ ein: '271689584'
 zip: '90043'
 project_image: 'https://img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/disruptthedesert.html'
+  - 'http://maker.good.is/myLA2050connect/projects/SouthLACapacity.html'
+year_submitted:
+  - '2015'
+  - '2014'
 project_ids:
   - '5102271'
+  - '4102193'
 project_titles:
   - >-
     Disrupt the Desert: Reduce Poverty by Accelerating Social Innovation in
     South LA
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/disruptthedesert.html'
-    - 'http://maker.good.is/myLA2050connect/projects/SouthLACapacity.html'
-  project_ids:
-    - '5102271'
-    - '4102083'
-  year_submitted:
-    - '2015'
-    - '2014'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102271'
-  - '4102193'
 youtube_video_identifier: iHlwRhoV_78
 cached_project_image: >-
   https://archive-assets.la2050.org/images/social-action-partners-soact/img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg

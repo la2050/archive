@@ -37,20 +37,14 @@ ein: '943251867'
 zip: ''
 project_image: 'https://img.youtube.com/vi/mJP7rkVcRfo/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/Recess.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102220'
 project_titles:
   - Creating a Positive Learning Environment
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/Recess.html'
-  project_ids:
-    - '3102220'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102220'
 youtube_video_identifier: mJP7rkVcRfo
 cached_project_image: >-
   https://archive-assets.la2050.org/images/playworks-southern-california/img.youtube.com/vi/mJP7rkVcRfo/maxresdefault.jpg

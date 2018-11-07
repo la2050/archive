@@ -21,20 +21,14 @@ zip: '92618'
 project_image: >-
   https://activation.la2050.org/assets/images/play/2048-wide/los-angeles-dodgers-foundation.jpg
 project_video: 'https://www.mlb.com/dodgers/video/ladf-overview/c-1866876583?tid=80228278'
+challenge_url:
+  - 'https://activation.la2050.org/play/los-angeles-dodgers-foundation/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102074'
 project_titles:
   - 'Using the Power of Baseball to Engage 100,000 Angelenos in PLAY!'
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/play/los-angeles-dodgers-foundation/'
-  project_ids:
-    - '8102074'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102074'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/los-angeles-dodgers-foundation/activation.la2050.org/assets/images/play/2048-wide/los-angeles-dodgers-foundation.jpg
 

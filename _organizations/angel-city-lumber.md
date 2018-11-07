@@ -21,19 +21,14 @@ ein: '474574079'
 zip: '90039'
 project_image: 'https://img.youtube.com/vi/4Kt14HIJyiU/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050create2015/projects/angelcitylumber.html'
+year_submitted:
+  - '2015'
 project_ids:
   - '5102016'
 project_titles:
   - Angel City Lumber
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050create2015/projects/angelcitylumber.html'
-  project_ids: []
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102016'
 youtube_video_identifier: 4Kt14HIJyiU
 cached_project_image: >-
   https://archive-assets.la2050.org/images/angel-city-lumber/img.youtube.com/vi/4Kt14HIJyiU/maxresdefault.jpg

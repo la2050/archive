@@ -21,22 +21,16 @@ zip: '90012'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/kitchen-table-app.jpg
 project_video: 'https://youtu.be/Rmqp7T8vQ0A'
+challenge_url:
+  - 'https://activation.la2050.org/connect/kitchen-table-app/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102057'
 project_titles:
   - >-
     Kitchen Table App brings people together over a shared love of good food and
     great company.
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/kitchen-table-app/'
-  project_ids:
-    - '8102057'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102057'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/kitchen-table-app/activation.la2050.org/assets/images/connect/2048-wide/kitchen-table-app.jpg
 

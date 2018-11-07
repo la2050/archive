@@ -23,22 +23,16 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/harlem-lacrosse-los-angeles.jpg
 project_video: 'https://www.youtube.com/watch?v=3WVD26iAwmw'
+challenge_url:
+  - 'https://activation.la2050.org/learn/harlem-lacrosse-los-angeles/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102051'
 project_titles:
   - >-
     Every Angeleno is an all star on our team. Help HL - LA build our home field
     advantage!
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/learn/harlem-lacrosse-los-angeles/'
-  project_ids:
-    - '8102051'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102051'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/harlem-lacrosse-los-angeles/activation.la2050.org/assets/images/learn/2048-wide/harlem-lacrosse-los-angeles.jpg
 

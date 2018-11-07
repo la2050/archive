@@ -18,21 +18,16 @@ zip: '90036'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/lola-parent-company-amir-erica-inc.jpg
 project_video: ''
+challenge_url:
+  - 'https://activation.la2050.org/connect/lola-parent-company-amir-erica-inc/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102069'
 project_titles:
   - Carl Boehm
   - Karin McKemey
   - 'LOLA: Demystifying local politics for young, busy residents in LA'
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/lola-parent-company-amir-erica-inc/'
-  project_ids: []
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102069'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/lola/activation.la2050.org/assets/images/connect/2048-wide/lola-parent-company-amir-erica-inc.jpg
 

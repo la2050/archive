@@ -21,6 +21,13 @@ zip: '90066'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4928931823741-team90.jpg
 project_video: 'https://www.youtube.com/embed/5fIYqcCuCuw?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/continue-to-empower-young-adults-in-l-a-through-the-visual-and-performing-arts
+  - 'http://maker.good.is/myla2050create2015/projects/PIECES.html'
+year_submitted:
+  - '2016'
+  - '2015'
 project_ids:
   - '6102183'
   - '5102236'
@@ -29,21 +36,6 @@ project_titles:
     CONTINUE TO EMPOWER YOUNG ADULTS IN L.A. THROUGH THE VISUAL AND PERFORMING
     ARTS
   - Empowering Young L.A. Adults Through the Visual & Performing Arts
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/continue-to-empower-young-adults-in-l-a-through-the-visual-and-performing-arts
-    - 'http://maker.good.is/myla2050create2015/projects/PIECES.html'
-  project_ids:
-    - '6102183'
-    - '5102236'
-  year_submitted:
-    - '2016'
-    - '2015'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102183'
-  - '5102236'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/pieces/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4928931823741-team90.jpg
 

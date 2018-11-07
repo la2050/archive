@@ -49,21 +49,15 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16476%252Fdisplay%252FApptalk.JPG=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/KCARUSO.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102062'
 project_titles:
   - 'LOLA, the Lifelong Organizational Learning App'
   - LOLA the Lifelong Organizational Learning App
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/KCARUSO.html'
-  project_ids:
-    - '3102062'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102062'
 maker_image_file_name: Apptalk.JPG
 maker_image_id: '16476'
 cached_project_image: >-

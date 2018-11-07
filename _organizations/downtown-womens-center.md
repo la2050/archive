@@ -66,6 +66,14 @@ ein: ''
 zip: ''
 project_image: 'https://img.youtube.com/vi/8GZELMERrSk/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050create2015/projects/DowntownWomensCenter.html'
+  - 'http://maker.good.is/myLA2050create/projects/DTwomenscenter.html'
+  - 'http://maker.good.is/myla2050/projects/MADEbyDWC.html'
+year_submitted:
+  - '2015'
+  - '2014'
+  - '2013'
 project_ids:
   - '5102084'
   - '4102056'
@@ -79,24 +87,6 @@ project_titles:
   - >-
     We Are All LA: a socially conscious business network to end womens
     homelessness through jobs
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050create2015/projects/DowntownWomensCenter.html'
-    - 'http://maker.good.is/myLA2050create/projects/DTwomenscenter.html'
-    - 'http://maker.good.is/myla2050/projects/MADEbyDWC.html'
-  project_ids:
-    - '#N/A'
-    - '4102196'
-    - '3102109'
-  year_submitted:
-    - '2015'
-    - '2014'
-    - '2013'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102084'
-  - '4102056'
-  - '3102109'
 youtube_video_identifier: 8GZELMERrSk
 cached_project_image: >-
   https://archive-assets.la2050.org/images/downtown-womens-center/img.youtube.com/vi/8GZELMERrSk/hqdefault.jpg

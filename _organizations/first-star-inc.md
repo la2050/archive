@@ -33,20 +33,14 @@ ein: '311719436'
 zip: ''
 project_image: 'https://img.youtube.com/vi/CZMjDcpz53c/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/FirstStar.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102128'
 project_titles:
   - First Star UCLA Bruin Guardian Scholars Academy
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/FirstStar.html'
-  project_ids:
-    - '3102128'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102128'
 youtube_video_identifier: CZMjDcpz53c
 cached_project_image: >-
   https://archive-assets.la2050.org/images/first-star-inc/img.youtube.com/vi/CZMjDcpz53c/hqdefault.jpg

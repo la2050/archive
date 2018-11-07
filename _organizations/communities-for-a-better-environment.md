@@ -29,23 +29,16 @@ ein: '260404220'
 zip: '90067'
 project_image: 'https://img.youtube.com/vi/ghRsAe0AExM/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050connect2015/projects/ShareSouthLA.html'
+  - 'http://maker.good.is/myla2050/projects/CBEYouthEJ.html'
+year_submitted:
+  - '2015'
+  - '2013'
 project_ids:
   - '3102084'
 project_titles:
   - Youth for Environmental Justice and Community Revitalization
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050connect2015/projects/ShareSouthLA.html'
-    - 'http://maker.good.is/myla2050/projects/CBEYouthEJ.html'
-  project_ids:
-    - '5102074'
-    - '3102084'
-  year_submitted:
-    - '2015'
-    - '2013'
-year_submitted: '2015'
-calculated_project_ids:
-  - '3102084'
 youtube_video_identifier: ghRsAe0AExM
 cached_project_image: >-
   https://archive-assets.la2050.org/images/communities-for-a-better-environment/img.youtube.com/vi/ghRsAe0AExM/hqdefault.jpg

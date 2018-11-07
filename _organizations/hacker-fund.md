@@ -21,20 +21,14 @@ ein: '472485464'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/hacker-fund.jpg'
 project_video: 'https://vimeo.com/231126321'
+challenge_url:
+  - 'https://activation.la2050.org/create/hacker-fund/'
+year_submitted:
+  - '2018'
 project_ids:
   - '8102050'
 project_titles:
   - Hacker Fund Civic Innovation Center
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/create/hacker-fund/'
-  project_ids:
-    - '8102050'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102050'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/hacker-fund/activation.la2050.org/assets/images/create/2048-wide/hacker-fund.jpg
 

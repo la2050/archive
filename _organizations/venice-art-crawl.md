@@ -32,20 +32,14 @@ ein: '956419214'
 zip: ''
 project_image: 'https://img.youtube.com/vi/U3BkXd4ano4/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/vacrainbarrels.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102271'
 project_titles:
   - Beautiful Rain Barrels in Public Places
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/vacrainbarrels.html'
-  project_ids:
-    - '3102271'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102271'
 youtube_video_identifier: U3BkXd4ano4
 cached_project_image: >-
   https://archive-assets.la2050.org/images/venice-art-crawl/img.youtube.com/vi/U3BkXd4ano4/maxresdefault.jpg

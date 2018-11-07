@@ -62,20 +62,14 @@ ein: '952211661'
 zip: ''
 project_image: 'https://img.youtube.com/vi/9PUd4G27uNk/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/youthvoicesmobile.html'
+year_submitted:
+  - '2013'
 project_ids:
   - '3102162'
 project_titles:
   - Departures Youth Voices Mobile Classroom
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/youthvoicesmobile.html'
-  project_ids:
-    - '3102162'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102162'
 youtube_video_identifier: 9PUd4G27uNk
 cached_project_image: >-
   https://archive-assets.la2050.org/images/kcet-departures/img.youtube.com/vi/9PUd4G27uNk/hqdefault.jpg
