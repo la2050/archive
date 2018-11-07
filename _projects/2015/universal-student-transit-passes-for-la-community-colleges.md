@@ -52,15 +52,6 @@ maker_answers:
       Students perceived sense of safety at and on the way to school (Dream
       Metric)
   Please explain how you will evaluate your work.: "We will consider our work a success if LA Metro institutes a pilot project on pre-paid, fare-free, universal, student transit passes with at least three community colleges. We will also evaluate our process of bringing students, colleges and transit agencies together to craft a pilot project that works for all of them. For example, we would expect to:\r\n•\tMeet with at least five community college student body presidents\r\n•\tMeet with at least five community college leadership staff\r\n•\tDraw at least 150 students to the conference in January \r\n•\tHold briefings on at least two campuses (at the joint request of students and administration)  \r\n•\tHold at least three meetings of a coordinating body of at least 10 people to chart strategy together\r\n•\tDevelop and maintain a strong working relationship with LA Metro staff\r\n•\tCreate a “Street Team” of 10 students at three to five campuses to use social media to increase interest in transit passes. \r\n"
-areas_impacted: ''
-partners: ''
-Please specify below: ''
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/universal-student-transit-passes-for-la-community-colleges/img.youtube.com/vi/uiAFCgZ6YRw/maxresdefault.jpg
 youtube_video_identifier: uiAFCgZ6YRw

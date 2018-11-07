@@ -67,52 +67,6 @@ maker_answers:
     collaborative maker space. The quantitative evaluation will come through the
     increased amount of girls graduating and attending colleges, and majoring in
     STEM careers like engineering, mathematics and science.  
-areas_impacted: ''
-partners: ''
-Please specify below: 'GALA Academy, on the campus of LA High School, Los Angeles, Ca'
-'Describe in greater detail how you will make LA the best place to connect:': >-
-  Los Angeles GALA graduates will graduate college-ready in the fields of STEM,
-  taking with them core values of academic excellence, ethical leadership and a
-  sense of self and community. In LAUSD, the female population is under served
-  in math, science, technology and the development of a strong independent
-  voice. GALA will seek to address these issues within a single-sex environment
-  and as the first all-girls public school, will serve as a research and
-  development site for effective urban schools and transfer success practice to
-  the larger LAUSD co-educational context. 
-   
-   Most inner city girls have never used tools to make hand-on projects. A Maker Space at our school will be a collaborative workshop where girls gain practical hands-on experiences with new technologies and innovative processes to design and build projects. A Maker Space can provide a flexible environment where learning is made physical by applying science, technology, math and creativity to solve problems and build things. Who in this group will be the next inventor, problem solver, or technology innovator? Who in this group will figure out answers to solve LA's problems of drought, homelessness, or earthquakes? 
-   
-   GALA will be opening this Fall 2016 with grades 6 and 9, with approximately 100 students per grade level. GALA will add a grade level each year until it reaches 6th-12th (a SPAN school). Starting with the Spring Board, College Board pre-AP curriculum in middle school, students will gain the necessary prerequisite skills to be successful in rigorous AP sequence in high school, enabling students to be selected into highly selective colleges. Through hand-on projects created in the Maker Space, GALA students will gain valuable experiences needed to understand real-life engineering and scientific applications, while applying what they learned to practice. Through their advisories and a designated college counselor, students will begin planning their college pathway in middle school. Teachers will incorporate college awareness and application process through advisories in high school. At the end, you will have a well-rounded Los Angeles high school graduate ready to excel in STEM fields.
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
-  The biggest barrier any new school with a specialized STEM-based program will
-  encounter, is lack of funding. Because equipment, machines and tools costs
-  money--we recognize that we must fund-raise or seek donations from outside
-  sources to overcome this barrier. Currently we are reaching out to
-  organizations to partner with and help develop our programs.
-Please explain how you will evaluate your work.: >-
-  Our qualitative evaluation will be in the projects the girls will design, the
-  competitions they enter, and the learning that will take place in the
-  collaborative maker space. The quantitative evaluation will come through the
-  increased amount of girls graduating and attending colleges, and majoring in
-  STEM careers like engineering, mathematics and science.
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: >-
-  GALA is the first all-girls public high school opening in California. There
-  are some all-girls pubic schools in New York and Texas who we have modeled,
-  but we are the first one in the state. It is a unique approach backed-up by
-  data showing that girls perform better and graduate at higher rates when in an
-  all-girl environment. We are also unique in that we are approaching educating
-  the whole child in more than academics, building social and emotional skills,
-  as well as providing a highly rigorous academic program.
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
-  Wiz Girls is helping us with providing "Coding" training, no cost. We also
-  have partnerships with STEM Pilot, Campus Steps, and Mt. St. Mary's, all
-  no-cost partnerships.
-How do you plan to scale the success of your proposal?: >-
-  We hope to build three to four other girls schools in Los Angeles in the next
-  few years. We hope that the Maker Space STEM model can be used at any LAUSD
-  school focused on a STEM curriculum. This type of work space will bring in
-  educators and professionals to conduct workshops and demonstrations to enhance
-  the curriculum.
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/girls-learn-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23370%252Fdisplay%252FGALA_pic_1.jpg=c570x385.jpg
 maker_image_id: '23370'

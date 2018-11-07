@@ -52,15 +52,6 @@ maker_answers:
     - Rates of homelessness
     - Percentage of LA communities that are resilient (Dream Metric)
   Please explain how you will evaluate your work.: "Our main outcome is whether a woman completes the six-month program (and does not return to prison). Through Crossroads, we also measure success by monitoring specific benchmarks which include: length of time in our program, completion of program, discharge from parole, obtainment of employment, length of time maintaining employment, and lifestyle changes (new friends, interests, sobriety). We also pay close attention to other milestones which include a woman re-uniting with her family or continuing her education. \r\n\r\nWith the establishment of the co-op and Social Entrepreneurs Academy, we will measure success by the number of Crossroads graduates who choose to opt-in to the co-op, participate in the academy, and obtain outside job opportunities. We will also measure our success by evaluating the continued profitability of Fallen Fruit from Rising Women and its ability to sustain lucrative employment opportunities for co-op members. \r\n"
-areas_impacted: ''
-partners: ''
-Please specify below: 'Claremont, CA and the immediate surrounding area'
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/fallen-fruit-from-rising-women-empowering-women-through-social-enterprise-and-food-justice/img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg
 youtube_video_identifier: Ht0-3dSjCew

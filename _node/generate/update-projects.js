@@ -1421,7 +1421,38 @@ function processFile(filename) {
   //   })
   // }
 
-  saveMarkdown(filename, data)
+
+  /*
+  // '2013': 
+  delete data.yaml['What is your idea and how will it impact your indicator?']
+  delete data.yaml['What are some of your organization’s most important achievements to date?']
+  delete data.yaml['Please identify any partners or collaborators who will work with you on this project.']
+  delete data.yaml['Please explain how you will evaluate your project. How will you measure success?']
+  delete data.yaml['How will your project benefit Los Angeles? Please be specific.']
+  delete data.yaml['What would success look like in the year 2050 regarding your indicator?']
+
+  // '2014': 
+  delete data.yaml['Which area(s) of LA does your project benefit? Other (elaborate)']
+  delete data.yaml['What is your idea/project in more detail?']
+  delete data.yaml['What will you do to implement this idea/project?']
+  delete data.yaml['How will your idea/project help make LA the best place to connect today? In LA2050?']
+  delete data.yaml['Whom will your project benefit? Please be specific.']
+
+  // '2015': 
+  delete data.yaml['areas_impacted']
+  delete data.yaml['partners']
+  delete data.yaml['Please specify below']
+  delete data.yaml['Describe in greater detail how you will make LA the best place to connect:']
+  delete data.yaml['Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?']
+  delete data.yaml['Please explain how you will evaluate your work.']
+  delete data.yaml['Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?']
+  delete data.yaml['Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?']
+  delete data.yaml['How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?']
+  delete data.yaml['Please include a detailed budget of how you will use $100,000 to implement this project.']
+  delete data.yaml['How do you plan to scale the success of your proposal?']
+  */
+
+  // saveMarkdown(filename, data)
 }
 
 

@@ -55,15 +55,6 @@ maker_answers:
     - Attendance at major league sporting events
     - Number (and quality) of informal spaces for play (Dream Metric)
   Please explain how you will evaluate your work.: "Since the goal of this project is to strengthen community by encouraging residents to enjoy public streets in their neighborhoods, one of the best success metrics is simply the number of people active on a street throughout the day. Conveniently, New York company Placemeter recently released a technology that makes it easy to use streaming video to count pedestrian activity with 95% accuracy (manual pedestrian counts are usually only 75% accurate!). We’ve spoken with Placemeter about using their technology to gauge our success, and they agreed to work with us on an initial implementation.\r\n\r\nThroughout the life of the project, we will take measures to ensure that this type of data collection is a top priority. All data collected will be made available publicly, and we will use it ourselves to ensure that each implementation is as effective and successful as possible."
-areas_impacted: ''
-partners: 'Partner EINs:, 901004121'
-Please specify below: 'The Hub, Utopiad office in Solano Canyon'
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/intersection-repair-using-art-to-create-safer-streets-and-stronger-communities/img.youtube.com/vi/KHtt2okRChU/hqdefault.jpg
 youtube_video_identifier: KHtt2okRChU

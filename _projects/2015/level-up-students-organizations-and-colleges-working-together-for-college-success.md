@@ -60,15 +60,6 @@ maker_answers:
       transfer-related program in six years
     - College matriculation rates
   Please explain how you will evaluate your work.: "The success of these collaborations must be measured by their effect on the students we serve. In order to ensure that our outcomes are being met, we will track students’ persistence through college by matching our students against the National Student Clearing House. Beyond this basic metric of student success, we will track a series of intermediate data points that we believe will signal whether students are going to successfully persist. We will not solely test how students are rating on these indicators; we will also analyze whether these indicators are effected by our collaborations with community-based organizations and colleges.  \r\n\r\nSuccess in this project will also be measured by the number of new partnerships SoCal CAN forms. As a network that thrives when collaboration is deep and purposeful, we will also track a series of data points that ensure that we are not only creating partnerships in name but instead purposeful, productive partnerships.  "
-areas_impacted: ''
-partners: ''
-Please specify below: ''
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/level-up-students-organizations-and-colleges-working-together-for-college-success/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23240%252Fdisplay%252F_MG_9694.JPG=c570x385.jpg
 maker_image_id: '23240'

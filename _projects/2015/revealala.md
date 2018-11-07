@@ -35,15 +35,6 @@ maker_answers:
     - Attendance at public/open streets gatherings (Dream Metric)
     - Residential segregation (Dream Metric)
   Please explain how you will evaluate your work.: "Evaluation strategies:\r\n\r\n1. Recording attendance to the planned public events - importantly the attendance of people from outside of the communities\r\n2. Conversations with the community\r\n3. Informal surveys - verbal and written\r\n4. Level of interest in our project from Los Angeles city officials\_\r\n"
-areas_impacted: ''
-partners: ''
-Please specify below: ''
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/revealala/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23861%252Fdisplay%252FAplusD-ReveaLALA.jpg=c570x385.jpg
 maker_image_id: '23861'

@@ -91,15 +91,6 @@ maker_answers:
       Unemployment rates (and opportunities) for the formerly incarcerated
       (Dream Metric)
   Please explain how you will evaluate your work.: "At the end of the implementation program, we expect to have increased standards of living for all the residents of Los Angeles by making progress on the following:\r\n1. Increased employment rates \r\n2. Concentration of manufacturing, Foreign Direct Investment in Los Angeles \r\n3. Increased Equity, Equality, and Prosperity for LA County residents \r\n4. Attraction of more high growth start-ups and Increased Venture capital investment\r\n5. Cultivation of cultural and global economic “soft power”\r\n6. Increased Human Capital and Strategic Workforce Development through training, educational attainment, and Community Development\r\n"
-areas_impacted: ''
-partners: ''
-Please specify below: all other sub-regions and communities of LA County
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/implementing-la-countys-strategic-plan-for-economic-development-2016-2020/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23271%252Fdisplay%252FStratPlanProg_Cover.jpg=c570x385.jpg
 maker_image_id: '23271'

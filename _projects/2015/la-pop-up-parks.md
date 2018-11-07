@@ -75,68 +75,6 @@ maker_answers:
     needs. In Venice it was quite place to work, create, sit down (there are no
     places to sit on AK Blvd) and bring family and friends without a more
     raucous element in proximity. In other communities the requests may differ. 
-areas_impacted: ''
-partners: ''
-Please specify below: >-
-  We can build these parks anywhere there is unused or open lots in the city or
-  county
-'Describe in greater detail how you will make LA the best place to connect:': >-
-  Our parks are free to use by anyone. Paid for by grants, sponsors and partners
-  and built in 30-45 days on a lot that is totally unused or unwanted. In our
-  park in Venice, there are places to work on your own or in teams. Many young
-  parents come by with small children so they can be engaged in their community
-  without sacrificing parental quality time. Events can book out the space for
-  non-commercial purposes and local organizations use the space for community
-  meetings and gatherings (both civil and religious). We are unbranded, totally
-  inclusive and literally a gift to the local community. We also build a robust
-  website, provide free wifi, set up a staffing and oversight plan and even
-  bring in local food and drink vendors so that park guests have a chance to get
-  something light to eat or drink.
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
-  We've identified hundreds of open lots across LA, we need the city to allow us
-  to transform these lots and financial partners to underwrite the costs. We
-  also need slight zoning changes on some of the land but that is also avoidable
-  through selective consideration of potential lots. Otherwise, no barriers
-  exist and we already built this in Venice so a proof of concept exists and I
-  encourage all judges to visit the Venice Pop up Park to be convinced of our
-  effectiveness at making neighborhoods better.
-Please explain how you will evaluate your work.: >-
-  We evaluate our work based on three things. 1) can we get people to use the
-  park once it's built 2) can we attract the right kinds of events that will be
-  productive and respectful of neighbors 3) Can we gain overwhelming acceptance
-  and support from the immediately surrounding community prior to construction
-  so we can build a park that fits what the surrounding community needs. In
-  Venice it was quite place to work, create, sit down (there are no places to
-  sit on AK Blvd) and bring family and friends without a more raucous element in
-  proximity. In other communities the requests may differ.
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: >-
-  Yes. Pop up parks are not new. They are done by community organizations and
-  brands all the time. However, we can't find any organizations doing them in LA
-  right now. We did this because we could and we needed to for our community. We
-  are applying for this grant because others have begged us to do this again and
-  again and we think the cost metrics finally support that goal.
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
-  The 100K grant will be used to set up a program to build 5-7 pop up parks all
-  over LA. We build these parks well enough so that can be permanent but we call
-  them pop up parks because sometimes the land chosen may have another purpose
-  in the next few years and then we can literally pick up the park and bring it
-  to a new location where it can do good. The whole process we create was such
-  that almost everything is re-used. For each project we will recruit a design
-  firm that reflects the local community and is able to pull the best ideas out
-  of the local residents. The City and County of LA will have to partner with us
-  as well since they most likely own the land we will build on. For the Venice
-  Park we found private property to do this on so we didn't have to deal with
-  government red tape on the pilot program.
-How do you plan to scale the success of your proposal?: >-
-  With more parks we can make deals with telco's to provide free wifi. TWC
-  passpoint seems like the most likely since they are city wide already and can
-  just provide us log in access to the network. we have relationships with Lowes
-  and Home Depot and with higher volume of park they are interested in donating
-  materials. The only thing that slows our scaling down would be the interest in
-  local/city/county government in allowing citizens to use their own resources
-  to beautify and enhance their neighborhoods. We also would have to work very
-  hard to recruit and hold onto human capital in the form of coordination and
-  construction volunteers.
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/la-pop-up-parks/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23850%252Fdisplay%252FIMG_9355.JPG=c570x385.jpg
 maker_image_id: '23850'

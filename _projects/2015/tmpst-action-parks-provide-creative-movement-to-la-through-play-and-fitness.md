@@ -63,44 +63,6 @@ maker_answers:
   Please explain how you will evaluate your work.: >-
     Our work will be evaluated through our already existing Tempest Academy
     instructional programs. 
-areas_impacted: ''
-partners: ''
-Please specify below: ''
-'Describe in greater detail how you will make LA the best place to connect:': >-
-  Just like any other fast growing individual and/or non-traditional sport,
-  Freerunning is currently taking place throughout LA in the streets or across
-  rooftops. We’ve opened up already two Tempest Academies in LA to share our
-  love of movement, but now we’d like to share our passion with your community.
-  All age groups and skill levels can use our Action Parks and our goal is to
-  provide free easy access to fun fitness. From aspiring stuntman, to athletes,
-  or the next American Ninja Warrior, TMPST Action Parks are fun for anyone
-  who’s excited to face the challenge of overcoming obstacles. Find your path
-  and take action!
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
-  One major barrier/challenge that we anticipate is getting your community
-  excited about how to use a TMPST Action Park. Our strategy is to provide
-  signage within the park showing basic exercise movements for each obstacle
-  proposed along with offering free public workshops from our already trained
-  staff on how to navigate throughout the course.
-Please explain how you will evaluate your work.: >-
-  Our work will be evaluated through our already existing Tempest Academy
-  instructional programs.
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: >-
-  To our knowledge, there is no other organization that is providing a free easy
-  access/fun fitness environment within a community park for public outdoor
-  usage. What is unique about our approach is that we will be offering a safe
-  and secure environment for those who like to practice Freerunning or Parkour,
-  along with calisthenics, Crossfit, obstacle course racing, general fitness,
-  yoga, etc. all in an outdoor park setting where everyone can enjoy the weather
-  that LA has to offer!
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': N/A.
-How do you plan to scale the success of your proposal?: >-
-  We envision that this will be the first flagship TMPST Action Park
-  strategically located within LA for the community to enjoy. Based upon the
-  success of the project we will then focus on building smaller parks throughout
-  the city in neighborhoods so that everyone will have an opportunity to enjoy a
-  TMPST Action Park. These Action Parks can also be a destination for local
-  schools to help teach physical education and bring fun through fitness!
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/tmpst-action-parks-provide-creative-movement-to-la-through-play-and-fitness/img.youtube.com/vi/k-SpD948tJc/maxresdefault.jpg
 youtube_video_identifier: k-SpD948tJc

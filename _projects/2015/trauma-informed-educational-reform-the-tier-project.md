@@ -57,15 +57,6 @@ maker_answers:
     absenteeism and truancy and drop-out rates. Also, we will collect data that
     documents the experiences of the participants of the training and
     implementing of their action plans.
-areas_impacted: ''
-partners: ''
-Please specify below: ''
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/trauma-informed-educational-reform-the-tier-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23820%252Fdisplay%252FTIER.jpg=c570x385.jpg
 maker_image_id: '23820'

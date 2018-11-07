@@ -71,55 +71,6 @@ maker_answers:
     schools that have T4T.org inspired project based learning and the combined
     data will be available to schools, press and the educational community at
     large through open access data banks and research servers.
-areas_impacted: ''
-partners: ''
-Please specify below: 'Parks, community centers and Title 1 Schools in LA County.'
-'Describe in greater detail how you will make LA the best place to connect:': >-
-  Our T4T.org traveling Makers Space will be filled with ReImagined Resources!
-  The items we carry are being discarded by local manufacturers and would be
-  headed for Landfill if we didn’t exist. Having a traveling Makers Space allows
-  us to bring Science, Technology, Engineering, Art and Math (STEAM) Education
-  to communities were this has only been a dream. We will have pop-up Makers
-  Space in Parks and School-yards around Los Angeles focusing our efforts in
-  neighborhoods with Title 1 Schools with more than 90% free and reduces lunch
-  programs. We wont necessarily be doing this on the school yard exclusively it
-  will simply be the way we identify the communities on our calendar. We will
-  have Saturday and Sunday pop-up Makers Spaces in some of the most unlikely
-  spots around town!
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
-  Our obstacle will be obtaining permits and we have already begun a
-  relationship with the Public Works Department of LA City. We will reach out to
-  them to make sure we are in compliance with the City before we set out. We
-  also will need at least two staff at each pop-up event and will need to bring
-  on extra staff. We will also be looking for volunteer groups to help with
-  these events so there will be plenty of helping hands at each open Makers
-  experience around town.
-Please explain how you will evaluate your work.: >-
-  We will conduct pre-then-post surveys with everyone who participates. Parents,
-  young inventors, anyone who takes place will be asked to answer a few basic
-  questions when they arrive about their level of interest in STEAM activities
-  and then they will answer the same questions as they complete their invention.
-  These findings will be compared to similar surveys we do in schools that have
-  T4T.org inspired project based learning and the combined data will be
-  available to schools, press and the educational community at large through
-  open access data banks and research servers.
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: >-
-  We have not been able to find anyone doing this in Los Angeles. Our unique
-  approach is based on the fact that we use material that would have been headed
-  to Landfill! In doing this we inspire environmental stewardship in our next
-  generation of inventors and scientists.
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
-  We would be doing this with our current list of manufacturers who supply us
-  with material. None of the budget will go to that. The $100,000, should we be
-  lucky enough to be awarded the grant, would go toward the vehicle, staff and
-  outreach to communities. The material we use will be donated from
-  manufacturers who receive a tax receipt as our thank you for their donations.
-How do you plan to scale the success of your proposal?: >-
-  We see this as a pilot project and with the data collected and successes
-  measured we will approach a car company to support more vehicles as well as
-  approach foundations to help us staff future vehicles. We will also write a
-  guidebook for any other community that is interested in starting a T4T.org
-  style traveling Makers Space using ReImagined Resources from their community.
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/t4t-orgs-mobile-makers-space-with-reimagined-resources/img.youtube.com/vi/XPYx9Zb6q6c/maxresdefault.jpg
 youtube_video_identifier: XPYx9Zb6q6c

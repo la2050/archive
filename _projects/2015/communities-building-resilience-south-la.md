@@ -57,15 +57,6 @@ maker_answers:
     - Percentage of LA communities that are resilient (Dream Metric)
     - Percentage of tree canopy cover (Dream Metric)
   Please explain how you will evaluate your work.: "These criteria will help us evaluate our work:\r\n•\tThe number of community members who actively engage in the resilience process\r\n•\tIncorporation of job training into implementation of all projects\r\n•\tEnvironmental metrics appropriate to targeted measures (e.g. water or energy saved)\r\n•\tSurvey of participants to assess levels of awareness, preparedness and sense of connection as a result of the project\r\n•\tEvaluations and feedback from USGBC-LA advisors and SCOPE\r\n\r\nOur project will be also be measured by the successful completion of:\r\n•\tA long-range community-driven resilience vision supported by a detailed implementation plan and milestones\r\n•\tIdentification, design and implementation of physical improvements in the SCOPE facility and surrounding community\r\n•\tA written case study that documents and develops a replicable and scalable process for involving communities in climate resilience efforts\r\n"
-areas_impacted: ''
-partners: ''
-Please specify below: ''
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/communities-building-resilience-south-la/img.youtube.com/vi/ERxmCic5y3o/hqdefault.jpg
 youtube_video_identifier: ERxmCic5y3o

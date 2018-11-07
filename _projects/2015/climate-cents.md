@@ -52,15 +52,6 @@ maker_answers:
     - Percentage of LA communities that are resilient (Dream Metric)
     - Percentage of tree canopy cover (Dream Metric)
   Please explain how you will evaluate your work.: "CC aims to bring money, volunteers, and attention to local environmental projects by tapping into a large population who haven’t been major donors or activists. We’ll direct these new resources to innovative initiatives, especially those emerging from disadvantaged communities. The sense of hope and accomplishment that users gain will motivate them to persevere in the fight against climate change and environmental injustice.\r\n\r\nWe’ll evaluate our progress toward goals by tracking key metrics.\r\n\r\n1) Monthly # of people who are website visitors/users/donors\r\n2) Annual # of money, volunteer hours and social media impressions\r\n3) Proportion of donations to disadvantaged communities\r\n\r\nWithin a year of the full-platform’s public launch, we want to be bringing in at least 500 donors a month, with an average donation of $50. Within three years, we want to be at scale in L.A., with $2 million in annual donations from at least 15,000 users, and beginning to scale the platform to other cities."
-areas_impacted: ''
-partners: ''
-Please specify below: ''
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/climate-cents/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23638%252Fdisplay%252Fnew_site3.png=c570x385.png
 maker_image_id: '23638'

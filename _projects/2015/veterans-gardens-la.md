@@ -37,15 +37,6 @@ maker_answers:
     - Rates of homelessness
     - Percentage of LA communities that are resilient (Dream Metric)
   Please explain how you will evaluate your work.: "We have developed a checklist of markers that demonstrate each veteran's progress toward self-sufficiency and home ownership. The ultimate measure of the success of this program is that four veterans will purchase starter housing under the terms of an agreement that will preserve each property from cost increases by the end of the pilot program.\r\n\r\n"
-areas_impacted: ''
-partners: ''
-Please specify below: ''
-'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
-Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: '#N/A'
-Please explain how you will evaluate your work.: '#N/A'
-Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
-'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/veterans-gardens-la/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24052%252Fdisplay%252Fhomelessstreetscene.jpg=c570x385.jpg
 maker_image_id: '24052'
