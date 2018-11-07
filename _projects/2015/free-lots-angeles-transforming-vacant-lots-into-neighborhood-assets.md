@@ -21,29 +21,6 @@ project_areas:
   - San Fernando Valley
   - City of Los Angeles
 maker_answers:
-  'City, State': 'Los Angeles, CA'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  Organization(s) name(s): >-
-    Los Angeles Neighborhood Land Trust (LANLT), Leadership for Urban Renewal
-    (LURN), TRUST South LA, Konkuey Design Initiative (KDI), Esperanza Community
-    Housing Corporation, Community Health Councils (CHC)
-  Organization(s) mailing address(es): "LANLT: 315 W 9th St, Suite 950, LA, 90015\r\nCHC: 3731 Stocker St, LA, 90008\r\nLURN: 553 S. Clarence St., LA, 90033\r\nEsperanza: 2337 S Figueroa St, LA,  90007\r\nKDI: 108. W 2nd street, #809, LA, 90012\r\nTRUST South LA: 4331 S Main St, LA, 90037"
-  Organization(s) website(s): www.LANLT.org
-  Organization(s) twitter handle(s): 'https://twitter.com/LANLT'
-  Organization(s) facebook handle(s): www.facebook.com/FreeLotsAngeles
-  Organization(s) instagram handle(s): N/A
-  Please share the direct link for voters to sign up for your newsletter(s): www.facebook.com/FreeLotsAngeles
-  EIN (for each organization): '38-3687836, 95-4487664, 27-0584116, 95-4230345, 90-0599471, 42-1687057'
-  'Describe your organization(s): Non-profit': '1'
-  'Describe your organization(s): For-profit': '0'
-  'Describe your organization(s): Government': '0'
-  'Describe your organization(s): Other': '0'
-  'Describe your organization(s): Specifics': ''
-  'In one sentence, please describe what your organization does.': >-
-    The LA Neighborhood Land Trust partners with LA’s communities of color to
-    develop, build, and operate safe parks and community gardens while
-    organizing to advocate for local policies that support health and equity.
-    LANLT will serve as lead applicant.
   'In one to three sentences, please describe your proposal.': >-
     Free Lots Angeles (FLA), a project of six organizations, works with
     communities to transform vacant lots into health-promoting neighborhood
@@ -51,44 +28,6 @@ maker_answers:
     “pop-ups” on vacant lots and helps change City policy to allow for Angelenos
     to access city-owned vacant land in their neighborhoods, especially in
     places where there are not enough places to PLAY. 
-  Please write a sample tweet to describe your submission.: >-
-    JOIN us & @LA2050 to activate #vacantlots all over LA! @CHC @LANLT @KDI
-    @TRUSTSLA @Esperanza @LURNetwork
-  LA is the best place to LEARN: '1'
-  LA is the best place to CREATE: '1'
-  LA is the best place to CONNECT: '1'
-  LA is the healthiest place to LIVE: '1'
-  Where will you be working? Central LA: '1'
-  Where will you be working? East LA: '1'
-  Where will you be working? San Gabriel Valley: '0'
-  Where will you be working? San Fernando Valley: '1'
-  Where will you be working? South LA: '0'
-  Where will you be working? Westside: '0'
-  Where will you be working? South Bay: '0'
-  Where will you be working? Antelope Valley: '0'
-  Where will you be working? County of Los Angeles: '0'
-  Where will you be working? City of Los Angeles: '1'
-  Where will you be working? LAUSD: '0'
-  Where will you be working? Other: '0'
-  Where will you be working? Specifics: ''
-  How do you plan to use these resources to make change? Conduct research: '1'
-  How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
-  How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How did you hear about this challenge?: Word of mouth
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How do you plan to use these resources to make change? Implement and track policy: '1'
-  How do you plan to use these resources to make change? Other: '0'
-  How do you plan to use these resources to make change? Specifics: ''
-  How will your proposal improve the following “Play” metrics? Access to open space and park facilities: '1'
-  How will your proposal improve the following “Play” metrics? Number of children enrolled in afterschool programs: '0'
-  How will your proposal improve the following “Play” metrics? Per capita crime rates: '1'
-  How will your proposal improve the following “Play” metrics? Percentage of residents that feel safe in their neighborhoods: '1'
-  How will your proposal improve the following “Play” metrics? Attendance at major league sporting events: '0'
-  How will your proposal improve the following “Play” metrics? Residents within 1⁄4 mile of a park (Dream Metric): '1'
-  How will your proposal improve the following “Play” metrics? Number of residents with easy access to a “vibrant” park (Dream Metric): '1'
-  How will your proposal improve the following “Play” metrics? Number of parks with intergenerational play opportunities (Dream Metric): '1'
-  How will your proposal improve the following “Play” metrics? Number (and quality) of informal spaces for play (Dream Metric): '1'
   Describe in greater detail how you will make LA the best place to play.: "LA is one of the most active cities in the world, but also home to thousands of vacant lots which are lost opportunities to promote healthy and safe PLAY in park-poor communities. These lots often attract trash and crime, and sometimes even negatively impact the vibrancy of the surrounding area. Free Lots Angeles (FLA) flips the script on vacant lots being a problem into a solution. By transforming vacant land into vibrant neighborhood destinations we’re assisting communities in creating long term realities for health and wellness. With a model that we’ve already piloted four times, community expertise, and strong relationships we’re confident that with your help we can make LA a better place to PLAY for everyone.\r\n\r\nTo accomplish this, FLA will organize pop-ups on vacant lots in low-income “play-deserts” of LA. These one-day events are the culmination of many hours of community organizing around a target vacant lot. Neighbors come together to identify vacant lots, discuss challenges, and with the help of designers, generate ideas to improve the lot. While these workshops are focused on producing a one-day event, data gathered creates a jumpstart to the  development of permanent, community-serving transformation.\r\n\r\nHowever, FLA won’t stop there. We know first hand that to make real impact on the lack of play for some neighborhoods, systems and policies need to be changed and we’ve got just the road map to get LA there. There are approximately 2300 vacant lots owned by the City of LA totalling the size of 4,550 football fields. That’s a lot of lost PLAY! This is an estimate that members of our coalition have painfully stitched together across many outdated and inaccessible sources. Needless to say, understanding the process for transforming a lot is sometimes even more difficult for residents. In response, FLA is developing an advocacy campaign to create new systems within the City to publicize city-owned vacant lots and create a simple process that can be used by everyone to get access to city-owned vacant land for the development of healthy places like parks, gardens, and mobility hubs. These tools will help Angelenos not only identify city-owned lots in their community, but also transform them. That means more play for everyone.\r\n\r\nAlong with your support, FLA’s dynamic coalition of six partners and it’s strong relationships with communities, Councilmembers, and the Mayor is primed to make big impact on PLAY. \r\n"
   How can the LA2050 community and other stakeholders help your proposal succeed?:
     - Money (financial capital)
@@ -108,17 +47,6 @@ maker_answers:
     - East LA
     - San Fernando Valley
     - City of Los Angeles
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
   How will your proposal improve the following “Play” metrics?:
     - Access to open space and park facilities
     - Per capita crime rates
@@ -127,11 +55,7 @@ maker_answers:
     - Number of residents with easy access to a “vibrant” park (Dream Metric)
     - Number of parks with intergenerational play opportunities (Dream Metric)
     - Number (and quality) of informal spaces for play (Dream Metric)
-  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "A major barrier we anticipate is generating the political will necessary to change the way the City tracks its vacant lots and how it empowers residents to shape how those spaces are used.\r\n\r\nTo address this challenge, Free Lots Angeles intends to use the political clout of each of its member organizations alongside the leadership of local community leaders to advocate for a better system to inventory lots and ensure that Angelenos are able to influence how vacant lots are used. Each of Free Lots Angeles’ partners has unique relationships within City government and community stakeholders that we intend to leverage to meet our goals. These relationships have already helped the coalition secure constructive partnerships with City Councilmembers, as well as Mayor Eric Garcetti.\r\n"
   Please explain how you will evaluate your work.: "Free Lots Angeles will evaluate its effectiveness in the following ways:\r\n\r\n1) The successful production of three pop-up events on vacant lots in low-income areas of the City;\r\n2) The introduction and institutionalization of City policy that will aggregate all City-owned vacant lots into one publicly-accessible database; and\r\n3) The development of a standard right of entry permit and/or lease agreements that could be used by community members to activate a vacant lot.\r\n\r\nThese goals are monitored by weekly meetings with program staff from each of the Free Lots Angeles partner organizations as well as separate senior-level meetings that take place every month with Executive Directors. These meetings help cultivate strong communication between each organization and also help maintain accountability on agreed upon goals.\r\n"
-  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are a number of other organizations in Los Angeles doing amazing work to activate under-utilized spaces, each of which should be heralded for their work on a very complex issue. Some of those organizations, specifically the LA Neighborhood Land Trust, are members of the Free Lots Angeles collaborative. \r\n\r\nFree Lots Angeles distinguishes itself from other important organizations in this field a few ways. First, it is a coalition of six organizations who all who have their own individual missions and track record of success. By working together, Free Lots Angeles is attempting to multiply the impact that only one organization can have on their own.\r\n\r\nSecond, Free Lots Angeles distinguishes itself because of its goal of creating policy and new systems that can help manage City-owned land. We hope that by working together, we can help communities better realize their power to reclaim vacant parcels in their community, and engage their neighbors to develop spaces that meet their needs and their vision of a healthy Los Angeles."
-  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Los Angeles Neighborhood Land Trust (LANLT): $25,500\r\nEsperanza Community Housing Corporation: $8,350\r\nLeadership for Urban Renewal Network (LURN): $16,600\r\nKonkuey Design Initiative (KDI): $18,350\r\nCommunity Health Councils (CHC): $12,100\r\nT.R.U.S.T. South LA: $19,100"
-  How do you plan to scale the success of your proposal?: "Free Lots Angeles will scale its work supporting and guiding the City of Los Angeles to enact new policies that will allow people throughout the City to both temporarily activate vacant lots through the right of entry permit and permanently transform them through the availability of better data and improved organization within City government. We feel that this work will provide a valuable strategy to community-oriented groups around the country to pursue. We feel that this systems approach provides an open-source playbook for community groups to lend their support in building a more equitable play environment in LA. \r\n"
 areas_impacted: ''
 partners: 'Partner EINs:, 954487664, 270584116, 954230345, 900599471, 421687057'
 Please specify below: ''

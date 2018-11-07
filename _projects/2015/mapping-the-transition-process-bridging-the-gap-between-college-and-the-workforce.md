@@ -19,21 +19,6 @@ project_areas:
   - San Gabriel Valley
   - County of Los Angeles
 maker_answers:
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  Organization(s) name(s): MAPS 4 College
-  Organization(s) mailing address(es): '13337 South Street 574, Cerritos, CA 90703'
-  Organization(s) website(s): www.maps4college.org
-  Organization(s) twitter handle(s): 'https://twitter.com/hashtag/maps4college'
-  Organization(s) facebook handle(s): 'https://www.facebook.com/MAPS4College'
-  Organization(s) instagram handle(s): ''
-  Please share the direct link for voters to sign up for your newsletter(s): ''
-  EIN (for each organization): 26-2915543
-  'Describe your organization(s): Non-profit': '1'
-  'Describe your organization(s): For-profit': '0'
-  'Describe your organization(s): Government': '0'
-  'Describe your organization(s): Other': '0'
-  'Describe your organization(s): Specifics': ''
   'In one sentence, please describe what your organization does': >-
     This organization maps the transitional process of students’ from college to
     the workforce by considering factors of college preparation, volunteerism,
@@ -43,47 +28,6 @@ maker_answers:
     job training, and recruitment agencies. We do this by providing intentional
     networking events and integrated essential skill-building internship
     opportunities for students to transition from college to the workforce. 
-  Please write a sample tweet to describe your submission.: We help 18-24 year olds strengthen their essential workforce skills.
-  LA is the best place to LEARN: '1'
-  LA is the best place to CREATE: '1'
-  LA is the best place to PLAY: '0'
-  LA is the healthiest place to LIVE: '0'
-  Where will you be working? Central LA: '0'
-  Where will you be working? East LA: '0'
-  Where will you be working? San Gabriel Valley: '1'
-  Where will you be working? San Fernando Valley: '0'
-  Where will you be working? South LA: '0'
-  Where will you be working? Westside: '0'
-  Where will you be working? South Bay: '0'
-  Where will you be working? Antelope Valley: '0'
-  Where will you be working? County of Los Angeles (countywide): '1'
-  Where will you be working? City of Los Angeles: '0'
-  Where will you be working? LAUSD: '0'
-  Where will you be working? Other: '0'
-  Where will you be working? Specifics: ''
-  How do you plan to use these resources to make change? Conduct research: '0'
-  How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
-  How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How did you hear about this challenge?: We submitted a grant last year
-  'City, State': 'Baldwin Park, CA'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
-  How do you plan to use these resources to make change? Other: '0'
-  How do you plan to use these resources to make change? Specifics: ''
-  How will your proposal improve the following “Connect” metrics? Rates of volunteerism: '1'
-  How will your proposal improve the following “Connect” metrics? Voting rates by race: '0'
-  How will your proposal improve the following “Connect” metrics? Adults getting sufficient social & emotional support: '1'
-  How will your proposal improve the following “Connect” metrics? Median travel time to work: '0'
-  How will your proposal improve the following “Connect” metrics? Attendance at cultural events: '0'
-  How will your proposal improve the following “Connect” metrics? Number of public transit riders: '0'
-  How will your proposal improve the following “Connect” metrics? Participation in neighborhood councils: '0'
-  How will your proposal improve the following “Connect” metrics? Percentage of Angelenos that volunteer informally (Dream Metric): '1'
-  How will your proposal improve the following “Connect” metrics?  Government responsiveness to residents’ needs (Dream Metric): '0'
-  How will your proposal improve the following “Connect” metrics? Transit-accessible housing and employment (the share of housing units and percentage of jobs that are located near transit): '0'
-  How will your proposal improve the following “Connect” metrics? Total number of local social media friends and connections (Dream Metric): '0'
-  How will your proposal improve the following “Connect” metrics? Attendance at public/open streets gatherings (Dream Metric): '0'
-  How will your proposal improve the following “Connect” metrics? Residential segregation (Dream Metric): '0'
-  How will your proposal improve the following “Connect” metrics? Access to free wifi (Dream Metric): '0'
   Describe in greater detail how you will make LA the best place to connect.: "Unemployment is an endemic disease that affects lives and the economy; young people are affected the most. Over the lifetime of 6.7 million unemployed Americans who are currently ages 16-34, it is estimated to cost the U.S. $1.5 trillion in government subsidized assistance and loss in tax revenue.\r\n \r\nThe highest percentage of unemployed adults are 18-24 year olds college students who lack essential skills in the workplace.  Our organization will provide hands-on essential/soft skills training for college students.  Students will volunteer their time as interns to help high school students achieve success.\r\n \r\nMAPS will provide two opportunities: 1.  host intentional events and workshops and 2. establish a volunteer/internship program designed for college students.\r\n\r\n1. These events are tailored to bridge students with agencies. We will invite students, businesses, job recruiting agencies, colleges, and leaders to create a seamless interagency network to create opportunities for students to be employed and companies to recruit qualified candidates who may have been missed in the pile of job applicants.\r\n \r\n2. Student interns/volunteers will be able to gain experience through training and completing hands on tasks that will prepare them to reach their full potential in the industry of their choice. Students will also be able to volunteer and help with the preparation of events."
   How can the LA2050 community and other stakeholders help your proposal succeed?:
     - Money (financial capital)
@@ -98,31 +42,11 @@ maker_answers:
     - Implement a pilot or new project
   Where will you be working?:
     - San Gabriel Valley
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
   How will your proposal improve the following “Connect” metrics?:
     - Rates of volunteerism
     - Adults getting sufficient social & emotional support
     - Percentage of Angelenos that volunteer informally (Dream Metric)
-  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
-    The former CEO has been preparing former MAPS student to become the next
-    Executive Director since 2011. This grant will provide the new Executive
-    Director an opportunity to rebrand and relaunch MAPS. The strategy is to
-    have the former CEO continue to mentor the ED to ensure the grant and
-    organization will be a success. 
   Please explain how you will evaluate your work.: "MAPS will be evaluated by the number of events and workshops hosted, number of people who attended, and number of volunteers and interns and hours completed. \r\n\r\nThe workshops and events hosted would also be evaluated through surveys by those who attended the events."
-  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Many organizations provide employment services, but they focus on helping people secure jobs. Some agencies provide emotional and social support and training, but the services only graze the surface.  Former CEO, Dr. Koo, will use her proprietary approach to address the root issues people experience to not only reduce and eliminate unwanted social and emotional barriers, but also provide a path to help them secure employment.  Previously, Dr. Koo has provided her proprietary approach to long-term, unemployed adults; results of the program are being reviewed by leaders who focus on workforce development. \r\n"
-  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "SELACO-WIB, City of Baldwin Park, Mount Saint Mary’s University (student clubs), Project SPICES, and businesses. Some partners may receive grant award, but as of now, funding will remain in-house. \r\n "
-  How do you plan to scale the success of your proposal?: "MAPS anticipates expanding its services by continually collaborating with job recruitment agencies, chambers of commerce, businesses, corporations, and colleges.  We plan to expand our training services at prospective agency sites and ensure students have the essential skills to successfully navigate the workforce. \r\n"
 areas_impacted: ''
 partners: ''
 Please specify below: ''

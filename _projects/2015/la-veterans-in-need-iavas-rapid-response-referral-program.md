@@ -19,26 +19,6 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
-  'City, State': 'New York, NY'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
-  Organization(s) name(s): Iraq and Afghanistan Veterans of America (IAVA)
-  Organization(s) mailing address(es): "114 West 41st Street, 19th floor\r\nNew York, NY 10036\r\n"
-  Organization(s) website(s): www.iava.org
-  Organization(s) twitter handle(s): ' https://twitter.com/iava'
-  Organization(s) facebook handle(s): 'https://www.facebook.com/IAVA.org'
-  Organization(s) instagram handle(s): ' https://instagram.com/iava'
-  Please share the direct link for voters to sign up for your newsletter(s): 'http://iava.org/press/  '
-  EIN (for each organization): 20-1664531
-  'Describe your organization(s): Non-profit': '1'
-  'Describe your organization(s): For-profit': '0'
-  'Describe your organization(s): Government': '0'
-  'Describe your organization(s): Other': '0'
-  'Describe your organization(s): Specifics': ''
-  'In one sentence, please describe what your organization does.': >-
-    IAVA is the nation’s leading post-9/11 veteran empowerment organization,
-    with more than 3,700 veteran members and 10,400 civilians living in LA, who
-    share our commitment to connecting, uniting and empowering veterans-and
-    supporting their health.
   'In one to three sentences, please describe your proposal.': >-
     This grant will support IAVA’s Rapid Response Referral Program (RRRP),
     providing LA’s more than 320,000 veterans and their families with support as
@@ -47,54 +27,6 @@ maker_answers:
     and where it can take over a year for a VA claim to be processed. IAVA will
     hold numerous community outreach activities to provide vets with access to
     RRRP and its holistic, integrated partner services. 
-  Please write a sample tweet to describe your submission.: >-
-    IAVA’s Rapid Response Referral Program helps veterans in the greater L.A.
-    area get help they urgently need. 
-  LA is the best place to CREATE: '0'
-  LA is the best place to CONNECT: '1'
-  LA is the best place to PLAY: '0'
-  LA is the best place to LEARN: '1'
-  Where will you be working? Central LA: '0'
-  Where will you be working? East LA: '0'
-  Where will you be working? San Gabriel Valley: '0'
-  Where will you be working? San Fernando Valley: '0'
-  Where will you be working? South LA: '0'
-  Where will you be working? Westside: '0'
-  Where will you be working? South Bay: '0'
-  Where will you be working? Antelope Valley: '0'
-  Where will you be working? County of Los Angeles: '1'
-  Where will you be working? City of Los Angeles: '0'
-  Where will you be working? LAUSD: '0'
-  Where will you be working? Other: '0'
-  Where will you be working? Specifics: ''
-  How do you plan to use these resources to make change? Conduct research: '0'
-  How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
-  How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: 'Tara Roth encouraged our Founder and CEO, Paul Rieckhoff, to apply.'
-  How do you plan to use these resources to make change? Other: '0'
-  How do you plan to use these resources to make change? Specifics: >-
-    IAVA will also continue to advocate for veterans in LA; we supported Vietnam
-    Veterans of America as they campaigned for improvements at VA West LA
-    Medical Center.
-  How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Healthcare access: '1'
-  How will your proposal improve the following “Live” metrics? Exposure to air toxins: '0'
-  How will your proposal improve the following “Live” metrics? Number of households below the self-sufficiency index: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percent of imported water: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Obesity rates: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Housing affordability: '1'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of homelessness: '1'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Walk/bike/transit score: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Acres and miles of polluted waterways: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of mental illness: '1'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Prevalence of adverse childhood experiences (Dream Metric): '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of LA communities that are resilient (Dream Metric): '1'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of residents receiving coordinated healthcare services (Dream Metric): '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of tree canopy cover (Dream Metric): '0'
-  'DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE HEALTHIEST PLACE TO LIVE: ': "Post-9/11 veterans living in LA face daunting challenges during their transition to civilian life. Many struggle to find employment, reintegrate into their community, or navigate complex bureaucracies to obtain health care. A $100,000 grant through this program will enable IAVA to meet these challenges by expanding the work of RRRP in the greater LA area. Our Veteran Transition Managers (VTMs), who have master’s degrees in social work, will help connect veterans to needed resources in Los Angeles. Our VTMs will increase VA healthcare utilization by educating clients on the services of the West LA. VA and advocating for them to get appointments, and will do the same with other vet-specific and community-based resources in greater LA, including housing and mental health resources. We will build and demonstrate resiliency through our community building work in California, creating social engagement events for veterans.\r\n\r\nThrough this program, IAVA will ensure that veterans in LA receive the services they need to enable them to become productive members of their communities. The specific outcomes that will be realized during the grant period are:\r\n\r\n•\tRRRP will serve at least 180 veterans and veteran family members from the Greater Los Angeles area. This would represent a 20 percent increase in the number of individuals served over the past year, indicating that RRRP is gaining traction and deepening its impact in southern California.\r\n•\tRRRP will provide these clients with at least 400 referrals to critical resources and support systems—addressing a variety of needs such as mental health care, financial and legal assistance, and help with finding civilian jobs.\r\n•\tTrained RRRP Ambassadors (veteran members of IAVA) will conduct 25 or more peer-to-peer outreach activities at LA colleges and universities, service partner locations, and community events to encourage veterans to access RRRP and its many benefits.\r\n•\tIAVA will host one convening of veterans’ service providers in southern California, in order to broaden the network of providers to which RRRP refers clients, and also to foster increased cooperation among nonprofits, government agencies, and other key stakeholders for the veterans community. Our ultimate goal is to strengthen the safety net for veterans throughout Greater L.A.\r\n•\tIAVA will develop formal relationships with at least six providers in Greater L.A."
   How can the LA2050 community and other stakeholders help your proposal succeed?:
     - Money (financial capital)
     - Volunteers/staff (human capital)
@@ -111,50 +43,13 @@ maker_answers:
       LA Medical Center.
   Where will you be working?:
     - County of Los Angeles
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
   How will your proposal improve the following “Live” metrics?:
     - Healthcare access
     - Housing affordability
     - Rates of homelessness
     - Rates of mental illness
     - Percentage of LA communities that are resilient (Dream Metric)
-  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
-    A primary barrier for this program is limited staff to promote the above
-    services. To address this challenge, IAVA has introduced a new program
-    through which our most dedicated members serve as “RRRP Ambassadors”. These
-    Ambassadors—mostly veterans, but also some family members and
-    civilians—volunteer to promote RRRP in their local communities on a regular
-    basis. They receive a one-day training that focuses on outreach and
-    mobilization practices, best practices in community mapping, RRRP’s service
-    model, and techniques for engaging veterans on a peer-to-peer level. Thus
-    far, IAVA has more than ten active Ambassadors in the LA area, and we are
-    currently working to schedule additional training sessions for additional
-    interested volunteers. Harnessing energy from other potential stakeholders,
-    such as the bureaucratic VA system (e.g., the troubled VA West LA Medical
-    Center), is a potential challenge, but we plan to use our VTMs and
-    Ambassadors to work with these partners. 
   Please explain how you will evaluate your work.: "IAVA monitors each client’s case through Salesforce, the database that confidentially tracks our interactions with veterans and core program outcomes. Salesforce enables IAVA to process real-time information on: the number of RRRP clients served; the number and type of referrals provided to clients; the number of benefits confirmed as received; and the length of time it takes to resolve each client’s case.\r\n\r\nIAVA also receives direct feedback from RRRP clients. Once their cases have closed, clients complete surveys in which they report their level of satisfaction with their case managers and whether RRRP helped reduce their stress levels. RRRP clients consistently rate the level of service they receive from RRRP VTMs highly. Written feedback further illuminates clients’ experiences with RRRP. “Thank you,” one wrote recently. “You may have just saved my life man.” This is just one example of the warm words of appreciation that RRRP clients have shared. \r\n"
-  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "The need for a program like RRRP is great, and other notable organizations—such as The Soldiers Project, 211, the Battle Buddy Bridge Program and the United Way—are responding to it. To date, however, none are simultaneously providing holistic and ongoing professional support, facilitating seamless access to quality resources, connecting veterans and family members to an expansive peer community, and amplifying impact through data collection and dissemination. Additionally, while this project is focused on veterans in the greater L.A. area, IAVA works nationwide, enabling us to provide continuous care to a potentially transient population.\r\n\r\nSpecific examples of what sets RRRP apart include:\r\n\r\n•\tRRRP offers more than a hotline: Veteran Transition Managers look at clients’ needs holistically and provide ongoing support for as long as it takes. All VTM’s are masters-level social workers, whose education and experience has focused on veterans. Many are veterans or veteran family members.\r\n•\tEach RRRP client has a dedicated point of contact to manage resource navigation, while also having access to IAVA’s expansive peer community. This broad support is more versatile and readily available than would be possible for any single peer counselor.\r\n•\tRRRP connects veterans with a range of resources—from local services to national programs, both governmental and nongovernmental. We listen to clients about what works and what doesn’t, and we make referrals only to best-in-class resources.\r\n•\tRRRP has a low barrier to entry, helping people with all discharge statuses and income levels, as well as family members. No one has to come to an office. Help is just a phone call or email away.\r\n•\tRRRP brings to bear IAVA’s national brand and a decade of media savvy. Thanks in part to our regular media presence our brand is both recognized and trusted; this is critical for a program that requires veterans to proactively ask for help.\r\n•\tBecause RRRP does not provide direct services, it does not compete with providers. We do possess the tools, digital capabilities, and reach to facilitate connections among providers and more seamlessly shepherd clients through the maze.\r\n•\tRRRP tracks program data in real-time, including the number and location of clients served, number and type of referrals and benefits received, average case times, and more. We survey clients about their experience with RRRP and every referral received. This data helps refine program and outreach strategies."
-  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Strong relationships with service providers and a solid understanding of their programs enable VTMs to make better quality referrals and to serve as stronger advocates on clients’ behalf when needed. These providers are also the best sources of referrals to RRRP—a client is more likely to contact RRRP at the recommendation of another service provider that he or she trusts. Top partners in the Greater L.A. area include PATH (People Assisting the Homeless), Volunteers of America, the Soldiers Project, Inner City Law, and Valiant VA Claims Services in Orange County. \r\n\r\nThanks to a grant from a private foundation, IAVA is currently piloting a program in LA through which we provide small ($2,000 to $3,000) sub-grants to a select number of referral partners. We anticipate completing an evaluation of this pilot program by June 2016, with plans to expand the program if it proves successful. We have therefore included $5,000 in the budget for this grant for sub-grants.\r\n\r\nTo advance referral relationships, IAVA is making a concerted effort to develop formal memoranda of understanding with service providers in Greater Los Angeles. IAVA recently hosted a convening in Orange County for representatives from 17 best-in-class service providers from across the employment, education, housing, and mental health sectors. These will be excellent referral partners for RRRP; we plan to host a similar event in southern California in the coming year. "
-  How do you plan to scale the success of your proposal?: >-
-    In the short time since its launch in L.A. a little more than a year ago,
-    the Rapid Response Referral Program has successfully served hundreds of
-    clients; enabled IAVA to build relationships with local service providers;
-    and paved the way for our L.A.-based community organizing work. IAVA is now
-    leveraging this presence to expand and deepen RRRP’s impact in the L.A.
-    area, and this grant would support these efforts. We are training RRRP
-    Ambassadors, hiring L.A. social work staff, and increasing our outreach and
-    community building activities.
 areas_impacted: ''
 partners: ''
 Please specify below: ''

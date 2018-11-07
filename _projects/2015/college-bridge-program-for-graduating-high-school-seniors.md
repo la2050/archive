@@ -16,69 +16,11 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
-  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  Organization(s) mailing address(es): "3913 N. Virginia Rd., #207\r\nLong Beach, CA 90807"
-  Organization(s) website(s): www.the-ripple-effect.net
-  Organization(s) twitter handle(s): www.twitter.com/1rippleeffect
-  Organization(s) facebook handle(s): www.facebook.com/TheRippleEffect1
-  Organization(s) instagram handle(s): ''
-  Please share the direct link for voters to sign up for your newsletter(s): ''
-  EIN (for each organization): 33-0748320
-  'Describe your organization(s): Non-profit': '1'
-  'Describe your organization(s): For-profit': '0'
-  'Describe your organization(s): Government': '0'
-  'Describe your organization(s): Other': '0'
-  'Describe your organization(s): Specifics': ''
-  'In one sentence, please describe what your organization does.': >-
-    The Ripple Effect is a nonprofit that assists youth in their educational and
-    career endeavors despite their cultural, social and/or economic
-    background.  
   'In one to three sentences, please describe your proposal.': >-
     The Ripple Effect will offer a summer bridge program for graduating high
     school seniors to prepare them for college.  The program will include
     academic and college readiness preparation.  Students who successfully
     complete the program will receive a stipend.  
-  Please write a sample tweet to describe your submission.: >-
-    Help #highschool students avoid #summermelt. Vote for our #LA2050 grant for
-    our #college bridge program. 
-  LA is the best place to PLAY: '1'
-  LA is the best place to CREATE: '0'
-  LA is the best place to CONNECT: '0'
-  LA is the healthiest place to LIVE: '0'
-  Where will you be working? Central LA: '0'
-  Where will you be working? East LA: '0'
-  Where will you be working? San Gabriel Valley: '0'
-  Where will you be working? San Fernando Valley: '0'
-  Where will you be working? South LA: '0'
-  Where will you be working? Westside: '0'
-  Where will you be working? South Bay: '0'
-  Where will you be working? Antelope Valley: '0'
-  Where will you be working? County of Los Angeles: '0'
-  Where will you be working? City of Los Angeles: '1'
-  Where will you be working? LAUSD: '0'
-  Where will you be working? Other: '1'
-  Where will you be working? Specifics: 'Southeast L.A. County, including Whittier, Santa Fe Springs, Pico Rivera'
-  How do you plan to use these resources to make change? Conduct research: '0'
-  How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
-  How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  'City, State': 'Long Beach, Ca'
-  Organization(s) name(s): The Ripple Effect
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
-  How do you plan to use these resources to make change? Other: '0'
-  How do you plan to use these resources to make change? Specifics: ''
-  How will your proposal improve the following “Learn” metrics? Percentage of children enrolled in early education programs: '0'
-  'How will your proposal improve the following “Learn” metrics? Percent of community college students completing a certificate, degree, or transfer-related program in six years': '0'
-  How will your proposal improve the following “Learn” metrics? Youth unemployment and underemployment: '0'
-  How will your proposal improve the following “Learn” metrics?  District-wide graduation rates: '0'
-  How will your proposal improve the following “Learn” metrics?  District-wide graduation ratesHS student proficiency in English & Language Arts and Math: '0'
-  How will your proposal improve the following “Learn” metrics?  District-wide graduation ratesAcademic Performance Index* scores: '0'
-  How will your proposal improve the following “Learn” metrics?  District-wide graduation ratesCollege matriculation rates: '0'
-  'How will your proposal improve the following “Learn” metrics?  Student education pipeline (an integrated network of pre-schools, K-12 institutions, and higher education systems that prepares students for seamless transitions between high school, higher ed': '1'
-  How will your proposal improve the following “Learn” metrics? Suspension and expulsion rates (Dream Metric): '0'
-  How will your proposal improve the following “Learn” metrics? Truancy rates in elementary and middle schools (Dream Metric): '0'
-  How will your proposal improve the following “Learn” metrics? Students perceived sense of safety at and on the way to school (Dream Metric): '0'
   Describe in greater detail how you will make LA the best place to learn.: >-
     Graduating high school seniors experience what researchers are calling "The
     Summer Melt".  Summer Melt is that period between graduating high school and
@@ -117,30 +59,11 @@ maker_answers:
   Where will you be working?:
     - City of Los Angeles
     - 'Southeast L.A. County, including Whittier, Santa Fe Springs, Pico Rivera'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
   How will your proposal improve the following “Learn” metrics?:
     - >-
       Student education pipeline (an integrated network of pre-schools, K-12
       institutions, and higher education systems that prepares students for
       seamless transitions between high school, higher ed
-  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
-    Since the target population is first generation college students, we
-    understand that the process of going to college and being prepared for
-    college can be overwhelming for students.  At times, they will want to give
-    up and not continue on with the bridge program. To overcome this barrier,
-    every student that completes the 3 week program will receive a $300
-    stipend.  The idea is to reward those students who remain dedicated, and
-    persevere in completing the program.  
   Please explain how you will evaluate your work.: >-
     We have two objectives we want to measure. (1) Can The Ripple Effect through
     the summer bridge program assist 60 young people transition into their first
@@ -156,37 +79,6 @@ maker_answers:
     either via e-mail and/or phone call.  By gathering this data, the
     organization can assess the areas of weakness and strength in our program,
     and where we can make improvements.
-  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: >-
-    Several colleges do provide some level of summer bridge programs for their
-    incoming freshman.  However, those summer bridge programs are specifically
-    for their students entering those colleges. And sometimes, those bridge
-    programs have various eligibility requirements for students to even be
-    accepted into the program.  These requirements can sometimes eliminate
-    students who would benefit greatly from a summer bridge program.  What The
-    Ripple Effect plans to do is provide summer bridge programs for graduating
-    high school seniors, regardless of where they plan to attend college.  Our
-    program would be open to any graduating high school senior who is a first
-    generation students, regardless of gender, race, academic ability and/or
-    socioeconomic status.  We also believe by incorporating some additional
-    support services for students, like the stipend, bus passes for those
-    needing reliable transportation and follow up services, we are providing a
-    value added component to our programs.  
-  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
-    The Ripple Effect will be working with three partners, the Skills Foundation
-    in Whittier, E.M.E.R.G.E in Los Angeles, and Fit to Play in Anaheim.  These
-    3 organizations will be assisting with recruiting students, providing
-    instructors for the bridge program, providing volunteers and providing
-    locations for the bridge program to be held.  Each organization will receive
-    $1,000 from the grant.  
-  How do you plan to scale the success of your proposal?: >-
-    The Ripple Effect is currently in the process of looking for other grant
-    opportunities to provide these summer bridge programs.  By continuing to
-    develop relationships with organizations, like E.M.E.R.G.E., the Skills
-    Foundation and Fit to Play, The Ripple Effect is positioning itself to be a
-    viable candidate for other grants.  Our goal is to grow the number of
-    sessions we can offer to students from 2 sessions to 4 sessions.  We would
-    want to keep each session at 30 students, as that is a manageable number of
-    students to service in one session.  
 areas_impacted: ''
 partners: ''
 Please specify below: 'Southeast L.A. County, including Whittier, Santa Fe Springs, Pico Rivera'

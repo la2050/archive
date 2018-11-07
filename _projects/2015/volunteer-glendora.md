@@ -19,21 +19,6 @@ project_image: >-
 project_areas:
   - San Gabriel Valley
 maker_answers:
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  Organization(s) name(s): City of Glendora
-  Organization(s) mailing address(es): '116 E. Foothill Blvd., Glendora, CA 91741'
-  Organization(s) website(s): www.cityofglendora.org
-  Organization(s) twitter handle(s): www.twitter.comm/cityofglendora
-  Organization(s) facebook handle(s): www.facebook.com/cityofglendora.com
-  Organization(s) instagram handle(s): ''
-  Please share the direct link for voters to sign up for your newsletter(s): 'http://www.ci.glendora.ca.us/i-want-to-/register-sign-up/for-enews'
-  EIN (for each organization): 95-6000715
-  'Describe your organization(s): Non-profit': '0'
-  'Describe your organization(s): For-profit': '0'
-  'Describe your organization(s): Government': '1'
-  'Describe your organization(s): Other': '0'
-  'Describe your organization(s): Specifics': ''
   'In one sentence, please describe what your organization does': >-
     The City of Glendora provides the citizens and business community with a
     full range of effective municipal services while maintaining our historical
@@ -46,49 +31,6 @@ maker_answers:
     projects by investing in an enclosed mobile tool trailer that would house
     various equipment needed for volunteer projects throughout the City.  It is
     the goal of the City to get the community excited about
-  Please write a sample tweet to describe your submission.: >-
-    Get your volunteer on! Help @CityofGlendora expand its volunteer program and
-    build a mobile tool shed!
-  LA is the best place to LEARN: '1'
-  LA is the best place to CREATE: '0'
-  LA is the best place to PLAY: '0'
-  LA is the healthiest place to LIVE: '1'
-  Where will you be working? Central LA: '0'
-  Where will you be working? East LA: '0'
-  Where will you be working? San Gabriel Valley: '1'
-  Where will you be working? San Fernando Valley: '0'
-  Where will you be working? South LA: '0'
-  Where will you be working? Westside: '0'
-  Where will you be working? South Bay: '0'
-  Where will you be working? Antelope Valley: '0'
-  Where will you be working? County of Los Angeles (countywide): '0'
-  Where will you be working? City of Los Angeles: '0'
-  Where will you be working? LAUSD: '0'
-  Where will you be working? Other: '1'
-  Where will you be working? Specifics: City of Glendora
-  How do you plan to use these resources to make change? Conduct research: '0'
-  How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
-  How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: email
-  'City, State': 'Glendora, CA'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
-  How do you plan to use these resources to make change? Other: '1'
-  How do you plan to use these resources to make change? Specifics: 'Encourage youth to volunteer, teach conservation and preservation.'
-  How will your proposal improve the following “Connect” metrics? Rates of volunteerism: '1'
-  How will your proposal improve the following “Connect” metrics? Voting rates by race: '0'
-  How will your proposal improve the following “Connect” metrics? Adults getting sufficient social & emotional support: '0'
-  How will your proposal improve the following “Connect” metrics? Median travel time to work: '0'
-  How will your proposal improve the following “Connect” metrics? Attendance at cultural events: '1'
-  How will your proposal improve the following “Connect” metrics? Number of public transit riders: '0'
-  How will your proposal improve the following “Connect” metrics? Participation in neighborhood councils: '1'
-  How will your proposal improve the following “Connect” metrics? Percentage of Angelenos that volunteer informally (Dream Metric): '1'
-  How will your proposal improve the following “Connect” metrics?  Government responsiveness to residents’ needs (Dream Metric): '1'
-  How will your proposal improve the following “Connect” metrics? Transit-accessible housing and employment (the share of housing units and percentage of jobs that are located near transit): '0'
-  How will your proposal improve the following “Connect” metrics? Total number of local social media friends and connections (Dream Metric): '1'
-  How will your proposal improve the following “Connect” metrics? Attendance at public/open streets gatherings (Dream Metric): '1'
-  How will your proposal improve the following “Connect” metrics? Residential segregation (Dream Metric): '1'
-  How will your proposal improve the following “Connect” metrics? Access to free wifi (Dream Metric): '0'
   Describe in greater detail how you will make LA the best place to connect.: "Glendora believes that volunteering plays a great role in creating a tight knit and socially aware community.  Volunteering is a great way to meet new people, learn a new skill, help others, and relieve physical and mental stress.  It is said that those who volunteer have a higher change of finding a job after being out of work than those who do not volunteer and that those who volunteer are more likely to participate in other civic engagements.  Volunteering also leaves a positive impression on our youth as it is said that those who volunteer in their youth are twice as likely to volunteer later in life as adults. \r\nGlendora has orchestrated many volunteering opportunities such as our Adopt-A-Park program that allows groups or individuals to clean up a park, donate a needed amenity such as a bench or drinking fountain, or even plant a tree.  We have also orchestrated a community build day through a grant from Kaboom! that brought hundreds of community members together to complete the construction of a new playground for our Gladstone Park.  \r\nIn addition to these opportunities, the City also works with the local Trails Volunteers to organize Trails Days where boy scouts, girl scouts and other community members come out to clean up the trails within our wilderness areas.  \r\nThe City's Parks Division has always done a great job in making sure that all of the tools for the job are available for each volunteering opportunity.  This often means that tools from their own day-to-day operations are provided for volunteers to use, however many times there are not enough to go around.  The City would like to be able to expand upon its current volunteer opportunities and in order to do so would like to purchase an enclosed trailer, fill it up with tools needed for volunteering and dedicate this trailer to the Volunteer Glendora! program.  The City would like to market this trailer as an easy all in one accessible option for volunteer groups, such as scout troops and other community organizations.  With this program we hope to really push our community to volunteer more, which we believe will create lasting connections between people as well as connections to nature within our wilderness areas and Glendora's rich culture.\r\n\r\nThis program will also coincide with our Healthy Glendora Program, which promotes healthy lifestyles, both mentally and physically.  We believe in the connection between nature and health is extremely important.   \r\n       \r\n \r\n"
   How can the LA2050 community and other stakeholders help your proposal succeed?:
     - Money (financial capital)
@@ -102,17 +44,6 @@ maker_answers:
   Where will you be working?:
     - San Gabriel Valley
     - City of Glendora
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '0'
   How will your proposal improve the following “Connect” metrics?:
     - Rates of volunteerism
     - Attendance at cultural events
@@ -122,15 +53,6 @@ maker_answers:
     - Total number of local social media friends and connections (Dream Metric)
     - Attendance at public/open streets gatherings (Dream Metric)
     - Residential segregation (Dream Metric)
-  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
-    One of our anticipated challenges will be to create a policy that dictates
-    how the mobile tool trailer will be used within the community.  Policies
-    such as who utilizes the mobile tool trailer, where they can use it and for
-    how long they can use it will be carefully considered to make sure that our
-    program is as effective as possible.  Another challenge is getting the word
-    out that the trailer is available for use. To overcome this obstacle we will
-    work with our social team to develop a positive eye catching campaign that
-    reaches all ages within our community. 
   Please explain how you will evaluate your work.: >-
     The City will keep track of how many groups or individuals reserve and
     utilize the mobile tool shed and what type of work they intend to complete
@@ -139,18 +61,6 @@ maker_answers:
     essentials.  We will use our social media platforms to market the program to
     our community and will keep track of how groups hear about the mobile tool
     shed to make sure that our media outlets are reaching our target audience. 
-  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "The Trails Volunteers currently have a small shed with small tools in it.  It is not portable and contains a minimal amount of equipment. This mobile tool trailer would complement their volunteer efforts and actually help them to do additional work. \r\n\r\nWe believe this program is unique in that it will provide both the tools and a visual component to encourage our volunteers to enjoy their experience.   By supplying all the tools necessary in a mobile trailer wrapped with positive images and designs we remove the difficulty of brining supplies to the day of event and create a fun atmosphere.  \r\n  "
-  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
-    At this time, the City will be the primary entity working on this project.
-    The Glendora Trail Volunteers will be working closely with the City, but
-    will not receive any direct funds.  
-  How do you plan to scale the success of your proposal?: >-
-    The initial purchase of the mobile trailer and marketing campaign will kick
-    start the program.  We will have the trailer at all our Special Events. 
-    Marketing funds will be used to prolong social outreach.  The mobile trailer
-    can be parked at strategic locations to encourage volunteerism.  This will
-    ensure that not only our community but to others outside of community who
-    may want to participate.   
 areas_impacted: ''
 partners: ''
 Please specify below: City of Glendora
