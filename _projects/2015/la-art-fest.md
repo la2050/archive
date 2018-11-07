@@ -17,23 +17,6 @@ project_video: 'https://www.youtube.com/embed/pnwgZVtiDAA'
 project_areas:
   - Central LA
 maker_answers:
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  Organization(s) name(s): LA Art Fest & Julie Rico Gallery
-  Organization(s) mailing address(es): "808 N. Spring Street #802\r\nLos Angeles, CA 90012"
-  Organization(s) website(s): www.juliericogallery.com
-  Organization(s) twitter handle(s): www.twitter.com/laartfest
-  Organization(s) facebook handle(s): www.facebook.com/laartfest
-  Organization(s) instagram handle(s): www.instagram.com/laartfest
-  Please share the direct link for voters to sign up for your newsletter(s): ''
-  EIN (for each organization): 47-2268086‏
-  'Describe your organization(s): Non-Profit': '0'
-  'Describe your organization(s): For-profit': '1'
-  'Describe your organization(s): Government': '0'
-  'Describe your organization(s): Other': '1'
-  'Describe your organization(s): Specifics': >-
-    Community art and culture activists working towards galvanizing Los Angeles
-    communities through its artists. 
   'In one sentence, please describe what your organization does': >-
     It produces, funds, and develops art events and projects for and with the
     diverse communities in Los Angeles.
@@ -43,51 +26,6 @@ maker_answers:
     reflecting the true tapestry of art communities throughout Los Angeles. The
     event will feature music, painting, sculpture, and craft-works created by
     artists in the area. 
-  Please write a sample tweet to describe your submission.: >-
-    LAARTFEST presents spectacular LA artists reflecting the cultural tapestry
-    of L.A.
-  LA is the best place to LEARN: '1'
-  LA is the best place to CONNECT: '1'
-  LA is the best place to PLAY: '1'
-  LA is the healthiest place to LIVE: '1'
-  Where will you be working? Central LA: '1'
-  Where will you be working? East LA: '0'
-  Where will you be working? San Gabriel Valley: '0'
-  Where will you be working? San Fernando Valley: '0'
-  Where will you be working? South LA: '0'
-  Where will you be working? Westside: '0'
-  Where will you be working? South Bay: '0'
-  Where will you be working? Antelope Valley: '0'
-  Where will you be working? County of Los Angeles (countywide): '0'
-  Where will you be working? City of Los Angeles (citywide): '0'
-  Where will you be working? LAUSD: '0'
-  Where will you be working? Other: '1'
-  Where will you be working? Specifics: >-
-    LA Arts District and or Chinatown (The Historic State Park and surrounding
-    buildings.)
-  How do you plan to use these resources to make change? Conduct research: '1'
-  How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
-  How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: Email
-  'City, State': 'Los Angeles CA  '
-  How do you plan to use these resources to make change? Implement and track policy: '0'
-  How do you plan to use these resources to make change? Other: '1'
-  How do you plan to use these resources to make change? Specifics: Produce second installment of LA Art Fest.
-  How will your proposal improve the following “Create” metrics? Employment in the creative industries: '1'
-  How will your proposal improve the following “Create” metrics? Arts establishments per capita: '1'
-  How will your proposal improve the following “Create” metrics? Concentration of manufacturing activity in LA: '1'
-  How will your proposal improve the following “Create” metrics? Federal research grant funding: '0'
-  How will your proposal improve the following “Create” metrics? Patents per capital: '0'
-  How will your proposal improve the following “Create” metrics? Jobs per capita: '1'
-  How will your proposal improve the following “Create” metrics? Minority- and women-owned firms: '1'
-  How will your proposal improve the following “Create” metrics? Gini coefficient: '1'
-  How will your proposal improve the following “Create” metrics? Number of high growth startups: '0'
-  How will your proposal improve the following “Create” metrics? Venture capital investment: '0'
-  How will your proposal improve the following “Create” metrics? Measures of cultural and global economic influence (“soft power”) (Dream Metric): '1'
-  How will your proposal improve the following “Create” metrics? Recruiting and retention rates for local higher education institutions (Dream Metric): '0'
-  How will your proposal improve the following “Create” metrics? Percentage of graduates from local higher education institutions that remain in LA County 5 years after graduating (Dream Metric): '0'
-  How will your proposal improve the following “Create” metrics? Unemployment rates (and opportunities) for the formerly incarcerated (Dream Metric): '0'
   Describe in greater detail how you will make LA the best place to create.: "Los Angeles is filled with hundreds of cultures that stay hidden from view.  Artists often represent the vanguard of a community's curiosity and inclusion and tolerance.   A painting, a sculpture, an installation, a song, a play, a dance, are seen by fellow artists as expressions from a fellow traveller.  An environment where artists and their friends and neighbors congregate to see the art of fellow Angelenos is a great way to learn about and celebrate the different cultures of Los Angeles.\r\n\r\n\r\nAs a mega-city, a world class city, an international media center, a gateway city, Los Angeles is in a unique position to demonstrate new and innovative approaches for cultivating connectivity in a world with more diaspora, more urbanization, more fragmentation, more clustering .  Cultivating city-wide communication and learning by and about artists and their creations, artists from LA's various communities should help to make Angelenos more curious, interested, and knowledgable about the cultures in the City of Angels, more tolerant of their neighbors and work colleagues.\r\n\r\nInteraction in a forum like LAARTFEST would foster better understanding of the \"other\" in a creative and positive, family-friendly forum.\r\n"
   How can the LA2050 community and other stakeholders help your proposal succeed?:
     - Money (financial capital)
@@ -110,21 +48,6 @@ maker_answers:
     - >-
       LA Arts District and or Chinatown (The Historic State Park and surrounding
       buildings.)
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: >-
-    The Department of Cultural Affairs could help with the infrastructure to
-    produce this event, stages, mics, sound systems and space for exhibitions. 
-    The local neighborhood councils could help with logistics for parking,
-    permits and other related matters. 
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
   How will your proposal improve the following “Create” metrics?:
     - Employment in the creative industries
     - Arts establishments per capita
@@ -135,11 +58,7 @@ maker_answers:
     - >-
       Measures of cultural and global economic influence (“soft power”) (Dream
       Metric)
-  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "Logistics will be the most difficult aspect of the LAAF. Here is a list of challenges:\r\n\r\nIndoor space for flat art exhibition. (need 25,000 sq. ft )= To be determined. We would need to find an empty building and petition the owner for use. \r\nStages (2-3 stages for performers)=AAA rentals\r\nPermits= Request to City Council\r\nPetition for street closure\r\nGet Special Daily Beer and Wine license from State of Ca. \r\n100 outdoor tents for the craft artists-Heavenly Jump Tent \r\nDelivering outdoor sculpture (Transportation)-Artists will handle delivery we will provide a budget\r\nGraphics= Hire a local graphic designer\r\nFood & Beverage=Contact Budweiser, Coke, Red Bull\r\nPorto Potties = Contact Porto San United Site Services\r\nInsurance=City of Los Angeles local city council\r\nSecurity= C.A.S.T. Security\r\nArtists=Do a call to artists using social media tools and direct emails. I have a data base of hundreds of artists that participated in the 2005 event. \r\nSound=Bass Station Sound Co. Generators\r\n"
   Please explain how you will evaluate your work.: "Evaluations:\r\n\r\nAttendance - Attendance will be measured by counting the number of attendees.  The diversity of attendees will be measured by analyzing surnames in a database format. \r\n\r\nQuality of presentations - Successful presentations will be measured by the number of presentations, the diversity of presentations, and the artistic merit of the presentations.  A catalog of presentations will be produced for review by event producers and Los Angeles cultural affairs administrators.\r\n\r\nSuccessful administration of the event will be measured by evaluating conformance with the budget, permit compliance and management of vendors and implementation of sculpture installations. "
-  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Santa Monica is producing an event called the Glow. The triennial, all-night event that re-imagines Santa Monica Beach as a playground for thoughtful and participatory, temporary art. - See more at: http://glowsantamonica.org/#sthash.3PKtpNZO.dpuf\r\n\r\nMy approach includes 3 music stages. \r\nExperimental music \r\nElectronic Music\r\nMulti-Cultural Stage that will feature various musicians and performers including representations by ethnic artists. \r\n\r\nCrafts Booths for 100 artists. This craft aspect to the event will draw in visitors and create micro-economies for local artists. \r\n\r\nAn indoor art exhibition with 100 participating artists.\r\n\r\nAn outdoor sculpture garden with giant cultures to take place at the Historic State Park. \r\n\r\nAdditionally, the LA ART FEST will be created by local artists. They will be heavily invested in producing the event. A fine art exhibition will take place in a local building adding to the authenticity of it. \r\n"
-  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Artists from the Los Angeles area would assist as volunteers for this event. However several will be hired as producers. \r\n\r\nProducers: $29,400.00 \r\nArtists: \r\nCharlie Smith Art Stipend: $2250.00\r\nDragon Knights Giant Puppets Walking Around Art Stipends: $5000.00\r\n8 Giant Outdoor Sculptures and other art budgets: $25292.00\r\nArtists total budget: $32542.00\r\nGraphic Design : $3000.00\r\n\r\nLA WEEKLY: $4000 or sponsored\r\nMETRO: Should sponsor the LA ART FEST in exchange for publicity on all of our media/pr materials - No fee\r\nHistoric State Park $16,000 or sponsored\r\nCity of L.A. Permits $2500 or sponsored\r\nParking: $3000\r\n\r\n\r\n\r\n\r\n"
-  How do you plan to scale the success of your proposal?: "The LA ART FEST would start out in 1 area of Los Angeles DTLA then expand to other surrounding communities in L.A. \r\n\r\nAn umbrella organization for the LA ART FEST would help guide a city-wide effort. Each community could offer their own version of the the LA ART FEST with an art exhibition, crafts and food aspect as well as a musical component.  As a multi-cultural art event many people would be invited to show off their own cultural manifestation. Since there are hundreds of cultures throughout the L.A. area there is no shortage of content for future LA Art Fests. Content would be presented for exhibitions, performance and crafts presentations. \r\n\r\nMulti-cultural food purveyors would be included to help share the pride of our collective community. There is such a vast array of choices with the new food trucks and other food vendors that each LA ART FEST would contain completely new content each time. "
 areas_impacted: ''
 partners: ''
 Please specify below: 'Chinatown, Historic State Park'

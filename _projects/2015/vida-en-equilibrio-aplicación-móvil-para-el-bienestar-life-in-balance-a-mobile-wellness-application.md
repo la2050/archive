@@ -19,76 +19,12 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
-  'City, State': 'Chandler, AZ'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
-  Organization(s) name(s): Polar Tech Ed and Consulting LLC/Patrick Leon
-  Organization(s) mailing address(es): '3100 W Ray Rd, Suite 201, Chandler, AZ 85226'
-  Organization(s) website(s): 'http://www.polarcomputer.net'
-  Organization(s) twitter handle(s): 'https://twitter.com/polarteched'
-  Organization(s) facebook handle(s): >-
-    https://www.facebook.com/Polar-Tech-Ed-and-Consulting-109275872436602/timeline/
-  Organization(s) instagram handle(s): ''
-  Please share the direct link for voters to sign up for your newsletter(s): 'http://polarcomputer.net/contact-us'
-  EIN (for each organization): 46-2805525
-  'Describe your organization(s): Non-profit': '0'
-  'Describe your organization(s): For-profit': '1'
-  'Describe your organization(s): Government': '0'
-  'Describe your organization(s): Other': '0'
-  'Describe your organization(s): Specifics': ''
-  'In one sentence, please describe what your organization does.': >-
-    We design and develop mobile health solutions to provide underserved
-    populations better health outcomes.
   'In one to three sentences, please describe your proposal.': >-
     To design and implement a mobile chronic disease prevention experience. 
     This app will present original, evidence-based content, and will also
     include live interaction with health educators and other participants
     throughout the duration of the experience.  The experience will be available
     in English and also in Spanish.
-  Please write a sample tweet to describe your submission.: >-
-    Vida en equilibrio/Life in Balance will help with stemming the tide of
-    obesity and Type 2 Diabetes. #mhealth
-  LA is the best place to CREATE: '0'
-  LA is the best place to CONNECT: '0'
-  LA is the best place to PLAY: '0'
-  LA is the best place to LEARN: '1'
-  Where will you be working? Central LA: '0'
-  Where will you be working? East LA: '0'
-  Where will you be working? San Gabriel Valley: '0'
-  Where will you be working? San Fernando Valley: '0'
-  Where will you be working? South LA: '0'
-  Where will you be working? Westside: '0'
-  Where will you be working? South Bay: '0'
-  Where will you be working? Antelope Valley: '0'
-  Where will you be working? County of Los Angeles: '1'
-  Where will you be working? City of Los Angeles: '0'
-  Where will you be working? LAUSD: '0'
-  Where will you be working? Other: '0'
-  Where will you be working? Specifics: ''
-  How do you plan to use these resources to make change? Conduct research: '1'
-  How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
-  How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: A friend told me about it
-  How do you plan to use these resources to make change? Other: '0'
-  How do you plan to use these resources to make change? Specifics: ''
-  How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Healthcare access: '0'
-  How will your proposal improve the following “Live” metrics? Exposure to air toxins: '0'
-  How will your proposal improve the following “Live” metrics? Number of households below the self-sufficiency index: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percent of imported water: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Obesity rates: '1'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Housing affordability: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of homelessness: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Walk/bike/transit score: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Acres and miles of polluted waterways: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of mental illness: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Prevalence of adverse childhood experiences (Dream Metric): '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of LA communities that are resilient (Dream Metric): '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of residents receiving coordinated healthcare services (Dream Metric): '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of tree canopy cover (Dream Metric): '0'
-  'DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE HEALTHIEST PLACE TO LIVE: ': "Obesity has become a major public health concern in the United States, and Type-II diabetes is on the rise. \_It’s a sad fact that nearly 1 in 10 Los Angeles County residents have diabetes, and the total direct cost of treating diabetes is more than $6 billion a year. \_Diabetes is a leading cause of heart disease, stroke, blindness, kidney disease and nerve disease. Preventing diabetes requires lifestyle modifications to change the most basic habits-how we eat and how active we are in our free time. \_Despite efforts of clinicians to educate patients with prediabetes, lifestyle interventions are intensive and community-based, rather than clinical. \_Our program is evidence-based, and will create a virtual community to overcome “obesogenic” factors that have become the norm in our communities. \_It’s time to translate the scientific evidence into a wellness movement. \_Our program will harness smartphone technology to successfully implement a large-scale intensive lifestyle intervention. \_This intervention translates a proven, community-based structured lifestyle program into an innovative, mobile format. \_We intend to recruit participants through community health clinics and screenings across the county. \_We would, however, like to target our efforts at regions of the county particularly impacted by type-II diabetes. \_This mHealth intervention is titled “Life in Balance: A Mobile Application for Wellness”; in Spanish, this translates into “Vida en Equilibrio: Una Aplicación Móvil Para el Bienestar”.\r\n\r\nThis program will inform, educate and empower participants through a convenient smartphone app.\r\n\r\nThe program is based on the CDC’s National Diabetes Prevention Program curriculum, and it will be tailored to adults living in Los Angeles. In order to maximize the potential of our mobile program, the intervention will be available in two formats: English and Spanish. \_This will enable us to reach a wider audience of adults who may benefit from the program. Los Angeles residents who complete this mobile intervention will experience a 12-month intensive lifestyle intervention. \_The main objectives are modest weight loss of 5-7% and increased physical activity. \_The app will include many features that connect participants to the world around them. \_Each participant will receive a Bluetooth scale that will link directly to the app to record weekly weight, and a smartphone pedometer will assist in recording physical activity.\r\n\r\n"
   How can the LA2050 community and other stakeholders help your proposal succeed?:
     - Money (financial capital)
     - Network/relationship support
@@ -97,47 +33,10 @@ maker_answers:
     - Implement a pilot or new project
   Where will you be working?:
     - County of Los Angeles
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '0'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '0'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
   How will your proposal improve the following “Live” metrics?:
     - Access to healthy food
     - Obesity rates
-  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: >-
-    A major challenge to implementing this lifestyle intervention is participant
-    dropout.  Oftentimes, community health interventions experience high
-    attrition rates.  This may in part be due to constraints due to family
-    obligations, lack of transportation or conflicting work schedules.  By
-    developing a mobile app that can deliver weekly content and link
-    participants to live certified Lifestyle Coaches, participants will be able
-    to experience the app at their own pace, wherever they are.  This will also
-    allow us to recruit participants from diverse areas of Los Angeles, and to
-    allow participants to begin the intervention at different times.
   Please explain how you will evaluate your work.: "The primary evaluation will be conducted with the pilot program prediabetes participants. \_They will take a survey prior to program commencement to test their knowledge of prediabetes and type 2 diabetes. \_This survey will be redone at the end of the one-year period again to see if there are any improvements in their knowledge. \r\n\r\nA lifestyle survey developed by the Minneapolis American Indian Center (Minneapolis American Indian Center, 2004) will be administered at three, six, nine and twelve month intervals to check on the participants’ progress with the mobile DPP program. \r\n\r\nIn addition to the self-reported data, A1C testing will be conducted at baseline and at the same intervals as when the surveys are administered and will be done by staff working at the DPP partners. The A1C testing will determine if the program participants are successfully able to use the mobile DPP platform to reduce their risk."
-  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: >-
-    There are currently organizations that offer chronic disease prevention
-    programs, both in-person and through an online platform.  To our knowledge,
-    our proposed approach is the first mobile app to be offered to the citizens
-    of Los Angeles, in English and Spanish, as a completely mobile
-    evidence-based lifestyle intervention.  Our approach is also unique in that
-    the content will be tailored to residents of Los Angeles; content will be
-    filmed at various sites throughout Los Angeles County, and will feature
-    guest appearances by prominent residents of Los Angeles.
-  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
-    In order to recruit potential participants, we will need to partner with
-    community health organizations.  We estimate that $1000 will go to each
-    partner that is able to assist in recruiting potential participants.  We
-    will identify partner organizations based on a survey administered by Polar
-    Tech Ed and Consulting, LLC.
-  How do you plan to scale the success of your proposal?: "After implementing the pilot program, we will make adjustments based on the program evaluation. Once this is completed, we will be offering the program to the entire US population that are diagnosed with Type 2 diabetes and expanding the scope to HIV/AID antiretroviral therapy (ART) compliance and cardiovascular disease management.  If after a one year evaluation period is completed, and it is determined that the expanded mobile services are effective, we can expand this globally to anyone and offer the program in different languages.\r\n\r\nWe can offer the program to insurance companies that are looking to add diabetes prevention efforts to their wellness program as well. "
 areas_impacted: ''
 partners: ''
 Please specify below: ''

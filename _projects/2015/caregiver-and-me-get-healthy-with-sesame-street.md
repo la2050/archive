@@ -23,29 +23,6 @@ project_areas:
   - South LA
   - City of Los Angeles
 maker_answers:
-  'City, State': 'Moorpark, CA'
-  How do you plan to use these resources to make change? Implement and track policy: '0'
-  Organization(s) name(s): >-
-    T&L Foundation for Child Care Information, Child Care Alliance of Los
-    Angeles, Magnolia Place Family Center (Children's Bureau), Los Angeles
-    County Department of Public Health
-  Organization(s) mailing address(es): "530 Los Angeles Ave, #115-341\r\nMoorpark, CA 93021"
-  Organization(s) website(s): www.tlfcci.org
-  Organization(s) twitter handle(s): www.twitter.com/TLFCCI
-  Organization(s) facebook handle(s): www.facebook.com/tandlfoundationforchildcareinformation
-  Organization(s) instagram handle(s): ''
-  Please share the direct link for voters to sign up for your newsletter(s): 'http://www.tlfcci.org/stay-informed.html'
-  EIN (for each organization): '46-4892019, 95-1690975, 45-0532426, '
-  'Describe your organization(s): Non-profit': '1'
-  'Describe your organization(s): For-profit': '0'
-  'Describe your organization(s): Government': '1'
-  'Describe your organization(s): Other': '0'
-  'Describe your organization(s): Specifics': ''
-  'In one sentence, please describe what your organization does.': >-
-    Impact children’s health and wellness by supporting child care providers
-    (essentially any caregiver who is not the child’s parent) by providing them
-    with educational, monetary, and human resources they may not typically have
-    access to or know about.
   'In one to three sentences, please describe your proposal.': >-
     The “Caregiver and Me: Get Healthy with Sesame Street” pilot project is an
     innovative learning experience addressing the childhood obesity epidemic in
@@ -54,51 +31,6 @@ maker_answers:
     collaborative effort with community and government organizations familiar
     with the critical need and challenges of engaging the family, friend and
     neighbor community caring for an estimated 97,000 children in LA.
-  Please write a sample tweet to describe your submission.: >-
-    97K kids in LA are cared for by Family, Friends or Neighbors. Join the
-    movement. #LA2050 #endchildhoodobesity 
-  LA is the best place to CREATE: '0'
-  LA is the best place to CONNECT: '1'
-  LA is the best place to PLAY: '0'
-  LA is the best place to LEARN: '1'
-  Where will you be working? Central LA: '0'
-  Where will you be working? East LA: '1'
-  Where will you be working? San Gabriel Valley: '1'
-  Where will you be working? San Fernando Valley: '1'
-  Where will you be working? South LA: '1'
-  Where will you be working? Westside: '0'
-  Where will you be working? South Bay: '0'
-  Where will you be working? Antelope Valley: '0'
-  Where will you be working? County of Los Angeles: '0'
-  Where will you be working? City of Los Angeles: '1'
-  Where will you be working? LAUSD: '0'
-  Where will you be working? Other: '0'
-  Where will you be working? Specifics: ''
-  How do you plan to use these resources to make change? Conduct research: '0'
-  How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
-  How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: twitter
-  How do you plan to use these resources to make change? Other: '0'
-  How do you plan to use these resources to make change? Specifics: ''
-  How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Healthcare access: '0'
-  How will your proposal improve the following “Live” metrics? Exposure to air toxins: '0'
-  How will your proposal improve the following “Live” metrics? Number of households below the self-sufficiency index: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percent of imported water: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Obesity rates: '1'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Housing affordability: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of homelessness: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Walk/bike/transit score: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Acres and miles of polluted waterways: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Rates of mental illness: '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Prevalence of adverse childhood experiences (Dream Metric): '1'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of LA communities that are resilient (Dream Metric): '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of residents receiving coordinated healthcare services (Dream Metric): '0'
-  HOW WILL YOUR PROPOSAL IMPROVE THE FOLLOWING “LIVE” METRICS? Percentage of tree canopy cover (Dream Metric): '0'
-  'DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE HEALTHIEST PLACE TO LIVE: ': "We will make LA the Healthiest place to live by changing the trajectory of children’s health in targeted high need areas.  Instilling healthy habits in children of LA County in 2016 is growing the healthy adults of 2050. How? By providing an educational opportunity targeting the Family, Friend and Neighbor (FFN) child caregiver that challenges the status quo. The Lucille & David Packard Foundation released a 3 dimensional report regarding FFN caregivers to encourage rethinking how we attempt to engage and educate them.  According to The Early Care and Education Landscape in LA County Report, this community is caring for 97,000 children as they develop 90% of their brain from ages 0-5.  These children are spending a great deal of time, during their most formative and vulnerable years, with individuals who are not required to (and generally do not) participate in educational trainings for any aspect of early childhood development, including health and wellness. Grandparents and other FFN caregivers are unknowingly contributing to the childhood obesity epidemic by not understanding the crucial role they play in a child’s growth and development.  There are 11 areas in LA County with childhood obesity rates at 30% or higher and these are the areas we are going to target.\r\n\r\nMessaging, branding, location, language, activities, training leaders and style of training must be tailored to this audience to impact all aspects of early education including healthy habits.\r\n\r\nThis class will be using a successful “mommy & me” model in an innovative way. Sesame Street materials create a familiar and common ground for leader, participants and children. Sharing information about physical activity, healthy cooking and purchasing healthful foods on a budget will feel like a fun outing with the children and not a “training” for the professional caregiver. Including the children in the learning event will also empower the caregiver to do these things in her home as he/she has already experienced how to do it WITH the children.\r\n\r\nAnother innovative highlight to this project is using a successful model of leadership cultivations that Magnolia Place implemented with an FFN reading club project. Trust is cited time and again as the crux of a successful project in this community therefore the leaders of our classes will be individuals from the FFN community not only establishing a trusting environment during the class but cultivating leaders within the community.\r\n"
   How can the LA2050 community and other stakeholders help your proposal succeed?:
     - Volunteers/staff (human capital)
     - Publicity/awareness (social capital)
@@ -116,22 +48,10 @@ maker_answers:
     - San Fernando Valley
     - South LA
     - City of Los Angeles
-  How can the LA2050 community and other stakeholders help your proposal succeed? Specifics: ''
-  How can the LA2050 community and other stakeholders help your proposal succeed? Other: '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Quality improvement research: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Money (financial capital): '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Volunteers/staff (human capital): '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Publicity/awareness (social capital): '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Infrastructure (building/space/vehicles, etc.)': '0'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Education/training: '1'
-  'How can the LA2050 community and other stakeholders help your proposal succeed? Technical infrastructure (computers, etc.)': '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Community outreach: '1'
-  How can the LA2050 community and other stakeholders help your proposal succeed? Network/relationship support: '1'
   How will your proposal improve the following “Live” metrics?:
     - Access to healthy food
     - Obesity rates
     - Prevalence of adverse childhood experiences (Dream Metric)
-  Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?: "Problem: Recruiting Attendees.  \r\nStrategy: Messaging, branding, location, language, activities, training leaders and style of training will be tailored to this audience’s needs and interests.  We are also partnering  with community based organizations that have established connections and networks to FFN caregivers including the Child Care Alliance of Los Angeles and Magnolia Place. May want to mention incentivizing the workshops - not sure if you need to mention the specifics of offering food, gift cards, or bus tokens. \r\n\r\nProblem: Finding and Cultivating Leaders for the Classes. \r\nStrategy: work with community based organizations such as Child Care Alliance of Los Angeles, Magnolia Place and Best Start Locations to get recommendations of who we can reach out to as well as put out a call to the community through these channels.\r\n\r\nProblem: Incentives for Attendance\r\nStrategy: We will be incentivizing with food at location, providing child care, a physical activity kit, gift cards et"
   Please explain how you will evaluate your work.: >-
     In an effort to determine the success and adjustments necessary regarding
     this pilot project, we will create an evaluation tool - two surveys - to be
@@ -147,29 +67,6 @@ maker_answers:
     another topic and if they would want to always keep it with the same leader
     and group or if signing up for a random class provided is attractive
     option.  
-  Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: >-
-    There are other organizations doing similar work.  Some focusing on child
-    care and obesity prevention such as Choose Health LA Child Care, an obesity
-    prevention program funded by First 5 LA and managed by Los Angeles
-    Department of Public Health and Taking Healthy Steps to Success – LA County
-    which is an early learning collaborative funded by Nemours.  There are
-    additional initiatives focusing on Family, Friend and Neighbor (FFN) care as
-    well as parent engagement all meant to positively impact children in LA
-    County. The Unique Factor: We are building on lessons learned from the
-    Choose Health LA Child Care Project, research done by the Packard Foundation
-    published in June 2015 and listening to those who have been in the community
-    share achievements and barriers to successful programming.  We are removing
-    known barriers upfront: children are invited, location will be convenient
-    and familiar, the materials and class will be familiar - Sesame Street - in
-    either spanish or english, incentives will be given and the class will be
-    lead by a trusted person from the community.  Throughout research and
-    conversations with stakeholders in the FFN community trust is an element
-    that continues to take precedence. Our unique caregiver & me format combined
-    with Sesame Street materials, trust from from the community and the
-    expertise of surrounding organizations set this project apart from current
-    initiatives.
-  'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Los Angeles County Department of Public Health (LAC DPH) is a collaborative partner providing technical assistance and resources as needed.  They will not receive grant funds.\r\n\r\nChild Care Alliance of Los Angeles will receive $25,000 to design the 1.5 hour class, Develop the 1.5 hour training based on the 3 Sesame Street Materials; “Mommy and Me”format, Conduct 12 trainings over the course of 1 year; Recruit FFN providers in partnership with our R&R’s (mailings, email blasts, phone calls), coordinate and host training (including food) at a local community center (Library, Parks and Rec Center, etc.), Provide child care and provide incentive materials - Physical Activity Kit\r\n\r\nMagnolia Place (Children's Bureau) will receive $15,000 to work with their existing network and additional channels of Family, Friend and Neighbor Caregivers.  Magnolia Place will arrange outreach, child care, location and enable us to work within the trusting boundaries they have established with their FFN community.\r\n"
-  How do you plan to scale the success of your proposal?: "After we measure the success and lessons learned from the pilot, we are going to write a white paper detailing our experiences.  Showing not only how the overall program was set up and administered but how the different groups of people throughout the license exempt community responded to it.  The goal is to make it easy for other agencies to easily replicate the efforts and learn from our lessons for a successful license exempt outreach plan and class format.\r\n\r\nThere are many changes coming to the child care world through the new federal and state regulations after the Child Care Development Block Grant was signed into law.  One of these big changes is required 10 health and safety trainings.  It is imperative agencies intending to train the license exempt providers receiving subsidies know how to engage this notoriously isolated group of people in a learning opportunities.\r\n\r\nChildren 0-5 are in the care of family members or friends, most likely their grandparents.  These caregivers know how they raised their children and their cultural preferences.  They are not taking into consideration the impact they are having on the child’s weight, nutrient intake and brain development. This set of caregivers need an additional support system and messaging directed just to them.  They are family members and see themselves as such, not as babysitters, caregivers, providers or teachers.  Therefore, we will also reach out to organizations such as Generations United, AARP and other Grandfamilies organizations to consider what a partnership might look like to provide the class throughout these networks.\r\n\r\nThe website with all of the information and how to replicate these efforts will be maintained so the general public will always have access to the white paper, lessons learned and ways to replicate what we accomplished.\r\n"
 areas_impacted: ''
 partners: ', 951690975, 450532426,'
 Please specify below: ''
