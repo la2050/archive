@@ -18,8 +18,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Newsletter
   Organization(s) name(s): Operations-South Bureau Community Stakeholder Collaboration
   Organization(s) mailing address(es): "Los Angeles Police Department \r\nOperations-South Bureau\r\n7600 S. Broadway \r\nLos Angeles, CA  90003"
   Organization(s) website(s): www.lapdonline.org/south_bureau
@@ -62,7 +62,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: Newsletter
   'City, State': 'Los Angeles, CA '
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
@@ -126,11 +126,6 @@ maker_answers:
     implementation of our approach, we are not afraid to experiment, take risks
     and learn from the accompanying mistakes.
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "This collaboration is made up of local city government, clergy, community stakeholders, grassroots and non-profit organizations.\r\n\r\nThe funds will be managed by one entity and there will not be a payment to collaborative partners except for reimbursement on behalf of the collaborative for pre-approved collaboration events.\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The Community Engagement Plan will be run with the $100,000 awarded and any
-    additional expenses over the allotment will be absorbed by the
-    collaboration.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Projected Budget \r\n\r\nFacilities Rental / Insurance  $10,000\r\n\r\nRefreshments\t$25,000\r\n\r\nPermits\t\t$5,000\r\n\r\nAdvertisement\t$10,000\r\n\r\nPhotocopying / Printing \t$20,000\t\t\r\n\r\nEquipment Rental (Tables/Chairs/Sound System)\t$15,000\r\n\r\nPromotional Items (T-shirts/Banners, etc)\t $15,000\r\n\r\nNote: A Budget of $5,000 per event \r\n\r\nThere are no personnel costs associated with this proposal and 100% of the funds will be used for community engagement"
   How do you plan to scale the success of your proposal?: "We will scale the success of our proposal by the defining objectives, the collection of data and the evaluation of the data collected.\r\n\r\nAnalyzing our goals and objectives will help ensure that when setting up our reports the right questions are being asked.  The mission of the program will be clearly defined and for each program we will know how to measure its success.\r\n\r\nOutcome management systems will be evaluated regularly to ensure they are meeting the needs of the organization and the funder."
 areas_impacted: ''
 partners: ''
@@ -140,8 +135,6 @@ Please list at least one major barrier/challenge you anticipate. What is your st
 Please explain how you will evaluate your work.: '#N/A'
 Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/the-community-engagement-initiative/img.youtube.com/vi/aH5tvjvjOYE/maxresdefault.jpg

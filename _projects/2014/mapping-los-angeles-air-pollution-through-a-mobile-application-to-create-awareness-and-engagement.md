@@ -22,8 +22,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '0'
-  city_state: Los Angeles
   org_website: www.ucla.edu
   org_twitter: 'https://twitter.com/UCLA'
   org_facebook: 'https://www.facebook.com/uclabruins'
@@ -80,7 +80,7 @@ maker_answers:
   org_name: UCLA
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '0'
+  city_state: Los Angeles
   metrics_live_importedwater: '0'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '0'
@@ -109,8 +109,6 @@ maker_answers:
     EcoMaps. In addition, the analysis on the TRI data is extensive and also
     involves a unique ranking methodology to encourage better environmental
     performance by facilities. 
-  cost: 'This project will cost $100,000. '
-  budget: "Funds of $24,976 requested to cover indirect costs based on 25% of overall TOTAL COSTS as per agency's allowance.\r\n\r\nFunds of $20,480 requested to support salary of a 50% GSR during 9 academic months at the current GSR 7 rate of $4,551/mo. Funds of $266 requested to cover GSR benefits during their employment based on campus' composite rate of 1.3%. \r\n\r\nFunds of $7,000 requested to cover materials/supplies costs for this project.  $2,000 is needed for a computer for the GSR, $1,000 is needed for the software program, and an additional $4,000 is needed to purchase a server.\r\n\r\nFunds of $52,182 requested to cover other miscellaneous costs associated with project.  $155 is needed to cover the campus' Technology Infrastructure Fees (TIF).  TIF is a consistently-applied direct charge that is assessed to each and every campus activity unit, regardless of funding source, including units identified as individual grant and contract awards. The TIF pays for campus communication services on the basis of a monthly accounting of actual usage data. These costs are charged as direct costs and are not recovered as indirect costs. This is calculated at the current rate of $34.46/mo/FTE.  $145 is needed to cover the campus' Insurance Liability charges.  Insurance Liability charges are currently calculated at $0.71/$100 in salary funds requested.  Insurance Liability is a self insurance program to cover the costs of its General Liability Program.  Charges are made as a percentage of each $100 of salary costs, and assessed to all extramural funding sources with the exception of support from the federal government, federal flow-through funds and contracts and grants from state or local governments.  Awards from non-profit and for-profit sponsors are being assessed for these general liability program costs.   $1,000 is needed to advertise (printing of posters/flyers) the mobile application tool to LA residents. $15,582 is needed to cover the GSR's annual fees ($5,194.03/qtr).  Finally, $30,300 is needed to pay an outside independent website designer at $100/hr for an estimated 303 hours to develop a new website and to make updates over the project period.\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

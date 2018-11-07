@@ -23,8 +23,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '1'
-  city_state: Los Angeles CA
   org_website: 'http://ambulante.com.mx/en/global/california'
   org_twitter: 'https://twitter.com/AmbulanteCA'
   org_facebook: 'https://www.facebook.com/AmbulanteCalifornia'
@@ -80,7 +80,7 @@ maker_answers:
   org_name: Ambulante USA
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
-  metrics_connect_traveltime: '0'
+  city_state: Los Angeles CA
   metrics_connect_culturalevents: '1'
   metrics_connect_publictransit: '0'
   metrics_connect_neighborhoodcouncils: '0'
@@ -126,8 +126,6 @@ maker_answers:
     resources so that the programming could sustain itself even if at a smaller
     scale.  The size of Ambulante is impressive. However the scope, even at a
     reduced version, is the most significant and unique.
-  cost: "The 2014-2015 Ambulante USA Budget is $563,467. This amount includes Personnel and Non-Personnel Cost. Ambulante USA has planned a strategic fundraising campaign that is based of securing funding from a diverse pool of funding sources.  To raise the 2014-2015 budget we are soliciting funds from private foundations, individual donors, corporate institutions and also government sources. At this time we are submitting requests to the Annenberg Foundation, we have already established relationships with the Ford Foundation, the California Community Foundation and the California Endowment. At the end of the year we will also be submitting a request to the James Irvine Foundation. Within the next two weeks we will also be submitting a proposal to the City and County of Los Angeles through the Department of Cultural Affairs and the LA County Arts Commission. For a prospective list of funding sources and amounts please see list below.\r\n\r\nThe announcement of the LA2050 winners will be announced right at the time that Ambulante USA is celebrating its first edition of Ambulante California in LA.  A grant in the amount of $100,00 from LA2050 will create great momentum and encourage our funders below to join the Ambulante movement.\r\n\r\nPROSPECTIVE FUNDING SOURCES 2014-2015\t\r\nPrivate Foundations:\t\r\nLA2050 - $100,000\r\nFord Foundation- $100,000\r\nAnnenberg Foundation- $75,000\r\nJames Irvine Foundation- $50,000\r\nCalifornia Endowment- $15,000\r\nCalifornia Community Foundation- $10,000\r\nCalifornia for the Humanities- $10,000\r\nNALAC-$10,000\r\n\r\nGovernment Grants: \t\r\nCity of LA- Department of Cultural Affairs-$50,000\r\nLA County Arts Commission\t-$15,000\r\n\r\nCorporate Sponsorship:\t\r\nUnivision, Target, Goya Foods- $75,000\r\n\r\nIndividual Contributions: \t\r\nMajor Gifts, House Parties, Events, Crowd-funding-$53,467\r\n\r\nTotal Prospective Funding Sources\t$563,467\r\n"
-  budget: "The $100,000 grant from LA2050 will be used to pay for the cost of bringing Ambulante California to Los Angeles.  As you can see in the budget below, $44,000 will be invested in paying  a percentage of  Personnel Expenses.  These line items include the salaries of the Festival Director and her Assistant, the Festival Manager, Production Coordinator, Programming and Film Submission Coordinator, the Youth Program Coordinator, Accounting team and Development Consultant and Publicist. A total of $56,000 from the LA2050 funding will also be invested in Non-Personnel in the following categories: Grassroots Outreach, Marketing, Operational Costs such as General Liability insurance, legal, administrative fees, production of promotional materials, travel and lodging as well as the production of panels and screening during the festival tour and throughout the year and training of Volunteers. \r\n\r\nORGANIZATION: AMBULANTE USA\r\nAMBULANTE CALIFORNIA 2014 - 2015\r\nLA2050 REQUEST: $100,000\t\r\n\r\n-PERSONNEL:\r\n\r\nFestival Director- $10,000 \r\nDirector Assistant-$4,000 \r\nFestival Manager- $5,000 \r\nProduction Coordinator-$4,000 \r\nProgramming and Submission Coordinator-$4,000 \r\nYouth Program Coordinator-$500 \r\nCFO-$2,000 \r\nCPA-$2,000 \r\nPublicist- $5000\t                                                                          \t \r\nDevelopment Consultant-$7,500 \r\n\r\nTOTAL PERSONNEL= $44,000 \r\n\t\r\n-NON- PERSONNEL:\r\n\r\nTravel and Lodging -$20,000 \t\r\nMarketing, Image and Promotional materials-$10,100 \r\nPanels, Screenings and Events:\t\r\nScreening and sound rentals, expendables and labor-$18,000 \r\nVolunteers and Production Costs:\t\r\nCrafties, Parking and Gas- $900 \r\nProduction Rentals and Purchases-$1,000 \r\nOperations Costs:\t\r\nAdministrative Office Expense US-$3,000 \r\nBank Fees-$1,000 \r\nGeneral Liability-2,000 \r\n\r\nTOTAL NON-PERSONNEL-$56,000 \r\n\r\nTOTAL COST=$100,000\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

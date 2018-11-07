@@ -9,6 +9,16 @@ title: Sister Blocks
 project_summary: "How about creating Sister Blocks, where the richer parts of town partner with the poorer parts? It would be hands-on, where real people would get to shake hands and listen to each other’s stories. If this were a happening thing, it would give affluent people a simple way to be volunteers, where it wouldn’t be a big decision for each individual about which organization to give themselves to, but the group nature of it and the widespread practice would make it a natural for many people to participate. One of the unofficial ways I “give” is to the people who work for me, who clean my house and do my gardening. I am generous to them beyond the fees they charge for their services.  When you know people personally, if you are of a generous nature it is very satisfying  to help them. This would be the same thing, writ large and systematized. So, let a block from Beverly Hills get to know a block from South Central, with the idea of seeing how they can help.\r\n\r\nFacilitation would be needed at the start. And meeting places, like schools or banks or community rooms. But it is so simple and so doable and could be so far reaching, even creating a model program for the rest of the world.\r\n"
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 maker_answers:
+  description1: >-
+    Flying under the radar, I have been a sort of underground for progressive
+    thought, where some of the people at the edge have inspired others of us at
+    many salon type events I've held. My blog, called "Making Sense of These
+    Times," reaches thousands. My mission is to influence thought to where we
+    rethink our worldview, and without having names, like projects might, I have
+    fostered a community of thought whose interactions have led to things of
+    note. I'm stepping out more publicly now producing a TEDx event
+    (www.TEDxWestHollywood.com), where the intention is to deliver a body of
+    talks that could activate people who want to change the world.
   success: >-
     Success would be evident by the obvious buzz of strangers becoming people
     who care about one another. I just want to say how awed and thrilled I would
@@ -18,10 +28,8 @@ maker_answers:
     but could not find the partnering. If this happened I would feel like I made
     my life's contribution to ushering in the new paradigm of connectedness that
     we so need.
-  Organization Name: Mighty Companions
   Indicator: ' Social Connectedness'
   brief: "How about creating Sister Blocks, where the richer parts of town partner with the poorer parts? It would be hands-on, where real people would get to shake hands and listen to each other’s stories. If this were a happening thing, it would give affluent people a simple way to be volunteers, where it wouldn’t be a big decision for each individual about which organization to give themselves to, but the group nature of it and the widespread practice would make it a natural for many people to participate. One of the unofficial ways I “give” is to the people who work for me, who clean my house and do my gardening. I am generous to them beyond the fees they charge for their services.  When you know people personally, if you are of a generous nature it is very satisfying  to help them. This would be the same thing, writ large and systematized. So, let a block from Beverly Hills get to know a block from South Central, with the idea of seeing how they can help.\r\n\r\nFacilitation would be needed at the start. And meeting places, like schools or banks or community rooms. But it is so simple and so doable and could be so far reaching, even creating a model program for the rest of the world.\r\n"
-  budget explanation: "Money for promotion, including social networking service, could be $500 a week.\r\n\r\nExecution costs: one facilitator per marriage of sister blocks -- perhaps $100 an evening per sister block pair during regular (maybe once a month) get-togethers. Space would be donated. An administrator needed to coordinate the logistics and keep the system flowing and flourishing: perhaps $1,000 a week."
   description: >-
     It would, in simple hands-on fashion, create a connectivity in Los Angeles
     that would be felt everywhere and cost next to nothing.
@@ -34,16 +42,7 @@ maker_answers:
     have many alliances. Should this project be accepted, there are many
     collaborators that could be enrolled. 
   website: 'http://www.TheConversation.org'
-  description1: >-
-    Flying under the radar, I have been a sort of underground for progressive
-    thought, where some of the people at the edge have inspired others of us at
-    many salon type events I've held. My blog, called "Making Sense of These
-    Times," reaches thousands. My mission is to influence thought to where we
-    rethink our worldview, and without having names, like projects might, I have
-    fostered a community of thought whose interactions have led to things of
-    note. I'm stepping out more publicly now producing a TEDx event
-    (www.TEDxWestHollywood.com), where the intention is to deliver a body of
-    talks that could activate people who want to change the world.
+  Organization Name: Mighty Companions
   description3: There is no competition.
   vision: >-
     An air of cooperation would prevail. Fear would have subsided, with needier
@@ -123,15 +122,5 @@ cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/sister-blocks/maker.good.is/images/placeholder/idea.png
 maker_image_id: '16057'
 maker_image_file_name: mcmenyellowandwhite_final.jpg
-project_summary_backup: >-
-  Flying under the radar, I have been a sort of underground for progressive
-  thought, where some of the people at the edge have inspired others of us at
-  many salon type events I've held. My blog, called "Making Sense of These
-  Times," reaches thousands. My mission is to influence thought to where we
-  rethink our worldview, and without having names, like projects might, I have
-  fostered a community of thought whose interactions have led to things of note.
-  I'm stepping out more publicly now producing a TEDx event
-  (www.TEDxWestHollywood.com), where the intention is to deliver a body of talks
-  that could activate people who want to change the world.
 
 ---

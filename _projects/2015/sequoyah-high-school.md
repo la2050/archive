@@ -21,8 +21,8 @@ project_areas:
   - San Gabriel Valley
   - San Fernando Valley
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Pasadena,CA '
   Organization(s) mailing address(es): "535 S Pasadena Avenue \r\nPasadena, CA 91105 "
   Organization(s) website(s): www.sequoyahschool.org
   Organization(s) twitter handle(s): www.twitter.com/SequoyahSchool
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Pasadena,CA '
   Organization(s) name(s): 'Sequoyah School '
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -149,10 +149,6 @@ maker_answers:
     Action Institute;Neela Rajendra, Claremont McKenna Kravis Leadership
     Institute;Cynthia Willard, Echoing Green. These partners will not receive
     any portion of the grant.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The establishment of the high school will require seed funding of $850,000
-    by fall 2016.  Total commitments of $720,000 have been raised to date. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Please see the budget linked here.\r\n\r\nhttps://drive.google.com/a/sequoyahschool.org/file/d/0B1gSTVkVXmH4WXFZSXlfZ3c5WjV6WGloaWR4RGhfeFNhTGZv/view?usp=sharing"
   How do you plan to scale the success of your proposal?: >-
     Although Sequoyah is a relatively small independent school, the school's
     leadership intends to amplify the school's influence through partnerships
@@ -213,13 +209,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Action Institute;Neela Rajendra, Claremont McKenna Kravis Leadership
   Institute;Cynthia Willard, Echoing Green. These partners will not receive any
   portion of the grant.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The establishment of the high school will require seed funding of $850,000 by
-  fall 2016. Total commitments of $720,000 have been raised to date.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Please see the budget linked here.
-   
-   https://drive.google.com/a/sequoyahschool.org/file/d/0B1gSTVkVXmH4WXFZSXlfZ3c5WjV6WGloaWR4RGhfeFNhTGZv/view?usp=sharing
 How do you plan to scale the success of your proposal?: >-
   Although Sequoyah is a relatively small independent school, the school's
   leadership intends to amplify the school's influence through partnerships with

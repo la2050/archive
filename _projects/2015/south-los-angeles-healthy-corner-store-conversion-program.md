@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - South LA
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: Newsletter
   Organization(s) name(s): Children's Bureau of Southern California
   Organization(s) mailing address(es): "1910 Magnolia Avenue\r\nLos Angeles, CA 90007"
   Organization(s) website(s): www.all4kids.org
@@ -76,7 +76,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Newsletter
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -182,11 +182,6 @@ maker_answers:
     stores with COMPRA Foods, as an avenue for the corner stores to purchase
     healthy foods. COMPRA Foods charges a one-time membership fee to join and
     $1,400 of the $100,000 grant will be used to cover this cost.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The outlined South LA Healthy Corner Store Conversion Program is estimated
-    to cost $100,000. Children’s Bureau does not anticipate needing additional
-    money to fund the program.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "A. Full time Program Coordinator working 30% of their time on the program: $15,530.\r\n\r\nB. Benefits for full time Program Coordinator, including health, dental, vision, life and disability, state unemployment, workers compensation, and 401k: $4,193.\r\nThe total benefits rate is calculated at 27% for full time employees. \r\n\r\nC. Contract Worker with a Masters in Public Policy working 100% of their time on the program: $62,400.\r\n\r\nD. Promotional materials, such as signs and nutrition labels, for each corner store: $5,000.\r\n\r\nE. Program and office supplies to complete food demonstrations and daily work assignments: $4,500.\r\n\r\nF. Client related incentives for corner stores to purchase and display healthy foods, including membership fee to join COMPRA Foods and conversion equipment, such as a shelving unit or refrigerator: $6,500."
   How do you plan to scale the success of your proposal?: >-
     Children’s Bureau (CB) plans to expand our reach after successfully
     implementing the program in the 14neighborhoods within Los Angeles City of
@@ -266,24 +261,6 @@ Are there other organizations doing similar work (whether complementary or compe
   COMPRA Foods, as an avenue for the corner stores to purchase healthy foods.
   COMPRA Foods charges a one-time membership fee to join and $1,400 of the
   $100,000 grant will be used to cover this cost.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The outlined South LA Healthy Corner Store Conversion Program is estimated to
-  cost $100,000. Children’s Bureau does not anticipate needing additional money
-  to fund the program.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  A. Full time Program Coordinator working 30% of their time on the program:
-  $15,530.
-   
-   B. Benefits for full time Program Coordinator, including health, dental, vision, life and disability, state unemployment, workers compensation, and 401k: $4,193.
-   The total benefits rate is calculated at 27% for full time employees. 
-   
-   C. Contract Worker with a Masters in Public Policy working 100% of their time on the program: $62,400.
-   
-   D. Promotional materials, such as signs and nutrition labels, for each corner store: $5,000.
-   
-   E. Program and office supplies to complete food demonstrations and daily work assignments: $4,500.
-   
-   F. Client related incentives for corner stores to purchase and display healthy foods, including membership fee to join COMPRA Foods and conversion equipment, such as a shelving unit or refrigerator: $6,500.
 How do you plan to scale the success of your proposal?: >-
   Children’s Bureau (CB) plans to expand our reach after successfully
   implementing the program in the 14neighborhoods within Los Angeles City of

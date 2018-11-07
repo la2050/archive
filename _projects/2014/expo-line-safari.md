@@ -17,8 +17,8 @@ project_areas:
   - SOUTH LA
   - WESTSIDE
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '0'
-  city_state: 'Los Angeles, CA'
   org_website: 'http://landarch.uclaextension.edu/'
   org_twitter: 'http://www.twitter.com/LandArch_UCLAx'
   org_facebook: 'https://www.facebook.com/pages/UCLA-Extension-Landscape-Architecture-Program'
@@ -72,7 +72,7 @@ maker_answers:
   org_name: UCLA Extension Landscape Architecture Program
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
-  metrics_connect_traveltime: '0'
+  city_state: 'Los Angeles, CA'
   metrics_connect_culturalevents: '1'
   metrics_connect_publictransit: '1'
   metrics_connect_neighborhoodcouncils: '0'
@@ -104,8 +104,6 @@ maker_answers:
     their successful work!  UCLA Extension Landscape Architecture Program is
     working with the Safari 7 model to integrate the urban ecologies of Los
     Angeles into the Metro experience.
-  cost: 'We believe this will cost  between $75,000 and $85,000.'
-  budget: "EXPO -- Safari LA Metro Budget\t\t\t\t\r\n\t\t\t\t\t\t\t\r\nProposed Class Budget and Funding\t\t\t\t\r\n\t\t\t\t\t\t\tTotal \r\n2 Instructors (one quarter)\t\t\t2\t$8,000 \t$16,000 \r\n1 Guest lecturer (Janette Kim, travel and fee)\t1\t$5,000 \t$5,000 \r\n4 Outreach sessions (2 community meetings, 2 LAUSD)\t4\t$4,000 \t$16,000 \r\n1 Graphic Artist (proposed: Ed Lum)\t\t\t\t1\t$5,0 00 \t$5,000 \r\nDigital App \t\t\t\t\t\t$10,000 \t$10,000 \r\nMaterials \t\t\t\t\t\t$10,000 \t$10,000 \r\n\t\t\t\t\t\t\t$62,000 \r\nAdministrative Services\t\t\t\t\t\t$18,600 \r\n\tTotal\t\t\t\t\t\t$80,600 \r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

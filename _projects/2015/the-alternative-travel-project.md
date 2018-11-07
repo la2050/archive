@@ -12,8 +12,8 @@ project_video: 'https://www.youtube.com/embed/_D5ZYrmwF6Y'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, California'
   How do you plan to use these resources to make change? Implement and track policy: '1'
-  How did you hear about this challenge?: colleagues
   Organization(s) name(s): the Alternative Travel Project
   Organization(s) mailing address(es): "11601 Wilshire Blvd\r\nSuite 2150\r\nLos Angeles, CA 90025"
   Organization(s) website(s): www.alternativetravelproject.com
@@ -57,7 +57,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, California'
+  How did you hear about this challenge?: colleagues
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -128,8 +128,6 @@ maker_answers:
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
     There will be no partners on the proposed projects. All elements of the
     project will be produced in-house.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "In the next year at ATP, we believe our running costs will add up to about $200,000. We raised nearly $100,000 this year (our organization's first fundraiser) through an online auction & believe that a combination of donations, corporate partnerships, and merchandise sales will fulfill any additional costs in the upcoming year.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$50,000- towards developing the ATP App                      TOT: $50,000\r\n\r\n$10,000 x 4- towards 4 ATP produced videos.                 TOT: $40,000\r\nA. The first one would be a video we would aim to distribute to driver-ed schools. It would emphasize the safety concerns drivers need to be aware of when sharing the road with ATP-ers. \r\nB. The second would be aimed at children commuting to school. This would give children key pointers on how to stay safe when walking, cycling or taking the public transit to school.\r\nC. The third video is focused on Health and ATP lifestyle.\r\nD. And finally the fourth video would be focused on New Tech & the incredible advancements offered for an ATP friendly lifestyle.\r\n\r\n$10,000- towards a Forum                                         TOT: $10,000\r\nbringing developers, engineering students & community leaders to brainstorm together & dialogue about the benefits of bringing ATP infrastructure into new development.\r\n\r\nFINAL TOTAL: $100,000"
   How do you plan to scale the success of your proposal?: >-
     Truthfully, the success of our proposal comes down to locking in a grant.
     Falling short of that, our second tier (but no less meaningful) successes
@@ -185,25 +183,6 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
   There will be no partners on the proposed projects. All elements of the
   project will be produced in-house.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  In the next year at ATP, we believe our running costs will add up to about
-  $200,000. We raised nearly $100,000 this year (our organization's first
-  fundraiser) through an online auction & believe that a combination of
-  donations, corporate partnerships, and merchandise sales will fulfill any
-  additional costs in the upcoming year.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  $50,000- towards developing the ATP App TOT: $50,000
-   
-   $10,000 x 4- towards 4 ATP produced videos. TOT: $40,000
-   A. The first one would be a video we would aim to distribute to driver-ed schools. It would emphasize the safety concerns drivers need to be aware of when sharing the road with ATP-ers. 
-   B. The second would be aimed at children commuting to school. This would give children key pointers on how to stay safe when walking, cycling or taking the public transit to school.
-   C. The third video is focused on Health and ATP lifestyle.
-   D. And finally the fourth video would be focused on New Tech & the incredible advancements offered for an ATP friendly lifestyle.
-   
-   $10,000- towards a Forum TOT: $10,000
-   bringing developers, engineering students & community leaders to brainstorm together & dialogue about the benefits of bringing ATP infrastructure into new development.
-   
-   FINAL TOTAL: $100,000
 How do you plan to scale the success of your proposal?: >-
   Truthfully, the success of our proposal comes down to locking in a grant.
   Falling short of that, our second tier (but no less meaningful) successes

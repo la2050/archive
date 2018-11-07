@@ -21,8 +21,8 @@ project_image: >-
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: colleague
   Organization(s) name(s): Los Angeles Trade-Technical College
   Organization(s) mailing address(es): "400 W. Washington Blvd.\r\nLos Angeles, CA  90015"
   Organization(s) website(s): 'http://slatez.org/'
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: colleague
   'City, State': 'Los Angeles, CA  '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -192,12 +192,6 @@ maker_answers:
     There are three agencies that lead the efforts - LATTC, CRCD and LA's
     Promise.  Each of these agencies will receive funds to implement the aspect
     of the project each will lead on behalf of SLATE-Z.  
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The project described within this application is likely within the proposed
-    budget.  SLATE-Z actively engages in grant-seeking to fund the
-    infrastructure and projects identified by its partners that are aligned with
-    the SLATE-Z goals and subgoals.  
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Free/reduced-fee transit passes for SLATE-Z high school students co-enrolled in higher education:  $40,000\r\nEducational technology innovations including adaptive learning solutions, online textbooks and other learning technology: $40,000\r\nCoordination of project:  $20,000 (subcontracts) (Senior Project Manager @ LA’s Promise, Assistant Project Manager @ CRCD)\r\n"
   How do you plan to scale the success of your proposal?: >-
     As stated above, SLATE-Z is developed as a collective impact strategy that
     will be sustained in the region through the strength of the partner agencies
@@ -285,16 +279,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Economic Development Corp. There are three agencies that lead the efforts -
   LATTC, CRCD and LA's Promise. Each of these agencies will receive funds to
   implement the aspect of the project each will lead on behalf of SLATE-Z.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The project described within this application is likely within the proposed
-  budget. SLATE-Z actively engages in grant-seeking to fund the infrastructure
-  and projects identified by its partners that are aligned with the SLATE-Z
-  goals and subgoals.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Free/reduced-fee transit passes for SLATE-Z high school students co-enrolled
-  in higher education: $40,000
-   Educational technology innovations including adaptive learning solutions, online textbooks and other learning technology: $40,000
-   Coordination of project: $20,000 (subcontracts) (Senior Project Manager @ LA’s Promise, Assistant Project Manager @ CRCD)
 How do you plan to scale the success of your proposal?: >-
   As stated above, SLATE-Z is developed as a collective impact strategy that
   will be sustained in the region through the strength of the partner agencies

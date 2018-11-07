@@ -17,8 +17,8 @@ project_areas:
   - County of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Internet
   Organization(s) name(s): Melrose World Cinema Centers
   Organization(s) mailing address(es): '717 N. Highland Av., Studio # 20, Los Angeles, CA 90038'
   Organization(s) website(s): www.mcenters.org
@@ -63,7 +63,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Internet
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -117,8 +117,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "The total number of youth to be served is 8x20= 160. The following outcomes will be documented: \r\n\r\n1. Academic/Vocational:\r\nStudents are inspired to continue their education, learn about various job opportunities in the film industry and understand the requirements for entering film school. Pre/post-tests will be given to document increase knowledge of: filmmaking, job opportunities in the industry, education/vocation programs to prepare for careers in film industry, requirements for entering and completing the education/vocation programs\r\n\r\n2. Raise awareness on Community life:\r\n•Moving images created will travel and reach out to thousands of other young student as well as adults in the community.\r\n•Heighten community awareness on living in their cities.\r\n•Youth are empowered to change the statistics by becoming community activists.\r\n• 40 PSA’s will be screened publicly with invited local officials, university partners, school teachers, administrators, parents and communitY."
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are many organizations that work with High School student in complementing education. \r\nThere are many organizations that teach the basic of filmmaking.\r\n\r\nYet, there are not so many organizations that use the skills of filmmaking to strengthen student interpersonal skills and community responsibility, this is our unique approach\r\n\r\nWe have now produced workshops on Voting matters (with Hollywood High), Water conservation (with John Marshall High), Teen life with Museums and more....see on vimeo.\r\n\r\nhttps://vimeo.com/oneworldworkshops\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "During the course of one we will work with:\r\n•\tHigh Schools\r\n•\tLocal Neighborhood Council\r\n•\tCities\r\n•\tStudent filmmakers\r\n•\tLocal film equipments\r\n\r\nEach workshop budget to cover 20 High School Student is $15,000 (see detailed budget) budget covers, \r\nCosts cover: venue, equipment, young mentor filmmakers, food, permits, editing, production costs\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Each workshop budget to cover 20 High School Student is $18,000 (see detailed budget) budget covers, \r\n8 workshops will cost 15,000x 8 = 120,000\r\n\r\nWe always manage to find local inkind and other donors among the industry to cover the extra needed fund to complete production.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "8 WORKSHOPS BUDGET BREAKDOWN:\r\n\r\nADMIN AND PRODUCTION STAFF: $3,000x8=$24,000\r\nGROUP LEADER,TECH AND EDITING: $3,500X8=$28,000\r\nSTUDENT MATERIAL, HAND BOOKS, DVD’S: $2,200X8=17,600\r\nTRANSPORTATION, GAS, PARKING; $1,400X8=$11,200\r\nEQUIPMENT RENTAL: $2,500X8=$20,000\r\nBASE CAMP/SPACE RENTAL: $1,000X8= $8,000\r\nFOOD AND CRAFT: $800X8=$6,400\r\n\r\nWEBSITE BUILDER AND SOCIAL MEDIA: $8,000\r\n\r\nTOTAL= $123,200 (LA2050/100,000 – MWCC & OTHERS/23,200\r\n\r\n\r\nMWCC operating budget is define by the ability of our organization to fulfill its mission. We operate like an Executive Producer, from consulting to preparation, from production to editing and from education to professional work. Providing support from admin, legal, production budget, creative development, casting, pre-production, principal photography, Editing, Distribution and Communication MWCC will function as a “program developer”. "
   How do you plan to scale the success of your proposal?: "IMPACT MEASURE OF THE WORKSHOP\r\n\r\nThis innovative program is designed to empower youth to express and communicate the relevance of their lives and community while teaching them the skills using visual media/arts and increase their employability by providing job skills training.\r\n\r\nThe evaluation process of the One World Workshops includes pre- and post- written surveys, each participating student is interviewed individually on camera about their entire experience and behind the scenes footage will capture the essence of the program and the candid reactions of the students.  All of these elements are used to evaluate the overall experience for the students.\r\n\r\nA total of 8 workshops in the course of one year, each workshops will involved 20/25 students, a total of 160 high school student throughout Los Angels County\t\t\r\n\r\nThe top three outcomes student will have, are on a personal level:\r\n•Strengthened interpersonal skills, ability to work in a team, enhanced creative sense.\r\n•Participants will learn to materialize their views by producing a short PSA gaining confidence in their expression. \r\n•Pre post tests will be given to document increase in: Team working skills, Communication skills, Confidence in creative expression.\r\n\t\r\n\r\nThe other measure is the on-going website and social media outcomes of the workshops, measure in total reach, screenings, community meetings and kids presentation.\r\n"
 areas_impacted: ''
 partners: ''
@@ -182,29 +180,6 @@ Are there other organizations doing similar work (whether complementary or compe
    
    Each workshop budget to cover 20 High School Student is $15,000 (see detailed budget) budget covers, 
    Costs cover: venue, equipment, young mentor filmmakers, food, permits, editing, production costs
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Each workshop budget to cover 20 High School Student is $18,000 (see detailed
-  budget) budget covers, 
-   8 workshops will cost 15,000x 8 = 120,000
-   
-   We always manage to find local inkind and other donors among the industry to cover the extra needed fund to complete production.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  8 WORKSHOPS BUDGET BREAKDOWN:
-   
-   ADMIN AND PRODUCTION STAFF: $3,000x8=$24,000
-   GROUP LEADER,TECH AND EDITING: $3,500X8=$28,000
-   STUDENT MATERIAL, HAND BOOKS, DVD’S: $2,200X8=17,600
-   TRANSPORTATION, GAS, PARKING; $1,400X8=$11,200
-   EQUIPMENT RENTAL: $2,500X8=$20,000
-   BASE CAMP/SPACE RENTAL: $1,000X8= $8,000
-   FOOD AND CRAFT: $800X8=$6,400
-   
-   WEBSITE BUILDER AND SOCIAL MEDIA: $8,000
-   
-   TOTAL= $123,200 (LA2050/100,000 – MWCC & OTHERS/23,200
-   
-   
-   MWCC operating budget is define by the ability of our organization to fulfill its mission. We operate like an Executive Producer, from consulting to preparation, from production to editing and from education to professional work. Providing support from admin, legal, production budget, creative development, casting, pre-production, principal photography, Editing, Distribution and Communication MWCC will function as a “program developer”.
 How do you plan to scale the success of your proposal?: |-
   IMPACT MEASURE OF THE WORKSHOP
    

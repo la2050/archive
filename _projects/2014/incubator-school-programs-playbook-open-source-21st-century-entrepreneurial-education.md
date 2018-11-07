@@ -22,8 +22,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_learn_communitycollege: '0'
   collaboration: "We partner with many organizations to grow our programs (New Learning Institute of the Pearson Foundation, LA Audubon, CoderDojo, GameDesk, Playmaker, Joan Ganz Cooney Center @ Sesame Workshop, Institute of Play, Everyone On, Pearson PLC), but for this grant we will be partnering with the Los Angeles chapter of the Network For Teaching Entrepreneurship to build our capacity to teach entrepreneurship and create a playbook for launching startups during middle and high school. \r\n\r\nNFTE's mission is to provide programs that inspire young people from low-income communities to stay in school, to recognize business opportunities, and to plan for successful futures. To do so NFTE runs during- and after-school programs, as well as NFTE University, a mini-MBA program for teachers to train them in entrepreneurial thinking and practices. NFTE's programs have reached over 7,800 students in Los Angeles since 2007, and over 500,000 nationally. \r\n\r\nThe Incubator School believes that schools of LA2050 must be entrepreneurial. They need to understand the expertise they bring to the table, and work with others to grow that expertise as well as share it. Exchanges and partnerships need to be mutual. \r\n\r\nWe deeply value the expertise NFTE's mini-MBA program will bring to our instructional staff and plan to have NFTE train them. \r\n\r\nHowever, we also plan to help grow NFTE's programs. Their middle school curriculum leads students to creating a business concept while their high school curriculum has students creating a business plan. \r\n\r\nOur goal is for students actually to launch startups: in 8th grade in the school, and in 12th grade in the real world in Silicon Beach. \r\n\r\nOur collaboration will thus enable both organizations to expand our capacities.  \r\n\r\nThree critical factors are:\r\n\r\n1) mutual growth\r\n2) the ability of both organizations to dedicate staff time to the collaboration\r\n3) the ability of both organizations to extend the reach of the curricula the collaboration develops\r\n\r\nWe have not worked together in the past, but we greatly look forward to working together in the future. "
-  metrics_learn_earlyeducation: '0'
   org_website: www.incubatorschool.org
   org_twitter: '@sujatabhatt'
   org_facebook: www.facebook.com/incubatorschool
@@ -74,7 +74,7 @@ maker_answers:
   who_benefit: "We are a diverse, integrated LAUSD public school that anyone can attend: last year 39% of our students were low income, 47% were Latino, 32% White, 16% African American, 5% Asian; 19% Special Education, 15% Gifted and Talented. Our project will most immediately benefit them. This year we are expanding from 62 6th-7th graders to about 140 6th-8th graders. Each year we will add one additional grade. \r\n\r\nHowever, our reach extends beyond our school. We host visiting teachers, administrators, foundations, non-profits, etc, every week. The US Department of Education and the State Department have visited us, as have delegations and journalists from Thailand, Korea, Japan, and China. Since we were featured on BBC News on July 4th, we've received requests for information and curriculum from England, Ireland, Hungary, Chile, India, Italy, Romania, and throughout the United States. Our free online playbook would allow what we're doing to spread all through the world. \r\n\r\nOur goal, however, is to change education in Los Angeles. We want our students to become change agents even more than they are already. We want them to change what Los Angeles expects from its students, and we want the Incubator School to change what Los Angeles expects from its schools. "
   about_you: 'Los Angeles, CA'
   org_name: Incubator School
-  metrics_learn_communitycollege: '0'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '1'
   metrics_learn_graduationrates: '0'
   metrics_learn_proficiency: '0'
@@ -116,20 +116,6 @@ maker_answers:
     Workshop School in Philadelphia creates real world impactful projects with a
     philosophy similar to ours; again, we are in contact with the founders, and
     they are part of our learning network.  
-  cost: >-
-    We are proud to be one of 16 schools nationally to have received a Next
-    Generation Learning Challenges Breakthrough Schools Launch Grant in May,
-    2014. That grant provides $300,000 in dollar-for-dollar matching funds for
-    any additional monies we raise. Should we be fortunate enough to receive an
-    LA2050 Challenge Grant, the impact of the money would be immediately
-    doubled. This would enable us to build out our science/arts programs. We are
-    trying to redesign those two subjects as interdisciplinary investigations of
-    materials, forces, and processes. We would like to create a series of design
-    challenges (artistic- and engineering-based) in collaboration with faculty
-    from Otis College of Art, Art Center, and others. Such grants are essential
-    for our programs in these early years when our enrollment affords us a total
-    of $2400 in instructional material funds from LAUSD. 
-  budget: "3 teachers attending NFTE University @ $2500 each....................$7,500\r\nBuying 1 additional teacher from LAUSD* ................... .................$93,700\r\nTOTAL.....................................................................................................$101,200\r\n\r\n*This is what LAUSD charges a school in order to hire an additional teacher (regardless of the teacher's actual salary)."
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '0'

@@ -21,8 +21,8 @@ project_video: 'https://www.youtube.com/embed/qyZQR5_KCEM'
 project_areas:
   - East LA
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Tara Roth
   Organization(s) name(s): civ.LA
   Organization(s) mailing address(es): "4750 York Blvd.\r\nLos Angeles, CA 90042"
   Organization(s) website(s): www.civ.la
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: Tara Roth
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -148,12 +148,6 @@ maker_answers:
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
     Our partners and collaborators are the stakeholders investing in it. None of
     them will receive any of the grant award.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    This is a self sustaining venture after the startup costs. We expect
-    additional startup up costs less than $650,000, based on a survey of similar
-    projects. Our stakeholders will cover these additional costs with in-kind
-    and cash investment.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "up to $10,000 - Incorporation\r\nup to $40,000 - Restaurant design and technology\r\nup to $40,000 - Kitchen and Service staff training\r\nup to $10,000 - Administrative support"
   How do you plan to scale the success of your proposal?: >-
     The impact of AbundantFeast scales by replication, adaptation, and evidence.
     Other neighborhood coalitions can replicate the model we are pioneering. The
@@ -213,23 +207,6 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': |-
   - East Yards Communities for Environmental Justice: $27,000
    - other community partners and Place It! (James Rojas) $19,000
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '100000'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  project manager/ principal investigator- $15,217
-   grants manager- $2550
-   faculty research stipends- $3000
-   student interns $2000
-   benefits- $6424
-   subcontract, EYCEJ- $27,000
-   printing - $1500
-   materials - $1500
-   translation - $2500
-   exhibition space rental - $1300
-   community workshops (facilitation and stipends to community organizations)- $19,000
-   subcontract event planning (exhibition) - $3000
-   subcontract web design - $3000
-   
-   total- $99,959
 How do you plan to scale the success of your proposal?: >-
   We will create a website as a living source of ideas for change and case
   studies of successful innovation, and continue to maintain the site past the

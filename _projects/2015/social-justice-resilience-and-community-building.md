@@ -23,8 +23,8 @@ project_areas:
   - South LA
   - Westside
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Newsletter
   Organization(s) name(s): Center for Council
   Organization(s) mailing address(es): "c/o Community Partners\r\n1000 North Alameda Street\r\nLos Angeles, CA 90012\r\n"
   Organization(s) website(s): www.centerforcouncil.org
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Newsletter
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -180,12 +180,6 @@ maker_answers:
     equally robust group of over two dozen local organizations hoping to learn
     and implement council practice into their organizational cultures and we
     hope to extend this network even further
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Initial costs to work with 13 organizations is $166,750 which has been
-    funded by a private foundation.  However, 26 worthy organizations applied,
-    and based on the amount of funding received we can work with additional
-    organizations.  
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Program Development\t$11,875\r\nOrganizational Outreach, Application and Review Process $8,550\r\nProgram Implementation at Social Justice Orgs $64,350\r\nOnsite support following training  $50,775\r\nNetworking event for social justice organizations  $7,200\r\nEvaluation $2,250\r\nAdmin Support/Overhead $21,750\r\nFor 13 Organizations  $166,750\r\nPer Organization\t\t$12,827\r\n"
   How do you plan to scale the success of your proposal?: >-
     We have more opportunities and organizations requesting that we work with
     them than we can manage due to our training base.  Additional funding will
@@ -198,8 +192,6 @@ Please list at least one major barrier/challenge you anticipate. What is your st
 Please explain how you will evaluate your work.: '#N/A'
 Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/social-justice-resilience-and-community-building/img.youtube.com/vi/Nry74LO2c0I/maxresdefault.jpg

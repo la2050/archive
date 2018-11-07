@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: 'Los Angeles, CA'
   org_website: 'http://interactive.usc.edu/game-innovation-lab/'
   org_twitter: '@USCGameLab'
   org_facebook: ''
@@ -65,7 +65,7 @@ maker_answers:
   org_name: USC Game Innovation Lab
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: 'Los Angeles, CA'
   metrics_create_patents: '1'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '1'
@@ -93,8 +93,6 @@ maker_answers:
     that’s highly achievable in twelve months. 
   major_challenges: "1)\tScale\r\nWe don’t want to make it seem like we’re hand-waving when we say “scale it up” – scaling things up is hard. At bigger scales lots of balanced things tend to break. Preserving what’s great about Reality while opening up the number of disciplines and inviting a far greater number of players means we have a lot of work to do to keep it running smoothly. The best strategy for this is organization and being smart about building an all-new infrastructure to handle city-wide play.\r\n\r\n2)\tBuy-In\r\nReality works because the motivation is rooted in encounters with people and creators you want to meet. USC luckily has an excellent alumni network with notable figures across a variety of disciplines- we think we can tap a pretty good bench through our own network, but the factors we mention above about outside partnerships apply here. We’ve learned important and powerful people are pretty willing when they understand the “ask” gives them control over the details and timing and puts them in contact with 3-5 really exceptional people. We’re also hopeful our new friends from LA2050 will have some ideas and introductions they could make. ;)\r\n"
   competition: "We’ve never seen anything quite like Reality. There are plenty of places out there trying to “gameify” work, and Los Angeles has not been a stranger to Alternate Reality Games or other games for change – but what makes Reality special is that it’s there for anyone and everyone at whatever level they want to engage with it. You can get as little or as much out of it as you’d like to put it. It’s also not mandatory fun or trying to sugarcoat a pill. It wants you to do a thing that YOU probably want to do, too, and it rewards you for acting on that. If you feel intimidated, it puts you in contact with people who will inspire. If you feel unskilled, it’ll give you experience and confidence to improve. \r\nOne unique point we’ve seen – the sheer volume of impressive work that comes out of the players is astonishing. \r\n"
-  cost: "Properly running Reality at this scale for 15 weeks probably costs more than $100,000. But a month? An incredible summer month that ends up becoming something like a festival of creativity for the entire city of Los Angeles? That’s pretty achievable.\r\n\r\nProperly managing expectations, even though we’re about to run our fourth “season” on the USC campus, this would constitute an entirely new beast. What we want to build for LA2050 is a shorter but BIGGER version 1 of the city game, LAReality.\r\n"
-  budget: "Physical Card Printing and Fulfillment - $15,000\r\nThis facilitates printing of the physical cards that are at the heart of the Reality game experience, as well as distributing those decks and special cards during the course of playing the game. $15,000 likely gets us tens upon tens of thousands of cards. We’ve never ordered anywhere near that many, though – our game runs on a few thousand cards a year.\r\n\r\nNew Web Infrastructure and support - $29,000\r\nThis covers creation of the internet-powered parts of the game and outfitting them for a potentially far greater user base. This also covers costs to develop an app that delivers cards cheaply to smartphones or web clients. We deem this essential to scaling the game up – not just being able to afford putting cards in the hands of all players, but also getting them access.\r\n\r\nDesign, Development, and Creative Direction – $33,000 \r\nPersonnel costs for designers, producers, and gamerunners to redesign the game, oversee infrastructure, and facilitate the event that is the itself. \r\n\r\nReward Budget – $12,000\r\nCovers expenses incurred in facilitating rewards. Meals with reward personalities, transportation, admission fees, and personnel to coordinate. \r\n\r\nOverhead and Contingency – $11,000\r\nLegal, Bureaucratic, and related costs – plus reserved contingency in the event of a critical overrun. \r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

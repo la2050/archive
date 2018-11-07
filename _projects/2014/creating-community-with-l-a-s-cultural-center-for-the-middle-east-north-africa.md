@@ -21,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: Los Angeles
   org_website: 'http://levantinecenter.org'
   org_twitter: '@LevantineCenter'
   org_facebook: 'https://www.facebook.com/levantine.c.center'
@@ -76,7 +76,7 @@ maker_answers:
   org_name: Levantine Cultural Center
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: Los Angeles
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '0'
@@ -108,10 +108,6 @@ maker_answers:
     There is no other organization in Southern California that serves and
     represents the Middle Eastern and North African communities with arts, and
     with expertise in presenting and promoting community-based programs.
-  cost: >-
-    $190,000 cost, we will match LA 2050 dollar for dollar with individual
-    private donors.
-  budget: " \r\n$58,000 Program Manager (M.A.)\r\n$37,000 Scheduling Coordinator (B.A.)\r\n$32,000 Instructor stipends (320)\r\n$10,900 Supplies (arts, crafts)\r\n$20,000 Marketing/Promotion (advertising, printing etc)\r\n$6,000 Intern Stipends (6)\r\n$18,000 Over overhead\r\n$8,100 Insurance and contingency\r\n\r\ntotal budget $190,000"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

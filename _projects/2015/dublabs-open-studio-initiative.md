@@ -12,8 +12,8 @@ project_video: 'https://www.youtube.com/embed/xXMkk_S-UnU'
 project_areas:
   - Central LA
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: We've previously applied
   Organization(s) name(s): DUBLAB
   Organization(s) mailing address(es): "4519 Santa Monica Blvd.\r\nLos Angeles, CA 90029"
   Organization(s) website(s): www.dublab.com
@@ -55,7 +55,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: We've previously applied
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -124,8 +124,6 @@ maker_answers:
     location. We will invite a wide array of collaborators, ranging from
     pioneering elders to influential, up and coming musicians and artists to
     participate in public radio broadcasts.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'We anticipate that the project will cost $100,000.'
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Studio and office furniture\t$15,000\r\nDesign and decoration for indoor and outdoor areas $15,000\r\nSignage\t$1,000\r\nOffice equipment\t$3,000\r\nStudio audio equipment $15,000\r\nWeb/Wi-fi Set up  $500\r\nBenches, and patio furniture $3,000\r\nLighting\t$5,000\r\nMoving expenses $500\r\nRental Deposit $4,000\r\nRent for first 3 months\t$6,000\r\nUtilities for first 3 months\t$600\r\nConstruction, building modifications and repairs $26,400\r\nSound proof\t$5,000\r\n\r\nTotal $100,000\r\n"
   How do you plan to scale the success of your proposal?: >-
     DUBLAB’s ongoing commitment to having a positive impact on way that people
     engage with art in Los Angeles has led to our organization’s interest in
@@ -205,24 +203,6 @@ Are there other organizations doing similar work (whether complementary or compe
   will invite a wide array of collaborators, ranging from pioneering elders to
   influential, up and coming musicians and artists to participate in public
   radio broadcasts.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'We anticipate that the project will cost $100,000.'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Studio and office furniture $15,000
-   Design and decoration for indoor and outdoor areas $15,000
-   Signage $1,000
-   Office equipment $3,000
-   Studio audio equipment $15,000
-   Web/Wi-fi Set up $500
-   Benches, and patio furniture $3,000
-   Lighting $5,000
-   Moving expenses $500
-   Rental Deposit $4,000
-   Rent for first 3 months $6,000
-   Utilities for first 3 months $600
-   Construction, building modifications and repairs $26,400
-   Sound proof $5,000
-   
-   Total $100,000
 How do you plan to scale the success of your proposal?: >-
   DUBLAB’s ongoing commitment to having a positive impact on way that people
   engage with art in Los Angeles has led to our organization’s interest in

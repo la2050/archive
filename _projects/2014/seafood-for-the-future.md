@@ -21,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '1'
-  city_state: 'Long Beach, CA'
   org_website: www.aquariumofpacific.org
   org_twitter: www.twitter.com/aquariumpacific
   org_facebook: www.facebook.com/aquariumofthepacific
@@ -77,7 +77,7 @@ maker_answers:
   org_name: Aquarium of the Pacific
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'Long Beach, CA'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '0'
@@ -106,14 +106,6 @@ maker_answers:
     and 3 million online users annually.  
   major_challenges: "1.\t“I don’t like fish because it is too fishy.”\r\nMany people claim that they don’t like seafood, or that they have become sick from eating seafood. When seafood is sourced and prepared correctly, it is healthy and delicious. And, as with any food product, proper sourcing and handling will also reduce the risk of seafood poisoning. SFF will address this issue by exposing the public to new recipes through live cooking demos and web videos. \r\n\r\nAnecdotally, SFF successfully changed visitors minds about an abundant local fish, pacific mackerel. We featured the mackerel at a cooking demo at the Aquarium’s Urban Ocean Festival in May. The guests were skeptical, but after they tried it, we were bombarded by requests for the recipe and to serve the dish at Café Scuba, the Aquarium’s onsite restaurant. Kids and parents alike enjoyed the dish.\r\n\r\n2.\tSeafood Fraud\r\nWhile seafood fraud is a serious issue that needs to be addressed, the numbers reported by the media are skewed. Eating locally-sourced seafood greatly reduces the risk of seafood fraud. The podcast series will address issues like seafood fraud through panel discussions reflecting the opinions of diverse stakeholders, and will educate the public about existing programs that are in place to address the issue on international, national, and state levels. \r\n\r\n3.\tThe Right Mix of Nutrition and Ease \r\nThis project will be successful if it involves experts that balance nutrition and culinary expertise with recipes that taste good, are budget-conscious, and are fairly simple and quick to prepare. SFF and the Aquarium have worked with health experts in the past, most recently in the development of our Mercury in Seafood Exhibit, which was created in partnership with Stony Brook University. We will leverage our current connections and forge new relationships with experts specializing in healthy seafood consumption. \r\n"
   competition: "The development of educational materials promoting responsible seafood options and recipes for families on the go is unique to SFF on the West Coast. The New England Aquarium in Boston, Massachusetts has worked with Chef Barton Seaver to develop recipes and materials targeting a similar audience. \r\n\r\nAdditionally, Monterey Bay Aquarium’s Seafood Watch Program is widely recognized with seafood recommendation cards distributed at businesses and organizations across the nation. Established in 1999, Seafood Watch has done amazing work to bring awareness to encourage responsible seafood consumption. Their sustainable seafood recommendations are based on stringent environmental standards for national seafood consumption.\r\n\r\nOur program’s recommendations build upon the successes of Seafood Watch, but consider the impact of the fishing industry on our local economy and the socioeconomic backgrounds of our local audiences. Including these additional factors yields results that emphasize the benefits of supporting our local seafood communities and the need to encourage the development of responsible marine aquaculture. \r\n"
-  cost: >-
-    The operating budget for this program is $167,000. Should we be awarded
-    $100,000 through LA2050, additional costs will be absorbed by the Aquarium’s
-    operating budget. Seafood for the Future is a strategic priority of the
-    Aquarium of the Pacific. We will also seek additional funds for program
-    operating expenses. We are not seeking direct salary support for existing
-    SFF staff.
-  budget: "Content development ($20,000): These funds will cover the cost of one or two consultants to assist with the seafood nutrition and culinary aspects of the new outreach programs.\r\n\r\nWorkshop ($10,000): We will host a workshop to gather input from various stakeholders, including fishermen, aquaculturists, chefs, business owners, and others regarding our proposed outreach tools.\r\n\r\nCooking Demonstration Videos and Seafood Processing Videos ($15,000): Includes stipends for participating chefs, production, and promotion. Aquarium audio visual staff has the necessary equipment on-hand.\r\n\r\nPodcast ($5,000): These funds will cover the production costs of the podcast series. The Aquarium's audio/visual team has the necessary equipment on-hand.\r\n\r\nStaff Time ($8,500): These additional project will require a part-time staff person to assist with website, social media, newsletters, and outreach content.\r\n\r\nTravel ($10,000): Funds will be used to visit fishing communities and aquaculture sites to evaluate and document them for consumer education and to present outreach programming at various offsite venues. Travel to meetings, conferences, and workshops  ensure that we are current on the latest issues and solutions in the seafood industry and that we remain connected to stakeholders at every level. \r\n\r\nEvaluation ($10,000): The surveys will gather baseline data and will evaluate the project's effectiveness in order to refine and enhance tools for increased effectiveness.\r\n\r\nPrinting and Advertising ($20,000)\r\n\r\nSupplies ($1,500) \r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

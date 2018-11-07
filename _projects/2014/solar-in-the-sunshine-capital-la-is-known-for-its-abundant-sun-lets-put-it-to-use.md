@@ -22,8 +22,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '0'
-  city_state: Los Angeles
   org_website: www.sierraclub.org
   org_twitter: '@sierraclub'
   org_facebook: facebook.com/sierraclub
@@ -76,7 +76,7 @@ maker_answers:
   org_name: 'The Sierra Club (Fiscal Sponsor: The Sierra Club Foundation)'
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '0'
+  city_state: Los Angeles
   metrics_live_importedwater: '0'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '0'
@@ -107,13 +107,6 @@ maker_answers:
     related to climate change education and solutions, but we would not
     anticipate any other organizations proposing projects related to clean
     energy in Los Angeles. 
-  cost: >-
-    This campaign will cost more than $100,000, after factoring in staff time.
-    Independent of this grant, coalition members have funding to dedicate staff
-    time to coalition efforts. We are seeking additional resources to develop
-    materials, organize events, coordinate our activities, and make a sustained
-    push over the coming year to expand rooftop solar in LA. 
-  budget: "BUDGET\r\nSeptember 1, 2014 - August 31, 2015\r\n\r\n\t\r\nProgram and Operating Expenses\t \r\n\t\r\nCoalition Materials, Website & Translation\t$16,300\r\nProgram Coordinator, Global Green USA\t24,400\r\nSummer Solstice Event\t40,700\r\n\t\r\nSubtotal - Program and Operating  Expenses\t81,400\r\n\t\r\nSubtotal Project\t81,400\r\nOverhead (@ 23%)\t18,600\r\n\t\r\nTotal Project\t$100,000\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

@@ -30,8 +30,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Tara Roth
   Organization(s) name(s): Make it in LA
   Organization(s) mailing address(es): '2901 Beach Ave, Venice, CA, 90291'
   Organization(s) website(s): 'http://makeitinla.org'
@@ -80,7 +80,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Tara Roth
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -171,13 +171,6 @@ maker_answers:
     to include LA companies at low cost in their platform to connect LA
     suppliers and buyers. We are budgeting $20,000 to dedicate to this piece of
     the project.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Ideally we will raise an additional $50,000 to extend this pilot to 18
-    months, giving us runway to prove out the concept. We have half a dozen
-    partners that are already working with us on our efforts and we will solicit
-    their support first. We also believe that events will provide ample
-    opportunities for sponsorship.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$60,000 – program coordinator for marketing, event coordination, and participant outreach\r\n$20,000 – technology platform\r\n$10,000 – event budget (to be supplemented by sponsorship and partner funding)\r\n$10,000 – travel budget\r\n"
   How do you plan to scale the success of your proposal?: >-
     Once the technology and the model is proven with 300-500 companies, we will
     be able to reach out to the broader audience of companies across more
@@ -191,8 +184,6 @@ Please list at least one major barrier/challenge you anticipate. What is your st
 Please explain how you will evaluate your work.: '#N/A'
 Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/make-it-in-la-help-connect-and-celebrate-las-entrepreneurial-ecosystem-for-making-things/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24018%252Fdisplay%252Fmakeitinla_logo.jpg=c570x385.jpg

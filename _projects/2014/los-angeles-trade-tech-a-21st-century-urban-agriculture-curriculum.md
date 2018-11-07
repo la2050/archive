@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_live_selfsufficiency: '1'
   metrics_live_healthyfood: '1'
-  city_state: 'Los Angeles, CA'
   org_website: 'http://college.lattc.edu'
   org_twitter: www.twitter.com/UrbanFarmingLA
   org_facebook: www.facebook.com/UrbanFarmingLA
@@ -99,7 +99,7 @@ maker_answers:
     Design, Culinary Academy
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '1'
+  city_state: 'Los Angeles, CA'
   metrics_live_importedwater: '1'
   metrics_live_obesity: '1'
   metrics_live_homelessness: '0'
@@ -144,11 +144,6 @@ maker_answers:
     to affordably construct a rooftop solar greenhouse that can withstand 70-80
     mph winds. These aforementioned objectives collectively address the unique
     nature of growing food here in LA along with its challenges.
-  cost: >-
-    We estimate that what's been proposed will cost $100k, give or take $5k.
-    There are vast in-kind resources that we have available which would normally
-    make it a significantly higher figure. 
-  budget: "-Student Interns $45,000\r\n-Curriculum Leaders $25,000\r\n-Supplies $25,000\r\n-Administration $5,000\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

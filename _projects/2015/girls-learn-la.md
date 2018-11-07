@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, Ca'
   Organization(s) mailing address(es): "4650 W. Olympic Blvd.\r\nLos Angeles, CA 90019"
   Organization(s) website(s): www.GALAcademy.org
   Organization(s) twitter handle(s): www.twitter.com/galacademy
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
+  'City, State': 'Los Angeles, Ca'
   Organization(s) name(s): Girls Academic Leadership Academy
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -155,12 +155,6 @@ maker_answers:
     Wiz Girls is helping us with providing "Coding" training, no cost. We also
     have partnerships with STEM Pilot, Campus Steps, and Mt. St. Mary's, all
     no-cost partnerships.  
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The Maker Space we have budgeted for is $100, 000. If there are any
-    additional costs, the school will fund raise or seek partnerships with
-    organizations or companies who could help raise the money to cover
-    overages. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Module\t/Item \t/Start up\t/Up Keep\t/Total:\r\n\r\nWorkspace/Tools\t/3,820\t/500\t= $ 4,320\r\nElectronics/Tools & materials / 3,008\t/ 300 = $ 3,308\r\nTextiles/ Tools & materials / 1,402 /100 = $ 1,502\r\nMaritime ROV/ Tools and Kits / 9,500/ n/a = $ 9,500\r\nComputers/ Equipment\t/ 8,161/ 100 = $ 8,261\r\n3-D printers/ Equipment/ 2,240/ 100= $ 2,340\r\nLaser Cutting/ Equipment/ 9,142/ 400\t= $ 9,542\r\nCNC Cutting/ Equipment/ 5,816/ 100= $ 5,916\r\nSafety Equipment/\tEquipment/ 3,000/ 200\t= $ 3,200\r\nCompetition fees and materials/Equipment and fees/ 7,111/ n/a = \r\n$ 7,111\r\nTechnical Advisor/\tPersonnel/ 40,000\t/n/a\t= $ 40,000\r\nTeacher Training/ Personnel/  5,000/ n/a\t= $ 5,000\r\n\t\t\tTotal: \t$ 100,000\r\n"
   How do you plan to scale the success of your proposal?: >-
     We hope to build three to four other girls schools in Los Angeles in the
     next few years. We hope that the Maker Space STEM model can be used at any
@@ -207,27 +201,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Wiz Girls is helping us with providing "Coding" training, no cost. We also
   have partnerships with STEM Pilot, Campus Steps, and Mt. St. Mary's, all
   no-cost partnerships.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The Maker Space we have budgeted for is $100, 000. If there are any additional
-  costs, the school will fund raise or seek partnerships with organizations or
-  companies who could help raise the money to cover overages.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Module /Item /Start up /Up Keep /Total:
-   
-   Workspace/Tools /3,820 /500 = $ 4,320
-   Electronics/Tools & materials / 3,008 / 300 = $ 3,308
-   Textiles/ Tools & materials / 1,402 /100 = $ 1,502
-   Maritime ROV/ Tools and Kits / 9,500/ n/a = $ 9,500
-   Computers/ Equipment / 8,161/ 100 = $ 8,261
-   3-D printers/ Equipment/ 2,240/ 100= $ 2,340
-   Laser Cutting/ Equipment/ 9,142/ 400 = $ 9,542
-   CNC Cutting/ Equipment/ 5,816/ 100= $ 5,916
-   Safety Equipment/ Equipment/ 3,000/ 200 = $ 3,200
-   Competition fees and materials/Equipment and fees/ 7,111/ n/a = 
-   $ 7,111
-   Technical Advisor/ Personnel/ 40,000 /n/a = $ 40,000
-   Teacher Training/ Personnel/ 5,000/ n/a = $ 5,000
-   Total: $ 100,000
 How do you plan to scale the success of your proposal?: >-
   We hope to build three to four other girls schools in Los Angeles in the next
   few years. We hope that the Maker Space STEM model can be used at any LAUSD

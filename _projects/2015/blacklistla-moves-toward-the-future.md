@@ -18,10 +18,8 @@ project_areas:
   - Westside
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: >-
-    A nonprofit leader, and member of the BlacklistLA community, shared the
-    challenge link with us.
   Organization(s) name(s): BlacklistLA
   Organization(s) mailing address(es): "1405 S Oxford Ave\r\nLos Angeles, CA 90006"
   Organization(s) website(s): www.blacklistla.city
@@ -64,7 +62,9 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: >-
+    A nonprofit leader, and member of the BlacklistLA community, shared the
+    challenge link with us.
   'City, State': 'Los Angeles '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -126,16 +126,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "The success of our work will be measured by our ability to make progress toward our expected outcomes. Included below are our two desired outcomes: \r\n(1) More Angelenos will be connected through BlacklistLA (BLA) offerings.\r\nNumber of Angelenos who attend BLA runs, number of repeat runners, number of runners in BLA training groups for targeted races, number of runners who participate in BLA's 5k, diversity of communities of BLA runners, presence of BLA community members at races and number of Angelenos who follow BLA’s social media.\r\n\r\n(2) More Angelenos will experience alternative forms of transportation and different neighborhoods of L.A. \r\nNumber of Angelenos who are exposed to and take public transit at least once per month. Number of Angelenos who report that BLA has exposed them to a new neighborhood\r\n\r\nWe will be tracking these numbers and data points throughout the year. All of the data will be the basic information used for any midcourse corrections that need to be made. \r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "\r\nThere are numerous running groups in LA that are doing a great job at getting people outdoors – LA Leggers, The Nike Run Club, Rundalay, Boyle Heights Bridgerunners, just to name a few. While our missions are complementary, BlacklistLA brings the unique approach of integrating street art, alternative transportation and a love for LA and civic life to the table. \r\n\r\nOutside of the running community, Ciclavia is the perhaps doing the most complementary work to the mission and vision of BlacklistLA. We have learned from their approach to creating opportunities for Angelenos to connect, get outdoors and use alternative means of transportation. And we look forward to the opportunity of working more closely with Ciclavia in the years to come once we have dedicated staff to cement those partnerships. "
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "To make this idea a reality, several key collaborators and partners will be involved in our work: \r\nBlacklistLA Steering Committee and Volunteers:  Strategic Guidance - $0\r\nLA Chinatown Firecracker Run Committee:  Fiscal Sponsorship - $0\r\nMayor’s Office: Alignment with Great Streets Urban Renewal Program $0 \r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The total cost of the initiative is approximately double of what we are
-    seeking from LA2050 - $200,000. However, this additional amount will be
-    covered through in-kind donations, volunteer time, and sponsorships. We have
-    runners who have offered to volunteer their time to execute the runs; we
-    have videographers and a webmaster who have committed to furthering the
-    brand; and we have colleagues in the public art and transportation realms
-    who advise us on strategic areas to visit in the city. We will also continue
-    to pursue foundation funding for our efforts. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Executive Director- $40,000\r\nBlacklistLA Run and Training Group Supplies - $15,000\r\nVolunteer Appreciation Event - $5000\r\nHappy Birthday LA 5K - $25,000\r\nAdministrative Costs - $15,000\r\nTotal: $100,000\r\n"
   How do you plan to scale the success of your proposal?: "As a growing movement of Angelenos, BlacklistLA always has scaling at the front of our mind. We believe that a one-year, $100,000  investment in BlacklistLA will allow the organization to effectively keep pace with the high demand, as well as determine how to promote future growth. We believe that our scalability lies in our ability to offer more runs throughout the city, as well as our ability to connect people in-person and online. \r\n"
 areas_impacted: ''
 partners: ''
@@ -191,22 +181,6 @@ Are there other organizations doing similar work (whether complementary or compe
    BlacklistLA Steering Committee and Volunteers: Strategic Guidance - $0
    LA Chinatown Firecracker Run Committee: Fiscal Sponsorship - $0
    Mayor’s Office: Alignment with Great Streets Urban Renewal Program $0
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The total cost of the initiative is approximately double of what we are
-  seeking from LA2050 - $200,000. However, this additional amount will be
-  covered through in-kind donations, volunteer time, and sponsorships. We have
-  runners who have offered to volunteer their time to execute the runs; we have
-  videographers and a webmaster who have committed to furthering the brand; and
-  we have colleagues in the public art and transportation realms who advise us
-  on strategic areas to visit in the city. We will also continue to pursue
-  foundation funding for our efforts.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Executive Director- $40,000
-   BlacklistLA Run and Training Group Supplies - $15,000
-   Volunteer Appreciation Event - $5000
-   Happy Birthday LA 5K - $25,000
-   Administrative Costs - $15,000
-   Total: $100,000
 How do you plan to scale the success of your proposal?: >-
   As a growing movement of Angelenos, BlacklistLA always has scaling at the
   front of our mind. We believe that a one-year, $100,000 investment in

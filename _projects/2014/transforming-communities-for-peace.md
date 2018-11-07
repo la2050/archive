@@ -21,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '0'
-  city_state: 'Sierra Madre, CA'
   org_website: 'http://worldpeaceone.com'
   org_twitter: ''
   org_facebook: 'https://www.facebook.com/worldpeaceone'
@@ -77,7 +77,7 @@ maker_answers:
   org_name: World Peace One
   metrics_create_arts: '0'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: 'Sierra Madre, CA'
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '0'
@@ -109,12 +109,6 @@ maker_answers:
   achievable_goal: "We have been managing the ENCOUNTER Think Tank group meeting monthly at LATTC, which has allowed us since 2013 to bring together the partners to the point of launch.  The project for L.A. and the first Peace Projects here will be absolutely achievable in this time frame.\r\n\r\nWe will build from existing collaborative networks and design platforms.  World Peace One Communities and Education use a  platform from e7 Plus to virtualize and simulate the physical environment to discover local needs and then train and use local talent to design, build, and share ideas to innovate and transform communities that are in great disrepair.\r\n\r\nThis transformation can be achieved by three very simple strategies: \r\n\r\n  1.  Simulation and virtualization using geospatial tools and other platforms to help visualize the change\r\n  2.  Innovation hubs with Peace Projects that includes digital fabrication, community discussions and training, and understanding of entrepreneurship and funding\r\n  3.  Community-based education through new courses and modifying or offering existing courses for their residents\r\n\r\nThis is a new model to embrace the complexity that is an outgrowth of new urban dynamics. These dynamics \r\n"
   major_challenges: "Two main challenges are:\r\n\r\n  1.  Engaging residents in a meaningful way (we are working through existing community service groups, online media, and awareness campaigns)\r\n  2.  Creating projects that can be sustained from year to year (we are including case studies and practices from organizations like Choice Humanitarian and Habitat for Humanity)"
   competition: "There are other organizations, like One Billion Acts of Peace, that are complementary, but do not provide the same type of sustainable, integrated, and designed solutions.  \r\n\r\nCurrent practices, while well meaning, often generate solutions first and then impose those solutions onto communities. Many times this process doesn’t close the loop and often offends the local residents who see this as a foreign solution to a local problem. Our approach first engages the community directly to determine the most pressing needs and cultural context, and then follows with a tangible solution first illustrated via advanced virtualization tools. We link existing challenge solutions to local drivers, and utilize an expanding library of templates,  models and solutions with design-build innovations developed at World Peace One Innovation Hubs. "
-  cost: >-
-    World Peace One has a large fundraising campaign beginning in late 2014 and
-    continuing for the next 10 years that will bring in additional funds to move
-    all these projects forward.  The $100,000 with LA2050 will help us to build
-    in advance of this and instantiate it here in L.A.
-  budget: "$50,000 for Peace Project managers, interns, and ambassadors to the community\r\n$25,000 for Peace Project materials for site building\r\n$20,000 for facilitators (experts needed for architecture, design, and technical engineering)\r\n$10,000 for administration and project management"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

@@ -20,8 +20,8 @@ project_areas:
   - South LA
   - County of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: 'Email '
   Organization(s) name(s): Neighborhood Housing Services of Los Angeles County (NHS)
   Organization(s) mailing address(es): '3926 Wilshire Blvd, Suite 200, Los Angeles, CA  90010'
   Organization(s) website(s): www.nhslacounty.org
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: 'Email '
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -139,8 +139,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Gauging the success and impact of the project will require tracking data among partners and service providers that utilize the facility. NHS will work with partners to consolidate and filter impact data of those taking courses, attending classes, and receiving training. Affiliated groups working through the Center will be asked to share all relevant statistics and deliverables data with NHS. NHS will serve as the central filter for evaluating the impacts and status of job training, homeowner education, senior and afterschool programming, and small business education programs. \r\n\r\nSpecific annual benchmarks include:\r\n• Providing healthy living services and resources to 1,500 residents;\r\n• Assisting 1,200 families through the Financial Opportunity Center; \r\n• Improving job readiness and overall skills base of local workforce by 20%;\r\n• Establishing 50 home and neighborhood gardens with youth workers; \r\n• Increasing lending access for 50 small business owners.\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are dozens of organizations in Los Angeles County that focus on encouraging and promoting sustainability programs for a wide array of stakeholders (Global Green, Sustainable LA, etc). And there are a vast number of health and community support groups and programs that assist small businesses, schools, government agencies, and municipalities with transitioning to a more sustainable future. Some of these non-profits in the housing and neighborhood revitalization/community health field such as Habitat for Humanity and the Neighborhood Assistance Corporation of America operate in more specific areas of direct need such as stand-alone housing construction and exclusively foreclosure relief. There are smaller-scale community centers in surrounding cities that offer valuable neighborhood resources, but the Center for Sustainable Communities is truly unique in that it will serve as a diverse, multi-use 28,000 sq ft facility in South LA that will provide a broad range of critically needed specialized services, information, and access to resources that will make underserved and blighted neighborhoods in Compton and surrounding communities stronger and more resilient. \r\n\r\nSpecifically, the Center will include a set of features and services not found elsewhere in the region in a single location. These include a business incubator, health clinic services, fitness rooms, a Community Technology Center, free community meeting space, a Neighborhood Revitalization Institute, senior and afterschool programming, a free library, adult and youth job training, a Green Education & Conservation Center, a Healthy Living Cafe, non-profit and select commercial tenants, and organic urban gardens. With the exception of the Eco-Village in central Los Angeles, there isn't another property and partnership on the scale of what NHS is undertaking with the plan. With the first Center scheduled to open in Compton in December 2015, NHS will be exploring additional locations for new Centers in underserved communities and cities throughout Los Angeles County over the next decade.  \r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "NHS has entered into agreements with the City of Compton, Metro CDC, and the Pacific Coast Regional Small Business Development Corporation as primary partners and is formalizing arrangements with the Los Angeles Conservation Corps and Christian Health Centers to provide expertise, customized services, training opportunities, and cross-collaborative projects through the Center. The LA2050 award will be allocated to partners based on this formula: NHS - $40,000; each partner (4 total) - $15,000. \r\n\r\nEach core partner brings unique experience and value:\r\n• City of Compton – Compton contributed bond funds to acquire the property and will facilitate project approvals, general public outreach, and program advocacy. \r\n• METRO CDC – Providing neighborhood outreach, employment training, community engagement, community garden management, and referral services for youth and young adults. \r\n• Pacific Coast Regional Small Business Development Corporation – As a tenant, PCR offers financial, educational and consulting services to small business owners and start-ups. \r\n• Los Angeles Conservation Corps – LACC will partner on environmental and urban reclamation projects in the Compton Creek watershed and surrounding area and will provide training, education, and mentoring for youth.\r\n• Christian Health Centers  – Providing full service health clinic programs and services. \r\n\r\nAt least 50% of the tenants in the CSC facility will be service-driven. Critical factors for partnerships include: 1) a commitment to build sustainability in Compton/South Los Angeles County, 2) eliminating “silo organizing” on common regional issues, 3) diversity of services offered, and 4) history of delivering neighborhood revitalization programs in low income communities.\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The Center will be funded by a mix of public/private community partner and major donor support. The total estimated cost of the acquisition and renovation of the facility is $7.3m. The property was purchased in 2014 for $2.6 million and we need to raise an additional $950,000 to meet our initial project projection. NHS has already entered into MOUs with several developers to finalize land bank, joint ventures, healthy schools initiative work, urban gardening and other community development strategic alignment agreements. The project is currently under construction. A key goal is to further target New Markets Tax Credits, local lender financing, faith-based institutions, foundation capital grants, and exploring as many community investment options as appropriate to leverage the project.  \r\n\r\nNHS will use CSC program activities and tenant rentals to help fund project costs and is securing additional foundation fundraising to cover financial gaps. Because of commitments from local foundations, federal agencies, and a handful of donors, we are in a good position to leverage partnerships with local banks, servicers, and the City of Compton to move forward together in our commitment to serve Compton/South Los Angeles County. LA2050 support will serve as a capstone award for the Center and will allow us to leverage additional funds to help NHS and its partners meet our launch date for the facility as we build on our vision to create sustainable economic and educational opportunities for the residents of Compton.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Revenue\r\nLA2050 \t\t\t\t\t\t\t                100,000\r\n---------------------------------------------------------------------------------\r\nTotal \t\t\t\t\t\t\t                100,000\r\n\r\nExpenses\r\nPersonnel (CSC Director X 50% FTE)\t\t\t25,000\r\nComputer Equipment (IT & Media Production)  40,000\r\nTraining (Urban Gardening, IT, Workforce)\t\t25,000\r\nOutreach Materials/Media/Events\t\t\t10,000\r\n--------------------------------------------------------------------------------\r\nTotal \t\t\t\t\t\t\t                100,000\t\r\n"
   How do you plan to scale the success of your proposal?: >-
     Once completed in December 2015, the Center will leverage its partnerships
     to expand support and delivery of its programs in the Compton community. 
@@ -235,33 +233,6 @@ Are there other organizations doing similar work (whether complementary or compe
    • Christian Health Centers – Providing full service health clinic programs and services. 
    
    At least 50% of the tenants in the CSC facility will be service-driven. Critical factors for partnerships include: 1) a commitment to build sustainability in Compton/South Los Angeles County, 2) eliminating “silo organizing” on common regional issues, 3) diversity of services offered, and 4) history of delivering neighborhood revitalization programs in low income communities.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The Center will be funded by a mix of public/private community partner and
-  major donor support. The total estimated cost of the acquisition and
-  renovation of the facility is $7.3m. The property was purchased in 2014 for
-  $2.6 million and we need to raise an additional $950,000 to meet our initial
-  project projection. NHS has already entered into MOUs with several developers
-  to finalize land bank, joint ventures, healthy schools initiative work, urban
-  gardening and other community development strategic alignment agreements. The
-  project is currently under construction. A key goal is to further target New
-  Markets Tax Credits, local lender financing, faith-based institutions,
-  foundation capital grants, and exploring as many community investment options
-  as appropriate to leverage the project. 
-   
-   NHS will use CSC program activities and tenant rentals to help fund project costs and is securing additional foundation fundraising to cover financial gaps. Because of commitments from local foundations, federal agencies, and a handful of donors, we are in a good position to leverage partnerships with local banks, servicers, and the City of Compton to move forward together in our commitment to serve Compton/South Los Angeles County. LA2050 support will serve as a capstone award for the Center and will allow us to leverage additional funds to help NHS and its partners meet our launch date for the facility as we build on our vision to create sustainable economic and educational opportunities for the residents of Compton.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Revenue
-   LA2050  100,000
-   _________________________________________________________________________________
-   Total  100,000
-   
-   Expenses
-   Personnel (CSC Director X 50% FTE) 25,000
-   Computer Equipment (IT & Media Production) 40,000
-   Training (Urban Gardening, IT, Workforce) 25,000
-   Outreach Materials/Media/Events 10,000
-   _________________________________________________________________________________
-   Total  100,000
 How do you plan to scale the success of your proposal?: >-
   Once completed in December 2015, the Center will leverage its partnerships to
   expand support and delivery of its programs in the Compton community. The

@@ -22,8 +22,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
-  How did you hear about this challenge?: We participated in the 2014 challenge
   Organization(s) name(s): 'Los Angeles World''s Fair, FPC'
   Organization(s) mailing address(es): "1600 Main Street\r\nVenice, CA 90291"
   Organization(s) website(s): www.laworldsfair.org
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: We participated in the 2014 challenge
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -142,12 +142,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "We will:\r\n- Survey pilot schools to determine their bike/walk/transit scores before and after delivery of the curriculum.\r\n- Track the number of trees planted through the program, and project tree canopy coverage at maturity.\r\n- Assess students’ knowledge about sustainability issues at the beginning and end of the curriculum.\r\n- Engage and track numbers of family and community members involved in curriculum supported activities.\r\n- Track the number of schools willing to participate in the initial and subsequent phases of the pilot.\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "LA DWP has a free-tree program, as does TreePeople -- their efforts are complementary, and we are exploring partnerships with both.  The Metropolitan Water District and LA DWP have rebate programs for water and energy conservation measures that would help support implementation of potential activities (such as installation of rain barrels, and other water and energy saving devices).\r\n\r\nThis proposed curriculum is unique in trying to help students understand the direct connection between their actions and the global environment, and providing tools and resources to do something about it.\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "The U.S. Green Building Council -- Los Angeles Chapter will work with us through: The Green Apple Day of Service program for implementation of projects at schools, and The Center for Green Schools, which can assist in development of the curriculum.\r\n\r\nWe are also exploring partnerships with the Los Angeles Unified School District, TreePeople, and LA DWP.\r\n\r\nAt the moment, all of the grant award would be utilized by the LAWF to support development of curriculum content and the delivery platform, as well as engage schools to participate in the pilot.\r\n\r\nWe expect to engage additional partners  -- local community businesses, nonprofits and local government agencies -- to support implementation of various activities, such as tree planting, installation of rain barrels, and others as identified by the specific schools.\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We have sized development and implementation of the pilot to cost $100,000. 
-    We also expect to utilize existing programs that would provide resources at
-    no cost through donation or rebates, such as trees and rain barrels.  The
-    program could readily scale should additional funds become available.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Curriculum development consultant ........................................$ 24,600\r\nSustainability Consultant...........................................................$ 33,500\r\nWebsite development/ curriculum delivery consultant ..........$ 13,400\r\nOutreach/ marketing/ communications ....................................$   4,700\r\nMonitoring/measuring/ assessment .......................................  $   7,800\r\nSpecific project implementation materials...............................$   5,500\r\nAdministration ............................................................................$ 10,500"
   How do you plan to scale the success of your proposal?: "The proposal includes piloting at two levels, both of which will inform decisions about scaling in the future:\r\n\r\nThe initial pilot curriculum will provide a broad introduction to sustainability.  We will assess the effectiveness of this, and the desirability of developing subsequent curricula to provide deeper dives into specific sustainability topics (e.g., transportation, climate change, healthy food).\r\n\r\nThe proposal includes piloting at a small number of schools initially (we currently envision piloting the program at three schools).  The ultimate goal is to scale delivery of the curriculum to additional schools throughout Los Angeles County to maximize its potential impact and help make all communities a better place to live.\r\n"
 areas_impacted: ''
 partners: ''
@@ -203,20 +197,6 @@ Are there other organizations doing similar work (whether complementary or compe
    At the moment, all of the grant award would be utilized by the LAWF to support development of curriculum content and the delivery platform, as well as engage schools to participate in the pilot.
    
    We expect to engage additional partners -- local community businesses, nonprofits and local government agencies -- to support implementation of various activities, such as tree planting, installation of rain barrels, and others as identified by the specific schools.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We have sized development and implementation of the pilot to cost $100,000. We
-  also expect to utilize existing programs that would provide resources at no
-  cost through donation or rebates, such as trees and rain barrels. The program
-  could readily scale should additional funds become available.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Curriculum development consultant ........................................$
-  24,600
-   Sustainability Consultant...........................................................$ 33,500
-   Website development/ curriculum delivery consultant ..........$ 13,400
-   Outreach/ marketing/ communications ....................................$ 4,700
-   Monitoring/measuring/ assessment ....................................... $ 7,800
-   Specific project implementation materials...............................$ 5,500
-   Administration ............................................................................$ 10,500
 How do you plan to scale the success of your proposal?: >-
   The proposal includes piloting at two levels, both of which will inform
   decisions about scaling in the future:

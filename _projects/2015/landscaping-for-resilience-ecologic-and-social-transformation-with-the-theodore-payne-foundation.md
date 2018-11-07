@@ -21,8 +21,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: newsletter
   Organization(s) name(s): 'Theodore Payne Foundation for Wild Flowers and Native Plants, Inc.'
   Organization(s) mailing address(es): "10459 Tuxford Street\r\nSun Valley, CA 91352"
   Organization(s) website(s): www.theodorepayne.org
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: newsletter
   'City, State': 'Sun Valley, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -140,8 +140,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "TPF will evaluate the success of LFR on the number of volunteers engaged in educational and work activities, the number of hours volunteers contribute, the level of support from Neighborhood Councils, the number of gardens created through LA2050 and planned for the future, the number of (newly created) #LFR tweets and Facebook posts, and the amount of traditional media coverage. If timing allows and all the sites can be dedicated on the same weekend, we will implement a communications plan that crosses media platforms. \r\n\r\nWater saving is another evaluation method. Given that California native plants use one-third the water (and less energy for transporting and treating that water), it makes sense to landscape native. Landscaping matters because urban areas consume ~20% of California’s water, and ~50% of that water is for outdoor use. We will track water use at the native plants gardens.\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Community gardening projects are a growing presence in Los Angeles. While the bulk of community-based gardening focuses on food production, the drought has encouraged people to consider water conservation as a compatible landscaping goal. Several organizations promote landscaping with the primary goal of water conservation or increasing the number of trees in urban settings. As a secondary interest, they incorporate some native plants into their plans.\r\n\r\nWhat is unique about TPF’s project is both TPF’s depth of expertize in native plant horticulture and our goal of disseminating skills for replication. TPF exists to continue the work of Theodore Payne, a pioneering proponent of California native plants and a nurseryman who introduced more than 400 types of natives into cultivation. TPF continues the practice started in 1906 of growing and promoting California native plants for conservation and beauty and for more than 50 years, TPF has been training people how to grow natives in Los Angeles. We have the experience, materials, and skills to create successful public gardens. \r\n\r\nIn keeping with the gardening principle that sharing creates more for all, LFR is designed to encourage community volunteerism and public engagement, and impart the sustainable skills needed for partner organizations to continue creating public and private native plant landscapes after the LA2050 project is over. LFR does not position TPF at the center of the project, but as the coach. TPF works with neighborhood groups to achieve their goals and to ensure that the projects will have long-term success but it will be their success. TPF firmly believes that Los Angeles needs more native plants so we need more native plant gardeners. Through LFR, Angelinos will work together to transform the landscape of Los Angeles for our sustainable future."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "While each site is different, past LFR projects can serve as a guide to partners. Partnering with Green Space Los Feliz, United States Postal Service, Silver Lake Gardening Club, Los Angeles Department of Recreation and Park, Silver Lake Neighborhood Council, and Los Angeles Police Department, LFR has transformed the landscaping at the Los Feliz Post Office, Silver Lake Meadow, and Topanga LAPD Station. At each site volunteers attended presentations about native plants, installed the new landscape, and now regularly maintain it. Success has bred requests from other groups, such as Mid-town NoHo and Valley Glen Neighborhood Councils, for native landscaping in other public spaces, and native gardens are now more prevalent in the surrounding communities. Through LA2050, TPF will work with neighborhood groups to develop eight public gardens in Los Angeles County.\r\n\r\nEach community partner organization will receive approximately $5,900 in direct service and materials including irrigation supplies, plants, and labor to clear the site and install the irrigation. TPF will supply an additional $5,800 of educational programming, site plan creation, coordination, and advise on project coordination.  "
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The total for developing and installing eight new native plant gardens comes to $108,100. Community groups will be encouraged to apply to their Neighborhood Councils for small grants to cover extra expenses. We anticipate that each group will secure $1,000 in support from their Neighborhood Council.\r\n\r\nTPF will also contribute in-kind staff support on how to implement the projects, make connections with neighborhood groups, and training in native plant horticulture. TPF will supply plants at the member discount price for this project. "
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Roughly half of the budget will provide dedicated staffing. The other half will cover materials and labor.\r\n\r\n$46,800 for a full-time LFR manager to recruit, train, and coach the community groups and well as contract for labor and buy irrigation materials (if needed). This person’s benefits are calculated at 25%.\r\n\r\nEach site will have the following estimated expenses totaling $5,900 (specific requirements will vary by site):\r\n  $2,500 for irrigation and training materials\r\n  $2,900 for labor for removal of existing plants and irrigation installation covers a crew of four people for six 8-hour days at $15/hour\r\n  $500 for 50 plants at $9 each\r\n  $50 for 90 miles travel to visit sites multiple times\r\n\r\n$94,000 in direct costs for eight projects\r\n$14,100 in indirect costs at 15% (administration, computer, etc.)\r\n\r\n$108,100 in total costs"
   How do you plan to scale the success of your proposal?: "One of the real beauties of Landscaping for Resilience is that it can become self-replicating. For example, Green Space Los Feliz was one of TPF's partners in creating a native plant landscape at the Los Feliz post office. Once that group gained skills in horticulture and working together, they went on to work with a local fire station to develop and maintain a garden at their site. \r\n\r\nThe goals of the program are to raise awareness among Angelinos of the control they have over their environment, what options they have for exerting that control, how to organize for change, and how to develop sustainable and retainable skills  "
 areas_impacted: ''
 partners: ''
@@ -210,29 +208,6 @@ Are there other organizations doing similar work (whether complementary or compe
   in Los Angeles County.
    
    Each community partner organization will receive approximately $5,900 in direct service and materials including irrigation supplies, plants, and labor to clear the site and install the irrigation. TPF will supply an additional $5,800 of educational programming, site plan creation, coordination, and advise on project coordination.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The total for developing and installing eight new native plant gardens comes
-  to $108,100. Community groups will be encouraged to apply to their
-  Neighborhood Councils for small grants to cover extra expenses. We anticipate
-  that each group will secure $1,000 in support from their Neighborhood Council.
-   
-   TPF will also contribute in-kind staff support on how to implement the projects, make connections with neighborhood groups, and training in native plant horticulture. TPF will supply plants at the member discount price for this project.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Roughly half of the budget will provide dedicated staffing. The other half
-  will cover materials and labor.
-   
-   $46,800 for a full-time LFR manager to recruit, train, and coach the community groups and well as contract for labor and buy irrigation materials (if needed). This person’s benefits are calculated at 25%.
-   
-   Each site will have the following estimated expenses totaling $5,900 (specific requirements will vary by site):
-    $2,500 for irrigation and training materials
-    $2,900 for labor for removal of existing plants and irrigation installation covers a crew of four people for six 8-hour days at $15/hour
-    $500 for 50 plants at $9 each
-    $50 for 90 miles travel to visit sites multiple times
-   
-   $94,000 in direct costs for eight projects
-   $14,100 in indirect costs at 15% (administration, computer, etc.)
-   
-   $108,100 in total costs
 How do you plan to scale the success of your proposal?: >-
   One of the real beauties of Landscaping for Resilience is that it can become
   self-replicating. For example, Green Space Los Feliz was one of TPF's partners

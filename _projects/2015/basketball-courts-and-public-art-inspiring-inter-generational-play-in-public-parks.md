@@ -21,8 +21,8 @@ project_video: 'https://www.youtube.com/embed/phXK2cX3WEk'
 project_areas:
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: NPR
   Organization(s) name(s): Project Backboard
   Organization(s) mailing address(es): '922 Arroyo Drive, South Pasadena, 91030'
   Organization(s) website(s): 'http://www.projectbackboard.org/'
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: NPR
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -155,16 +155,6 @@ maker_answers:
     Individual local partners have not been selected yet, but typically partners
     are engaged on a volunteer basis and costs are limited to items like water
     and snacks for volunteers and other minor expenses.  
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    As Project Backboard's involvement in Los Angeles expands beyond the 15
-    initial courts additional funding will come from private donors and
-    corporate sponsors.  
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-    Depending on the condition of each court renovations can cost between $500
-    and $4,000.  Similarly, past art projects have ranged from $200 to $7,500. 
-    Each of the 15 courts, once selected, will dictate the level of investment
-    and costs involved.  Activating each park with a basketball tournament will
-    costs a additional $500-$1000 per tournament.  
   How do you plan to scale the success of your proposal?: >-
     Scale-ability is at the heart of Project Backboard and having complete 18
     courts in Memphis, I know that the momentum and excitement generated in one
@@ -231,16 +221,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Individual local partners have not been selected yet, but typically partners
   are engaged on a volunteer basis and costs are limited to items like water and
   snacks for volunteers and other minor expenses.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  As Project Backboard's involvement in Los Angeles expands beyond the 15
-  initial courts additional funding will come from private donors and corporate
-  sponsors.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Depending on the condition of each court renovations can cost between $500 and
-  $4,000. Similarly, past art projects have ranged from $200 to $7,500. Each of
-  the 15 courts, once selected, will dictate the level of investment and costs
-  involved. Activating each park with a basketball tournament will costs a
-  additional $500-$1000 per tournament.
 How do you plan to scale the success of your proposal?: >-
   Scale-ability is at the heart of Project Backboard and having complete 18
   courts in Memphis, I know that the momentum and excitement generated in one

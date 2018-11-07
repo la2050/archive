@@ -21,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_researchgrant: '1'
   metrics_create_employment: '1'
-  city_state: Santa Monica
   org_website: 24Connect.net
   org_twitter: ''
   org_facebook: ''
@@ -66,7 +66,7 @@ maker_answers:
   org_name: 24Connect
   metrics_create_arts: '1'
   metrics_create_manufacturing: '1'
-  metrics_create_researchgrant: '1'
+  city_state: Santa Monica
   metrics_create_patents: '1'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '1'
@@ -89,8 +89,6 @@ maker_answers:
   achievable_goal: "We'll be collaborating with a variety of partners, including LA2050, to pull together the capstone event of Innovation Week 2014 on October 11th. This event will be a hugely scaled-down version of the eventual Creative Capital Fest, but will provide an opportunity to deliver an entertaining networking event for our Innovation Week partners that will lay the groundwork for a scaled up Innovation Week and Creative Capital Fest in 2015.\r\n\r\nWe have had conversations with multiple major festival production companies that have bought into our vision and will be invaluable partners as we aim to quickly scale up this event. We've quickly realized that this is an idea that sells itself, and with a major event production company as a partner we know that we can handle the on the ground logistics to scale this vision quickly."
   major_challenges: "Barrier 1:\r\n\r\nFunding and sponsorship dollars - an event of the scale we plan to build requires major capital on the front end. We're supremely confident that we'll be able to sell major sponsors on this vision, especially with the initial boost that an LA2050 grant would provide. We have already had a number of very promising conversations with potential large sponsors, and we would leverage the LA2050 grant to bring in additional sponsorship dollars that will help make this event a reality\r\n\r\nBarrier 2:\r\n\r\nGetting full buy-in from LA's creative industries -  It's crucial that this event becomes an integral part of the larger movement to showcase and brand Los Angeles, and that we integrate leaders from LA's creative industries as partners right from the start. We're confident that our vision for Los Angeles is right in line with the various businesses, organizations, and individuals on the front lines of selling LA as a \"creative capital.\""
   competition: "Silicon Beach Fest\r\n \r\nDigital LA\r\n \r\nJay-Z's \"Made in America\" Music Festival in Grand Park\r\n \r\nLA Cleantech Incubator's GloSho.\r\n \r\nLA Area Chamber of Commerce, Bixel Exchange\r\n \r\nLA Movie Fest\r\n \r\nFYF Fest\r\n \r\nThere are a variety of organizations that put on events that could in some ways be perceived as competitive with our event, but we plan to develop deep partnerships with organizations in Los Angeles that area already doing great work to connect and showcase Los Angeles innovators. This event will create a platform that will add value to the work of innovation-oriented organizations n Los Angeles."
-  cost: "This information is for internal purposes only and will not be publicly displayed.\r\n\r\nWe believe that the costs of producing this event will cost in the range of $750k - $1.25 million, depending on how ambitious we want to go with the initial 2015 festival.  In either case, we're confident that we'll be able to at least break even in year one via ticket sales and sponsorships. \r\n\r\nThe $100,000 will be a gigantic boost, and we will be able to leverage that initial infusion of money to attract major sponsors and headliner entertainment for our 2015 event."
-  budget: "$20k will be used to bring a major festival production company (likely C3) as a partner and to conduct an initial financial assessment for the scaled-up festival. We'll work with that partner to set up meetings with potential major sponsors and musical headliners.\r\n\r\n$15k will be utilized to fund a series of convenings throughout Los Angeles with creative industry and civic leaders to lay out a shared vision for the Creative Capital Fest\r\n\r\n$15k will be delivered to our partners at Innovation Week to help fund staffing for a massively scaled up week of innovation-focused events and activities in 2015 in the lead-up to the Creative Capital Fest.\r\n\r\n$15k will be used to develop a compelling crowdfunding campaign, with a shareable call-to-action video featuring notable Los Angeles musicians, artists, politicians, and creative industry leaders. We believe that we could potentially raise the majority of the money needed to host this festival via a major leveraged crowdfunding effort.\r\n\r\n$5k will be spent on creating comprehensive branding and promotional elements for the festival at an extremely cut rate\r\n\r\n$15k will be utilized as a down payment to lock down a top-notch headlining LA artist, which we will be able to leverage as we go out to attract an elite group of LA-based entertainers and speakers.\r\n\r\n$15k will be kept as reserve for additional expenses (e.g. travel) associated with early stage activities to build this event.\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

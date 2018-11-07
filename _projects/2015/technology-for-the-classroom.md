@@ -12,8 +12,8 @@ project_image: >-
 project_areas:
   - Westside
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): "10792 National Blvd.\r\nLos Angeles, CA 90064"
   Organization(s) website(s): www.Redeemerelementary.org
   Organization(s) twitter handle(s): www.twitter.com/RedeemerElementary
@@ -53,7 +53,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Redeemer Baptist Elementary School
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -133,13 +133,6 @@ maker_answers:
     This technology project will benefit the entire Redeemer staff and student
     population.  The entire grant will go to Redeemer Elementary to help fund
     SMART Boards for a better education.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    There are a variety of types of SMART Boards ranging from
-    $1,899.00-$9,908.00 per board.  We would purchase the cheaper boards for 9
-    different classrooms.  If SMART Boards are unattainable for us to purchase
-    we would purchase ELMO Projectors for each classroom.  ELMO Projectors cost
-    $719.00 per unit.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "SMART BOARDS: $9,908.00  per board (we could buy the cheaper ones as well) x 9 (9 classrooms) = $89,172.00\r\n\r\nELMO Projectors: $719.00 per unit x 9 = $6471.00 "
   How do you plan to scale the success of your proposal?: >-
     We plan to scale our success by student achievement and student data
     analysis.
@@ -180,16 +173,6 @@ Are there other organizations doing similar work (whether complementary or compe
   This technology project will benefit the entire Redeemer staff and student
   population. The entire grant will go to Redeemer Elementary to help fund SMART
   Boards for a better education.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  There are a variety of types of SMART Boards ranging from $1,899.00-$9,908.00
-  per board. We would purchase the cheaper boards for 9 different classrooms. If
-  SMART Boards are unattainable for us to purchase we would purchase ELMO
-  Projectors for each classroom. ELMO Projectors cost $719.00 per unit.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  SMART BOARDS: $9,908.00 per board (we could buy the cheaper ones as well) x 9
-  (9 classrooms) = $89,172.00
-   
-   ELMO Projectors: $719.00 per unit x 9 = $6471.00
 How do you plan to scale the success of your proposal?: We plan to scale our success by student achievement and student data analysis.
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/technology-for-the-classroom/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23262%252Fdisplay%252Fdsc00212.jpg=c570x385.jpg

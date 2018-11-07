@@ -12,8 +12,8 @@ project_image: >-
 project_areas:
   - East LA
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: The radio
   Organization(s) name(s): 'FEAL.LA '
   Organization(s) mailing address(es): "1250 Long Beach Ave. Suite 103\r\nLos Angeles, CA 90021 "
   Organization(s) website(s): www.fealla.com
@@ -53,7 +53,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: The radio
   'City, State': 'Los Angeles, CA '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -112,8 +112,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "FEAL.LA is entering into phase one of a larger vision. \r\n\r\nPHASE ONE: COMMUNITY\r\nPHASE TWO: PLATFORM\r\nPHASE THREE: CREATION\r\nPHASE FOUR: EDUCATION\r\n\r\nIn order to create a sanctuary, first you must find your people.\r\n\r\nIn Phase One, we will build our program from musicians, while pulling in the surrounding community through connection, both physically and digitally. With an already established network of artists, and industry leaders, we will activate experiences that harness collaboration, and build content to share with the world.\r\n\r\nWith this grant, we are able to rent a venue to prototype our vision. As well, as provide us the chance to build a digital platform for artists and the Los Angeles community to connect and grow. \r\n\r\nWe can track our progress based off of the following criteria:\r\n\r\nSpace activated\r\nWebsite creation\r\nTraffic both at events, and on our website\r\nEmail sign-ups through our website to participate in events\r\nGrowth of Social engagement via digital content\r\n\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Absolutely, in a way, every venue and recording studio is our competition. We see this as an opportunity. \r\n\r\nAs an artist embarks on the journey of creative expression, the support around them is vital to their success. FEAL.LA’s goal is to create an interconnected community of artists, businesses, and individuals who want to invest in the future of music. \r\n\r\nOur unique one-stop-shop approach in this collaborative space, allows more freedom and support for the artist to grow, create, and share.\r\n\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "As FEAL.LA grows, we invite many partners and collaborators to get involve. \r\n\r\nAt the moment, it’s just Jen Jones. She will receive $10,000 of the $100,000. "
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "For the PHASE ONE build out, the $100,000 will be cover any costs we need. If any additional costs come into play, that will personally be supported by our CEO, Jen Jones. \r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "ESTIMATED Projected Costs:\r\n\r\n$36,000-40,000- rent for space\r\n$10,000 - Stipend for staff\r\n$5,000 - build out of digital platform (website, designer costs, brand assets)\r\n$20,000 - build out of space\r\n$2,000 - interior design & office supplies\r\n$20,000 - equipment for studio and venue build out \r\n$4,000 - Misc (business licenses, fees, permits)\r\n\r\n\r\n"
   How do you plan to scale the success of your proposal?: "Once we have nailed down our program, and built a comprehensive plan on what it truly is a musician needs in this city to thrive (PHASE TWO), we will begin PHASE THREE. \r\n\r\nPHASE THREE is the acquisition of a 30,000 -40,000 sqft space, to create our one-stop-shop. A building that houses everything an artist needs to grow. \r\n\r\nA venue\r\nRecording studios\r\nRehearsal spaces\r\nAccommodation\r\nOffice space\r\n\r\nAs well as build out our membership program with the public. Providing a low monthly rate for the community to interact and engage with the artists we are working with. \r\n"
 areas_impacted: ''
 partners: ''
@@ -167,20 +165,6 @@ Are there other organizations doing similar work (whether complementary or compe
   As FEAL.LA grows, we invite many partners and collaborators to get involve. 
    
    At the moment, it’s just Jen Jones. She will receive $10,000 of the $100,000.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  For the PHASE ONE build out, the $100,000 will be cover any costs we need. If
-  any additional costs come into play, that will personally be supported by our
-  CEO, Jen Jones.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  ESTIMATED Projected Costs:
-   
-   $36,000-40,000- rent for space
-   $10,000 - Stipend for staff
-   $5,000 - build out of digital platform (website, designer costs, brand assets)
-   $20,000 - build out of space
-   $2,000 - interior design & office supplies
-   $20,000 - equipment for studio and venue build out 
-   $4,000 - Misc (business licenses, fees, permits)
 How do you plan to scale the success of your proposal?: >-
   Once we have nailed down our program, and built a comprehensive plan on what
   it truly is a musician needs in this city to thrive (PHASE TWO), we will begin

@@ -15,8 +15,8 @@ project_areas:
   - SOUTH LA
   - LA COUNTY
 maker_answers:
+  metrics_live_selfsufficiency: '1'
   metrics_live_healthyfood: '1'
-  city_state: 'venice, Ca 90291'
   org_website: www.idarchitect.com
   org_twitter: DuvivierArchtct
   org_facebook: 'DuvivierArchitects '
@@ -60,7 +60,7 @@ maker_answers:
   org_name: Duvivier Architects (DA)
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '1'
+  city_state: 'venice, Ca 90291'
   metrics_live_importedwater: '1'
   metrics_live_obesity: '1'
   metrics_live_homelessness: '0'
@@ -83,8 +83,6 @@ maker_answers:
   achievable_goal: "Our organization has a history of working together successfully to create change.\r\n\r\nThe City of Los Angeles street tree program will be available until summer 2015 and has a 3-month wait time. \r\n\r\nTo test the likelihood that residents of Oakwood would agree to water a street tree, which is the only requirement the City of LA has for planting them, we went door to door on both sides of the street on one block.  Of the 36 properties on our block, we visited 30 and 26 residents made a “commitment to water” a tree that would be in the parkway in front of their house/apartment. It only took one week.\r\n\r\nHere is our proposed schedule:\r\n-Develop the watershed education package - Sept\r\n-Collect signatures of “Commitment to Water” Trees - Oct– Dec. \r\n-Consult and canvas neighborhood regarding watershed education - Oct –Dec\r\n-Plant 300 Tree - Jan-June\r\n-Facilitate the installation of rain barrels, cisterns and rain gardens - Dec–March\r\n"
   major_challenges: "Fear\r\nFear of stagnant water - One barrier we have seen is the fear of collecting water in rain barrels, rain gardens or cisterns due to the erroneous impression that mosquitoes will be able to live in the collected water.  After years of helping residents install water collection systems, we have been able to show that cisterns and rain barrels come equipped with screens which prevent mosquitoes from laying their eggs in the water.  And water collected in a rain garden percolates into the ground within 24 hours well before any mosquitoes can hatch. \r\n\r\nFear of change – Many stakeholders have been in the neighborhood for years and have seen a lot of gentrification.  They fear change and especially see planting trees as a sign of gentrification.  Our projects have shown that all people deserve to have beautiful tree lined streets.  Everyone has the right to clean air, shade and better health. \r\n\r\nFear of deportation-Many residents live with extended family members, some of whom may not be in the country legally.  To alleviate this problem, last names, phone numbers and emails are optional on our sign up forms.\r\n\r\nOverwhelming Success\r\nIf our program is so successful, there is the possibility that the City could run out of trees and the Metropolitan Water District could run out of rain barrel rebate funding.  Currently both agencies have sufficient resources and both have shown a commitment to assist our organization in securing trees or rain barrels if they run out. \r\n"
   competition: "Tree People - LA Beaches Forever is more local and community driven. We will be working at a smaller scale within the community that is at risk. \r\n\r\nWatershed Councils - Most watershed groups do Watershed Plans or Vision Plans for their communities.  There is no Venice or Oakwood Subwatershed Group.  We will be it!\r\n\r\n"
-  cost: "Administration -$20,000\r\n\t\t\r\nCommunity Consultation and Education\t\t\r\nWorkshops-$1,000\t\r\nDevelop Workshop, Educational Flyers and Branding Material-$5,000\t\r\nRainwater harvesting consultation 50 properties-$10,000\t\r\nYouth training-$19,000\t\r\n\t\t\r\nPlanning \t\t\r\nTree Mapping-$5000\t\r\nVision Plan-$15000\t\r\nWater pinch points-$5000\t\r\nIdentify significant water collection sites-$5000\t\r\nPlan 1 pilot green street project or similar pilot project$15,000\t\r\n\t\t\r\n"
-  budget: "Administration -$20,000\r\n\t\t\r\nCommunity Consultation and Education\t\t\r\nWorkshops-$1,000\t\r\nDevelop Workshop, Educational Flyers and Branding Material-$5,000\t\r\nRainwater harvesting consultation 50 properties-$10,000\t\r\nYouth training-$19,000\t\r\n\t\t\r\nPlanning \t\t\r\nTree Mapping-$5000\t\r\nVision Plan-$15000\t\r\nWater pinch points-$5000\t\r\nIdentify significant water collection sites-$5000\t\r\nPlan 1 pilot green street project or similar pilot project$15,000\t\r\n\t\t\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

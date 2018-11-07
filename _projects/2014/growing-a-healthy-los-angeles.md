@@ -21,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_selfsufficiency: '1'
   metrics_live_healthcare: '1'
-  metrics_live_airtoxins: '1'
   org_website: www.lagardencouncil.org
   org_twitter: '@LAgardens'
   org_facebook: www.facebook.com/LACGC
@@ -63,7 +63,7 @@ maker_answers:
   metrics_live_healthyfood: '1'
   city_state: Los Angeles
   org_name: Los Angeles Community Garden Council
-  metrics_live_selfsufficiency: '1'
+  metrics_live_airtoxins: '1'
   metrics_live_importedwater: '1'
   metrics_live_obesity: '1'
   metrics_live_homelessness: '1'
@@ -86,18 +86,6 @@ maker_answers:
   achievable_goal: "LA Community Garden Council’s expertise is building new community gardens!  We have built 32 community gardens around LA County and assisted with the building of many more.  \r\n\r\nWe have already identified vacant city-owned land for the three proposed community gardens and we expect to be able to sign a standard lease with the city in 2-3 months once funding is secured.  We will then spend two months focusing on community organizing.  The design phase usually takes 2-4 weeks and we can build a garden, with LA Conservation Corps labor and volunteers, in 1-2 weeks.  \r\n\r\nWe are therefore confident that we can build these three new gardens and make sure that they are functioning well with strong programs within the next twelve months."
   major_challenges: "We anticipate encountering the following barriers/challenges:\r\n\r\n1.\tThere are likely to be some residents who are, at first, reluctant to have a community garden in their neighborhood.  They may fear excessive noise from the garden, a lack of privacy or have another concern.  We will listen to these neighbors during the community meetings and at other meetings as needed, hear and address their concerns, and educate them in the many benefits of having a community garden in your neighborhood.  We will be prepared to adapt our architectural plans to satisfy their concerns, as needed.\r\n\r\n2.\tWe have a waitlist for all of the 32 community gardens that we currently manage.  We expect to have a waitlist for the new community gardens soon after they open.  We will address this excess demand by working with the new volunteer leadership teams to determine clear criteria for who can lease a plot in the garden (for example, only those who live within a certain radius of the garden) and to determine the length of the gardeners’ agreement.  Many of our recently opened gardens only allow one family to have their own plot for two or three years before passing it along to a family on the waitlist.  In years when they do not have their own plot, they are still able to garden and benefit from the produce grown in the communal areas of the garden."
   competition: "EnrichLA’s core competence is constructing school gardens in a day or two and offering introductory gardening classes to children.  They do this exceptionally well and there are more than 800 school gardens in LA County.  LA Community Garden Council focuses on the 125 gardens that are open to anyone in the neighborhood and we are more than happy to let EnrichLA oversee the construction of more school gardens!  We share the common goal of having more green space in LA County where more people can grow healthy food in their neighborhood.  LA Community Garden Council differs from EnrichLA because our primary focus is on building community through gardening not on building gardens for existing communities.\r\n\r\nThe LA Neighborhood Land Trust manages several community gardens in LA County.  They do a great job at this and we consider their work to be complementary because they also share our vision to have more green space in low-income neighborhoods where more people can grow their own healthy food."
-  cost: >-
-    In LA Community Garden Council’s recent experience, it typically costs
-    between $30,000 and $35,000 to build a sustainable new community garden. 
-    The most expensive items are typically connecting the water and erecting a
-    fence.  Please see the budget below for details of the breakdown of this
-    estimated cost.  If the cost runs above $100,000, we will cover the
-    additional cost with donations from individuals.  LA Community Garden
-    Council is currently building a strong annual giving campaign with support
-    from individuals who are dedicated to our mission to build strong
-    communities where every person in LA County can grow healthy food in their
-    neighborhood.  
-  budget: "LA2050 Project Budget for 3 New Community Gardens\t\r\n\t\r\nItem\t Estimate \tNotes\r\nLabor\t\t\r\nProject Manager\t $12,600 \t$35 per hour, 120 hours per garden\r\nCommunity Organizer\t $9,000 \t$25 per hour, 120 hours per garden\r\nMaterials\t\t\r\nFences\t $24,000 \tDecorative fence can be as much as $15,000\r\nWater meter and backflow test\t $7,500 \t\r\nSoil test\t $240 \tWallace Labs\r\nIrrigation system\t $6,000 \t\r\nTools and hoses\t $1,800 \t\r\nToolshed\t $3,000 \t\r\nSignage\t $1,350 \t\r\nComposting container\t $150 \t\r\nLumber for raised beds\t $16,500 \tAssumes 50 per garden\r\nSoil\t $1,200 \t\r\nSeeds and starter plants\t $600 \t\r\nRainwater collection system\t $7,200 \tTwo 2500 gallon tanks\r\nShade Cover/Pergola\t $6,600 \tCan be up to $7,000 \r\nBenches for meeting/classroom area\t $2,400 \tSeats 20\r\nBike rack\t $300 \t\r\n\t\t\r\nTotal\t $100,440 \t\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

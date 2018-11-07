@@ -19,8 +19,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: sylmar
   org_website: www.elusiveminds.com
   org_twitter: ''
   org_facebook: ''
@@ -80,7 +80,7 @@ maker_answers:
   org_name: Elusive Minds Productions
   metrics_create_arts: '0'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: sylmar
   metrics_create_patents: '0'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '1'
@@ -114,8 +114,6 @@ maker_answers:
     process and has begun some preliminary research work. 
   major_challenges: "The first major barrier we anticipate is acquiring enough users to have a significant impact. In order to remedy this we will launch a massive outreach effort. We will make use of our relationships with Spanish language media partners to introduce and encourage usage of the app. We will also make use of our network and relationships with other organizations and community groups across the county. In partnership with our extensive network we will actively engage one on one with our targeted audience. Presentations and workshops on the usage of the app will be conducted to capacitate interested users.\r\n\r\nThe second major barrier is that the development of the app is going to be the most time consuming process of the first year of implementation. However during this time we plan on strategizing and prepping for our marketing and outreach campaign of the app itself. "
   competition: "A quick Google search for “resource based mobile apps for Latin@s” will result in two organizations doing similar work. Despite the similarity these organizations’ projects are outside the scope of a mobile-based mutual aid platform for Latin@s. The first is Latino Consultants, LLC, which has launched a bilingual mobile health resource web-app. The second is the National Council of La Raza that have just released their Immigo app—to disseminate information about immigration laws and policies for folks in the immigrant integration sector.\r\n\r\nThere is an app called Nextdoor that does offer neighborhood resources but it does not easily facilitate the direct exchange of goods and services. It is more of a classified add app and social network for middle class Americans. Although it does offer explicit support for the demographic we wish to service it is not Spanish language accessible. It is also not unique to Los Angeles and southern California.  We have the opportunity to cater our app to the LA area.\r\n"
-  cost: 'This will cost roughly no more than $100,000.'
-  budget: "App Development - $50,000\r\nAdministrative Costs - $8000\r\nMarketing Materials - $5,000\r\nCommunity/¬¬¬¬¬¬¬Project Manager Salary - $37,000\r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '0'

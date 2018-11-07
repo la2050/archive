@@ -22,8 +22,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: 'Los Angeles, CA'
   org_website: www.avenue50studio.org
   org_twitter: 'https://twitter.com/Avenue50Studio'
   org_facebook: 'https://www.facebook.com/avenue50studio'
@@ -67,7 +67,7 @@ maker_answers:
   org_name: Avenue 50 Studio
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: 'Los Angeles, CA'
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '1'
@@ -100,12 +100,6 @@ maker_answers:
   achievable_goal: "Writ Large Press has a long history of creating engaging and successful events within the Los Angeles community, in collaboration with numerous producers, musicians and literary talent. In committing to this project they’ve outlined a timeline for having manuscripts ready for print, and vendors in place for the production of the book launch events.\r\n\r\nAvenue 50 Studio will utilize our wide-ranging partnerships throughout Los Angeles, to secure the social service facilities and nearby businesses for workshops and events. We have commitments in place from poets who would facilitate the workshops and who will feature at the book launch events. \r\n"
   major_challenges: "One challenge would be to convince the local businesses that there is indeed value in building relationships with a social service organization, publisher and local poets. This would only apply to those businesses we haven’t yet made a commitment with, as several businesses have committed to this project, or have expressed interest. One way to tackle this challenge would be to implement effective means of evaluating the outcome of the first completed program (of the 7). By calculating attendance and books sales, and evaluating the marketing and promotional analytics, we would be able to compile a presentation for their benefit. \r\n\r\nAnother challenge that an organization would normally have with this sort of community-based project would be to convince the community that poetry matters. Given the proven record of achievement that Writ Large Press and Avenue 50 Studio has had with bringing literary events to public spaces, rather than being a barrier for us to overcome, this is something that we excel at, and are excited to embark on this journey!   \r\n"
   competition: "One organization doing somewhat similar work would be WriteGirl. WriteGirl is a creative writing and mentoring organization that promotes creativity, critical thinking and leadership skills to empower teen girls. \r\n\r\nWhat makes them similar is that they place a value on publishing the work created during the program year. Our project is unique in that we incorporate the engagement of local businesses, and varied social service facilities, on a grassroots level. We build and foster relationships, and then welcome the community to celebrate the published work, through collaborating with musicians and an open mic at the event. \r\n"
-  cost: >-
-    The total budget for The Neighborhood Literary-scape Project, consisting of
-    7 three-part programs, would be $91,325. Any unspent costs would go into the
-    publication of additional books, and for additional programs to be produced
-    within the budget year, prior to the culmination in Fall of 2015.  
-  budget: "1. ARTISTIC  EXPENSES\t\t\r\n(7) Workshop Facilitators $35/hr = $25,725 \r\n(7) Workshop Guest Poets $100/Workshop = $7,000 \t\t\t\r\n(14) Book Launch Featured Poets\t $100/Event\t= $1,400 \r\n\t\t\t\t\r\n2. ADMINISTRATIVE EXPENSES\t\r\nCoordinator\t$2,500/Program\t= $17,500 \r\nMarketing/Communication $500/Program = $3,500 \r\nDocumentation \t$700/Program = $4,900 \r\n\r\n3. TECHNICAL\t EXPENSES\t\t\r\nPublisher \t$2,000/Publication = $14,000 \r\nAudio Visual Expert \t$300/Program =\t$2,100 \r\n\t\t \t\t\r\nTOTAL Personnel Expenses (Add 1+2+3)  \t= $76,125 \r\n\t\t\t\t\r\nOPERATING/PRODUCTION EXPENSES\r\n5. Facilities/Equipment Rental (Fees for use of workshop spaces)\t\t= $7,000 \r\n6. Production/Exhibition (Fees for Sound/Projection Equipment) \t\t= $1,200 \r\n7. Marketing: (Mailing, Printing, Photocopying, Advertising)\t= $7,000 \t\t\t\r\n\r\nTOTAL Operating/Production Expense (Add 5+6+7) = $15,200 \r\n\r\nTOTAL BUDGET = $91,325 \r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

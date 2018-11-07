@@ -29,8 +29,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: From a fellow Rotarian
   Organization(s) name(s): Knucklebones
   Organization(s) mailing address(es): "460 South Spring Street\r\nSuite 618\r\nLos Angeles CA 90013"
   Organization(s) website(s): www.knucklebones.us
@@ -81,7 +81,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: From a fellow Rotarian
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
@@ -186,15 +186,6 @@ maker_answers:
     be successfully undertaken and accepted as a unique alternative to being
     sedentary.
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Follows are our partners and how much they will receive from the awarded grant: \r\n•Homeboy Industries (http://www.homeboyindustries.org) will receive $0 but their staff who are employed on the pLAy Bus will receive hourly compensation\r\n•Let’s Move (http://www.letsmove.gov) will receive $0\r\n•NFL Play60 (http://www.nflrush.com/play60) - will receive $0\r\n•Vision to Learn (http://visiontolearn.org) will receive $0\r\n•Rotary Clubs of District 5280 (http://portal.clubrunner.ca/50010) will receive $0\r\n•Whole Foods in L.A. County will receive $0\r\n•Each community/area/district/town official government office and healthy initiative within L.A. Country will receive $0\r\n•UCLA Center for World Health (worldhealth.med.ucla.edu) will receive $0\r\n•Scores of Manufacturers of the products the pLAy Bus will use will receive, if not free, greatly reduced compensation"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The $100,000 should cover all costs associated with the pLAy Bus.  As we are
-    an established company we plan to utilize our existing connections with the
-    manufactures of the products we’ll use for reduced rate or sponsorship for
-    the equipment. This will ensure that all the funds received by the grant
-    will go into the bus (customization or exterior/interior), staffing for
-    events, maintenance of equipment, travel expenses, etc. However, the more
-    funds we are able to save allows us to provide more events to the public.   
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "•pLAy Bus - $45,000 (used Ford Transit 450 – bio-diesel engine)\r\n•Marketing - $5,000 (business cards, signage, marketing on the bus)\r\n•Equipment - $20,000 (upon acceptance of the grant a complete list will be provided but will include Imagination Playground, Innova Disc Golf, Gonge, Backyard Games (Baggo, Ladderball, Kubb, KanJam, Poleish Horseshoes, etc), Classic Games (Bocce, Croquet, Teatherball, etc), Swingball, Pugg Nets, Coach Cliff Gaga Pit, etc.\r\n•Insurance - $8,500 (this will be in addition to the Workers Comp, General Lib, etc Knucklebones currently carries)\r\n•Cost of Events - $21,500 (the remaining funds will cover ~ 30, 3 hour events; paying staff, travel costs, maintenance, etc). If we are able to partner with an organization that provides volunteers to assist with the oversight, setup, cleanup, etc. we can significantly increase the number of events."
   How do you plan to scale the success of your proposal?: >-
     Once the pLAy Bus has been established, a majority of the costs will be
     covered through this grant. After we are able to show the community and
@@ -270,20 +261,6 @@ Are there other organizations doing similar work (whether complementary or compe
    •Each community/area/district/town official government office and healthy initiative within L.A. Country will receive $0
    •UCLA Center for World Health (worldhealth.med.ucla.edu) will receive $0
    •Scores of Manufacturers of the products the pLAy Bus will use will receive, if not free, greatly reduced compensation
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The $100,000 should cover all costs associated with the pLAy Bus. As we are an
-  established company we plan to utilize our existing connections with the
-  manufactures of the products we’ll use for reduced rate or sponsorship for the
-  equipment. This will ensure that all the funds received by the grant will go
-  into the bus (customization or exterior/interior), staffing for events,
-  maintenance of equipment, travel expenses, etc. However, the more funds we are
-  able to save allows us to provide more events to the public.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  •pLAy Bus - $45,000 (used Ford Transit 450 – bio-diesel engine)
-   •Marketing - $5,000 (business cards, signage, marketing on the bus)
-   •Equipment - $20,000 (upon acceptance of the grant a complete list will be provided but will include Imagination Playground, Innova Disc Golf, Gonge, Backyard Games (Baggo, Ladderball, Kubb, KanJam, Poleish Horseshoes, etc), Classic Games (Bocce, Croquet, Teatherball, etc), Swingball, Pugg Nets, Coach Cliff Gaga Pit, etc.
-   •Insurance - $8,500 (this will be in addition to the Workers Comp, General Lib, etc Knucklebones currently carries)
-   •Cost of Events - $21,500 (the remaining funds will cover ~ 30, 3 hour events; paying staff, travel costs, maintenance, etc). If we are able to partner with an organization that provides volunteers to assist with the oversight, setup, cleanup, etc. we can significantly increase the number of events.
 How do you plan to scale the success of your proposal?: >-
   Once the pLAy Bus has been established, a majority of the costs will be
   covered through this grant. After we are able to show the community and

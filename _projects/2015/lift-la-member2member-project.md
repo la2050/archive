@@ -18,8 +18,8 @@ project_video: 'https://www.youtube.com/embed/0kAkWtDm2X0'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: Friend
   Organization(s) name(s): LIFT-LA
   Organization(s) mailing address(es): '1910 Magnolia Avenue, Los Angeles, CA 90007'
   Organization(s) website(s): www.liftcommunities.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Friend
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: Dual generation programmatic refocus with new Member2Member pilot.
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -164,8 +164,6 @@ maker_answers:
     leading the way for this work in the U.S. as one of the first American
     social service providers to incorporate CV into its evaluation framework.
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "LIFT works with a variety of partners – housing programs, youth organizations, health clinics – to ensure clients are able to access resources. LIFT receives thousands of referrals from its partners, who lean on LIFT to provide complementary support to their case managers who cannot provide personalized services due to strict eligibility and scarce resources. LIFT builds the capacity of its partners, changing the landscape of the social service system and encouraging more organizations to work together to fight poverty. Accordingly, we are a select member of LA:Rise administered by REDF and the City of LA’s Department of Economic and Workforce Development to provide support services to families enrolled in social enterprises like Chrysalis, Homeboy Industries, and others. As we shift to a two-generation frame, we will continue to grow our partners strategically, focusing on organizations that deliver child-centered outcomes.The Magnolia Place Community Initiative (MCI) unites 75+ organizations to create scalable community improvement. As many of the organizations in the MCI are focused on supporting children, LIFT fills the gap in helping parents to support their family unit. LIFT-LA is truly the partner that MCI has been waiting for- the connective tissue mobilizing the network, and ensruing that community members understand, access, and utilize the resources available. UCLA Center for Healthier Children, Families, and Communities will be working with LIFT-LA to codify its goal planning process to develop road maps for families to bring about increased outcomes in health, education, economic stability, and parental bonding. As part of the Member2Member program, we have developed relationships with SoLA rentals to prioritize apartments for LIFT-LA families to be matched with a $2,000 fund for each family to use to reach stability.  We are also working with an investor to develop a JFLA LIFT fund to provide funds for members who earn enough to pay the rent but not the security deposit in a move into a safe and affordable home. LIFT-LA benefits from nationwide participation in organizations working to tackle the cycle of poverty, including:\r\n•\tThe Aspen Ascend Network working to address two-generation poverty\r\n•\tThe Fund for Shared Insight using the voice of participants as an evaluative measure\r\n•\tAmerica Forward: social entrepreneurs and policymakers influencing national change \r\n•\tService Nation deploying young people in service to improve communities. "
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Income\tLIFT-LA\t\r\nCorporations\t       206,000 \t\r\nIndividuals \t       110,000 \t\r\nFoundations\t       319,000 \t\r\nGovernment\t         80,892 \t\r\nEvents\t               180,000 \t\t      \r\nNational Subsidy\t \t\r\nTotal Revenue      $895,892\t\r\n\t\t\r\n\t\t\r\nExpense\t LIFT-LA \t\r\nSalary & Related\t            672,424      72,389 \r\nTraining\t                              19,093 \t 7,050 \r\nProgram Expense\t              27,504      10,960 \r\nEvent Expenses\t              50,000 \t                     -   \r\nTechnology\t                      41,741 \t  4,400 \r\nProfessional Fees\t              46,478 \t  5,200\r\nOccupancy\t                      48,360 \t   \r\nTravel\t                              17,960 \t\r\nBoard Expense\t                5,000 \t\r\nDepreciation\t                      - \t\r\nTotal Expenses\t$928,559\t$100,000\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Specifically, this funding will support the first three phases of this efforts, which started on April 1, 2015 and will continue for the next year:\r\n1.\tPlan: We will build the planning process, assemble the team including internal and external resources, and secure seed funding. In parallel, we will establish the research agenda, market opportunity, and key design elements.\r\n2.\tDesign: We will pursue two parallel workstreams, one focused on program model design and one focused on organizational strategy, capabilities, and structure. We will engage strategy and design consultants to support this work.\r\n3.\tPilot: We will conduct rapid iteration pilots. We will also make key organizational investments in human capital and infrastructure to support roll-out in summer 2016.\r\n"
   How do you plan to scale the success of your proposal?: "LIFT is focused on changing the systems that stifle social mobility for millions of vulnerable families. \r\nAt the heart of this work is perception change – in order to create a social service system that successfully supports families’ progress, those who are designing the system must fundamentally understand what the poor need, and that it is no different than the supports the middle and upper classes need to thrive. LIFT is currently developing an influence strategy to share its results and stories with key influencers, leveraging our position to shift perceptions and drive meaningful change for families in the social service system. \r\n\r\nAs we learn from our work with families, we hope to refine our message and approach to more specifically drive shifts that will create a more enabling environment for parents and their children to achieve mobility. Examples of this could be partnering with a technology company to bring aspects of our model to scale for millions of low-income Angelinos. The support from LA2050 will help us build the foundation upon which we can create a broader platform to amplify our insights and impact for low-income families. \r\n\r\nLIFT engages its cohort of advocates (mainly college students) in direct service every year. Simultaneously, the LIFT experience also pushes our advocates to grapple with the US’s most challenging issues related to poverty, race, inequality, and policy. Many of our advocates are transformed by the LIFT experience and continue to dedicate themselves to fighting poverty, whether through their chosen career, serving on nonprofit boards, or advocating in their communities. \r\n\r\nWe recognize that by delivering excellent outcomes, we can become an influential demonstration model that speaks to what works. From this platform we can persuade leaders across the philanthropic, for-profit, nonprofit, and government sectors to adapt best practices that can interrupt the cycle of poverty at scale and create a brighter future for the next generation of children.\r\n"
 areas_impacted: ''
 partners: ''
@@ -268,35 +266,6 @@ Are there other organizations doing similar work (whether complementary or compe
    • The Fund for Shared Insight using the voice of participants as an evaluative measure
    • America Forward: social entrepreneurs and policymakers influencing national change 
    • Service Nation deploying young people in service to improve communities.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': |-
-  Income LIFT-LA 
-   Corporations  206,000 
-   Individuals  110,000 
-   Foundations  319,000 
-   Government  80,892 
-   Events  180,000  
-   National Subsidy 
-   Total Revenue $895,892 
-   
-   
-   Expense LIFT-LA 
-   Salary & Related  672,424 72,389 
-   Training  19,093 7,050 
-   Program Expense  27,504 10,960 
-   Event Expenses  50,000  - 
-   Technology  41,741  4,400 
-   Professional Fees  46,478  5,200
-   Occupancy  48,360  
-   Travel  17,960 
-   Board Expense  5,000 
-   Depreciation  - 
-   Total Expenses $928,559 $100,000
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Specifically, this funding will support the first three phases of this
-  efforts, which started on April 1, 2015 and will continue for the next year:
-   1. Plan: We will build the planning process, assemble the team including internal and external resources, and secure seed funding. In parallel, we will establish the research agenda, market opportunity, and key design elements.
-   2. Design: We will pursue two parallel workstreams, one focused on program model design and one focused on organizational strategy, capabilities, and structure. We will engage strategy and design consultants to support this work.
-   3. Pilot: We will conduct rapid iteration pilots. We will also make key organizational investments in human capital and infrastructure to support roll-out in summer 2016.
 How do you plan to scale the success of your proposal?: >-
   LIFT is focused on changing the systems that stifle social mobility for
   millions of vulnerable families. 

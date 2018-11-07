@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  'City, State': Los Angeles
   How do you plan to use these resources to make change? Implement and track policy: '1'
-  How did you hear about this challenge?: newsletter
   Organization(s) name(s): The Edible Apartment
   Organization(s) mailing address(es): '910 1/2 S. Curson Ave. Los Angeles, CA 90036'
   Organization(s) website(s): www.TheEdibleApartment.com
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': Los Angeles
+  How did you hear about this challenge?: newsletter
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -138,12 +138,6 @@ maker_answers:
     with little expense and great success, as shown on my website:
     www.TheEdibleApartment.com
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': N/A
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We will not go over the 100,000 budget, and will likely come under budget. 
-    How do I know this? I have already installed and documented the expense of
-    doing one Edible Apartment so I know what is realistic in terms of budget,
-    timing, materials, maintenance and re-planting.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "15 new Edible Apartment Gardens at $6,500 each:\r\n$1,000 - Demolition \r\n$2,500 - New Materials (soil, compost, seeds, vegetables, seating area)\r\n$1,000 - Design fees\r\n$1,000 - Installation Crew (most work will be done by residents)\r\n$1,000 - Maintenance and materials for seasonal re-planting for one year"
   How do you plan to scale the success of your proposal?: >-
     I have already proven the success of this project by my pilot model
     project.  I will document each new Edible Apartment from start to finish in
@@ -192,18 +186,6 @@ Are there other organizations doing similar work (whether complementary or compe
   little expense and great success, as shown on my website:
   www.TheEdibleApartment.com
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': N/A
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We will not go over the 100,000 budget, and will likely come under budget. How
-  do I know this? I have already installed and documented the expense of doing
-  one Edible Apartment so I know what is realistic in terms of budget, timing,
-  materials, maintenance and re-planting.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  15 new Edible Apartment Gardens at $6,500 each:
-   $1,000 - Demolition 
-   $2,500 - New Materials (soil, compost, seeds, vegetables, seating area)
-   $1,000 - Design fees
-   $1,000 - Installation Crew (most work will be done by residents)
-   $1,000 - Maintenance and materials for seasonal re-planting for one year
 How do you plan to scale the success of your proposal?: >-
   I have already proven the success of this project by my pilot model project. I
   will document each new Edible Apartment from start to finish in terms of

@@ -16,8 +16,8 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23250%252Fdisplay%252FWheels_graduation_ceremony.jpg=c570x385
 project_areas: []
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): "Wheels of Hope\r\nPO Box 12345\r\nCovina, CA 91722    "
   Organization(s) website(s): www.wheelsofhopeLA.com
   Organization(s) twitter handle(s): NA
@@ -62,7 +62,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'Wheels of Hope LA, Fred Jordan Mission'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -116,13 +116,6 @@ maker_answers:
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
     All funds will be used by Wheels of Hope LA for our welding program and no
     funds will be diverted to other groups. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We are hoping to triple our capacity in 2016 from 50 students to 150
-    students. The cost will be $195,000. To do this we need to raise more funds
-    then in the past. Thus far we have received funding from M&K Metals, Rev Co
-    welding supplies, Legendary Developments, Pack Air Freight, Penske Truck
-    Rentals and Zambikes. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Wheels of Hope LA Expansion Financial Needs Sep 2015-Sep 2016\r\n\r\n20 new welding stations ($1500 each)     $30,000\r\nRent at new Shop ($1700 per month)      $20,400\r\nUtilities ($500 per month)                         $6,000\r\nWelding Consumables ($1500 per month)      $18,000\r\nInsurance                                                   $2,500\r\nWelding Instructors                                  $24,000\r\nAssistant Welding Instructor                  $26,000\r\nDevelopment, Admissions and Job Placement Director     $30,000\r\nAmerican Welding Test Facility Certification        $3,500\r\nGED Student Scholarships                     $5,000\r\nClassroom Materials (Books, notebooks, etc)     $2,000\r\nStudent Transport Assistance                $5,000\r\nWelding Certifications for Students       $12,100\r\nTransport, Administration & Marketing    $10,500\r\n\r\n\r\nTotal    $195,000\r\n"
   How do you plan to scale the success of your proposal?: >-
     The more funds we raise, the more students we can train, certify and place
     in jobs. There is a massive demand for welders in the US and southern
@@ -170,32 +163,6 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
   All funds will be used by Wheels of Hope LA for our welding program and no
   funds will be diverted to other groups.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We are hoping to triple our capacity in 2016 from 50 students to 150 students.
-  The cost will be $195,000. To do this we need to raise more funds then in the
-  past. Thus far we have received funding from M&K Metals, Rev Co welding
-  supplies, Legendary Developments, Pack Air Freight, Penske Truck Rentals and
-  Zambikes.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Wheels of Hope LA Expansion Financial Needs Sep 2015-Sep 2016
-   
-   20 new welding stations ($1500 each) $30,000
-   Rent at new Shop ($1700 per month) $20,400
-   Utilities ($500 per month) $6,000
-   Welding Consumables ($1500 per month) $18,000
-   Insurance $2,500
-   Welding Instructors $24,000
-   Assistant Welding Instructor $26,000
-   Development, Admissions and Job Placement Director $30,000
-   American Welding Test Facility Certification $3,500
-   GED Student Scholarships $5,000
-   Classroom Materials (Books, notebooks, etc) $2,000
-   Student Transport Assistance $5,000
-   Welding Certifications for Students $12,100
-   Transport, Administration & Marketing $10,500
-   
-   
-   Total $195,000
 How do you plan to scale the success of your proposal?: >-
   The more funds we raise, the more students we can train, certify and place in
   jobs. There is a massive demand for welders in the US and southern California.

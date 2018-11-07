@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - Central LA
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How did you hear about this challenge?: colleague
   Organization(s) name(s): Mountains Recreation and Conservation Authority
   Organization(s) mailing address(es): "570 West Avenue 26, Suite 100\r\nLos Angeles, CA 90065"
   Organization(s) website(s): www.mrca.ca.gov
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: colleague
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -141,13 +141,6 @@ maker_answers:
     use vs. the actual use of the park.   
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are other organizations who have complementary goals in the Los Angeles area, including California State Parks and City of Los Angeles Department of Recreation and Parks.  \r\n\r\nThe MRCA’s approach is unique because we incorporate park elements that provide more than just recreation: Our goal is to bring ‘nature’ to the City by developing natural parks that serve to also provide habitat for local wildlife, educate the public, and provide much needed public access to open space. Additionally, we approach projects in a manner that involves the surrounding community in a valuable way.  The local community participated in the planning process for this park during an in-depth community outreach process through 12 community meetings to ensure that residents felt comfortable and engaged. As a result, the final design is ultimately considered to be the ‘community’s vision’. Two of the key points that informed the design direction were: Residents wanted a natural children’s play area; and natural open space areas were important to nearly every participant. \r\n\r\nLastly, the long term operation and maintenance of the project will be the responsibility of MRCA.  The MRCA is a local public agency who’s mission is to protect land and provide public access to natural lands in southern California.  Since its inception, the MRCA has designed, planned and constructed scores of natural park projects throughout Los Angeles. The MRCA’s successful operation of our existing parks is compelling proof that the long-term success of the Franklin-Ivar Park is ensured. The agency has an established reputation for high-quality maintenance and maintains a positive presence in both our urban parks and natural open spaces.\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "The MRCA has partnered with a number of entities in the planning of this project including: \r\n•\tSanta Monica Mountains Conservancy (Conservancy) – As the land-owner, the Conservancy is our largest partner.  Due to MRCA’s expertise in urban park projects, the Conservancy has delegated long-term responsibility to plan, develop, and maintain the property.\r\n•\tCity Councilmembers David Ryu and Mitch O-Farrell – Although the park is technically in Councilmember Ryu’s district, it sits on the border of the two Council Districts.  MRCA met with Councilmen O’Farrell, who is supportive and committed to help in any way and has offered to facilitate, if needed, to make the project move forward in a timely manner.  Councilman O’Farrell has a history of being helpful with the creation of small pocket parks as well as larger endeavors like the greening of the Los Angeles River.  Councilman Ryu took office in July 2015 and is also supportive of the project.\r\n•\tHollywood/Los Angeles Beautification Team (HLABT) – Their mission is “To improve the quality of life in Los Angeles by empowering citizens to change their environments for the better.”  HLABT has been a project partner since the inception of this project and has facilitated with public meeting during the conceptual design phase.\r\n•\tAdditional entities/organizations that have provided partnership along the way include –\r\no\tFormer State Assemblymember (now Los Angeles City Attorney) Mike Feuer\r\no\tFormer City of Los Angeles Councilmember Tom LaBonge\r\no\tMayor Eric Garcetti\r\no\tAmerican Music and Dance Academy (AMDA) – the owners of the properties to the south of the park site\r\no\tCheremoya Foundation – a nearby elementary school parent’s stakeholder group\r\no\tArgyle Civic Association – a nearby neighborhood group to the east\r\no\tWhitely Heights Civic Association – a nearby neighborhood association\r\no\tYucca Corridor Coalition – a business group to the south of the project\r\no\tHollywood Dell Civic Association – a nearby neighborhood homeowner’s group\r\no\tHollywood Central Neighborhood Council – a nearby neighborhood council\r\no\tHollywood United Neighborhood Council – the neighborhood council in which this project is located.\r\n\r\nIf awarded, the full $100,000 would be allocated to the MRCA to implement the park project. Our agency and community partners would continue to participate in the planning, design and implementation of the project.\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The total estimated cost to construct the Franklin-Ivar Park project is $1.6
-    million. We currently have $1.2 million in funding from California State
-    Parks Proposition 84 grant and California Natural Resource Agency through an
-    Urban Greening grant. The requested $100,000 will help MRCA to supplement
-    the funding shortfall and allow us to construct the park sooner. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "1. Project Management / Construction Management\t: $20,000 \r\n2. Site Preparation\t: $10,000 \r\n3. Adventure Play Area\t: $35,000 \r\n4. Fencing/Gate(s): $25,000 \r\n5. Electrical: $10,000 \r\n\r\n"
   How do you plan to scale the success of your proposal?: "The obvious measure of the park’s success will be its frequent use by the public and the simple fact that this currently vacant and derelict site will become an active place for people to play. There is currently a large desire and need to transform this, and other vacant lots, throughout Los Angeles into spaces that the public can utilize and enjoy.  The mere creation and use of this park will be a major success and a step in the right direction to clean and activate Los Angeles.  \r\nNew urban parks of similar size were recently constructed by the MRCA and serve other park-poor neighborhoods. Constant outreach through social media such as Facebook, emails and person to person contact has allowed us to reach a wider scale of people and further the success of our public programing, resulting in higher number of attendance.  The same will be done with Franklin/Ivar Park.  \r\nAdditionally, as trees and other vegetation are proven to sequester carbon and improve our air quality, the park’s tree canopy and shrubs will almost immediately clean the air. Furthermore, air quality will be improved and greenhouse gasses will be reduced due to the park’s easy access via walking and bicycling, its close proximity to public transit, and permanent designation as open-space. \r\n"
 areas_impacted: ''
 partners: ''
@@ -221,18 +214,6 @@ Are there other organizations doing similar work (whether complementary or compe
    o Hollywood United Neighborhood Council – the neighborhood council in which this project is located.
    
    If awarded, the full $100,000 would be allocated to the MRCA to implement the park project. Our agency and community partners would continue to participate in the planning, design and implementation of the project.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The total estimated cost to construct the Franklin-Ivar Park project is $1.6
-  million. We currently have $1.2 million in funding from California State Parks
-  Proposition 84 grant and California Natural Resource Agency through an Urban
-  Greening grant. The requested $100,000 will help MRCA to supplement the
-  funding shortfall and allow us to construct the park sooner.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  1. Project Management / Construction Management : $20,000 
-   2. Site Preparation : $10,000 
-   3. Adventure Play Area : $35,000 
-   4. Fencing/Gate(s): $25,000 
-   5. Electrical: $10,000
 How do you plan to scale the success of your proposal?: >-
   The obvious measure of the park’s success will be its frequent use by the
   public and the simple fact that this currently vacant and derelict site will

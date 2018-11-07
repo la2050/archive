@@ -17,8 +17,8 @@ project_areas:
   - SOUTH LA
   - WESTSIDE
 maker_answers:
+  metrics_create_researchgrant: '1'
   metrics_create_employment: '1'
-  city_state: 'Los Angeles, CA'
   org_website: www.RandomActProjects.org
   org_twitter: www.twitter.com/thegabbagallery and www.twitter.com/AndreaLaHue
   org_facebook: >-
@@ -104,7 +104,7 @@ maker_answers:
   org_name: The Gabba Gallery and Andrea LaHue aka Random Act aka Random Act Projects
   metrics_create_arts: '1'
   metrics_create_manufacturing: '1'
-  metrics_create_researchgrant: '1'
+  city_state: 'Los Angeles, CA'
   metrics_create_patents: '1'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '1'
@@ -152,20 +152,6 @@ maker_answers:
     support the arts, although not from a Street Art or Outsider Art
     perspective.  They mainly address institutional art.  To our knowledge,
     there are no other entities doing anything like what we are doing.
-  cost: >-
-    The StreetArt Brokerage Firms’ expenses will be ongoing, as we are in it for
-    the long haul.  This grant would serves as “startup capital” to create a
-    state-of-the-art database, raise awareness, pay fees and the like. 
-    Commissions, and licensing deals via the Brokerage firm will help offset the
-    administrative costs.  As will as a sliding scale vendor participation fee
-    for the #EarthdayStreet2015 and #PeaceStreet2015 events. Creative
-    advertising on our downloadable maps and our own #EarthdayStreet2015,
-    #PeaceStreet2015 and #StreetArtTriangle products will also help offset
-    cost.  Corporations and private donations will come in more strongly as we
-    elevate our game with marketing materials, outreach and the like.  These
-    combined with more grant writing and funding are some of the ways we will
-    offset cost for our project. 
-  budget: "Initial 1 year budget  \r\n1 Paid full time Employees 25K a year – 25K\r\nIndependent contractors for projects- 25K\r\nOffice space and supplies:  internet and communication for 1 year 12K-15K\r\nSupplies, licensing, legal, for 2 projects for 1 year –   \r\n(Supplies – Paint / Lifts / graphic design / etc.  Licensing – Art / Images, and Graphic Design) $12-15K\r\nArtist payments and funding $10-20K\r\nIncidentals $5K\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

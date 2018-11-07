@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: The Impact Hub LA
   Organization(s) name(s): 'Synaccord, LLC'
   Organization(s) mailing address(es): "5319 University Dr. #102\r\nIrvine, CA 92612"
   Organization(s) website(s): www.synaccord.com
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: The Impact Hub LA
   'City, State': 'Irvine, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
@@ -136,8 +136,6 @@ maker_answers:
     The primary developer for Synaccord has been Francois Vespa whom we’ve been
     working with for a year. He would be the primary collaborator we work with
     on application enhancements. ($30K is allocated in the budget)
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "For our target scope of facilitating the great streets project, and a few example meeting topics, we will manage our expenditures to stay within the allotted amount.\r\n\r\nThis is a growth oriented startup that will cover civic engagement across the US and beyond. We will be seeking other funding, running crowd funding campaigns, and we have a revenue side that is based on advertising and fees from crowdfunding for actions that people agree on. \r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Budget:\r\nWebsite and UI Visual Design, Branding: $20,000\r\nApplication Enhancements: $30,000\r\nServer Hosting: $3000 (250/month * 12 months)\r\nSocial Media Advertising:  $12,000 ($1000/month * 12 months)\r\nEvent Hosting: $10,000\r\nCommunity Evangelism: $15,000\r\nUnforeseen: $10,000 (10%)\r\n"
   How do you plan to scale the success of your proposal?: "We are designed to scale! This new technology for engaging people in structured discussion in small diverse groups is designed to facilitate the participation of millions of people. The platform is built on hosted servers, Node.js and MongoDB which means increasing participation is a simple matter of turning on more servers. Our marketing though social media scales with each new person we bring on. \r\n\r\nAs this succeeds we will reach out to more neighborhoods and cities, building up the participation  to entire states, and of course the national government. Later, the world. \r\n"
 areas_impacted: ''
 partners: ''
@@ -184,21 +182,6 @@ Are there other organizations doing similar work (whether complementary or compe
   The primary developer for Synaccord has been Francois Vespa whom we’ve been
   working with for a year. He would be the primary collaborator we work with on
   application enhancements. ($30K is allocated in the budget)
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  For our target scope of facilitating the great streets project, and a few
-  example meeting topics, we will manage our expenditures to stay within the
-  allotted amount.
-   
-   This is a growth oriented startup that will cover civic engagement across the US and beyond. We will be seeking other funding, running crowd funding campaigns, and we have a revenue side that is based on advertising and fees from crowdfunding for actions that people agree on.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Budget:
-   Website and UI Visual Design, Branding: $20,000
-   Application Enhancements: $30,000
-   Server Hosting: $3000 (250/month * 12 months)
-   Social Media Advertising: $12,000 ($1000/month * 12 months)
-   Event Hosting: $10,000
-   Community Evangelism: $15,000
-   Unforeseen: $10,000 (10%)
 How do you plan to scale the success of your proposal?: >-
   We are designed to scale! This new technology for engaging people in
   structured discussion in small diverse groups is designed to facilitate the

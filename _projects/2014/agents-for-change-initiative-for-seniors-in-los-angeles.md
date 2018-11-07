@@ -15,8 +15,8 @@ project_video: ''
 project_areas:
   - SOUTH BAY
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_voting: '0'
-  metrics_connect_adultsupport: '1'
   org_website: www.sbssla.org
   org_twitter: 'https://twitter.com/SBSSla'
   org_facebook: 'https://www.facebook.com/SBSSla'
@@ -74,7 +74,7 @@ maker_answers:
   metrics_connect_volunteerism: '1'
   city_state: 'Los Angeles, California'
   org_name: St. Barnabas Senior Services aka St. Barnabas Senior Center
-  metrics_connect_traveltime: '0'
+  metrics_connect_adultsupport: '1'
   metrics_connect_culturalevents: '0'
   metrics_connect_publictransit: '0'
   metrics_connect_neighborhoodcouncils: '0'
@@ -106,10 +106,6 @@ maker_answers:
     Change, mobilizing other seniors through the work of the Lead AGEnts for
     Change and collaborating with a strong coalition of aging organizations
     through the Los Angeles Ageing Advocacy Coalition.
-  cost: >-
-    The 100,000 is sufficient to fund the AGEnts for Change Initiative for a
-    year. The proposed budget is $98,260.00. 
-  budget: "Coordinator Civic Engagement Salary and Fringe @ .5 FTE = 27,280\r\nAdministrative Support Salary and Fringe @ 1.0 FTE = 33,480\r\nGeneral Office Supplies/Expense = 2000\r\nTraining Sessions = 2,500\r\nTraining Materials = 2,000\r\nLegislative Visits including travel by AGEnts = 7,000\r\nCommunications including Video's  = 12,000\r\nRecruitment & Information Sessions = 2,000\r\nLocal Legislator Education Visits = 2,000\r\nTransportation local including taxi vouchers, van usage, public transportation reimbursement and mileage = 5,000\r\nRefreshments and hosting visits from elected officials\r\nIT = 1,000\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

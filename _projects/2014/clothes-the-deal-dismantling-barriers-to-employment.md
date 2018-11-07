@@ -14,8 +14,8 @@ project_video: 'https://www.youtube.com/embed/z_iZNryQIgw'
 project_areas:
   - SFV
 maker_answers:
+  metrics_live_selfsufficiency: '1'
   metrics_live_healthcare: '0'
-  metrics_live_airtoxins: '0'
   org_website: www.clothesthedeal.org
   org_twitter: www.twitter.com/clothesthedeal
   org_facebook: www.facebook.com/clothesthedeal
@@ -56,7 +56,7 @@ maker_answers:
   metrics_live_healthyfood: '0'
   city_state: 'Westminster, CA'
   org_name: Clothes The Deal
-  metrics_live_selfsufficiency: '1'
+  metrics_live_airtoxins: '0'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '1'
@@ -89,15 +89,6 @@ maker_answers:
     expanding our reach and our organization can easily be done in 12 months. 
   major_challenges: "1) Securing funds to ensure that our organization remains sustainable through the years.\r\n2) Community Outreach"
   competition: "There are a few other similar organizations in the LA/OC area. For example, Dress to Impress operates in North Hollywood locations. However, they only serve women. We serve people of all genders, nationalities, and ages. Working Wardrobes only operates in Orange County and does not accept walk-in clients, only those coming from their partnering agencies. Although we do work to collaborate with any non-profit referring low-income clients, our services are not contingent on a funding agreement. This is the biggest difference between Clothes The Deal and Working Wardrobes.\r\n\r\nOther things that differentiate us from other organizations is that we partner with dozens of different agencies throughout the county. With what we provide, these organizations are able to provide wrap-around services for their clients. In addition to the main boutique we have at our office in Downey, we also have satellite boutiques around the city that provide clothing to those who may live further from the Downey area. "
-  cost: >-
-    This project is estimated to cost about $160,000 for one year. We will be
-    receiving another foundation grant and we also have a government contract.
-    About $48,000 will be received through in-kind donations for our warehouse
-    and business clothing. The clothing donations will be acquired through
-    corporate clothing drives, clothing drop-off boxes located in local
-    businesses, and donated directly from manufacturers and retailers in the LA
-    area. 
-  budget: "STAFF & PERSONNEL\r\n$8,374 - Project Manager\r\n$8,000 - Workshop Facilitators\r\n$10,000 - Service Coordinators\r\ntotal personnel = $26,374\r\n\r\nNON-PERSONNEL (Operating Costs)\r\n$4,000 - Automotive (fuel & maintenance)\r\n$10,000 - Workshop Supplies (sewing kits, 20 computer tablets, hygienic & beauty products)\r\n$3,200 - Office Supplies\r\n$6,500 - Equipment (2 desktop computers, 2 laptops, flip camera, digital audio recorder)\r\n$3,000 - Printing & Reproduction\r\n$2,500 - Boutique Supplies (garment bags, lint rollers, steamers)\r\n$3,000 - Marketing Materials\r\n$1,250 - Display (mannequins, clothing display)\r\ntotal non-personnel = $33,450\r\n\r\nOTHER COSTS\r\n$29,500 - Vehicle (mini van)\r\n$1,250 - Software\r\n$1,900 - Communications (cell phones, Bluetooth, cellular service)\r\n$1,750 - Clothing Racks\r\n$1,250 - hangers\r\ntotal other costs = $35,650\r\n\r\n+ Indirect costs at 3% = $4,526\r\n\r\nGRAND TOTAL =  $26,374 + $33,450 + $35,650 + $4,526 = $100,000\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

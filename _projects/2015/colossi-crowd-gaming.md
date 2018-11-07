@@ -16,8 +16,8 @@ project_image: 'https://img.youtube.com/vi/CAz_mkuDRno/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/CAz_mkuDRno'
 project_areas: []
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: Friend
   Organization(s) name(s): Colossi
   Organization(s) mailing address(es): "928 S Burlington Ave\r\n#204"
   Organization(s) website(s): theColossi.co
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Friend
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -114,13 +114,6 @@ maker_answers:
     track. 
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are a couple other organizations working in the same general area as us: Timeplay and Audience Entertainment. However, they are not entering or prepared to enter the major league sports space, and take on crowds of 1000 - 10000+ like we are. In addition, unlike them, we realize that the individual experience is key to making this work and thus strive to make that the best possible experience we can.\r\n\r\nOther competition includes the things sports venues are already doing to get people engaged. However, pretty much all of them are limited in their interactivity or participation levels and fall flat. "
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': n/a
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    To roll it out quickly yet polished, an initial limited implementation of
-    our technology and content in several major sports venues is predicted to
-    cost about $91,700. Being a for-profit business, at that point we should be
-    fairly self-sustaining. The remaining money would be used to improve the
-    overall experience for users. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Salary (Office & Overhead) -          $ 25,000 \r\nOutside Services (contractors)\t  $13,300 \r\nSupplies (off and operation)\t          $1,000 \r\nServer Costs\t                                  $1,000 \r\nAdvertising\t                                  $3,200 \r\nCar, Delivery and Travel\t          $4,000 \r\nAccounting and Legal\t                  $5,000 \r\nUtilities\t                                          $3,000 \r\nInsurance\t                                  $ 500 \r\nTaxes (real estate etc.)\t                  $44,000 \r\n\r\nTotal -                                               $100,000"
   How do you plan to scale the success of your proposal?: "Once we're in one sports venue, we'll continue to spread to the others fairly easily due to their competitive nature.\r\nIn time, we would spread to locations outside of LA county and improve the rest of California as well. \r\n\r\nIn addition, we will continue our outreach to local schools, partnering with them to do fundraisers and such, both small scale and at the large sports events. \r\nEventually, we would work to make all of LA more and more interactive."
 areas_impacted: ''
 partners: ''
@@ -156,25 +149,6 @@ Are there other organizations doing similar work (whether complementary or compe
    
    Other competition includes the things sports venues are already doing to get people engaged. However, pretty much all of them are limited in their interactivity or participation levels and fall flat.
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': n/a
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  To roll it out quickly yet polished, an initial limited implementation of our
-  technology and content in several major sports venues is predicted to cost
-  about $91,700. Being a for-profit business, at that point we should be fairly
-  self-sustaining. The remaining money would be used to improve the overall
-  experience for users.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Salary (Office & Overhead) - $ 25,000 
-   Outside Services (contractors)  $13,300 
-   Supplies (off and operation)  $1,000 
-   Server Costs  $1,000 
-   Advertising  $3,200 
-   Car, Delivery and Travel  $4,000 
-   Accounting and Legal  $5,000 
-   Utilities  $3,000 
-   Insurance  $ 500 
-   Taxes (real estate etc.)  $44,000 
-   
-   Total - $100,000
 How do you plan to scale the success of your proposal?: >-
   Once we're in one sports venue, we'll continue to spread to the others fairly
   easily due to their competitive nature.

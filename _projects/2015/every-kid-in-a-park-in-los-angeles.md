@@ -20,8 +20,8 @@ project_areas:
   - County of Los Angeles
   - LAUSD
 maker_answers:
+  'City, State': 'Washington, DC'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How did you hear about this challenge?: Board member in Los Angeles
   Organization(s) name(s): National Park Foundation
   Organization(s) mailing address(es): '1110 Vermont Avenue, NW, Washington, DC 20005, Suite 200'
   Organization(s) website(s): www.nationalparks.org
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  'City, State': 'Washington, DC'
+  How did you hear about this challenge?: Board member in Los Angeles
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -116,12 +116,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "The National Park Service uses formative and summative evaluation in its education and youth programs, and will adaptively manage Every Kid in a Park as the initiative gets under way. Every Kid in a Park in Los Angeles will benefit from broader evaluation conducted by the NPF and NPS. The evaluation strategy will:\r\n•\tIdentify a baseline of our target audiences (youth, families, and teachers) perceptions, attitudes and use of NPS and its resources; those of overall park audiences; and those of the nation (looking at similar programs and resources for relevant lessons learned). \r\n•\tInform the decision-making processes of program managers and administrators regarding the development, implementation, adaptation and improvement of the program. \r\n•\tProvide accountability and document the value and results of the program to stakeholders.\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Organizations doing complementary work include the other federal agencies collaborating through the Federal Interagency Council on Outdoor Recreation (FICOR) that are part of the larger implementation of the Every Kid in a Park Initiative. In addition to the National Park Service, the other FICOR agencies are the Bureau of Land Management, Bureau of Reclamation, National Oceanic and Atmospheric Administration, U.S. Forest Service, U.S. Army Corps of Engineers, and the U.S. Fish and Wildlife Service.\r\n\r\nEvery Kid in a Park focuses on fourth graders because NPS and other land and water agencies already have fourth-grade programming in place in many locations. Fourth graders have only one teacher at that age, making it easier for teachers to reach the group. Research shows that the earlier a young person connects with the outdoors, the better for their development long term, and children who interact with nature and natural areas before age 11 are more likely to have positive attitudes toward nature and the environment as adults. By targeting fourth graders one year at a time, we will ensure that every child in the U.S. has the opportunity to visit and enjoy their public lands and waters by the time he or she is 11 years old. Research also shows that spending time outdoors is incredibly important to a child’s development, and national parks serve as some of our nation’s most beautiful places for outdoor recreation. They also provide dynamic classrooms and centers for active learning for all ages. \r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "NPS will build on existing partnerships with organizations across Los Angeles and Southern California. These include partnerships with NatureBridge, California State Parks, City of Los Angeles, Los Angeles County Parks and Recreation, Groundwork Los Angeles, Weingart East Los Angeles YMCA, Santa Ynez Band of Chumash, LA Conservation Corps, UCLA and the U.S. Forest Service.\r\n\r\nNPS is in an ideal position to expand its collaboration with these groups and others, and their existing strong relationship with the U.S. Forest Service will be particularly helpful in getting young people from East Los Angeles to the San Gabriel Mountains National Monument.\r\nSpecific local partners to receive transportation grants from the National Park Foundation will self identify through the grant application process.\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The total project expenses are estimated at $350,000 in 2015-2016. The
-    additional costs will be covered by additional fundraising from foundations,
-    individual donors and corporations in Los Angeles. The National Park
-    Foundation has secured $220,000 to date from foundations in Los Angeles.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Experience grants to parks and partners ($10/kid x 8,500kids) = $85,000\r\n\r\nProgram evaluation and management: $15,000\r\n\r\nTotal: $100,000\r\n"
   How do you plan to scale the success of your proposal?: >-
     Every Kid in a Park in Los Angeles launches officially on Thursday, October
     15. The first year of the initiative, coinciding generally with the
@@ -176,17 +170,6 @@ Are there other organizations doing similar work (whether complementary or compe
    
    NPS is in an ideal position to expand its collaboration with these groups and others, and their existing strong relationship with the U.S. Forest Service will be particularly helpful in getting young people from East Los Angeles to the San Gabriel Mountains National Monument.
    Specific local partners to receive transportation grants from the National Park Foundation will self identify through the grant application process.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The total project expenses are estimated at $350,000 in 2015-2016. The
-  additional costs will be covered by additional fundraising from foundations,
-  individual donors and corporations in Los Angeles. The National Park
-  Foundation has secured $220,000 to date from foundations in Los Angeles.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Experience grants to parks and partners ($10/kid x 8,500kids) = $85,000
-   
-   Program evaluation and management: $15,000
-   
-   Total: $100,000
 How do you plan to scale the success of your proposal?: >-
   Every Kid in a Park in Los Angeles launches officially on Thursday, October
   15. The first year of the initiative, coinciding generally with the 2015-2016

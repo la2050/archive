@@ -16,6 +16,7 @@ project_areas:
   - EAST LA
   - SOUTH LA
 maker_answers:
+  metrics_learn_communitycollege: '1'
   collaboration: >-
     Young Invincibles has a strong track record of working effectively and
     closely with diverse partners, from local service providers to statewide
@@ -27,7 +28,6 @@ maker_answers:
     the community and their desire to work. We also intend to incorporate
     employers in the conversation and stakeholder engagement, as we know that it
     is important to include them in the conversation.  
-  metrics_learn_earlyeducation: '0'
   org_website: www.YoungInvincibles.org
   org_twitter: '@YoungInvincible'
   org_facebook: www.facebook.com/together.invincible
@@ -89,7 +89,7 @@ maker_answers:
   who_benefit: "Our project will benefit:\r\n\r\n- The trained young leaders who can advocate for our agenda going forward.\r\n- Policymakers and stakeholders as they gain an understanding of key issues and challenges facing young people seeking employment pathways.\r\n- Young unemployed and underemployed adults from the communities we focus on.  "
   about_you: 'Washington, DC'
   org_name: Young Invincibles
-  metrics_learn_communitycollege: '1'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '1'
   metrics_learn_graduationrates: '0'
   metrics_learn_proficiency: '0'
@@ -118,8 +118,6 @@ maker_answers:
     take a strong step on that path. 
   major_challenges: "The first major barrier is that unemployed young adults are one of the hardest to reach populations as they are often disconnected from many social institutions. To overcome this we’ll be sure to partner with organizations that have a strong track record of connecting with this demographic. We’ll plan and host events through these relationships and all the while helping young adults to engage and help overcome the economic barriers in their daily lives. \r\n\r\nThe second barrier is the lack of knowledge about how young adult unemployment affects more than just the people without jobs, so it can be difficult to engage the broader community and build partnerships to tackle this issue.   We will engage in extensive background research to how high young adult unemployment in Los Angeles harms not just those individuals, but the entire county and state economy, as a way to get buy-in from policymakers, stakeholders, and the public."
   competition: "Scope LA (green Jobs and increasing tax revenue campaigns)\r\nCalifornia Calls\r\nSEIU local 721: (Fast food workers & wage increase ($15/hr) and union)\r\nThe Youth and Workforce Development Alliance (multiple partners throughout South LA) \r\nBuilding Healthy Communities, South LA\r\n"
-  cost: "We have secured $200,000 for the 10-stop CA jobs tour that will go across the state, and do not think that the addition 5-stop LA tour will cost more than $100,000.\r\n"
-  budget: "Proposed Budget for Young Invincibles\t\t\t\r\n(fiscally sponsored by the Center for Community Change)\t\t\t\r\n\t\t\r\n\t\t\t\r\n               Los Angeles Youth Jobs Tour Expenses\t\t\t\r\n\t\t\t             LA2050 Request\r\n\r\nStaffing\r\n\r\nSalary costs:                       $49,750\r\nBenefits (27%)\t\t\t$13,433\r\nTotal Salaries\t\t\t$63,183\r\n\t\t\t\r\nProgram Expenses\r\n\t\t\t\r\nVolunteer Stipends\t        $5,000\r\n5 LA Tour Stops\t\t        $5,000\r\n10 trainings\t\t\t        $2,500\r\nTravel\t\t\t                 $3,000\r\nOutreach and Materials     $2,500\r\nPrinting and Publications $4,425\r\nOffice services                    $2,502\r\nProfessional Services       $2,500\r\n(translations)\t\t\t $2,500\r\nIndirect Costs (15%)\t\t$9,391\r\n\t\t\t\r\nTotal Expenses\t\t\t$100,000"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

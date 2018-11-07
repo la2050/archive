@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - Central LA
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: word of mouth
   Organization(s) name(s): >-
     Green Institute for Village Empowerment (GIVE) program at Tom Bradley Legacy
     Foundation at UCLA, L.A. Urban Farms, Union Rescue Mission, Union Church
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: word of mouth
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -155,8 +155,6 @@ maker_answers:
     compensated for the office space, administrative support, classroom space,
     and garden supervision for $18,000.  LA Urban Farms will be compensated for
     the 4 6-week trainings at $500/training, with a total cost of $2,000.  
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'The first year, first phase of our project is projected to be $100,000.  '
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Administrative Support/Garden Supervision:$6,000\r\nProject Manager:$32,000\r\nAssistant Project Manager:$20,000\r\nTrainer from LA Urban Farms $20/hr; $500/program;4 6-week programs: $2,000\r\n20 Tower Garden w/accessories: $16,500\r\nSite Preparation :$8,000\r\nInstallation: $2,000\r\nSpace rental; office, classroom space: $12,000\r\nOutreach/marketing: $1,500"
   How do you plan to scale the success of your proposal?: >-
     This proposal is a pilot program to establish a sustainable urban community
     farm in downtown Los Angeles.  We hope to start new urban community farms in
@@ -218,17 +216,6 @@ Are there other organizations doing similar work (whether complementary or compe
   compensated for the office space, administrative support, classroom space, and
   garden supervision for $18,000. LA Urban Farms will be compensated for the 4
   6-week trainings at $500/training, with a total cost of $2,000.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'The first year, first phase of our project is projected to be $100,000.'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Administrative Support/Garden Supervision:$6,000
-   Project Manager:$32,000
-   Assistant Project Manager:$20,000
-   Trainer from LA Urban Farms $20/hr; $500/program;4 6-week programs: $2,000
-   20 Tower Garden w/accessories: $16,500
-   Site Preparation :$8,000
-   Installation: $2,000
-   Space rental; office, classroom space: $12,000
-   Outreach/marketing: $1,500
 How do you plan to scale the success of your proposal?: >-
   This proposal is a pilot program to establish a sustainable urban community
   farm in downtown Los Angeles. We hope to start new urban community farms in

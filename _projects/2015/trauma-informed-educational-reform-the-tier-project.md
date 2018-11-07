@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): "Social Welfare Department, 3250 Public Affairs Building, Box 951656\r\nLos Angeles, CA 90095-1656"
   Organization(s) website(s): www.ucla.edu
   Organization(s) twitter handle(s): ' https://twitter.com/UCLALuskin'
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'UCLA '
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -171,13 +171,6 @@ maker_answers:
     has community educators who go into the public schools to train educational
     staff on recognizing dating and sexual violence. POV will receive about
     $20,000 from the Project.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The TIER Project is budgeted at $100,000 to accomplish the goals of training
-    80 school districts and providing some technical assistance. We are seeking
-    additional funding to deepen the technical assistance to school districts
-    and to reduce their costs of release time for staff and other incidentals
-    related to implementation.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Project Budget\r\n-project manager 8 hours per week @ $45/hr x 50 weeks=$18,000\r\n-80 school districts send 10 people each (800 people) to a 2-day training. Twice a month trainings will occur@ 60 people per training. Each training about $3060 x 14 trainings=$42,840 \r\nCost of each training ($3060)\r\n•\t60 manuals @$6=$360\r\n•\tFood for 60 participants @$5 ea=$300\r\n•\tRent of training location=$800\r\n•\t2 trainers@ $50 per hour for 16 hours=$1600\r\n•\tTotal cost=$3060 per training\r\n-8 hours of consultation @ $45 per hour x 80=$28,800\r\n- Evaluation of $5000\r\n-Administrative support 8 hours/week x $15/hour x 44 weeks=$5280\r\nTotal Budget: $99,560\r\n"
   How do you plan to scale the success of your proposal?: "Our project already involves all the school districts in LA County. While we will offer this opportunity to all the school districts in LA County, experience would suggest that some will not be in a position to take advantage of this while others will want to have additional staff trained.  One of the primary outcomes of this work will be developing and refining a model of delivery for Trauma Informed practice.  Secondarily, we will gain an increased understanding of how to do a better job of providing this type of large scale training to educators and educational staff. This will serve as an important “proof-of-concept” which could easily be expanded to those districts that do not participate or to other counties or even brought down to the individual district level and ultimately to the individual school level, depending on the need of the district or school.  Expanding this training to the school level would represent a significant increase in scope. \r\nThe TIER Project can provide more technical support to the school districts during the implementation phase. We anticipate that districts will encounter challenges along the way and providing more direct support and consultation will further ensure their success in transforming their educational systems. Additionally, we want school districts to become the ambassadors of this work in that they will disseminate their learnings about trauma and trauma informed care to all of their community partners and other educational stakeholders with the TIER Project’s support. The vision for this work is that all service providers for children and adults will be trauma informed.\r\n\r\n"
 areas_impacted: ''
 partners: ''
@@ -187,8 +180,6 @@ Please list at least one major barrier/challenge you anticipate. What is your st
 Please explain how you will evaluate your work.: '#N/A'
 Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/trauma-informed-educational-reform-the-tier-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23820%252Fdisplay%252FTIER.jpg=c570x385.jpg

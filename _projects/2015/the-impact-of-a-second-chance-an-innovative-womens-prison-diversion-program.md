@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: Email from LA2050
   Organization(s) name(s): Prototypes
   Organization(s) mailing address(es): "1000 N. Alameda Street, Suite 390\r\nLos Angeles, CA 90012"
   Organization(s) website(s): www.prototypes.org
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Email from LA2050
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -178,17 +178,6 @@ maker_answers:
     and Prevention Control Program. Each entity uses its own resources to
     support WRC. The LA2050 grant will be used to enhance mental health services
     for women and their children at Prototypes.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The enhanced mental health and psychiatry services for WRC will cost
-    $100,000 which the LA 2050 grant will would cover. Prototypes will be able
-    to continue the enhanced services beyond this grant by accessing additional
-    funding that will come available under the Affordable Care Act. The other
-    program costs for WRC are covered through the public contracts that
-    Prototypes has in place to serve this population. Through awareness and
-    continued evaluation, the aim is for leaders in the community to realized
-    the true benefits of WRC and create dedicated funding streams to serve more
-    women in the criminal justice system. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Prototypes\t\t\r\nLA 2050 Budget\t\t\r\n\t\r\nGrant Revenue\t\t\r\n\tLA 2050 Award\t $100,000 \r\nTotal Revenue\t\t $100,000 \r\n\r\nExpenses\t\t\r\n\tMental Health Clinician - 0.5 FTE\t $27,500 \r\n\tMental Health Clinician Benefits - 0.5 FTE \t $7,700 \r\n\tPsychiatry Services - 40 hours per month\t $64,800 \r\nTotal Expenses\t\t $100,000 \r\n"
   How do you plan to scale the success of your proposal?: >-
     Prototypes’ proposal focuses on improving mental health services for women
     in the WRC program since many women with a substance use disorder also have
@@ -288,28 +277,6 @@ Are there other organizations doing similar work (whether complementary or compe
   and Prevention Control Program. Each entity uses its own resources to support
   WRC. The LA2050 grant will be used to enhance mental health services for women
   and their children at Prototypes.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The enhanced mental health and psychiatry services for WRC will cost $100,000
-  which the LA 2050 grant will would cover. Prototypes will be able to continue
-  the enhanced services beyond this grant by accessing additional funding that
-  will come available under the Affordable Care Act. The other program costs for
-  WRC are covered through the public contracts that Prototypes has in place to
-  serve this population. Through awareness and continued evaluation, the aim is
-  for leaders in the community to realized the true benefits of WRC and create
-  dedicated funding streams to serve more women in the criminal justice system.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Prototypes 
-   LA 2050 Budget 
-   
-   Grant Revenue 
-   LA 2050 Award $100,000 
-   Total Revenue $100,000 
-   
-   Expenses 
-   Mental Health Clinician - 0.5 FTE $27,500 
-   Mental Health Clinician Benefits - 0.5 FTE $7,700 
-   Psychiatry Services - 40 hours per month $64,800 
-   Total Expenses $100,000
 How do you plan to scale the success of your proposal?: >-
   Prototypes’ proposal focuses on improving mental health services for women in
   the WRC program since many women with a substance use disorder also have

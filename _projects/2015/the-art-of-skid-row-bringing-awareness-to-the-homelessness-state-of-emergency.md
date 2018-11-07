@@ -24,8 +24,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: Sustaynabl Team Member
   Organization(s) name(s): Sustaynabl
   Organization(s) mailing address(es): '1234 Wilshire Blvd, Los Angeles, CA 90017'
   Organization(s) website(s): 'http://www.sustaynabl.com/'
@@ -76,7 +76,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Sustaynabl Team Member
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -131,10 +131,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "We will evaluate our work through book sales, social media impressions, global awareness created, feedback and impact in the homeless community.\r\nTracking social media impressions through digital photojournalism; which includes videos, photos, and articles.\r\nTracking media stories related to #TheArtofSkidRow.\r\nAchieve goal of selling 45,000 copies of The Art of Skid Row book, via print or ebook. \r\nUtilizing Google Analytics to monitor site traffic for The Art of Skid Row, Sustaynabl, and connect social media accounts such as youtube, facebook, instagram, and twitter. \r\nConnecting Angelenos with bi-annual tours of Skid Row for those that desire to reach out to our homeless community members.\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "The U.S. Housing and Urban Development Department, Los Angeles Homeless Services Authority, Poverty Matters, United Way for a Greater Los Angeles, and countless other non profit organizations all attempt to address homelessness and provide services to those on the streets.\r\n\r\nIn 2003, the City of Los Angeles launched a ten year plan to end homelessness, titled “Bring L.A. Home.” It was part of a larger national effort starting in 2000 to end homelessness, lead by National Alliance to End Homelessness and HUD. In 2002, hundreds of cities signed onto the pact.\r\n\r\n2015 marks the twelfth anniversary of Bring L.A. Home’s launching. No one needs to walk far to see that chronic homelessness still permeates practically every corner of Los Angeles. By LAHSA’s 2015 homeless count, homelessness in LA County has increased to 44,359, up from 39,463 in 2013. Evidently, an army of nonprofits funded by government grants has not been effective enough.\r\n\r\nCreating and signing onto a plan to end homelessness establishes a roadmap to end the sad state of affairs for tens of thousands of people. It shows ending homelessness is within society’s grasp. Actually implementing such a plan as scheduled is a different issue. Homelessness is a systemic result of an unbalanced housing market. Solving homelessness requires a balanced housing market. \r\n\r\nSustaynabl’s differentiation from competitors is its development of innovative projects that generate revenue to support the core mission - eliminating extreme urban poverty. Our efforts are aligned with the number one global goal of ending poverty by 2030. Incorporating a market-based solution, Sustaynabl will have a long-term impact on Urban Centers that has not yet been achieved by similar non-profit organizations solely reliant upon private donors and government grants. "
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "The Weingart Center Association will receive an investment of 10% of the proceeds from each book. Local Los Angeles photographers, who will receive $500 each for their time. \r\n\r\nOther partners include local los angeles business such as retailers, book stores, art galleries, restaurants, and coffee shops that will showcase and sell the book. These partners will not be receiving a portion of the $100,000 grant."
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The Art of Skid Row will cost $100,000 to fully develop and distribute; no
-    additional funding will be needed for the project.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Book Design: $2000\r\nPR / Marketing: $10,000\r\nArt Gallery Installation: $5000\r\nPhotographers: $15,000\r\n- 30 photographers @ $500 each\r\nPrinting Books: $65,000\r\n- Print Copies (45K): $65,000\r\nISBN Purchase: $300\r\nOperating/Miscellaneous Expenses: $2700\r\n"
   How do you plan to scale the success of your proposal?: "The Art of Skid Row is the pioneer GIP which will generate critical funds to support individuals experiencing homelessness and develop a long-term approach to redefine affordable housing development. Sustaynabl plans to publish and sell 45,000 print and electronic copies; this represents the amount of people currently living on Skid Row.\r\nBy implementing an aggressive sales plan through targeted marketing and community engagement - Sustaynabl expects to generate over $1MM in proceeds during the first 12 months. \r\nImmediate impact: Sustaynabl will invest 10% of revenue generated through book sales to Weingart’s comprehensive 9-month program that provides safe housing, meals, case management, job training, and job placement services to those experiencing homelessness. \r\nLong term scalable plan, 90% of the revenue generated through book sales will be used to fund Sustaynabl’s major GIP, Urban Habitats (UH’s); mixed-use, mixed-income and environmentally friendly urban developments.\r\nUrban Habitats are designed to balance the housing market. UH’s will also reverse the cycle of “renter’s burden” in a city plagued with income disparity. This cycle of burden refers to the everyday renter that spends upwards of 50%+ of their income on housing, thereby reducing their capacity to purchase bare necessities (food, clothing, education). Sustaynabl seeks to develop its first UH in Los Angeles which will scale to other regions in the United States and eventually, around the globe. Urban Habitats will operate at optimal economic efficiency by dividing the residential units into three rental structures as follows:\r\n65%: Sustaynabl Units: Individuals and families pay an Occupancy Fee which is based on a Qualification Percentage (QP). The QP does not rise above 40%. The algorithm takes into consideration IRS income data, family / unit size, educational aspirations, and an individual's ability to earn income.\r\n25%: Market Linked Units: These units are linked to market pricing, but are priced lower than the subject property’s submarket to provide a competitive advantage and keep our units fully occupied at all times.\r\n10%: Transitional Units: These units have the ability to transition 120 - 240 at risk / homeless individuals into stable housing through our 6 month or 1 year comprehensive programs.\r\nBy using various for-profit business models, Sustaynabl will provide a source of funding for responsible housing development and create the foundation of a balanced housing market. "
 areas_impacted: ''
 partners: ''
@@ -186,19 +182,6 @@ Are there other organizations doing similar work (whether complementary or compe
   $500 each for their time. 
    
    Other partners include local los angeles business such as retailers, book stores, art galleries, restaurants, and coffee shops that will showcase and sell the book. These partners will not be receiving a portion of the $100,000 grant.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The Art of Skid Row will cost $100,000 to fully develop and distribute; no
-  additional funding will be needed for the project.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Book Design: $2000
-   PR / Marketing: $10,000
-   Art Gallery Installation: $5000
-   Photographers: $15,000
-   - 30 photographers @ $500 each
-   Printing Books: $65,000
-   - Print Copies (45K): $65,000
-   ISBN Purchase: $300
-   Operating/Miscellaneous Expenses: $2700
 How do you plan to scale the success of your proposal?: >-
   The Art of Skid Row is the pioneer GIP which will generate critical funds to
   support individuals experiencing homelessness and develop a long-term approach

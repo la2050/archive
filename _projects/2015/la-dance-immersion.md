@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): '3900 W. Chevy Chase Drive, Los Angeles, CA 90039'
   Organization(s) website(s): www.laparks.org
   Organization(s) twitter handle(s): 'https://twitter.com/LACityParks'
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): 'City of Los Angeles, Department of Recreation and Parks'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -115,8 +115,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "At the start of the program, parents & students will be asked to complete a survey to evaluate expectations, current views of dance and dance training, as well as personal dance identity. Additionally, to create a measurable mechanism to detect a shift in the way parents and students view dance & their involvement after the completion of the nine month program, another survey will be given one week prior to the end of the programs to be collected on or before the last program date.  These surveys will be created by RAP’s Partnership Division and given to the center Director-in-Charge (DIC) to facilitate and coordinate the on-site completion. \r\n\r\nIn an effort to track student/parent commitment, weekly reports will be completed by the centers to collect registration numbers, attendance, & the overall instructor observations of class progress.  Monthly on-site performance evaluations will also be conducted to assess the effectiveness of the program goals, objectives, & outcomes.\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "The typical route for early dance training is to enroll at a studio where classes are $10-$15 each and participation is three to five times weekly.  However, for Angelinos in low income and working class communities, this opportunity is not available due to a lack of monetary resources.  Although there are affordable alternatives, such as recreation centers, the instructor expertise and limited variety of dance forms do not allow for the same opportunities and training as a studio situation would.  Additionally there are exceptional nonprofit dance companies that often use community outreach programming to help bridge the gap, but in Los Angeles geographic constraints and the limited number of programs make this a rare opportunity, unlike in a city such as New York or San Francisco.  This L.A. Dance Immersion program would transform the youth dancer dabbling in dance training and give that young dancer opportunity to develop as an individual dancer in a variety of styles.  It will also grow the center’s dance program and the overall dance education and support of families in a community low on cultural resources. \r\n\r\nThis grant could provide a unique opportunity through municipal government to reach, educate, and develop dance in communities only partially engaged in the dance world.  RAP desires to offer exceptional dance opportunities to our communities and currently lacks the funding to allocate towards such a specific goal under the cumbersome burden of supporting failing infrastructure, paying for employee benefits and utilities, and operating on today’s limited budget for such an expansive amount of facilities and programs.\r\n\r\nIt is RAP’s ambition to create an innovative model for dance education within a government context in order to develop a greater appreciation for the Arts in our great City, and better serve Los Angeles.  Once this model is proven, RAP anticipates an effort to develop multiple relationships with both nonprofit and foundations based organizations to replicate this type of programming at other sites in order to increase opportunities of dance training and as a result, for professional dance and dancers in Los Angeles. \r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Although the long term goal is to involve nonprofit dance companies to work in collaboration on the execution of this program, due to the economy and the struggle of many dance based nonprofits, we anticipate their involvement will be in dance instructor time rather than in dollars.\r\n\r\nAll of the funds awarded will be used for dance instructor wages, with a small amount allotted to dance studio improvements."
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Each site will cost $15,065 to facilitate 40 street dance, contemporary, and/or ballet classes, plus 6 master classes during a six month period followed by a seven week summer intensive program offering 35 dance classes and 35 master classes.  Additionally, that same funding will support an Instructor-in-Training (IIT) Program for three young adults offering one hundred eighty-nine hours of paid training, seven dance education workshops for IIT participants, and seven parent education workshops.\r\n\r\nIf awarded $100,000, the LA Dance Immersion program would be able to facilitate this pilot program for at least six economically challenged communities throughout Los Angeles."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Six Month Training Component of the Youth Program\r\n40 hours of Street Dance, Contemporary &/or Ballet Instruction @ $50/hour = $2,000.00, plus\r\n6 hours of Master Classes in Street Dance, Contemporary, Ballet, & World Dance @ $125/hour - $750.00\r\n\r\nSummer Intensive Training Component of the Youth Program\r\n35 hours of Street Dance, Contemporary &/or Ballet Instruction @ $50/hour = $1,750.00, plus\r\n35 Master Classes in Street Dance, Contemporary, Ballet, World Dance, and Acro/Lifts @ $125/hour - $4,375.00\r\n\r\nDance Education Component of the Program $6,190.00\r\n\r\n6 sites x $15,065 each = $90,390.00\r\nStudio Improvements = $9,610.00\r\n\r\n"
   How do you plan to scale the success of your proposal?: >-
     As intended the pilot program is sustainable and can be planted at any
     number of sites in the future or should funding allow for new pilot programs
@@ -195,20 +193,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Alpha Phi receiving about $3000 for their contribution to the project. I
   anticipate need the bulk of the grant money to purchase equipment and any
   other start up costs for the project (like staff fees).
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  I think this project will cost the full $100,000. This amount will include the
-  planning, implementation, managing, and evaluation of the project. It will
-  also include City costs to support such a program as long as it can before it
-  can be left up to each park to find funding to self-sustain the program.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  The estimated budget for this project is as follows: 
-   
-   $2000 = Playa Vista Moms Group
-   $2000 = Women In Leisure Services
-   $3000 = Alpha Phi Fraternity
-   $43,000 = Staff Fees
-   $40,000 = Equipment Fees
-   $10,000 = Miscellaneous Fees (research, potential partners, cleaning fees, permit fees, unforeseen costs)
 How do you plan to scale the success of your proposal?: >-
   I plan to review all forms of evaluation and personally involve my friends,
   family and myself with the project. In working with the City of LA's

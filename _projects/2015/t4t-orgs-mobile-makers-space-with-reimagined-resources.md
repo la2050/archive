@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/XPYx9Zb6q6c'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  'City, State': 'Gardena, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: We participated last year.
   Organization(s) name(s): T4T.org
   Organization(s) mailing address(es): "12815 S. Western Avenue\r\nGardena, CA 90249\r\n"
   Organization(s) website(s): 'http://www.t4t.org/'
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  'City, State': 'Gardena, CA'
+  How did you hear about this challenge?: We participated last year.
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -159,13 +159,6 @@ maker_answers:
     and outreach to communities. The material we use will be donated from
     manufacturers who receive a tax receipt as our thank you for their
     donations.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    At T4T.org we are use to working within a budget. We will buy the truck and
-    hire the staff we need to get started. We will rely on volunteers and
-    manufacturers donations to make up the difference. We don’t go over budget
-    because we don’t have anywhere to draw the money from if we did go over
-    budget. We have learned to work within our means. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "PLAY Budget                                             $100,000.00\t\r\n\r\nVehicle\t\r\n14-passenger van\t                                       35,000.00\r\nSignage\t                                                         2,500.00\r\nInternal Build-Out (shelving, etc.)\t         2,500.00\r\nSalaries\t\r\nOutreach Coordinator (part-time)\t       20,000.00\r\nInventory Manager (part-time)\t               10, 000.00\r\n3D Printer/Laser cutter/Tools                      10,000.00\r\nVisitations\t\r\n$500 per set up x 30 - \r\nFacilitation/Replenishment\t                       15,000.00\r\nGas/Mileage\t                                                 5,000.00\r\n\r\nTOTAL\t                                                    $100,000.00"
   How do you plan to scale the success of your proposal?: >-
     We see this as a pilot project and with the data collected and successes
     measured we will approach a car company to support more vehicles as well as
@@ -216,29 +209,6 @@ Are there other organizations doing similar work (whether complementary or compe
   lucky enough to be awarded the grant, would go toward the vehicle, staff and
   outreach to communities. The material we use will be donated from
   manufacturers who receive a tax receipt as our thank you for their donations.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  At T4T.org we are use to working within a budget. We will buy the truck and
-  hire the staff we need to get started. We will rely on volunteers and
-  manufacturers donations to make up the difference. We don’t go over budget
-  because we don’t have anywhere to draw the money from if we did go over
-  budget. We have learned to work within our means.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  PLAY Budget $100,000.00 
-   
-   Vehicle 
-   14-passenger van  35,000.00
-   Signage  2,500.00
-   Internal Build-Out (shelving, etc.)  2,500.00
-   Salaries 
-   Outreach Coordinator (part-time)  20,000.00
-   Inventory Manager (part-time)  10, 000.00
-   3D Printer/Laser cutter/Tools 10,000.00
-   Visitations 
-   $500 per set up x 30 - 
-   Facilitation/Replenishment  15,000.00
-   Gas/Mileage  5,000.00
-   
-   TOTAL  $100,000.00
 How do you plan to scale the success of your proposal?: >-
   We see this as a pilot project and with the data collected and successes
   measured we will approach a car company to support more vehicles as well as

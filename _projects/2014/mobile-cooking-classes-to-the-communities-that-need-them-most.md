@@ -18,8 +18,8 @@ project_areas:
   - SOUTH LA
   - LA COUNTY
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '1'
-  city_state: 'los angeles, CA'
   org_website: www.brownpaperla.com
   org_twitter: www.twitter.com/brownpaperla
   org_facebook: www.facebook.com/brownpaperla
@@ -59,7 +59,7 @@ maker_answers:
   org_name: Brown Paper LA
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'los angeles, CA'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '1'
   metrics_live_homelessness: '0'
@@ -82,8 +82,6 @@ maker_answers:
   achievable_goal: "Within 2-3 months, we would be able to purchase and retrofit a vehicle that would suit the needs of this project: giving Brown Paper the ability to host the classes and cooking demonstrations discussed.\r\n\r\nAfter this initial setup period, we could commence hosting events and building partnerships. Easy integrations would likely include community gardens and community festivals in low-income neighborhoods. Within 1-2 months, we anticipate gaining a better sense of what has the biggest impact on our audience -- hands-on classes? large-scale demos? food talks? \r\n\r\nThen, over the remaining months, we would build broader partnerships. This could include food truck events, farmers markets and other ongoing events.\r\n"
   major_challenges: "The regulatory framework surrounding food preparation can be tricky. Because we have been a licensed caterer for a number of years, we are confident we can manage this regulatory environment. Further, because the food would not be for sale, this would mitigate some of the regulations that most food trucks have to overcome. \r\n\r\nMore difficult would be creating the partnerships that would make us successful. Because this is a unique approach to an endemic issue, our prospective partners and clients may not initially be interested in the solution we propose. We will be flexible and work with our partners on their terms to ensure strong collaborations. Because this is a new opportunity, there will be a learning curve for our team as well, so flexibility will be essential to ensure our long-term success. \r\n\r\nFurther, cooking methods and ingredients are very culturally-specific, so overcoming those cultural barriers will be essential to build a connection with our target communities. We will work closely with community-level organizations to ensure our approach is culturally-sensitive and engaging to diverse audiences.\r\n"
   competition: "There are a number of organizations doing similar work but none doing specifically what we are proposing: mobile cooking education for low-income communities.\r\n\r\nThere are one-off events that provide cooking demonstrations -- for example, the Santa Monica Farmers’ Market has offered these demonstrations -- but no organizations that have focused providing this education on an ongoing basis for the County more broadly. These demonstrations, when they occur, are generally within stores or community centers; ours would be the first in a mobile environment and thus be able to serve areas that would otherwise be inaccessible. \r\n\r\nThere are also a number of organizations that seek to educate low-income families about nutrition -- for example, First 5 Los Angeles and Roots of Change -- however, there are none that focus on the culinary skills. Studies show that many people still regard healthy cooking as expensive, difficult and time-consuming. This project would be the first organization to tackle that false belief head-on. Our program could provide a valuable partnership for these organizations, because our cooking demonstrations would complement the types of education that they provide.\r\n\r\nThere are national organizations that work towards better cooking education among low-income communities -- Cooking Matters is a good example -- but none that have a mobile environment for their education. \r\n\r\nBased on our research, we believe this would a first not only for Los Angeles but for the country. \r\n"
-  cost: "We anticipate that $100,000 would cover the majority of our expenses nicely for the year. Costs beyond that amount would likely be in our ongoing expenses -- ingredients and gas. Once we have established ourselves as a valuable community resource, these costs could be covered by sponsors and community partners. For example, a supermarket could provide ingredients in exchange for logo recognition, and a particular event interested in our participation could provide money for gas. \r\n\r\nThese types of sponsorships and contributions are how we intend to fund the project for the long-term. In the short-term, the LA2050 would be invaluable with our startup costs as well as establishing ourselves as a program deserving of such sponsorships. \r\n"
-  budget: "Truck - $15,000\r\nRetrofitting - $5,000\r\nOngoing ingredients - $20,000\r\nGas - $10,000\r\nParking and incidentals - $5,000\r\nInsurance, licensing and other regulatory needs - $5,000\r\nSalaries - $40,000\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

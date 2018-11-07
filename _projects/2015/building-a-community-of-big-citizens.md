@@ -18,8 +18,8 @@ project_video: 'https://www.youtube.com/embed/W8wBA--Vo8o'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: LA2050 Newsletter & the Goldhirsh Foundation
   Organization(s) name(s): Big Citizen HUB
   Organization(s) mailing address(es): '1000 N. Alameda St. Suite 240, Los Angeles, CA 90012'
   Organization(s) website(s): www.bigcitizenhub.org/
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: LA2050 Newsletter & the Goldhirsh Foundation
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -150,15 +150,6 @@ maker_answers:
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
     While we do not have any official partners for LA2050, the grant award will
     allow us to collaborate with 40+ community organizations in 2016.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    This project totals just under $493,000 in estimated expenses. We plan to
-    cover additional costs through a combination of individual contributions,
-    foundation and corporate grants, and special events. In addition, we are
-    launching a second crowdfunding campaign in October 2015. Our first campaign
-    raised $25,000 and we expect to see similar success this year. The goal will
-    be to gain excitement and support around the launch our high school
-    program. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "The $100,000 grant award will be used to increase the size of our middle school program (adding 25 youth) and launching the high school program with 75 youth. Below is the detailed budget needed to increase our impact in 2016:\r\nTeam Leaders (18) = $12,960\r\nProgram Day Supplies = $3751\r\nService Day Supplies = $4,500\r\nPublic Transit = $6,300\r\nPrinting & Postage = $2,851\r\nHealthy Lunches = $12,600\r\nProgram Space Rental - $6,250\r\nProgram Staff (2) - $41,788\r\nAdministration & Operations - $9,000\r\n"
   How do you plan to scale the success of your proposal?: >-
     Big Citizen HUB is structured as a pipeline program for civic engagement. In
     2015 we launched with 75 middle school youth. This proposal will support
@@ -177,8 +168,6 @@ Please list at least one major barrier/challenge you anticipate. What is your st
 Please explain how you will evaluate your work.: '#N/A'
 Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/building-a-community-of-big-citizens/img.youtube.com/vi/W8wBA--Vo8o/maxresdefault.jpg

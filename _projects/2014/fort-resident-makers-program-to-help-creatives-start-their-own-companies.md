@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: Los Angeles
   org_website: 'http://fortgoods.com/'
   org_twitter: 'https://twitter.com/fortgoods'
   org_facebook: 'https://www.facebook.com/FORTgoods'
@@ -75,7 +75,7 @@ maker_answers:
   org_name: FORT
   metrics_create_arts: '1'
   metrics_create_manufacturing: '1'
-  metrics_create_researchgrant: '0'
+  city_state: Los Angeles
   metrics_create_patents: '1'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '1'
@@ -115,13 +115,6 @@ maker_answers:
     operational with in 8 months time.  
   major_challenges: "FORT currently operates as a small business with a smaller customer base.  We anticipate some growing pains especially in the operations department of scaling up.  We have already connected with operations management consultants and found one that would be perfect for the job!  She has ten years of experience in both non-profit and for profit.  She loves the concept behind FORT and is excited to work with us if given the opportunity.  We would hire her for the onset of this new operation so that she could give us her expertise in this area.\r\n\r\nOften times there is a lot of excitement generated in the beginning of a project and then that energy tends to fizzle out.  We want to ensure that this project will be one that will carry us into the future of LA making it the best place to Create.  In order to do so we will use the aforementioned OKR's to track everyones progress as well as create individual and dynamic operational goals.  This will generate a continuous excitement.  There will also be new Makers coming in every month, with new ideas and designs keeping everything fresh and full of life.\r\n\r\n\r\n"
   competition: "Unique Space LA- a co-work space offering private rented offices, and  event rental space. They have bikes for coworkers and tenants to borrow, a fully-equipped kitchen, an arts/design and entrepreneurship resource library and lounge, and a boardroom that can be booked for meetings and presentations.\r\nThis is similar to our project in that it focuses on entreprenuers and they have resources for them.  We differ in how much more we will offer our makers and at what cost.  To be a part of Unique Space you have to have capital to rent the space.  We are not charging our Makers. Instead we will ask that they give back to the community through workshops and that a portion of the revenue that comes from the sales of their product will go back into FORT to offset costs.  It comes at a much less greater risk to the Maker with much higher rewards.  \r\nThe Hub- same as Unique Space, requiring membership, but they operate globally and neither have a focus on using reclaimed materials, giving workshops, providing a platform to sell and launch from, or continued education through mentorships.  \r\n"
-  cost: >-
-    This amount will cover the costs of launching our new Resident Maker's
-    Program, but to continue to function and grow beyond the year 2050 any
-    operation would need more than $100,000.  Beyond the money from this grant,
-    FORT will be self-sustainable through revenue made from sales of goods
-    online and through the retail section of the workspace. 
-  budget: "                                                       BUDGET\r\n\r\n\r\nMACHINERY\r\n\r\nWater Jet Cutter     $5,400\r\n\r\n3D Printer   $6,500\r\nStartup materials for 3D printer $3500\r\n\r\nWelder $5,600\r\nStartup materials for Welder $800\r\n\r\nProtective gear for Welding $400\r\n\r\nAuto Darkness Helmet $375 \r\n\r\nTable Saw $600\r\n\r\nPlaner $600\r\n\r\nDrill press  $1800\r\n\r\nLeather machine  $1,300\r\n\r\nHand tools $1,000\r\n\r\nPop-up Workshop  $800\r\nBasic Tool Kit\r\n\r\n\r\nBUILDOUT\r\n\r\nPaint $500\r\n\r\nShelving $2500\r\n\r\nCasters $500\r\n(we will apply to all big pieces so that space is easy to transform)\r\n\r\nRacks $1500\r\n\r\nLighting  $1000\r\n\r\nMove in cost/deposit  $10,000\r\n\r\n \r\nMEDIA\r\n\r\nComputer for Design  $2000\r\n\r\nComputer software $1500\r\n(CAD, Photoshop, ect)\r\n\r\nProjector $1200\r\n\r\nProjection Screen $200\r\n\r\nHD Camera  $3500\r\nLenses   $1300\r\nBackdrops  $500\r\nSoft Box $200\r\n(for product shoots)\r\n\r\nSIGNAGE\r\nFORT $1500\r\n\r\nPopup Workshop Signage $800\r\n\r\nWrap for Truck $600\r\n\r\nSERVICES\r\n\r\nLegal      $3500\r\n(Necessary Waivers and Agreements) \r\n\r\nOperations Consultant  $6,000\r\n\r\nGraphic Designer $1000\r\n(For FORT brand integration with Makers Program)\r\n\r\nWeb Designer $5000\r\n(for upgrade to current site to be able to handle new Maker Marketplace)\r\n\r\n\r\nPR & Marketing $2500\r\n\r\nTRANSPORTATION\r\nTransportation costs   $900\r\nfor Popup Workshops  \r\n\r\nTruck   $18,000\r\n(for Transporting Raw Materials)\r\n\r\nLicense, Registration $400\r\n\r\n\r\nOTHER\r\n\r\nMiscellaneous materials, tools, fees, services or additional costs\r\n$4,725\r\n\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

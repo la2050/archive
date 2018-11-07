@@ -23,8 +23,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_learn_communitycollege: '1'
   collaboration: "University of Southern California (confirmed)\r\n\r\nUniversity of California at Los Angeles (preliminary discussions)\r\n\r\nCalifornia Community Colleges Initiative - Doing what Matters For Jobs and the economy (http://doingwhatmatters.cccco.edu/) - (preliminary discussions)\r\n\r\nLA Unified School District (preliminary discussions)"
-  metrics_learn_earlyeducation: '0'
   org_website: www.theprepsource.com
   org_twitter: 'https://twitter.com/theprepsource'
   org_facebook: 'https://www.facebook.com/theprepsource'
@@ -66,7 +66,7 @@ maker_answers:
   who_benefit: "1.  High school students - help high school students figure out which school is a great fit for them based on their passions and future goals (even if the goals are uncertain)\r\n\r\n2.  College students - help students prepare to build skills and experience early to get internships and subsequently a full time job\r\n\r\n3.  Career transitioners - help people see that they do not have to be stuck in the same job for 10 years just because that is all they have done.  There are transferrable skills that one can market and new and emerging industries where no one yet has experience in that field.  We can help guide people to career paths they did not foresee as possible."
   about_you: 'Santa Monica, CA'
   org_name: The Prep Source
-  metrics_learn_communitycollege: '1'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '1'
   metrics_learn_graduationrates: '0'
   metrics_learn_proficiency: '0'
@@ -90,8 +90,6 @@ maker_answers:
   achievable_goal: "After launching the first prototype 7 weeks ago we have already had a preliminary set of mentoring sessions with kids getting jobs and interviews they had trouble getting.  We have solicited and incorporated customer and potential customer feedback and iterated their feedback our development process over 10 times to refine the website to better fit their needs. We already have a product that we just need to continue to build upon and have come a long way in only 7 weeks.\r\n\r\nWe have spent only $6,000 to get to the point of already helping students and pull in users.  We know that with $100,000 we can automate processes allowing us more time to build product awareness, scale the project, and serve more people."
   major_challenges: "Scaling the technology solution from present state to future state will require a well thought out technology solution.  I plan to overcome this challenge as I feel that the budget of $100,000 is enough to get the right staff and I have the execution timeline setup where this timeline is very plausible.\r\n\r\nEducating the market on the necessity of career prep.  So far our solution to that is giving presentations and approaching students on college campuses.  Partnerships with the school districts and universities will grow awareness more quickly, this starts with administration for high schools, parents, teachers, and student organizations.\r\n\r\nBy giving career presentations, resume workshops, and calling institutions we have been able to draw in users.  Word of mouth is very powerful as well, and we plan on having students bring awareness to their students this way.\r\n\r\n"
   competition: "Google Helpouts has overlap into this space but is not specific to education and careers so it lacks user adoption.  Furthermore, the structure and setup process make it difficult to create a robust and large marketplace.\r\n\r\nOther similar online advisory sites exist but most are very much focused on finance and consulting careers and targeted towards affluent audiences.  There are a vast number of careers out there we want to help everyone achieve their goals regardless of what career path or industry they are interested in.\r\n\r\nThe technology used for other sites is very antiquated compared to our plan for technology implementation.\r\n\r\nSimilar organizations are not targeting handling the entire \"career lifecycle\" from the high school age, university major selection, internships, and career advancement/transition well into their careers."
-  cost: "Additional Cost type:\r\n\r\nLabor and General and Administrative cost solutions:\r\n-Giving equity ownership to employees in place of compensation\r\n-Raising money through outside investment\r\n-Government grants (National Science Foundation Cybertechnology)\r\n-Pitch Contests at universities and others\r\n-Personal spend\r\n-Family and friends\r\n\r\nOperating costs\r\n-SBA Small Business Loan"
-  budget: "Chief Technology Officer (Web Developer/Data Scientist) Salary: $70,000\r\nPart-time student workers as business development, student ambassadors, some coding, marketing (across LA campuses and high schools): $10,000\r\nWeb hosting through Amazon Web Services: $2000\r\nCustomer Support: $3000 (support hours calculated per 1000 users)\r\nLegal fees: $5000 (minimizing from use of USC incubator program)\r\nMarketing:  $5000 for YouTube advertising (most cost effective among paid online advertising)\r\nBuffer: $5000\r\n\r\nNotes:\r\nOffice Space: $0 - using University of Southern California shared space\r\nNo monetary compensation for founders for year 1\r\nLegal Fees: minimized due to partnerships from USC programs"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

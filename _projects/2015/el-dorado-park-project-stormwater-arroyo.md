@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - San Fernando Valley
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: Work Email
   Organization(s) name(s): Mountains Recreation and Conservation Authority
   Organization(s) mailing address(es): "570 West Avenue Twenty-Six, Suite 100\r\nLos Angeles, CA 90065"
   Organization(s) website(s): www.lamountains.com
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Work Email
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -172,24 +172,6 @@ maker_answers:
     Project’s planning, design and implementation. The project is also supported
     by State Senator Alex Padilla, Assembly member Felipe Fuentes, and the
     National Park Service.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The cost of the water quality treatment element for the project is $250,000.
-    MRCA currently has $150,000 for the construction of this element. The LA
-    2050 $100,000 grant would be the bridge to close the funding gap. This
-    funding will help to ensure that we are able to capture, treat and
-    infiltrate polluted stormwater from the neighborhood streets and prevent it
-    from entering into the Pacoima Wash. It will also help to replenish our
-    groundwater supply. This will have a considerable effect on the future
-    quality and quantity of water in LA. This project is also being funded
-    through a grant from the Santa Monica Mountains Conservancy. All efforts
-    will be made to keep the project within the allocated funding. If costs
-    exceed projections, we would use a creative value engineering process to
-    identify alternative ways to complete the scope. In past projects, MRCA
-    successfully reduced costs without eliminating features by substituting
-    materials, and simplifying construction methods. The requested funding
-    amount is small but this small amount will add great value to this new
-    community park resource.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "If awarded the $100,000 for the stormwater treatment portion of the project will be divided as such:\r\n\r\nProject Management Staff Time/Construction Management: $25,000\r\nLabor (construction of forebay, swales, basins): $18,000\r\nMaterials (gravel, sand, soil, boulders, pipes): $44,500\r\nEquipment rental (excavator, trucks): $12,500"
   How do you plan to scale the success of your proposal?: "The MRCA will put into motion a desire and need for more multiple benefit parks in an already park poor Los Angeles. An obvious measure of the park’s success will be its frequent use by the public and the fact that this currently vacant and deteriorated site will become an active and beautiful place for people to enjoy. There is currently a large desire and need to increase open space by transforming vacant lots throughout Los Angeles into spaces that the public can utilize and activate. The mere creation and use of this park will be a major success and a step in the right direction to live in a clean Los Angeles.  \r\nEl Dorado Park will not only improve the quality of life in the surrounding community but will have a greater impact through the improvement of it’s water quality. Once El Dorado Park is finished it will be maintained by the City of Los Angeles Department of Recreation and Parks. We hope that by building this resilient multiple benefit park it will influence the City of Los Angeles to continue the effort in creating more similar parks that can improve the quality of life all over Los Angeles.\r\n"
 areas_impacted: ''
 partners: ''
@@ -263,18 +245,6 @@ Are there other organizations doing similar work (whether complementary or compe
    o Hollywood United Neighborhood Council – the neighborhood council in which this project is located.
    
    If awarded, the full $100,000 would be allocated to the MRCA to implement the park project. Our agency and community partners would continue to participate in the planning, design and implementation of the project.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The total estimated cost to construct the Franklin-Ivar Park project is $1.6
-  million. We currently have $1.2 million in funding from California State Parks
-  Proposition 84 grant and California Natural Resource Agency through an Urban
-  Greening grant. The requested $100,000 will help MRCA to supplement the
-  funding shortfall and allow us to construct the park sooner.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  1. Project Management / Construction Management : $20,000 
-   2. Site Preparation : $10,000 
-   3. Adventure Play Area : $35,000 
-   4. Fencing/Gate(s): $25,000 
-   5. Electrical: $10,000
 How do you plan to scale the success of your proposal?: >-
   The obvious measure of the park’s success will be its frequent use by the
   public and the simple fact that this currently vacant and derelict site will

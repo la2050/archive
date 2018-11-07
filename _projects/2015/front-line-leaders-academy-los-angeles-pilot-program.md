@@ -19,10 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: >-
-    As an applicant last year, we continued to keep ourselves informed about the
-    LA2050 challenge through the year to apply again this year!
   Organization(s) name(s): People for the American Way Foundation
   Organization(s) mailing address(es): '1101 15th Street NW #600, Washington, DC 20005'
   Organization(s) website(s): www.pfaw.org
@@ -73,7 +71,9 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: >-
+    As an applicant last year, we continued to keep ourselves informed about the
+    LA2050 challenge through the year to apply again this year!
   'City, State': 'Washington, DC'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -150,28 +150,6 @@ maker_answers:
     recruitment and to serve as mentors and/or trainings and speakers during the
     eight-month training.  These partnerships are informal and these
     organizations will give of their time and resources on a volunteer basis.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    This project consists of two components: 1) recruiting and training 20 young
-    leaders from Los Angeles County for the 2015 FLLA-LA class and 2) offering
-    enhanced alumni programming for the graduates of the 2014 FLLA-LA class. 
-    Estimated costs for recruiting and training the 2015 FLLA-LA class, the
-    first part of this project, are $160,000.  This budget includes staff
-    support; travel, meals and lodging for the 20 participants, trainers and
-    staff; consulting fees for trainers; and printing and production of training
-    materials.  Several funders have already committed their support for this
-    part of the project including Annenberg Foundation ($50,000), California
-    Community Foundation ($25,000) and McGrath Abrams Foundation $10,000); and
-    we are continuing to identify potential funders to cover the remaining
-    costs.  The estimated costs for our project’s second part, providing support
-    to graduates of the 2014 FLLA-LA class, are $118,000.  This budget includes
-    additional training; travel, meals and lodging for the FLLA grads, trainers
-    and staff; consulting fees for trainers; and printing and production of
-    training materials.  We are currently identifying potential funders for this
-    phase of the project.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-    If granted $100,000 through LA2050, we will use $75,000 toward recruiting
-    and training the 2015 class of FLLA-LA class and $25,000 toward supporting
-    graduates of the 2014 FLLA-LA class.
   How do you plan to scale the success of your proposal?: "While there are no formal plans to scale the success of FLLA-LA, the program itself provides a natural scaling effect due to the long-term effects of investing in leadership development and the work these leaders will undertake for years to come. It is our hope that FLLA-LA graduates will remain in Los Angeles and will build upon their successes toward improving interconnectedness in the Los Angeles community. These young leaders will pursue issue advocacy work, electoral advocacy work, and neighborhood- and community-based coalition building toward creating fundamental changes in the community. More important than the initial returns from the program is the capacity these young leaders now have to advocate for change in the long-term with the varied skills acquired from the FLLA-LA program.\r\n\r\nSince its inception in 2006, FLLA has launched the careers of 136 young leaders: 73 percent of FLLA graduates have gone on to hold leadership roles in nonprofits and community groups; 65 percent have increased civic participation through work on issue-based or electoral campaigns; and 20 percent have subsequently run for local elected office (59 percent of these won their races). The skills attained during the FLLA-LA will allow these young leaders to ascend to positions of influence in the community, thus allowing them to work to improve the community from within. An investment in FLLA-LA is an investment in developing local leaders in the Los Angeles community who desire to create change from within. FLLA graduates possess versatile skill sets that enable them to work in varied ways toward improving the community. Furthermore, the graduates apply these skills in their work well beyond their final moments of instruction – graduation from FLLA-LA marks the beginning of a career’s worth of civic engagement work and community enrichment."
 areas_impacted: ''
 partners: ''
@@ -246,28 +224,6 @@ Are there other organizations doing similar work (whether complementary or compe
   and/or trainings and speakers during the eight-month training. These
   partnerships are informal and these organizations will give of their time and
   resources on a volunteer basis.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  This project consists of two components: 1) recruiting and training 20 young
-  leaders from Los Angeles County for the 2015 FLLA-LA class and 2) offering
-  enhanced alumni programming for the graduates of the 2014 FLLA-LA class.
-  Estimated costs for recruiting and training the 2015 FLLA-LA class, the first
-  part of this project, are $160,000. This budget includes staff support;
-  travel, meals and lodging for the 20 participants, trainers and staff;
-  consulting fees for trainers; and printing and production of training
-  materials. Several funders have already committed their support for this part
-  of the project including Annenberg Foundation ($50,000), California Community
-  Foundation ($25,000) and McGrath Abrams Foundation $10,000); and we are
-  continuing to identify potential funders to cover the remaining costs. The
-  estimated costs for our project’s second part, providing support to graduates
-  of the 2014 FLLA-LA class, are $118,000. This budget includes additional
-  training; travel, meals and lodging for the FLLA grads, trainers and staff;
-  consulting fees for trainers; and printing and production of training
-  materials. We are currently identifying potential funders for this phase of
-  the project.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  If granted $100,000 through LA2050, we will use $75,000 toward recruiting and
-  training the 2015 class of FLLA-LA class and $25,000 toward supporting
-  graduates of the 2014 FLLA-LA class.
 How do you plan to scale the success of your proposal?: >-
   While there are no formal plans to scale the success of FLLA-LA, the program
   itself provides a natural scaling effect due to the long-term effects of

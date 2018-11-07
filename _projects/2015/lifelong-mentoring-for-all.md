@@ -20,8 +20,8 @@ project_areas:
   - Central LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): "3502 Watt Way, ASC 103 (University of Southern California, Annenberg Innovation Lab)\r\nLos Angeles, CA 90089"
   Organization(s) website(s): www.MentorMint.com
   Organization(s) twitter handle(s): www.twitter.com/MentorMint
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): MentorMint
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
@@ -141,8 +141,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "-Measure the number of high school students on the platform who enter postsecondary education compared to their peers who are not in the program.\r\n-Compare the number of community college students who receive certificates or transfer to 4-year universities relative to their peers who are not in the program\r\n-Measure the parental engagement in student learning and professional development from both the number signed up and the length of time they're engaged.\r\n-The number of video mentoring sessions that take place, the number of questions that are posted and answered on the forum.\r\n-Job placement rate of students after graduation compared to previous years\r\n-Self-reported income of students/adults on the platform relative to their peers\r\n-Number of students signed up \r\n-The amount of participants, how engaged they are, how many students give back\r\n-Student feedback on the program and platform"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Yes, MicroMentor.org (competitive), numerous job boards, tutoring services, independent mentors, recruitment agencies (complementary).\r\n\r\nStrengthen and centralize the entire academic and career ecosystem into one place to better utilize and resources. Other mentoring areas are highly fragmented and only serve small pockets and many don't allow for peer mentoring. We are unique in that we already have existing partnerships within high schools, community colleges, universities, and large corporations.\r\n\r\nSince we are not in the placement industry we can actually work with recruitment firms and other employers in adding them to the platform so students can have a funnel to go from education directly into the workforce.\r\n\r\nBringing mentoring, ask me anything, and job boards into one place can bring together the community knowledge and connections necessary to gain employment in areas people love to be in.\r\n\r\nSimplifying the mentoring process of matching and reducing the overhead by providing video functionality, instant messaging, message boards, simple matching, forums where students can ask any question, and library of career information in one place.\r\n\r\nCreating specific to pathways from what students study in school to the long term skills needed to build into the eventual job they would like to secure. Tools for lifelong learning and assessment.  The platform is free for students and mentors."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "We have existing partnerships with Community Colleges, High Schools, and four year universities throughout LA focusing on creating pathways to each successive level to bring students from high school into professional career paths focusing on technology and digital media.\r\n\r\nWe will continue building out those relationships to work with every school and every student.\r\n\r\nOther partnerships including small businesses and large corporations to serve as mentors.\r\n\r\nNo other partners need to receive pieces of the grant award."
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "No additional costs: Customization of mentoring portal and additional development included, 3 years of technology maintenance\r\n\r\nMaintenance costs for the next 3 years are paid up front with the $100,000 so no additional costs additional to incur.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$20,000 for 3 years of technology maintenance supporting servers, code maintenance, and upgrades\r\n\r\n$70,000 to create a custom mentoring portal for the City of LA\r\n\r\n$10,000 for part time coordinator to contact local businesses to onboard and create partnerships"
   How do you plan to scale the success of your proposal?: "Building awareness and partnerships with the following:\r\n\r\n-Continuing adding schools to our partnership list by meeting with education and business leadership throughout LA\r\n-LA2050 backing and branding will definitely speed up partnerships across all LA educational institutions, small businesses, and locally based corporations. Just the LA2050 brand alone accelerates the process.\r\n-Promoting mentoring program among students, parents, and associations throughout LA.\r\n-Reach out to key stakeholders through in person meetings, phone, online channels, maintaining a physical presence at LA citywide events, institutional partnerships\r\n-Adding value to education institutions and non-profits throughout LA to continue growth and serving the needs of stakeholders\r\n-Partner with after school programs\r\n-Draw from the own LA community of student leaders to act as ambassadors to drive growth throughout their own peers also generating organic growth\r\n-Articles and publications that can be spread through various social media channels"
 areas_impacted: ''
 partners: ''
@@ -210,18 +208,6 @@ Are there other organizations doing similar work (whether complementary or compe
    Other partnerships including small businesses and large corporations to serve as mentors.
    
    No other partners need to receive pieces of the grant award.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  No additional costs: Customization of mentoring portal and additional
-  development included, 3 years of technology maintenance
-   
-   Maintenance costs for the next 3 years are paid up front with the $100,000 so no additional costs additional to incur.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  $20,000 for 3 years of technology maintenance supporting servers, code
-  maintenance, and upgrades
-   
-   $70,000 to create a custom mentoring portal for the City of LA
-   
-   $10,000 for part time coordinator to contact local businesses to onboard and create partnerships
 How do you plan to scale the success of your proposal?: |-
   Building awareness and partnerships with the following:
    

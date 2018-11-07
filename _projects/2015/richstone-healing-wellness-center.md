@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/gRaTc3pZvug'
 project_areas:
   - South Bay
 maker_answers:
+  'City, State': 'Hawthorne, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: Email
   Organization(s) name(s): Richstone Family Center
   Organization(s) mailing address(es): '13620 Cordary Avenue, Hawthorne, CA 90250'
   Organization(s) website(s): www.RichstoneFamily.org
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Hawthorne, CA'
+  How did you hear about this challenge?: Email
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -152,13 +152,6 @@ maker_answers:
     to meet the unique needs of our target population. Fees for services will be
     negotiated on a case-by-case basis dependent upon the scope of services
     provided. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Total startup costs for the first year are estimated at $1,557,097, which
-    includes the construction of the Healing and Wellness facility.  We are
-    currently pursuing support from several foundations and launching a
-    strategic capital campaign to help cover the additional costs associated
-    with the project.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Administrative & Program Staff $895,779\r\nBuilding Construction $500,000\r\nSupplies & Materials $13,500\r\nFurnishings & Technology $63,000\r\nStaff Development/Training $14,000\r\nOperating Costs (insurance, utilities, etc) $70,818"
   How do you plan to scale the success of your proposal?: >-
     When the project is successful and sustainable, we will explore the
     possibility of expanding services and/or replicating the project's programs
@@ -224,19 +217,6 @@ Are there other organizations doing similar work (whether complementary or compe
   meet the unique needs of our target population. Fees for services will be
   negotiated on a case-by-case basis dependent upon the scope of services
   provided.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Total startup costs for the first year are estimated at $1,557,097, which
-  includes the construction of the Healing and Wellness facility. We are
-  currently pursuing support from several foundations and launching a strategic
-  capital campaign to help cover the additional costs associated with the
-  project.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Administrative & Program Staff $895,779
-   Building Construction $500,000
-   Supplies & Materials $13,500
-   Furnishings & Technology $63,000
-   Staff Development/Training $14,000
-   Operating Costs (insurance, utilities, etc) $70,818
 How do you plan to scale the success of your proposal?: >-
   When the project is successful and sustainable, we will explore the
   possibility of expanding services and/or replicating the project's programs at

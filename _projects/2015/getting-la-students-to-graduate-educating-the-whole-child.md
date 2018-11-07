@@ -23,8 +23,8 @@ project_areas:
   - Westside
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): "c/o Creative Artists Agency\r\n2000 Avenue of the Stars\r\nLos Angeles, CA 90067"
   Organization(s) website(s): www.cislosangeles.org
   Organization(s) twitter handle(s): www.twitter.com/cislosangeles
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Communities In Schools of Los Angeles
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -181,14 +181,6 @@ maker_answers:
     representatives, and professionals working in the nonprofit and academic
     fields. The work of all of these organizations will be independently funded
     by their own 501(c)3 fundraising efforts.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    CISLA’s program in total will cost approximately $3 million dollars. This
-    includes overhead and administrative costs, as well as the program costs for
-    personnel, supplies, field trips, and incentive materials. If this grant is
-    awarded, CISLA will fund the rest of its work through a variety of
-    foundation grants (about 25-30% of its budget), government grants (10%),
-    special events (25%), and individual contributions (35%).
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "All $100,000 will be used for personnel salaries for our trained Site Coordinators, ensuring that they are able to remain on campus full-time to support the needs of students. We will allocate the grant monies as follows:\r\n\r\n$25,000 x 4 Site Coordinators FTE (partial salaries)\r\n\r\nAll grant monies will be used directly for this purpose and will not be reallocated by the organization."
   How do you plan to scale the success of your proposal?: >-
     If this proposal is successful, CISLA will scale its success by dedicating
     resources to spreading the word about our work and diversifying our funding
@@ -253,23 +245,6 @@ Are there other organizations doing similar work (whether complementary or compe
    • TRUST South LA - $25,000
    • NRDC - $25,000
    • SUMC - $25,000
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We believe that urgency and opportunity of this proposal will necessitate an
-  investment of $250,000. However, given the participation of the partners in
-  the LA City’s grant funds for Phase 1, this proposal is able to leverage the
-  resources available for community, public/government engagement and
-  stakeholder engagement to expand the analysis and outreach into South and
-  Southeast LA communities for minimal additional cost. 
-   
-   All told, an expansion of car and bikesharing systems alone (not to mention ridesourcing and car/vanpooling) could mean anywhere from a $3 – 10 Million initial investment in these communities, and the Shared Mobility Plan would be the first step towards advocating for these investment of these resources in South and Southeast LA. A solid plan that comes from the community will be critical to securing public resources and inducing private investment.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  I. Project Management - $13,744
-   II. Community Engagement - $34,161
-   III. Public Sector Engagement - $18,681
-   IV. Private Sector Engagement - $3,000
-   V. Analysis & Feasibility Study - $11,875
-   VI. Social Media - $4,772
-   VII. Drafting Shared Mobility Plan - $13,765
 How do you plan to scale the success of your proposal?: >-
   Phase 1 of the LA City EV low income car share project created the momentum
   that allowed community-based organizations to consider a scope of this

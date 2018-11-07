@@ -20,8 +20,8 @@ project_areas:
   - Westside
   - LAUSD
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: Web search
   Organization(s) name(s): Motor Avenue Improvement Association
   Organization(s) mailing address(es): "3751 Motor Avenue Suite 341248\r\nLoos Angeles CA 90034"
   Organization(s) website(s): www.MotorAssociation.org
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Web search
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -170,12 +170,6 @@ maker_answers:
     innovations) as well achieve a safe,sustainable, and fun place that
     encourages the growth of our students. All monies go directly to the
     gardens.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    MAIA is in need of this proper funding in order to complete our network. We
-    are in the final stages of development of the network.  We have 100,000 from
-    the County, private donations of almost another 100,000 and need this to
-    complete the effort.  
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Grant Scope/Cost Estimate Form\t\t\t\t\t\r\nProject Name:                                                                                                                         \tMotor Avenue Farmers Market & Urban Garden Program\t\tGrant #:                                                      \t\t\r\n\t\t\t\t\t\r\nGrant Scope \t\t\t\t\t\r\nFunds will be used for expanding and building seven educational open space gardens at local schools and in the Palms neighborhood. \t\t\t\t\t\r\n\t\t\t\t\t\r\nGrant Scope Items - Administration (Pre-Construction)                                 (Maximum: 25% of grant amount)\t\tProp A Grant\tOther Sources\t\tTotal\r\nGarden Coordination (900 hours x $25 (comp & overhead))\t\t $22,500.00 \t\t\t $22,500.00 \r\n\t\t\t\t\t $-   \r\n\t\t\t\t\t $-   \r\nSubtotal - Pre-Construction\t\t $22,500.00 \t $-   \t\t $22,500.00 \r\nGrant Scope Items -  Construction or Acquisition                                         (Minimum: 75% of grant amount)\t\tProp A Grant\tOther Sources\t\tTotal\r\nAt-Risk Youth Employment\t\t $113,248.00 \t\t\t $113,248.00 \r\nGarden Mat"
   How do you plan to scale the success of your proposal?: >-
     We will offer programs to all communities to replicate this successful
     program.
@@ -235,26 +229,6 @@ Are there other organizations doing similar work (whether complementary or compe
   to meet California drought conditions (through current technological
   innovations) as well achieve a safe,sustainable, and fun place that encourages
   the growth of our students. All monies go directly to the gardens.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  MAIA is in need of this proper funding in order to complete our network. We
-  are in the final stages of development of the network. We have 100,000 from
-  the County, private donations of almost another 100,000 and need this to
-  complete the effort.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Grant Scope/Cost Estimate Form 
-   Project Name:  Motor Avenue Farmers Market & Urban Garden Program Grant #:  
-   
-   Grant Scope 
-   Funds will be used for expanding and building seven educational open space gardens at local schools and in the Palms neighborhood. 
-   
-   Grant Scope Items - Administration (Pre-Construction) (Maximum: 25% of grant amount) Prop A Grant Other Sources Total
-   Garden Coordination (900 hours x $25 (comp & overhead)) $22,500.00 $22,500.00 
-   $- 
-   $- 
-   Subtotal - Pre-Construction $22,500.00 $-  $22,500.00 
-   Grant Scope Items - Construction or Acquisition (Minimum: 75% of grant amount) Prop A Grant Other Sources Total
-   At-Risk Youth Employment $113,248.00 $113,248.00 
-   Garden Mat
 How do you plan to scale the success of your proposal?: >-
   We will offer programs to all communities to replicate this successful
   program.

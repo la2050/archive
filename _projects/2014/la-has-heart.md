@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: 'Pasadena, CA'
   org_website: www.hollywoodheart.org
   org_twitter: www.twitter.com/hollywdheart
   org_facebook: www.facebook.com/hollywoodheart
@@ -72,7 +72,7 @@ maker_answers:
   org_name: Hollywood HEART
   metrics_create_arts: '0'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: 'Pasadena, CA'
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '0'
@@ -103,8 +103,6 @@ maker_answers:
     of contacts, Hollywood HEART as an organization may also help leverage the
     artist’s talents and connect them with various organizations and
     individuals.
-  cost: '$100,000'
-  budget: "Music: 5 programs: $10,000\r\nDocumentary Filmmaking: 5 programs: $20,000\r\nVisual Arts: 5 programs: $10,000\r\nFashion: 5 programs: $10,000\r\nDance: 5 programs: $10,000\r\nCreative writing: 5 programs: $10,000\r\nActing: 5 programs: $10,000"
   resources_money: '0'
   resources_staff: '0'
   resources_publicity: '0'

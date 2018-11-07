@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/MkTQQ0m8Ys8'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: We participated last year.
   Organization(s) name(s): T4T.org
   Organization(s) mailing address(es): "12815 S Western Ave.\r\nGardena, CA 90249"
   Organization(s) website(s): T4T.org
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: We participated last year.
   'City, State': 'Gardena, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -157,15 +157,6 @@ maker_answers:
     meet with our musicians and budding orchestra. This money will be spent in
     Los Angeles on local talent for making the instruments and training the
     orchestra for performances.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We at T4T.org have become experts at working within our budgets. We know how
-    to bring talent to the table with materials to accomplish what others might
-    see as impossible. This challenge excites us and brings the best we have to
-    offer in staff and volunteers to this project. We expect to make this happen
-    with the $100,000 awarded. The Orchestra will be ready to perform free
-    concerts in a year with the assistance of the music community, T4T.org
-    staff, and material from the manufacturing community of Los Angeles.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "CREATE                       Budget                       $100,000.00\r\n\r\nSalaries\t\r\nProgram Designer (part-time)\t                  20,000.00\r\nConductor (part-time)\t                                  20,000.00\r\nInstrument Engineer (part-time)\t                  20,000.00\r\n\r\nGuest Speakers\t\r\nHonorarium for Maestro Favio Chavez          7,500.00\r\n\r\nEvent planning\t\r\nCulminating Concert\t                                 10,000.00\r\n\r\nScholarships\t\r\nStipends for graduating participants\t           5,000.00\r\n\r\nTools & Materials\t\r\nSpecialty Supplies\t                                         10,000.00\r\nSheet Music\t                                                   2,500.00\r\n\r\nUtilities\t\r\nElectricity, Space, Printing, etc.\t                  5,000.00\r\n\r\n\r\nTOTAL\t                                                    $100,000.00\r\n\r\n"
   How do you plan to scale the success of your proposal?: >-
     In the years following the establishment of this Orchestra we will engage
     any other county of city interested in following the path of the LandFill
@@ -216,29 +207,6 @@ Are there other organizations doing similar work (whether complementary or compe
   lucky enough to be awarded the grant, would go toward the vehicle, staff and
   outreach to communities. The material we use will be donated from
   manufacturers who receive a tax receipt as our thank you for their donations.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  At T4T.org we are use to working within a budget. We will buy the truck and
-  hire the staff we need to get started. We will rely on volunteers and
-  manufacturers donations to make up the difference. We don’t go over budget
-  because we don’t have anywhere to draw the money from if we did go over
-  budget. We have learned to work within our means.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  PLAY Budget $100,000.00 
-   
-   Vehicle 
-   14-passenger van  35,000.00
-   Signage  2,500.00
-   Internal Build-Out (shelving, etc.)  2,500.00
-   Salaries 
-   Outreach Coordinator (part-time)  20,000.00
-   Inventory Manager (part-time)  10, 000.00
-   3D Printer/Laser cutter/Tools 10,000.00
-   Visitations 
-   $500 per set up x 30 - 
-   Facilitation/Replenishment  15,000.00
-   Gas/Mileage  5,000.00
-   
-   TOTAL  $100,000.00
 How do you plan to scale the success of your proposal?: >-
   We see this as a pilot project and with the data collected and successes
   measured we will approach a car company to support more vehicles as well as

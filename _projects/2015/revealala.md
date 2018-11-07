@@ -13,8 +13,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Good website
   Organization(s) name(s): Architecture and Design Museum (A+D)
   Organization(s) mailing address(es): "Organization(s) mailing address(es): \r\n900 East 4th Street\r\nLos Angeles, CA 90013"
   Organization(s) website(s): www.aplusd.org
@@ -57,7 +57,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Good website
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -107,11 +107,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Evaluation strategies:\r\n\r\n1. Recording attendance to the planned public events - importantly the attendance of people from outside of the communities\r\n2. Conversations with the community\r\n3. Informal surveys - verbal and written\r\n4. Level of interest in our project from Los Angeles city officials\_\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "The 'ReveaLa La' proposal compliments the Getty's upcoming Pacific Standard Time initiative. The unique element of this proposal is that it is outside of a museum space and will showcases the community's view on their everyday shared environment - rather than precious artifacts. \r\n\r\nWe will create large and small scale 'canvases' that appear in the community and are designed to highlight local appreciation of Latino cultural icons and places.\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "We have assembled a diverse team of cultural advisors from esteemed institutions to help guide us on this project. They include:\r\n\r\n• Juan Felipe Herrera:  Poet Laureate of California\r\n\r\n• Cheech Marin: Actor/Comedian\r\n\r\n• Tom Lutz: Editor in Chief, Los Angeles Review of Books\r\n\r\n• Dr. Catha Paquette: Professor, Latin American Art / Cal State Long Beach\r\n\r\n• Eder Cetina: Los Angeles Art Collective\r\n\r\n• James Rojas: City and Transportation planner / Founder of Place It!\r\n\r\n• Mia Lehrer: Landscape Architect / Mia Lehrer + Associates\r\n\r\nThe A+D Museum also plans to collaborate with LAUSC and we are in the process of finding additional collaborators.\r\n\r\nAt this time we have not determined financial allocations "
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We anticipate the costs to be approximately $100,000. We will look for
-    additional sponsors and support from the deign community associated with the
-    A+D Museum and through additional grants.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "1 - $10k on website and phone app to promote the project and provide outreach and connections between the communities and individuals that will contribute to the project. \_\r\n\r\n2 - 20k on constructing the 'highlighting' frames and backgrounds.\r\n\r\n3 - 20k on printed materials, including the quotes etc that go on the frames and backgrounds as well as the printed cost for the DIY posted that will be sent out to schools and institutions so that they may contribute their own highlighted icon/object.\r\n\r\n3 - 20k on educational programming surrounding some of the places icons and objects. \_Including poetry readings, street parties music etc.\r\n\r\n4 - \_10k on permanent painted metal plaques that will commemorate some of the places and objects highlighted in the project.\r\n\r\n5 - 20k on paid staff positions to design, manage and execute the project.\r\n\r\n\r\n\r\n"
   How do you plan to scale the success of your proposal?: "The success of this proposal will be determined by our ability to connect with the Latino community in a meaningful way. Our plan is to put in place a structured process where this community can express itself and in-turn connect both locally and more broadly with the entire city of Los Angeles.\r\n"
 areas_impacted: ''
 partners: ''
@@ -121,8 +116,6 @@ Please list at least one major barrier/challenge you anticipate. What is your st
 Please explain how you will evaluate your work.: '#N/A'
 Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/revealala/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23861%252Fdisplay%252FAplusD-ReveaLALA.jpg=c570x385.jpg

@@ -22,8 +22,8 @@ project_areas:
   - East LA
   - Westside
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Newsletter
   Organization(s) name(s): Los Angeles Center of Photography
   Organization(s) mailing address(es): "1515 Wilcox Avenue\r\nLos Angeles, CA 90028"
   Organization(s) website(s): www.lacphoto.org
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Newsletter
   'City, State': 'Los Angeles, CA '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -163,18 +163,6 @@ maker_answers:
     their insights over the course of the year.          
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "LACP clearly isn't the only organization offering photography classes to young people in Los Angeles County.  However, many middle and high schools have seen arts education offerings (in general) cut severely, and have only taken small, incremental steps toward restoring them in recent years.  Community centers and some youth-oriented nonprofit arts organizations offer instruction, and some Boys & Girls clubs do as well. (We don’t want to encroach on their work, and are targeting clubs that do not yet have photography programs.)  LACP itself offers digital photography courses for teens.  For students who already aspire to study photography in art school, institutions like Art Center College of Design and Otis College of Art and Design have pre-college and portfolio preparation classes.  But at LACP itself, as well at the colleges, programs are fee-based and students need their own transportation to attend.\r\n\r\nSeveral things combine to create LACP’s unique approach.  First, we are reaching out to youngsters where they already are: in their own neighborhoods, at a safe, trusted after-school site where they can receive the highest-level instruction in an art form with many possible career opportunities.  The in-depth, four-class sequence is unusually comprehensive.  It speaks to their current lives and needs for expression by encouraging them to observe—and honor—their own families, friends and neighborhoods.  Yet instructors will be drawn from LACP’s unique pool of dedicated teachers, who are also committed photographers pursuing their own careers across art and professional photography.  We believe this can have a immediate and potentially life-changing impact on the young people we serve.  \r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "LACP’s partnership with the Boys & Girls Clubs is integral to the mission of this outreach program.  Leading up to this commitment, LACP has worked in collaboration with Spark and Hollywood Heart (organizations that work with underserved youth), KidSave (a group that addresses the special needs of foster children) and Pablove Shutterbug (a group serving children with cancer)—but these were shorter-term activities.  LACP has decided to focus on   these four Boys & Girls Clubs representing a variety of geographic areas in Los Angeles County, and they are enthusiastic about hosting the program.  LACP will administer the funds, and the clubs will provide their venues free of charge.\r\n\r\nVariety Boys & Girls Club of Boyle Heights\r\n1300 Plaza del Sol, Los Angeles, CA 90033\r\nPatricia Siquieros, Executive Director\r\n\r\nBoys & Girls Club of Lincoln Heights\r\n2635 Pasadena Avenue, Los Angeles, CA 90031\r\nJuana Lambert, Executive Director\r\n\r\nBoys & Girls Club of Long Beach \r\nAdministrative Office: 3635 Long Beach Blvd., Long Beach, CA 90807\r\n(Specific site to be chosen among several in this network)\r\nDon Rodriguez, Executive Director\r\n\r\nBoys & Girls Club of Venice\r\n12232 Lincoln Blvd., Venice, CA 90291\r\nMonique Brandon, Executive Director\r\n\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The cost of the four-class sequence at four Boys & Girls Clubs (including
-    the director’s, instructors’ and instructional assistants’ time, digital
-    cameras, computers, projectors, software and instructional materials comes
-    to $88,480.  We estimate the cost of four exhibitions at LACP’s Hollywood
-    galleries to be around $2,500, for an additional $10,000 total.  This venue
-    will be free, and LACP staff will assist instructors and student volunteers
-    in mounting the exhibit. The requested amount will cover direct costs for
-    matting and framing photos, miscellaneous exhibition supplies and
-    refreshments for each reception for students, their families and friends. 
-    So all LA2050 funds will be spent directly on the students’ experience.  
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Based on Four-class Sequence for 15 students at 4 sites\r\n\r\nPersonnel\r\nProgram Director: Julia Dean\t\t\t\t\t\t$    14,000\r\nInstructors:  $100 per class x 40 weeks x 4 sites\t\t      16,000\r\nInstructional assistant, $35 per class x 40 weeks x 4 sites\t5,600      \r\n\r\nEquipment\r\n15 cameras @ $500 x 4 sites\t\t\t                        $   30,000 \r\n27 inch IMac @ $1,800 x 4 sites                                                  7,200\r\nDigital projectors @ $1,000 x 4 sites                                          4,000\r\n\r\nSoftware and Supplies\r\nAdobe Lightroom @ $120 x 4 sites                                    $         480\r\nAdobe Photoshop @ $800 x 4 sites                                           3,200\r\nWork prints (ink and paper) @ $1,500 x 4 sites\t                       6,000\r\n\r\nBooks and Instructional Materials     \t\t\t               $      2,000\r\n\r\n\r\n\r\nExhibition Costs (Estimated)                                              $   10,000\r\n\t\t\t\t\r\nTOTAL\t\t\t\t\t\t\t                              $    98,480\r\n"
   How do you plan to scale the success of your proposal?: "With LACP’s own pool of instructors to draw on, it is easy to envision scaling up the program quite rapidly.  And with 26 Boys & Girls Clubs in Los Angeles County, LACP’s program could be offered to any club that doesn’t already have a photography program.  The Mar Vista Club has already expressed interest, and longer-term plans call for expansion into the San Fernando Valley and South Los Angeles.  We have already applied to offer a shorter version of the program to the LA Unified School District, and are awaiting notification.\r\n\r\nAt the same time, LACP believes it is important to put the Boys & Girls Clubs where we have already made a commitment on a firm financial basis.  If we receive the LA2050 grant in 2016, it will not only allow us to launch the program at four clubs across LA County, we believe the recognition will aid our fundraising for these programs in 2017—as well as plan for further expansion.   \r\n"
 areas_impacted: ''
 partners: ''
@@ -261,42 +249,6 @@ Are there other organizations doing similar work (whether complementary or compe
    Boys & Girls Club of Venice
    12232 Lincoln Blvd., Venice, CA 90291
    Monique Brandon, Executive Director
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The cost of the four-class sequence at four Boys & Girls Clubs (including the
-  director’s, instructors’ and instructional assistants’ time, digital cameras,
-  computers, projectors, software and instructional materials comes to $88,480.
-  We estimate the cost of four exhibitions at LACP’s Hollywood galleries to be
-  around $2,500, for an additional $10,000 total. This venue will be free, and
-  LACP staff will assist instructors and student volunteers in mounting the
-  exhibit. The requested amount will cover direct costs for matting and framing
-  photos, miscellaneous exhibition supplies and refreshments for each reception
-  for students, their families and friends. So all LA2050 funds will be spent
-  directly on the students’ experience.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Based on Four-class Sequence for 15 students at 4 sites
-   
-   Personnel
-   Program Director: Julia Dean $ 14,000
-   Instructors: $100 per class x 40 weeks x 4 sites  16,000
-   Instructional assistant, $35 per class x 40 weeks x 4 sites 5,600 
-   
-   Equipment
-   15 cameras @ $500 x 4 sites  $ 30,000 
-   27 inch IMac @ $1,800 x 4 sites 7,200
-   Digital projectors @ $1,000 x 4 sites 4,000
-   
-   Software and Supplies
-   Adobe Lightroom @ $120 x 4 sites $ 480
-   Adobe Photoshop @ $800 x 4 sites 3,200
-   Work prints (ink and paper) @ $1,500 x 4 sites  6,000
-   
-   Books and Instructional Materials   $ 2,000
-   
-   
-   
-   Exhibition Costs (Estimated) $ 10,000
-   
-   TOTAL  $ 98,480
 How do you plan to scale the success of your proposal?: >-
   With LACP’s own pool of instructors to draw on, it is easy to envision scaling
   up the program quite rapidly. And with 26 Boys & Girls Clubs in Los Angeles

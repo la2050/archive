@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: unsure
   Organization(s) name(s): Freeway Farm
   Organization(s) mailing address(es): '269 Rosemont Ave, Pasadena, CA 91103'
   Organization(s) website(s): www.freewayfarm.com
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: unsure
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -130,10 +130,6 @@ maker_answers:
     This is a botanical garden + a farm + a transportation infrastructure = a
     usable and self-sustaining place directly within the public consciousness.
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': This is currently in development.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We believe the 100,000 will be able to cover the ability to do a pilot
-    project. Additional costs will be covered by donations or additional grants.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Administration: 5-10%\r\nSoil & water testing: 5-10%\r\nDesign & construction of raised beds: 50-60%\r\nPlanning & landscape design: 10-30%\r\nGrowing medium & seeds: 5-10%\r\n\r\n\r\n"
   How do you plan to scale the success of your proposal?: >-
     If the Green Infrastructure Pilot Project is successful then we hope to
     continue growing these patchwork peri-freeway spaces throughout Los Angeles
@@ -166,15 +162,6 @@ Are there other organizations doing similar work (whether complementary or compe
   This is a botanical garden + a farm + a transportation infrastructure = a
   usable and self-sustaining place directly within the public consciousness.
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': This is currently in development.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We believe the 100,000 will be able to cover the ability to do a pilot
-  project. Additional costs will be covered by donations or additional grants.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Administration: 5-10%
-   Soil & water testing: 5-10%
-   Design & construction of raised beds: 50-60%
-   Planning & landscape design: 10-30%
-   Growing medium & seeds: 5-10%
 How do you plan to scale the success of your proposal?: >-
   If the Green Infrastructure Pilot Project is successful then we hope to
   continue growing these patchwork peri-freeway spaces throughout Los Angeles

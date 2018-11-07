@@ -22,8 +22,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: 'Email '
   Organization(s) name(s): Culture Shock Los Angeles
   Organization(s) mailing address(es): '4029 Pacific Ave. #7, San Pedro, CA 90731'
   Organization(s) website(s): www.CultureShockLA.org
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: 'Email '
   'City, State': 'Torrance, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -160,8 +160,6 @@ maker_answers:
     Pediatric Therapy Network, and Growing Great. Collaborating partners
     providing specialized services will serve as subcontractors and be paid fees
     that are negotiated on a class by class basis. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "We anticipate first year costs to approximate $182,793. Additional income will be generated through the following:\r\n- space rental (primarily independent contractors renting space to provide their own classes)\r\n\r\n- foundation grants, fundraisers, and individual and corporate donations\r\n\r\n- earned income from classes, special performances and events"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$   47,460 Staffing & Instruction\r\n$    2,514  Supplies & Equipment\r\n$    5,756  Marketing & Advertising\r\n$       754  Licenses & Fees\r\n$    3,496  Fundraising Expense\r\n$120,000  Facility Rent\r\n$   2,813   Insurance\r\n"
   How do you plan to scale the success of your proposal?: >-
     Success of the program will lead to replication of the project in other high
     need communities. Using the project model incorporating arts-based,
@@ -230,22 +228,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Therapy Network, and Growing Great. Collaborating partners providing
   specialized services will serve as subcontractors and be paid fees that are
   negotiated on a class by class basis.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We anticipate first year costs to approximate $182,793. Additional income will
-  be generated through the following:
-   - space rental (primarily independent contractors renting space to provide their own classes)
-   
-   - foundation grants, fundraisers, and individual and corporate donations
-   
-   - earned income from classes, special performances and events
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  $ 47,460 Staffing & Instruction
-   $ 2,514 Supplies & Equipment
-   $ 5,756 Marketing & Advertising
-   $ 754 Licenses & Fees
-   $ 3,496 Fundraising Expense
-   $120,000 Facility Rent
-   $ 2,813 Insurance
 How do you plan to scale the success of your proposal?: >-
   Success of the program will lead to replication of the project in other high
   need communities. Using the project model incorporating arts-based,

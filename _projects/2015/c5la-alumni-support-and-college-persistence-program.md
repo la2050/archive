@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): 1334 S Central Ave
   Organization(s) website(s): www.c5la.org
   Organization(s) twitter handle(s): www.twitter.com/C5LA
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): C5 Youth Foundation of Southern California (“C5LA”)
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -130,8 +130,6 @@ maker_answers:
     are and conducting outreach. C5LA will begin reaching out to current
     partners such as the Southern California College Access Network and the
     Posse Foundation to leverage resources and identify best practices. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The total program budget is $140,000. In addition to funding in the amount of $100,000 from LA2050, $40,000 will be funded through support from other foundations.  \r\n\r\n$51,500 to Create a 1st Year College Boot Camp: The first few months of college can be overwhelming. To help smooth the transition from high school to college life, C5LA will host a weekend 1st Year College Summer Boot Camp. Beginning in 2016, sessions will include what students need to know, coping strategies, campus resources, and ways to connect with peers. \r\n\r\n$46,000 to Enhance Data Collection: To understand factors contributing to college success or failure, we will develop and implement a rigorous data collection system. C5LA plans to use the National Student Clearinghouse to determine where C5LA students are now and to collect data on college enrollment. We are interested in capturing both quantitative and qualitative data along with anecdotal and social aspects of student progress. Due to the intensive work of following up on the students, finding out where they are, and understanding what barriers they may be facing, we would need an additional, dedicated staff member to accomplish this.  \r\n\r\n$42,500 to Support Alumni Association Initiatives: An important factor in C5LA’s success is the sense of belonging and ownership students take in their experience. Building upon the work we do through the Association, we will reach out to students via newsletters and social media to engage them and remind them that they are always part of the C5 family. C5LA will also host at least two events for college students per year (during the holidays and spring break).\r\n\r\n\r\nC5LA has a robust year-round fundraising campaign, and we currently receive grant support from the Morris and Mayer Kaplan Family Foundation ($50,000), the Ball Corporation ($25,000), Insperity ($5,000), Rose Hills Foundation ($50,000), Joseph Drown Foundation ($50,000), Weingart Foundation ($25,000), the Carl E. Wynn Foundation ($5,000), LA Lakers ($5,000), the Ralph M. Parsons Foundation ($25,000), Windsong Trust ($125,000), Venable Law Firm ($1,000), the John W. Carson Foundation ($5,000), Kimberly-Clark Foundation ($50,000), and Berkshire Hathaway Charitable Foundation ($2,500).  C5LA plans to include alumni support in all future proposals to ensure sustainability. In addition to grants, C5LA’s diverse fundraising plan includes special events, corporate support, board engagement, and individual donations.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Total Program Budget (LA2050 Budget)\r\n\r\nExecutive Director: $28,000.00 ($7,000.00)\r\nProgram Director: $36,000.00 ($36,000.00)\r\nProgram Associate: $20,000.00 ($15,000.00) \t\r\nProgram Development: $10,000.00 ($10,000.00) \r\nWeb and Social Media: $7,500.00 ($5,000.00) \r\nPhone and Internet: $2,500.00 ($2,000.00) \r\nEquipment: $5,000.00 ($5,000.00) \r\nSupplies: $2,500.00 ($2,500.00) \r\nPostage: $1,000.00 ($500.00) \r\nPrinting: $4,500.00 ($2,000.00) \r\nTravel and lodging: $20,000.00 ($14,000.00) \r\nMeals and Entertainment: $3,000.00 ($1,000.00) \r\n\r\nTOTAL: $140,000.00 (LA2050 Total: $100,000.00)\r\n"
   How do you plan to scale the success of your proposal?: "C5LA is actively seeking funding so that we can expand our current programming to offer greater support to our alumni through college. The amount of funding received will directly impact the level and depth of services we are able to provide our students. We hope to continue to broaden the services and outreach activities for C5LA alumni to be able to identify and address all barriers to successful completion of their college degree. \r\nWith the support of LA2050 we will:\r\n•\tRoll out the program at the top of 2015.  \r\n•\tWe will pilot the boot camp in the summer of 2016.\r\n•\tWe hope to connect with and engage 40% of our alumni in Year One and increase that to 75% in Year Two and 100% in Year Three.\r\n•\tWe will host two alumni events in Year One and four events in Years Two and Three.\r\n•\tMigrate data and launch new software in the third and fourth quarters of Year One. \r\n"
 areas_impacted: ''
 partners: ''
@@ -207,36 +205,6 @@ Are there other organizations doing similar work (whether complementary or compe
   and conducting outreach. C5LA will begin reaching out to current partners such
   as the Southern California College Access Network and the Posse Foundation to
   leverage resources and identify best practices.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The total program budget is $140,000. In addition to funding in the amount of
-  $100,000 from LA2050, $40,000 will be funded through support from other
-  foundations. 
-   
-   $51,500 to Create a 1st Year College Boot Camp: The first few months of college can be overwhelming. To help smooth the transition from high school to college life, C5LA will host a weekend 1st Year College Summer Boot Camp. Beginning in 2016, sessions will include what students need to know, coping strategies, campus resources, and ways to connect with peers. 
-   
-   $46,000 to Enhance Data Collection: To understand factors contributing to college success or failure, we will develop and implement a rigorous data collection system. C5LA plans to use the National Student Clearinghouse to determine where C5LA students are now and to collect data on college enrollment. We are interested in capturing both quantitative and qualitative data along with anecdotal and social aspects of student progress. Due to the intensive work of following up on the students, finding out where they are, and understanding what barriers they may be facing, we would need an additional, dedicated staff member to accomplish this. 
-   
-   $42,500 to Support Alumni Association Initiatives: An important factor in C5LA’s success is the sense of belonging and ownership students take in their experience. Building upon the work we do through the Association, we will reach out to students via newsletters and social media to engage them and remind them that they are always part of the C5 family. C5LA will also host at least two events for college students per year (during the holidays and spring break).
-   
-   
-   C5LA has a robust year-round fundraising campaign, and we currently receive grant support from the Morris and Mayer Kaplan Family Foundation ($50,000), the Ball Corporation ($25,000), Insperity ($5,000), Rose Hills Foundation ($50,000), Joseph Drown Foundation ($50,000), Weingart Foundation ($25,000), the Carl E. Wynn Foundation ($5,000), LA Lakers ($5,000), the Ralph M. Parsons Foundation ($25,000), Windsong Trust ($125,000), Venable Law Firm ($1,000), the John W. Carson Foundation ($5,000), Kimberly-Clark Foundation ($50,000), and Berkshire Hathaway Charitable Foundation ($2,500). C5LA plans to include alumni support in all future proposals to ensure sustainability. In addition to grants, C5LA’s diverse fundraising plan includes special events, corporate support, board engagement, and individual donations.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Total Program Budget (LA2050 Budget)
-   
-   Executive Director: $28,000.00 ($7,000.00)
-   Program Director: $36,000.00 ($36,000.00)
-   Program Associate: $20,000.00 ($15,000.00) 
-   Program Development: $10,000.00 ($10,000.00) 
-   Web and Social Media: $7,500.00 ($5,000.00) 
-   Phone and Internet: $2,500.00 ($2,000.00) 
-   Equipment: $5,000.00 ($5,000.00) 
-   Supplies: $2,500.00 ($2,500.00) 
-   Postage: $1,000.00 ($500.00) 
-   Printing: $4,500.00 ($2,000.00) 
-   Travel and lodging: $20,000.00 ($14,000.00) 
-   Meals and Entertainment: $3,000.00 ($1,000.00) 
-   
-   TOTAL: $140,000.00 (LA2050 Total: $100,000.00)
 How do you plan to scale the success of your proposal?: >-
   C5LA is actively seeking funding so that we can expand our current programming
   to offer greater support to our alumni through college. The amount of funding

@@ -17,8 +17,8 @@ project_video: 'https://www.youtube.com/embed/XBAE46x2qio'
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): '532 W. 22nd Street, Los Angeles, CA 90007'
   Organization(s) website(s): www.iridescentlearning.org
   Organization(s) twitter handle(s): 'https://twitter.com/IridescentLA'
@@ -63,7 +63,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Iridescent
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -118,8 +118,6 @@ maker_answers:
     Elementary to provide Iridescent's Curiosity Machine programming in each
     school. The grant to Iridescent will support all costs of programming at no
     cost to the school.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '100,000'
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Developing Inspirational Videos - $800\r\nDeveloping Design Challenges - $800\r\n\r\nDevelopment of Mentor training materials - $800\r\nDevelopment of Educator Training Materials - $800\r\nDevelopment of Parent Training Materials - $800\r\nTranslation of all content into Spanish - $800\r\n\r\nSoftware development for Educator Portal - $1,600\r\nSoftware development for Parent Portal - $1,600\r\nSoftware development for Mentor Portal - $1,600\r\nSoftware development/UI design - $1,600\r\n\r\nRecruiting & Training of mentors & university students - $6,900\r\nRecruiting & Training parents to use curriculum - $8,000\r\nTeaching stipends for university students (mentors) - $24,000\r\nAlumnae engagement - $2,000\r\nMonthly Mentor, Parent, Teacher Communications - $4,000\r\nData analytics - $8,000\r\nMentor Background Checks - $2,000\r\nDesign Challenge Materials - $3,000\r\n\r\nOverall Project Coordination - $8,000\r\nStrategy & Sustainability - $7,710\r\nInsurance/Liability/Accounting - $15,266\r\nTotal - $100,060"
   How do you plan to scale the success of your proposal?: "Iridescent’s tiered model of support gradually builds internal capacity at each school so that the program is sustainable (after the contract). \r\nHere are the five reasons why Iridescent’s model is sustainable:\r\nProviding a robust training to the mentors (scientists and engineers), parents and teachers increases their effectiveness with the students that results in positive reinforcement and sustained engagement for all participants.\r\nTraining the parents on the pedagogy in particular is key to sustainability. They understand the value of the program and become deeply invested in sustaining the program at the school. They co-invest their time and effort in organizing the Curiosity Machine Courses and building a community of learning that goes beyond the classroom and connects to the student’s home. \r\nIn addition to training teachers to use engineering curriculum in the classroom Iridescent trains parents on facilitating the use of the STEM curriculum with students. This amplifies the manpower available to the teachers to actually do open-ended, hands-on projects with 20-25 students, week-after-week. In addition to providing additional help to the teachers through the parent-aides, Iridescent also trains STEM mentors to provide appropriate, personalized feedback to each student. The model thus provides extra logistical help, increases overall parental engagement and access to STEM experts. These resources (in addition to the professional development) helps teachers perform better and engage their students more easily - resulting in them being intrinsically motivated to sustain the program at their school.\r\nThe scientists and engineers are trained to develop unique design challenges based on their work. Once the initial training is over, the engineers can continue to develop new design challenges and mentor students either in-person or online. This results in a sustainable and cost-effective model of curriculum development.\r\nFinally, the online Curiosity Machine platform serves as a permanent, virtual meeting room that will remain beyond the grant. Once all stakeholders are trained, they will be able to stay on the Curiosity Machine platform and continue to engage with one another without Iridescent’s support. Iridescent’s role will be primarily to maintain the platform, monitor quality and safety and analyze data.\r\n"
 areas_impacted: ''
 partners: ''
@@ -174,20 +172,6 @@ Are there other organizations doing similar work (whether complementary or compe
   the girls and walk them through the Technovation curriculum. 
    
    Iridescent’s curriculum is free and open, we do not anticipate huge costs in implementing the program. The Regional ambassador will receive a monthly stipend for managing the program on the ground. Teachers and mentors are expected to volunteer their time.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '100000'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Technovation Budget:
-   
-   LA studio space - $25,000
-   Technovation Staff time - $15,000
-   Website and platform - $8,000
-   PR and outreach - $2,000
-   Regional ambassador stipend - $100,00
-   Events- Girls Make app Day and Regional pitch event - $5,000
-   Prizes for local winners - $7,000
-   Travel for regional winners to World Pitch event - $15,000
-   Admin costs - $13,000
-   Total - $100,000
 How do you plan to scale the success of your proposal?: >-
   Technovation is in the process of scaling up. We had app submissions from
   across 30 plus countries in 2015. For the 2016 season, we are hoping to expand

@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/X9EpK48pYtY'
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Online search
   Organization(s) name(s): The Moving Museum
   Organization(s) mailing address(es): '230 W 38th Street, New York, NY 10018'
   Organization(s) website(s): www.themovingmuseum.com
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: Online search
   'City, State': 'New York, NY'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -131,8 +131,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "We hope to create meaningful and socially engaged projects that have a lasting impact on the communities affected. We will track the development of those participating in the project, the number of Fellows who have been offered employment or developed their own projects, the quantity and success of future LA projects from our partners, the art spaces and projects formed across the city. The commissioned artworks will be measured on how they materialized during the residency and exhibition period, and the impact they have made. We will follow international artists on-going relationship with LA, whether through production of artwork, museum or institutional interest, or continued talks or events with the artists.\r\n\r\nOur aim is to create a dynamic events program that engages local and international audiences and successfully bridges the gap between disparate communities. We will collect data on audience numbers and the types of communities represented, on the ground and online. \r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are currently only a small number of international artists residency programs active in LA and this project will aim to mark one of the largest, coordinated influxes of international resident artists in LA’s recent history.\r\n\r\nThere is a need for a cultural and educational program that actively nurtures the development of new work and ideas in a more progressive and impactful way, both in supporting the professional development of local and international arts practitioners and to re-imagine the transferal of cultural information through a less institutional context. As a result, The Moving Museum Los Angeles will provide a catalyst to activate a new chapter of development within the Los Angeles creative community. \r\n\r\nThe Moving Museum identifies a real and pressing opportunity to encourage collaborations between industries, cultures and voices, and to connect the culturally disparate social and ethnic communities across LA by exchanging ideas from leading artistic voices around the world. The intensive public program aims to engage artists with local audiences more directly through social and performance based activities.\r\n\r\nAs the role of the artist and arts practitioner shifts within the changing institutional landscape, so do the requirements, experience and skills. The Moving Museum has identified areas that are vital for this development and offers the type of stimulating environment, which is fundamental to deliver rich and diverse work. \r\n\r\nThe Moving Museum aims for its activities to be sustainable and beneficial to artists and the communities in which they take place - offering a lasting, daring, and unparalleled international platform for artists and new ideas.\r\n\r\nThe Moving Museum is a catalyst for thought around the changing spaces of art production. Through artist residencies, commissions, partnerships with local institutions, publications, educational and public programming, The Moving Museum is committed to supporting and presenting innovative research and discourse wherever we go."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "The 40 participating artists will all be commissioned to develop new projects alongside the residency as a means to articulate their practice within an exhibition that marks an important moment for Los Angeles’s position within a shifting international context. Each artist will be provided a stipend towards the production of their work. This stipend, for the most part will be used on manufactures and other practitioners within Los Angeles to support the production of the artists work. Thus, indirectly these funds will also be reinvested into other industries within the LA community. \r\n\r\nThe Moving Museum will provide a Curatorial Fellowship as part\Lof the program to offer recent graduates an opportunity to work closely with the Directors to oversee various aspects of the project including artwork production, exhibition production, running a residency. This type of engagement within the contemporary art field is not one that can be taught through art colleges or traditional education. There are few opportunities to gain such first hand and expansive experience. \r\n\r\nWe will work with local designers on aspects of our marketing campaign including publication and brand development. We will engage with local writers to develop the publication text and anthologies for the online journal. We will work with craftsmen and practitioners across different industries to help with the exhibition production, with local film makers and photographers on the documentation of the project.\r\n\r\nWe will partner with local arts organizations and non-profit spaces to facilitate and host the residencies and public program."
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Though the overall budget we are aiming to raise for the project in its entirety is $450,000, this $100,000 backed by the LA2050 Grant Challenge would play an integral part in realizing this project happen.\r\n\r\nWe have a founding partner, The Vinyl Factory, who share our vision for creating unique experiences around the world and contribute to percentage of our operating budget. We are continuing collaborations with the foundations, cultural partners, government organizations, embassies and individual patrons whom we have worked with in the past that will support their local artists. We have tentative confirmation of all of their support upon submission of artists proposals. We are also growing a network of partners and supporters within Los Angeles to support at various levels as well as providing in-kind support, which will reduce the overall budget. The Moving Museum is also allocating a percentage of its funding that was raised through its previous exhibition to support the early stages of The Moving Museum LA.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "The $100,000 budget will go towards the residency program, artist production costs, professional development opportunities and documentation costs. We have allocated the actual costs below and how much of that we would contribute from the total $100,000. \r\n\r\nCURATORIAL FELLOWSHIP (6 Months) \r\nArtists Liaisons Fellows x 3 \t\t10,500 \r\nResidency Fellow  \t\t\t\t3,500\r\nPublic Program Fellows \t\t\t3,500\r\nEditorial Fellows  \t\t\t\t\t3,500  \r\nDesign Fellow \t\t\t\t\t3,500  \r\nInternational Engagement Fellows  \t3,500  \r\nTotal Amount: \t\t\t\t\t28,000 \r\nTotal contributed from LA2050: \t\t20,000      \r\n\r\nARTIST PRODUCTION \r\n40 artists x $2000 Production stipend each  \r\nTotal Amount: \t\t\t\t\t80,000 \r\nTotal contributed from LA2050: \t\t50,000\r\n\r\nPUBLIC PROGRAM \r\nPublic Program Weekly Dinners / Events / Performances: 10,000\r\nEducational Outreach and engagement projects: \t5,000 \r\nProject Management of Events: \t\t2,000    \r\nVenue Hire for events \t\t\t\t3,000  \r\nDocumentation of Events  \t(Films & Photographs)\t5,000\t\t\t\r\nTotal Required: \t\t\t\t\t25,000 \r\nTotal contributed from LA2050: \t\t15,000\r\n     \r\nRESIDENCY COSTS  \r\nHeadquarter in LA for Residency May-Aug: \t8,000 \r\nFlights for 25 international Artists:  \t25,000  \r\nTotal Required: \t\t\t\t\t\t33,000 \r\nTotal Contributed from LA 2050: \t\t10,000\r\n\r\nPUBLICATION  \r\nDesign - Local Designers \t\t\t3,000 \r\nWriting / Editors - Local Writers \t\t8,000    \r\nPrinting - Local Printers \t\t\t15,000    \r\nTotal Amount: \t\t\t\t\t26,000 \r\nTotal Contributed from LA 2050: \t\t5,000\r\n\r\nThe overall budget is $450,000 which includes all the exhibition production, logistics, visas, administration, PR and Marketing etc. We will fundraise the other amounts however the above is how we would allocate the funds received from LA2050. \r\n"
   How do you plan to scale the success of your proposal?: "The Moving Museum aims to make long-term impressions through temporary interventions, with an experimental format that responds in a unique way to each local context.\r\n \r\nAlthough Los Angeles has a wealth of artists and enterprising start-ups, the city is populated with culturally disparate social and ethnic islands and the current arts activities tend to be independently produced. As the city enters the 21st century, there is a real and pressing opportunity to connect these local communities with each other within an international context to encourage collaborations between these pockets of the city, with other industries, cultures and voices and exchange ideas from leading artistic voices around the world.\r\n\r\nThe Moving Museum will continue to advocate for Los Angeles as a visionary city at the forefront of artistic ingenuity and will draw on this newly positioned global arts hub, to cultivate and re-define the contemporary art landscape.\r\n\r\nFollowing the residency, public program and exhibition period we would hope that a number of the discussions, commissioned works and other projects initiated would continue to develop and be taken on by future partners, collaborators and the local community. Inspiring a new generation of residency models, artist networks and spaces to take the lead, we would see outside industries attracted by the scope to collaborate and drive their presence through artistic innovation and ideas.\r\n\r\nWe would develop our online platform to provide an opportunity for continuing the development of digital and interactive works as well as host webcast talks built from topics addressed during the project to extend on LA’s influence with an online audience as an increasingly important arena for the arts.\r\n\r\nUltimately, the success of this project would be used as a model example of how to transform artistic communities in other cities that desperately require a program of this nature to survive, evolve and become part of the global dialogue."
 areas_impacted: ''
 partners: ''
@@ -205,56 +203,6 @@ Are there other organizations doing similar work (whether complementary or compe
    We will work with local designers on aspects of our marketing campaign including publication and brand development. We will engage with local writers to develop the publication text and anthologies for the online journal. We will work with craftsmen and practitioners across different industries to help with the exhibition production, with local film makers and photographers on the documentation of the project.
    
    We will partner with local arts organizations and non-profit spaces to facilitate and host the residencies and public program.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Though the overall budget we are aiming to raise for the project in its
-  entirety is $450,000, this $100,000 backed by the LA2050 Grant Challenge would
-  play an integral part in realizing this project happen.
-   
-   We have a founding partner, The Vinyl Factory, who share our vision for creating unique experiences around the world and contribute to percentage of our operating budget. We are continuing collaborations with the foundations, cultural partners, government organizations, embassies and individual patrons whom we have worked with in the past that will support their local artists. We have tentative confirmation of all of their support upon submission of artists proposals. We are also growing a network of partners and supporters within Los Angeles to support at various levels as well as providing in-kind support, which will reduce the overall budget. The Moving Museum is also allocating a percentage of its funding that was raised through its previous exhibition to support the early stages of The Moving Museum LA.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  The $100,000 budget will go towards the residency program, artist production
-  costs, professional development opportunities and documentation costs. We have
-  allocated the actual costs below and how much of that we would contribute from
-  the total $100,000. 
-   
-   CURATORIAL FELLOWSHIP (6 Months) 
-   Artists Liaisons Fellows x 3 10,500 
-   Residency Fellow  3,500
-   Public Program Fellows 3,500
-   Editorial Fellows  3,500 
-   Design Fellow 3,500 
-   International Engagement Fellows  3,500 
-   Total Amount: 28,000 
-   Total contributed from LA2050: 20,000 
-   
-   ARTIST PRODUCTION 
-   40 artists x $2000 Production stipend each 
-   Total Amount: 80,000 
-   Total contributed from LA2050: 50,000
-   
-   PUBLIC PROGRAM 
-   Public Program Weekly Dinners / Events / Performances: 10,000
-   Educational Outreach and engagement projects: 5,000 
-   Project Management of Events: 2,000 
-   Venue Hire for events 3,000 
-   Documentation of Events  (Films & Photographs) 5,000 
-   Total Required: 25,000 
-   Total contributed from LA2050: 15,000
-    
-   RESIDENCY COSTS 
-   Headquarter in LA for Residency May-Aug: 8,000 
-   Flights for 25 international Artists:  25,000 
-   Total Required: 33,000 
-   Total Contributed from LA 2050: 10,000
-   
-   PUBLICATION 
-   Design - Local Designers 3,000 
-   Writing / Editors - Local Writers 8,000 
-   Printing - Local Printers 15,000 
-   Total Amount: 26,000 
-   Total Contributed from LA 2050: 5,000
-   
-   The overall budget is $450,000 which includes all the exhibition production, logistics, visas, administration, PR and Marketing etc. We will fundraise the other amounts however the above is how we would allocate the funds received from LA2050.
 How do you plan to scale the success of your proposal?: >-
   The Moving Museum aims to make long-term impressions through temporary
   interventions, with an experimental format that responds in a unique way to

@@ -21,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - LA COUNTY
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '1'
-  city_state: 'Los Angeles, CA 90008'
   org_website: www.jenesse.org
   org_twitter: '@jenessecenter'
   org_facebook: www.facebook.com/jenessecenter
@@ -73,7 +73,7 @@ maker_answers:
   org_name: 'Jenesse Center, Inc.'
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '0'
-  metrics_connect_traveltime: '0'
+  city_state: 'Los Angeles, CA 90008'
   metrics_connect_culturalevents: '1'
   metrics_connect_publictransit: '0'
   metrics_connect_neighborhoodcouncils: '0'
@@ -119,10 +119,6 @@ maker_answers:
     young boys and men they are focused on working with that particular gender,
     while our work with young boys and men integrate them into the work we are
     doing with women and young girls. 
-  cost: >-
-    Jenesse Center will continue to actively raise funds to support our youth
-    programs through fundraising.
-  budget: "1.\tPersonnel\r\nSalaries – Jenesse Center, Inc. (Jenesse) is reflecting $39,901 in salaries to support the following positions that will be assigned to work on the Youth Engagement Program. \r\nPlease Note: The salary range stated includes any anticipated increases (i.e., cost-of-living adjustments and merit salary adjustments).\r\na.\tProject Manager (Community Relations)(.30 FTE - Salary $12,977) \r\nb.\tProject Manager (Youth & Training Programs )(.40 FTE - Salary $20,601) – \r\nc.\tBenefits – Jenesse is reflecting $6,323 in benefits costs, which is calculated at a rate of 18.83 % of the $33,578 in salaries. \r\nPersonnel Cost Subtotal: $39,901\r\n2.\tProgram/Operating Expenses\r\na.\tOffice Supplies – Jenesse Center, Inc. (Jenesse) is reflecting $3,000 in Office Supplies, which will cover the costs associated with purchasing the supplies needed to support the work of the Program. \r\nb.\tCommunications – Jenesse Center, Inc. (Jenesse) is reflecting $1,500 in Communications, which will cover the costs associated with printing and copying.\r\nc.\tPostage – Jenesse Center, Inc. (Jenesse) is reflecting $350 in Postage, which will cover the costs associated with mailing off letters, and information .\r\nd.\tTravel/Mileage – Jenesse Center, Inc. (Jenesse) is reflecting $857 in funding to cover the costs associated with Program and Administrative traveling 1,517 miles at a rate of 56.5 cents per mile  to attend events, meetings, local conferences as well as trainings. \r\nf.\tOther – Jenesse is reflecting $45,301 in funding to cover the costs which fall under the Other Category.  Please note that the bulk of these costs will be associated with hosting Four Quarterly Youth Conversations during the year.  Jenesse is also requesting funding to engage Consultants and other Professionals, to assist with the program development, trainings, as well as event planning.  \r\ng.\tEvent Related Expenses – Venue, Catering, Audio Visual, Entertainment, Marketing and Registration (4 events @$6,500) - $26,000\r\nh.\tLiability and Other Insurance - $2,500\r\ni.\tConsultant/Professional Fees - $9,301\r\nj.\tPeer to Peer Training - $5,000\r\nk.\tTeen Angel Stipends (10 Stipends @ $250 each) - $2,500\r\ne.\tIndirect Costs – Jenesse is reflecting $9,091 in funding to cover Indirect Cost, which was calculated at a rate of 10 % of total Personnel and Program Costs. \r\nProgram/Operating Subtotal: $60,100\r\nTotal Expenses (Personnel + Program + Indirect) - $697,439.90\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

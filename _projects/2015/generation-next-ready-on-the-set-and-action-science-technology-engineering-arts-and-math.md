@@ -23,8 +23,8 @@ project_areas:
   - Westside
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'W. Hollywood, CA'
   Organization(s) mailing address(es): '8687 Melrose Ave., G700, W. Hollywood, CA 90069'
   Organization(s) website(s): www.eiconline.org
   Organization(s) twitter handle(s): www.twitter.com/EIC_online
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'W. Hollywood, CA'
   Organization(s) name(s): 'Entertainment Industries Council, Inc.'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -146,8 +146,6 @@ maker_answers:
     participating in this educational program are of the highest professional
     caliber – individuals who bring a wealth of real world experience in their
     craft to the process.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "To conduct the program will require $100,000. This initial investment will go heavily toward labor hours for developing the curriculum and materials, recruiting speakers for classroom seminars, engaging the appropriate school systems and schools to get permission to conduct the program, reaching out to and recruiting teachers to participate, and lining up judges, mentors and experts to participate in the Fellowship aspects of the program. The program will be piloted in 10 classrooms initially.\r\n\r\nOther direct costs will include: a seminar leader for the 10 classroom sessions, a subcontract with the WGA Foundation of the Writers Guild of America West to assist with writer volunteer recruitment and promotion, web site updates and materials design, gift cards to participating teachers for the purposes of classroom supplies, cash prizes for the student winner and runner-up, and basic operating costs for the project such as copying/printing, local mileage and parking for meetings and conducting seminars, telephone calls, office supplies, and postage and other deliveries.\r\n\r\nAfter a successful 10-room launch, with materials already developed, EIC will seek out additional funding to replicate the program and expand the number of classrooms in which it is conducted. The cost of conducting the ongoing program once launched will be significantly reduced because it will draw upon volunteer time from STEM field experts and members of the entertainment industry as speakers, judges, technical advisors and creative mentors.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Salaries (Project Director, Project Manager & Administrative Support): $46,850\r\n\r\nSeminar Leader (10 seminars x $500): $5,000\r\n\r\nWGA Foundation Subcontract: $10,000\r\n\r\nClassroom Supply Gift Cards (10 x $500): $5,000\r\n\r\nStudent Cash Prizes (winner, runner-up): $4,000\r\n\r\nCopying/Printing (Flyers, Packets): $1,000\r\n\r\nWebsite (Developing landing page, pages for downloading products): $2,000\r\n\r\nDesign (E-Newsletter and Outreach, Creation of Documents/Webinar): $2,000\r\n\r\nTelephone: $1,500\r\n\r\nOffice Supplies (Flash Drives, pens, materials for packets, etc.): $2,385\r\n\r\nPostage/Deliveries (items to high schools, mentors, judges): $700\r\n\r\nLocal Travel (mileage, parking): $800\r\n\r\nG&A: $18,765\r\n\r\nTOTAL: $100,000"
   How do you plan to scale the success of your proposal?: >-
     We will scale the success of the proposal by measuring what proportion of
     students in each classroom at the grade level selected are becoming more
@@ -220,46 +218,6 @@ Are there other organizations doing similar work (whether complementary or compe
   with the program. This will ensure that the screenwriters participating in
   this educational program are of the highest professional caliber – individuals
   who bring a wealth of real world experience in their craft to the process.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  To conduct the program will require $100,000. This initial investment will go
-  heavily toward labor hours for developing the curriculum and materials,
-  recruiting speakers for classroom seminars, engaging the appropriate school
-  systems and schools to get permission to conduct the program, reaching out to
-  and recruiting teachers to participate, and lining up judges, mentors and
-  experts to participate in the Fellowship aspects of the program. The program
-  will be piloted in 10 classrooms initially.
-   
-   Other direct costs will include: a seminar leader for the 10 classroom sessions, a subcontract with the WGA Foundation of the Writers Guild of America West to assist with writer volunteer recruitment and promotion, web site updates and materials design, gift cards to participating teachers for the purposes of classroom supplies, cash prizes for the student winner and runner-up, and basic operating costs for the project such as copying/printing, local mileage and parking for meetings and conducting seminars, telephone calls, office supplies, and postage and other deliveries.
-   
-   After a successful 10-room launch, with materials already developed, EIC will seek out additional funding to replicate the program and expand the number of classrooms in which it is conducted. The cost of conducting the ongoing program once launched will be significantly reduced because it will draw upon volunteer time from STEM field experts and members of the entertainment industry as speakers, judges, technical advisors and creative mentors.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Salaries (Project Director, Project Manager & Administrative Support): $46,850
-   
-   Seminar Leader (10 seminars x $500): $5,000
-   
-   WGA Foundation Subcontract: $10,000
-   
-   Classroom Supply Gift Cards (10 x $500): $5,000
-   
-   Student Cash Prizes (winner, runner-up): $4,000
-   
-   Copying/Printing (Flyers, Packets): $1,000
-   
-   Website (Developing landing page, pages for downloading products): $2,000
-   
-   Design (E-Newsletter and Outreach, Creation of Documents/Webinar): $2,000
-   
-   Telephone: $1,500
-   
-   Office Supplies (Flash Drives, pens, materials for packets, etc.): $2,385
-   
-   Postage/Deliveries (items to high schools, mentors, judges): $700
-   
-   Local Travel (mileage, parking): $800
-   
-   G&A: $18,765
-   
-   TOTAL: $100,000
 How do you plan to scale the success of your proposal?: >-
   We will scale the success of the proposal by measuring what proportion of
   students in each classroom at the grade level selected are becoming more

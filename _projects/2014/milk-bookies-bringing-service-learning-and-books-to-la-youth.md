@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_learn_communitycollege: '1'
   collaboration: "It has  been M+B's dream to share our service learning project with LAUSD's third grade classrooms. We have had the OPPORTUNITY to work with many other classrooms both in LA and nationwide and see the successful outcomes. We will focus all of our efforts on Los Angeles and double the amount of children being able to give and get.\r\n\r\nWe have had the opportunity to explain our project to the Mayor's office and discuss our program. We have spoken with LAUSD teachers and know that there is a NEED FOR SERVICE LEARNING PROJECTS that are not time consuming for them. Everything will be in place for the classrooms including supplies, teacher outlines and lesson plans, and volunteers and recipients.\r\n\r\nHaving the opportunity for EVALUATION within the schools and classrooms is another key factor to determine the success of the collaboration. We will collect as many surveys and information as possible from the children and the teachers after their \"book raisers.\"\r\n\r\n\r\n\r\n"
-  metrics_learn_earlyeducation: '0'
   org_website: 'http://www.milkandbookies.org'
   org_twitter: www.twitter.com/milkandbookies
   org_facebook: www.facebook.com/milkandbookies
@@ -71,7 +71,7 @@ maker_answers:
   who_benefit: "Our project will benefit children, teachers, schools and ultimately Los Angeles.\r\n \r\nBy exposing children to how great giving feels, they will want to do it again and again. With a purposeful format to impact each child, we aim to make a real imprint on their lives and watch as they set out to recreate that “do good” feeling.\r\n\r\nWith this grant, 1,000 classrooms - approximately 30,000 children - will be impacted by our program. More than 30,000 books will be distributed to at-risk, in-need children. The byproduct of our organization's mission is getting underprivileged children age appropriate books to help them with literacy, help them dream bigger and help them feel inspired.\r\n\r\nLos Angeles teachers and schools will also benefit because we have the resources and materials ready for them. Their service learning project comes ready-made and will be distributed without any extra time and energy on their end. With all of the budget shortfalls, there is no extra time or money for classrooms to supply the children with all of these materials let alone carry out steps for finding recipients and helping organize distribution.\r\n\r\n\r\n\r\n "
   about_you: 'Los Angeles, CA'
   org_name: Milk + Bookies
-  metrics_learn_communitycollege: '1'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '1'
   metrics_learn_graduationrates: '1'
   metrics_learn_proficiency: '1'
@@ -93,11 +93,6 @@ maker_answers:
   achievable_goal: "M+B has five years of solid experience and we have seen success from our program peppered all over the country. We have hosted events in 269 cities and have been able to give books to 213 underprivileged children's groups nationwide. \r\nBeing a Los Angeles based organization, we can focus all of our efforts locally making it that much more manageable.\r\nOur proposal is an achievable goal because the program is already in place, we know all of the materials needed and we have the information and experience to implement this project. \r\nWith the grant money we will have the resources to purchase all of the supplies, hire an extra staff member and cover all of the costs for the travel and outreach.\r\nWe also have a dedicated group of interns and volunteers who are always excited to travel to the recipient group. It is the most rewarding part of our job as well as their internship so they jump at the chance to go."
   major_challenges: "1) Finding LAUSD schools to cooperate and choose our program for their service learning project may be a challenge. We have met with the Mayor's office to go over our program in more detail and discuss needs in specific districts.  In addition to LAUSD, there are other USDs in Los Angeles, including Beverly Hills, Santa Monica/ Malibu, Compton and Las Virgines as well charter and private schools, with whom we have relationships. \r\n\r\n2) The most direct way to teach children about giving back is through the schools, but, unfortunately, teachers are often too overtasked to take on a service learning project. Because of this lesson, we have streamlined our project so that teachers have everything they need in one box. We take care of all the logistics and gather all of the materials to help bring service learning to students without overwhelming the teachers. \r\n"
   competition: "Bookends is a similar organization but targets their distribution from one school to another. The books only stay on campus. Statistics show that literacy pinpoints the lack of appropriate reading material at home. Milk + Bookies makes sure the books are given to the children to keep at home. Bookends and other organizations like them are well respected and successful and will only complement our mission of inspiring a generation of philanthropists and increasing access to books for underprivileged children.\r\n"
-  cost: >-
-    We have planned it just right so that our budget stays at the $100,000. In
-    the case of unexpected costs, we will reach out to our loyal donors and
-    other institutions. 
-  budget: "Supplies (lesson box materials, printing-$40/classroom) $40,000\r\nStaff $30,000\r\nVolunteers (travel, parking, meals) $10,000\r\nDocumentation (database, photography, surveys) $2,500\r\nOverhead/indirect $15,000\r\nOutreach $2,500"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '0'

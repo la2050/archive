@@ -19,8 +19,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: 'Burbank, CA'
   org_website: 'http://millennialmagazine.com'
   org_twitter: 'https://twitter.com/MillennialMagz'
   org_facebook: 'https://www.facebook.com/MillennialMagazine'
@@ -62,7 +62,7 @@ maker_answers:
   org_name: 'Millennial Magazine: Apps4LA'
   metrics_create_arts: '0'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: 'Burbank, CA'
   metrics_create_patents: '0'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '0'
@@ -89,8 +89,6 @@ maker_answers:
     program.
   major_challenges: "Barrier 1: Apps4LA is dependent upon seed funding. \r\nSolution: The $100,000.00 grant from LA2050 will provide a catalyst for corporate sponsors to invest in the life of civic apps.\r\n\r\nBarrier 2: Meeting mobile app development deadlines.\r\nSolution: Successful web development is contingent upon setting timelines and maintaining a fluid workflow. To achieve a digital product that is ready for distribution, technical advisors must be present from concept to completion.\r\n\r\nSelecting apps that are less complicated from the beginning, will produce a product within the given timeline and budgetary constraints. In other words, parameters for viable apps will be made at the selection process by the tech advisory board. "
   competition: "Hackathons have become commonplace these days, however, they are missing the bridge that connects a viable idea with the necessary funding and support to take their ideas from concept to distribution. Building any product in an unrealistic time frame (often 24- 48 hours) jeopardizes the quality of the end product. Great ideas have won prize money, but seldom do these ideas make it past the hackathon.\r\n\r\nCivic mobile apps need time to be developed thoroughly and marketed properly just like any other commercial product. Apps4LA flushes the ideas from community experts and unites those ideas with the funding and technical expertise of mobile web developers and professional marketers.   \r\n"
-  cost: "The $100,000 grant is budgeted for the operations and management of the programs events. \r\n\r\nPrivate investment will be secured for the accelerator portion. Each app will require a minimum of $20,000.00 per month for 3 months in addition to marketing expenses.  "
-  budget: "Operations team-    $  50,000.00\r\nMarketing-                     15,000.00\r\nIdeafest-                         15,000.00\r\nLaunch party-               20,000.00\r\n\r\nTotal Seed Capital- $100,000.00"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

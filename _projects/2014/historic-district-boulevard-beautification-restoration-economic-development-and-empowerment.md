@@ -18,8 +18,8 @@ project_areas:
   - CENTRAL LA
   - LA COUNTY
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: 'Los Angeles, CA'
   org_website: 3boulevards.org
   org_twitter: ''
   org_facebook: 3boulevards
@@ -127,7 +127,7 @@ maker_answers:
   org_name: 3Boulevards and West Adams Heritage Assocation (WAHA)
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: 'Los Angeles, CA'
   metrics_create_patents: '0'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '1'
@@ -171,14 +171,6 @@ maker_answers:
     in the improvement activities.  We will also acknowledge and give kudos to
     those who successfully implement projects on our site, through print media
     and possibly signage at the improvement location.
-  cost: >-
-    We are projecting a budget of $100,000 for the initial year, which will be
-    seed money to get the project up and running by building out the website,
-    providing funding for materials as specified below.  We will also be
-    soliciting sponsors, donations and volunteers to provide additional funding
-    and the necessary labor to implement the projects.  Recognition of
-    achievements will assist in soliciting additional funds and volunteers.
-  budget: "Website design, development and maintenance $15,000\r\nTrees $20,000\r\nLandscaping plants, fertilizer, soil amendments $20,000\r\nStreetscape elements, such as benches, tree surrounds, pavement enhancements, etc. $40,000\r\nPublishing, publicity and media $5,000"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

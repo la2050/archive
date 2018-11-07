@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: 'Montebello, California 90640'
   org_website: 'http://www.careerprepadvantage.org/la.htm'
   org_twitter: In process.
   org_facebook: In process.
@@ -76,7 +76,7 @@ maker_answers:
   org_name: Optimizing National Education
   metrics_create_arts: '0'
   metrics_create_manufacturing: '1'
-  metrics_create_researchgrant: '0'
+  city_state: 'Montebello, California 90640'
   metrics_create_patents: '1'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '1'
@@ -99,8 +99,6 @@ maker_answers:
   achievable_goal: "1. Our goal is to set up and operate a demonstration with 10,000 QR codes in areas of Los Angeles County which could benefit from one or more of \r\n\r\n(a) more exercise,\r\n\r\n(b) more collaboration among neighbors,\r\n\r\n(c) more transactions for local businesses,\r\n\r\n(d) more civic involvement,\r\n\r\n(e) more volunteering with local organizations.\r\n\r\n1.1  the installation of 10,000 QR codes will require one full-time job or, preferably, so that the installation skill be developed, 10 part-time jobs.\r\n\r\n2. Revenue generated during the demonstration will be used to expand toward the goal of approximately 686,000 QR codes installed and updated throughout Los Angeles County.\r\n\r\n...2.1  Reaching the goal will take from three to five years."
   major_challenges: "1. We will not have permission from every public and private property owner, whether residential or business, to install QR codes.  While we have estimated that LA County could take 1,372,000 QR codes, we have based this application on the installation of half that number, 686,000.\r\n\r\n...1.1 WON would succeed as an innovative program if only one percent of the potential were realized.  Understandably, the expectations for the present and for 2050 would be tempered.\r\n\r\n...1.2 On our side is the modest precedent set by McKinney, Texas, http://www.mckinneyonline.com/July-2013/The-QR-Code-Historic-Walking-Tour-of-McKinney/ .  We will be doing bigger and better what McKinney has done.\r\n\r\n2. While there are plastics which endure under a hot sun emitting ultraviolet radiation, we do not know at this point which recyclable material would be used in the manufacture of the QR codes.\r\n\r\n...2.1  The solution will come from engineering faculty and students from one or more campus of the California State University in Los Angeles County:  Northridge, Los Angeles, Pomona, Long Beach, Dominguez Hills."
   competition: "The closest of which we are aware is QR codes used for historical sites, http://www.mckinneyonline.com/July-2013/The-QR-Code-Historic-Walking-Tour-of-McKinney/ .  WON is distinct because of the many categories and the three goals of learning, exercising, and social interaction.\r\n\r\nWhile the scope of a WON utility patent cannot be predicted, there is a chance that a WON patent would have an effect outside of Los Angeles County, meaning more income and jobs into our county."
-  cost: "The goal is to manufacture, install, maintain, and update approximately 686,000 designs with QR codes.  The $100,000 will be used to set up, operate, and evaluate a demonstration for one year, specifically the manufacture, installation and operation of 10,000 QR codes.  Revenue, generated for immediate expansion thereafter, will come from\r\n\r\n(a) weekly advertising;  if half of 686,000 QR codes lead to advertising for local businesses and $20 is charged a week for that advertising, there would be an operating budget of up to $6,860,000 per week, sufficient to pay for 3,000 jobs at $2,000 a month per job;\r\n\r\n(b) sponsorships;  designs would include logos where appropriate;  this would cover the manufacture and installation of QR codes, as well as an \"exclusive license\" whereby a sponsor alone would be recognized in a design;  at $50 per year, there would be approximately $1,420,000 more income per month;\r\n\r\n(c) grants remain an option because of WON as an innovation supporting business sustainability, education, exercise, civic participation."
-  budget: "The below covers the demonstration year and is subject to adjustment as new priorities arise.\r\n\r\n1. Accounting for the funds will be done by the 501(c)(3) public charity Transcendence, https://www.facebook.com/Transcendence.org .  To file forms and reports, $5,000.  125 hours at $40 per hour.   (This charity is contacted through Dr. Renford Reese, rrreese@csupomona.edu .)\r\n\r\n2. $2,500 for design work by Big Red Shoe.  50 hours at $50 per hour.\r\n\r\n3. $20,000 to create the molds for the first 10,000 QR codes.\r\n\r\n4. $22,500 to manufacture the first 10,000 QR codes.\r\n\r\n5. $34,000 to install the QR codes.  This includes pay of $12 per hour pay and $8 for materials, like epoxy.\r\n\r\n6. $2,500 for INSPIRE BEYOND to prepare inspiring news, e.g., teenage girl invents a medical tool, for transmission to Los Angeles County residents through QR codes.  50 news stories.\r\n\r\n7. $7,500 for project management.  One hour per working day, 250 days, $30 an hour.\r\n\r\n8. $6,000 for announcements directed to demonstration-area residents, businesses, organizations, government units, others.  $20 an hour to hire students and parolees to put the word out.\r\n\r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '0'

@@ -21,8 +21,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '0'
-  city_state: 'Los Angeles, CA'
   org_website: 'http://www.gridinc.biz/'
   org_twitter: '@GRIDInc'
   org_facebook: 'https://www.facebook.com/gridlogisticsinc'
@@ -87,7 +87,7 @@ maker_answers:
   org_name: GRID Logistics Inc.
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'Los Angeles, CA'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '0'
@@ -118,17 +118,6 @@ maker_answers:
     is unique, The Freight Pipeline resembles the Metro Freight paradigm
     proposed several years ago by J. H. Crawford, but is far larger and much
     more robust--pus, we have in-company expertise in pipeline systems.
-  cost: >-
-    The entire project is estimated at over $12B; the $100,000, as I explained
-    earlier, is to facilitate our funding the feasibilty study which will make
-    large-scale financing possible.
-  budget: >-
-    Part-time salaries for the four company officers for one year at $25,000
-    each. This will allow us to focus on the CSUN study, which will allow
-    large-scale investors to feel comfortable risking their money with GRID. We
-    currently are using offices in the Los angeles Cleantech Incubator, of which
-    we are a portfolio company, so all the money would go towards work, not
-    rent.
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

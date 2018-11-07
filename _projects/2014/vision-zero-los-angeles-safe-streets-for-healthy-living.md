@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_live_selfsufficiency: '1'
   metrics_live_healthyfood: '0'
-  city_state: Los Angeles
   org_website: 'http://la.streetsblog.org'
   org_twitter: '@streetsblogla'
   org_facebook: /lastreetsblog
@@ -69,7 +69,7 @@ maker_answers:
     Monica Next
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '1'
+  city_state: Los Angeles
   metrics_live_importedwater: '0'
   metrics_live_obesity: '1'
   metrics_live_homelessness: '0'
@@ -102,8 +102,6 @@ maker_answers:
     feedback on the Vision Zero policy platform we will develop and invite them
     to meetings with decision-makers. We plan to provide stipends to some of the
     smaller, local organizations working on road safety. 
-  cost: 'We believe that the project can be accomplished for $100,000. '
-  budget: "Los Angeles Walks: $35k - half time Vision Zero advocate \r\nStreetsblog LA: $30k - coverage of road safety issues and campaigns, management of grant\r\nPlace It: $10k for 10 workshops\r\nMaterials/translation/food costs for events - $3k\r\nConsultant for resident leadership training $2k\r\nStipends- $10k: $1k each for community partners collaborating on workshops and walks\r\nProduction of plan document and/or website- $5k\r\nProduction of traffic injury/fatality report and map - $5k\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

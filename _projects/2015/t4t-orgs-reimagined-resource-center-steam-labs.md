@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/1GUzOIci_7Q'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  'City, State': 'Gardena, CA'
   Organization(s) mailing address(es): "12815 S. Western Avenue\r\nGardena, CA 90249\r\n"
   Organization(s) website(s): www.T4T.org
   Organization(s) twitter handle(s): www.twitter.com/T4T.org
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Gardena, CA'
   Organization(s) name(s): T4T.org
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -155,15 +155,6 @@ maker_answers:
     organizations that take part in this process. We have also begun to have
     conversations about offering internships to students who work with the
     material where appropriate.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We at T4T.org have become experts at working within our budgets. We know how
-    to bring talent to the table with materials to accomplish what others might
-    see as impossible. This challenge excites us and brings the best we have to
-    offer in staff and volunteers to this project. We expect to make this happen
-    in 20 schools with the $100,000 awarded. These RRC STEAM Labs will all be
-    installed in a year with the assistance of T4T.org staff, volunteers,
-    educators, and material from the manufacturing community of Los Angeles.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "RRC budget-\r\nMaterials and storage                                                          $1000\r\nFacilitated day with students to design and build              1200\r\nTools and workbench                                                            1200\r\n   (T4T.org custom connectors and tubing. Tool Safety)\r\nProfessional development for educators                            1200\r\n(Workshops are designed to transition teachers\r\nto the Next Generation Science Standards (NGSS)\r\nand Common Core.)\r\nPart time staff salary                                                                400\r\n(support staff to train and help create the RRC)\r\n________________________________________________________\r\nTotal of 20 Reimagined Resource Centers                           $5000              $5000 per =                                                                              $100,000\r\n"
   How do you plan to scale the success of your proposal?: "We have been building these RRC STEAM Labs for the last two years. The first year we built two, last year we built nine, five of those through a grant from Metabolic Studios as a result of our 2014 application to LA2050. \r\n\r\nIt is our intention to continue to look for grants and to continue to offer these inspiring programs in as many of the 400+ high-poverty schools as possible. We have dozen’s of request and they continue to arrive through our web site, phone calls and email. The demand is there. \r\n\r\nOur long range goal would be to see RRC STEAM Labs in schools all over the country. Where there is manufacturing, there should be a T4T.org outlet building RRC STEAM Labs.\r\n"
 areas_impacted: ''
 partners: ''
@@ -208,29 +199,6 @@ Are there other organizations doing similar work (whether complementary or compe
   lucky enough to be awarded the grant, would go toward the vehicle, staff and
   outreach to communities. The material we use will be donated from
   manufacturers who receive a tax receipt as our thank you for their donations.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  At T4T.org we are use to working within a budget. We will buy the truck and
-  hire the staff we need to get started. We will rely on volunteers and
-  manufacturers donations to make up the difference. We don’t go over budget
-  because we don’t have anywhere to draw the money from if we did go over
-  budget. We have learned to work within our means.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  PLAY Budget $100,000.00 
-   
-   Vehicle 
-   14-passenger van  35,000.00
-   Signage  2,500.00
-   Internal Build-Out (shelving, etc.)  2,500.00
-   Salaries 
-   Outreach Coordinator (part-time)  20,000.00
-   Inventory Manager (part-time)  10, 000.00
-   3D Printer/Laser cutter/Tools 10,000.00
-   Visitations 
-   $500 per set up x 30 - 
-   Facilitation/Replenishment  15,000.00
-   Gas/Mileage  5,000.00
-   
-   TOTAL  $100,000.00
 How do you plan to scale the success of your proposal?: >-
   We see this as a pilot project and with the data collected and successes
   measured we will approach a car company to support more vehicles as well as

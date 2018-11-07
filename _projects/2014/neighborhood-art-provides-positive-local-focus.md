@@ -16,8 +16,8 @@ project_areas:
   - CENTRAL LA
   - SOUTH LA
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: CA
   org_website: ConantMoran.com
   org_twitter: ''
   org_facebook: ''
@@ -111,7 +111,7 @@ maker_answers:
   org_name: Conant Moran Design & Fabrication
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: CA
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '0'
@@ -136,8 +136,6 @@ maker_answers:
     months.  This schedule is acceptable to the artist.
   major_challenges: "1. Securing funds:  Applying for grants\r\n\r\n2. Selecting installation sites: Involve neighborhood and community leaders early in the process"
   competition: No.  No one is installing sculpture art in South Central LA.
-  cost: "Cost will be $100,000.00 to $115,000.00.\r\nAdditional cost will be covered by ConantMoran Inc."
-  budget: "Materials - $30,000.00\r\nFabrication - $35,000.00\r\nInstallation - $20,000.00\r\nUnveiling BBQ'S - $15,000.00\r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '0'

@@ -21,8 +21,8 @@ project_video: 'https://www.youtube.com/embed/iHlwRhoV_78'
 project_areas:
   - South LA
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: Friends / colleagues
   Organization(s) name(s): Social Action Partners (SoACT)
   Organization(s) mailing address(es): "5443 Overdale Dr.\r\nLos Angeles, CA 90043"
   Organization(s) website(s): www.socialactionpartners.org
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Friends / colleagues
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -141,8 +141,6 @@ maker_answers:
     value received and created, rather than a crude dollar amount. Partnership
     is the very nature of our work - partnering for progress - so we will be
     using these funds strategically to help many partners at once.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "We will utilize resources available through other partnerships with funders, and also plan to approach local tech companies for sponsorship. \r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Event costs - $25K\r\nOther program costs - $60K\r\nMaterials - $5K\r\nOverhead - $10K"
   How do you plan to scale the success of your proposal?: "To ensure that other communities can benefit from this model of place-based, locally-grounded, multi-stakeholder revival, we would also produce a playbook that catalogs guiding principles, methods, and approach, and distills key success factors for replication. Documenting learnings and communicating both successes and learning opportunities will enable others to adapt this model to their local context.\r\n"
 areas_impacted: ''
 partners: ''
@@ -152,8 +150,6 @@ Please list at least one major barrier/challenge you anticipate. What is your st
 Please explain how you will evaluate your work.: '#N/A'
 Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/disrupt-the-desert-reduce-poverty-by-accelerating-social-innovation-in-south-la/img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg

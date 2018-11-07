@@ -21,8 +21,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: submitted previously
   Organization(s) name(s): >-
     Urban & Environmental Institute, Occidental College and East Yards
     Communities for Environmental Justice
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: submitted previously
   'City, State': 'los angeles, ca'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -128,8 +128,6 @@ maker_answers:
   Please explain how you will evaluate your work.: " - number of participants in workshops\r\n- number of views of project website\r\n- attendance at training and at exhibition\r\n-engagement with advocates, residents and policy makers on urban change opportunities and structural reforms\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are a number of organizations conducting advocacy on aspects around mobility in the LA region. Move LA works on transit expansion and transportation funding. The LA County Bike coalition, Multicultural Communities for Mobility,and LA Walks work on active transportation. Investing in Place works on transportation funding and equity. Alliance for Community Transit (ACT-LA) focuses on transit and equity. Several local coalitions work on street changing initiatives and regional environmental justice movement advocate around pollution from freight and freeways. Our approach is unique because it combines a focus on mobility with exploration of models of planning and governance reforms that can facilitate change- on transportation issues and other topics. \r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "- East Yards Communities for Environmental Justice: $27,000\r\n- other community partners and Place It! (James Rojas) $19,000"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '$100,000'
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "project manager/ principal investigator- $15,217\r\ngrants manager- $2550\r\nfaculty research stipends- $3000\r\nstudent interns $2000\r\nbenefits- $6424\r\nsubcontract, EYCEJ- $27,000\r\nprinting - $1500\r\nmaterials - $1500\r\ntranslation - $2500\r\nexhibition space rental - $1300\r\ncommunity workshops (facilitation and stipends to community organizations)- $19,000\r\nsubcontract event planning (exhibition) - $3000\r\nsubcontract web design - $3000\r\n\r\ntotal- $99,959"
   How do you plan to scale the success of your proposal?: "We will create a website as a living source of ideas for change and case studies of successful innovation, and continue to maintain the site past the initial community workshops and projects. \r\nWe will collect ideas from our workshops along with example of places around the world where change has successfully been implemented; and links to books, articles, blogs and opinions related to changing transportation and related urban change. The website will be searchable – and readable in different layers by our different audiences.\r\nWe hope that the C7 case study, ideas from Place It! workshops, examples of transportation and mobility approaches, , will point to ideas for  for planning and policy reform will add up to a wider and stronger constituency of residents seeking to affect transportation and mobility. in Los Angeles."
 areas_impacted: ''
 partners: ''
@@ -139,8 +137,6 @@ Please list at least one major barrier/challenge you anticipate. What is your st
 Please explain how you will evaluate your work.: '#N/A'
 Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/la-mobilized/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23743%252Fdisplay%252FScreen_Shot_2015-10-06_at_10.04.00_AM.png=c570x385.png

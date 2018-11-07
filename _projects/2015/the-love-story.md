@@ -14,8 +14,8 @@ project_areas:
   - Westside
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Friend
   Organization(s) name(s): 'The Love Story and The Love Story Media, Inc. '
   Organization(s) mailing address(es): "12575 Beatrice St. \r\nLos Angeles, CA 90066"
   Organization(s) website(s): www.thelovestory.org
@@ -58,7 +58,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Friend
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -122,8 +122,6 @@ maker_answers:
     company that produces these documentary interviews to be published in
     digital and printed journals.  77% of the grant will be allocated to The
     Love Story Media, Inc. and 33% will be allocated towards The Love Story. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The first third of the grant will be allocated to building the online program for narrative journal writing and journalism. We will look for outside grants to expand the program to documentary filmmaking and photojournalism. Our goal is to reach 1,000 registrations within the first year. \r\n\r\nThe second third of the grant will be to expand the production by investing in equipment and  hire professional writing and film editors who oversee and guide the students who produce the content. We also want to invest in the producer will will scout for artists willing to get interviewed and matching it with the right student producer. \r\n \r\nThe last third will be used to produce the documentary journal of the stories we’ve already covered. Our goal is to publish 51,000 issues of the documentary journals that we can distribute throughout college bookstores and online. We have partnered up with Bookbaby who will be handling all the distribution and will only produce inventory as they are ordered. This grant will cover the first 2,300 journals. \r\n\r\nTo launch the full program in its entirety it would cost $1,500,000: The Love Story Media, Inc. will need a 1,000,000 initial investment and The Love Story will need a 500k investment. We will be seeking angel investors for the production and documentary journals and we will continue to seek grant funding from private foundations and crowdfund for the educational programs. "
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "1. WORKSHOPS\r\n$28,000 for the narrative journalism and journal-writing program. \r\nThis program hybridizes the craft of creative nonfiction journalism and the first person journaling  with the art of letting go. \r\n$5,000 website upgrade\r\n\r\n2. PRODUCTION\r\n$10,000 for equipment for production \r\n$23,000 for professional contractors we can produce more 65 stories. \r\nIt would cost $350 for contractors to produce each story. \r\n\r\n3. DOCUMENTARY JOURNALS\r\n$5,000 for cost of producing the first issue of the Documentary Journal \r\n$1,000 BookBaby.com to design, layout the prototype \r\nLivePortrait to turn the printed pictures into live videos once the picture is scanned through their app. Pro Bono \r\n$1,000 Contractors to write, edit, and produce the stories. \r\n"
   How do you plan to scale the success of your proposal?: "We plan on sustaining our production company through the sales of the documentary journals, licensing, sponsorships and angel investors to fund the production expansion. \r\n\r\nWe plan on sustaining our non-profit educational programs through the registrations and online memberships, crowdfunding, grants and private and public donations. "
 areas_impacted: ''
 partners: ''
@@ -175,33 +173,6 @@ Are there other organizations doing similar work (whether complementary or compe
   that produces these documentary interviews to be published in digital and
   printed journals. 77% of the grant will be allocated to The Love Story Media,
   Inc. and 33% will be allocated towards The Love Story.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The first third of the grant will be allocated to building the online program
-  for narrative journal writing and journalism. We will look for outside grants
-  to expand the program to documentary filmmaking and photojournalism. Our goal
-  is to reach 1,000 registrations within the first year. 
-   
-   The second third of the grant will be to expand the production by investing in equipment and hire professional writing and film editors who oversee and guide the students who produce the content. We also want to invest in the producer will will scout for artists willing to get interviewed and matching it with the right student producer. 
-    
-   The last third will be used to produce the documentary journal of the stories we’ve already covered. Our goal is to publish 51,000 issues of the documentary journals that we can distribute throughout college bookstores and online. We have partnered up with Bookbaby who will be handling all the distribution and will only produce inventory as they are ordered. This grant will cover the first 2,300 journals. 
-   
-   To launch the full program in its entirety it would cost $1,500,000: The Love Story Media, Inc. will need a 1,000,000 initial investment and The Love Story will need a 500k investment. We will be seeking angel investors for the production and documentary journals and we will continue to seek grant funding from private foundations and crowdfund for the educational programs.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  1. WORKSHOPS
-   $28,000 for the narrative journalism and journal-writing program. 
-   This program hybridizes the craft of creative nonfiction journalism and the first person journaling with the art of letting go. 
-   $5,000 website upgrade
-   
-   2. PRODUCTION
-   $10,000 for equipment for production 
-   $23,000 for professional contractors we can produce more 65 stories. 
-   It would cost $350 for contractors to produce each story. 
-   
-   3. DOCUMENTARY JOURNALS
-   $5,000 for cost of producing the first issue of the Documentary Journal 
-   $1,000 BookBaby.com to design, layout the prototype 
-   LivePortrait to turn the printed pictures into live videos once the picture is scanned through their app. Pro Bono 
-   $1,000 Contractors to write, edit, and produce the stories.
 How do you plan to scale the success of your proposal?: >-
   We plan on sustaining our production company through the sales of the
   documentary journals, licensing, sponsorships and angel investors to fund the

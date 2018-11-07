@@ -22,8 +22,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): "135 North Mission Road\r\nLos Angeles, CA 90033"
   Organization(s) website(s): www.promesaboyleheights.org
   Organization(s) twitter handle(s): www.twitter.com/PromesaBH
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Promesa Boyle Heights at Proyecto Pastoral
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
@@ -146,8 +146,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Evaluation of our existing Community-School (C-S) model in the schools draws from student-level quantitative & qualitative data. Our C-S model at Mendez HS is part of a comparison group evaluation by AT&T Aspire to empirically assess the impact of our efforts. We have a PN evaluation plan that is the foundation for development/implementation of our evaluation/data systems. We will evaluate projected impact through ongoing data analysis and are committed to using data/evaluation to better understand the impact of our work & share findings with others.\r\n\r\nOur early education strategies will be added to our logic model & evaluation plans. We plan to track the number of providers, schools, organizations, & parents engaged over time as well as the intensity and type of collaboration fostered. We will track resident growth & leadership over time using our existing civic engagement tools that track self-identified leadership goals & participation in leadership academies, actions, etc."
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Promesa Boyle Heights is strengthening education and wellness opportunities in our corner of Los Angeles while generating best practices that will inspire and help other communities in LA. \r\n\r\nAlthough there are other Promise Neighborhoods throughout the country – both those that received planning grants from the DOE and still others that also received DOE implementation funds – Promesa Boyle Heights is unique because of its collective impact model and resident-led governance structure.  \r\n\r\nWhile within so many other initiatives one organization oversees the distribution of resources and the implementation of strategies, we view residents as capable and essential leaders who must take ownership of the work.  We have also brought cross-sector partners together to strategize and work towards shared goals – non-profits, schools, and institutional partners alike.  \r\n\r\nThe sheer range of our strategies is also unique, encompassing direct services, the building of local capacity, shifting of local cultures, and impacting broader systemic change."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "California State University, Los Angeles\r\nCity Year\r\nCommunities in Schools\r\nDolores Mission Church\r\nDolores Mission School\r\nEast Los Angeles Community College\r\nEast Los Angeles Community Corporation\r\nEl Centro de Ayuda\r\nENKI Family Services\r\nEviction Defense Network\r\nHollenbeck Middle School\r\nHomeboy Industries\r\nInnerCity Struggle\r\nLA Voice \r\nLA-MAS\r\nLas Fotos Project\r\nLatino Equity Alliance\r\nLegacy LA\r\nMendez High School for College & Career Prep\r\nPartnership for Los Angeles Schools\r\nProyecto Pastoral\r\nRoosevelt High School\r\nSt. John’s Well Child & Family Center\r\nUnion de Vecinos\r\nWhite Memorial Medical Center"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "In January of 2014, the PBH collaborative announced a visionary “Catalyst for Change” campaign to recognize its second grant from AT&T Aspire and to raise commitments from local public and private partners to raise $2.5 million in funding to support deepening and expansion of PBH strategies through 2017.  \r\n\r\nParticipants in the press conference included Honorable Mayor Eric Garcetti, County of Los Angeles Board Supervisor Hilda Solis, and Council Member Jose Huizar for District 14.  The City of Los Angeles pledged its commitment to partner with Promesa Boyle Heights and similar placed-based efforts that bring together the local community to advance a shared vision and innovative strategies and partnerships that improve outcomes for children and families.  \r\n\r\nThe total 3-year cost for our Project is $2,500,000. We have raised $1,200,000 in foundation grants, in-kind commitments from residents and our partner organizations, and non-cash contributions from the national Promise Neighborhood Institute to support our Efforts to Outcomes database. \r\n\r\nThe LA 2050 grant will allow us to cover staffing for the early education strategies and coordination of the outreach and leadership development efforts. In partnership with InnerCity Struggle, East LA Community Corporation, and Proyecto Pastoral, we will launch an outreach campaign, update our leadership academy curriculum, and engage and train more residents to be part of our movement for change."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Personnel\r\n\r\nWellness Organizer: $12,000 (30% FTE)\r\nEarly Education Organizer: $12,000 (50% FTE)\r\nFringe Benefits and Payroll Taxes: $5,040 \r\nSub-Total Personnel:  $29,040 \r\n\r\nNon Personnel Costs\r\n\r\nCommunity Outreach Specialists: $24,000 (8 community outreach specialists)\r\nLeadership Academy Curriculum & Resident: $15,000 \r\nData and Evaluation: $20,000 \r\nSupplies: $4,983 \r\n\r\nSub-total Non-Personnel: $63,983 \r\n\r\nIndirect Cost (7.5% of direct costs): $6,977\r\n\r\nGrand Total: $100,000"
   How do you plan to scale the success of your proposal?: "Sustainability and scale of impact have been two prominent conversations in our Promesa BH Steering Committee. In 2011, we faced our first major hurdle when despite being among the top scorers for a highly competitive Department of Education Promise Neighborhood competition, we did not receive the $30 million grant that would have allowed us to fully implement our plan. Yet, every single individual and organization involved was inspired and determined to press on and work together towards achieving our shared vision because they felt connected and a deep sense of ownership towards the vision we developed. \r\n\r\nProyecto Pastoral as the backbone organization has been committed to the Promesa BH vision from the beginning. As a core member of the fundraising and sustainability committee, Proyecto is working with other partners to build momentum and support for the unique collective impact model we've built.\r\n\r\nWe believe that resident leadership and the spirit of collaboration have been - and will continue to be - a driving force as we work to fully implement the strategies in our original plan. This plan includes working towards the day when we have a strong Community-School and resident leadership infrastructure at each school, when we a strong and coordinated Early Learning Network, and a Transition to College Network in Boyle Heights. \r\n\r\nAs part of our involvement in the national Promise Neighborhood Institute, we are also beginning to share best practices and tools with other communities and organizations in Los Angeles and throughout the nation. We see this as an important part of our contribution towards the field of education and community transformation."
 areas_impacted: ''
 partners: ''
@@ -229,37 +227,6 @@ Are there other organizations doing similar work (whether complementary or compe
    St. John’s Well Child & Family Center
    Union de Vecinos
    White Memorial Medical Center
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  In January of 2014, the PBH collaborative announced a visionary “Catalyst for
-  Change” campaign to recognize its second grant from AT&T Aspire and to raise
-  commitments from local public and private partners to raise $2.5 million in
-  funding to support deepening and expansion of PBH strategies through 2017. 
-   
-   Participants in the press conference included Honorable Mayor Eric Garcetti, County of Los Angeles Board Supervisor Hilda Solis, and Council Member Jose Huizar for District 14. The City of Los Angeles pledged its commitment to partner with Promesa Boyle Heights and similar placed-based efforts that bring together the local community to advance a shared vision and innovative strategies and partnerships that improve outcomes for children and families. 
-   
-   The total 3-year cost for our Project is $2,500,000. We have raised $1,200,000 in foundation grants, in-kind commitments from residents and our partner organizations, and non-cash contributions from the national Promise Neighborhood Institute to support our Efforts to Outcomes database. 
-   
-   The LA 2050 grant will allow us to cover staffing for the early education strategies and coordination of the outreach and leadership development efforts. In partnership with InnerCity Struggle, East LA Community Corporation, and Proyecto Pastoral, we will launch an outreach campaign, update our leadership academy curriculum, and engage and train more residents to be part of our movement for change.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Personnel
-   
-   Wellness Organizer: $12,000 (30% FTE)
-   Early Education Organizer: $12,000 (50% FTE)
-   Fringe Benefits and Payroll Taxes: $5,040 
-   Sub-Total Personnel: $29,040 
-   
-   Non Personnel Costs
-   
-   Community Outreach Specialists: $24,000 (8 community outreach specialists)
-   Leadership Academy Curriculum & Resident: $15,000 
-   Data and Evaluation: $20,000 
-   Supplies: $4,983 
-   
-   Sub-total Non-Personnel: $63,983 
-   
-   Indirect Cost (7.5% of direct costs): $6,977
-   
-   Grand Total: $100,000
 How do you plan to scale the success of your proposal?: >-
   Sustainability and scale of impact have been two prominent conversations in
   our Promesa BH Steering Committee. In 2011, we faced our first major hurdle

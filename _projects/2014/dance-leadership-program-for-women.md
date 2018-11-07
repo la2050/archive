@@ -14,8 +14,8 @@ project_video: 'https://www.youtube.com/embed/K83J6XaqQlM'
 project_areas:
   - CENTRAL LA
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: 'Los Angeles, CA'
   org_website: www.criticalmassdancecompany.org
   org_twitter: ''
   org_facebook: >-
@@ -76,7 +76,7 @@ maker_answers:
   org_name: Critical Mass Dance Company (CMDC)
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: 'Los Angeles, CA'
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '1'
@@ -109,8 +109,6 @@ maker_answers:
     to make a difference in society. We are greater than the sum of our parts
     when we work together.
   competition: "The Luna Dance Institute in Northern California hires their dancers full-time to support their educative and creative work. Another Bay area organization, Purple Moon Dance Project, offers healing movement classes and performance opportunities for women of color and lesbians in San Francisco. Urban Bush Women in New York uses community organizing strategies to describe and carry out their dance work. While these organizations have inspired us with their mission and message, they serve geographically and/or demographically different populations than CMDC.\r\n\r\nThere are also several local dance companies in Los Angeles that prioritize paying their dancers well for their work. However, CMDC stands out as an unique professional and leadership development opportunity for untrained dancers. CMDC stretches beyond the horizon of a traditional dance company by bridging worlds of dance, healing arts and social justice. CMDC is a social change organization develops women leaders through dance as much as it supports women in their dance careers. CMDC's interest is creating well-rounded leaders who make a difference in the community, dance with a purpose, and thrive.\r\n"
-  cost: "With $100,000 in funds, we will be able to fully fund this project for the next year. Specifically, we will be able to rent dance studio space, stipend our dancers for their rehearsal and performance time, increase the production value of our shows, and to compensate the Dance Leadership Program Director for her time coordinating the program.\r\n"
-  budget: "Dance Leadership Program\r\nDirect Costs\t\r\n\tStudio Rental\t         5,000\r\n\tDirector                        30,000\r\n\tTheater Rental\t       1500\r\n\tAdvertising\t                250\r\n\tProps/Costumes\t2,500\r\n\tDancer fees          \t40,000\r\n\tTech Support\t        250\r\n\tPhoto/Video\t                250\r\n\tSubtotal\t               79,750\r\nOperating Expenses\r\nIndirect Costs\r\n\tWebsite/Online\t       250\r\n\tCopies/Printing\t       250\r\n\tDirector                       15,000\r\n\tEmployee Benefits\t3,000\r\n\tLiability Insurance\t750\r\n\tProfessional fees\t500\r\n\tOffice supplies\t       500\r\n\tSubtotal\t             $20,250\r\nTotal Expense\t\t     $100,000"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/c9y0Bp8kgT4'
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  'City, State': 'Los Angeles, CA '
   Organization(s) mailing address(es): "3734 West Slauson Ave.\r\nLos Angeles, CA 90043"
   Organization(s) website(s): 'http://www.ffscinc.org/'
   Organization(s) twitter handle(s): 'https://twitter.com/2ndChancesInc'
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA '
   Organization(s) name(s): Foundation for Second Chances
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
@@ -167,10 +167,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "We use quantitative & qualitative evaluation strategies to evaluate our youth’s work in addition to conducting intake surveys & doing case management on each student that enters our program. Each youth receives SMART(specific, measurable, attainable, realistic, timely) goals to make sure that they are meeting their benchmarks for staying on task, being held accountable for their duties & are able to articulate what they are learning. Through our collaborative & strategic partnerships we are able to engage community leaders, stakeholders and clients to help us identify our success and any gaps. In order to evaluate SCLP we survey our students as well as their parents and teachers. A series of in depth surveys allow for us to evaluate the progress of our students in a holistic manner. Our Evaluation Strategies include several tools:\r\nLeadership Program Student Survey; Teacher/Staff Referral Form\r\nGeneral School Functioning Assessments; Academic Achievement Assessments;Community Surveys"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Yes there are other organizations doing similar work in the South Los Angeles community but what makes us unique is that we follow our students every step of the way and we find additional resources that help to make our youth successful. We train our students to teach their peers, community and younger students. We think the added case management approach that we use make us different because we can see our youth’s growth, struggles, and accomplishments when they are happening.\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "East Side Rider Bike Club -$10,000\r\nAffecting Change, Inc- $10,000\r\nVermont Square Library - $2,500\r\nWatts Labor Community Action Committee - $2,500\r\nNCNW  - $10,000\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The cost of this project will be $100,000. If there are any unforeseen cost
-    we will fundraise for the additional cost.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Staff\t\r\nProgram Director\t $5,500.00 \r\nProgram Manager\t $30,000.00 \r\n\t\r\nSubtotal:\t                $35,500.00 \r\nBenefits @ 21%:\t  $7,455.00 \r\nTotal Salary/Benefits:\t  $42,955.00 \r\n\t\r\nDirect Expenses (Program)\t\r\nOffice Space\t                 $2,000.00 \r\nContractors/Consultant $35,000.00 \r\nCommunications\t           $1,000.00 \r\nCurriculum Development   $750.00 \r\nEvaluations\t                   $1,000.00 \r\nField Trips\t                   $5,000.00 \r\nInsurance\t                   $1,041.00 \r\nMarketing /Graphics/Website  $1,286.00 \r\nPostage\t   $500.00 \r\nProfessional Development\t $900.00 \r\nProgram Supplies/Materials\t $2,250.00 \r\nProgram Travel\t $500.00 \r\nSnacks\t $3,750.00 \r\nDirect Expenses Total\t $54,977.00 \r\nIndirect Expenses (Office/Administrative)\t\r\nOffice Supplies\t $417.00 \r\nMaintenance\t $366.00 \r\nMarketing Materials\t $250.00 \r\nPriniting/Copying\t $200.00 \r\nAccounting\t $835.00 \r\n\t\r\nInDirect Expenses Total     $2,068.00 \r\n\r\nTotal Program Cost\t $100,000.00 \r\n"
   How do you plan to scale the success of your proposal?: "We plan to scale the success of our proposal by deliberate efforts to increase the impact of our Leadership Program. \r\n\r\nWe will use the data we've collected over the last eleven years to analyze trends in our student population, donor base and communities. For example, we have discovered over the years that our program has evolved to provide services to students with learning disabilities and students whose parents were born abroad. We will also use this information to understand what communication channels are most effective, how to better raise funds and how to increase recurring giving.\r\n\r\nWe will build on our success by tapping into new technology and innovation for community-based organizations. We will use new technology such as mobile devices, tablets and applications on each to more efficiently deliver our services to our target population. Staff and volunteers will have the data that we've collected over the last eleven years on our core population, students and communities at their fingertips. \r\n\r\nWe will also build on our strong network. Having a strong professional support network is crucial for the success of our Leadership Program. We will develop our network of staff, volunteers and community partners to invest in our vision and program. We will then leverage that human capital to grow the Leadership Program from a local program to a regional and national program. That also includes developing our social networks (Facebook, Twitter, Instagram) to provide us additional access to other networks of potential donors, volunteers, members, alumni, patrons and supporters.\r\n\r\nWe will also pay close to our finances. Most, if not all, nonprofits operate on a shoestring budget and our program is no different. We are thankful for every dollar and cent that comes into the organization and we will work hard to ensure that none of its is wasted, especially during the times of growth. \r\n\r\nIn the end, these plans will benefit more of our students and community members. \r\n"
 areas_impacted: ''
 partners: ''
@@ -246,43 +242,6 @@ Are there other organizations doing similar work (whether complementary or compe
    Vermont Square Library - $2,500
    Watts Labor Community Action Committee - $2,500
    NCNW - $10,000
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The cost of this project will be $100,000. If there are any unforeseen cost we
-  will fundraise for the additional cost.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Staff 
-   Program Director $5,500.00 
-   Program Manager $30,000.00 
-   
-   Subtotal:  $35,500.00 
-   Benefits @ 21%:  $7,455.00 
-   Total Salary/Benefits:  $42,955.00 
-   
-   Direct Expenses (Program) 
-   Office Space  $2,000.00 
-   Contractors/Consultant $35,000.00 
-   Communications  $1,000.00 
-   Curriculum Development $750.00 
-   Evaluations  $1,000.00 
-   Field Trips  $5,000.00 
-   Insurance  $1,041.00 
-   Marketing /Graphics/Website $1,286.00 
-   Postage  $500.00 
-   Professional Development $900.00 
-   Program Supplies/Materials $2,250.00 
-   Program Travel $500.00 
-   Snacks $3,750.00 
-   Direct Expenses Total $54,977.00 
-   Indirect Expenses (Office/Administrative) 
-   Office Supplies $417.00 
-   Maintenance $366.00 
-   Marketing Materials $250.00 
-   Priniting/Copying $200.00 
-   Accounting $835.00 
-   
-   InDirect Expenses Total $2,068.00 
-   
-   Total Program Cost $100,000.00
 How do you plan to scale the success of your proposal?: >-
   We plan to scale the success of our proposal by deliberate efforts to increase
   the impact of our Leadership Program. 

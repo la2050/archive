@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Twitter
   Organization(s) name(s): Center for Innovation at the LAEDC
   Organization(s) mailing address(es): "444  South Flower Street\r\n37th Floor"
   Organization(s) website(s): www.innovate.la
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: Twitter
   'City, State': 'Los Angeles, CA 90071 '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -132,11 +132,6 @@ maker_answers:
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
     These resources will be utilized entirely by the Center for Innovation to
     build LAIW2016 into a global recognized festival.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    To reach the scale of SXSW or Art Basel Miami, we will ultimately need to
-    raise 1 million dollars. The additional costs will be covered through
-    corporate and philanthropic sponsorship.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "COST\r\nStaff members\t              55K\r\nMarketing\t                      14K\r\nWebsite\t                              10K\r\nEvent kickoff\t                      10K\r\nSocial media agency\t        5K\r\nPR agency\t                        2K\r\nSupplies\t                                1K\r\nComputer\t                        1K\r\nTravel\t                                1K\r\nResearch \t                        1K\r\n__________________________\r\nTOTAL                                100K\r\n\r\n"
   How do you plan to scale the success of your proposal?: >-
     Year one of Innovation Week realized 36 events. LAIW2015 has 150 events. Our
     goal for next year is to have separate tracts for Technology, Philanthropy,
@@ -192,24 +187,6 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
   These resources will be utilized entirely by the Center for Innovation to
   build LAIW2016 into a global recognized festival.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  To reach the scale of SXSW or Art Basel Miami, we will ultimately need to
-  raise 1 million dollars. The additional costs will be covered through
-  corporate and philanthropic sponsorship.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  COST
-   Staff members  55K
-   Marketing  14K
-   Website  10K
-   Event kickoff  10K
-   Social media agency  5K
-   PR agency  2K
-   Supplies  1K
-   Computer  1K
-   Travel  1K
-   Research  1K
-   __________________________
-   TOTAL 100K
 How do you plan to scale the success of your proposal?: >-
   Year one of Innovation Week realized 36 events. LAIW2015 has 150 events. Our
   goal for next year is to have separate tracts for Technology, Philanthropy,

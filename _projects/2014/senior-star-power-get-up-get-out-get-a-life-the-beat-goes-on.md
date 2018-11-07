@@ -20,6 +20,12 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  partners_collaboration: >-
+    We will engage all government, civic, education, nonprofit, and faith-based
+    organizations to participate in our activities. We will also work with local
+    travel and hospitality businesses to develop tourist packages including
+    lodging, bus tours, dining, shopping, and other entertainment attractions
+    that will encourage visitors to stay multiple days in the city.
   impact_play: >-
     According to Bonnie L. Vorenberg, President of ArtAge and a nationally
     recognized expert in senior theatre, and according to AARP, senior theatre
@@ -37,17 +43,6 @@ maker_answers:
     estimated $2.9 billion in tourism-related spending in 2012. Average age of
     visitors was 58 years. 79% of activities participated in were shows.  Senior
     Star Power can bring these tourists and their spending power to Los Angeles.
-  who_benefit: >-
-    Senior Star Power's project will directly benefit the aging population of
-    60+ years and indirectly benefit the entire Los Angeles community. There’s
-    no doubt that all of these aging adults wish to keep active and vital. Along
-    with this wish, comes, for many in Los Angeles, a strong interest in
-    activities structured around entertainment and performing arts, especially
-    theatre.  Senior citizens now account for 20 of every 100 adults of working
-    age in the greater Los Angeles area, and by 2034, that number will reach 36
-    of every 100 adults. That’s a gain of nearly 1 million senior citizens in
-    the area.  By 2050 it is projected that the number will be 50 of every 100
-    adults.   
   City_State: Woodland Hills
   org_name: Senior Star Power Productions
   org_website: www.seniorstarpower.org
@@ -104,12 +99,17 @@ maker_answers:
     mission, engage the officials of the city of Los Angeles.
   name: 'Senior Star Power - Get Up, Get Out & Get a Life! - The Beat Goes On'
   handle: seniorstarpower
-  partners_collaboration: >-
-    We will engage all government, civic, education, nonprofit, and faith-based
-    organizations to participate in our activities. We will also work with local
-    travel and hospitality businesses to develop tourist packages including
-    lodging, bus tours, dining, shopping, and other entertainment attractions
-    that will encourage visitors to stay multiple days in the city.
+  who_benefit: >-
+    Senior Star Power's project will directly benefit the aging population of
+    60+ years and indirectly benefit the entire Los Angeles community. There’s
+    no doubt that all of these aging adults wish to keep active and vital. Along
+    with this wish, comes, for many in Los Angeles, a strong interest in
+    activities structured around entertainment and performing arts, especially
+    theatre.  Senior citizens now account for 20 of every 100 adults of working
+    age in the greater Los Angeles area, and by 2034, that number will reach 36
+    of every 100 adults. That’s a gain of nearly 1 million senior citizens in
+    the area.  By 2050 it is projected that the number will be 50 of every 100
+    adults.   
   metrics_play_openspace: '0'
   metrics_play_afterschool: '0'
   metrics_play_crime: '0'
@@ -140,8 +140,6 @@ maker_answers:
     No.  Senior Star Power is the only company dedicated to engage, inspire, and
     enrich the health and wellness of seniors through entertainment and the
     theatre arts.
-  cost: "Theatrical Production Budget (Estimated) - $125,000.00 - Estimate is based on 99-seat donated theatre facility. \r\nClasses/Workshop Budget (Estimated) - $3,250.00\r\n\r\nSenior Star Power would raise the extra $28,250 needed via fund raising events, pre-ticket sales, donations and sponsorships\r\n"
-  budget: "Theatrical Production Budget\t      $125,000.00 \r\nBased on 99 seat donated theatre - income & budget increase according to venue size.  This includes a director, musical director, writer, choreographer, set designer, lighting designer, sound designer, costume designer, stage manager and actors.\t\r\n\t\r\nWorkshop Budget - Based on 3 workshops - 6 weeks each\t\r\nFacility Rental\t                            $450.00 \r\nTeachers\t                                         $1,800.00 \r\nTotal workshops                             $3,250.00\r\n\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

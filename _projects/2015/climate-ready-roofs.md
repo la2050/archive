@@ -19,8 +19,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: newsletter
   Organization(s) name(s): Climate Resolve
   Organization(s) mailing address(es): '1000 N. Alameda St. #240, Los Angeles, CA 90012'
   Organization(s) website(s): www.climateresolve.org
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: newsletter
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -157,15 +157,6 @@ maker_answers:
     through its Home Repair Program, and there is simply no other project like
     Climate Ready Roofs.
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "What makes this project so unique isn’t just the energy savings for low-income homeowners or the cooling and improved air quality of the surrounding neighborhoods, but the first-of-its-kind partnership that has developed between three organizations, each with a proven track record of success in creating a more livable, healthier and more equitable city. Climate Resolve has partnered with Grid Alternatives Greater Los Angeles and Habitat for Humanity of Greater Los Angeles. \r\n\r\nGrid Alternatives Greater Los Angeles: GLA is a non-profit solar company that provides solar electric systems to low-income families at no cost.  The solar arrays are installed using community volunteers and individuals seeking job training for the solar industry.  GLA’s vision is a successful transition to clean, renewable energy that includes all people.  Solar represents a solution to climate change that can be adopted now to reduce carbon emissions.\r\n\r\nHabitat for Humanity of Greater Los Angeles: Habitat LA has been providing housing solutions to low income families in greater Los Angeles since 1990. The largest affiliate west of the Mississippi, Habitat LA has built, renovated and repaired over 600 homes in the greater Los Angeles area and has helped build over 400 homes internationally. A commitment to the environment and sustainable building practices has been a core component of Habitat’s work for over a decade. Since 2008, Habitat LA has built more than 50 homes that have achieved Leadership in Energy and Environmental Design (LEED) certification, with 41 of those homes receiving Silver certification or higher\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Climate Resolve, GLA and Habitat LA have already come together to place a
-    Climate Ready Roof pilot project for a low-income homeowner in South Los
-    Angeles.  Because there is already a model of how this project will work we
-    have experience budgeting for a greater number of homes. Based on this
-    initial project and our history of roof replacement and solar installations,
-    we are confident that we can complete a minimum of eight projects with the
-    $100,000 grant. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "EXPENSES\r\nPersonnel \r\nHabitat LA Personnel \t\t\t\t$    9,600\t\r\nGrid LA Personnel\t\t\t\t$  51,392\r\nTaxes/Workers Comp/Benefits\t\t\t$  17,580\r\nClimate Resolve Personnel\t\t\t$  24,600\r\nTOTAL PERSONNEL\t\t\t\t$103,172\t\r\n\r\nNon-Personnel\r\nPR/ Communications\t\t\t\t$   4,750\r\nSolar Equipment\t\t\t\t$ 59,575\r\nConstruction materials (roof, fittings, conduit)\t$ 83,239\r\nProgram Evaluation\t\t\t\t$      500\r\nPermits\t\t\t\t\t\t$   6,592\r\nArchitecture/ Engineering\t\t\t$      800\r\nGeneral Liability/Auto Insurance\t\t$   3,176\r\nTravel\t\t\t\t\t\t$   4,683\r\nIndirect (rent, utilities, IT, phone)\t\t$ 14,423\r\nTOTAL NON-PERSONNEL\t\t\t$177,738\r\n\r\nTOTAL\tEXPENSES\t\t\t\t$280,910\t\t\t\t\r\n\r\nINCOME\r\n*Net proceeds from 8 solar installations\t\t$116,150\r\nProduct Donation (equipment and roofing)\t$  53,214\r\nTOTAL INCOME\t\t\t\t\t$169,364\r\n\r\nFUNDING NEEDED\t\t\t\t$111,546\r\nLA2050 Grant (if awarded)\t\t\t$100,000\r\nGAP TO BE RAISED\t\t\t\t$  11,546\t\t\t\t\t\t \r\n\r\n*CPUC-SASH Program, State of CA Cap and Trade solar incentives and federal tax credits\r\n"
   How do you plan to scale the success of your proposal?: "We see this initial project as highly scalable. This is a unique program that helps low-income people be part of the clean energy revolution.\r\n\r\nClimate Ready Roofs is an effective, even obvious, way for the State of California to meet its ambitious goal of cutting electricity use in half in existing buildings by the year 2030. As such, we anticipate California looking to proven models on how buildings can dramatically reduce energy and provide other benefits, such as aiding resilience to warmer temperatures.\r\n\r\nLA 2050’s support of Climate Ready Roofs would develop the model. The scale-up could be funded by either the Greenhouse Gas Reduction Fund or via utility rates.\r\n\r\nThe Climate Ready Roofs model is exciting because it provides so many benefits at a low cost. If scaled-up, the cost of labor will remain low. There are 49 Habitat for Humanity affiliates in California and more than 1,400 throughout the United States. In addition, there are 7 GRID Alternatives affiliates in California and 10 throughout the country.   Moreover, the cost of photovoltaic modules is at an all-time low and is expected to come down further. Funding from the PUC will continue to help pay for low income families to receive solar power through at least 2021. Last, the cost of cool roofs will remain low, thanks to LA City’s aforementioned incentive program, which we hope to expand to the county level. Because Investor Owned Utilities (IOU) need to reach 10% reduction in projected load targets via energy efficiency by 2020, utilities have been given permission to pass these costs on to ratepayers – therefore, we can anticipate more support from IOUs. Indeed, if new countywide mandates on cool roofs take hold, similar to what’s in place in the city of LA, the sheer volume of new “cool” roofing materials would help drive down the price.\r\n"
 areas_impacted: ''
 partners: 'Partner EINs: , 330416470, 461652604'
@@ -238,47 +229,6 @@ Are there other organizations doing similar work (whether complementary or compe
    Grid Alternatives Greater Los Angeles: GLA is a non-profit solar company that provides solar electric systems to low-income families at no cost. The solar arrays are installed using community volunteers and individuals seeking job training for the solar industry. GLA’s vision is a successful transition to clean, renewable energy that includes all people. Solar represents a solution to climate change that can be adopted now to reduce carbon emissions.
    
    Habitat for Humanity of Greater Los Angeles: Habitat LA has been providing housing solutions to low income families in greater Los Angeles since 1990. The largest affiliate west of the Mississippi, Habitat LA has built, renovated and repaired over 600 homes in the greater Los Angeles area and has helped build over 400 homes internationally. A commitment to the environment and sustainable building practices has been a core component of Habitat’s work for over a decade. Since 2008, Habitat LA has built more than 50 homes that have achieved Leadership in Energy and Environmental Design (LEED) certification, with 41 of those homes receiving Silver certification or higher
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Climate Resolve, GLA and Habitat LA have already come together to place a
-  Climate Ready Roof pilot project for a low-income homeowner in South Los
-  Angeles. Because there is already a model of how this project will work we
-  have experience budgeting for a greater number of homes. Based on this initial
-  project and our history of roof replacement and solar installations, we are
-  confident that we can complete a minimum of eight projects with the $100,000
-  grant.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  EXPENSES
-   Personnel 
-   Habitat LA Personnel $ 9,600 
-   Grid LA Personnel $ 51,392
-   Taxes/Workers Comp/Benefits $ 17,580
-   Climate Resolve Personnel $ 24,600
-   TOTAL PERSONNEL $103,172 
-   
-   Non-Personnel
-   PR/ Communications $ 4,750
-   Solar Equipment $ 59,575
-   Construction materials (roof, fittings, conduit) $ 83,239
-   Program Evaluation $ 500
-   Permits $ 6,592
-   Architecture/ Engineering $ 800
-   General Liability/Auto Insurance $ 3,176
-   Travel $ 4,683
-   Indirect (rent, utilities, IT, phone) $ 14,423
-   TOTAL NON-PERSONNEL $177,738
-   
-   TOTAL EXPENSES $280,910 
-   
-   INCOME
-   *Net proceeds from 8 solar installations $116,150
-   Product Donation (equipment and roofing) $ 53,214
-   TOTAL INCOME $169,364
-   
-   FUNDING NEEDED $111,546
-   LA2050 Grant (if awarded) $100,000
-   GAP TO BE RAISED $ 11,546 
-   
-   *CPUC-SASH Program, State of CA Cap and Trade solar incentives and federal tax credits
 How do you plan to scale the success of your proposal?: >-
   We see this initial project as highly scalable. This is a unique program that
   helps low-income people be part of the clean energy revolution.

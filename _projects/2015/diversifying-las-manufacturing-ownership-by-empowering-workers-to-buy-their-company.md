@@ -17,8 +17,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: twitter
   Organization(s) name(s): Concerned Capital
   Organization(s) mailing address(es): "Impact HUB LA\r\nC/o Concerned Capital\r\n830 Traction Avenue, 3A\r\nLos Angeles, CA  90013"
   Organization(s) website(s): www.concernedcapital.org
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: twitter
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -135,8 +135,6 @@ maker_answers:
     Vermont Slauson Economic Development Corporation, West Angeles Community
     Development Center and the network of Small Business Development Centers
     sponsored by the Small Business Administration. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The successful transfer of ownership of all 20 companies will cost and estimated $ 5,100,000 over the next 3 years. Almost 75% of the cost is the equity needed for each transaction.  The remaining 25% of the costs, approximately $ 900,000 are the transaction costs, which average $ 45,000 per company.  \r\n\r\nWe estimate that it will take 36 months to transfer all 20 companies because each group of potential buyers will have a varying state of readiness to become owners.  Each group will need a personalized transfer program, tailored to their level of business acumen. It is likely that one third of the groups identified by our outreach will need a year or more of training to be ready to take over the business. Given the time it takes to get the buyers ready and the businesses’ varying state of readiness to transfer ownership, it is important that we cast a wide net and create a pipeline of businesses.\r\n\r\nWithin 12 months of the grant award, Concerned Capital estimates that we will transfer the ownership for seven businesses. Concerned Capital will evaluate and prioritize the businesses in the pipeline for readiness to transfer. An estimated $1,400,000 to successfully complete the transfer of ownership of 7 of these companies. \r\n\r\n$140,000 will be needed to hire a Certified Public Accountant to create independent valuation reports, and generate year-end financial reports and projections for the target businesses.\r\n\r\n$160,000 will be needed to provide legal assistance for both sides, including due diligence for warranties and representations of the seller, write purchase contracts, ensure the legality of the transfer pursuant to state law, and make sure the new officers are appointed correctly and set up the new corporation with the state.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Our LA2050 grant proceeds will provide matching grants to employees seeking to develop entrepreneurial skills.  We look to identify 100 employees within existing companies that seek to develop the skills needed to own and run their companies.  Our training budget allows for $200 per employee with $100 matching funds coming from the interested employee.  Our total budget for non-profit partners we will use for training is $20,000.  Our training partners charge for their training services and each offer a different range of services – bookkeeping, management, advertising, marketing and sales.  We will be selecting which training program is needed once we’re able to access the employee group skill set.   \r\n\r\nTo help us identify companies with interested employees we will develop a social media campaign that uses video testimonials distributed over LinkedIn and Instagram.  Our goal is to reach out to younger workers in companies where the owner is seeking to retire or transition the ownership of the company.  We have successfully transitioned 7 companies over the life of Concerned Capital and we seek to document these first.  We estimate a budget need of $25,000 for this work.\r\n\r\nThe balance of our budget will be used to support activity connected with transition of ownership work which includes; development of an offer letter with employees and the owner, valuations and securing financing from non –traditional lenders.  Development of projections, business plans and organizational development will be part of this activity."
   How do you plan to scale the success of your proposal?: "We plan to scale this project first to the Southern California Region and then to the rest of the Country.  Our work has been identified by the Los Angeles providers of Workforce Services as a  Best Practice for saving Jobs. We plan to launch this initiative with these providers as a ‘demonstration program’ and based on our local success share it with the Federal Government.  \r\n\r\nOur plan is to start by deploying this program in 25 Major US Cities through the Department of Labor.\r\n\r\nWe also hope to introduce this concept to Economic Development Professionals in cities throughout California and eventually the rest of the nation.  Every city has an Office of Economic Development who we will reach through social media as we currently do on Linkedin.\r\n\r\nThe National Association of Workforce Providers is a trade group with 14,300 members nationwide that we routinely share innovations with.  This group will also scale the program nationally.  \r\n\r\nWe feel that the idea of long term employees buying the company they work for will be seen as a solution to the issue of income inequality and preserving manufacturing jobs.  These issues have already been highlighted in our nation's upcoming presidential election.\r\n"
 areas_impacted: ''
 partners: ''
@@ -196,35 +194,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Corporation, West Angeles Community Development Center and the network of
   Small Business Development Centers sponsored by the Small Business
   Administration.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The successful transfer of ownership of all 20 companies will cost and
-  estimated $ 5,100,000 over the next 3 years. Almost 75% of the cost is the
-  equity needed for each transaction. The remaining 25% of the costs,
-  approximately $ 900,000 are the transaction costs, which average $ 45,000 per
-  company. 
-   
-   We estimate that it will take 36 months to transfer all 20 companies because each group of potential buyers will have a varying state of readiness to become owners. Each group will need a personalized transfer program, tailored to their level of business acumen. It is likely that one third of the groups identified by our outreach will need a year or more of training to be ready to take over the business. Given the time it takes to get the buyers ready and the businesses’ varying state of readiness to transfer ownership, it is important that we cast a wide net and create a pipeline of businesses.
-   
-   Within 12 months of the grant award, Concerned Capital estimates that we will transfer the ownership for seven businesses. Concerned Capital will evaluate and prioritize the businesses in the pipeline for readiness to transfer. An estimated $1,400,000 to successfully complete the transfer of ownership of 7 of these companies. 
-   
-   $140,000 will be needed to hire a Certified Public Accountant to create independent valuation reports, and generate year-end financial reports and projections for the target businesses.
-   
-   $160,000 will be needed to provide legal assistance for both sides, including due diligence for warranties and representations of the seller, write purchase contracts, ensure the legality of the transfer pursuant to state law, and make sure the new officers are appointed correctly and set up the new corporation with the state.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Our LA2050 grant proceeds will provide matching grants to employees seeking to
-  develop entrepreneurial skills. We look to identify 100 employees within
-  existing companies that seek to develop the skills needed to own and run their
-  companies. Our training budget allows for $200 per employee with $100 matching
-  funds coming from the interested employee. Our total budget for non-profit
-  partners we will use for training is $20,000. Our training partners charge for
-  their training services and each offer a different range of services –
-  bookkeeping, management, advertising, marketing and sales. We will be
-  selecting which training program is needed once we’re able to access the
-  employee group skill set. 
-   
-   To help us identify companies with interested employees we will develop a social media campaign that uses video testimonials distributed over LinkedIn and Instagram. Our goal is to reach out to younger workers in companies where the owner is seeking to retire or transition the ownership of the company. We have successfully transitioned 7 companies over the life of Concerned Capital and we seek to document these first. We estimate a budget need of $25,000 for this work.
-   
-   The balance of our budget will be used to support activity connected with transition of ownership work which includes; development of an offer letter with employees and the owner, valuations and securing financing from non –traditional lenders. Development of projections, business plans and organizational development will be part of this activity.
 How do you plan to scale the success of your proposal?: >-
   We plan to scale this project first to the Southern California Region and then
   to the rest of the Country. Our work has been identified by the Los Angeles

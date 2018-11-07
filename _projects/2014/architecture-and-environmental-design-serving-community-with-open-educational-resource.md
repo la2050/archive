@@ -23,6 +23,7 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_learn_communitycollege: '1'
   collaboration: >-
     To be clear with time, budget and scope with all our partners will be a key
     factor for success. World Peace One Education and Communities:  This
@@ -58,7 +59,6 @@ maker_answers:
     Black Caucus California Community College will continue helping us outreach
     to people of color to be active participants in the built environment as
     designers, architects, engineers, scientists and leaders.
-  metrics_learn_earlyeducation: '0'
   org_website: www.LEARNandSERVEOER.com
   org_twitter: www.twitter.comLearnandServeOER
   org_facebook: www.facebook.comLearnandServeOER
@@ -164,7 +164,7 @@ maker_answers:
   org_name: >-
     Los Angeles Trade Technical College Architecture and Environmental Design
     Program
-  metrics_learn_communitycollege: '1'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '1'
   metrics_learn_graduationrates: '1'
   metrics_learn_proficiency: '0'
@@ -210,15 +210,6 @@ maker_answers:
     focusing on transferring to universities.  Los Angeles Trade-Technical
     College has always been about real projects with real experiences.  Our
     mission is different.
-  cost: >-
-    It will cost more than $100,000, but we already possess a current
-    infrastructure in the college and a state-of-the-art technology laboratory. 
-    We also have exiting courses and a volunteer team.  The internship program
-    will pay only for the students. The student store products and services will
-    produce the ability to gain income to continue and grow the program.  We
-    have the necessary items, and the program should self-finance its own growth
-    after this critical grant support from LA 2050 LEARN.
-  budget: "1.- Intern students will be paid $10 per hour.  Although, this is below industry standards, these types of job will open many new job opportunities in a short period of time.\r\nStudent Interns: $45,000\r\n\r\n2.- We count with series of facilitators, community leaders who are experts on synergetic teaching that are ready to jump on board.  These leaders will be paid per project with an outcome. For example, a Leader will have two interns, who will produce a set of drawings and visualization for a given project.  The Leader will be paid $ 1,500 for the final product and students will be paid by the hour, for 40 hours each.  We will break the budget down according to project scope. The total for Leaders will be $25,000.\r\n\r\n3.-3-D Printer and Supplies $20,000.  This is an important component for the innovation of the  products and services that make this project unique.\r\n\r\n4.-Administration $5,000.  The foundation, chair, or administration leader has to fill out many forms and comply with local regulations to make this project successful.\r\n\r\n5.- Materials, supplies, gallery events $5,000.  We plan to have multiple events to celebrate milestones and publish our results. This budget item will facilitate this effort.\r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

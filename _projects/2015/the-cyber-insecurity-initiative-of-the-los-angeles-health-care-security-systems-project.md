@@ -21,8 +21,8 @@ project_video: 'https://www.youtube.com/embed/NNetdspYB4M'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
-  How did you hear about this challenge?: Submitted last year
   Organization(s) name(s): The Center of Medical Multimedia Education and Technology (COMMET)
   Organization(s) mailing address(es): "220 S Westgate Ave.\r\nLos Angeles, CA 90049"
   Organization(s) website(s): www.COMMET.org
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Submitted last year
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -165,20 +165,6 @@ maker_answers:
     framework for best practices, and this has to come primarily from the
     private sector.
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Dignity Health, Providence Partners for Health, Hospital Corporation of America , UCLA Center for Public Health and Disasters, University of Florida School of Medicine, The LA Healthcare Coalition of the LA County EMS Agency are non-paid collaborators. \r\nRed-E (a private cyber consulting firm) will receive $10,000 for their role. \r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The total anticipated cost of the initiative is approximately $250,000 over
-    three years. This figure includes an assumption that our data collection
-    will have very robust participation from prospective respondents. COMMET
-    will aggressively seek funding from other sources to fund the initiative
-    beyond the first year. However, the first-year funding provided by LA2050 is
-    essential to get the project started. Also, as an alternative, the data
-    collected during the first year with LA2050 funding can still be extremely
-    valuable even if it the number of respondents is lower than desired. In
-    other words, the project would still be a success if follow-on funding were
-    not secured. The estimate of $250,000 is based on our ideal end state
-    interviewing other infrastructure as well as the general public. But we can
-    still achieve a very worthwhile goal with one year of funding.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Principal Investigator – Peter Katona, MD – 10% of time, $20,000 for overall coordination.\r\nProject Manager(s) – Nadia Ho – 50% of time, $35,000 for day to day supervision.\r\nSurveyors (4) – to be hired - $20,000 ($5,000 each) to handle the person-to-person surveys\r\nStatistical and IT Consultants  –  $5,000\r\nPrinting, materials and supplies, etc. – $4,000\r\nSurvey tools - $1,000\r\nRed-E Consulting - $10,000 to provide the \"hacker' perspective.\r\nCOMMET overhead - $5,000\r\n"
   How do you plan to scale the success of your proposal?: >-
     Once we have data collected and analyzed from the five initial surveyed
     hospital groups in the pilot survey we will make appropriate changes and
@@ -249,29 +235,6 @@ Are there other organizations doing similar work (whether complementary or compe
   School of Medicine, The LA Healthcare Coalition of the LA County EMS Agency
   are non-paid collaborators. 
    Red-E (a private cyber consulting firm) will receive $10,000 for their role.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The total anticipated cost of the initiative is approximately $250,000 over
-  three years. This figure includes an assumption that our data collection will
-  have very robust participation from prospective respondents. COMMET will
-  aggressively seek funding from other sources to fund the initiative beyond the
-  first year. However, the first-year funding provided by LA2050 is essential to
-  get the project started. Also, as an alternative, the data collected during
-  the first year with LA2050 funding can still be extremely valuable even if it
-  the number of respondents is lower than desired. In other words, the project
-  would still be a success if follow-on funding were not secured. The estimate
-  of $250,000 is based on our ideal end state interviewing other infrastructure
-  as well as the general public. But we can still achieve a very worthwhile goal
-  with one year of funding.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Principal Investigator – Peter Katona, MD – 10% of time, $20,000 for overall
-  coordination.
-   Project Manager(s) – Nadia Ho – 50% of time, $35,000 for day to day supervision.
-   Surveyors (4) – to be hired - $20,000 ($5,000 each) to handle the person-to-person surveys
-   Statistical and IT Consultants – $5,000
-   Printing, materials and supplies, etc. – $4,000
-   Survey tools - $1,000
-   Red-E Consulting - $10,000 to provide the "hacker' perspective.
-   COMMET overhead - $5,000
 How do you plan to scale the success of your proposal?: >-
   Once we have data collected and analyzed from the five initial surveyed
   hospital groups in the pilot survey we will make appropriate changes and

@@ -17,8 +17,8 @@ project_image: 'https://img.youtube.com/vi/20ErlmkuIfQ/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/20ErlmkuIfQ'
 project_areas: []
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): '845 S. Lake St., Los Angeles, CA 90057'
   Organization(s) website(s): www.casa-libre.org
   Organization(s) twitter handle(s): www.twitter.com/casa_libre
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Casa Libre
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -142,10 +142,6 @@ maker_answers:
     of the ones developed with  LAUSD, Los Angeles Conservancy, USC
     (Architecture & Business), UCLA (Chicano Studies), and Cal Tech most
     closely. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The beauty of our initiative is that it will actually cost less than
-    $100,000! 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Study Hall Administrator for 3 year ( 6 days a week 4 hours/day $15hr) \r\n\r\n$56,160\r\n\r\nSpeaker Stipend (1 speaker per month $100 stipend)  $3,400\r\n\r\nFoldable Tables (5 tables $500)\r\n\r\nFoldable Chairs (30 $600 )\r\n\r\nReversible Rolling White Board ($400)\r\n\r\nSchool Supplies ( $4,000)\r\n\r\nMisc. ($1,000) \r\n\r\nExpansion Budget (Additional teachers, technology etc. ) $35,000\r\n\r\n"
   How do you plan to scale the success of your proposal?: "The success of our proposal will be determined by the occupancy and retention rate of our students. \r\n\r\nOur maximum capacity will be 30 students, and we will strive to achieve an average of 75% capacity (22 students per day) throughout the year. \r\n\r\nWe will also have additional target goals like number of students to apply to higher learning and success measures such as indivicusl improved GPA. "
 areas_impacted: ''
 partners: ''
@@ -205,25 +201,6 @@ Are there other organizations doing similar work (whether complementary or compe
   partnerships with many organizations, but we would intend to take advantage of
   the ones developed with LAUSD, Los Angeles Conservancy, USC (Architecture &
   Business), UCLA (Chicano Studies), and Cal Tech most closely.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'The beauty of our initiative is that it will actually cost less than $100,000!'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Study Hall Administrator for 3 year ( 6 days a week 4 hours/day $15hr) 
-   
-   $56,160
-   
-   Speaker Stipend (1 speaker per month $100 stipend) $3,400
-   
-   Foldable Tables (5 tables $500)
-   
-   Foldable Chairs (30 $600 )
-   
-   Reversible Rolling White Board ($400)
-   
-   School Supplies ( $4,000)
-   
-   Misc. ($1,000) 
-   
-   Expansion Budget (Additional teachers, technology etc. ) $35,000
 How do you plan to scale the success of your proposal?: >-
   The success of our proposal will be determined by the occupancy and retention
   rate of our students. 

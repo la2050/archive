@@ -28,6 +28,18 @@ project_summary: >-
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16858%252Fdisplay%252FAccess_LA_Rt_copy.jpg=c570x385
 maker_answers:
+  description1: >-
+    Founded by UCLA students in 1982, Outfest is the leading organization that
+    promotes equality by creating, sharing, and protecting LGBT (Lesbian, Gay,
+    Bisexual and Transgender) stories on the screen. Outfest builds community by
+    connecting diverse populations to discover, discuss, and celebrate stories
+    of LGBT lives. Over the past three decades, Outfest has showcased thousands
+    of films from around the world to audiences of nearly a million, educated
+    and mentored hundreds of emerging filmmakers, and protected more than 20,000
+    LGBT films and videos. In addition, Outfest produces one of the largest film
+    festivals in Southern California, the only LGBT people of color film
+    festival, three filmmaking programs using mentors, and we have over 400
+    volunteers who participate in our programs. 
   success: >-
     In the short term, we will measure success by the number of volunteers who
     participate, the number of films that are completed, how well the teams work
@@ -40,7 +52,6 @@ maker_answers:
     skills they learned in the project to get work. Ideally, this project will
     continue annually and will build stronger and deeper relationships within
     neighborhoods every year. 
-  Organization Name: Outfest
   Indicator: ' Social Connectedness'
   brief: >-
     One of the best ways to connect people is through storytelling. In September
@@ -62,7 +73,6 @@ maker_answers:
     they’ll live online and will be pushed out via a social networking campaign.
     Prizes will be given to the most impactful film, greatest number of
     volunteers engaged, and best team cooperation. 
-  budget explanation: "- Project producer (finds mentors, coordinates teams, procures basic equipment, coordinates both neighborhood screening and final screening) – 4 months @ $4000/month = $16,000\r\n- Community organizer (partners with local community organizations, selects neighborhoods for projects) – 4 months @ $3000/month = $12,000\r\n- Volunteer coordinator – 4 months @ $3000/month = $12,000\r\n- Production assistant – 3 months@ $2000/month = $6,000\r\n- Publicist (generates print and online stories about the project) – 2 months@ 3.500/month $7,000\r\n- Outfest Senior Team Management – 4 months @ $2000/month = $8000\r\n- Web designer and online communications (produces website to house the films and runs social media campaign) = $10,000 \r\n- Office and supplies – 4 months @ $2125 = $8500\r\n- Insurance = $5,000\r\n- Food and craft services – 300 volunteers x $25 per person = $7,500\r\n- Volunteer T-shirts 300 x $10 = $3000\r\n- Final Screening (venue rental, projection costs, and reception) = $5000"
   description: "By organizing diverse teams to tell a story about a local hero in 15 different neighborhoods across Los Angeles. This project will: \r\n1. Engage at least 300 volunteers. \r\n2. Build community among people of diverse backgrounds. \r\n3. Deepen connection to neighborhoods by highlighting local heroes. \r\n4. Provide basic training to at least 45 novice filmmakers who can transport their skills into the job force. "
   collaborators: >-
     Outfest has over 80 community partners that we work with through our film
@@ -76,18 +86,7 @@ maker_answers:
     Council, who has been a key collaborator in a recent neighborhood based
     Outfest program. 
   website: Outfest.org
-  description1: >-
-    Founded by UCLA students in 1982, Outfest is the leading organization that
-    promotes equality by creating, sharing, and protecting LGBT (Lesbian, Gay,
-    Bisexual and Transgender) stories on the screen. Outfest builds community by
-    connecting diverse populations to discover, discuss, and celebrate stories
-    of LGBT lives. Over the past three decades, Outfest has showcased thousands
-    of films from around the world to audiences of nearly a million, educated
-    and mentored hundreds of emerging filmmakers, and protected more than 20,000
-    LGBT films and videos. In addition, Outfest produces one of the largest film
-    festivals in Southern California, the only LGBT people of color film
-    festival, three filmmaking programs using mentors, and we have over 400
-    volunteers who participate in our programs. 
+  Organization Name: Outfest
   description3: >-
     Outfest’s mission is to “protect our past, showcase our present, and nurture
     our future by fostering artistic expression of gender, sexuality, and LGBT
@@ -202,17 +201,5 @@ cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/neighbor-to-neighbor-connecting-los-angeles-through-storytelling/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16858%252Fdisplay%252FAccess_LA_Rt_copy.jpg=c570x385.jpg
 maker_image_id: '16858'
 maker_image_file_name: Access_LA_Rt_copy.jpg
-project_summary_backup: >-
-  Founded by UCLA students in 1982, Outfest is the leading organization that
-  promotes equality by creating, sharing, and protecting LGBT (Lesbian, Gay,
-  Bisexual and Transgender) stories on the screen. Outfest builds community by
-  connecting diverse populations to discover, discuss, and celebrate stories of
-  LGBT lives. Over the past three decades, Outfest has showcased thousands of
-  films from around the world to audiences of nearly a million, educated and
-  mentored hundreds of emerging filmmakers, and protected more than 20,000 LGBT
-  films and videos. In addition, Outfest produces one of the largest film
-  festivals in Southern California, the only LGBT people of color film festival,
-  three filmmaking programs using mentors, and we have over 400 volunteers who
-  participate in our programs. 
 
 ---

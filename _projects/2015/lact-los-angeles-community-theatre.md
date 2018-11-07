@@ -16,8 +16,8 @@ project_video: 'https://www.youtube.com/embed/fRmzSDzuoRA'
 project_areas:
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: contacted by the city
   Organization(s) name(s): LACT - Los Angeles Community Theatre
   Organization(s) mailing address(es): '3930 Paige Street, Los Angeles, CA 90031'
   Organization(s) website(s): www.losangelescommunitytheatre.org
@@ -58,7 +58,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: contacted by the city
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -114,10 +114,6 @@ maker_answers:
     progress of the company. 
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are many 99 and 45 seat theatres in Los Angeles, but there is no comprehensive Community Theatre program. \r\n\r\nThe foundation of the LACT concept is that professional theater artists will be working on each show. These guest artists will share their knowledge and talents. Their expertise will give the community a professional theater experience."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': N/A
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We do not anticipate that our budget will go over $100,000. However, if it
-    does, we will have auctions and fundraisers to raise the additional funds. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "We will allocate $25k per year for 4 years to get the program up and running. \r\n\r\nAnnual breakdown:\r\n$10k - venue rental & equipment\r\n$10k - instructors & guest artists\r\n$5k - marketing & development"
   How do you plan to scale the success of your proposal?: >-
     Over the 4 years that we make use of the $100k, we will grow our audience
     and donors to a place where LACT will be self sustainable. 
@@ -148,16 +144,6 @@ Are there other organizations doing similar work (whether complementary or compe
    
    The foundation of the LACT concept is that professional theater artists will be working on each show. These guest artists will share their knowledge and talents. Their expertise will give the community a professional theater experience.
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': N/A
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We do not anticipate that our budget will go over $100,000. However, if it
-  does, we will have auctions and fundraisers to raise the additional funds.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  We will allocate $25k per year for 4 years to get the program up and running. 
-   
-   Annual breakdown:
-   $10k - venue rental & equipment
-   $10k - instructors & guest artists
-   $5k - marketing & development
 How do you plan to scale the success of your proposal?: >-
   Over the 4 years that we make use of the $100k, we will grow our audience and
   donors to a place where LACT will be self sustainable.

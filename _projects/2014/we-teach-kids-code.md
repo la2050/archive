@@ -19,8 +19,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_learn_communitycollege: '1'
   collaboration: "The City Charter School:\r\n- Confirmed\r\n- Direct access to students for implementation. A location for summer and fall programs. An association with a tech charter school. \r\n- Yes, we have held summer programs in the past and will be holding a fall course in the upcoming term. \r\n- Quality of instruction, student engagement, and administrative/parental support. \r\n\r\nDevPoint Labs\r\n- Confirmed\r\n- DevPoint Labs is an adult coding bootcamp. They have extensive experience in teaching code, creating industry relevant code curriculum, and a network of developers and large tech companies.\r\n- Yes, they have provided insight and guidance for the current iteration of our curriculum\r\n- Consistent feedback loop on the curriculum, quality of instructor training, maintaining connections in the tech world.\r\n"
-  metrics_learn_earlyeducation: '0'
   org_website: www.mushroomlearning.com
   org_twitter: 'https://twitter.com/mushroomK12'
   org_facebook: www.facebook.com/mushroomK12
@@ -69,7 +69,7 @@ maker_answers:
   who_benefit: "Our project will benefit any student middle school age and up that has a desire to learn more about computer science and the field of computer programming. \r\n\r\nComputer science is America's untapped opportunity. According to code.org, there will be 1,000,000 more jobs than students by 2020, amounting to a $500 billion need. Educating LA's future workforce would ensure LA's place as a global tech hub."
   about_you: 'Los Angeles, CA'
   org_name: Mushroom Learning
-  metrics_learn_communitycollege: '1'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '1'
   metrics_learn_graduationrates: '1'
   metrics_learn_proficiency: '1'
@@ -95,8 +95,6 @@ maker_answers:
     students. 
   major_challenges: "1. Lack of talented developers that are also great teachers. Our goal is to use our web application to attract teachers from any location. \r\n\r\n2. Continually teaching the current and most useful coding languages, frameworks and techniques. We have current industry professionals doing code reviews for all the students and providing feedback on our curriculum. "
   competition: "Yes. \r\n\r\nOur competitors, like code.org and codecademy, are completely automated services. We firmly believe that education should be collaborative and have a live instructor presence curating the experience. Students should be able to ask an expert instructor when they reach a code block. We also believe in facilitating students helping other students. \r\n\r\nWhile other companies are focused on trying to tackle broader social issues, or computer science topics our focus is specifically on teaching students code \r\n\r\nOur proven curriculum was developed over thousands of hours of in-person student instruction and feedback from industry partners. \r\n\r\nOur instructors are hired not only because they are great teachers, but must be extremely fun and engaging. We hire about 2 % of all applicants. Our instructors range from former Jeopardy contestants to industry professionals doing this in their spare time.  \r\n"
-  cost: "This project will cost $300,000. It will be funded with:\r\n\r\n- $100,000 Initial investment (already procured)\r\n- $100,000 LA2050 grant\r\n- $100,000 Outside capital investment"
-  budget: "Online Learning Environment: $40K\r\nProduction cost for video coding lessons: $20K\r\nScholarships: $50k\r\nInstructor costs: $50K (based on 1000 students served)\r\nAdministrative costs: $80K\r\nPartnership Development: $60K"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

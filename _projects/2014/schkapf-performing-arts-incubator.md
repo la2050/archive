@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: Los Angeles
   org_website: www.schkapf.com
   org_twitter: '@schkapf'
   org_facebook: 'https://www.facebook.com/schkapf'
@@ -117,7 +117,7 @@ maker_answers:
   org_name: Schkapf
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: Los Angeles
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '1'
@@ -158,16 +158,6 @@ maker_answers:
     producing entities. Such places as Highways Performance Space, Bootleg
     Theater, Los Angeles Performance Practice are all very vital components of
     LA theatre ecology, but there is definitely a need for an incubator.
-  cost: >-
-    Our yearly budget is set to $250,000. To cover additional costs we plan to
-    partner with existing theatre companies to share the cost of the facility
-    rental; we plan to explore tax incentive programs for property owners to
-    find a way to lower our building operational costs; we plan to launch a
-    number of crowdsourcing campaigns; to appeal to our existing donor base; to
-    apply for federal and state funding as well as private foundations; to
-    program the space with performances and classes which generate a stream of
-    income.
-  budget: "$100,000 will be used to hire Director of Development ($35K) and Programming and Education Director ($30K) and a Cultural Liaison ($15K) as well as to cover payroll costs associated with salaries, including Workers Compensation.  Director of Development will be responsible for creating a strategic business plan for the next stages of development of Schkapf as LA Performing Arts Incubator as well as applying for grants. Programming and Education Director will be responsible for Artist-In-Residency program, for scheduling classes in the School of Embodied Acting and scheduling performances by visiting artists. Cultural Liaison will be responsible for bridging Schkapf with neighborhood residents, local vendors, nonprofits and universities.\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

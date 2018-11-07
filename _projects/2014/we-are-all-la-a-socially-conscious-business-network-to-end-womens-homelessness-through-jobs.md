@@ -17,8 +17,8 @@ project_areas:
   - CENTRAL LA
   - LA COUNTY
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: 'Los Angeles, CA'
   org_website: 'http://www.DWCweb.org/'
   org_twitter: 'http://www.twitter.com/DWCweb'
   org_facebook: 'http://www.facebook.com/DWCweb'
@@ -62,7 +62,7 @@ maker_answers:
   org_name: Downtown Women's Center
   metrics_create_arts: '0'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: 'Los Angeles, CA'
   metrics_create_patents: '0'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '0'
@@ -101,28 +101,6 @@ maker_answers:
     holistic and address the multi-faceted challenges that go along with extreme
     poverty.
   competition: "While there are a number of organizations on Skid Row who offer job placement, only DWC targets women exclusively and provides the widest range of necessary services that enable women to successfully pursue and keep employment. Most of the employment agencies serving the homeless or formerly homeless focus on employment that requires manual labor, which is not often the best option for women. In fact, around the world, economic development initiatives for women in extreme poverty have demonstrated greater impact when focused on the creative arts as a pathway to employment, much like DWC has done.\r\n\r\nOur project is also not just aiming to place women, but to address the root of the problem and challenge the assumptions employers may have about hiring long-time unemployed or homeless women. Through our specialized training with businesses and the holistic support of our participants, our project will ensure that the women we place stay employed and that the businesses with whom we partner will be able to grow as a result of their strong peer partnerships within the coalition and their vital new workforce.\r\n\r\nAt an organizational level, DWC is a leader in the field of women-specific social services. We have been addressing homelessness in Los Angeles since 1978, remaining the only agency on Skid Row to provide a safe haven for women. Today, in addition to 119 units of permanent supportive housing, which is a proven cost-effective solution to homelessness, we provide a wide range of services—like our Education and Job Readiness Program—that address women’s needs holistically and decrease recidivism into homelessness. \r\n\r\nWe understand that each of our participants has unique needs and circumstances which must be addressed through a comprehensive spectrum of services. Through our work, we recognize interconnectedness of those issues and use a holistic approach to meet their needs. This strategy, along with the strong community organizing efforts that foster multi-sector partnerships, has helped us move from an understanding of the best practices in homeless service provision to a shared community commitment to implement them. It is because of our deep understanding of the effectiveness of a holistic approach and the importance of partnerships that we whole-heartedly believe in our proposed project.\r\n"
-  cost: >-
-    The project cost is $276,759, and we will raise the balance of project costs
-    through fundraising and earned income strategies. Because we understand the
-    importance of providing consistent services to our target population, we
-    have ensured that each of our programs, including the proposed project, are
-    sustainable and will be supported over a long term. DWC uses Healthy
-    Economic Strategies as one of the key disciplines that drives our
-    performance. We continuously invest in our capacity and infrastructure,
-    which helps ensure our fundraising targets are achievable, programs are
-    operated as effectively and efficiently as possible, and key program outcome
-    metrics are available in order to secure top tier corporate, foundation, and
-    individual donors. Our funding streams are diverse, and we have many
-    long-standing supporters who provide resources to the Center year after
-    year. Over 70% of our operating revenue is donated by individuals,
-    foundation, and corporations with less than 30% coming from governmental
-    sources. In addition, our social enterprises contribute to a double
-    bottom-line, offering both job readiness training for our participants and a
-    revenue stream to be reinvested in our programs. We constantly outperform
-    our budget expectations and aim to maintain three-month operating reserve.
-    We have a line of credit agreement with a bank whereby we may borrow up to
-    $1.5M to address any emergency cash flow needs.
-  budget: "_Personnel Expenses_\r\nTotal       LA2050          Details\t\r\n$8,200\t _______\t Chief Executive Officer \r\n$11,424\t _______\t Chief Operating Officer \r\n$9,300\t _______\t Chief Program Officer \r\n$17,278\t _______\t Dir. of Vocational Edu. & Social Enterprise \r\n$41,500\t $41,500\t         Workforce Development Manager \r\n$17,500\t $17,500\t         Vocational Edu. & Enrichment Coordinator\r\n$31,680\t $31,680\t         Job Developer \r\n$16,300\t _______        Day Center Case Manager, Jobs Specialist\r\n$7,000\t _______\t SET Program Coordinator \r\n$5,808\t _______\t SET to Work Trainer/Sales Associate \r\n$5,809\t _______\t SET to Work Trainer/Inventory Associate\r\n$14,800\t _______\t Administrative/Facilities Personnel Expenses\r\n$48,516\t _______\t Benefits & Personnel-Related Expenses (26%)\r\n__________________\r\n$235,115   $90,680\t\r\n\r\n_Operating Expenses_\r\nTotal      LA2050       Details\r\n$5,254\t_$5,130\t     Program Materials/Expenses\r\n$1,490\t_$1,490\t     Participant Transportation\r\n$2,700\t_$2,700\t     Program Consultants\r\n$1,100\t_______\t     Office/Meeting Supplies\r\n$200\t_______\t     Postage \r\n$2,000\t_______\t     Printing/Photocopying\r\n$900\t_______\t     Staff Mileage & Parking\r\n$28,000\t_______\t     Facilities, Insurance & Maintenance\r\n__________________\r\n$41,644   $9,320\t Operating Total\r\n\r\nTOTAL EXPENSES\r\nTotal             LA2050      \t\t\r\n$276,759     $100,000\t\r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

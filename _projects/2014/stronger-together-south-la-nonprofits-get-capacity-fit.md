@@ -14,8 +14,8 @@ project_video: 'https://www.youtube.com/embed/iHlwRhoV_78'
 project_areas:
   - SOUTH LA
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '1'
-  city_state: 'Los Angeles, CA'
   org_website: www.socialactionpartners.org
   org_twitter: www.twitter.com/SoACTPartners
   org_facebook: www.facebook.com/SocialActionPartners
@@ -70,7 +70,7 @@ maker_answers:
   org_name: Social Action Partners
   metrics_connect_voting: '1'
   metrics_connect_adultsupport: '1'
-  metrics_connect_traveltime: '0'
+  city_state: 'Los Angeles, CA'
   metrics_connect_culturalevents: '0'
   metrics_connect_publictransit: '0'
   metrics_connect_neighborhoodcouncils: '0'
@@ -110,14 +110,6 @@ maker_answers:
     who are intimately familiar with the landscape and players. We believe there
     is a growing market for these services and, importantly, resources to
     support the work.
-  cost: >-
-    We anticipate that the project will cost $180,000 between September 2014 and
-    2015. If awarded the $100k from LA2050, we are confident that we will have
-    $50k in grants and $30k in earned income to cover additional costs. As
-    stated, we expect $25k from Weingart and another $25k from CCF during the
-    project period. We also expect to raise $30k in earned income from our
-    fledgling yet growing client base.
-  budget: "Direct Costs\t \r\n \t \r\nPERSONNEL\t \r\nCommunications Coordinator\t                             40,000\r\nTraining Facilitator\t           \t                             25,000\r\nTotal Personnel\t           \t                                     65,000\r\nBenefits @11.5\t                                                       7,475\r\nSubtotal Personnel Costs\t                                     72,475\r\n \t \r\nPROGRAM EVENTS\t \r\nTA Cafes (monthly networking forums)                     1,800\r\n3 Specific training from experts – 70+ people\t       3,000\r\nNonprofit TA Marketing Fair/Expo – 200 people\t       4,000\r\nSubtotal\t                                                                       8,800\r\n \t \r\nTECHNOLOGY\t \r\nWebsite, webinars, maintenance & upgrades\t       5,000\r\n\r\nTotal Direct Costs\t                                                     86,275\r\n\r\nIndirect Costs @15%\t                                             12,941\r\n\r\nTotal Indirect and Direct Costs                                $99,216\r\n\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

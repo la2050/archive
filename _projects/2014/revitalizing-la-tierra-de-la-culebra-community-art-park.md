@@ -21,8 +21,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_live_selfsufficiency: '1'
   metrics_live_healthyfood: '1'
-  city_state: 'Los Angeles, Ca'
   org_website: 'http://aclaparks.tumbler.com/'
   org_twitter: '@LaCulebraPark'
   org_facebook: 'https://www.facebook.com/profile.php?id=100006857749196&fref=ts&ref=br_tf'
@@ -62,7 +62,7 @@ maker_answers:
   org_name: Art Community Land Activism (ACLA)’s La Tierra de la Culebra
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '1'
+  city_state: 'Los Angeles, Ca'
   metrics_live_importedwater: '1'
   metrics_live_obesity: '1'
   metrics_live_homelessness: '1'
@@ -94,20 +94,6 @@ maker_answers:
     to inspire them to take these sustainable approaches home to share with
     friends and family. Providing access to exploration, knowledge, and
     self-empowerment through activity versus just free giveaways.
-  cost: >-
-    We are projecting that this project will cost $100,000. How can we be so
-    certain? The flexibility of the project plan allows us to use all the funds
-    while not having to exceed their limit. A fraction will be used for park
-    maintenace (utility bills, park lease, rent for headquarters, insurance),
-    about a quarter will be used for administrative purposes (yes, only that
-    much out from this fund for two main directors), we are projecting half will
-    be used to the major builing project (shipping containers and refurbishing),
-    and the rest will be paid out as needed for workshop materials, volunteer
-    stipends, and cultural events. We already have the land and human resources
-    (many many volunteers acquired through 22 years of networking. By the
-    community, for the community, eliminating middleman fees as much as
-    possible.
-  budget: "This link is to a live document detailing how we will use $100,000 for this project.\r\n\r\nhttps://docs.google.com/document/d/1cqbwRVNBwRaVwaJUxxRVLtgtaAfTYglPFAp7xpnmSvY/edit?usp=sharing"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

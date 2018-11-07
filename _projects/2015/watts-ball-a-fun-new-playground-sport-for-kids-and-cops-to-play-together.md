@@ -15,8 +15,8 @@ project_video: 'https://www.youtube.com/embed/XYkDHo1jJ1c'
 project_areas:
   - South LA
 maker_answers:
+  'City, State': Los Angeles CA
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How did you hear about this challenge?: Friend
   Organization(s) name(s): Wise Guys Events
   Organization(s) mailing address(es): "3430 Centinela\r\nLos Angeles CA 90066"
   Organization(s) website(s): www.teambuildingandtraining.com
@@ -60,7 +60,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  'City, State': Los Angeles CA
+  How did you hear about this challenge?: Friend
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -125,8 +125,6 @@ maker_answers:
     never at night. Sports change over time. Watts Ball will change too.
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "The Police Athletic League (P.A.L.) is probably the organization that mostly closely resembles the end result we're trying to achieve. However it seems the LA branch of PAL is somewhat neglected; in fact, if you go to the web site and call the numbers associated with the different regions, not one of them is still a valid number. It's understandable that this arm of the police department is not the most robust currently. We hope to infuse some new resources and energy, tracking down the officers who have experience with such matters, and apply what they know to help make this project a success.\r\n\r\nWe co-founded Play Folk here in Los Angeles, a club dedicated to playing rare and unusual games. In Brooklyn, the \"alt sport\" (alternative sport) Circle Rules Football is probably the closest analogue, and it is still enjoyed in league play to this day. There are other communities throughout the US and Europe dedicated to playing alternative games, but none that are using a new, site-specific game specifically to strengthen community ties between cops and kids."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': None now
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '$100,000'
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Web site\r\n$4K\r\nDevelopment and implementation\r\n\r\nCity permits\r\n$3K\r\nClear hurdles to run our game in urban areas on the days we want to arrange tournament play\r\n\r\nUniforms\r\n$5000\r\n$100 per uniform x 50 kids\r\n\r\nTransportation\r\n$3K\r\nShuttles and private vehicles to bring kids from outlying areas to the Watts Towers to play\r\n\r\nMarketing\r\n$10K\r\nOutreach and publicity to help generate interest and sustain the league\r\n\r\nPrizes\r\n$6K\r\nGift cards, trophies, and dinners for top teams and players\r\n\r\nAdministrative budget\r\n$30K\r\n6 staff per game x $100 x 52 games (1 per week)\r\n\r\nArena renovations\r\n$35K\r\nStructural, personnel, and safety enhancements to Watts Towers"
   How do you plan to scale the success of your proposal?: >-
     We will custom build site-specific sports to other landmarks in similar
     communities around the country to help make Watts Ball a reality in other
@@ -184,39 +182,6 @@ Are there other organizations doing similar work (whether complementary or compe
    
    We co-founded Play Folk here in Los Angeles, a club dedicated to playing rare and unusual games. In Brooklyn, the "alt sport" (alternative sport) Circle Rules Football is probably the closest analogue, and it is still enjoyed in league play to this day. There are other communities throughout the US and Europe dedicated to playing alternative games, but none that are using a new, site-specific game specifically to strengthen community ties between cops and kids.
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': None now
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '100000'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Web site
-   $4K
-   Development and implementation
-   
-   City permits
-   $3K
-   Clear hurdles to run our game in urban areas on the days we want to arrange tournament play
-   
-   Uniforms
-   $5000
-   $100 per uniform x 50 kids
-   
-   Transportation
-   $3K
-   Shuttles and private vehicles to bring kids from outlying areas to the Watts Towers to play
-   
-   Marketing
-   $10K
-   Outreach and publicity to help generate interest and sustain the league
-   
-   Prizes
-   $6K
-   Gift cards, trophies, and dinners for top teams and players
-   
-   Administrative budget
-   $30K
-   6 staff per game x $100 x 52 games (1 per week)
-   
-   Arena renovations
-   $35K
-   Structural, personnel, and safety enhancements to Watts Towers
 How do you plan to scale the success of your proposal?: >-
   We will custom build site-specific sports to other landmarks in similar
   communities around the country to help make Watts Ball a reality in other

@@ -26,8 +26,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: 'Email, Tweet from LA2050 and GOOD'
   Organization(s) name(s): CicLAvia
   Organization(s) mailing address(es): '3780 Wilshire Blvd Suite 1020, Los Angeles, CA 90010'
   Organization(s) website(s): www.ciclavia.org
@@ -82,7 +82,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: 'Email, Tweet from LA2050 and GOOD'
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
@@ -157,18 +157,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "CicLAvia will evaluate impact on:\r\n\r\n - Public space CicLAvia creates for people to connect\r\n - Physical activity increase compared with a normal Sunday (surveys on site)\r\n - Reduction in crime levels (LAPD stats comparing non-CicLAvia days)\r\n - Behavior change towards the use of active transportation (surveys on site and after event)\r\n - Increase in pedestrian and bike use (data from public agency counts)\r\n - Direct impact on local policy changes on active transportation (implementation of local and regional mobility plans)\r\n - Number of participants at CicLAvia and track increase in social media penetration using key platforms (Facebook, Twitter, etc.)\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Across the country, open streets events are growing in number since CicLAvia began in 2010.  Large cities like NYC, San Francisco and Atlanta have events.  But since 2010, CicLAvia has grown into a recognized national model because of its collaborative approach, scale and impact on both the city and the region.  CicLAvia begins with safety, collaboration and outreach with public officials, the local community, community institutions/organizations, and business owners. Extensive community outreach occurs prior to each event, and the outcomes inform the experiences on each route.  Each CicLAvia is about celebrating culture, people and each route weaves a new place from whole cloth into the city’s fabric.  As Adam Leipzig states in Cultural Weekly in April 2014, “CicLAvia creates the feeling of discovery because it’s organizers constantly change its route, and because participants approach it alone on bicycles, then suddenly, in turning one corner, discover they are a part of a vast collective enterprise. This is one way that creative culture moves and spreads – through the emotions of anticipation and discovery. It’s the Law of Discovery, and CicLAvia illustrates it on city streets for all to see.”\r\n\r\nCicLAvia is also about changing the public conversation of our built environment, and how we interact with it.  The experiences at CicLAvia inform public policy shifts at all levels of local and regional governance.  Key city and regional agencies have launched efforts to support active transportation – with METRO open streets initiative and LA’s Mobility Plan 2035. \r\n\r\nCicLAvia has changed attitudes about the car culture of Los Angeles by shifting the perceptions and attitudes of local stakeholders who affect local transportation and environmental policies and the design of our streets. A shift towards a commitment to safety with a focus on serving the most vulnerable users including children, seniors, persons with disabilities and transit-dependent populations, will make streets safe for all users.\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "The $100,000 LA2050 grant is designated to CicLAvia’s support planning and implementing of four events in 2016. The LA2050 grant will help support the infrastructure costs, such as tent and booth expenses at the hubs and along the route associated with first aid, bike repair, and community information for community organizational partners and local agencies.  Additionally, the grant will help support the organizing of over 2200 volunteers involved in every aspect of CicLAvia production, including work prior to, during and after the event. They assist in community and business outreach; providing safe crossing during the event; staffing of information booths; and serve as general ambassadors of goodwill. \r\n\r\nCicLAvia partners with all relevant city and county agencies, including Transportation, Cultural Affairs, LAPD, LADWP, Fire, and others who provide the public services for the route.  Outreach and programming of CicLAvia involves partnerships with community organizations, local religious institutions, and business owners to enhance the experiences on the routes.   Partnerships for CicLAvia 2016 include:\r\n\r\nOrganizational Partners:\r\n- Bureau of Sanitation, City of LA\r\n- Bureau of Street Services\r\n- California State Senate 33rd District, Senator Ricardo Lara\r\n- Chinatown Business Improvement District\r\n- Chinatown Service Center\r\n- City of Huntington Park\r\n- City of Los Angeles Council District 14 - Jose Huizar\r\n- City of Los Angeles Mayor’s Office\r\n- City of Lynwood\r\n- City of South Gate\r\n- Community Health Councils\r\n- Department of Recreation and Parks, City of Los Angeles\r\n- Department of Transportation, City of Los Angeles\r\n- East LA College (ELAC)\r\n- East Los Angeles Community Corporation\r\n- East Yard Communities for Environmental Justice\r\n- Gateway Cities Council of Governments\r\n- Joe Buscaino, Councilmember, 15th District\r\n- Korean Cultural Center\r\n- LAPD\r\n- Los Angeles County Department of Parks and Recreation\r\n- Los Angeles County Sheriff’  (LASD)\r\n- Metro\r\n- Miracle Mile Chamber of Commerce\r\n- New Hope Baptist Church\r\n- Office of Council Member Gilbert Cedillo - CD 1\r\n- Office of Hilda Solis, Los Angeles County Supervisor, First District\r\n- PLACE Program LA County Dept of Public Health\r\n- Policies for Livable, Active Communities and Environments\r\n- Safe Moves\r\n- St James Episcopal Church\r\n- Weingart East Los Angeles YMCA Southeast Rio Vista YMCA\r\n- Westlake South Neighborhood Council\r\n- Wilshire United Methodist Church\r\n\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    As shown in the detailed Budget below, the total direct Project Cost (not
-    including staffing) to produce and implement four CicLAvia events in 2016 is
-    $611,507 with $100,000 from LA2050 and the additional $511,507 costs
-    supported by foundation grants and gifts, government agency sources,
-    individual and organizational donations. The majority of expenses are
-    related to traffic management; expenses to set up, coordinate and construct
-    the hubs at each event and for communications and security. LA2050 funding
-    will be contributing to all cost categories in the Budget provided below at
-    a rate of 16% of the total budget. 84% of the total budget will come from
-    other sources.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "2016 CicLAvia Budget for 4 Events\t\t\r\nHub Expenses: $135,600\t\r\nInsurance: $60,000\t\r\nParking Lots: $16,000\t\r\nPermits: $2,000\t\r\nFliers, Notices & Cards (for individuals): $47,500\t\r\nProduction Supplies(Misc-Cable Ties, etc.): $5,000\t\r\nRadios and Sound Rentals: $6,250\t\r\nRoute Programming: $35,500\t\r\nSecurity Services: $4,000\t\r\nSigns and Banners (for the public): $28,000\t\r\nTraffic Management: $213,500\t\r\nVolunteer Supervisors: $35,357\t\r\nVolunteer Supplies: $20,000\t\r\nVolunteer Expenses - Other: $2,800\t\r\nTOTAL 2016 CicLAvia Budget: $611,507\t\r\nLA2050 Grant Funding: $100,000\t (16% of total budget)\r\nFunding from other Sources: $511,507 (84% of total budget)"
   How do you plan to scale the success of your proposal?: "The goal of CicLAvia is to gradually increase the frequency of the events from four times per year to one per month.  In order to deliver more CicLAvias to different parts of the region, it will require active engagement of new communities and new cities, and key local and regional stakeholders.  As in past CicLAvias, we will continue to document and share the environmental, social and economic benefits of open streets events.  We are confident that the measurement of impact through metrics and evaluation could encourage more CicLAvia events more often and in more places.  We do this by:\r\n\r\n- Measuring the improvement in air quality when alternative modes of transportation are used;\r\n- Documenting the creation of temporary open space and recreation opportunities created by opening up streets to pedestrians and bicyclists;\r\n- Showing the positive local economic benefits as a results of CicLAvia during the day of, and weeks after the event with new customers;\r\n- Continuing to focus resources on public safety on the route for participants;\r\n- Streamlining the production costs to capitalize on economies of scale.\r\n\r\nSince 2010, the success of CicLAvia has resonated not only across the region, but also throughout the country.  Open streets events have taken place in many of the country’s urban and rural cities, and CicLAvia has been the national model.  While CicLAvia events are often measured by the number of participants, the success of the events will be strengthened by the overall positive impacts on our quality of life.  CicLAvia improves air quality and increases the benefits to the local economy.  It reinforces positive change in local and regional alternative transportation policies, and encourages conversation in creating new open space.  And CicLAvia brings communities closer and makes people more connected to each other.  \r\n"
 areas_impacted: ''
 partners: ''
@@ -287,35 +275,6 @@ Are there other organizations doing similar work (whether complementary or compe
    - Weingart East Los Angeles YMCA Southeast Rio Vista YMCA
    - Westlake South Neighborhood Council
    - Wilshire United Methodist Church
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  As shown in the detailed Budget below, the total direct Project Cost (not
-  including staffing) to produce and implement four CicLAvia events in 2016 is
-  $611,507 with $100,000 from LA2050 and the additional $511,507 costs supported
-  by foundation grants and gifts, government agency sources, individual and
-  organizational donations. The majority of expenses are related to traffic
-  management; expenses to set up, coordinate and construct the hubs at each
-  event and for communications and security. LA2050 funding will be contributing
-  to all cost categories in the Budget provided below at a rate of 16% of the
-  total budget. 84% of the total budget will come from other sources.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  2016 CicLAvia Budget for 4 Events 
-   Hub Expenses: $135,600 
-   Insurance: $60,000 
-   Parking Lots: $16,000 
-   Permits: $2,000 
-   Fliers, Notices & Cards (for individuals): $47,500 
-   Production Supplies(Misc-Cable Ties, etc.): $5,000 
-   Radios and Sound Rentals: $6,250 
-   Route Programming: $35,500 
-   Security Services: $4,000 
-   Signs and Banners (for the public): $28,000 
-   Traffic Management: $213,500 
-   Volunteer Supervisors: $35,357 
-   Volunteer Supplies: $20,000 
-   Volunteer Expenses - Other: $2,800 
-   TOTAL 2016 CicLAvia Budget: $611,507 
-   LA2050 Grant Funding: $100,000 (16% of total budget)
-   Funding from other Sources: $511,507 (84% of total budget)
 How do you plan to scale the success of your proposal?: >-
   The goal of CicLAvia is to gradually increase the frequency of the events from
   four times per year to one per month. In order to deliver more CicLAvias to

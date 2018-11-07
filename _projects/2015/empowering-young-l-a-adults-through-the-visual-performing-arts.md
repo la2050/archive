@@ -20,8 +20,8 @@ project_areas:
   - Westside
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: PIECES Volunteer
   Organization(s) name(s): PIECES Teens Arts
   Organization(s) mailing address(es): "PIECES\r\nc/o Buckwild Gallery\r\n12804 Venice Boulevard\r\nLos Angeles, CA 90066"
   Organization(s) website(s): www.PIECESarts.org
@@ -71,7 +71,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: PIECES Volunteer
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -136,12 +136,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "PIECES keeps track of membership and volunteer numbers by requiring all members and volunteers to complete a free application. We also keep track of attendance through sign-in sheets for every event, class, meeting and workshop. \r\n\r\nWe are able to track whether or not we have been able to reach and retain a larger number of young artists and volunteers through the count in application numbers and attendance names. \r\n\r\nMost importantly, we focus each day on providing valuable experiences for the young people that we serve. Records of learning, paid and unpaid professional opportunities are kept to ensure that we are keeping true to our mission.\r\n\r\nTo better understand the experiences, needs and opinions of our volunteers, guests and members, we will be introducing an anonymous suggestion box and surveys. "
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Most organizations that focus on the visual and/or performing arts only serve artists up to the age of 18. We have come across at least two organizations that serve our age group (18-25). \r\n\r\nFrom our research, what makes us unique and effective is the fact that we are able to provide a wide array of professional opportunities (both paid and unpaid), instruction and mentorship; all while promoting our members as artists and not as at-risk youth. It is important to us to have our artists feel like artists and for our community to see them as such. This has helped open the doors to life changing opportunities for our members and has helped build a tight-knit, supportive community and a feeling of pride and achievement among them."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': 'Not applicable. '
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Having been operating for three years, we can safely estimate that the total
-    cost of us fulfilling our goals for this new year will not cost over
-    $100,000. We estimate that the maximum amount that we will need to cover
-    programming and general operations expenses will be $89,000.00.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "GENERAL EXPENSES\r\nRent = $36,000.00 \r\nInsurance = $500.00\r\nMarketing (Ads, Printed Materials, Signage) =$1,000.00\r\nOffice Supplies = $1,000.00\r\nSalaries = $28,000.00 (1 full-time employee to manage daily operations \r\n                  and programming)\r\n                  $2,000.00   (Per hour contracted art, dance, music instructors\r\n                  and art class models)\r\nEvent Supplies = $1,000.00\r\n\r\nPROGRAM EXPENSES\r\nStudio Recording Equipment, Instruments/Repairs (Guitars, Amplifiers, Keyboards, Drums) = $5,000.00\r\n\r\nCreative Software (Adobe Creative Suite, Logic Pro, ProTools)= $2,500.00\r\n\r\nComputers/Computer Repairs (Studio Recording, Graphic Design) = $4,000.00\r\n\r\nArt Supplies (Canvasses, Paints, Paper, ect.) = $5,000.00\r\n\r\nDance Instruction (Barres, Mirrors, Flooring, Costume Materials) = $3,000.00\r\n"
   How do you plan to scale the success of your proposal?: "We will scale the success of our proposal by matching our current membership and attendance numbers to the following year's. We will also match the number of events we organized and participated in, the number of new workshops, classes and professional opportunities we were able to provide for our members, compared to previous years. \r\n\r\nSocial media follows and likes, newsletter subscriptions will also tell whether or not we were able to reach more people in our community than before. \r\n\r\nFurthermore, the results from surveys will tell how effective our attempts of reaching and serving our community have been. "
 areas_impacted: ''
 partners: ''
@@ -182,33 +176,6 @@ Are there other organizations doing similar work (whether complementary or compe
    
    From our research, what makes us unique and effective is the fact that we are able to provide a wide array of professional opportunities (both paid and unpaid), instruction and mentorship; all while promoting our members as artists and not as at-risk youth. It is important to us to have our artists feel like artists and for our community to see them as such. This has helped open the doors to life changing opportunities for our members and has helped build a tight-knit, supportive community and a feeling of pride and achievement among them.
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': Not applicable.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Having been operating for three years, we can safely estimate that the total
-  cost of us fulfilling our goals for this new year will not cost over $100,000.
-  We estimate that the maximum amount that we will need to cover programming and
-  general operations expenses will be $89,000.00.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  GENERAL EXPENSES
-   Rent = $36,000.00 
-   Insurance = $500.00
-   Marketing (Ads, Printed Materials, Signage) =$1,000.00
-   Office Supplies = $1,000.00
-   Salaries = $28,000.00 (1 full-time employee to manage daily operations 
-    and programming)
-    $2,000.00 (Per hour contracted art, dance, music instructors
-    and art class models)
-   Event Supplies = $1,000.00
-   
-   PROGRAM EXPENSES
-   Studio Recording Equipment, Instruments/Repairs (Guitars, Amplifiers, Keyboards, Drums) = $5,000.00
-   
-   Creative Software (Adobe Creative Suite, Logic Pro, ProTools)= $2,500.00
-   
-   Computers/Computer Repairs (Studio Recording, Graphic Design) = $4,000.00
-   
-   Art Supplies (Canvasses, Paints, Paper, ect.) = $5,000.00
-   
-   Dance Instruction (Barres, Mirrors, Flooring, Costume Materials) = $3,000.00
 How do you plan to scale the success of your proposal?: >-
   We will scale the success of our proposal by matching our current membership
   and attendance numbers to the following year's. We will also match the number

@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/31zyNJHGmig'
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): "1137 E Redondo Blvd\r\nInglewood, CA 90302"
   Organization(s) website(s): www.youth4justice.org
   Organization(s) twitter handle(s): www.twitter.com/YouthJusticeLA
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Youth Justice Coalition
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
@@ -134,13 +134,6 @@ maker_answers:
     arrests.
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "While there are many charter schools across Los Angeles County serving disadvantaged youth, FREE LA is the only one specifically serving system-impacted youth. YJC’s definition of system-impacted youth is a young person who has been suspended, expelled or pushed out of traditional school, has personal experience with incarceration and/or probation, and/or has a family member is involved in the justice system.  \r\n\r\nFREE LA High School is unique in that our program develops the leadership skills of its youth through workshops and trainings in transformative justice, social justice organizing within a school culture that is safe, healing, and supportive of system-involved youth. FREE LA students have developed a series of RESPECT Trainings, which are focused on implementing transformative justice policies and practices in schools and school districts. FREE LA students not only facilitate these trainings, but also adapt their curriculum and content based on feedback received. To date, Free LA youth have facilitated trainings to over 3,500 youth and adults on strategies for reducing violence, harm and conflict mediation, and healing from trauma.\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "FREE LA High School operates under the supervision of our partner YouthBuild Charter School, which was founded to provide quality, continuation education to out-of-school youth - including those attending Job Corps and Conservation Corps – while meeting all state requirements for completion of state standards and passing the statewide (CAHSEE) high school exit exam. \r\n\r\nIn undertaking campaign work, YJC and FREE LA High School partners with various local, statewide and national advocacy groups. On the local level, the YJC is a member of Black Lives Matter, local Probation Camp Redesign Work Group, Stop LAPD Spying Coalition, LA Dignity in Schools Campaign, Brothers, Sons Selves and Coalition to End Sheriffs Violence. On the state level, the YJC is an active member of Youth Fair Sentencing Work Group, Californians United for a Responsible Budget, Alliance for Boys and Men of Color, Statewide Work Group to Fix School Discipline and California Alliance for Youth and Community Justice. On the national level, the YJC is a member of All of Us or None, Alliance for Educational Justice and National Juvenile Justice Network. The YJC also coordinates work groups, participates in task forces and serves on numerous advisory boards.\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The total estimated costs of running FREE LA High School for one year are
-    $453,981. FREE LA High School will cover the balance through its contract
-    with Youth Build Charter School (which covers approximately 60% of total
-    operating costs) and additional fundraising from foundations and
-    individuals.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Personnel - $363,373\r\nSchool Lunch - $3,000\r\nSpace - $61,608\r\nSupplies - 20,000\r\nBus Passes - $6,000\r\n"
   How do you plan to scale the success of your proposal?: >-
     As FREE LA High School continues to grow and gain more support, we plan to
     create more space within our program for system-involved youth who would
@@ -204,17 +197,6 @@ Are there other organizations doing similar work (whether complementary or compe
   and passing the statewide (CAHSEE) high school exit exam. 
    
    In undertaking campaign work, YJC and FREE LA High School partners with various local, statewide and national advocacy groups. On the local level, the YJC is a member of Black Lives Matter, local Probation Camp Redesign Work Group, Stop LAPD Spying Coalition, LA Dignity in Schools Campaign, Brothers, Sons Selves and Coalition to End Sheriffs Violence. On the state level, the YJC is an active member of Youth Fair Sentencing Work Group, Californians United for a Responsible Budget, Alliance for Boys and Men of Color, Statewide Work Group to Fix School Discipline and California Alliance for Youth and Community Justice. On the national level, the YJC is a member of All of Us or None, Alliance for Educational Justice and National Juvenile Justice Network. The YJC also coordinates work groups, participates in task forces and serves on numerous advisory boards.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The total estimated costs of running FREE LA High School for one year are
-  $453,981. FREE LA High School will cover the balance through its contract with
-  Youth Build Charter School (which covers approximately 60% of total operating
-  costs) and additional fundraising from foundations and individuals.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Personnel - $363,373
-   School Lunch - $3,000
-   Space - $61,608
-   Supplies - 20,000
-   Bus Passes - $6,000
 How do you plan to scale the success of your proposal?: >-
   As FREE LA High School continues to grow and gain more support, we plan to
   create more space within our program for system-involved youth who would

@@ -24,8 +24,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '1'
-  city_state: Los Angeles
   org_website: 'http://denglaboratory.weebly.com/'
   org_twitter: ''
   org_facebook: 'https://www.facebook.com/Healmyheart2014'
@@ -99,7 +99,7 @@ maker_answers:
   org_name: 'UCLA Advance Heart Failure, Heal My HeART, UCLA Department of Medicine '
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '0'
+  city_state: Los Angeles
   metrics_live_importedwater: '1'
   metrics_live_obesity: '1'
   metrics_live_homelessness: '1'
@@ -134,20 +134,6 @@ maker_answers:
     competitive or complementary as their programs are not public information
     yet so are not aware on what scale they are building their system or what it
     does exactly. 
-  cost: >-
-    With the initial budget, there isn't any expected extra costs. However in
-    case of further overhead costs, we can expect an additional 10-15k if
-    needed. However this can be acquired through the UCLA Spark (between 5K-10K)
-    Program which helps fund small size projects for UCLA projects. Another
-    option is VC firms with ties to UCLA who have already seen initial
-    investment into a workable product and will make a small contribution to
-    help make it prosper. Most of the cost will go towards a dedicated server
-    and its' maintenance along with the upkeep of the super computers. Should we
-    run into social promotion budgeting issues, we will seek freelance work from
-    students at UCLA given that this is a team of undergraduates students at
-    UCLA. We have full backing from multiple departments and their undergraduate
-    student body if needed.  
-  budget: "4K- Cost to design User Interface (UI) for app for IOS and Android. This also includes cost to deliver workable regimens, and dietary regimens from professional trainers.\r\n11K-Cost to create app with 4 modules (Eat, Health, Life, Fitness): This includes coding, front-end and back-end, as well as implementation of Ruby on Rails to interface with multiple servers. This is for both Android and IOS and Web\r\n15K- Social Marketing promotion for app 3 months from third party source (Mav 12 Marketing) to get people to download the app\r\n2K- Kickoff events for MyLA app and contests to get people to start using the app\r\n15K- Cost of developing AI program and transfer and anonymize clinical data into system. This includes testing the program on servers\r\n8.6K: \r\n2 Super Computers (1.5K each) One will be used to house AI program and the other used to house the app program itself. \r\n3 Macbooks (1.3K each- 3.9k total) This will be used to code for programs and develop mainframe for the program itself. They will also be used to test the web application\r\n2 Ipad Mini -Refurbished if possible (300 USD each) They will be used for testing the application on tablets. We will use our own phones for mobile testing. \r\n$25.00 USD to create Google Developer Account\r\n$25.00 USD to create Apple Developer Account \r\n \r\n$300.00 USD to purchase Adobe software if cannot be provided by school\r\n\r\n25K- This will be used to purchase several different types of server hosts. First of which will be shared hosting servers for web application use. The second which will be the brunt of the cost will be acquiring and maintaining a dedicated server for the AI programs clinical data sets as well as data sets gathered from users. Alternatively we are looking at cloud servers which are much cheaper yet will not serve our purpose after a year as we will need a dedicated server as the program becomes more intelligent. \r\n\r\n8K- Business development for incentives program; networking events, and overhead costs. Overhead costs include travel, lunches, dinner, events for businesses that are willing to participate in our program. \r\n\r\n10-11K for the development and prototype of transit and air metric sensors. However this can potentially and likely be free if there is an open source API in which case the money will be used to purchase more clinical data and develop more refined fitness and dietary regimens for users. The development of a prototype will be approximately 2K which is part of the 10-11K\r\n\r\n\r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

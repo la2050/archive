@@ -24,8 +24,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: Social Media and Word of Mouth
   Organization(s) name(s): Planned Parenthood Los Angeles (PPLA)
   Organization(s) mailing address(es): 400 West 30th St. Los Angeles CA 90007
   Organization(s) website(s): 'https://www.plannedparenthood.org/planned-parenthood-los-angeles/'
@@ -80,7 +80,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Social Media and Word of Mouth
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: 'Impact decision making among teens. '
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -191,8 +191,6 @@ maker_answers:
     throughout L.A. County. The schools would not receive grant money directly,
     but would continue to receive the education and healthcare services provided
     by PPLA. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "For the current fiscal year, PPLA’s school-based sex education program budget is $620,012. Below is a breakdown of costs:\r\n\r\nSalaries and Benefits: $482,753\r\nProfessional Fees: $22,600\r\nOffice Supplies: $3,073\r\nMinor Equipment: $500\r\nAdvertising/Marketing: $4,413\r\nIncentives: 17,391\r\nPurchased Services: $1,500\r\nRepairs and Maintenance: $2,476\r\nEducational Materials: $7,005\r\nTravel and Training: $45,111\r\nPostage and Printing: $10,173\r\nDues and Subscriptions: $1,000\r\nTelephone: $3,002\r\nUtilities: $11,858\r\nMiscellaneous: $7,157\r\n\r\nThe additional cost is covered by gifts from individual donors as well as grants from foundation partners. Current grantors for our school-based sexual education programs include the Ford Foundation, the California Endowment, and the S. Mark Taper Foundation, among others. \r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "If PPLA receives this grant award, we would distribute funds as follows:\r\n\r\n$58,000- Salaries & Wages\r\n$15,000- Incentives\r\n$5,000- Advertising and Marketing\r\n$4,000- Summer Peer Advocate Retreat (including transportation)\r\n$5,000- Educational materials\r\n$2,000- Branded outreach material\r\n$1,000- T-shirts for Peer Advocates\r\n$10,000- Mileage\r\n\r\n"
   How do you plan to scale the success of your proposal?: "We currently provide our full range of High School programs in over 30 high schools across L.A. County. We have 66 trained Peer Advocates across 6 schools in Boyle Heights (Roosevelt High School, Mendez High School, and Hollywood High School) and South Los Angeles (King Drew Medical Magnet High School, Animo Pat Brown Charter High School, and Ralph Bunche High School). In 2015, we saw the incorporation of one additional school- Hollywood High School- to the Peer Advocates program.\r\n\r\nIn order to scale the success of our proposal, PPLA aims to do the following:\r\n\r\n-Continue to elevate the youth voice by working with Peer Advocates to create and disseminate original social media content.\r\n\r\n-Engage Peer Advocates in activities of the District 2 STD Collaborative, the Community Advisory Coalition, which aims to decrease the high rates of Gonorrhea and Chlamydia among youth of color in South Los Angeles. \r\n\r\n-Work with Peer Advocates to get articles published in local online newspapers, such as the Boyle Heights Beat and the LA Times.\r\n\r\nOn a broader scale, PPLA is currently in the process of leveraging the results of rigorous research on our sexual education programs by engaging the voice of our Peer Advocates to promote access to comprehensive, rights-based, gender aware sexuality education and services for their friends, communities and teens across the country. PPLA will strengthen the youth voice to influence and advance the public conversation around comprehensive sexuality education via: \r\n\r\n-Strategic communications/social media targeting youth, parents, colleague agencies, school administration and other key decision makers.\r\n\r\n-Youth and parental engagement and creation of a cohort of advocates and leaders around comprehensive sexuality education. \r\n\r\nPPLA will utilize the program evaluation results to influence the public conversation and increase policymaker support of comprehensive sexuality education via: \r\n\r\n-Policy analysis and recommendations to local and national audiences; \r\n\r\n-Local and national dissemination and communications activities and\r\n \r\n-Publication of the research results in a variety of fora. \r\n"
 areas_impacted: ''
 partners: ''
@@ -269,38 +267,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Currently, we provide education programs in over 35 high schools throughout
   L.A. County. The schools would not receive grant money directly, but would
   continue to receive the education and healthcare services provided by PPLA.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  For the current fiscal year, PPLA’s school-based sex education program budget
-  is $620,012. Below is a breakdown of costs:
-   
-   Salaries and Benefits: $482,753
-   Professional Fees: $22,600
-   Office Supplies: $3,073
-   Minor Equipment: $500
-   Advertising/Marketing: $4,413
-   Incentives: 17,391
-   Purchased Services: $1,500
-   Repairs and Maintenance: $2,476
-   Educational Materials: $7,005
-   Travel and Training: $45,111
-   Postage and Printing: $10,173
-   Dues and Subscriptions: $1,000
-   Telephone: $3,002
-   Utilities: $11,858
-   Miscellaneous: $7,157
-   
-   The additional cost is covered by gifts from individual donors as well as grants from foundation partners. Current grantors for our school-based sexual education programs include the Ford Foundation, the California Endowment, and the S. Mark Taper Foundation, among others.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  If PPLA receives this grant award, we would distribute funds as follows:
-   
-   $58,000- Salaries & Wages
-   $15,000- Incentives
-   $5,000- Advertising and Marketing
-   $4,000- Summer Peer Advocate Retreat (including transportation)
-   $5,000- Educational materials
-   $2,000- Branded outreach material
-   $1,000- T-shirts for Peer Advocates
-   $10,000- Mileage
 How do you plan to scale the success of your proposal?: >-
   We currently provide our full range of High School programs in over 30 high
   schools across L.A. County. We have 66 trained Peer Advocates across 6 schools

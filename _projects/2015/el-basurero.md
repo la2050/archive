@@ -21,8 +21,8 @@ project_areas:
   - East LA
   - South LA
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
-  How did you hear about this challenge?: KPCC/SCPR
   Organization(s) name(s): El Basurero
   Organization(s) mailing address(es): "3400 San Marino Street, Suite P\r\nLos Angeles, CA 90006"
   Organization(s) website(s): >-
@@ -77,7 +77,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: KPCC/SCPR
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: >-
     Enlist LACC or a similar organization to go door-to-door publicizing MyLA
@@ -157,8 +157,6 @@ maker_answers:
     commitment of the partners. High school and college students who earn credit
     for canvassing their neighborhoods are another approach that might be
     employed. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Initiatially, Basurero does not anticipate the pilot costing in excess of $100,000. This will cover administration, partnership development, technology including smart phones for the canvassers conducting outreach in a neighborhood.\r\n\r\nGiven the growing disgust among the public, in the business community and in the philanthropic community over the appearance of our streets and neighborhoods, Basurero anticipates that the piot will appeal to donors impressed with the vision, the quantifiable results and the way the program empowers and engages LA residents. This is a modest but overdue program that does sets forth fairly simple objectives: 1) Clean up the streets, sidewalks and empty lots of Central, South and East LA; 2) enlist and engage residents as citizen activists advocating for their own communities and families; 3) Improve the delivery of an existing city service; and 4) Improve public health outcomes for children and others by removing from the environment, mercury, lead and other hazardous materials illegally  dumped in our communities."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Project Director: $65,000/year\r\nTechnology - smartphones, tablets, ISPs: $8,000\r\nSocial Media - technologists: $12,000\r\nPartners - outreach stipends: $15,000"
   How do you plan to scale the success of your proposal?: "Angelenos, especially those who live in Koreatown, Mid-City, South LA and East LA are tired of being dumped on. Residents of these areas are ready to see their city provide the sanitation (and other) services it promised them. Landlords and business owners, electeds and the philanthropic community is also tired of hearing the excuses about the shabby state of our streets and sidewalks. When Basurero launches and shows success, there will be calls for its expansion. Success will begat success, as residents of other underserved parts of the city see the results being achieved by citizen activists in Mid-City and elsewhere. They will call for their own illegal dumping to be picked up.\r\n\r\nBasurero is already talking to potential funders, anticipating interest in scaling the program. Good models may be largely volunteer efforts including Big Sunday and CicLAvia, which grew from more modest initiatives to what they are today. Basurero plans to engage with Big Sunday, CicLAvia and others about the lessons they learned in scaling their vision and programs. We are realistic about our scalability."
 areas_impacted: ''
 partners: ''
@@ -222,18 +220,6 @@ Are there other organizations doing similar work (whether complementary or compe
   costs down, the hope is to secure alternative funding for the time commitment
   of the partners. High school and college students who earn credit for
   canvassing their neighborhoods are another approach that might be employed.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Initiatially, Basurero does not anticipate the pilot costing in excess of
-  $100,000. This will cover administration, partnership development, technology
-  including smart phones for the canvassers conducting outreach in a
-  neighborhood.
-   
-   Given the growing disgust among the public, in the business community and in the philanthropic community over the appearance of our streets and neighborhoods, Basurero anticipates that the piot will appeal to donors impressed with the vision, the quantifiable results and the way the program empowers and engages LA residents. This is a modest but overdue program that does sets forth fairly simple objectives: 1) Clean up the streets, sidewalks and empty lots of Central, South and East LA; 2) enlist and engage residents as citizen activists advocating for their own communities and families; 3) Improve the delivery of an existing city service; and 4) Improve public health outcomes for children and others by removing from the environment, mercury, lead and other hazardous materials illegally dumped in our communities.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Project Director: $65,000/year
-   Technology - smartphones, tablets, ISPs: $8,000
-   Social Media - technologists: $12,000
-   Partners - outreach stipends: $15,000
 How do you plan to scale the success of your proposal?: >-
   Angelenos, especially those who live in Koreatown, Mid-City, South LA and East
   LA are tired of being dumped on. Residents of these areas are ready to see

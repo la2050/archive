@@ -20,8 +20,8 @@ project_areas:
   - Westside
   - South Bay
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Newsletter from Good.is
   Organization(s) name(s): Sustainablesurf.org
   Organization(s) mailing address(es): "P.O. Box 3058, Manhattan Beach, CA 90266\r\n"
   Organization(s) website(s): 'http://sustainablesurf.org'
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: Newsletter from Good.is
   'City, State': 'Los Angeles, California'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -168,17 +168,6 @@ maker_answers:
     launch pad for the workshop and not for operating costs.  Sustainable Surf
     will oversee the social media, calendar of events and management of the
     space.   
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We believe the $100K award will allow us to build a modular pop up workshop,
-    lab, exhibition space that best represents the overall workings of the
-    EcoBoard Project as outlined in this proposal.  Being modular in nature,
-    this will allow for greater flexibility for setting up and taking down at
-    intended partner locations when determined.   Since the EcoBoard Project is
-    already in production, this adjunct location, exhibition space and workshop
-    will act as a showroom site to better promote the ongoing program  -
-    additional costs will be covered by continuing sales, workshop fees,
-    corporate underwriting and merchandise sales. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Ecoboard Pop-Up Workshop + Education Lab\r\n\r\nConstruction of a pop-up Lab which can be a 20’ trailer with an awning that creates a shaded space on the side. There will be a utility prefab side trailer (attached) modified only for storing materials and glassing equipment inside then moved outside for the demos under the awning. The lab can be either an indoor or outdoor installation.  There is\_ a small shaping / sanding booth inside so a complete board can be made in situ. There is a window into the shaping bay so people can watch a board being shaped, or be watched by others while participating.  Signage and video screens go on the walls of the trailer and are placed outside around the location as well.   Walls inside and out will be used for exhibition space and curated for the display of the “What’s in my Board” information panels and artworks. \r\n\_\r\n- Pop-up 20’ trailer purchase and modification to build shaping/sanding room and racks for boards and materials - $20,000\r\n- Production equipment (board stands, power tools, lighting, air compressor, ventilation and filtration system) - $10,000\r\n- Electric solar photovoltaic system with batteries and inverter - $15,000\r\n- Generator backup system (bio-diesel powered) - $3,000 \_(if electricity is not provided by location). \r\n- Signage and educational display structures - $5,000\r\n- Audio-visual display screens, speakers, and gear - $5,000\r\n- Materials to make 10+ eco-surfboards (foam, resin, fiberglass) - $2,000*\r\n- recycling and waste management included TBD\r\n- Electricity + Utilities - $2,500\r\n\r\nEducation Content Development + Presentation \r\n- Workshop information guides\r\n- Environmental and sustainability educational content\r\n- Website Revisions and updates with Social Media\r\n- Merchandise + other promotional materials\r\n- Video Production\r\n- Interns and attending staff\r\n- Total cost for educational content production and printing - $37,500*\r\n\r\n* Some of this material has already been produced and is being stored for our continued use at conferences and shows. \r\n**Once boards are completed they can be sold. \_ The money then goes back into the Project to offset operation costs, maintenance + staff.\_\r\n\r\nWe are currently working on finalizing the vision and budget to work within the parameters outlined in this proposal.  "
   How do you plan to scale the success of your proposal?: >-
     This is an ongoing and discoverable part of the process.  The plan is
     centered around foremost being the catalyst and agents for others to follow
@@ -260,44 +249,6 @@ Are there other organizations doing similar work (whether complementary or compe
   more as a launch pad for the workshop and not for operating costs. Sustainable
   Surf will oversee the social media, calendar of events and management of the
   space.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We believe the $100K award will allow us to build a modular pop up workshop,
-  lab, exhibition space that best represents the overall workings of the
-  EcoBoard Project as outlined in this proposal. Being modular in nature, this
-  will allow for greater flexibility for setting up and taking down at intended
-  partner locations when determined. Since the EcoBoard Project is already in
-  production, this adjunct location, exhibition space and workshop will act as a
-  showroom site to better promote the ongoing program - additional costs will be
-  covered by continuing sales, workshop fees, corporate underwriting and
-  merchandise sales.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Ecoboard Pop-Up Workshop + Education Lab
-   
-   Construction of a pop-up Lab which can be a 20’ trailer with an awning that creates a shaded space on the side. There will be a utility prefab side trailer (attached) modified only for storing materials and glassing equipment inside then moved outside for the demos under the awning. The lab can be either an indoor or outdoor installation. There is a small shaping / sanding booth inside so a complete board can be made in situ. There is a window into the shaping bay so people can watch a board being shaped, or be watched by others while participating. Signage and video screens go on the walls of the trailer and are placed outside around the location as well. Walls inside and out will be used for exhibition space and curated for the display of the “What’s in my Board” information panels and artworks. 
-   
-   - Pop-up 20’ trailer purchase and modification to build shaping/sanding room and racks for boards and materials - $20,000
-   - Production equipment (board stands, power tools, lighting, air compressor, ventilation and filtration system) - $10,000
-   - Electric solar photovoltaic system with batteries and inverter - $15,000
-   - Generator backup system (bio-diesel powered) - $3,000 (if electricity is not provided by location). 
-   - Signage and educational display structures - $5,000
-   - Audio-visual display screens, speakers, and gear - $5,000
-   - Materials to make 10+ eco-surfboards (foam, resin, fiberglass) - $2,000*
-   - recycling and waste management included TBD
-   - Electricity + Utilities - $2,500
-   
-   Education Content Development + Presentation 
-   - Workshop information guides
-   - Environmental and sustainability educational content
-   - Website Revisions and updates with Social Media
-   - Merchandise + other promotional materials
-   - Video Production
-   - Interns and attending staff
-   - Total cost for educational content production and printing - $37,500*
-   
-   * Some of this material has already been produced and is being stored for our continued use at conferences and shows. 
-   **Once boards are completed they can be sold. The money then goes back into the Project to offset operation costs, maintenance + staff. 
-   
-   We are currently working on finalizing the vision and budget to work within the parameters outlined in this proposal.
 How do you plan to scale the success of your proposal?: >-
   This is an ongoing and discoverable part of the process. The plan is centered
   around foremost being the catalyst and agents for others to follow our

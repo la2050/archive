@@ -22,8 +22,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: email from nonprofit advocate
   Organization(s) name(s): 3-D SPACE
   Organization(s) mailing address(es): '5038 Auckland Ave, North Hollywood, CA 91601'
   Organization(s) website(s): www.3-DSPACE.org
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: email from nonprofit advocate
   'City, State': 'North Hollywood, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -144,8 +144,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Our work will be directly evaluated by the public who engage in our activities. The people who attend our classes, workshops and presentations will be given the opportunity to provide feedback that will be used to shape future programs.\r\n\r\nThe many works and media created by our students will be exhibited in various public venues including art galleries, film festivals, and online, where the Los Angeles community at large will be able to see, experience, and comment.\r\n\r\nOur internal evaluation will be based on measuring levels of continuing engagement with the public, growth of class and workshop sizes, attendance numbers at our events, and public demand for increased activities"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "The LA 3-D Club, founded in 1955, is the most active membership-based organization in the country for 3-D enthusiasts. Their monthly meetings allow 3-D image makers to share photos and videos, learn techniques, and socialize with other 3-D fans.\r\n\r\nThe focus of 3-D SPACE is to increase engagement between these enthusiast communities, working professionals, and the public. 3-D SPACE founder Eric Kurland has over ten years of experience in connecting the public to the 3-D community. His work as the Director of the Annual LA 3-D Movie Festival and five years as the President of the LA 3-D Club, as well as his professional stereoscopic work in the entertainment industry (including 3-D Director for the Grammy nominated OK Go music video ALL IS NOT LOST, and Lead Stereographer for the Oscar nominated animated short MAGGIE SIMPSON IN THE LONGEST DAYCARE) puts 3-D SPACE in the position to be able to bring all aspects of the 3-D world together, from the fans, to the independent artists, to the professionals working in the entertainment industry.\r\n \r\nThe 3-D SPACE Board of Directors is comprised of a team with strong backgrounds in the arts, non-profits and museums, education, and of course 3-D. We have also assembled a fantastic group of advisors to help round out our knowledge, and provide access to resources and information that will help us to become a vital and exciting organization."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "There are many potential collaborators throughout the Los Angeles arts and education sectors, including the Columbia Memorial Space Center in Downey, California, LA Filmforum, the Velaslavasay Panorama, ScareLA, the Echo Park Film Center, Captured Aural Phantasty Theater, Monsterpalooza, Heritage Square Museum, the Academy of Motion Picture Arts and Sciences, and the LA 3-D Club,  as well as other arts and science organizations, museums, galleries, libraries, and schools.\r\n\r\nHowever, 3-D SPACE is the singular applicant for this grant. Funds will be directed into the budget of the program of presentations, classes and workshops described in this proposal, and will not be disbursed to any partners."
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Costs specific to the 2016 program in this proposal can be estimated at $100,000 and can be offset through tuition fees for the presentations, classes and workshops. We will also seek corporate sponsors and donors to underwrite and subsidize the tuition fees.\r\n\r\nAdditional costs for 3-D SPACE's general operation will  be covered through sustaining membership subscriptions, corporate donors and sponsorships, and additional foundation and government grants.\r\n\r\nFunds will also be raised through specific targeted capital campaigns for the eventual acquisition and maintenance of a suitable permanent facility for our center (museum, gallery, classroom, theater)."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$10,000 - computer hardware (10 computer stations at $1,000/each)\r\n  $6,000 - computer software\r\n$10,000 - photo and video equipment (cameras, lenses, tripods, etc.)\r\n$50,000 - staff compensation (administrative staff, teaching staff, support staff)\r\n$10,000 - facilities and classroom rentals\r\n  $4,000 - promotion, advertising, outreach\r\n$10,000 - contingency for regular and ongoing operational expenses\r\n-------------\r\n$100,000"
   How do you plan to scale the success of your proposal?: "The proposed plan can be scaled to include increased frequency and availability of presentations, classes and workshops citywide and countywide in order to provide creative opportunities to larger portions of the community. Specific topics and techniques can be expanded upon and programs can be individually tailored to meet the needs of specific populations. Our programs will also be able to supplement a broader STEAM curriculum in partnership with other arts and science organizations and local school districts and colleges. \r\n\r\n"
 areas_impacted: ''
 partners: ''
@@ -218,25 +216,6 @@ Are there other organizations doing similar work (whether complementary or compe
   libraries, and schools.
    
    However, 3-D SPACE is the singular applicant for this grant. Funds will be directed into the budget of the program of presentations, classes and workshops described in this proposal, and will not be disbursed to any partners.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Costs specific to the 2016 program in this proposal can be estimated at
-  $100,000 and can be offset through tuition fees for the presentations, classes
-  and workshops. We will also seek corporate sponsors and donors to underwrite
-  and subsidize the tuition fees.
-   
-   Additional costs for 3-D SPACE's general operation will be covered through sustaining membership subscriptions, corporate donors and sponsorships, and additional foundation and government grants.
-   
-   Funds will also be raised through specific targeted capital campaigns for the eventual acquisition and maintenance of a suitable permanent facility for our center (museum, gallery, classroom, theater).
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  $10,000 - computer hardware (10 computer stations at $1,000/each)
-    $6,000 - computer software
-   $10,000 - photo and video equipment (cameras, lenses, tripods, etc.)
-   $50,000 - staff compensation (administrative staff, teaching staff, support staff)
-   $10,000 - facilities and classroom rentals
-    $4,000 - promotion, advertising, outreach
-   $10,000 - contingency for regular and ongoing operational expenses
-   _____________
-   $100,000
 How do you plan to scale the success of your proposal?: >-
   The proposed plan can be scaled to include increased frequency and
   availability of presentations, classes and workshops citywide and countywide

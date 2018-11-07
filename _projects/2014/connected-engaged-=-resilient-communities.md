@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '1'
-  city_state: 'Los Angeles, CA '
   org_website: www.redcross.org/ca/los-angeles
   org_twitter: twitter.com/RedCrossLA
   org_facebook: www.facebook.com/redcrossla
@@ -115,7 +115,7 @@ maker_answers:
   org_name: American Red Cross Los Angeles Region
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
-  metrics_connect_traveltime: '0'
+  city_state: 'Los Angeles, CA '
   metrics_connect_culturalevents: '0'
   metrics_connect_publictransit: '0'
   metrics_connect_neighborhoodcouncils: '1'
@@ -160,14 +160,6 @@ maker_answers:
     adopted. We are in conversations with the County of LA and eventually the
     City of LA to pilot the 5 Steps model as a Part 2 to the Map Your
     Neighborhood program. 
-  cost: >-
-    Since the Map Your Neighborhood component is volunteer-run, the largest
-    expenses revolve around a percent of staff management of the Community
-    Ambassador Program, meeting costs, printing,  travel, and collateral like
-    preparedness kits, . The Team Red Cross App was very recently released and
-    enhancements are already being worked on, so production a percent of salary
-    and communication expenses would be part of the cost for these purposes.   
-  budget: "Salary                                                                            $80,000\r\n(App Production, Communications, and Program) \r\n\r\nMeetings                                                                        $ 5,000\r\n\r\nMaterials                                                                        $ 6,500\r\n(preparedness kits)\r\n\r\nPrinting                                                                          $ 5,500\r\n\r\nTravel                                                                             $ 3,000\r\n(Mileage Reimbursement)                                                                     \r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

@@ -21,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_learn_communitycollege: '1'
   collaboration: "Our partners Centro Latino for Literacy and Human-I-T are confirmed partners for this pilot project. Since 1991, Centro Latino for Literacy has been putting non-to-low literate adults on the pathway to learning English as a second language (ESL) through its unique and innovative courses. Centro Latino’s approach builds the foundational skills and confidence needed for native Spanish speakers to learn English and pursue greater educational and income opportunities.\r\n\r\nhuman-I-T is a nonprofit organization working transform unwanted or inoperative laptops and computers into operational education tools for the millions in need. human-I-T strives to go beyond recycling by taking a progressive approach to e-waste management, vocational training, and the digital divide.\r\n\r\nEveryoneOn works with outreach and enrollment partner organizations to provide free digital literacy content and pre-qualify low-income, unconnected families for our low-cost technology and home Internet service offers. We have worked with these organizations and many others to drive technology adoption in LA and across the country.\r\n\r\nThe two factors that are critical to the success of this collaboration are funding and outreach/community awareness. Once funding has been secured, we will collectively leverage our networks and partners on the ground in LA to drive outreach and awareness."
-  metrics_learn_earlyeducation: '1'
   org_website: 'http://www.everyoneon.org'
   org_twitter: everyone_on
   org_facebook: www.facebook.com/everyoneon
@@ -64,7 +64,7 @@ maker_answers:
   who_benefit: "This is an opportunity for working age adults; a vast majority of whom are parents,  who have never had any formal primary schooling. One third of Centro Latino students are indigenous speakers with Spanish as their second language. The ultimate goal of these students is to learn English. We want to encourage them and their children to value and retain their primary and secondary languages as they learn English. Recent research has shown both the health and economic value of having multilingual skills.\r\n\r\nVolunteers without home internet access that participate in this project will also benefit from free equipment and home Internet access. The Volunteer Corps at Centro Latino consists mainly of first generation college students and professionals, and about 60% of human-I-T volunteers/interns are late high school to early college age (17-23); both of which will greatly benefit from vocational skills and free home access to the Internet."
   about_you: 'Washington, DC'
   org_name: 'EveryoneOn, Centro Latino for Literacy and Human-I-T'
-  metrics_learn_communitycollege: '1'
+  metrics_learn_earlyeducation: '1'
   metrics_learn_unemployment: '1'
   metrics_learn_graduationrates: '1'
   metrics_learn_proficiency: '1'
@@ -90,13 +90,6 @@ maker_answers:
     positioned to begin implementation of this project immediately.
   major_challenges: "We anticipate encountering challenges in finding volunteers and technology donations. Human-I-T relies solely on donations of old technology from the public and private sector to provide the refurbished devices. We plan to expand and leverage our local and national partnerships with community anchor institutions, volunteer organizations and nonprofits to drive awareness around the project and its incentives for volunteers and donors of unwanted technology.\r\n  \r\nWe will also develop a strategy for training staff and interns at Centro Latino and human-I-T around our Internet service and computer offers, as well as the details of this project to help raise awareness and facilitate enrollment and adoption for both graduates and volunteers. Facilitated enrollment by knowledgeable staff/volunteers will also increase the likelihood of technology retention.\r\n"
   competition: "There are several organizations committed to bridging the digital divide for marginalized populations in Los Angeles. EveryoneOn has formed local and national partnerships with many of these organizations through our Enrollment Partner program, training, and outreach efforts. \r\n\r\nThis project is unique from what presently exists in the digital inclusion space in LA because we are positioned to integrate literacy training and volunteerism with free and low-cost technology at scale for English and Spanish speaking adults. We also have the capacity to improve upon, expand, and replicate this project with other existing partners in Los Angeles and nationally.\r\n"
-  cost: >-
-    At most, the project will cost $97,650 to implement based on the budget
-    outlined below. Utilizing our existing fundraising and media resources,
-    national partnerships, and a crowd-funding campaign strategy we will be able
-    to raise the additional funds needed for the successful implementation of
-    this program.
-  budget: "12-month subscription to Leamos Basic online course @ $150.00 for 125  non-literate adults\t                                          $18,750.00 \t\r\n\r\nLeamos Grammar; math and numeracy classes for 75 low-literate adults                                                                              $16,200.00\t\r\n\r\n300 Complete Computer Systems w/ Window 7 Pro key & software (Licenses + Labor) @ $6.00 each                            $22,500.00\t\r\n\r\nRouter + shipping @ $44 for 200 graduates         $ 8,800.00 \t\r\n\r\n12 months of home Internet @ $120 for 200 graduates\r\n                                                                                          $24,000.00\t\r\n\r\nRouter + shipping @ $44 for 100 volunteers        $ 4,400.00 \t\r\n\r\n3 months of home Internet @ $10/month for 100 volunteers\r\n                                                                                          $ 3,000.00\t\r\n\r\n                                                               TOTAL:            $97,650.00\t\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

@@ -23,8 +23,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_create_researchgrant: '1'
   metrics_create_employment: '1'
-  city_state: 'North Hollywood, CA'
   org_website: 'http://www.deafwest.org'
   org_twitter: '@deafwest'
   org_facebook: 'https://www.facebook.com/deafwesttheatre'
@@ -71,7 +71,7 @@ maker_answers:
   org_name: 'Deaf West Theatre, Inc.'
   metrics_create_arts: '1'
   metrics_create_manufacturing: '1'
-  metrics_create_researchgrant: '1'
+  city_state: 'North Hollywood, CA'
   metrics_create_patents: '0'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '1'
@@ -98,8 +98,6 @@ maker_answers:
     would be able to begin our activities almost immediately.
   major_challenges: "CHALLENGE: Our donors and funders may get the impression that their contributions are no longer necessary if we have residency at CSUN.   \r\n\r\nSOLUTION: To counter that, our own appeals will emphasize how important it is that Deaf West Theatre bring its own funding in order to be an equal and valuable partner / tenant.  \r\n\r\nCHALLENGE: In 1990, Deaf West Theatre was born under the umbrella of The Fountain Theatre in Los Angeles where it remained until 1993 when funding allowed Deaf West Theatre to rent its own facility.  At that juncture, our constituents celebrated the notion of a deaf-run organization standing on its own with complete autonomy.   \r\n\r\nSOLUTION: While this might not be entirely the case as a resident company, we are in the best position to understand the process of collaboration and problem solving as issues arise.  We are poised to meet all challenges and to contribute meaningfully to the community.  DWT will continue in-depth dialogues and enter into formal agreements supported by the leadership of any organizations or institutions."
   competition: "To the best of our knowledge, there are no other sign language theater companies in Los Angeles County that are seeking a residency at any university,  or similar companies whose history and scope of programming compete with ours.        \r\n\r\nCenter Theatre Group's 'Project D.A.T.E.' (Deaf Audience Theatre Experience) may be considered a complement to our programming. Project  D.A.T.E. provides interpreted performances as a matter of accessibility, rather than an art form.  \r\n\r\nAnother compliment to Deaf West Theatre would be Comedian Kathy Buckley's company, No Limits Theatre, which accommodates the needs of deaf and hard of hearing people who were raised orally, that is, who do not use sign language as their primary mode of communication.  \r\n"
-  cost: "$200,000 total residency costs\r\n100,000 LACA 2050 \r\n75,000 other grants and donations\r\n25,000 earned income (tickets, ad sales, concessions)\r\n"
-  budget: "EXPENSES\r\n\r\nSALARIES AND FEES\r\nArtistic Director =  40,000\r\nManaging Director = 14,000\r\nAdmin. Asst. / Interpreter = 8,000\r\nAccounting = 15,000\r\nLegal = 10,000\r\nSubtotal Salaries and Fees = 87,000\r\n\r\nPRODUCTIONS\r\nProducers = 40,000\r\nDirectors =  40,000\r\nPerformers = 40,000\r\nDesigners = 40,000\r\nCrews = 20,000\r\nMaterials = 40,000\r\nInterpreters  =  10,000\r\nOther = 10,000\r\nSubtotal  Productions = 240,000\r\n\r\nEDUCATIONAL OUTREACH WORKSHOPS\r\nCoordinator = 5,000\r\nInstructors = 10,000\r\nInterpreters = 2,500\r\nOther  = 2,500\r\nSubtotal Educational Outreach Workshops = 20,000\r\n\r\nPROFESSIONAL DEAF ARTISTS TRAINING PROGRAM\r\nCoordinator s= 5,000\r\nInstructors =  30,000\r\nGuest Speakers' Honoraria = 5,000\r\nInterpreters = 10,000\r\nMaterials  = 5,000\r\nOther = 5,000\r\nSubtotal Professional Training Program = 60,000\r\n\r\nCOMMUNITY EVENT  - SIGNING IN THE STREETS = 1,000\r\nARCHIVAL DOCUMENTARY = 10,000\r\nOTHER\r\nFACILITY RENT EXPENSE  = 30,000 \r\nPR & MARKETING = 15,000\r\nPROJECT EVALUATORS = 2,000\r\nMISC. = 10,000\r\nCONTINGENCY = 25,000 \r\nSubtotal Other = 57,000\r\nGRANT TOTAL EXPENSES = 500,000\r\n\r\nEARNED INCOME\r\n\r\nPRODUCTIONS\r\nTicket Sales = 180,000 (based on average ticket sales at 2/3 capacity, 4 six-week productions)\r\nProgram Book Ad Sales = 20,000\r\nConcessions = 6,000\r\nSUBTOTAL PRODUCTIONS = 206,000\r\n\r\nPROFESSIONAL DEAF and HARD OF HEARING ARTISTS TRAINING PROGRAM (Summer School)\r\n\r\nStudent Fees =6,000 (150 students, $100 per week x 4 weeks)  \r\n\r\nSUBTOTAL ARTISTS TRAINING PROGRAM = 6000\r\n\r\nEDUCATIONAL OUTREACH PROGRAM = $0 (Service to the community)\r\n\r\nSUBTOTAL EARNED INCOME - 212,000\r\n\r\nCONTRIBUTED INCOME\r\n\r\nLACA 2050 Grant = 100,000\r\nGRANTS (Department of Cultural Afairs, Los Angeles County Arts Commission, The Harold and Mimi Steinberg Foundation, etc)= 100,000 \r\nDONATIONS (conservatively based on prior years) = 25,000\r\nIN-KIND CONTRIBUTIONS (volunteer hours, pro-bono services, loaned material, extra rehearsal space) = 63,600\r\nSUBTOTAL CONTRIBUTED INCOME = 288,600\r\n\r\nGRAND TOTAL INCOME = 500,000"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

@@ -19,8 +19,8 @@ project_areas:
   - San Gabriel Valley
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: We submitted a grant last year
   Organization(s) name(s): MAPS 4 College
   Organization(s) mailing address(es): '13337 South Street 574, Cerritos, CA 90703'
   Organization(s) website(s): www.maps4college.org
@@ -65,7 +65,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: We submitted a grant last year
   'City, State': 'Baldwin Park, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -122,8 +122,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "MAPS will be evaluated by the number of events and workshops hosted, number of people who attended, and number of volunteers and interns and hours completed. \r\n\r\nThe workshops and events hosted would also be evaluated through surveys by those who attended the events."
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Many organizations provide employment services, but they focus on helping people secure jobs. Some agencies provide emotional and social support and training, but the services only graze the surface.  Former CEO, Dr. Koo, will use her proprietary approach to address the root issues people experience to not only reduce and eliminate unwanted social and emotional barriers, but also provide a path to help them secure employment.  Previously, Dr. Koo has provided her proprietary approach to long-term, unemployed adults; results of the program are being reviewed by leaders who focus on workforce development. \r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "SELACO-WIB, City of Baldwin Park, Mount Saint Mary’s University (student clubs), Project SPICES, and businesses. Some partners may receive grant award, but as of now, funding will remain in-house. \r\n "
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "MAPS has always been able to work within its means. The $100,000 grant will suffice to allow the organization to fulfill its goals and purposes to carry out this project. \r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$30,000 – Director\r\n$15,000 - Assistant (contractor and other support) \r\n$3,500 - Insurance \r\n$2,000 - Transportation \r\n$2,500 - Technology Equipment \r\n$20,000 - Event planning, Marketing, and preparation (decorations, speakers, entertainment, misc)\r\n$20,000 - Operations (including administration and contractors)\r\n$5,000 - Training (staff and volunteers) \r\n$2000 - Other expenses\r\n"
   How do you plan to scale the success of your proposal?: "MAPS anticipates expanding its services by continually collaborating with job recruitment agencies, chambers of commerce, businesses, corporations, and colleges.  We plan to expand our training services at prospective agency sites and ensure students have the essential skills to successfully navigate the workforce. \r\n"
 areas_impacted: ''
 partners: ''
@@ -166,20 +164,6 @@ Are there other organizations doing similar work (whether complementary or compe
   SELACO-WIB, City of Baldwin Park, Mount Saint Mary’s University (student
   clubs), Project SPICES, and businesses. Some partners may receive grant award,
   but as of now, funding will remain in-house.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  MAPS has always been able to work within its means. The $100,000 grant will
-  suffice to allow the organization to fulfill its goals and purposes to carry
-  out this project.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  $30,000 – Director
-   $15,000 - Assistant (contractor and other support) 
-   $3,500 - Insurance 
-   $2,000 - Transportation 
-   $2,500 - Technology Equipment 
-   $20,000 - Event planning, Marketing, and preparation (decorations, speakers, entertainment, misc)
-   $20,000 - Operations (including administration and contractors)
-   $5,000 - Training (staff and volunteers) 
-   $2000 - Other expenses
 How do you plan to scale the success of your proposal?: >-
   MAPS anticipates expanding its services by continually collaborating with job
   recruitment agencies, chambers of commerce, businesses, corporations, and

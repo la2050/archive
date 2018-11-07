@@ -19,8 +19,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '1'
-  city_state: San Fernando
   org_website: www.youthspeakmediasolutions.org
   org_twitter: youthspeakup
   org_facebook: www.facebook.com/youthspeakcollective
@@ -64,7 +64,7 @@ maker_answers:
   org_name: Youth Speak Collective
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '0'
-  metrics_connect_traveltime: '0'
+  city_state: San Fernando
   metrics_connect_culturalevents: '1'
   metrics_connect_publictransit: '0'
   metrics_connect_neighborhoodcouncils: '1'
@@ -87,12 +87,6 @@ maker_answers:
   achievable_goal: "We believe we have laid out achievable goals. We have a team of 20 students and 5 mentors that can juggle an average of 6 jobs a week that would allow us to engage 50 individuals within the time allowed. We have learned as creative professionals to be organized with our work load, having priorities each week and setting benchmarks for our progress. \r\n\r\nAs a program of the nonprofit, Youth Speak Collective we have an additional team of staff, boardmembers and advisory council members that will assist in our planning, outreach and development of our program goals. \r\n"
   major_challenges: "We anticipate two main challenges within this proposal. The first is the amount of individuals that we will be working with and the scheduling of time and the details that this will encompass. With so many stories to tell we will be working with our students schedules, our mentors work schedules and the individual’s schedules. We plan to allocate a portion of the funding to be able to hire and designate one point person for this project. In film terms this would be our Producer. Our strategy for making a smoother storytelling and editing process we plan on having one specific person do the communication with the young people telling their stories. \r\n\r\nThe second challenge that we foresee is related to the concise telling of stories. In order to make an effective film that people would watch online we believe that all stories should be under two minutes each. In order to do this more effectively we plan to reach out to our public relations and marketing partners who can work with us pro bono to assist in some branding and outreach techniques to help people tell their story more efficiently and really explain their solution in a manner that makes an impact. "
   competition: "Yes, there are a handful of groups in Southern California that do similar work to Youth Speak Media Solutions, as far as working with an at risk population, training them in a creative field and giving them hands on job training and paid work experience. Due to the fact that we partner with many freelance industry professionals, we believe our work is at a higher quality of these groups in Southern California but also believe that there is an opportunity to partner with them on multiple levels. We hope to trade “best practices” with others on volunteer management, training techniques and tactics for working with our clients collaboratively. \r\n\r\nWhat makes Youth Speak Media Solutions unique is our approach to programming and our success as a social enterprise venture. Our organization’s name stems from its commitment to providing youth with the opportunity to ‘speak’ – to be vocal and empowered, helping develop the very programs they participate in, programs that improve the health of their neighborhoods. Our success as a social enterprise has created revenue for our digital arts programs and provides a creative career path for the students we work with.\r\n"
-  cost: >-
-    We have budgeted the total cost of the project at $100,000. If the cost of
-    the project exceeds $100,000 Youth Speak Media Solutions plans to seek
-    additional funding or pay for those additional costs out of our own program
-    budget.
-  budget: "$70,000 – for the pre and post production on 50 films. Each film to be 1-2 minutes in length. We estimate approximately $1,500 per film. This would include the student fees, mentor stipend, mileage costs, equipment rental and other costs associated with pre and post production.\r\n\r\n$10,000 – for the Producer. This amount would be a contract with an individual to manage the grant, the goals, the students and mentors. \r\n\r\n$10,000 – for an event planner that would lead in the planning and logistics of film screenings. \r\n\r\n$5,000 – administrative fee for the nonprofit Youth Speak Collective to provide office space, insurance and oversight for the project as needed\r\n\r\n$5,000 – for fees, supplies and refreshments to host 5 film screenings in communities in LA and one larger event in downtown Los Angeles\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

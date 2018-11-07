@@ -24,8 +24,8 @@ project_areas:
   - South LA
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: newsletter
   Organization(s) name(s): Mujeres de la Tierra
   Organization(s) mailing address(es): '570 West Avenue 26, Ste 300, Los Angeles, CA 90065'
   Organization(s) website(s): www.mujeresdelatierra.org
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: newsletter
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -128,12 +128,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "MDLT will utilize qualitative and quantitative measures to evaluate La Paletera enterprise and the effectiveness of the small business Paletera as it develops in time. Data will be used to duplicate La Paletera business as the project grows. Daily sales by Paleteras will be documented and tracked. Feedback will be solicited via social media and on the spot conversation of buyer preferences and requests. Feedback will also be solicited from Paleteras regarding public comments, and impressions.\r\nPaleteras will serve as positive role model for their families and neighboring friends and serve as links to anyone who is interested in learning about starting a small enterprise. This information will be tracked through pre and post surveys and assessments. \r\n\r\nAn important measure of success will be how this learning experience encourages paleteras to engage with other people in the community, their fellow paleteras, and other businesses within the community.\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "At the time, there is no healthy option as street vendors. La Paletera is comprised of a recruitment and training program; upgraded bicycle propelled vending carts (“Paleta-Mobiles”) with support equipment and transportation vehicles; a frozen goods making facility to supply La Paletera vendors; and micro-lending opportunities for low-income participants. We define success as the emergence of “Paleta-Mobiles” with vendors offering high quality fruit bars, refreshments, and other healthy offerings at beach boardwalks, selected regional parks in the region and other appropriate outdoor entertainment spaces. The vending carts and products are intended to be presented for their value in promoting healthy food choices, with environmentally responsible food handling and packaging practices. Environmental tips will be etched on the Popsicle sticks and anti-litter messaging will be included in the environmental-friendly packaging.\r\n\r\nThe vision behind La Paletera fuses major demographic, economic, environmental, and health trends in a manner that reaches beyond the elite appeal of the healthy foods movement. This vision further reinforces community needs and values at all economic levels and ethnic groups through its product selection, ecological ethics and new product mobility.\r\nMujeres de La Tierra is a Los Angeles based non-profit environmental organization that has positioned itself as a catalyst in new approaches addressing quality of life beginning with women and their families.\r\n\r\nOur field work over the years has clearly indicated that we cannot separate the conversation of healing “La Madre Tierra” with the economic realities of everyday survival they both go hand-in hand.\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "We have learned that our work is enhanced and strengthened when we engage and involve other non-profits, community organizations, neighborhood groups, community stakeholders and leaders. This effort will be no different. We have been planning La Paletera for over 2 years and have worked and will continue to partner with:\r\n• Anahuak Youth Sports Association  \r\n• Los Angeles River Corporation \r\n• East Los Angeles Community Corporation \r\n• Exposition Center \r\n• Supervisor Mark Ridley Thomas’ Office \r\n• California State Parks \r\n• Local Neighborhood Councils \r\n• National Park Service \r\n• Mountains and Recreation Conservation Authority \r\n• Los Angeles Trade Technical College \r\n• County Department of Public Health \r\n• Baldwin Hills Conservancy and \r\n• City of Culver City \r\n• Mexican Consulate\r\n\r\nSince the collaboration of the previous mentioned organization are mainly targeted in non-monetary resources, but as a collaboration to facilitate the workspace and development of La Paletera the LA2050 Challenge Grant will designated to the initial investment of the project fund. \r\n\r\nPartnerships with Calo Youth Center to build our Paleta Mobile, a Solar-powered Tricycle and Dreamhaus a young urban artistic non-profit focused on youth in Southern Los Angeles. \r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The first phase of La Paletera has an initial budget of $150,000.00. The
-    $50,000.00 additional costs will be covered mainly by donation to the
-    organization, sponsorship to the project and funds gathered in our annual
-    fundraising benefit.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Resources\t                                Est. Cost\r\nRent of Kitchen space\t                $30,000.00 \r\nPaleta Mobile Manufacturing\t$30,000.00 \r\nStaffing\t                                        $25,000.00 \r\nTraining\t                                        $12,000.00 \r\nAdministration Fees\t                $15,000.00 \r\nPaleta Manufactruing\t                $32,000.00 \r\nWorkshop - Materials\t                  $6,000.00 \r\n\t                                              $150,000.00 \r\n"
   How do you plan to scale the success of your proposal?: >-
     By measuring the efectiveness of the small business using qualitative and
     quantitative measures to evaluate La Paletera enterprise. Data will be used
@@ -223,21 +217,6 @@ Are there other organizations doing similar work (whether complementary or compe
    Since the collaboration of the previous mentioned organization are mainly targeted in non-monetary resources, but as a collaboration to facilitate the workspace and development of La Paletera the LA2050 Challenge Grant will designated to the initial investment of the project fund. 
    
    Partnerships with Calo Youth Center to build our Paleta Mobile, a Solar-powered Tricycle and Dreamhaus a young urban artistic non-profit focused on youth in Southern Los Angeles.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The first phase of La Paletera has an initial budget of $150,000.00. The
-  $50,000.00 additional costs will be covered mainly by donation to the
-  organization, sponsorship to the project and funds gathered in our annual
-  fundraising benefit.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Resources  Est. Cost
-   Rent of Kitchen space  $30,000.00 
-   Paleta Mobile Manufacturing $30,000.00 
-   Staffing  $25,000.00 
-   Training  $12,000.00 
-   Administration Fees  $15,000.00 
-   Paleta Manufactruing  $32,000.00 
-   Workshop - Materials  $6,000.00 
-    $150,000.00
 How do you plan to scale the success of your proposal?: >-
   By measuring the efectiveness of the small business using qualitative and
   quantitative measures to evaluate La Paletera enterprise. Data will be used to

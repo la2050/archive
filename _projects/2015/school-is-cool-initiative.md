@@ -26,8 +26,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): '4133 Via Marina, Los Angeles CA'
   Organization(s) website(s): www.thinkingabouttomorrow.org
   Organization(s) twitter handle(s): 'https://twitter.com/thinkabouttmw'
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Thinking about Tomorrow
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -172,10 +172,6 @@ maker_answers:
     with each other to ensure all children have the best opportunities to learn
     to love and value their education. 
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Over the years, TaT has established many community partners along the way, but none have been as integral to the success of our School is Cool initiative as the Los Angeles Dodgers, Keystone Press, Build-a-Bear, Wal-Mart, Kroger, Ralph's and Panera Bread. Together, we have built a solid foundation around shared values focused on improving our communities today, for tomorrow.\r\n\r\nOur partnership with the LA Dodgers creates a huge opportunity for at risk students as well as their families! Through our program, students with excellent and perfect attendance throughout the year are invited to Dodger Stadium to enjoy a day at the ballpark. Free tickets for the family, $10 vouchers to be used for (food), hats, pennants and tshirts provide the ultimate experience for our students and their families! This past year, we celebrated attendance with over 20,000 at-risk students in 28 of LAUSD's schools.\r\n\r\nKeystone Press is another highly significant partnership that provides TaT with our perfect and excellent attendance certificates given to students for consistent attendance. Keystone also provides the certificates of appreciation and all other promotional materials for TaT, including brochures and one-sheet printouts. In total, we've handed out over 50,000 certificates for attendance!\r\n\r\nPartnerships with Build-a-Bear, Walmart, Kroger, Ralph's and Panera Bread help get students excited about coming to school EVERYDAY! Through our partnership with these organizations, our program challenges our students weekly, monthly, and annually by providing constant motivation through various in-kind and monetary donations. These businesses provide a wide variety of incentives and rewards for each student eligible by simply going to school!\r\n\r\nAbove all, one of the most critical factors to the success of our organization's message is the ability to reach as many members of our community as possible. It is often difficult to offset the costs of promotional advertising and we are grateful to our sponsors who provide opportunities to help cover the costs of such materials."
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Roughly, our project costs $50,000; as we expand and more students qualify,
-    our costs will increase.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Below is our \"School is Cool\" initiative budget!\r\n\r\n> \"We're ALL Here\" Attendance Improvement Program:\r\n*These estimates are for one school and as our \"School is Cool\" initiative expands to additional schools, these variable costs will increase.\r\n\r\nSmall Incentives:\r\nBubbles (12/pack) - $7\r\nPens (250/pack) - $32\r\nMotivational pencils (250/pack) - $27\r\nMini Erasers (500/pack) - $10\r\nBoard Games (10/school @ $8) - $80\r\nGift Cards (10/school @ $10) - $100\r\n\r\nLarge Incentives:\r\nBicycles (2/school) - $100\r\nWifi Tablets (2/school) - $300\r\niPod Shuffles (5/school @$50) - $250\r\nMovie Tickets (20/school @ $20) - $400\r\nTickets to Dodger Games (50/school @ $0) - $0\r\nGift Cards (5/school @ $25) - $125\r\n\r\nHonors & Awards:\t\r\nPerfect Attendance Pins (200/school @ $.60) - $120\r\nPerfect Attendance Certificates - $0\r\nExcellent Attendance Certificates - $0 \r\n\r\n20 schools ~ Approx. total = $30,000\r\n\r\n> \"Back to School\" Supply Drive:\r\n*Our yearly goal is to collect 500 backpacks filled with an ENTIRE school year of school supplies. Th"
   How do you plan to scale the success of your proposal?: "To achieve desired results to any give task, communication and goals must be clear and direct. One must not assume that all involved parties know what is expected. This is not realistic. Communication is an important key factor when it comes to executing a project or event. When all parties are not on the same page, it takes longer for the goal to be achieved.\r\n\r\nWorking with the entire community can be a daunting task. Often times, unlimited amounts of pressure build, especially when thousands of students and their families are trusting TaT to come through! The advantage of our programming is that we make communication a priority. Communication between the schools and students as well as their families, along with communication between commercial and residential representatives is imperative to a smoothly functioning program. We have learned that it is the disconnection between the members of the community that halt further advancement and success of our programs. However, creating an opportunity for the entire community to celebrate each other builds an unbreakable bond amongst all members of the community!\r\n\r\nAdditionally, we have learned that people, not just children, need to be excited about learning. Modern technology has both excelled our civilization beyond belief while at the same time has prevented many from eventually reaching their full potential. For many, it has ruined their ability to interact socially and has increased behavioral anxiety. While we realize that we award students at the end of the year with free wifi tablets that can often perpetuate the lack of social behavior, we also realize the tablet's amazing motivating factors for children and we strive to provide our students with the education needed to learn how to use it with moderation. \r\n\r\nSo, while we \"incentivize\" and get our students excited about going to school everyday, we also give them to the tools needed for success in both school and life! We establish within each student a solid foundation of values that are taken home to families and are carried with them forever. We believe that learning NEVER ends and getting people excited about valuing their education isn't just about improving attendance rates or graduation rates, it's about improving their future!"
 areas_impacted: ''
 partners: ''
@@ -244,40 +240,6 @@ Are there other organizations doing similar work (whether complementary or compe
    Partnerships with Build-a-Bear, Walmart, Kroger, Ralph's and Panera Bread help get students excited about coming to school EVERYDAY! Through our partnership with these organizations, our program challenges our students weekly, monthly, and annually by providing constant motivation through various in-kind and monetary donations. These businesses provide a wide variety of incentives and rewards for each student eligible by simply going to school!
    
    Above all, one of the most critical factors to the success of our organization's message is the ability to reach as many members of our community as possible. It is often difficult to offset the costs of promotional advertising and we are grateful to our sponsors who provide opportunities to help cover the costs of such materials.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Roughly, our project costs $50,000; as we expand and more students qualify,
-  our costs will increase.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Below is our "School is Cool" initiative budget!
-   
-   > "We're ALL Here" Attendance Improvement Program:
-   *These estimates are for one school and as our "School is Cool" initiative expands to additional schools, these variable costs will increase.
-   
-   Small Incentives:
-   Bubbles (12/pack) - $7
-   Pens (250/pack) - $32
-   Motivational pencils (250/pack) - $27
-   Mini Erasers (500/pack) - $10
-   Board Games (10/school @ $8) - $80
-   Gift Cards (10/school @ $10) - $100
-   
-   Large Incentives:
-   Bicycles (2/school) - $100
-   Wifi Tablets (2/school) - $300
-   iPod Shuffles (5/school @$50) - $250
-   Movie Tickets (20/school @ $20) - $400
-   Tickets to Dodger Games (50/school @ $0) - $0
-   Gift Cards (5/school @ $25) - $125
-   
-   Honors & Awards: 
-   Perfect Attendance Pins (200/school @ $.60) - $120
-   Perfect Attendance Certificates - $0
-   Excellent Attendance Certificates - $0 
-   
-   20 schools ~ Approx. total = $30,000
-   
-   > "Back to School" Supply Drive:
-   *Our yearly goal is to collect 500 backpacks filled with an ENTIRE school year of school supplies. Th
 How do you plan to scale the success of your proposal?: >-
   To achieve desired results to any give task, communication and goals must be
   clear and direct. One must not assume that all involved parties know what is

@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/MIn1VBaIlrQ'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  'City, State': 'Inglewood, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: Friend
   Organization(s) name(s): Heart and Soul Design Communications Center
   Organization(s) mailing address(es): "1410 North La Brea Avenue\r\nInglewood, CA 90302"
   Organization(s) website(s): www.heartandsoul1.com
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  'City, State': 'Inglewood, CA'
+  How did you hear about this challenge?: Friend
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -122,11 +122,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "At the end of Program, there will be a culmination event, in which the completed work of all students will be shared with parents, peers, educators and community. In addition their work will be featured on local media, Heart & Soul’s website, social media and You Tube. Each student will also take home a copy of the work they’ve created.\r\n\r\nEveryone – staff, board, teachers, parents & students – will evaluate the CHIUME in addition to reaping the rewards. We will promote the Program by broadcasting on local media (cable access), the internet and other outlets. New positive images… New stories told… New economic and educational empowerment. The results will be captured on video, audio recorded, & print, writing and photography.\r\n\r\nThe students will gain a new understanding of themselves and each other and will be more conscientious leaders of tomorrow, thus benefiting their community and our City. We can compare what we have done in multimedia for the under-served to any organization in US."
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Although there are other organizations which provide multimedia training for youth, their program is either not affordable for students in under-served communities and/or it is not as thorough and cohesive as Heart and Soul’s CHIME Program.\r\n\r\nHAS has over 35 years experience working with youth, including collaborating with and providing Los Angeles Unified School District (through their Youth Development Program), Inglewood Unified School District multimedia programs and technology, UCLA, USC, Children’s Defense Fund, etc. Earlier this year, CHIME was successfully implemented in Detroit – a diverse and distinct city with a rich history – a city that has faced and continues to face challenges. Heart & Soul coaches have built studios from Los Angeles, CA to Brooklyn, NY.\r\n\r\nThe 21st Century is a rapidly growing technology based society. Students of today who will become citizens of tomorrow will need to be technologically literate to successfully enter the information age. Our multimedia staff teaches the latest multimedia technology tools through lessons and hands-on experience. Students learn a variety of communication methods from qualified instructors who work in the media industry, offering each pupil the opportunity to work with a professional mentor. The instructors for each multimedia program teach students how to develop their creative writing, presentation & storytelling skills; to visualize and execute their creative concepts; and develop appropriate work ethic in a team dynamic. But, our most valuable lesson is ACT – Attitude, Commitment and Teamwork.  This benchmark is the foundation of our program.  If students can learn to ACT right, they will be successful in any field they choose in life.\r\n\r\nHeart and Soul’s intent is to inspire constructive conversation among local teens throughout the city. The Canadian philosopher Marshall McLuhan’s revolutionary insights changed the way everyone thought about media, technology and communications. McLuhan’s phrase “global village” highlighted his observation that an electronic nervous system (the media) was integrating the planet. Heart & Soul believes that the voices of youth in underprivileged and under-served communities are not part of this global community due to lack of funding and available technology. We want to rectify this problem and bring the youth in our community into the 21st century technology. Our uniquely innovative program is designed to empower, position and give wings to the youth."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Heart and Soul has decades of experience working and collaborating with schools, non-profit organizations and communities at large.\r\n\r\nIf chosen, we will select a total of ten K through 8th grade schools – one school in each of the following areas: Compton, Lynwood, Gardena, Inglewood, Hawthorne, El Segundo, Venice, Lennox, Carson and Long Beach. CHIME After School Program will take place at each school, from 3 to 6 pm, twelve weeks per semester (total of twenty-four weeks). Twenty students, per school, can participate. They will be required to work on projects individually, collectively as a school and, through distance learning, with students at other schools. The goal of working with the students in other schools directly is to create opportunities for them to interact with and learn from each other. Periodically, they will work on their group projects from our studio space in Inglewood.\r\n\r\nThere are no prerequisites, but each youth needs to make a commitment to the Program and be enrolled in one of the selected schools. Furthermore, the principal and one teacher from each school will be involved as well. Lastly, we will involve the parents of each student. In short, we will collaborate with the community!\r\n\r\nThe young people in this program will come from all sections of life, especially under-served communities. Every young person has a need to feel included, needed, productive and valued, in order to feel life is worthwhile – the more diverse, the better!"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Heart and Soul has extensive knowledge of and experience in creating and
-    implementing after school programs. The CHIME Program, as proposed and
-    outlined above, will cost $100,000.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "CHIME Project Budget:\r\n\r\n$12,000 – Director\r\n$  6,000 – Teacher\r\n$  6,000 – Teacher\r\n$  6,000 – Teacher\r\n$  4,000 – Mentor\r\n$  4,000 – Mentor\r\n$  4,000 – Mentor\r\n$  8,000 – Consultant & Professional Fees\r\n$  6,000 – Insurance\r\n$  1,200 – Travel/Field Trip\r\n$24,000 – Equipment\r\n$  6,000 – Software\r\n$  3,000 – Supplies\r\n$  1,400 – Printing & Copying\r\n$     880 – Telephone\r\n$     520 – Postage & Delivery\r\n$  7,000 – Facility & Utilities\r\n\r\n$100,000\tTOTAL"
   How do you plan to scale the success of your proposal?: >-
     The culmination event at the end of CHIME will showcase the success of our
     students before the community – the success will be evident by the student’s
@@ -199,32 +194,6 @@ Are there other organizations doing similar work (whether complementary or compe
    There are no prerequisites, but each youth needs to make a commitment to the Program and be enrolled in one of the selected schools. Furthermore, the principal and one teacher from each school will be involved as well. Lastly, we will involve the parents of each student. In short, we will collaborate with the community!
    
    The young people in this program will come from all sections of life, especially under-served communities. Every young person has a need to feel included, needed, productive and valued, in order to feel life is worthwhile – the more diverse, the better!
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Heart and Soul has extensive knowledge of and experience in creating and
-  implementing after school programs. The CHIME Program, as proposed and
-  outlined above, will cost $100,000.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  CHIME Project Budget:
-   
-   $12,000 – Director
-   $ 6,000 – Teacher
-   $ 6,000 – Teacher
-   $ 6,000 – Teacher
-   $ 4,000 – Mentor
-   $ 4,000 – Mentor
-   $ 4,000 – Mentor
-   $ 8,000 – Consultant & Professional Fees
-   $ 6,000 – Insurance
-   $ 1,200 – Travel/Field Trip
-   $24,000 – Equipment
-   $ 6,000 – Software
-   $ 3,000 – Supplies
-   $ 1,400 – Printing & Copying
-   $ 880 – Telephone
-   $ 520 – Postage & Delivery
-   $ 7,000 – Facility & Utilities
-   
-   $100,000 TOTAL
 How do you plan to scale the success of your proposal?: >-
   The culmination event at the end of CHIME will showcase the success of our
   students before the community – the success will be evident by the student’s

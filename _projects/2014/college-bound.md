@@ -20,11 +20,11 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_learn_communitycollege: '1'
   collaboration: >-
     Our primarily partnership is with other Boys & Girls Clubs, although we also
     partner with the Los Angeles Unified School District and currently serve
     youth on eleven LAUSD school sites.
-  metrics_learn_earlyeducation: '0'
   org_website: 'http://www.bgclaharbor.org'
   org_twitter: '@bgclaharbor'
   org_facebook: 'https://www.facebook.com/bgclah'
@@ -75,7 +75,7 @@ maker_answers:
     related to college admission and scholarships.  
   about_you: 'San Pedro, CA'
   org_name: Boys & Girls Clubs of the Los Angeles Harbor
-  metrics_learn_communitycollege: '1'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '1'
   metrics_learn_graduationrates: '1'
   metrics_learn_proficiency: '1'
@@ -105,8 +105,6 @@ maker_answers:
     There are other college pathway services available to youth today, but none
     provide the comprehensive support College Bound offers, not have others
     achieved the same level of success.
-  cost: "Our total budget for our College Bound program is $1,422,470. To add two additional College Bound Outreach Coordinators (@$40,000ea) and one Outreach Coordinator Assistant (@$35,000)\r\nwill cost us an additional $115,000. We will provide additional $15,000\r\nfrom the College Bound operating budget should we receive the $100,000 grant."
-  budget: "2- Outreach Coordinators                  $80,000\r\n1- Outreach Coordinator Assistant   $35,000 \r\n            Total                                               $115,000"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '0'

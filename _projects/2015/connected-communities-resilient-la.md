@@ -28,8 +28,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Website
   Organization(s) name(s): American Red Cross Los Angeles Region (ARCLA)
   Organization(s) mailing address(es): "11355 Ohio Avenue\r\nLos Angeles, CA 90025"
   Organization(s) website(s): www.redcrossla.org
@@ -79,7 +79,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Website
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -163,8 +163,6 @@ maker_answers:
     and exchange of ideas, promotion and training programs. These relationships
     are collaborative in nature and do not encompass redistribution of grant
     funding as the majority of the material costs are absorbed by the Red Cross.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Since the Home Fire Campaign is volunteer-led, the largest expenses will revolve around a percentage of its staff management, meeting costs,  smoke alarms, installation kits, printing and travel. \r\n\r\nThe total projected annual cost will be approximately $1,000,000. We will make up the remaining $900,000 through funding from individual donors, foundations as well as corporate and government partners.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Salary (% of Preparedness program staff) \t\t\t\t\t      $30,000\r\nCommunity and coalition meeting costs                                          $5,000                     \r\nSupplies  (smoke alarms, installation kits) \t\t\t\t      $60,000\t\r\nPrinting                                                                          \t\t\t      $5,000\r\n"
   How do you plan to scale the success of your proposal?: "The Los Angeles Home Fire Campaign  is part of a larger, four-year campaign. The project design includes reaching a total of 15 targeted communities, which rank very high on the vulnerability index specifically created for this effort. This first year will focus on five of the 15 high-risk and vulnerable communities: Van Nuys, South El Monte/El Monte, Koreatown, Paramount and East Los Angeles (Belvedere, City Terrace and Eastmont). The strategic plan for the campaign further involves working with area community groups and volunteers and canvassing the neighborhoods to conduct a minimum of 500 smoke alarm installations and family preparedness plans in each designated community (totaling at least 2,500 annually). By beginning with the five of the 15 focus communities listed above during the first, growing it by five additional neighborhoods in the second year (San Fernando, Rosemead, South San Gabriel/San Gabriel, Bell/Bell Gardens, Compton/East Compton, South Los Angeles: Exposition Park, Vermont Square and Leimert Park) and then scaling it to the full 15 communities by the end of the third project year (Pacoima, Pomona, Huntington Park/Walnut Park, Wilmington, Westlake/Pico Union), the initiative will have been scaled to cover a vast portion of LA County by the end of the campaign’s third year. \r\n\r\nOnce it has expanded into all 15 communities, year four of the effort will revolve around coalition capacity building, including running a series of coalition convenings, resulting in a stronger network of community coalitions throughout Los Angeles County. The work proposed here will cover year one of the proposed initiative and will be scaled citywide as outlined by the end of its four-year duration.\r\n"
 areas_impacted: ''
 partners: ''
@@ -240,17 +238,6 @@ Are there other organizations doing similar work (whether complementary or compe
   programs. These relationships are collaborative in nature and do not encompass
   redistribution of grant funding as the majority of the material costs are
   absorbed by the Red Cross.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Since the Home Fire Campaign is volunteer-led, the largest expenses will
-  revolve around a percentage of its staff management, meeting costs, smoke
-  alarms, installation kits, printing and travel. 
-   
-   The total projected annual cost will be approximately $1,000,000. We will make up the remaining $900,000 through funding from individual donors, foundations as well as corporate and government partners.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Salary (% of Preparedness program staff)  $30,000
-   Community and coalition meeting costs $5,000 
-   Supplies (smoke alarms, installation kits)  $60,000 
-   Printing   $5,000
 How do you plan to scale the success of your proposal?: >-
   The Los Angeles Home Fire Campaign is part of a larger, four-year campaign.
   The project design includes reaching a total of 15 targeted communities, which

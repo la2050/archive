@@ -21,8 +21,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '1'
-  city_state: 'Monterey Park, CA'
   org_website: www.casala.org
   org_twitter: www.twitter.com/casaofla
   org_facebook: www.facebook.com/ CASA-of-Los-Angeles-Court-Appointed-Special-Advocates
@@ -76,7 +76,7 @@ maker_answers:
   org_name: CASA of Los Angeles
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '0'
-  metrics_connect_traveltime: '0'
+  city_state: 'Monterey Park, CA'
   metrics_connect_culturalevents: '0'
   metrics_connect_publictransit: '0'
   metrics_connect_neighborhoodcouncils: '0'
@@ -104,8 +104,6 @@ maker_answers:
     There is no other organization in Los Angeles whose volunteers are appointed
     by the court and have standing to investigate and to provide advocacy for
     abused and neglected children in the foster care system.
-  cost: '$100,000'
-  budget: "CASA of Los Angeles\t\t\t\t\r\nVolunteer Outreach and Services\t\t\t\t\r\nFiscal Year 2014 - 2015\t\t\t\t\r\n\r\nPERSONNEL\t\t\t\t\r\nOutreach Coordinator - $21,834 (out of $47,000 salary) \r\nVolunteer Coordinator - $21,834 (out of $40,000 salary)\r\nTotal Salaries and Wages Requested - $43,668 \r\nBenefits @ 14.5% - $6,332 \r\nTotal Personnel Requested - $50,000 \r\n\r\nNON-PERSONNEL\r\nVolunteer Fees (AmeriCorps) - $15,000 (out of $38,500 in salary) \t \r\nVolunteer Background Checks - $10,000 (out of $14,940 total)\r\nOutreach and Advertising - $25,000 (to finance outreach campaign) \r\nTotal Non-Personnel Requested - $50,000 \r\nTOTAL PROJECT EXPENSE - $100,000 "
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

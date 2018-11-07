@@ -20,8 +20,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  'City, State': 'El Segundo, CA'
   Organization(s) mailing address(es): '999 N. Sepulveda Blvd. 7th Floor El Segundo, CA 90245'
   Organization(s) website(s): www.youthbizalliance.com
   Organization(s) twitter handle(s): www.twitter.com/yba999
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'El Segundo, CA'
   Organization(s) name(s): Youth Business Alliance
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -138,13 +138,6 @@ maker_answers:
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
     We are currently working with Greendot High Schools, Alliance High Schools,
     and LAUSD. Currently, 100% of the grant award will go towards YBA.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    To expand from 14 to 25 schools and go from serving 350 students to 625
-    students will cost an additional $171,750. We will cover any additional
-    costs through private donations and fundraisers. Will we also continue to
-    apply for foundation/corporate grants and seek partnerships with banks
-    through the community reinvestment act.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Here is a snapshot of our 2016 budget. The $100,000 will help us get closer to our goal of having the YBA program in 25 schools and serving 625 students.\r\n\r\nExpenses\t\t\r\nProgram Costs\t\t\r\n\tTeacher and Champion Stipends\t $150,000 \r\n\tTextbooks and Materials\t $31,250 \r\n\tField Trips\t $50,000 \r\nAdministrative Costs\t\t\r\n\tWeb Design/Support\t $2,000 \r\n\tLegal\t $1,000 \r\n\tAdministrative Personnel\t $70,000 \r\nFundraising Costs\r\n\tFundraising Personnel\t $70,000 \r\nTotal Expenses\t\t $374,250 \r\n\t\t\r\nRevenue Goals\t\t\r\n\tPrivate Donations\t $200,000 \r\n\tGrants\t $200,000 \r\nTotal Revenue\t\t $400,000 \r\n\t\t\r\nNet     $25,750 \r\n"
   How do you plan to scale the success of your proposal?: "We use Dropbox to give each YBA teacher access to our curriculum and as a hub to share information. Our custom website gives our teachers their own account to manage their weekly YBA schedule online for the entire school year. Our guest speakers also have their own account to upload their presentation and manage their speaking calendar. Everything is automated through the website, as well as email reminders to everyone involved in YBA whenever something needs to be done or there is an upcoming event.\r\n\r\nWe are also currently working on standardized marketing material (flyers, videos, etc.) to help our teachers recruit students for the YBA Program. We are also working on releasing a best practices guide for all our teachers and guest speakers to ensure that there are systems in place and standards maintained. Next summer we plan on hosting a workshop for all YBA teachers to share ideas and what works. The internship program we are designing has huge potential to be a consistent funding source for YBA."
 areas_impacted: ''
 partners: ''
@@ -198,35 +191,6 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
   We are currently working with Greendot High Schools, Alliance High Schools,
   and LAUSD. Currently, 100% of the grant award will go towards YBA.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  To expand from 14 to 25 schools and go from serving 350 students to 625
-  students will cost an additional $171,750. We will cover any additional costs
-  through private donations and fundraisers. Will we also continue to apply for
-  foundation/corporate grants and seek partnerships with banks through the
-  community reinvestment act.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Here is a snapshot of our 2016 budget. The $100,000 will help us get closer to
-  our goal of having the YBA program in 25 schools and serving 625 students.
-   
-   Expenses 
-   Program Costs 
-   Teacher and Champion Stipends $150,000 
-   Textbooks and Materials $31,250 
-   Field Trips $50,000 
-   Administrative Costs 
-   Web Design/Support $2,000 
-   Legal $1,000 
-   Administrative Personnel $70,000 
-   Fundraising Costs
-   Fundraising Personnel $70,000 
-   Total Expenses $374,250 
-   
-   Revenue Goals 
-   Private Donations $200,000 
-   Grants $200,000 
-   Total Revenue $400,000 
-   
-   Net $25,750
 How do you plan to scale the success of your proposal?: >-
   We use Dropbox to give each YBA teacher access to our curriculum and as a hub
   to share information. Our custom website gives our teachers their own account

@@ -21,8 +21,8 @@ project_areas:
   - East LA
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: previous LA2050 Challenges
   Organization(s) name(s): Local Initiatives Support Corporation (LISC) Los Angeles
   Organization(s) mailing address(es): "500 South Grand Avenue, Suite 2300\r\nLos Angeles, CA 90071"
   Organization(s) website(s): www.lisc.org/los_angeles/
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: previous LA2050 Challenges
   'City, State': 'Los Angeles, CA '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -157,14 +157,6 @@ maker_answers:
     The four partners are as follows: Coalition for Responsible Community
     Development, Little Tokyo Service Center, East Los Angeles Community
     Corporation and Leimert Park Village 20|20 Vision Initiative.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    LA LISC expects that the project will cost $215,000. The additional costs
-    will be covered by HUD Section 4 grant support secured by LISC to support
-    commercial corridor development in Los Angeles ($75,000). The remaining
-    balance will be raised from third party sources such as National LISC's
-    Creative Placemaking strategy grants in partnership with the Kresge
-    Foundation ($40,000). 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Project Budget:\r\n$40,000 - This cost includes the portion of the budget available for Organizational Partnerships for Cultural District Planning and implementation of iconic activities (Economic revitalization strategies that integrate arts and culture typically involve facility-centric, people-oriented and/or program-based approaches. Each one of the pre-identified cultural magnet communities will be tasked to implement one activity to support their respective strategy.)\r\n\r\n$25,000 - This includes direct costs for Convening Summit on Cultural Economic Development Strategies and Opportunities (The summit will be open to a larger audience of Angeleno leaders who are grappling with external forces impacting the cultural vibrancy of commercial corridors. Moreover, the convening will be designed to encourage the forging of powerful partnerships across communities who are all seeking to achieve sustainability, cultural resilience and economic prosperity.) Direct costs include but are not limited to location, outreach/marketing, refreshments, speaker honorariums, meeting logistics (i.e. meeting printed materials and supplies).\r\n\r\n$35,000 - This cost includes overall program implementation and planning. Organizing the convening, providing technical assistance to partner groups to implement cultural economic development strategies, providing technical assistance to partner groups and small businesses to ensure access to capital, information and larger markets.\r\n\r\n\r\n"
   How do you plan to scale the success of your proposal?: >-
     The success of the this project can be scaled by hosting annual convenings
     among cultural magnet communities in Los Angeles to share best practices and
@@ -249,20 +241,6 @@ Are there other organizations doing similar work (whether complementary or compe
   The four partners are as follows: Coalition for Responsible Community
   Development, Little Tokyo Service Center, East Los Angeles Community
   Corporation and Leimert Park Village 20|20 Vision Initiative.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  LA LISC expects that the project will cost $215,000. The additional costs will
-  be covered by HUD Section 4 grant support secured by LISC to support
-  commercial corridor development in Los Angeles ($75,000). The remaining
-  balance will be raised from third party sources such as National LISC's
-  Creative Placemaking strategy grants in partnership with the Kresge Foundation
-  ($40,000).
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Project Budget:
-   $40,000 - This cost includes the portion of the budget available for Organizational Partnerships for Cultural District Planning and implementation of iconic activities (Economic revitalization strategies that integrate arts and culture typically involve facility-centric, people-oriented and/or program-based approaches. Each one of the pre-identified cultural magnet communities will be tasked to implement one activity to support their respective strategy.)
-   
-   $25,000 - This includes direct costs for Convening Summit on Cultural Economic Development Strategies and Opportunities (The summit will be open to a larger audience of Angeleno leaders who are grappling with external forces impacting the cultural vibrancy of commercial corridors. Moreover, the convening will be designed to encourage the forging of powerful partnerships across communities who are all seeking to achieve sustainability, cultural resilience and economic prosperity.) Direct costs include but are not limited to location, outreach/marketing, refreshments, speaker honorariums, meeting logistics (i.e. meeting printed materials and supplies).
-   
-   $35,000 - This cost includes overall program implementation and planning. Organizing the convening, providing technical assistance to partner groups to implement cultural economic development strategies, providing technical assistance to partner groups and small businesses to ensure access to capital, information and larger markets.
 How do you plan to scale the success of your proposal?: >-
   The success of the this project can be scaled by hosting annual convenings
   among cultural magnet communities in Los Angeles to share best practices and

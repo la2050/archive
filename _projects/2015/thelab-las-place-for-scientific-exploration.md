@@ -17,8 +17,8 @@ project_areas:
   - San Gabriel Valley
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Pasadena, CA'
   Organization(s) mailing address(es): "518 S. El Molino Ave #202\r\nPasadena, CA, 91101"
   Organization(s) website(s): 'http://www.thel4b.com/'
   Organization(s) twitter handle(s): 'http://twitter.com/labiohackers'
@@ -62,7 +62,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Pasadena, CA'
   Organization(s) name(s): 'TheLab, Inc'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -117,8 +117,6 @@ maker_answers:
     programs.  All of the money from the award will go to TheLab to reach our
     goal of building a bigger and better community laboratory.  We do not intend
     to distribute the money to any partners.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Our budget for the equipment we intend to acquire is $98,061.  We do not plan to exceed the budget. The execution of parts 2 and 3 of our proposal is not critically dependent on the acquisition of all the equipment listed.  For example, it is necessary that we increase our workbench space to accommodate larger classes.  However it is not immediately necessary that we purchase additional microscopes.\r\n\r\nWe will prioritize purchasing safety equipment to guarantee that we have a safe work environment.  Beyond that, we will prioritize equipment purchases based on the number of students who will benefit.  If we are not able to purchase all the equipment listed in the budget, we will run additional classes to generate the income necessary for acquiring those items."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Equipment\r\n---------------\r\nPrice   Product\r\n11,450  Nano-Volume Spectrophotometer\r\n10,178  -80°C Freezer\r\n8,445   Autoclave Sterilizer\r\n16,450  6-Foot Fume Hood (Qty 2)\r\n4,650   Fume Hood Blower & Accessories\r\n790  Eye Wash & Emergency Shower Station\r\n14,658  Chemical Resistant Workbenches\r\n880     Fire Resistant Lab Coats (Qty 20)\r\n240     Fire Extingishers (Qty 6)\r\n125     Fire Blankets (Qty 2)\r\n7,495   Thermalcycler\r\n2,730   DI Water Purification System\r\n907     Flamable Chemical Safety Storage\r\n570     Acid/Corrosives Safety Storage\r\n2,700   Fluorescent Microscope\r\n3450    Tabletop Centrifuge\r\n\r\nServices\r\n---------------\r\nPrice   Description\r\n6,790   Fume Hood Installation\r\n2,400   Eye Wash Plumbing & Installation\r\n1,450   Workbench / Countertop Installation\r\n1,100   Bio-Safety Cabinet Repair & Certification\r\n300     Fume Hood Safety Certification\r\n300     Incubator Safety Certification\r\n\r\nTotal\r\n---------------\r\n98,061\r\n"
   How do you plan to scale the success of your proposal?: "With the purchase of our new equipment our lab will have the opportunity to continuously grow.  Our classes will use the new equipment and generate income which can be reinvested into the lab to maintain this equipment and expand the lab further.\r\n\r\nInstead of asking for money to cover operational expenses we choose to invest in capital equipment that will add value to our organization for many years.  We believe this to be the most sustainable and responsible way to use the gifts of our benefactors.\r\n"
 areas_impacted: ''
 partners: ''
@@ -171,49 +169,6 @@ Are there other organizations doing similar work (whether complementary or compe
   programs. All of the money from the award will go to TheLab to reach our goal
   of building a bigger and better community laboratory. We do not intend to
   distribute the money to any partners.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Our budget for the equipment we intend to acquire is $98,061. We do not plan
-  to exceed the budget. The execution of parts 2 and 3 of our proposal is not
-  critically dependent on the acquisition of all the equipment listed. For
-  example, it is necessary that we increase our workbench space to accommodate
-  larger classes. However it is not immediately necessary that we purchase
-  additional microscopes.
-   
-   We will prioritize purchasing safety equipment to guarantee that we have a safe work environment. Beyond that, we will prioritize equipment purchases based on the number of students who will benefit. If we are not able to purchase all the equipment listed in the budget, we will run additional classes to generate the income necessary for acquiring those items.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Equipment
-   _______________
-   Price Product
-   11,450 Nano-Volume Spectrophotometer
-   10,178 -80°C Freezer
-   8,445 Autoclave Sterilizer
-   16,450 6-Foot Fume Hood (Qty 2)
-   4,650 Fume Hood Blower & Accessories
-   790 Eye Wash & Emergency Shower Station
-   14,658 Chemical Resistant Workbenches
-   880 Fire Resistant Lab Coats (Qty 20)
-   240 Fire Extingishers (Qty 6)
-   125 Fire Blankets (Qty 2)
-   7,495 Thermalcycler
-   2,730 DI Water Purification System
-   907 Flamable Chemical Safety Storage
-   570 Acid/Corrosives Safety Storage
-   2,700 Fluorescent Microscope
-   3450 Tabletop Centrifuge
-   
-   Services
-   _______________
-   Price Description
-   6,790 Fume Hood Installation
-   2,400 Eye Wash Plumbing & Installation
-   1,450 Workbench / Countertop Installation
-   1,100 Bio-Safety Cabinet Repair & Certification
-   300 Fume Hood Safety Certification
-   300 Incubator Safety Certification
-   
-   Total
-   _______________
-   98,061
 How do you plan to scale the success of your proposal?: >-
   With the purchase of our new equipment our lab will have the opportunity to
   continuously grow. Our classes will use the new equipment and generate income

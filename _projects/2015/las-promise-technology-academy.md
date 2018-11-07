@@ -15,8 +15,8 @@ project_video: 'https://www.youtube.com/embed/SXGVU13JPLU'
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): "202 W. 1st St., Suite 160\r\nLos Angeles, CA 90012"
   Organization(s) website(s): www.laspromise.org
   Organization(s) twitter handle(s): www.twitter.com/LAsPromise
@@ -59,7 +59,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): LA's Promise
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -158,13 +158,6 @@ maker_answers:
     our strategic approach and will allow us to open a dialogue with families
     about the overall impact of our proposed LA’s Promise Technology Academy.
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': N/A
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The Proposed LA’s Promise Technology Academy will cost approximately
-    $150,000 to implement during its pilot year. LA's Promise is always actively
-    seeking funding and in-kind donations from foundations and corporate
-    entities as well as cultivating partnerships with other local non-profit
-    organizations to provide resources and support for specific unmet needs.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "A full-time coordinator will be hired to manage all aspects of our proposed LA’s Promise Technology Academy. In addition, funding will be used towards the purchase of Google Chromebooks for coding and app development, Copernicus Tech Tubs for storage and transport, development of the program curriculum, background checks for guest speakers/volunteers, and buses rentals for field trips.\r\n\r\nLA’s Promise Technology Academy Coordinator (1 FTE) - $65,450 (Taxes & Benefits)\r\n\r\nLA’s Promise Technology Academy Curriculum - $14,204\r\n\r\nGoogle Chromebooks – $13,200 ($440 x 30 Laptops)\r\n\r\nBus Rentals - $6,750 ($450 Per Bus x 3 School Sites x 5 Field Trips)\r\n\r\nCopernicus Tech Tub –  $395.94 ($65.99 x 6 Storage Units)"
   How do you plan to scale the success of your proposal?: "The LA’s Promise Technology Academy has the potential to expand in the following areas:\r\n\r\nSchool-Wide – Grow programing elements to include all students at each school site.\r\n\r\nDiversification of Content – Offer a greater variety of STEM activities in subject areas such as Video Game Design, Computer Animation, and Robotics.\r\n\r\nMultiyear/Multilevel Programing – Create an advanced curriculum for returning participants and to serve more students.\r\n\r\nOff-Site Expansion – Expand program to other schools within the Los Angeles Unified School District."
 areas_impacted: ''
 partners: ''
@@ -232,29 +225,6 @@ Are there other organizations doing similar work (whether complementary or compe
   approach and will allow us to open a dialogue with families about the overall
   impact of our proposed LA’s Promise Technology Academy.
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': N/A
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The Proposed LA’s Promise Technology Academy will cost approximately $150,000
-  to implement during its pilot year. LA's Promise is always actively seeking
-  funding and in-kind donations from foundations and corporate entities as well
-  as cultivating partnerships with other local non-profit organizations to
-  provide resources and support for specific unmet needs.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  A full-time coordinator will be hired to manage all aspects of our proposed
-  LA’s Promise Technology Academy. In addition, funding will be used towards the
-  purchase of Google Chromebooks for coding and app development, Copernicus Tech
-  Tubs for storage and transport, development of the program curriculum,
-  background checks for guest speakers/volunteers, and buses rentals for field
-  trips.
-   
-   LA’s Promise Technology Academy Coordinator (1 FTE) - $65,450 (Taxes & Benefits)
-   
-   LA’s Promise Technology Academy Curriculum - $14,204
-   
-   Google Chromebooks – $13,200 ($440 x 30 Laptops)
-   
-   Bus Rentals - $6,750 ($450 Per Bus x 3 School Sites x 5 Field Trips)
-   
-   Copernicus Tech Tub – $395.94 ($65.99 x 6 Storage Units)
 How do you plan to scale the success of your proposal?: >-
   The LA’s Promise Technology Academy has the potential to expand in the
   following areas:

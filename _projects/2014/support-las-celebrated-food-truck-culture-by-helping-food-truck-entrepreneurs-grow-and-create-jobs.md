@@ -21,8 +21,8 @@ project_areas:
   - SGV
   - SFV
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_arts: '0'
-  metrics_create_manufacturing: '1'
   org_website: www.opportunityfund.org
   org_twitter: www.twitter.com/opportunityfund
   org_facebook: www.facebook.com/opportunityfund
@@ -73,7 +73,7 @@ maker_answers:
   metrics_create_employment: '0'
   city_state: 'Huntington Park, CA'
   org_name: Opportunity Fund
-  metrics_create_researchgrant: '0'
+  metrics_create_manufacturing: '1'
   metrics_create_patents: '0'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '1'
@@ -110,19 +110,6 @@ maker_answers:
     entrepreneurs, this year. 
   major_challenges: "Obstacles such as language barriers and insufficient credit mean that many low-income small business owners operate outside of the financial mainstream, making them hard for Opportunity Fund to reach even as we offer the financial products they need to grow.  We have built a multi-lingual team with strong connections to local communities to help us reach and serve this target population.  In addition, we have focused on building referral partnerships with banks and business services providers, like Kareem Carts, who can help us identify entrepreneurs who lack nothing but the financing they need to succeed.\r\n  \r\nThe fast-changing landscape for small business financing—especially the growth in merchant cash advances—represents a new challenge for Opportunity Fund and our borrowers.  Cash advances are offered by unregulated, non-bank companies that offer quick money, but often at a very high cost.  These alternative financing products ensure repayment by taking a fixed portion of up to 50% of every credit/debit card sale—with annualized interest rates reaching 170%.  Because the portion of daily sales surrendered is so high, these alternative financing products can choke a business of cash necessary to survive.  In response to this challenge, Opportunity Fund launched our EasyPay loan product, which enables borrowers to base their loan repayment on their actual credit/debit card revenue by “splitting” a small, fixed percentage of each card transaction toward loan payments.  Opportunity Fund specifically targets small business owners with high-interest merchant cash advances to offer help by refinancing them into a business-friendly EasyPay loan.  This enables businesses to boost cash flow in the short term, and increases the likelihood of profitability and long-term success.  By reporting repayment to the credit bureaus, EasyPay borrowers also build credit, better positioning them for favorable credit terms in the future.\r\n"
   competition: "LA is home to a number of Community Development Financial Institutions (CDFIs) that offer a range of economic development services, including access to capital.  Local microlenders exist on a continuum that runs from the smallest microloans (offered by Grameen America for household and business purposes) to the financial mainstream, represented by local banks.  Among the region’s CDFIs, Opportunity Fund is one of the only microlenders focused on scale with the ability to originate 600 loans in LA (and 1,500 state-wide) in a year.  As noted above, our loans range from $2,500 to $100,000, with an average loan size of $12,000.  Some of our peer CDFIs focus on business development services, and originate loans on a smaller scale as part of these programs.  Valley Economic Development Center (VEDC) operates at a comparable size to Opportunity Fund in LA but focuses on larger loans of $100,000 to $700,000 to much larger enterprises.  By providing microloans to smaller businesses, Opportunity Fund is able to ensure the full range of small businesses in LA has access to affordable financing.  In addition, no other microlender in LA has a specific initiative targeting the region’s vibrant food truck industry.  \r\n\r\nFor small business owners who cannot qualify for a traditional bank loan, there are few good alternatives.  Credit cards provide access to financing to invest in a growing business, but can leave entrepreneurs with high balances and poor credit scores.  Payday lenders offer fast cash, but at a perilously high interest rate.  Opportunity Fund’s most significant competition is from merchant cash advances (MCAs) and other unregulated small business financing products. The merchant cash advance industry consists of non-bank companies whose products are unregulated, and who do not report to credit bureaus. Despite charging exorbitant rates, MCA providers hold $1 to $2 billion in outstanding financing to small businesses.  Opportunity Fund is the only nonprofit lender in the country that is able to provide an affordable alternative to merchant cash advances that incorporates their convenience and flexibility, but with far greater benefit to small business owners.\r\n"
-  cost: "The program budget for Opportunity Fund’s Food Truck Financing initiative in LA is approximately $300,000 (the total budget for all our microlending in Los Angeles County is $2.3M).  A $100,000 grant through LA2050 will provide critical funding to support the outreach, underwriting, advising, and loan servicing activities needed to deploy capital to help LA’s food truck entrepreneurs grow their business and create and retain jobs in their communities.  Earned income from loan interest and fees will provide an additional $150,000 towards this project, and Opportunity Fund plans to secure the remaining $50,000 from local institutional and individual funders (we have already received grant funds from Wells Fargo and Bank of America, and hope to secure additional funding from several local foundations). \r\n\r\nOverall, Opportunity Fund is a financially sound organization with strong cash reserves.  Given our strong track record of social impact—and the growing recognition of the importance of access to capital in helping underserved small business owners create jobs and spur economic growth—we remain confident of our ability to secure the funds we need to scale microlending, expand our impact in LA, and fulfill our mission.  To meet the funding challenges ahead, we will rely on our growing base of supporters, board members who help expand our network, and our reputation as a microfinance leader and innovator.\r\n"
-  budget: >-
-    Opportunity Fund will use a portion of LA2050 grant funds ($75,000) to cover
-    the “people” costs of deploying capital to underserved entrepreneurs. 
-    Specifically, these funds will help pay salaries for Opportunity Fund’s
-    microlending team to conduct the marketing, outreach, underwriting,
-    advising, and loan servicing activities necessary to provide LA’s small
-    business owners with access to financing and business support.  We will use
-    additional LA2050 grant funds ($25,000) to invest in marketing strategies to
-    reach our target population of low-income entrepreneurs.  Our marketing plan
-    will include a multi-channel campaign integrating direct mail and mobile
-    marketing with web-based strategies to inform small businesses about the
-    benefits of Opportunity Fund loans.
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

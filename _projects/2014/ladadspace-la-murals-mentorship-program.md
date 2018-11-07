@@ -16,8 +16,8 @@ project_areas:
   - EAST LA
   - SOUTH LA
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: 'Los Angeles, CA'
   org_website: ladadspace.org
   org_twitter: 'https://twitter.com/LADADSpace'
   org_facebook: 'https://www.facebook.com/artsdistrictla'
@@ -88,7 +88,7 @@ maker_answers:
   org_name: Los Angeles Downtown Arts District Space (LADADSpace)
   metrics_create_arts: '0'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: 'Los Angeles, CA'
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '0'
@@ -111,8 +111,6 @@ maker_answers:
   achievable_goal: "The program is already underway.  We have secured a wall at the West Coast Roofing building in downtown Los Angeles designated for this program, and muralist Saber has already begun the pre-planning.  In addition we are in development with three other businesses in the downtown area.   All listed partners have committed to the project and our timeline extends through the summer of 2015.\r\n \r\nProject Timeline\r\n\r\nLate Sumer and Early Fall\r\n• Organize schedule\r\n• Securing mural walls (ongoing)\r\n• Hiring mentor muralists and teaching artists\r\n• Establishing written agreements between partners and “rules” of program\r\n• Selection of arts apprentices assigned from LA County District Attorney’s Office\r\n \r\nFall and Early Winter  2014\r\n• Apprentices are paired with mentor muralists and begin work (muralists may be at different stages with each project)\r\n• Apprentices receive training from art instructors who will evaluate their artistic skills and provide related assignments.\r\n\r\nWinter 2015\r\n• Apprentices receive certificates indicating completion of the mural apprenticeship program\r\n• Turnover of mural wall space opening up walls that are finished\r\n• Warner Bros./Additional Studio internships \r\n\r\nSpring and Summer 2015\r\n• Apprentices conduct small arts project in their home communities\r\n• Apprentices receive program reference(s) for jobs and/or higher education opportunities  \r\n \r\n"
   major_challenges: "• Culture Clashes: We are introducing established artists with apprentice artists who are likely brand new to the Arts District and to the experience of formalized art making.  There may be some communication and cultural gaps as these groups get to know each other and learn how to work together and communicate.  Fortunately the professional muralists have expressed that they too struggled with the law in their youth for graffiti and tagging, and feel they can relay their experience and insights with the apprentices.  We also believe that artistic synergy between all of the artists will generate a common interest and base for communication.  \r\n\r\n• Project Time frame: This is by design a long-term multifaceted project, dependent on one-on-one relationships.  While the project will move forward with or without funding, we would love to be able to support apprentices beyond their community service obligation with arts project and internship stipends. In addition, the ability to pay an honorarium to teaching artists and muralists also is a show of respect and appreciation.  \r\n \r\n"
   competition: "The DoArt Foundation is doing somewhat similar work in this area, however the Los Angeles Mural Mentorship program is distinct in that it:\r\n\r\n•\tPairs apprentices with professional artists with similar backgrounds\r\n•\tPairs apprentices with artists to do real work to beautify the city\r\n•\tFunnels apprentices into arts education and arts job training\r\n•\tProvides interns with real world job experience in practical arts jobs for the leading studios in the country\r\n•\tSupervises students to create self devised arts projects within their home communities so as to share their skills and set an example for their peer groups\r\n\r\n"
-  cost: "Please note that mural art materials and equipment will be donated by the building owners and/or through support from the city.  LADAD Space is also prepared to commit $20,000 from District filmmaking and is working with the DCA to apply for Mural disposition plan funding, which provides $20,000 per City Council District for the creation of new murals.\r\n"
-  budget: "LADAD Space\t\t\t\t\t\r\nProject Budget - Mural Apprenticeship\t\t\t\t\t\r\n\t\t\t\t       Per Apprentice\tFull Project (4 Apprentices)\r\nTeaching Artists\t       $3,600\t                $14,400\r\nMuralists\t\t\t\t$7,200\t                $28,800\r\nProject Management\t$14,500\t                $14,500\r\nInternship Stipend\t\t$3,500\t                $14,000\r\nComm. Arts Project \t$3,500\t                $14,000\r\nTools and Supplies\t$2,500\t                $10,000\r\nTaxes and Fees\t\t$3,800\t                $3,800\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\nTOTAL\t\t\t\t$38,600\t                $99,500\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\nTeaching Artists= $30/hr x 10 hrs a week x 12 weeks\t\t\t\t\t\r\nMuralists = $30/hr x 20 hrs a week x 12 weeks\t\t\t\t\t\r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

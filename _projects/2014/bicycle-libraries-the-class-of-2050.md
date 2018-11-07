@@ -17,8 +17,8 @@ project_areas:
   - SGV
   - WESTSIDE
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '1'
-  city_state: 'Pasadena, CA'
   org_website: www.librosschmibros.org
   org_twitter: www.twitter.com/LibrosSchmibros
   org_facebook: 'https://www.facebook.com/librosschmibros'
@@ -64,7 +64,7 @@ maker_answers:
   org_name: Libros Schmibros
   metrics_connect_voting: '1'
   metrics_connect_adultsupport: '1'
-  metrics_connect_traveltime: '0'
+  city_state: 'Pasadena, CA'
   metrics_connect_culturalevents: '1'
   metrics_connect_publictransit: '1'
   metrics_connect_neighborhoodcouncils: '0'
@@ -95,8 +95,6 @@ maker_answers:
     to connect many more Angelenos. 
   major_challenges: "Our first challenge is to find the best spaces where people congregate.  The solution lies in realizing that food deserts and book deserts align, and working alongside loncheras, farmer's markets, taquerias, and other food outlets, taking our books directly to people.  \r\nThe second challenge is obtaining permission from every individual farmers' market, especially along the Gold Line.  To meet that challenge we’ve partnered with Homeboy Industries, and will begin at once to garner market permissions to ride up next to Homeboy tables and offer books from our bikes."
   competition: "What makes us different is that we will infiltrate neighborhoods and business districts with our guerilla-style approach.  One or two outfits do something that Libros Schmibros does, but nobody else comes close to everything we do. \r\n\r\nBicycle Libraries, we have pretty much all to ourselves.  Nevertheless, if you check out YouTube, you can find our brother in the trade with his \"biblioburro,\" using his donkey to bring books to villages in the mountains of Colombia.  (We think he's cool.) \r\n\r\nHere’s how we’re a little bit similar to some other organizations closer to home:\r\n\r\nHomeboy Industries works with the youth of Boyle Heights, as we do, but they place their emphasis on gang rehabilitation, while we concentrate on reading promotion. Let's just stipulate from the get-go that, in any number of ways, Libros Schmibros would never have happened if not for the efforts of Father Gregory Boyle and his homies.\r\n\r\nThe LA Public Library, too, and other book-based entities bear a superficial resemblance to Libros Schmibros. The Ben Franklin branch of LAPL lends books; we lend books, too. But there the similarity ends. Our heroic public libraries have to be all things to all people, providing everything from DVDs to knitting classes, but ever fewer books. Electronic alternatives are thin on the ground, too. In four years here on the wrong side of the digital divide, we haven’t seen a single Kindle or iPad. All we see is a robust demand for good books, every day. All over town, from Southgate to Northridge, only supply is wanting.\r\n\r\nOther, only slightly similar operations would have to include the recent spate of free-range pianos, ceramic angels, foodtrucks and, especially, those adorable book-filled, take-one-leave-one birdhouses. The last-named, alas, lack wheels…."
-  cost: 'We have created a budget for $100,000.00  We do not anticipate extra costs.'
-  budget: "Award\t\t\r\n\t\t                                           $100,000 \r\n\r\nExpenses:\r\n\t\t\r\nPersonnel\t\t\r\nProgram Manager                              30,000\r\nED 50% time\t\t                                24,000\r\n\t\t\r\n\t\t\r\nDirect Expenses:\r\n\t\t\r\nProgram Materials:\t\t\r\n\tWork Bikes and Gear                    8,000            \r\n        Copies of 1984\t                            1,000\r\n\r\nProgram Expenses:\t\t\t\t\r\n\tTransit Stipends\t                            3,800\t        \r\n         (20 discounted TAP    \r\n          cards for 6 months)\t\r\n\tTechnology\t                                    8,700\t      \r\n\tVolunteer Training                         2,000\t\t\r\n\tOffice Supplies\t                               500\t\t\r\n\tAdvertising\t                                    1,500\t\t\r\n\tPostage\t                                               500\t\t\r\n\tPrinting and Copying\t               500\t\t\r\n\tRepairs and Maintenance             1000\t\t\r\n\tHospitality\t                                       500\t\t\r\n\r\nIndirect Expenses\t\t\t\t\r\n\tOverhead \t                                   12,000\t\t\r\n\tFiscal Sponsor at 6%\t             6,000\t\r\n\t\t\t\t\r\n\tTotal\t                                      $100, 000\t\t\r\n\r\n\r\n\r\n\r\n\t\t\t\t "
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

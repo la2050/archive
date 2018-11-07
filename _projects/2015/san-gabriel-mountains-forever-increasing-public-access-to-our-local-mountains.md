@@ -18,8 +18,8 @@ project_areas:
   - San Gabriel Valley
   - Antelope Valley
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How did you hear about this challenge?: Website
   Organization(s) name(s): The Council of Mexican Federations (COFEM)
   Organization(s) mailing address(es): '125 Paseo de la Plaza Suite 101, Los Angeles, CA 90012'
   Organization(s) website(s): 'http://www.cofem.org'
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Website
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -128,8 +128,6 @@ maker_answers:
     Asian Pacific Policy and Planning Council, Community Hiking Club, The City
     Project, San Gabriel Valley Bike Coalition, Sierra Club and The Wilderness
     Society.   Partners will charge time and expenses to COFEM.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': We think the total project will cost about $100k
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Buses/Shuttles: $10,000\r\n\r\nCommunity Engagement (food, venue, meetings, A/V equipment): $25,000\r\n\r\nPublicity: $5,000\r\n\r\nMaterials: $10,000\r\n\r\nResearch: $10,000\r\n\r\nStaff time: $35,000\r\n\r\nOnline Media Engagement:  $5,000"
   How do you plan to scale the success of your proposal?: >-
     Our project will be scaled by the ongoing efforts of the San Gabriels
     Mountains Forever coalition.  If our pilot project is successful we will
@@ -183,21 +181,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Pacific Policy and Planning Council, Community Hiking Club, The City Project,
   San Gabriel Valley Bike Coalition, Sierra Club and The Wilderness Society.
   Partners will charge time and expenses to COFEM.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': We think the total project will cost about $100k
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Buses/Shuttles: $10,000
-   
-   Community Engagement (food, venue, meetings, A/V equipment): $25,000
-   
-   Publicity: $5,000
-   
-   Materials: $10,000
-   
-   Research: $10,000
-   
-   Staff time: $35,000
-   
-   Online Media Engagement: $5,000
 How do you plan to scale the success of your proposal?: >-
   Our project will be scaled by the ongoing efforts of the San Gabriels
   Mountains Forever coalition. If our pilot project is successful we will work

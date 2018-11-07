@@ -21,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - LA COUNTY
 maker_answers:
+  metrics_learn_communitycollege: '1'
   collaboration: "In addition the Alliance the College Success Team at Alliance College-Ready Public Schools, the following Alliance high schools' college counseling programs  participate in AMP:  Alliance Dr. Olga Mohan High School, Alliance Gertz-Ressler High School, Alliance Patti & Peter Neuwirth High School, Alliance Cindy and Bill Simon Technology High School, Alliance Health Services Academy High School, Alliance Marc and Eva Stern Math Science High School, Alliance Tennenbaum Family Technology High School, Alliance Judy Ivie Burton Technology High School, Alliance Environmental Science and Technology High School, Alliance Collins Family College-Ready High School and Alliance Media Arts and Entertainment Design.  In 2014-15, Alliance College-Ready Academy High School 16 will join the program.  \r\n\r\nParticipating community colleges include East Los Angeles College, Pasadena City College, El Camino College, Santa Monica College, and Los Angeles City College. Participating four year universities include Cal State Los Angeles, Cal State Dominguez Hills, Cal State Northridge, Cal Poly Pomona, UCLA, UC Riverside, and UC Irvine.  \r\n\r\nThe colleges and universities provide vital first year services to incoming freshman, including academic preparedness resources (via tutoring services, counseling, workshops and school orientation programs) and financial hardship resources (via financial aid, financial counseling, and work study).  Additionally, several participating colleges visit Alliance high school campuses to educate and enroll incoming Alliance freshman in first year, university-based support programs and placement exams.  Others have hosted orientation days specifically for Alliance alumni and incoming Alliance freshman, including discussion of the peer mentoring program.  \r\n\r\nAlliance through its college counselors, AMP coordinators and, most importantly, AMP mentors provide the necessary social and cultural capital to leverage the resources provided by the colleges and universities.  Alliance mentors serve as extended outreach for college and university first-year completion programs.    "
-  metrics_learn_earlyeducation: '0'
   org_website: www.laalliance.org
   org_twitter: www.twitter.com/AllianceCRPS
   org_facebook: www.facebook.com/AllianceCRPS
@@ -74,7 +74,7 @@ maker_answers:
   who_benefit: "The immediate beneficiaries of AMP are the low-income students participating in the program -- both the incoming college freshman mentees and second and third year college peer mentors.  AMP will increase mentee first year college completion rates and increase significantly their odds of graduating from college. AMP mentors also gain valuable leadership and work-readiness skills as part of the program.  \r\n\r\nAMP will also benefit the participating colleges and universities, strengthening the first year programming and persistence rates for its students.  AMP students provide a systematic feedback and evaluation loop to inform universities about the efficacy of their first year and first generation programs.   \r\n\r\nLonger term, the beneficiaries will be the families and the communities of the AMP students.  A college education changes more than just the life of a student, it has the power to change an entire community.  Those with a college degree are more likely to be active in their neighborhoods by volunteering and voting in local elections. Most importantly, college graduates serve as role models for their families, friends and neighbors, inspiring them to follow in their footsteps.  \r\n"
   about_you: 'Los Angeles, CA '
   org_name: Alliance College-Ready Public Schools
-  metrics_learn_communitycollege: '1'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '0'
   metrics_learn_graduationrates: '0'
   metrics_learn_proficiency: '0'
@@ -132,22 +132,6 @@ maker_answers:
     concentrated effort of a large number of students through one school network
     in one geographic area, Los Angeles.  It represents a potential model that
     could be replicated at school districts across the country.   
-  cost: >-
-    The cost of the program is $206,020.  In addition to the LA2050 grant, in
-    the short-term, Alliance will cover the additional funds from foundation and
-    individual partners.   The program has been partially underwritten by an
-    Alliance individual donor in the first three years. Given Alliance’s track
-    record at raising funds and as the program continues to show success at
-    scale, we feel confident that we will attract additionally supporters.  In
-    the next five years as Alliance continues to grow, the program will slowly
-    be integrated into the ongoing operating cost of Alliance College-Ready
-    Public Schools which is funded through state per pupil education funding.
-    The LA2050 grant would provide much needed funding during the critical
-    2014-15 year when we take our most significant jump to scale - from 189
-    college freshman to 520. This year will also provide us the most significant
-    data collection and analysis on return on investment, both of which will lay
-    the foundation for future investment.  
-  budget: "                                                    2014-15 AMP Budget\t  LA 2050 Funding\t\r\n\r\nPersonnel \t\t\t\r\n-\tAMP Program Manager\t\t\t\r\n-\tMentor Coordinator\t\t\t\r\n-\tMentor Coordinator \t\t\t\r\nTotal: \t                                          $121,835\t                       $65,600\t\r\n\t\t\t\r\nBenefits: \t                                      $24,307\t\r\n\t\t\t\r\nTotal Personnel: \t\t                    $146,142\t                      $65,600\r\n\t\t\t\r\nNon Personnel: \t\t\t\r\nMentor Stipends ($400 x 86):\t      $34,400\t                      $34,400\t\r\nTravel & Mileage:\t                                $2,000\t\t\r\nKick-Off Event: \t                              $10,000\t\t\r\nIndirect (@7%)\t                              $13,478\t\t\r\n\t\t\t\r\nTotal Non-Personnel:\t                     $59,878\t                      $34,400\r\n\t\t\t\r\nTotal\t                                            $206,020\t                    $100,000\r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

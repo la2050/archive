@@ -19,8 +19,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '0'
-  city_state: Los Angeles
   org_website: www.foxhillsladera.org
   org_twitter: snpfoundation
   org_facebook: ''
@@ -77,7 +77,7 @@ maker_answers:
   org_name: Fox Hills Ladera Healthy Family Association Inc.
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
-  metrics_connect_traveltime: '0'
+  city_state: Los Angeles
   metrics_connect_culturalevents: '1'
   metrics_connect_publictransit: '1'
   metrics_connect_neighborhoodcouncils: '1'
@@ -110,10 +110,6 @@ maker_answers:
     There are variances of this type of social engagement held by small groups
     and in esoteric academic circles but not in large public venues such as
     farmers markets
-  cost: >-
-    $100,000 will be adequate to cover expense for a one year pilot program.
-    Additional cost will be covered through grants andSocial Capital Investment.
-  budget: "Personnel Resources (Staff, Honorarium) - $15,000\r\nMaterial Resources (Stage, PA, Sound, Canopies, Seating, Misc.) - $45,000\r\nMarketing Promotion (Radio, Newspaper, Social Media, Website, Signage) - $40,000\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

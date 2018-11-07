@@ -22,8 +22,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': MISSION VIEJO
   Organization(s) mailing address(es): "5021 Macafee Road \r\nTorrance, CA 90505"
   Organization(s) website(s): www.yes4arts.org
   Organization(s) twitter handle(s): www.twitter.com/yes4arts
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': MISSION VIEJO
   Organization(s) name(s): Yes4arts
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -150,8 +150,6 @@ maker_answers:
     complex stich patterns. Yes4arts meets the student where he/she is at- and
     builds their skill & confidence from there. 
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': Not applicable
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Annual expenses:\r\n2 Vans $60,000\r\nCar Insurance $3,000\r\nStart up costs (sewing machines etc.) $1,800\r\nMaterials (yarns, hooks) $12,000\r\nGas $2,400\r\nVehicle Maintenance $2,000\r\nRent $14,400\r\nPresident pay $20/hr - 20hr/wk=  $1600/mo= $19,200/yr\r\nSecretary pay $10/hr - 20hr/wk = $800/mo = $9600/yr\r\nEvents $4,000\r\nAdditional costs $2,400\r\nTOTAL     $130,800\r\n\r\n*To cover the overage in cost, we plan to have fundraisers (i.e. fashion shows) and marketing events to raise funds and more awareness of Yes4arts in the community and schools. Also, buying a second van is commensurate to number of volunteers and visits to school and centers. With regards to the rent, Yes4arts will have a center where students in the schools/centers can attend further art classes. Thus if the schools allow for a limited timeframe of art classes, then there is a central location for art classes. "
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Grant $100,000\r\n\r\nVan $30,000\r\nCar Insurance $1,500\r\nStart up costs $1,800\r\nMaterials $12,000\r\nGas $1200\r\nVehicle Maintenance $1,000\r\nRent $14,400\r\nPresident pay $19,200\r\nSecretary pay $9,600\r\nEvents $4,000\r\nAdditional costs $2,400\r\nTOTAL  $97,100\r\n\r\n**Unused funds from grant will be used towards materials (yarns, hooks). \r\n\r\n\r\n\r\n"
   How do you plan to scale the success of your proposal?: "We plan to scale the success of our proposal a number of ways. First, the scale involves measuring the number of students who have attended classes and learned how to sew, crochet and knit. Second,\r\nsuccess is measured when students decide to become vendors at Yes4arts events and showcase their art designs.  Finally, success is measured when students return to our classes with positive updates of their lives, have made education a priority, and have become positive role models in the community for other new students. This is when Yes4arts can be proud of making a difference, one student at a time.    "
 areas_impacted: ''
 partners: ''
@@ -188,39 +186,6 @@ Are there other organizations doing similar work (whether complementary or compe
   complex stich patterns. Yes4arts meets the student where he/she is at- and
   builds their skill & confidence from there.
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': Not applicable
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': |-
-  Annual expenses:
-   2 Vans $60,000
-   Car Insurance $3,000
-   Start up costs (sewing machines etc.) $1,800
-   Materials (yarns, hooks) $12,000
-   Gas $2,400
-   Vehicle Maintenance $2,000
-   Rent $14,400
-   President pay $20/hr - 20hr/wk= $1600/mo= $19,200/yr
-   Secretary pay $10/hr - 20hr/wk = $800/mo = $9600/yr
-   Events $4,000
-   Additional costs $2,400
-   TOTAL $130,800
-   
-   *To cover the overage in cost, we plan to have fundraisers (i.e. fashion shows) and marketing events to raise funds and more awareness of Yes4arts in the community and schools. Also, buying a second van is commensurate to number of volunteers and visits to school and centers. With regards to the rent, Yes4arts will have a center where students in the schools/centers can attend further art classes. Thus if the schools allow for a limited timeframe of art classes, then there is a central location for art classes.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Grant $100,000
-   
-   Van $30,000
-   Car Insurance $1,500
-   Start up costs $1,800
-   Materials $12,000
-   Gas $1200
-   Vehicle Maintenance $1,000
-   Rent $14,400
-   President pay $19,200
-   Secretary pay $9,600
-   Events $4,000
-   Additional costs $2,400
-   TOTAL $97,100
-   
-   **Unused funds from grant will be used towards materials (yarns, hooks).
 How do you plan to scale the success of your proposal?: >-
   We plan to scale the success of our proposal a number of ways. First, the
   scale involves measuring the number of students who have attended classes and

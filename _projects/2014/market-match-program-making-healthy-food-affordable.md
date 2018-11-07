@@ -21,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_selfsufficiency: '1'
   metrics_live_healthyfood: '1'
-  city_state: 'Los Angeles, CA'
   org_website: www.hungeractionla.org
   org_twitter: '@HungerActionLA'
   org_facebook: 'https://www.facebook.com/HungerActionLA'
@@ -87,7 +87,7 @@ maker_answers:
   org_name: Hunger Action Los Angeles
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '1'
+  city_state: 'Los Angeles, CA'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '1'
   metrics_live_homelessness: '0'
@@ -125,11 +125,6 @@ maker_answers:
     greatly should we be awarded the grant. Our project is unique at this time
     from theirs in that we are also serving seniors and people with
     disabilities. However they are working towards that goal ultimately.
-  cost: >-
-    We believe it will cost about $100,000 to implement the program at 4 new
-    markets, given that it usually takes a few months to get the program up to
-    speed. Additional costs are covered by matching funds from current funders. 
-  budget: "All of the $100,000 is directly for low income customer purchases at the farmers markets---these are the bonus dollars directly paid to customers. The program works in this fashion:\r\n\r\nMarket Match makes fresh food affordable by doubling the purchasing power of individuals and families on government administered voucher or cash aid programs –CalFresh /Supplemental Security Income (SSI)/ Social Security Disability Insurance (SSDI)/Social Security and Women, Infants & Children (WIC)– at participating farmers’ markets.  Eligible individuals receive $1 bonus coupons to match up to $10 of their own money or benefits.  For example, an individual on SSI can exchange $10 cash for 20 Market Match vouchers, enabling them to purchase $20 worth of produce.  Vouchers can only be used to purchase fresh fruits and vegetables on the same day recipients receive it. "
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

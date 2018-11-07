@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_connect_traveltime: '1'
   metrics_connect_volunteerism: '1'
-  city_state: 'Los Angeles, CA'
   org_website: www.nomadicdivision.org
   org_twitter: '@nomadicdivision'
   org_facebook: www.facebook.com/nomadicdivision
@@ -75,7 +75,7 @@ maker_answers:
   org_name: LAND (Los Angeles Nomadic Division)
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
-  metrics_connect_traveltime: '1'
+  city_state: 'Los Angeles, CA'
   metrics_connect_culturalevents: '1'
   metrics_connect_publictransit: '0'
   metrics_connect_neighborhoodcouncils: '0'
@@ -98,14 +98,6 @@ maker_answers:
   achievable_goal: "As mentioned above, the process will take 3 intensive months of relationship building from September-December 2014 as soon as this school year starts, aiming to launch the artist/school residency component at the start of January 2015 for the spring semester. LAND has existing relationships with art spaces as well as schools (many from the Wildflowering L.A. project who either participated or did not have opportunity to do so due to time constraints), and this period will be one of site visits, meetings, & assessing the right fits.  During these three months, LAND and Matt Murphy Design/Athletics will work intensively on brainstorming and defining a website, particularly for mapping and the RSS feed.  LAND will utilize existing resources, such as Arts for LA’s asset map and the LA County Arts Commission’s Spacefinder, as well as do further research on art spaces.  The second phase will be from January-May 2015. During this time, LAND will support the school artist programs on an administrative level, liaising between the arts organizations & school & visiting the programs to observe & assist. The website will be under full development and in beta at this time so that the pilot schools will be able to use the site, ideally providing ongoing feedback on its structure & usability.\r\n\r\nAugust 2015 will be the target final full website launch date, with map and RSS feed troubleshooting, design refinement, and integrating educator feedback happening in June and July of that year.  "
   major_challenges: "1. Website access issues for some families –\r\n\r\nSTRATEGY: Ideally, the website will not just be used by educators, but also by families searching for something free and fun to do. Many working families in the LA area do not have smart phone access, so we will work with the designer to ensure that the website & map are usable on all phones enabled with any GPS/internet access, including flip phones & non-smart phones, and a multi-lingual Google language translator will be included for multiple languages as a plug in.\r\n\r\n2. Educator engagement and training for the program after pilot  –\r\n\r\nSTRATEGY: Developing lasting relationships with schools & working with school/district administration will be key to the project’s success. This will benefit the project from linking with the schools so that interested artists have space both during & after the pilot period. We will approach an interested advocate at each of the ten pilot schools who will also act as a liaison with the artist, team with LAUSD to offer website utilization workshops for salary points, & ensure that all teaching artists meet school security & fingerprinting, where required. Galleries, non-profits, & artist-run spaces committed to the project over the long-term— a semester or longer in the pilot— will also be key to ensuring positive relationships in the long term, & LAND will work to facilitate this.  "
   competition: "As mentioned in our initial description, the project in part leverages data created by other organizations – Arts for All, Arts for LA, as well as multiple online calendars – Experience LA, ForYourArt, Los Angeles Arts Resource, LA Weekly, Artillery, and various family-targeted websites, such as the Red Tricycle etc.  However it offers a comprehensive platform and infrastructure to coalesce it for easy use. \r\n\r\nIn LA, the Heart Project, Heart of LA and LACMA’s Charles White Elementary do similar artist-in-school programs on a smaller scale, individual and focused on neighborhoods. Museum programs doing outreach also offer further instruction, but not as artist-in-residence, and community arts centers have smaller scale outreach programs overall. We hope to work together with all of these organizations/institutions to offer Arts LANDed as a tool for us to all share and use. \r\n\r\nA model program not located in LA but similar is the venerable Studio In A School, based in New York for 37 years. "
-  cost: >-
-    We have budgeted for a $100,000 pilot program, and at this point to launch
-    the project, we feel these funds are adequate.  To build upon and sustain
-    the program, we would need additional funding.  We would seek out other
-    granting foundations, such as the National Endowment for the Arts, the
-    Department of Cultural Affairs, the Los Angeles County Arts Commission, and
-    so on, along with LAND’s individual donor base. 
-  budget: "$10,000: LAND Administrative Costs\r\nAdministrative costs, including organizational time, printing educational materials and program guideline packets, providing necessary supplies to the educators, insurance, documentation, office supplies, graphic designer fees for the program identity, and publicity and promotion. \r\n\r\n$50,000: Educational Partners\r\nEach partner pair (10 neighborhoods / 10 schools) will get a $5000 stipend for seed funding for the pilot educational program for 2 semesters, including the artist fee, supplies/materials for art projects and lesson plans, printing and copying, tech equipment, etc. There will be one arts organization and artist paired with one school per neighborhood.  The partnering arts organization will work in collaboration with the artist in residence to decide how to allocate the funds.  LAND is essentially re-granting these funds to empower other arts organizations and artists.  \r\n\r\n$40,000: Website and app design and build\r\nMatt Murphy Design will build the aesthetic look of the website in collaboration with Jameson Proctor of Athletics who will build the actual site and wire frames (code, html, etc.).  Athletics will build out the entire site and mobile app, which will feature various functionalities including an interactive map, events listing pages with various sorting options, pages on the schools, artists, and partners, an aggregate RSS feed, video and photos of the programs, social media streams, and more.  "
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

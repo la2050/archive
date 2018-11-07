@@ -14,8 +14,8 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24096%252Fdisplay%252Fexercise.jpg=c570x385
 project_areas: []
 maker_answers:
+  'City, State': 'Los Angeles, CA '
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: Facebook
   Organization(s) name(s): Clinica Msr. Oscar A. Romero
   Organization(s) mailing address(es): 123 S. Alvarado St.
   Organization(s) website(s): www.clinicaromero.com
@@ -63,7 +63,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Los Angeles, CA '
+  How did you hear about this challenge?: Facebook
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -121,8 +121,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Clinica Romero will \r\n\r\n-Install a minimum of 5 outdoor exercise stations \r\n-Provide nutrition classes to the local community\r\n-Engage in counseling to find the root causes of chronic obesity and diabetes\r\n-Publicize availability of workshops and exercise space \r\n-Maintain social media presence. "
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: 'No. '
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Each of these partners would assist in referring community members to our healthy living program:\r\n\r\nAccion Westlake $10,0000\r\nInquilinos Unidos $10,000\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'Enhancing our Healthy Living Group will not exceed $100,000. '
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Exercise Equipment, installation & insurance: $30,000\r\nPartners: $20,000\r\nNutritionist: $15,000\r\nCommunity Health Advocate: $15,000\r\nMarketing/promotional: $20,000"
   How do you plan to scale the success of your proposal?: >-
     Clinica Romero will continue to engage local community partners to bring
     community awareness to the exercise equipment, healthy living classes and
@@ -165,13 +163,6 @@ Are there other organizations doing similar work (whether complementary or compe
    
    Accion Westlake $10,0000
    Inquilinos Unidos $10,000
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'Enhancing our Healthy Living Group will not exceed $100,000.'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Exercise Equipment, installation & insurance: $30,000
-   Partners: $20,000
-   Nutritionist: $15,000
-   Community Health Advocate: $15,000
-   Marketing/promotional: $20,000
 How do you plan to scale the success of your proposal?: >-
   Clinica Romero will continue to engage local community partners to bring
   community awareness to the exercise equipment, healthy living classes and

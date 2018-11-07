@@ -18,8 +18,8 @@ project_areas:
   - SFV
   - WESTSIDE
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '0'
-  city_state: 'Los Angeles, CA'
   org_website: 'http://www.metabolicstudio.org'
   org_twitter: ''
   org_facebook: 'https://www.facebook.com/metabolicstudio'
@@ -95,7 +95,7 @@ maker_answers:
   org_name: Metabolic Studio
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'Los Angeles, CA'
   metrics_live_importedwater: '1'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '0'
@@ -146,18 +146,6 @@ maker_answers:
   competition: >-
     We hope to collaborate with any other organizations doing similar work both
     locally and regionally.
-  cost: >-
-    We think that the overall cost will be $250,000 for Undevelopment One.
-    Funding form LA 2050 will allow this first Undevelopment to happen as part
-    of the larger dialogue of what is making our city thrive.  The Metabolic
-    Studio will be covering the remaining costs. Additional Undevelopment
-    projects will be funded through a campaign in which 64 limited edition La
-    Noria (water wheel) blade prototypes of the actual blades that will comprise
-    the waterwheel, will be sold. Our hope is that each blade sold will provide
-    the funding to produce a new Undevelopment site and that LA 2050 funding
-    might be understood as the first official sponsorship of the Undevelopment
-    network concept.
-  budget: "Estimated Costs:\r\n\r\nSite cleaning and grading $25,000\r\n\r\nBoring to the Eemian strata, collection of ancient pollen $35,000\r\n\r\nErecting greenhouse of Eemian organisms $10,000\r\n\r\nHydraulic repurposing of storm drains into flood basins $30,000\r\n\r\n*all consultants to be paid by Metabolic Studio."
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

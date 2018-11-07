@@ -18,8 +18,8 @@ project_areas:
   - SGV
   - SFV
 maker_answers:
+  metrics_live_selfsufficiency: '1'
   metrics_live_healthyfood: '1'
-  city_state: LOS ANGELES
   org_website: 'http://arch.usc.edu/'
   org_twitter: '@uscarchitecture'
   org_facebook: 'https://www.facebook.com/USCArchitecture'
@@ -75,7 +75,7 @@ maker_answers:
   org_name: University of Southern California
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '1'
-  metrics_live_selfsufficiency: '1'
+  city_state: LOS ANGELES
   metrics_live_importedwater: '1'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '0'
@@ -106,8 +106,6 @@ maker_answers:
     or city planning. To this extent, the work done by FOLD-IT is complementary
     but not overlapping to the research of ‘BLOCK’, and continues to be an
     influential reference in our development. 
-  cost: "The development of the game needs to be strategized in a modular fashion. A video game can require a much larger budget than 100,000 USD, however we are approaching this project to work to that budget.\r\n \r\nThe development can be divided into four main categories:\r\n-Game development (Covered by Host and Collaborating institution)\r\n-Data collection and statistics. (1 new hire for the team)\r\n-Artwork (Covered by Host and Collaborating institution)\r\n-Community engagement and management (2 volunteers or hire members)\r\n-Advertising (campaign in coordination with community events)\r\n"
-  budget: "As presented in the breakdown above, many of the costs will be absorbed by the on-going research within USC Architecture and USC Game Innovation Lab, involving students and sessions as part of a research curriculum.\r\n\r\nHires:\r\n-Computer Science hire: 30,000 USD – 4 months. This hire is one of the fundamental elements to be able to evaluate the project and assess the indicators. The hire needs to be proficient in programming databases, collection of data and statistics, and supporting the game development with a strong computer science background.\r\n-Community Champions hire: 5,000 USD – 2 people that will work throughout the year taking the game to community events. The payment will be dedicated to individual events throughout the year.\r\n-University Fringe cost for all hires: 11,725 USD. 33.5% of hire cost.\r\n\r\nSubtotal: 46,725 USD\r\n\r\nConsulting:\r\n-Game Development Support consultancy: 6,000 USD. This item will be employed to optimize and refine the game output to be fully accessible by a larger audience. This will enable us to export the game to multiple devices and increase the amount of simulations to be performed by the game.\r\n\r\nInfrastructure:\r\n-Community Infrastructure: 8,000 USD. A website design that would collect the gameplay data of players. It would function as a hub where the community can engage in forums and suggest ways of improving the game. This item also considers the payment for hosting of the collected data. \r\n\r\nSubtotal: 60,725\r\n\r\nUniversity Facilities and Administration costs: 39,167 USD 64.5% of costs.\r\n\r\nTotal: 99,892 USD.\r\n\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

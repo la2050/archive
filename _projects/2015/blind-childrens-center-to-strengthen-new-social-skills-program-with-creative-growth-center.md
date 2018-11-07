@@ -15,8 +15,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': Los Angeles
   Organization(s) mailing address(es): 4120 Marathon Street
   Organization(s) website(s): www.blindchildrenscenter.org
   Organization(s) twitter handle(s): www.twitter.com/LightTheWayBCC
@@ -57,7 +57,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': Los Angeles
   Organization(s) name(s): Blind Children's Center
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -125,11 +125,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Evaluation of the Program is the responsibility of the Center’s Director of Education and Family Services, Fernanda Armenta-Schmitt, Ph.D., who has been employed at the Center for 28 years. Dr. Armenta-Schmitt has extensive experience in the arena of early intervention and serving families of young children with significant disabilities, and has authored several publications dedicated to serving families with diverse backgrounds and needs.\r\n\r\nShe and the Center's specialists and teachers collaborate to develop a Specialized Education Plan for each student and their family. The preschool children’s progress is measured annually using The Oregon Project which is the standard assessment tool for visually impaired children. The Kindergarten through 2nd Grade students receive regular report cards which are reviewed through standard K-2 curriculum guidelines. Parents’ progress is measured on a regular basis, through interviews and questionnaires. "
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "We frequently collaborate with several partner organizations in the area, most notably Braille Institute of America, where some of our students attend Library events and Junior Blind of America, where some of our students attend afterschool programs. Both of the organizations are wonderful partners to us.\r\n\r\nOur organization is the only one of its kind however, a full service private school operating in accordance with state educational guidelines, with a full inclusion program (sighted students in each classroom). "
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "We have partnered with the Los Angeles-based Margie & Robert E Petersen Foundation, the Los Angeles-based Atlas Family Foundation and the Vermont-based Gibney Family Foundation for the launch of this program. They have funded the launch of the program as well as staff salaries and the future production of our Social Skills Curriculum Kit.\r\n\r\nOur ask through LA2050 is solely for the construction and outfitting of the proposed CREATIVE GROWTH CENTER, which would support the activities of the Social Skills Program at the Blind Children's Center."
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We estimate the proposed work with cost approximately $100,000. We intend to
-    cover any additional cost, if necessary, through additional grantseeking as
-    well as major donor appeals. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "CREATIVE GROWTH CENTER\r\n\r\nAt the Blind Children's Center\r\n\r\nConstruct New Playhouse with ADA compliant restroom - $50,000\r\nEquip Playhouse with adaptive equipment - $5,000\r\n\r\nConstruct Sensory Garden - $25,000\r\nEquip Sensory Garden with adaptive equipment - $15,000\r\n \r\nUpgrade Outdoor Lunch Area - $5,000\r\n\r\nTotal Project Budget - $100,000*\r\n\r\n\r\n* All estimates include material and labor"
   How do you plan to scale the success of your proposal?: "At the end of the 3-year project, we will compile our findings in a user-friendly, interactive “Social Skills Curriculum Kit” which will be made available to parents, educators, early intervention programs and other schools. The potential construction and success of our Creative Growth Center will be another strategy to build social skills in our population. These results, too, should be able to be replicated and scaled by like-minded organizations should they choose to follow our lead.\r\n\r\nWe anticipate the hard work we put into this undertaking will yield an out-of-the-box curriculum that can be used as a model to tackle a very real issue facing young people who are visually impaired. With the appropriate social skills to go along with strong educational skills, our students and others like them will be equipped to make friends, live independently, and fulfill their highest potential.\r\n"
 areas_impacted: ''
 partners: ''
@@ -183,27 +178,6 @@ Are there other organizations doing similar work (whether complementary or compe
   production of our Social Skills Curriculum Kit.
    
    Our ask through LA2050 is solely for the construction and outfitting of the proposed CREATIVE GROWTH CENTER, which would support the activities of the Social Skills Program at the Blind Children's Center.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We estimate the proposed work with cost approximately $100,000. We intend to
-  cover any additional cost, if necessary, through additional grantseeking as
-  well as major donor appeals.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  CREATIVE GROWTH CENTER
-   
-   At the Blind Children's Center
-   
-   Construct New Playhouse with ADA compliant restroom - $50,000
-   Equip Playhouse with adaptive equipment - $5,000
-   
-   Construct Sensory Garden - $25,000
-   Equip Sensory Garden with adaptive equipment - $15,000
-    
-   Upgrade Outdoor Lunch Area - $5,000
-   
-   Total Project Budget - $100,000*
-   
-   
-   * All estimates include material and labor
 How do you plan to scale the success of your proposal?: >-
   At the end of the 3-year project, we will compile our findings in a
   user-friendly, interactive “Social Skills Curriculum Kit” which will be made

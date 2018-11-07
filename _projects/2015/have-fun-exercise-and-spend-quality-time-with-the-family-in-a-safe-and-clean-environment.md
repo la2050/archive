@@ -18,8 +18,8 @@ project_video: 'https://www.youtube.com/embed/JrkPrBnN4UI'
 project_areas:
   - San Fernando Valley
 maker_answers:
+  'City, State': 'San Fernando, Ca'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: Google
   Organization(s) name(s): Adventure Playhouse Indoor Activity Center
   Organization(s) mailing address(es): "1116 San Fernando Rd.\r\nSan Fernando, Ca 91340"
   Organization(s) website(s): www.adventureplayhouse.com
@@ -66,7 +66,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  'City, State': 'San Fernando, Ca'
+  How did you hear about this challenge?: Google
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
@@ -146,13 +146,6 @@ maker_answers:
     for more time the parents can spend quality time with the children during
     those busy weeks.
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': We do not have any partners at this time.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    With all the resources and construction, the costs will be close to the
-    $100,000. If the project goes over we will be reaching out to local
-    organizations to help sponsor more events to bring more people in.  We want
-    to involve the community as much as possible to help create a safe place for
-    all kids to come and play and learn. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Construction costs to create a learning center - $35,000\r\nComputers and internet - $25,000\r\nFurniture - $5,000\r\nMarketing and Campaigns - $10,000\r\nNon-Profit corporation status and legal fees - $2,500\r\nNew Play equipment for toddler classes - $7,500\r\nCommunity sponsored events to build awareness at schools -  $10,000 "
   How do you plan to scale the success of your proposal?: >-
     If we can increase the awareness of people and expand the reach to
     surrounding cities with class enrollment and visibility we would could see
@@ -203,20 +196,6 @@ Are there other organizations doing similar work (whether complementary or compe
   more time the parents can spend quality time with the children during those
   busy weeks.
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': We do not have any partners at this time.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  With all the resources and construction, the costs will be close to the
-  $100,000. If the project goes over we will be reaching out to local
-  organizations to help sponsor more events to bring more people in. We want to
-  involve the community as much as possible to help create a safe place for all
-  kids to come and play and learn.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Construction costs to create a learning center - $35,000
-   Computers and internet - $25,000
-   Furniture - $5,000
-   Marketing and Campaigns - $10,000
-   Non-Profit corporation status and legal fees - $2,500
-   New Play equipment for toddler classes - $7,500
-   Community sponsored events to build awareness at schools - $10,000
 How do you plan to scale the success of your proposal?: >-
   If we can increase the awareness of people and expand the reach to surrounding
   cities with class enrollment and visibility we would could see that the

@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '0'
-  city_state: 'Los Angeles, CA'
   org_website: nationbuilder.com
   org_twitter: nationbuilder
   org_facebook: facebook.com/nationbuilder
@@ -67,7 +67,7 @@ maker_answers:
   org_name: NationBuilder
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
-  metrics_connect_traveltime: '0'
+  city_state: 'Los Angeles, CA'
   metrics_connect_culturalevents: '1'
   metrics_connect_publictransit: '0'
   metrics_connect_neighborhoodcouncils: '1'
@@ -96,8 +96,6 @@ maker_answers:
     experience of community, it will spread very quickly.
   major_challenges: "Being willing to share in a two way dialogue can be challenging, but it’s also the entire point of the movement. The framing and the questions will go a long way to embrace that challenge. \r\nMovement around asking Big Questions is thriving in many disciplines and applications.\r\n\r\nAirbnb is one example of how goodwill dominantly prevails. Yes, some people will thrash apartments, ie. abuse the situation. But these cases are uncommon. Setting the environment goes a long way—the design of any media, related content, messaging, and the types of venues should be diverse, sanctioned, and interesting. The questions themselves will be a powerful tone setter. Having simple rules of engagement on the invitation, (ie. this is not date night. please behave accordingly) with a person at each restaurant able to facilitate. "
   competition: "Oxford Muse is complimentary as it is the inspiration. http://www.oxfordmuse.com/?q=conversation-dinners\r\n\r\nWe are broadening an already working initiative and effective movement. \r\n\r\nOur LA 2050 Conversation Meal Thursday would be an ongoing, weekly, interactive, hyper accessible cultural event, like going to a sunday Dodgers game, KCRW free concert series, or friday night karaoke, but catering to (personalized, intellectual, intimate) aspects of our humanity--courage to speak, to listen, to engage, to walk in each others shoes. Our questions and themes will be unique, in order to see each other with fresh eyes. Conversation by conversation, we hope to strengthen the bonds of our city."
-  cost: "Most of the money will go to hire an organizer to coordinate meals with restaurants all over the city. Because people will buy tickets to cover the cost of the meal at the restaurant, we should be able to develop a sustainable business model that will ensure the project continues beyond the 12 months.\r\n\r\nNationBuilder will provide software, services and marketing support with our existing staff.\r\n\r\nMarketing ideas: NPR sponsor. Short funny videos. (“Drive-Thru Conversation”)"
-  budget: "Most of the money will go to hire an organizer to coordinate meals with restaurants all over the city. Because people will buy tickets to cover the cost of the meal at the restaurant, we should be able to develop a sustainable business model that will ensure the project continues beyond the 12 months.\r\n\r\nNationBuilder will provide software, services and marketing support with our existing staff."
   resources_money: '0'
   resources_staff: '1'
   resources_publicity: '1'

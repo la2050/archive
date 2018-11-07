@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/nu53ttV7jQI'
 project_areas:
   - Westside
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Friend
   Organization(s) name(s): Tiny Rebellion
   Organization(s) mailing address(es): "1316 3RD STREET PROMENADE, 3RD FLOOR\r\nSANTA MONICA, CA 90401"
   Organization(s) website(s): 'http://www.tiny-rebellion.com/#/home'
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: Friend
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -150,8 +150,6 @@ maker_answers:
     pop-up installation with the city only receiving payments for event location
     permits. Any remaining money after the event will be used to maintain the
     life of the campaign on all social media channels.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Tiny Rebellion worked with its in-house production team to draft two official budgets for the #FeedtheDolphins campaign. The agency estimates that dependent upon vendor costs, the project will run between $83,325.61 and $99,737.79. Tiny Rebellion has close working relationships with a number of vendors. The agency is confident that it can negotiate a budget within the $100,000 dollar cap. If the grand total does exceed the LA2050 grant, the agency will either cover the difference out of pocket, or shift some of the work internal to reduce the final cost. \r\n\r\n "
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Vendor Hard Cost Budget:\r\n- Cardboard Structure with Internal Frame and Signage: $39,706.88\r\n- Exterior Projections (Static): $4,706.00\r\n- Interior Projection with Motion-Sensor LED Trigger and (1) Color Wash: $8,823.75\r\n- Event Location Permits: $9,412.00\r\n- 24HR Security/Ambassadors (during installation, activation, and dismantle): $6,000.15\r\n- Installation Supervision, Labor, and Equipment: $10,588.50\r\n- Warehouse Handling and Transportation: $2,117.70\r\n- Travel (assume all-day activation & overnight dismantle): $1,911.81\r\n- Projected Sales Tax: $3,529.50\r\n- Project Management: $12,941.50\r\n- Grand Total: $99,737.79\r\n\r\nThis budget reflects the absolute hard costs from vendors. A second budget, drafted of the same expenses, found that the project would cost $83,325.61, which reflects a more accurate grand total of the campaign. The Immediate pricing from vendors are often much hire than what the agency ends up paying. "
   How do you plan to scale the success of your proposal?: "To scale the success of the event Tiny Rebellion would take a two pronged approach to not only increase local engagement with #FeedtheDolphins, but also expand the program to other areas of Los Angeles. In conjunction with the city, Tiny Rebellion would tap into the thriving art community in Santa Monica to host competitions for local artists to decorate the four dolphins. Similar to how other cities have iconic animal statues, such as the Chicago cows, the Santa Monica dolphins would become celebrated icons of the West Side community. The agency would also work with the city to update the statue plaques to provide more information on the donation programs, and the #FeedtheDolphins campaign. \r\n\tAfter the initial success of the #FeedtheDolphins campaign in Santa Monica, Tiny Rebellion would like to expand the program across greater Los Angeles. The agency would use this campaign as a case study to partner with other city governments and business hubs to build donation statues in other commercial areas. By giving neighborhoods across the city ‘dolphins’ of their own, the #FeedtheDolphins campaign will not only bring together the West Side community, but has the potential to connect all of Los Angeles to the homeless situation. \r\n"
 areas_impacted: ''
 partners: ''
@@ -203,30 +201,6 @@ Are there other organizations doing similar work (whether complementary or compe
   pop-up installation with the city only receiving payments for event location
   permits. Any remaining money after the event will be used to maintain the life
   of the campaign on all social media channels.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Tiny Rebellion worked with its in-house production team to draft two official
-  budgets for the #FeedtheDolphins campaign. The agency estimates that dependent
-  upon vendor costs, the project will run between $83,325.61 and $99,737.79.
-  Tiny Rebellion has close working relationships with a number of vendors. The
-  agency is confident that it can negotiate a budget within the $100,000 dollar
-  cap. If the grand total does exceed the LA2050 grant, the agency will either
-  cover the difference out of pocket, or shift some of the work internal to
-  reduce the final cost.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Vendor Hard Cost Budget:
-   - Cardboard Structure with Internal Frame and Signage: $39,706.88
-   - Exterior Projections (Static): $4,706.00
-   - Interior Projection with Motion-Sensor LED Trigger and (1) Color Wash: $8,823.75
-   - Event Location Permits: $9,412.00
-   - 24HR Security/Ambassadors (during installation, activation, and dismantle): $6,000.15
-   - Installation Supervision, Labor, and Equipment: $10,588.50
-   - Warehouse Handling and Transportation: $2,117.70
-   - Travel (assume all-day activation & overnight dismantle): $1,911.81
-   - Projected Sales Tax: $3,529.50
-   - Project Management: $12,941.50
-   - Grand Total: $99,737.79
-   
-   This budget reflects the absolute hard costs from vendors. A second budget, drafted of the same expenses, found that the project would cost $83,325.61, which reflects a more accurate grand total of the campaign. The Immediate pricing from vendors are often much hire than what the agency ends up paying.
 How do you plan to scale the success of your proposal?: >-
   To scale the success of the event Tiny Rebellion would take a two pronged
   approach to not only increase local engagement with #FeedtheDolphins, but also

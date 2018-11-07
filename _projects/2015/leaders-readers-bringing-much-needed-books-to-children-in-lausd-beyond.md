@@ -21,8 +21,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  'City, State': 'Santa Monica, CA'
   Organization(s) mailing address(es): "1448 15th St. #202 \r\nSanta Monica, CA 90404"
   Organization(s) website(s): www.milkandbookies.org
   Organization(s) twitter handle(s): 'https://twitter.com/milkandbookies'
@@ -75,7 +75,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Santa Monica, CA'
   Organization(s) name(s): Milk + Bookies
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -165,15 +165,6 @@ maker_answers:
     vital and committed staff of three full-time employees.  Supporting this
     team are a group of two-to-three student interns, a five-member Board of
     Directors, and a crew of volunteers provided by EarthAngels.  
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The Leaders + Readers program budget for 2015-2016 is $125,000.  This amount
-    covers ALL of the operational costs associated with running the Leaders +
-    Readers programs.  To cover the $25,000 shortfall, we plan to leverage our
-    relationships with various corporate and philanthropic partners to secure
-    small grants.  Milk + Bookies also organizes fundraisers, one of which took
-    place in early August and garnered $5,000 to support the Leaders + Readers
-    program. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "To place this response in context, understand that Leaders + Readers strives to convert every $1 of program expense into $8 worth of books.  We sampled the value of more than 200 donated books, comparing their value to the current listings of used books (those of similar title and quality) for sale on Amazon.com.  On average, each book collected by Leaders + Readers has a value of $8.33.  With a goal to raise over 100,000 books during the 2015-2016 school year, the Leaders + Readers program seeks to amass over $800,000 worth of books on a $125,000 budget. That is a 640% return on investment.\r\n\r\nContemplating an award of $100,000, our budget will be as follows:\r\n\r\nExpenses:\r\n \r\nSalary and Payroll:\t$65,000\r\n\r\nRent and Storage:\t        $16,500\r\n\r\nProgram Supplies:\t$10,000\r\n\t\t\r\nTransportation:\t        $4,000\r\n\r\nAdministrative:\t        $4,500\r\n\r\nTOTAL\t\t                $100,000 \r\n"
   How do you plan to scale the success of your proposal?: "Milk+Bookies has over ten years of experience in inspiring “future philanthropists” and spreading the love of reading.  We have seen the success of our program expand all over the country, with hosted events occurring in over 500 cities and books distributed to more than 540 underprivileged children’s groups nationwide.  Being a Los Angeles-based organization, we have seen up close the extent of L.A.’s literacy problem and are uniquely positioned to focus our efforts locally to optimally manage the Leaders + Readers program.\r\n\r\nIn terms of scaling the program, that process is already underway at Milk+Bookies.  Book drives are taking place; we are aware of the materials required; we have forged relationships that will carry us forward into future school years; and we have the information and know-how necessary to implement this project in a much larger way.  Fact is, in the second half of the 2014-2015 school year, Leaders + Readers raised over 58,000 books and impacted 10,000 students.  With the grant money, we will be able to double our already impressive efforts and reach our goal of raising 100,000 books and positively influencing 20,000 students in the coming school year.\r\n\r\nChildren are entitled to learn to their greatest potential, but this cannot be achieved without reading competency.  Such competency is impossible without access to books, which – by definition – are fundamental to the development of reading.  However, the stark reality is that students from underserved communities are most affected by a scarcity of books; in Los Angeles, these are predominantly children from low-income, minority backgrounds.  Consider the following: in the LAUSD, the average book to student ratio is 2:1 or 3:1; the national average is 22:1.  Incredibly, 7,000,000 books are needed just to bring Los Angeles schools up to the national average.  Bare and outdated libraries with little to no governmental support critically handicap our students and are leading to lower test scores, lower rates of graduation, and poor literacy overall.\r\n\r\nOnce Leaders+Readers is appropriately scaled, the LAUSD statistics are expected to reflect the following historical data:\r\n \r\n•\t95% of teachers report an increase in student reading after receiving donated books;\r\n\r\n•\tStudents with access to a variety of reading material have higher than average test scores; and\r\n\r\n•\tNarrowing the “achievement gap” leads to lower truancy rates and increases in confidence and academic achievement. \r\n"
 areas_impacted: ''
 partners: ''
@@ -243,39 +234,6 @@ Are there other organizations doing similar work (whether complementary or compe
   and committed staff of three full-time employees. Supporting this team are a
   group of two-to-three student interns, a five-member Board of Directors, and a
   crew of volunteers provided by EarthAngels.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The Leaders + Readers program budget for 2015-2016 is $125,000. This amount
-  covers ALL of the operational costs associated with running the Leaders +
-  Readers programs. To cover the $25,000 shortfall, we plan to leverage our
-  relationships with various corporate and philanthropic partners to secure
-  small grants. Milk + Bookies also organizes fundraisers, one of which took
-  place in early August and garnered $5,000 to support the Leaders + Readers
-  program.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  To place this response in context, understand that Leaders + Readers strives
-  to convert every $1 of program expense into $8 worth of books. We sampled the
-  value of more than 200 donated books, comparing their value to the current
-  listings of used books (those of similar title and quality) for sale on
-  Amazon.com. On average, each book collected by Leaders + Readers has a value
-  of $8.33. With a goal to raise over 100,000 books during the 2015-2016 school
-  year, the Leaders + Readers program seeks to amass over $800,000 worth of
-  books on a $125,000 budget. That is a 640% return on investment.
-   
-   Contemplating an award of $100,000, our budget will be as follows:
-   
-   Expenses:
-    
-   Salary and Payroll: $65,000
-   
-   Rent and Storage:  $16,500
-   
-   Program Supplies: $10,000
-   
-   Transportation:  $4,000
-   
-   Administrative:  $4,500
-   
-   TOTAL  $100,000
 How do you plan to scale the success of your proposal?: >-
   Milk+Bookies has over ten years of experience in inspiring “future
   philanthropists” and spreading the love of reading. We have seen the success

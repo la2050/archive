@@ -20,8 +20,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: 'friend '
   Organization(s) name(s): 'Get On The Bus a program of the Center for Restorative Justice Works '
   Organization(s) mailing address(es): "6400 Laurel Canyon Blvd. Ste 304\r\nNorth Hollywood, CA 91606"
   Organization(s) website(s): www.crjw.us
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: 'friend '
   'City, State': 'Los Angeles, CA '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -156,13 +156,6 @@ maker_answers:
     GOTB will partner with local universities to provide expertise and graduate
     school interns as art therapists. The grant will be fully utilized by CRJW
     to expand Camp Suzanne. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The cost will be $100,000 to expand the program this summer. Future
-    expansion will be covered by community fundraising efforts and additional
-    grant funding. As a grassroots organization, Get On The Bus raises 80% of
-    its program funds from community events. We also just received a three year
-    for program expansion strategizing and strategic planning. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Camp Suzanne\r\nPrison Camp Staff: $60,000\r\nFood, Lodging & Transportation: $20,000\r\nArt Therapy: $15,000\r\nCurriculum Materials: $5,000\r\n"
   How do you plan to scale the success of your proposal?: "Success will be measured by achieving the following outcomes: \r\n1) Participating children will have the opportunity to strengthen their parental bonds, helping to alleviate their fears and uncertainties around their parent's absence.\r\n2) Parents receiving a visit are 13-25% less likely to re-offend following re-entry (longitudinal studies in Minnesota and Florida document decreased recidivism rates as a result of even one visit from a family member, mentor or clergy).\r\n3) Volunteers and the general public will have a greater appreciation for the plight of children with a parent in prison and may be more receptive to restorative justice-based reforms.\r\n4) Camp Suzanne’s successful pilot implementation will grow to impact the lives of a greater number of children and their incarcerated parents through program expansion. \r\n"
 areas_impacted: ''
 partners: ''
@@ -226,18 +219,6 @@ Are there other organizations doing similar work (whether complementary or compe
   partner with local universities to provide expertise and graduate school
   interns as art therapists. The grant will be fully utilized by CRJW to expand
   Camp Suzanne.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The cost will be $100,000 to expand the program this summer. Future expansion
-  will be covered by community fundraising efforts and additional grant funding.
-  As a grassroots organization, Get On The Bus raises 80% of its program funds
-  from community events. We also just received a three year for program
-  expansion strategizing and strategic planning.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Camp Suzanne
-   Prison Camp Staff: $60,000
-   Food, Lodging & Transportation: $20,000
-   Art Therapy: $15,000
-   Curriculum Materials: $5,000
 How do you plan to scale the success of your proposal?: |-
   Success will be measured by achieving the following outcomes: 
    1) Participating children will have the opportunity to strengthen their parental bonds, helping to alleviate their fears and uncertainties around their parent's absence.

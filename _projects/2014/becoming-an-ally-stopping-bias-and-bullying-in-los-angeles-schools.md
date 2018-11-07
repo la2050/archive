@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_learn_communitycollege: '0'
   collaboration: "At the national level, ADL has existing partnerships with the following organizations and initiatives to address bias and bullying: the Ad Council, the American Bar Association’s Anti-Bullying Initiative, Cartoon Network’s Stop Bullying, Speak Up initiative, Common Sense Media, Center for Safe and Responsible Internet Use, Cyberbullying Prevention Center, the Gay, Lesbian and Straight Education Network (GLSEN), the Great American NO BULL Challenge, the International Bullying Prevention Association, MTV’s A Thin Line and Look Different campaigns, Not In Our School, the Olweus Bullying Prevention Program, PACER’s National Bullying Prevention Center, Share My Lesson, Stand4Change, StopBullying.gov, and the Human Rights Campaign’s Welcoming Schools Program.  Each of these organizations and initiatives have partnered with ADL to make the anti-bullying programs successful and bring a wide variety of perspectives and resources to augment ADL’s anti-bullying work.   ADL’s office in Los Angeles is ready to engage these partnerships to ensure the success of our anti-bullying work in the region.\r\n\r\nEducation staff from ADL’s Pacific Southwest Regional Office also hold local positions on the Los Angeles Unified School District’s Commission on Human Relations, Diversity and Equity and the City Human Relations Commission’s Anti-Bullying Coalition.  ADL also works closely with the Los Angeles County Human Relations Commission and other regional partners to plan local conferences including the Cyber Crime Prevention Symposium.  Through its work on coalitions, commissions and similar partnerships, ADL can draw expertise and resources from law enforcement, elected officials, school officials and other human relations experts.  ADL’s local partners assist in identifying schools in need of anti-bullying training and disseminating crucial information across diverse networks. \r\n"
-  metrics_learn_earlyeducation: '0'
   org_website: www.adl.org/la
   org_twitter: 'https://twitter.com/ADL_National'
   org_facebook: 'https://www.facebook.com/a.world.of.difference.institute?ref=br_tf'
@@ -85,7 +85,7 @@ maker_answers:
     residents will benefit from safer schools and communities.
   about_you: 'Los Angeles, CA'
   org_name: Anti-Defamation League - Pacific Southwest Region
-  metrics_learn_communitycollege: '0'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '0'
   metrics_learn_graduationrates: '0'
   metrics_learn_proficiency: '0'
@@ -116,10 +116,6 @@ maker_answers:
     build up or outreach.  
   major_challenges: "California public schools have substantial standardized testing requirements which can make scheduling trainings at specific times of year (e.g. the late spring) difficult.  ADL will conduct the bulk of the school staff training programs in the fall, winter and just before students return to school in the late summer to avoid scheduling conflicts.\r\n\r\nAnother challenge is the demand.  There is far more need for these programs than can be addressed with $100,000.  ADL will prioritize the schools in most need of these vital trainings to create a list of 30 schools from ADL’s existing waiting list. \r\n"
   competition: "ADL’s A WORLD OF DIFFERENCE® Institute is a market leader in the development and delivery of diversity education resources, anti-bias and anti-bullying trainings.  Many anti-bullying programs have emerged in the last several years as media outlets and our collective attention had looked more closely at the national issue of bullying.  ADL prides itself in having done anti-bias and anti-bullying work since its A WORLD OF DIFFERENCE® Institute was founded in 1985 to augment other programs of ADL, as a 101-year old civil rights and human relations organization.  While other programs have emerged in recent times to respond to demand, ADL has been providing these high end programs for close to three decades.  \r\n\t\r\nADL’s longstanding commitment to anti-bias and anti-bullying programs has allowed for extensive program evaluation and the hiring of experts in the Education Division to ensure programs are regularly updated and rooted in the best available research.  A WORLD OF DIFFERENCE® Institute training programs and curricular materials are developed and evaluated by a training and curriculum department that interacts on an ongoing basis with other professionals in the field. Institute staff collaborates with colleges, universities, and national funding sources to study and enhance the efficacy of its programs. Collaborative studies have occurred with institutions including Columbia University, Claremont Graduate School, the University of Pennsylvania, and Yale University.  ADL’s A WORD OF DIFFERENCE® Institute has received national recognition including the Peabody, Gabriel and Scripps-Howard awards.\r\n"
-  cost: >-
-    To reach 30 schools with 40 staff each, it will cost $100,000.  These 1,200
-    staff are estimated to impact 120,000 students each year. 
-  budget: "Full-Day Training for School Staff at 30 Schools ($2,000 each) = $60,000\r\n30% of Project Director Salary = $19,200\r\n20% of Administrative Assistant Salary: $8,000\r\nBenefits Calculated at 33% of Salaries: $8,976\r\nTransportation Costs/Local Mileage ($60) for 30 Trainings = $1,800\r\nPostage and Printing for Program ($67.47 each) for 30 Trainings: $2,024\r\n\r\nADL has existing office space to house its staff and will not require funding from LA2050 to cover this and similar operational expenses.  This will result in more funds going directly to programming in the region.\r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

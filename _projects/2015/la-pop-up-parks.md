@@ -19,8 +19,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Venice, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: Last minute email
   Organization(s) name(s): 'The Venice Place Project, TEDxVeniceBeach, 72andSunny'
   Organization(s) mailing address(es): 1021 Abbot Kinney Blvd
   Organization(s) website(s): www.venicepopuppark.com
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  'City, State': 'Venice, CA'
+  How did you hear about this challenge?: Last minute email
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -174,15 +174,6 @@ maker_answers:
     have to partner with us as well since they most likely own the land we will
     build on.  For the Venice Park we found private property to do this on so we
     didn't have to deal with government red tape on the pilot program. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We built the first park for $20K.  We would like to build 5-7 more.  The
-    grant funds will compliment a fundraising effort to ask local businesses to
-    chip in for the extra cost, which is minimal and actually totally avoidable
-    if that effort is successful.  We didn't need grant funds to build the
-    first. We raised money from 4 local businesses but that was quite difficult
-    and having a block grant like this means we can actually move forward and
-    guarantee at least 5 parks without additional funding. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "These metrics are for one park: We feel if we build 5 at once we can get a significant discount and many items for free or donated (such as wifi)\r\n\r\n$5K Design and Construction Oversight (licensed contractor reduced fee for 2 months)\r\n$11K Materials (wood, AstroTurf, paint, sandpaper, hardware, tools)\r\n$500 Website\r\n$2K Opening Event\r\n$1K City and County fees for permitting\r\n$1K Free wifi and power for 1 year"
   How do you plan to scale the success of your proposal?: >-
     With more parks we can make deals with telco's to provide free wifi.  TWC
     passpoint seems like the most likely since they are city wide already and
@@ -245,24 +236,6 @@ Are there other organizations doing similar work (whether complementary or compe
   as well since they most likely own the land we will build on. For the Venice
   Park we found private property to do this on so we didn't have to deal with
   government red tape on the pilot program.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We built the first park for $20K. We would like to build 5-7 more. The grant
-  funds will compliment a fundraising effort to ask local businesses to chip in
-  for the extra cost, which is minimal and actually totally avoidable if that
-  effort is successful. We didn't need grant funds to build the first. We raised
-  money from 4 local businesses but that was quite difficult and having a block
-  grant like this means we can actually move forward and guarantee at least 5
-  parks without additional funding.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  These metrics are for one park: We feel if we build 5 at once we can get a
-  significant discount and many items for free or donated (such as wifi)
-   
-   $5K Design and Construction Oversight (licensed contractor reduced fee for 2 months)
-   $11K Materials (wood, AstroTurf, paint, sandpaper, hardware, tools)
-   $500 Website
-   $2K Opening Event
-   $1K City and County fees for permitting
-   $1K Free wifi and power for 1 year
 How do you plan to scale the success of your proposal?: >-
   With more parks we can make deals with telco's to provide free wifi. TWC
   passpoint seems like the most likely since they are city wide already and can

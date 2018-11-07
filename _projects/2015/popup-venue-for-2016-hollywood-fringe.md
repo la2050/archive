@@ -17,8 +17,8 @@ project_image: 'https://img.youtube.com/vi/jqxMSN_U1Pk/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/jqxMSN_U1Pk'
 project_areas: []
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: 'Facebook, Newsletter'
   Organization(s) name(s): Hatchery Arts dba Hollywood Fringe Festival
   Organization(s) mailing address(es): "PO BOX 93325\r\nHollywood, CA 90093"
   Organization(s) website(s): www.hollywoodfringe.org
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: 'Facebook, Newsletter'
   'City, State': Hollywood
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -123,8 +123,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "HFF will judge the pop-up venue project’s performance upon it meeting the following goals:\r\n\r\n(1) To create and manage a pop-up venue for the Hollywood Fringe that will support 25-30 shows at $100 per slot (over 200% lower than market rate) during the June 2016 and June 2017 Festivals\r\n\r\n(2) To provide 5-10 venue scholarships to performers or producers from underserved economic and/or ethnic groups \r\n\r\n(3) To show through example how to create viable theatrical pop-up venues, with 1-3 additional pop-up spaces established by individual artists or producers during the June 2017 Fringe Festival\r\n\r\n(4) To share the findings and best practices on the Fringe website and with partner organizations, reaching an estimated audience of 20-25,000.\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "While there are many theatre companies through out Los Angeles, there is no other organization that brings all of them together like the Hollywood Fringe Festival. During the month of June, thousands of artists converge on Theatre Row to take part in HFF.  The sense of community within the performing arts that has been cultivated is unique to the city.  \r\n\r\nAs Ben Moroski, a two time participant states: The Hollywood Fringe Festival creates a vibrant, uncensored space for a community of artists committed to ideals of the artistic process to come together, produced and share their work, try and fail in ways that are nearly impossible elsewhere. It is a breeding ground for new ideas, confident thought, young talent, fresh work, fearless expression. Whatever success I have in my artistic career going forward will always be due, in large part, to the start the Hollywood Fringe Festival gave me. I owe it and its staff a huge debt of gratitude for standing up for the arts, accepting me and the stories I have to tell, and creating a place where anything is possible, if you have the will and guts to put it on a stage."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Personnel will account for roughly one third of the budget of the project.  The key individuals will fill the following roles:\r\n\r\nPop-up Producer: Book performers for slots on offer at venue. Will be seasoned Fringe producer with proven track record. Estimated budget: $10,000\r\n\r\nPop-Up General Manager: Oversee selection, contracting, build-out and operation of venue, including locating and contracting space. Will also outfit venue with box office, front of house, seating, staging, lighting, sound, video systems, and provide oversight on operations of venue during installation, technical rehearsals and performances. Dave McKeever, HFF’s Producing Director, will fulfill this role. No budget needed.  \r\n\r\nPop-Up Technical Director: Oversee technical aspects of venue during installation, rehearsal and performance. Will manage installation of seating, staging, lighting, sound and video systems. Will also oversee setup crews, provide training/assistance during technical rehearsals and oversee system operations during performances. Estimated budget: $5,000\r\n\r\nPop-Up Front of House Manager: Run a customer-friendly operation, including box office, seating assistance, ushering, catering and sanitation. Estimated budget: $5,000\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The popup venue project has been budgeted at  $148,000. HFF is currently applying for grant funding to cover the additional costs.  \r\n\r\nSubsidized rent from the pop up venue should cover $10,000-$15,000 of the additional costs.  Any other costs will be covered by the Hollywood Fringe organization's budget. "
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Direct Costs:\r\nLighting/Power: $20,000\r\nSound: $4,000\r\nProjection: $4,000\r\nMasking: $4,000\r\nBuilding Rental: $40,000\r\nSpace Improvement: $6,000\r\nSeating: $6,000\r\nMarketing (including manual production): $10,000\r\n\r\nPersonnel:\r\nProducer/Booker: $10,000\r\nTech Director: $5,000\r\nMaster Electrician: $5,000\r\nStage Hands: $9,000\r\nFront of House/Box Office: $15,000\r\nLighting Designer: $2,000\r\nSecurity: $6,000"
   How do you plan to scale the success of your proposal?: "As part of the proposal, HFF believes that a successful pop up venue in 2016 will act as a catalyst for an additional 1-3 pop up venues to be established by artists or producers in 2017.  \r\n\r\nHFF will share findings and best practices with interested parties who wish to establish a pop up venue.  Using these tools, producers and artists will be able to help lift up the dwindling theatrical spaces in the Hollywood area and revitalize the area."
 areas_impacted: ''
 partners: ''
@@ -186,30 +184,6 @@ Are there other organizations doing similar work (whether complementary or compe
    Pop-Up Technical Director: Oversee technical aspects of venue during installation, rehearsal and performance. Will manage installation of seating, staging, lighting, sound and video systems. Will also oversee setup crews, provide training/assistance during technical rehearsals and oversee system operations during performances. Estimated budget: $5,000
    
    Pop-Up Front of House Manager: Run a customer-friendly operation, including box office, seating assistance, ushering, catering and sanitation. Estimated budget: $5,000
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The popup venue project has been budgeted at $148,000. HFF is currently
-  applying for grant funding to cover the additional costs. 
-   
-   Subsidized rent from the pop up venue should cover $10,000-$15,000 of the additional costs. Any other costs will be covered by the Hollywood Fringe organization's budget.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Direct Costs:
-   Lighting/Power: $20,000
-   Sound: $4,000
-   Projection: $4,000
-   Masking: $4,000
-   Building Rental: $40,000
-   Space Improvement: $6,000
-   Seating: $6,000
-   Marketing (including manual production): $10,000
-   
-   Personnel:
-   Producer/Booker: $10,000
-   Tech Director: $5,000
-   Master Electrician: $5,000
-   Stage Hands: $9,000
-   Front of House/Box Office: $15,000
-   Lighting Designer: $2,000
-   Security: $6,000
 How do you plan to scale the success of your proposal?: >-
   As part of the proposal, HFF believes that a successful pop up venue in 2016
   will act as a catalyst for an additional 1-3 pop up venues to be established

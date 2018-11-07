@@ -20,12 +20,17 @@ project_summary: >-
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16963%252Fdisplay%252F2019409068.jpg=c570x385
 maker_answers:
+  description1: >-
+    We have been involved in a number of projects focusing on urban mobility and
+    the interface with cities and the built environment. Marc Alt was founding
+    Executive Director of the Green Parking Council, a non-profit organization
+    which is seeking to transform parking into a platform for innovation to
+    support bike sharing, car sharing, electric car charging infrastructure,
+    green building standards and re-inventing parking as a force for good in
+    cities. Marc has also worked with some of the leading companies in the
+    automotive, architecture and engineering fields on urban mobility projects,
+    including the launch of electric vehicles and charging infrastructure.
   website: ''
-  success: >-
-    Using measuring devices from companies such as Eco Counter, actual metrics
-    of increases in numbers of bicyclists on city roads will be captured and
-    reported. Baseline and target metrics will be established in partnership
-    with the city and county's master plans for bicycling.
   Indicator: ' Public Safety'
   brief: >-
     Bike L.A. 2050 would like to make biking a safer, healthier option for
@@ -38,7 +43,6 @@ maker_answers:
     Germany. They are highly visible beacons that have proven successful in
     broadcasting awareness to drivers, pedestrians and other bikers and help
     improve the visibility and safety of bicyclists on city streets.
-  budget explanation: "70% of the budget funds would be allocated to installing technology from Eco Sensor, specifically the Eco Totem bike counter which is a highly visual beacon used to publicly record the number of bikers on busy thoroughfares. The Eco-Totem has been successfully installed in the cities of Seattle, Portland and cities in Sweden and Germany. Eco Sensor partnered with \r\n\r\nThe remaining 30% of the budget would be used for administration, partnership and advocacy work with many of the active biking safety, awareness and activism groups in L.A., including Ciclavia, "
   description: >-
     Increasing the visibility of bicyclists will improve the safety of biking in
     L.A. and will in turn lead to more people feeling comfortable choosing to
@@ -52,16 +56,11 @@ maker_answers:
     passionate about raising awareness about bicycling safety and improving
     access to safe biking on city and county streets.
   Organization Name: Bike L.A. 2050
-  description1: >-
-    We have been involved in a number of projects focusing on urban mobility and
-    the interface with cities and the built environment. Marc Alt was founding
-    Executive Director of the Green Parking Council, a non-profit organization
-    which is seeking to transform parking into a platform for innovation to
-    support bike sharing, car sharing, electric car charging infrastructure,
-    green building standards and re-inventing parking as a force for good in
-    cities. Marc has also worked with some of the leading companies in the
-    automotive, architecture and engineering fields on urban mobility projects,
-    including the launch of electric vehicles and charging infrastructure.
+  success: >-
+    Using measuring devices from companies such as Eco Counter, actual metrics
+    of increases in numbers of bicyclists on city roads will be captured and
+    reported. Baseline and target metrics will be established in partnership
+    with the city and county's master plans for bicycling.
   description3: >-
     Bike L.A. 2050 would work in partnership with all of the existing bicycling
     advocacy groups in L.A. who would like to collaborate on the project. Budget
@@ -135,15 +134,5 @@ cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/bike-l-a-2050-bike-safety-through-visibility/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16963%252Fdisplay%252F2019409068.jpg=c570x385.jpg
 maker_image_id: '16963'
 maker_image_file_name: 2019409068.jpg
-project_summary_backup: >-
-  We have been involved in a number of projects focusing on urban mobility and
-  the interface with cities and the built environment. Marc Alt was founding
-  Executive Director of the Green Parking Council, a non-profit organization
-  which is seeking to transform parking into a platform for innovation to
-  support bike sharing, car sharing, electric car charging infrastructure, green
-  building standards and re-inventing parking as a force for good in cities.
-  Marc has also worked with some of the leading companies in the automotive,
-  architecture and engineering fields on urban mobility projects, including the
-  launch of electric vehicles and charging infrastructure.
 
 ---

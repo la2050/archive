@@ -21,8 +21,8 @@ project_areas:
   - San Fernando Valley
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: Word of mouth
   Organization(s) name(s): >-
     Los Angeles Neighborhood Land Trust (LANLT), Leadership for Urban Renewal
     (LURN), TRUST South LA, Konkuey Design Initiative (KDI), Esperanza Community
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Word of mouth
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
@@ -131,8 +131,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Free Lots Angeles will evaluate its effectiveness in the following ways:\r\n\r\n1) The successful production of three pop-up events on vacant lots in low-income areas of the City;\r\n2) The introduction and institutionalization of City policy that will aggregate all City-owned vacant lots into one publicly-accessible database; and\r\n3) The development of a standard right of entry permit and/or lease agreements that could be used by community members to activate a vacant lot.\r\n\r\nThese goals are monitored by weekly meetings with program staff from each of the Free Lots Angeles partner organizations as well as separate senior-level meetings that take place every month with Executive Directors. These meetings help cultivate strong communication between each organization and also help maintain accountability on agreed upon goals.\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are a number of other organizations in Los Angeles doing amazing work to activate under-utilized spaces, each of which should be heralded for their work on a very complex issue. Some of those organizations, specifically the LA Neighborhood Land Trust, are members of the Free Lots Angeles collaborative. \r\n\r\nFree Lots Angeles distinguishes itself from other important organizations in this field a few ways. First, it is a coalition of six organizations who all who have their own individual missions and track record of success. By working together, Free Lots Angeles is attempting to multiply the impact that only one organization can have on their own.\r\n\r\nSecond, Free Lots Angeles distinguishes itself because of its goal of creating policy and new systems that can help manage City-owned land. We hope that by working together, we can help communities better realize their power to reclaim vacant parcels in their community, and engage their neighbors to develop spaces that meet their needs and their vision of a healthy Los Angeles."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Los Angeles Neighborhood Land Trust (LANLT): $25,500\r\nEsperanza Community Housing Corporation: $8,350\r\nLeadership for Urban Renewal Network (LURN): $16,600\r\nKonkuey Design Initiative (KDI): $18,350\r\nCommunity Health Councils (CHC): $12,100\r\nT.R.U.S.T. South LA: $19,100"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The total project budget for the work is $238,374 for 2016. The LA2050 grant would represent a 42% funding commitment of the work. The other 58% has been raised and secured from other private foundations. \r\n\r\nShould additional costs or need for funding arise, FLA partners will prepare an action plan to reach out to new funders and contacts.\r\n\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "1) Personnel \r\nExecutive Directors (.1 FTE): $6,000\r\nSenior Managers (.15 FTE): $6,000\r\nPolicy and Advocacy Staff (1 FTE): $6,000\r\nDesign and Program Staff (1 FTE): $6,000\r\nIntern (.5 FTE): $4,500\r\nBenefits @ 22%: $6,270\r\nConsultants (Design, Policy Outreach)- $15,000\r\nPersonnel Total = $49,770\r\n\r\n2) Non-personnel\r\n2a) Activations\r\nMeetings: $4,600\r\nConstruction, event production: $21,750\r\nTravel: $989\r\n\r\n2b) Policy and Advocacy \r\nPublicity: $2,500\r\nPrinting: $2,500\r\nMeetings: $2,800\r\nTravel: $2,000\r\nDirect advocacy supplies (t-shirts, posters, etc): $4,000\r\nTotal: $41,139\r\n\r\n3) Administrative and Fiscal Management: $9,091\r\n\r\nTotal- $100,000\r\n\r\nMore details, including match information, provided upon request. \r\n"
   How do you plan to scale the success of your proposal?: "Free Lots Angeles will scale its work supporting and guiding the City of Los Angeles to enact new policies that will allow people throughout the City to both temporarily activate vacant lots through the right of entry permit and permanently transform them through the availability of better data and improved organization within City government. We feel that this work will provide a valuable strategy to community-oriented groups around the country to pursue. We feel that this systems approach provides an open-source playbook for community groups to lend their support in building a more equitable play environment in LA. \r\n"
 areas_impacted: ''
 partners: 'Partner EINs:, 954487664, 270584116, 954230345, 900599471, 421687057'
@@ -142,8 +140,6 @@ Please list at least one major barrier/challenge you anticipate. What is your st
 Please explain how you will evaluate your work.: '#N/A'
 Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: '#N/A'
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': '#N/A'
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '#N/A'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/free-lots-angeles-transforming-vacant-lots-into-neighborhood-assets/img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg

@@ -20,8 +20,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: KCRW
   Organization(s) name(s): Smart Gals Productions
   Organization(s) mailing address(es): "2444 Riverdale Ave.\r\nLos Angeles, CA 90031"
   Organization(s) website(s): www.smartgalsproductions.org
@@ -74,7 +74,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: KCRW
   'City, State': 'Los Angeles, CA '
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -142,8 +142,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "We will gauge the success of our work primarily by the number of stories successfully collected, the number of local lives documented, whether by ourselves directly or by local youth. Motivating families to invest in their own stories is a key objective.\r\nWe will set a realistic goal for percentage of residents interviewed. To be effective in one year’s time, we will begin with those who are willing to speak with us, or who have already happily shared their stories (for which only the audio has been recorded) with the neighborhood newsletter. We will conduct these interviews on camera. If interviews are not granted we will attempt to photograph them with their homes and create a written summary.\r\nWe will make presentations of neighborhood history and development to the local elementary schools that will teach students observation and documentation skills so they may conduct their own interviews and create family histories to add to the projects’ archival database.\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are a few well-funded organizations such as Storycorps whose mission mirrors our own, and news investigative outlets such as Marketplace (KUSC), which recently produced an in-depth series on gentrification in Los Angeles, but we aim to combine the collection of stories with direct neighborhood empowerment. In doing so, we look to complementary organizations devoted to local activism such as Mothers of East L.A. (MELA) and the Comité de la Esperanza that have successfully activated the Boyle Heights community and contribute meaningfully to the conversations about race, class and gentrification in our communities.\r\nWhile there are many new organizations focused on the Los Angeles River and surrounding neighborhoods, but most are profit-centered design and development companies. Our efforts are entirely people-centered.\r\nOur project is unique because we will portray the \"whole\" by way of focusing on the individual, thus telling a story that is inherently unique. \r\nDue to the modest size and predominant poverty of the neighborhood, development in Elysian Valley may come less like gradual progress and more like a flash flood. Between anxious investors and the recently discovered ‘secret’ plans for Frank Gehry to formalize plans for the river development, it may be too late to slow the tide of gentrification in Elysian Valley. And yet, by learning what is here, what we might lose, and seeing what we’ve already lost, we will create a historical record that honors the purest idea of community.\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "We will partner with writer and historian Hadley Meares (KCET Departures, http://www.kcet.org/user/profile/hmeares) to guide the process of creating an in-depth, comprehensive historical profile of Elysian Valley. Estimated budget for professional research hours: $5,000.\r\nWe will also partner with long-term resident David De La Torre who publishes the neighborhood newsletter, oversees Elysian Valley Neighborhood Watch (EVNW) and has worked tirelessly as an individual to positively influence the changes coming to the community. Estimated budget for connection, interview and planning hours: $10,000.\r\nSmart Gals Artistic Director, Christine Louise Mills, recently completed the feature documentary East L.A. Interchange, which chronicles the cultural history Boyle Heights and gentrification issues facing the community today. In her role as writer, editor and producer, Ms. Mills has made connections with individuals and organizations such as the Roybal Foundation, whom she will approach to bring aboard as members of an advisory board. Positions on the advisory board will be voluntary and not incur direct cost.\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "More funding translates directly into more hours put into the project, multiplying the number of stories told, ensuring a comprehensive portrait of the neighborhood. Less funding would simply mean a smaller sampling of interviews, fewer hours available to catch this community already in flux. We would focus on alternative, affordable storytelling systems such as the process of teaching elementary school children to document their own homes and families. \r\nIs.Was.Will Be. could feasibly be done on a largely volunteer basis, but could not achieve the scope or immediacy necessary to be effective in one year’s time. Residents already feel Elysian Valley is “chasing its tail” in regards to development and having a genuine voice in the process. Full funding would be necessary to get the project up to speed if we hope to accurately document the changes that have already begun.\r\nSmart Gals would seek additional support from the Elysian Valley Neighborhood Council, members, volunteers, and other appropriate venues.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "\t\r\nResearch Hours (Including Hadley Meares): $7,000\r\nArchival Materials procurement and licensing: $10,000\r\nDesign and Hosting for Dedicated, Interactive Website for Project: $3,000\r\nCamera, audio, lighting package & field drives for interviews $10,000\r\nPost Production system, external hard drives to store archival and $10,000\r\nStaff to Interview, Edit & Post stories (including David de la Torre): $50,000\r\nWorkshop Development and Implementation: $10,000\r\n\r\n"
   How do you plan to scale the success of your proposal?: >-
     If we were to receive the entire $100,000, the first year of the project
     would lay the foundation for a fully produced documentary film that could
@@ -208,24 +206,6 @@ Are there other organizations doing similar work (whether complementary or compe
   for professional research hours: $5,000.
    We will also partner with long-term resident David De La Torre who publishes the neighborhood newsletter, oversees Elysian Valley Neighborhood Watch (EVNW) and has worked tirelessly as an individual to positively influence the changes coming to the community. Estimated budget for connection, interview and planning hours: $10,000.
    Smart Gals Artistic Director, Christine Louise Mills, recently completed the feature documentary East L.A. Interchange, which chronicles the cultural history Boyle Heights and gentrification issues facing the community today. In her role as writer, editor and producer, Ms. Mills has made connections with individuals and organizations such as the Roybal Foundation, whom she will approach to bring aboard as members of an advisory board. Positions on the advisory board will be voluntary and not incur direct cost.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  More funding translates directly into more hours put into the project,
-  multiplying the number of stories told, ensuring a comprehensive portrait of
-  the neighborhood. Less funding would simply mean a smaller sampling of
-  interviews, fewer hours available to catch this community already in flux. We
-  would focus on alternative, affordable storytelling systems such as the
-  process of teaching elementary school children to document their own homes and
-  families. 
-   Is.Was.Will Be. could feasibly be done on a largely volunteer basis, but could not achieve the scope or immediacy necessary to be effective in one year’s time. Residents already feel Elysian Valley is “chasing its tail” in regards to development and having a genuine voice in the process. Full funding would be necessary to get the project up to speed if we hope to accurately document the changes that have already begun.
-   Smart Gals would seek additional support from the Elysian Valley Neighborhood Council, members, volunteers, and other appropriate venues.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Research Hours (Including Hadley Meares): $7,000
-   Archival Materials procurement and licensing: $10,000
-   Design and Hosting for Dedicated, Interactive Website for Project: $3,000
-   Camera, audio, lighting package & field drives for interviews $10,000
-   Post Production system, external hard drives to store archival and $10,000
-   Staff to Interview, Edit & Post stories (including David de la Torre): $50,000
-   Workshop Development and Implementation: $10,000
 How do you plan to scale the success of your proposal?: >-
   If we were to receive the entire $100,000, the first year of the project would
   lay the foundation for a fully produced documentary film that could reach a

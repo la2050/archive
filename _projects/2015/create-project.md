@@ -24,8 +24,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': Los Angeles
   Organization(s) mailing address(es): "California State University Northridge (CSUN)\r\n18111 Nordhoff Street\r\nNorthridge, CA, 91330-8309\r\n"
   Organization(s) website(s): 'http://www.csun.edu/'
   Organization(s) twitter handle(s): 'https://twitter.com/csunorthridge'
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '0'
+  'City, State': Los Angeles
   Organization(s) name(s): The University Corporation
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -142,14 +142,6 @@ maker_answers:
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
     Our project partner is the Los Angeles Unifies School District. LAUSD
     teachers will receive $38,000 in stipends.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'The total cost of the project is $100,000.'
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-    LA2050 funds will be used to offset the cost of training for 60–100 teachers
-    in LAUSD. Specifically funds will cover the cost of conference training
-    facilities/food and refreshments ($49,000) and stipends for participants
-    ($38,000). The remainder ($13,000) is the mandatory service fee of 26% that
-    CSUN applies to all off-campus, externally funded projects. This service fee
-    covers the cost of administration, payroll, and facilities.
   How do you plan to scale the success of your proposal?: >-
     As one of the largest teacher preparation universities in California, CSUN
     is well positioned to build upon its success at increasing pupil achievement
@@ -219,14 +211,6 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
   Our project partner is the Los Angeles Unifies School District. LAUSD teachers
   will receive $38,000 in stipends.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'The total cost of the project is $100,000.'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  LA2050 funds will be used to offset the cost of training for 60–100 teachers
-  in LAUSD. Specifically funds will cover the cost of conference training
-  facilities/food and refreshments ($49,000) and stipends for participants
-  ($38,000). The remainder ($13,000) is the mandatory service fee of 26% that
-  CSUN applies to all off-campus, externally funded projects. This service fee
-  covers the cost of administration, payroll, and facilities.
 How do you plan to scale the success of your proposal?: >-
   As one of the largest teacher preparation universities in California, CSUN is
   well positioned to build upon its success at increasing pupil achievement in

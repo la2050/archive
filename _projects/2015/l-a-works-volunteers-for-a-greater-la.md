@@ -21,8 +21,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: volunteer
   Organization(s) name(s): L.A. Works
   Organization(s) mailing address(es): '570 West Avenue 26, Suite 400, Los Angeles, CA 90065'
   Organization(s) website(s): www.LAWorks.com
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: volunteer
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -124,8 +124,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "L.A. Works will evaluate the success of the program through the lens of four important constituents: general volunteers, volunteer leaders, nonprofits, and the clients the nonprofit serves. For the volunteers, volunteer leaders, and nonprofits, L.A. Works will conduct post-project surveys (through a link in the follow-up email to participants) to collect the relevant data in order to track and measure our success in achieving the following desired outcomes. We will ask that the nonprofits provide us with quantitative data on the impact the volunteers have had on their mission and clients served. \r\n\r\nAdditionally, L.A. Works' Director of Programs will conduct qualitative and quantitative baseline, formative and summative research using online questionnaires and one-on-one interviews where necessary throughout the grant cycle."
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "L.A. Works is a proud affiliate of HandsOn, a national network of volunteer centers. HandsOn affiliates in California include HandsOn Bay Area and One OC. Although our programs vary, all of us seek to bring people together to strengthen communities through meaningful volunteer action. \r\n\r\nWhat makes our organization’s approach unique is our heightened expertise in volunteerism. L.A. Works was established in 1991, in the same timeframe that the national HandsOn Network was formed. Our programs have had over two decades to develop, and our Managed Projects program is one of our most solid programs. Its key characteristics include the sustainability of the program model and the impact that the program has in the wide range of issue areas that it serves. By training volunteers to become project leaders, we are giving volunteers the skills to manage their own groups of volunteers. Once they are fully trained, these projects require little oversight from L.A. Works staff. In addition to the training they receive, project leaders and general volunteers are all passionate individuals who care deeply about making a lasting change in the community.\r\n\r\nOur approach is also unique because it puts the changemaking in the hands of the community. Although we provide the training, it’s our community members who bring their unique skills and experiences to the role of Project Leader. It’s people from the community that make Managed Projects the success that it is because they have first hand experience of what the issues are and the best idea of what solutions will work. L.A. Works may be connecting volunteers to the project and volunteers to each other, but it truly is the volunteers who turn the projects into meaningful experiences. \r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "It order to make the volunteer projects most accessible, L.A. Works hopes to be able to grow our Managed Projects such that we are partnering with at least 150 different nonprofit agencies across Greater LA. Each of these organizations will then have at least a monthly (typically bi-monthly) project with approximately 20 volunteers spending approximately 3 hours at the nonprofit site. If we are to use the Independent Sector value of volunteer time in California at $26/hr, this would average to leveraging the grant funds to provide nonprofits in LA with at least $234,000 of volunteer resources each month.\r\n\r\nIn addition, to raise the profile of volunteerism in LA, L.A. Works will utilize a portion of funds from this grant to commission the production of white papers that detail the extent of volunteerism in LA, its contribution to the local economy, and the level of nontraditional volunteering that is taking place. \r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Although this program is something that L.A. Works currently runs, we are at capacity with our existing staff size and roles. To jumpstart this program and significantly increase the number of nonprofit and volunteer leaders involved, we would use the full $100,000 grant; the funds would be used to hire a new staff member to focus on the program’s expansion as well as to conduct research to raise the profile of service in LA. Once the program is expanded, our existing Director of Programs would be able to maintain the relationships with the volunteers and nonprofit organizations moving forward. \r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Project Coordinator salary and benefits: $65,000\r\nResearch and white paper distribution: $12,500\r\nOverhead: $10,000\r\nProject supplies: $5,000\r\nMarketing materials: $5,000\r\nVolunteer recognition: $2,500\r\n"
   How do you plan to scale the success of your proposal?: "Although L.A. Works mobilizes more than 35,000 volunteers in service each year, we only have a full-time staff of nine. We are able to do so much as a grassroots organization thanks to the dedication and generosity of our volunteer leaders. We have more than 90 trained volunteer leaders at our nonprofit partner sites and each quarter we have between 15-20 skilled volunteers assisting with various aspects of our organizational infrastructure – from social media to community connections. \r\n\r\nThe Managed Project program is designed to scale. We have a trained volunteer leader who is assisting with the training of additional leaders and are currently recruiting to identify a volunteer to assist with recruiting additional volunteer leaders from within our own cadre of volunteer participants. Once the volunteer leader is in place and trained on our volunteer database system, there is minimal management time needed to oversee this program on a daily basis.\r\n"
 areas_impacted: ''
 partners: ''
@@ -187,22 +185,6 @@ Are there other organizations doing similar work (whether complementary or compe
   month.
    
    In addition, to raise the profile of volunteerism in LA, L.A. Works will utilize a portion of funds from this grant to commission the production of white papers that detail the extent of volunteerism in LA, its contribution to the local economy, and the level of nontraditional volunteering that is taking place.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Although this program is something that L.A. Works currently runs, we are at
-  capacity with our existing staff size and roles. To jumpstart this program and
-  significantly increase the number of nonprofit and volunteer leaders involved,
-  we would use the full $100,000 grant; the funds would be used to hire a new
-  staff member to focus on the program’s expansion as well as to conduct
-  research to raise the profile of service in LA. Once the program is expanded,
-  our existing Director of Programs would be able to maintain the relationships
-  with the volunteers and nonprofit organizations moving forward.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Project Coordinator salary and benefits: $65,000
-   Research and white paper distribution: $12,500
-   Overhead: $10,000
-   Project supplies: $5,000
-   Marketing materials: $5,000
-   Volunteer recognition: $2,500
 How do you plan to scale the success of your proposal?: >-
   Although L.A. Works mobilizes more than 35,000 volunteers in service each
   year, we only have a full-time staff of nine. We are able to do so much as a

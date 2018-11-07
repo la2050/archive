@@ -21,8 +21,8 @@ project_areas:
   - East LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: via email invitation
   Organization(s) name(s): Union Rescue Mission
   Organization(s) mailing address(es): '545 South San Pedro Street, Los Angeles, CA 90013'
   Organization(s) website(s): www.urm.org
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: via email invitation
   'City, State': 'Los Angeles, California'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -123,21 +123,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "This project will be evaluated as an on-going part of URM’s commitment to measuring and tracking progress and impact. Outcome measurements tracked will include: number of men and women participating in the program; number of men and women completing training; number of men and women placed in jobs; and the number of men and women maintaining jobs for at least 3 to 6 months. Specific measurements include:  90% of those who participate in readiness program will complete training; more than 150 clients will find employment in 2016; the number of employers working within URM’s employment network will increase by 20% in 2016.  \r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Although some other organizations do similar work, URM is one of the only organizations that works solely with men and women experiencing homelessness on Skid Row. Our jobs program is uniquely designed to meet their complex and diverse needs--more than just a job placement agency, we provide a highly customized service, helping each individual address their employment struggles with the goal of finding good, living-wage jobs that can turn into a career, not just a pay check. \r\n\r\nThe guests URM serve face tremendous obstacles when seeking work. Many are held back by complex problems that stem from a lack of education, neglect or poverty. Many have not completed high school—have very limited work experience, and lack the basic communication and job skills necessary to successfully find and keep a job. At least 75% of those we serve have criminal records making the task of finding work almost impossible in the current job climate. Others suffer from addictions and mental illness, making finding and keeping work an almost impossible task. \r\n\r\nOur program provides an individualized approach that focuses on the following three steps: 1) job readiness (getting guests to a place where they can start looking for work – including education completion and basic works skills training programs, occupational and vocational skills assessments, and career counseling), 2) work experience (giving hard-to-place guests opportunities to be mentored and to get work experience to start building skills that can be used to find work out in the community), followed by: 3) job placement (helping to connect guests with jobs and work-place training in the community).  \r\n\r\nOur unique approach helps build the confidence of our guests, including a step-by-step job coaching process for preparing for and finding a job. Activities include occupational and vocational testing to match skills with employment opportunities, access to Employability Competency System to assess academic and cognitive potential of clients, linkage to technical and careers colleges for computer tech and vocational training opportunities, resume writing and/or cover letters as well as communicating with potential employers, access to vocational and occupational training, addressing barriers to employment (such as criminal records), assistance initiating the job search, preparation for and succeeding in an interview, job mentoring from URM corporate volunteers, and securing and keeping employment. \r\n\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "URM works alongside numerous partners as part of this jobs program. They include: Skid Row Redevelopment Corporation – STRIVE, Living Independently Through Employment – LITE, Skid Row Housing Corporation – Avenues to Work Program, Weingart – Workforce and Economic Service Program, Downtown WorkSource Center, Chrysalis, Dress for Success, Job Corp, Vocational Rehab,\r\nHomeboy Industries, Goodwill Industries, Pacoima Skills Center, WorkSource, Culinary Training Schools, LA Mission College. Employer Partners include: Norms, Toyota/Lexus, Porto Bakery, Southern Girl Bakery, Farmers Boys, Buffalo Wild Wing, Vons, and X-Lines Bowling Alley.  If awarded, URM will be the sole recipient of grant funding. \r\n\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    It will cost $484,000 to achieve this jobs program over the coming year.
-    Full costs of this program will be met as a result of on-going fundraising
-    efforts to procure funding from individual donors, corporate and foundation
-    funders, including recent grant funding from US Bancorp. Past grant funding
-    includes Bank of America (a $200,000 Neighborhood Excellence Grant helped
-    launch our jobs program), the Gilead Foundation, and Pfaffinger Foundation. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-    A $100,000 grant from the Grants Challenge will be used to fund two
-    employment assistants (two part-time salaries at $32,500 each = $65,000),
-    partial funding of our lead job developer ($23,500), and increased costs of
-    supplies, materials and tuition as part of our job readiness classes
-    ($11,500). The impact of this funding will be considerable, with grant
-    funding allowing URM to double the number of men and women placed in jobs
-    during the coming 12 months. 
   How do you plan to scale the success of your proposal?: "What began as a simple outreach to hungry and homeless men more than 125 years ago has grown to become the largest and most comprehensive program of restoration for men, women, families and youth experiencing homelessness on the streets of Los Angeles. \r\n\r\nEmerging from the Great Depression as the leading provider of food and shelter in Los Angeles, URM has continued provide bold leadership in its unwavering commitment to serving the most vulnerable in our city. URM was the first organization on Skid Row to open its doors to women, children and families; the first to open a transitional housing program specifically serving single mothers and their children; and the only rescue mission to allow families to stay together in family rooms, as opposed to being separated by age and sex. In this capacity, URM has become the established leader on Skid Row, leading the campaign to end homelessness on the streets of Los Angeles. \r\n\r\nGiven this rich heritage of forging new pathways and expanding to meet the needs of the population we serve, we are confident that the goals outlined in our program will be achieved within the 12 month timeline, doubling the number of men and women currently place jobs by the end of 2016.  \r\n\r\nBuilding our jobs team will allow URM to significantly scale our program, doubling the number of men and women served during the 12 month grant funding period. Given the critical importance that jobs play in restoring the futures of the men and women we serve, we plan to leverage this grant to attract more funding, building our capacity to grow the meet the increasing needs. Over time, we plan to scale the program to serve all guests who turn to us for help, achieving our ultimate goal of Building a Better LA -- by Helping to End Skid Row through Jobs. \r\n"
 areas_impacted: ''
 partners: ''
@@ -200,21 +185,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Program, Weingart – Workforce and Economic Service Program, Downtown
   WorkSource Center, Chrysalis, Dress for Success, Job Corp, Vocational Rehab,
    Homeboy Industries, Goodwill Industries, Pacoima Skills Center, WorkSource, Culinary Training Schools, LA Mission College. Employer Partners include: Norms, Toyota/Lexus, Porto Bakery, Southern Girl Bakery, Farmers Boys, Buffalo Wild Wing, Vons, and X-Lines Bowling Alley. If awarded, URM will be the sole recipient of grant funding.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  It will cost $484,000 to achieve this jobs program over the coming year. Full
-  costs of this program will be met as a result of on-going fundraising efforts
-  to procure funding from individual donors, corporate and foundation funders,
-  including recent grant funding from US Bancorp. Past grant funding includes
-  Bank of America (a $200,000 Neighborhood Excellence Grant helped launch our
-  jobs program), the Gilead Foundation, and Pfaffinger Foundation.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  A $100,000 grant from the Grants Challenge will be used to fund two employment
-  assistants (two part-time salaries at $32,500 each = $65,000), partial funding
-  of our lead job developer ($23,500), and increased costs of supplies,
-  materials and tuition as part of our job readiness classes ($11,500). The
-  impact of this funding will be considerable, with grant funding allowing URM
-  to double the number of men and women placed in jobs during the coming 12
-  months.
 How do you plan to scale the success of your proposal?: >-
   What began as a simple outreach to hungry and homeless men more than 125 years
   ago has grown to become the largest and most comprehensive program of

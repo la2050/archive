@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/dYGBRY6Ol30'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: ' A board member referred us. '
   Organization(s) name(s): CoachArt
   Organization(s) mailing address(es): '3303 Wilshire Blvd., Los Angeles, CA 90010'
   Organization(s) website(s): ' www.coachart.org '
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: ' A board member referred us. '
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -129,8 +129,6 @@ maker_answers:
     sports reduces depression among youth by 8%. 
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Several organizations are tackling different aspects of childhood chronic illnesses. Entities like St. Jude Children’s Research hospital are seeking cures and performing medical treatment for children with chronic illnesses. Whereas Make-A-Wish, on a national level, and Casey Cares in the mid-Atlantic, are providing fun events for a similar population. Starbright World seeks to create an online community of forums for children affected by childhood chronic illness to share their experiences, thus sharing the goal to use technology to reach this population. \r\n\r\nCoachArt is unaware, though, of any organization that is tackling the issue of pairing chronically ill children with coaches for an on-going and transformative arts and athletics experience, nor of an organization that serves the entire family and any siblings of children with chronic illnesses, nor of any organization that is seeking to do so by using technology to algorithmically replace the “matching” process. "
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "CoachArt does not have any planned collaborations to pilot the matching app, but is fortunate to have a Board of Directors that is deeply rooted in the technology sector who will be an invaluable guide during this process. Our disruptive and entrepreneurial board makes CoachArt nearly uniquely positioned to transform match-based volunteerism. The board’s Tech Team will hand-pick the product manager, engineers and developers from their connections. \r\n\r\nThe board Tech Team includes: \r\nCoachArt co-founder Zander Lurie (Senior VP media, GoPro and Interim Executive Chairman, SurveyMonkey)  \r\nKelly Merryman (VP of Content Partnerships, YouTube) \r\nKay Madati (EVP and Chief Digital Officer, BET)\r\nPete Distad (VP of product marketing, Apple)\r\nSean Moriarty (CEO, Demand Media) \r\nWalter Delph (Partner and Managing Director, BCG Digital Ventures)"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'It will cost $92,760.00 to create the app.  '
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "CoachArt’s most competitive budget came from app  app developer Kinvey, who provided an approximate line item cost breakdown. \r\n\r\nInfrastructure: $18,000.00 \r\nUser Messaging: $356.00 \r\nStart page: $356.00 \r\nApp usage tracking and performance management: $3,560.00 \r\nData storage: $2,848.00 \r\nApp security and distribution: $1,068.00 \r\nUser experience: $2,136.00 \r\nLogin/User Management: $5,340.00 \r\nSocial Media (Facebook): $2,492.00 \r\nLocation mapping and integration: $1,068.00 \r\nAccess to internal enterprise: $2,136.00 \r\nAccess to Cloud data from a 3rd-party SaaS: $712.00 \r\nNumber of pages: $12,816.00 \r\nBackend: $2,136.00 \r\nData storage/ File store: $712.00 \r\nCustom Trigger Business Logic: $2,492.00 \r\nLifecycle Management: $712.00 \r\nAccess to internal enterprise data: $28,480.00 \r\nAccess to Cloud data from a 3rd-party SaaS: $5,340.00 \r\nTotal: $92,760.00 \r\n"
   How do you plan to scale the success of your proposal?: >-
     The indicators to track progress will be: average time needed for a match,
     number of students matched, and number of cities represented. We will track
@@ -212,31 +210,6 @@ Are there other organizations doing similar work (whether complementary or compe
    Pete Distad (VP of product marketing, Apple)
    Sean Moriarty (CEO, Demand Media) 
    Walter Delph (Partner and Managing Director, BCG Digital Ventures)
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': 'It will cost $92,760.00 to create the app.'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  CoachArt’s most competitive budget came from app app developer Kinvey, who
-  provided an approximate line item cost breakdown. 
-   
-   Infrastructure: $18,000.00 
-   User Messaging: $356.00 
-   Start page: $356.00 
-   App usage tracking and performance management: $3,560.00 
-   Data storage: $2,848.00 
-   App security and distribution: $1,068.00 
-   User experience: $2,136.00 
-   Login/User Management: $5,340.00 
-   Social Media (Facebook): $2,492.00 
-   Location mapping and integration: $1,068.00 
-   Access to internal enterprise: $2,136.00 
-   Access to Cloud data from a 3rd-party SaaS: $712.00 
-   Number of pages: $12,816.00 
-   Backend: $2,136.00 
-   Data storage/ File store: $712.00 
-   Custom Trigger Business Logic: $2,492.00 
-   Lifecycle Management: $712.00 
-   Access to internal enterprise data: $28,480.00 
-   Access to Cloud data from a 3rd-party SaaS: $5,340.00 
-   Total: $92,760.00
 How do you plan to scale the success of your proposal?: >-
   The indicators to track progress will be: average time needed for a match,
   number of students matched, and number of cities represented. We will track

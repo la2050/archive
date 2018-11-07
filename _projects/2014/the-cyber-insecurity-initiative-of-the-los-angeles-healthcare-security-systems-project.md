@@ -22,8 +22,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '0'
-  city_state: 'Los Angeles, CA'
   org_website: 'http://epicenterla.org/'
   org_twitter: EPICenter_LA
   org_facebook: 'https://www.facebook.com/pages/The-Epicenter/220315941470120'
@@ -105,7 +105,7 @@ maker_answers:
   org_name: The Center of Medical Multimedia Education and Technology (COMMET)
   metrics_live_healthcare: '1'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'Los Angeles, CA'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '0'
@@ -139,19 +139,6 @@ maker_answers:
     are being addressed, no organizations are currently seeking to address this
     issue holistically across the healthcare sector. We need a framework for
     best practices, and this has to come from the private sector.
-  cost: >-
-    The total anticipated cost of the initiative is approximately $250,000 over
-    three years. This figure includes an assumption that our data collection
-    will have very robust participation from prospective respondents. COMMET
-    will aggressively seek funding from other sources to fund the initiative
-    beyond the first year. However, the first-year funding provided by LA2050 is
-    essential to get the project started. Also, as an alternative, the data
-    collected during the first year with LA2050 funding can still be extremely
-    valuable even if it the number of respondents is lower than desired. In
-    other words, the project would still be a success if follow-on funding were
-    not secured. The estimate of $250,000 is based on our ideal endstate, but we
-    can still achieve a very worthwhile goal with one year of funding.
-  budget: "Principal Investigator – Peter Katona, MD – 10% time, $17,000\r\nProject Manager(s) – Julie Walmsley – 50% time, $40,000\r\nSurveyors (4) – to be hired - $20,000 ($5,000 each)\r\nStatistical Consultant – to be hired –  $5,000\r\nIT Support – to be hired – $8,000\r\nPrinting, materials and supplies, etc. – $5,000\r\nMISC. – $5,000 "
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '0'

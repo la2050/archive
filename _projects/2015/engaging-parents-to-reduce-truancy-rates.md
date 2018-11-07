@@ -21,8 +21,8 @@ project_areas:
   - South LA
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): "500 Lucas Ave. \r\nLos Angeles, CA 90017"
   Organization(s) website(s): www.paralosninos.org
   Organization(s) twitter handle(s): www.twitter.com/paralosninosorg
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Para Los Niños
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -133,8 +133,6 @@ maker_answers:
     parents will work together to address the root causes of truancy and support
     families in need.
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': Not applicable
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '$100,000 '
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$45,000 (annual salary including benefits of Parent Engagement Coordinator to facilitate collaborative meetings between school staff and parents and conduct outreach to parents)\r\n\r\n$15,000 (indirect costs)\r\n\r\n$15,000 (equipment, rent, utilities) \r\n\r\n$15,000 Meeting supplies including food and child care (child care will allow us to provide meetings beyond regular school hours)\r\n\r\n$5,000 Printing and translation costs for parent education materials \r\n\r\n$5,000 Stipends for parent leaders (stipends will include training hours and peer group facilitation hours)"
   How do you plan to scale the success of your proposal?: "This proposal will help us build a critical foundation to reducing truancy rates across all of our education sites. \r\nBeyond our Para Los Ninos education sites, best practices of our approach can be shared with other schools in Los Angeles.\r\n\r\nBecause Attorney General Kamala D. Harris has made truancy a priority issue since her time as San Francisco’s District Attorney, and the mandate to address pupil engagement is a key state priority that must be included in all Local Control Accountability Plans (LCAPs), we can share our best practices of this approach with schools outside of our Para Los Ninos education sites. The parent engagement and leadership networks that will be developed throughout the neighborhoods where our families live will facilitate broad communication of success stories that can be accessed at other schools in those communities. "
 areas_impacted: ''
 partners: ''
@@ -182,21 +180,6 @@ Are there other organizations doing similar work (whether complementary or compe
   parents will work together to address the root causes of truancy and support
   families in need.
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': Not applicable
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': '100000'
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  $45,000 (annual salary including benefits of Parent Engagement Coordinator to
-  facilitate collaborative meetings between school staff and parents and conduct
-  outreach to parents)
-   
-   $15,000 (indirect costs)
-   
-   $15,000 (equipment, rent, utilities) 
-   
-   $15,000 Meeting supplies including food and child care (child care will allow us to provide meetings beyond regular school hours)
-   
-   $5,000 Printing and translation costs for parent education materials 
-   
-   $5,000 Stipends for parent leaders (stipends will include training hours and peer group facilitation hours)
 How do you plan to scale the success of your proposal?: >-
   This proposal will help us build a critical foundation to reducing truancy
   rates across all of our education sites. 

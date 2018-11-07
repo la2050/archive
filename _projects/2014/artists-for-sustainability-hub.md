@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_researchgrant: '1'
   metrics_create_employment: '1'
-  city_state: 'Venice, CA '
   org_website: www.earthprotect.com
   org_twitter: 'https://twitter.com/EarthProtect1'
   org_facebook: www.facebook.com/earthprotect
@@ -81,7 +81,7 @@ maker_answers:
   org_name: 'Earth Protect, Inc. '
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '1'
+  city_state: 'Venice, CA '
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '0'
@@ -124,17 +124,6 @@ maker_answers:
     working on sustainability and artists as collaborators not competitors and
     we specifically have seen information that validates that LA has no such hub
     as we are proposing. 
-  cost: >-
-    We are comfortable that the $100,000 will be adequate to establish the hub
-    and promote it to gain a base number of artists and to do the outreach to
-    create visibility that results in creative projects on sustainability. We
-    anticipate that we may need grants or sponsors for future iterations to
-    improve the site and grow it beyond the launch and early development stage.
-    We have grant expertise and an active sponsorship program. We also have
-    interns and coop students from Drexel Film School, University of Denver and
-    other institutions. The students can be a good labor force to locate the
-    artists, do outreach and marketing and load content onto the hub web site. 
-  budget: "Core team members, Managing Director, Creative Director, Web Development planning and coordination of project $20,000 \r\nWeb Design = $25,000\r\nOutreach to artists = $15,000\r\nWeb site content development/management = $15,000\r\nPublic Relations for Site Launch and business development $15,000 \r\nLA Launch event $4000 \r\n$6,000 student interns, indirect and miscellaneous \r\n\r\n\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: 'Los Angeles, CA'
   org_website: www.nalip.org
   org_twitter: www.twitter.com/NALIP_org
   org_facebook: www.facebook.com/nalip
@@ -80,7 +80,7 @@ maker_answers:
   org_name: 'The National Association of Latino Independent Producers, NALIP'
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: 'Los Angeles, CA'
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '1'
@@ -105,8 +105,6 @@ maker_answers:
   achievable_goal: "NALIP has had a solid track record of developing, executing and evaluating empowerment programs. For the last fifteen years, NALIP has had success holding fourteen National Conferences, plus six other National Initiatives: a Latino Writer's Lab™, a Latino Producers Academy™ and a published/on-line Latino Media Resource Guide™, our\"Doing your Doc: Diverse Visions, Regional Voices\" documentary development workshops plus the Latino Media Market™ held during our National Conference and the Latino Artist Mentoring Program. We are now fundraising to support and expand these programs in 2014, plus solidify the infrastructure of our organization to better serve our community. NALIP has the plan, infrastructure, partnerships to successfully carry out Digitize LA. We are currently in discussion with our proposed partners on how the project could be expanded beyond the initial year and become a permanent development track for NALIP.\r\n"
   major_challenges: "1. Funds to carry out project. NALIP is currently writing other grants and fundraising from our partners.\r\n\r\n2. Infrastructure. "
   competition: "Sundance and Film Independent carry out similar work to support independent filmmakers in the USA. We collaborate with both organizations in many of our programs including the NALIP Media Summit, Latino Producers Academy, Latino Writers Lab and Doing Your Doc. For the last ten to fifteen years, we have shared our mentors and resources and access to our development programs. Since its inception, NALIP has focused on Latino content creators. \r\n"
-  cost: '$100,000.00'
-  budget: " TOTAL PRODUCTION STAFF \t54,088.05\r\n\t\r\n MENTORS   \t\r\n Lead mentor  \t7,000.00\r\n Mentors / instructors \t3,000.00\r\n Post-production supervisor \t750.00\r\n TOTAL MENTORS  \t10,750.00\r\n\t\r\n TRAVEL \t\r\n Mentors – Southwest  (ALLOW)  2 @ 350 \t700.00\r\n Mentors – Northwest  (ALLOW)  1  @ 450 \t450.00\r\n Mentors – Northeast  (ALLOW) 2 @ 500 \t1,000.00\r\n TOTAL TRAVEL  \t2,150.00\r\n\t\r\n LODGING  \t\r\n Hotel:  10 room nights: 91 @ night + 15.20 tax = 105 \t1,050.00\r\n TOTAL LODGING  \t1,050.00\r\n\t\r\n MEALS  \t\r\n Catering and snacks \t2,500.00\r\n Screening \t1,500.00\r\n TOTAL MEALS  \t4,000.00\r\n\t\r\n TRANSPORTATION  \t\r\n Shuttles, car rentals, local travel \t\r\n Shuttle/taxi service (allow):  10 trips @ 30   \t300.00\r\n Parking (allow)  \t711.95\r\n Gas (allow)  \t1,200.00\r\n TOTAL TRANSPORTATION  \t2,211.95\r\n\t\r\n PRODUCTION EQUIPMENT: EDITING   \t\r\n Editing lab (4 stations) rental & other edit room equipment/supplies \t4,000.00\r\n Hard drives \t1,500.00\r\n Misc cables, Media, etc  \t500.00\r\n TOTAL PRODUCTION EQUIPMENT  \t6,000.00\r\n\t\r\n EPK & LPA VIDEO  \t\r\n Complete lighting package rental \t500.00\r\n Camera package rental  \t1,000.00\r\n TOTAL EPK & LPA VIDEO \t1,500.00\r\n\t\r\n MISCELLANEOUS  \t\r\n Office rental  \t3,000.00\r\n Office/program supplies  \t1,000.00\r\n Postage and shipping: shipping to location, mentors & Fellows, reports   \t750.00\r\n Phones \t700.00\r\n Location phones / internet access  \t500.00\r\n Printing & reproduction: Curriculum materials, badges and binder printing for all Fellows, mentors, staff; electronic printing of resources to jump drive \t1,000.00\r\n A/V equipment rental   \t500.00\r\n Other misc materials   \t300.00\r\n Equipment loss or damage \t1,000.00\r\n TOTAL MISCELLANEOUS  \t8,750.00\r\n\t\r\n INSURANCE  \t\r\n Insurance (allow): liability, equipment, car rental  \t2,500.00\r\n TOTAL INSURANCE  \t2,500.00\r\n\t\r\n LPA POST-LPA WORK  \t\r\n Evaluation: mentors to evaluate program:  Evaluation of process from guidelines to complete digital media \t2,000.00\r\n NationBuilder Website: Digital Webpages \t1,000.00\r\n LAMP (Latino Artist Mentoring program): support for filmmakers to continue woking with mentors \t4,000.00\r\n TOTAL LPA POST-ACADEMY WORK  \t7,000.00\r\n\t\r\n G"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '0'

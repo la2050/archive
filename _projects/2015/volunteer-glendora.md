@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - San Gabriel Valley
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: email
   Organization(s) name(s): City of Glendora
   Organization(s) mailing address(es): '116 E. Foothill Blvd., Glendora, CA 91741'
   Organization(s) website(s): www.cityofglendora.org
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: email
   'City, State': 'Glendora, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -144,10 +144,6 @@ maker_answers:
     At this time, the City will be the primary entity working on this project.
     The Glendora Trail Volunteers will be working closely with the City, but
     will not receive any direct funds.  
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    It will cost approximately $50,000 to implement this project in its
-    entirety.  We do not anticipate this project going over $100,000.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "It will cost approximately $50,000 to implement this project in its entirety.\r\nDetailed budget for this project is as follows:\r\n•\tTrailer \t\t\t      $22,000\r\n•\tTools\t\t\t      $10,000\r\n•\tTrailer Decal Wrap       $  3,000\r\n•\tMarketing\t\t       $  5,000\r\n•\tPromotional Material\t$10,000\r\n                                    Total    $ 50,000\r\n"
   How do you plan to scale the success of your proposal?: >-
     The initial purchase of the mobile trailer and marketing campaign will kick
     start the program.  We will have the trailer at all our Special Events. 
@@ -201,18 +197,6 @@ Are there other organizations doing similar work (whether complementary or compe
   At this time, the City will be the primary entity working on this project. The
   Glendora Trail Volunteers will be working closely with the City, but will not
   receive any direct funds.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  It will cost approximately $50,000 to implement this project in its entirety.
-  We do not anticipate this project going over $100,000.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  It will cost approximately $50,000 to implement this project in its entirety.
-   Detailed budget for this project is as follows:
-   • Trailer  $22,000
-   • Tools  $10,000
-   • Trailer Decal Wrap $ 3,000
-   • Marketing  $ 5,000
-   • Promotional Material $10,000
-    Total $ 50,000
 How do you plan to scale the success of your proposal?: >-
   The initial purchase of the mobile trailer and marketing campaign will kick
   start the program. We will have the trailer at all our Special Events.

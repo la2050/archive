@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: Los Angeles
   org_website: nomadlosangeles.com
   org_twitter: nomadlosangeles
   org_facebook: nomadla
@@ -86,7 +86,7 @@ maker_answers:
   org_name: Nomadlosangeles
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: Los Angeles
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '1'
@@ -116,8 +116,6 @@ maker_answers:
     community and facilities while allowing members the space needed to do work.
     This is also our vision but the focus is on community enrichment not
     profit. 
-  cost: "The success of the project is based in a sustainable business model which requires the initial infusion of capital and if additional costs are incurred the project is not sustainable. Part of the development and sustainable plan is an artist membership for those professional artists needing the facilities. They are also required to contribute their expertise to the project which add value and offset cost. \r\nWe will be able to host our own fundraising events as well as activate the community gallery as a means of creating income for new independent artists as well as help support the space itself."
-  budget: "Human capital: $70,000 (program development, implementation, systems and program management, facility maintenance, marketing and promotion)\r\n\r\nSpecifically: staff to run evening and weekend workshops\r\nwork exchang intern programs.\r\n\r\nEquipment: $12,000 maintenence and upkeep of silkscreen presses,\r\n2 antique presses, exposure unit, inks, recycled papers and materials and supplies.\r\n\r\nUtilities: $18,000"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

@@ -16,8 +16,8 @@ project_image: >-
 project_areas:
   - South LA
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: online
   Organization(s) name(s): From Lot to Spot
   Organization(s) mailing address(es): '2003 e. 1st Street '
   Organization(s) website(s): fromlottospot.org
@@ -64,7 +64,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: online
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -130,8 +130,6 @@ maker_answers:
     greenspace projects are as important in order to create healthy,
     sustainable, livable communities for all. 
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "The project is a collaboration between FLTS, students at Jordan High School in Watts, Office of Councilman Joe Buscaino and the City of Los Angeles Bureau of Street Services. \r\nThis collaborative project will be a model project to be implemented by other organizations and residents who wish to do their part to help in water conservation and climate change.  Students from Jordan High School will work collaboratively with From Lot to Spot to actively engage the community in design workshops that will demonstrate the the importance of the project and how they can implement it in their own homes or parkways.  The Bureau of Street Services will work with FLTS to approve and provide guidance in adhering to their “Residential Parkway Landscape” Program to ensure we are adhering to the most environmental standards.   FLTS has completed several rain garden projects in the last two years and this project will be a continuation of our work to create beautiful and sustainable rain gardens in communities that lack greenspace.\r\n\r\nDavid Starr Jordan High School students will receive a stipend between $240-$400 for their work in design workshops and community outreach. \r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Total project costs, including construction , permitting, community engagement and project management is estimated at $75,459\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Watts Rain Gardens\t\t\t\r\nItem\tQuantity\tUnit Cost\tTotal\r\nSoftscape\t\t\t\r\nOutdoor Trees\t \t\t\r\nCoast Live Oak- 24\" box\t15\t$145.00\t$2,175.00\r\nCa Syc - 24\" box\t10\t$155.00\t$1,550.00\r\n\t\t\t\r\nParkways\t\t\t\r\nShrubs/Groundcover\t\t\t\r\nDeer Grass (Muhlenbergia rigens)\t60\t$3.30 \t$198.00\r\nSpike Rush (Juncus acutus)\t20\t$4.40 \t$88.00\r\nRosmarinus officinalis (Rosemary)1. GAL\t20\t$3.25 \t$65.00\r\nRosemary Upright\t20\t$7.99 \t$159.80\r\nRosemary Trailing\t20\t$7.99 \t$159.80\r\nLavandula (Lavender)1 GAL.\t20\t$3.50 \t$70.00\r\nLavandula (Lavender)1 GAL.\t20\t$5.99 \t$119.80\r\nSalvia Apiana (White Sage)\t50\t$4.25 \t$212.50\r\nSalvia Leucophylla (Purple Sage) – 1 gal\t50\t$7.99 \t$399.50\r\nSanta Cruz Island Buckwheat\t50\t$3.25 \t$162.50\r\nCommon Yarrow (Achillea Millefollum)\t20\t$3.99 \t$79.80\r\nBlue Fescue\t125\t$3.50 \t$437.50\r\nTBD\t20\t$3.50\t$70.00\r\nTBD\t20\t$3.25\t$65.00\r\ntotal\t515\t\t$6,012.20\r\n\t\t\t\r\nMisc.\t \t\t\r\nTree straps\t100\t$4.00\t$400.00\r\nTree stakes (2\" x 10' - Ewing)\t50\t$10.00\t$500.00\r\nHardscape\t\t\t\r\nSoil\tLS\t$845.00\t$845.00\r\nLarge River Rocks (per lbs.)\t755\t$0.45\t$339.75\r\nSmall river"
   How do you plan to scale the success of your proposal?: By replicating this project in similar communities!
 areas_impacted: ''
 partners: ''
@@ -186,42 +184,6 @@ Are there other organizations doing similar work (whether complementary or compe
    This collaborative project will be a model project to be implemented by other organizations and residents who wish to do their part to help in water conservation and climate change. Students from Jordan High School will work collaboratively with From Lot to Spot to actively engage the community in design workshops that will demonstrate the the importance of the project and how they can implement it in their own homes or parkways. The Bureau of Street Services will work with FLTS to approve and provide guidance in adhering to their “Residential Parkway Landscape” Program to ensure we are adhering to the most environmental standards. FLTS has completed several rain garden projects in the last two years and this project will be a continuation of our work to create beautiful and sustainable rain gardens in communities that lack greenspace.
    
    David Starr Jordan High School students will receive a stipend between $240-$400 for their work in design workshops and community outreach.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Total project costs, including construction , permitting, community engagement
-  and project management is estimated at $75,459
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Watts Rain Gardens 
-   Item Quantity Unit Cost Total
-   Softscape 
-   Outdoor Trees 
-   Coast Live Oak- 24" box 15 $145.00 $2,175.00
-   Ca Syc - 24" box 10 $155.00 $1,550.00
-   
-   Parkways 
-   Shrubs/Groundcover 
-   Deer Grass (Muhlenbergia rigens) 60 $3.30 $198.00
-   Spike Rush (Juncus acutus) 20 $4.40 $88.00
-   Rosmarinus officinalis (Rosemary)1. GAL 20 $3.25 $65.00
-   Rosemary Upright 20 $7.99 $159.80
-   Rosemary Trailing 20 $7.99 $159.80
-   Lavandula (Lavender)1 GAL. 20 $3.50 $70.00
-   Lavandula (Lavender)1 GAL. 20 $5.99 $119.80
-   Salvia Apiana (White Sage) 50 $4.25 $212.50
-   Salvia Leucophylla (Purple Sage) – 1 gal 50 $7.99 $399.50
-   Santa Cruz Island Buckwheat 50 $3.25 $162.50
-   Common Yarrow (Achillea Millefollum) 20 $3.99 $79.80
-   Blue Fescue 125 $3.50 $437.50
-   TBD 20 $3.50 $70.00
-   TBD 20 $3.25 $65.00
-   total 515 $6,012.20
-   
-   Misc. 
-   Tree straps 100 $4.00 $400.00
-   Tree stakes (2" x 10' - Ewing) 50 $10.00 $500.00
-   Hardscape 
-   Soil LS $845.00 $845.00
-   Large River Rocks (per lbs.) 755 $0.45 $339.75
-   Small river
 How do you plan to scale the success of your proposal?: By replicating this project in similar communities!
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/watts-rain-gardens/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24100%252Fdisplay%252FIMG_4644.JPG=c570x385.jpg

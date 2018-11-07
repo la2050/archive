@@ -18,8 +18,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: E-mail about challenge
   Organization(s) name(s): Relational Medicine Foundation
   Organization(s) mailing address(es): "835 Nowita Place\r\nVenice, CA  90291\r\n"
   Organization(s) website(s): 'http://relationalmedicinefoundation.org'
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: E-mail about challenge
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
   How do you plan to use these resources to make change? Other: '0'
@@ -152,8 +152,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Dr. Federica Raia, a complexity scientist and assistant professor in the UCLA Graduate School of Education and Information Studies and the UCLA David Geffen School of Medicine, has extensive experience evaluating the impact of ethnographic work and the analysis of recorded medical encounters following patients with their doctor encounters for two years, and she has provided a comprehensive framework for understanding the practice of the patient-doctor collaboration in high-tech modern medicine. With Dr. Mario Deng, Professor Raia has established the Relational Medicine Foundation.\r\nTo measure community level impact of using the arts to aid patients in their journey of healing and to educate patients about preventative measures, we will work with the UCLA Fielding School of Public Health to develop questionnaires further distributed to the community electronically.  The questionnaires could be distributed to community members through an app developed to display the patients’ work."
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Organizations conducting similar research of humanism in medicine, such as the Arnold P. Gold Foundation, also focus on the patient perspective and the patient-practitioner relationship. The Myocarditis Foundation, established by a previous patient of Dr. Deng’s, is dedicated to providing accurate and up-to-date information to medical professionals, patients and their families, and to the scientific advancement of both the diagnosis and treatment of the disease.  The uniqueness of the Relational Medicine Foundation and its approach of the Relational Medicine Theory lies in the way of practicing medicine that maintains the basic human right of personhood, not only for the patients, but – in order to really help their patients- for health care professionals as well. It doesn’t divide the person from the body. It integrates personhood, body, science, and technology. In this framework, doctors interact with patients in a different way. They don’t separate medical talk and [personal] talk. Everything is intertwined because the doctors grow particularly attuned to the need of this integration and understand that a patient has to own the situation – it is their heart, their life. If they do not have a sense of ownership, they do not survive. \r\nRelational Medicine also focuses on the relational web that binds physical things, the machines and persons together into a meaningful whole, and reconstituting the patient’s identity. The theory is that viewing the patient from the biomedical perspective is not sufficient. Dr. Raia and Dr. Deng have analyzed the recorded patient-doctor discourse in their consecutive encounters over a period of up to two years, an expert advanced heart failure cardiologist creates a meaningful path together with the patient to operate what we call a transformation. In the medical encounter, transformation manifests, for example, in emergence of the patient-doctor dyad becoming of fundamental importance to both patient and doctor and continually protected by the doctor. Together, patient and doctor create a safe space where in all that has broken down in this specific patient’s life, the role of the health care professional is to help this person start making sense of her/his life, and start coping with things in the world in her/his own way as the world starts becoming familiar again. In this process, a transforming identity becomes recognizable to the patient. Integrating this new way of being is very important in relational medicine. \r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "The Relational Medicine Foundation evolved as a multistakeholder project in New York City (since 2009) and Los Angeles (since 2011).  It is this opportunity that our foundation is addressing and for which we request funding to: 1) support the Foundation, 2) endow a UCLA-Fellowship “Humanism in Advanced Heart Failure”, 3) endow a Chair in “Humanism in High-Tech Modern Medicine”, and 4) endow the RelationalAct Research and Education (RARE) Program/Center/Institute at UCLA.  The Relational Medicine Foundation evolved as a multistakeholder project in New York City (since 2009) and Los Angeles (since 2011).  It is this opportunity that our foundation is addressing and for which we request funding to: 1) support the Foundation, 2) endow a UCLA-Fellowship “Humanism in Advanced Heart Failure”, 3) endow a Chair in “Humanism in High-Tech Modern Medicine”, and 4) endow the RelationalAct Research and Education (RARE) Program/Center/Institute at UCLA.  In Dr. Raia’s research, she has uncovered that you do not just repeat what you have heard or what has been taught to you, you make it your own. And as you own it, it changes, it is yours.  Our goal is to support the Relational Medicine Theory concept of owning the experience through this vehicle of the patient art therapy project that we have been propelling forward. It has been thus far a collaboration between UCLA student volunteers, Marymount High School, the Santa Monica Dept. of Art, UCLA students, UCLA professors, and UCLA physician-scientists.  Since our program relies on student-based volunteer work, a total of $10,000 will be necessary for our collaborations per institution with various institutions.  Funding will also be used in order to develop predominantly qualitative metrics to measure our program success on both a patient and community level using Dr. Raia’s research methods.  Additionally, funding could be used for collaborations with the UCLA Fielding School of Public Health.\r\n\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "a.\t$100.000 will most likely be close to sufficient to cover the costs of the goals we have established for the next 12 months.  In order to raise awareness in the media and in the community about the arts therapy project and the Foundation, we may require additional funding (please see the example article: http://www.wsj.com/articles/SB10001424052702303795304576452140505285416.) Many additional costs would be covered by future UCLA Spark Crowdsourcing campaigns. Through a previous UCLA Spark Crowdsourcing campaign, we were able to gain support from our immediate community and raise $10,000 (please see: https://spark.ucla.edu/project/534704cb0920657409de158d.) Additional costs may also be covered through private donations. If the relationship and communication between healthcare providers and patients could be improved by the use of the principles of Relational Medicine Theory, 1) patient preferences would be taken more seriously and satisfaction with health care providers could be greatly enhanced 2) higher quality care with improved outcomes would be delivered to the entire patient population 3) the reduction in medical errors and the subsequent human and monetary benefits could be staggering and, thus, 4) cost-effectiveness in the entire health system would be enhanced. Current strategies are falling short of reaching these goals and it is this opportunity that our foundation, as a catalyst, is addressing and for which we request support.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "a.\tThe first step we would like to take in the Relational Medicine Foundation project in incorporating use of the arts as a healing tool in medicine is in the development of the arts therapy program. Because the program will rely on a primarily volunteer basis, as already discussed with UCLA Volunteer Services, consisting of patient volunteers, students, and a few paid licensed art therapists, we request an additional $50,000 to kickstart the program.  $8,000 of this amount will cover the art supplies necessary (sketchbooks, canvases, paints, easels etc.).  $12,000 will be allotted to compensating the art therapists.  $5,000 will be necessary to compensate the administrative assistants we have been in contact with at the UCLA Heart & Lung Transplant Center.  $5,000 will be necessary for the development of behavioral incentives for patients, with the help of the UCLA East-West Centers and the Mindful Awareness Center, also in close collaboration with the Hammer museum. In order to begin to transform the relationship between a healthcare professional and patient into a patient-doctor collaboration, using art as a tool of patient empowerment and mindfulness, we aim to raise awareness in the media about our project through a 3 to 4 minute documentary, utilizing $10,000 in expenses.  $5,000 will be used to fund a Social Media expert to further expedite the success of the project and discover further mechanisms for funding. Additionally, $10,000 will be used to set up a performance at UCLA raising awareness for the project’s cause (please see: http://dailybruin.com/2012/05/03/patientphysician_dynamic_get_dramatic_treatment_in_emotion_theater_project_performances/ .)  Relational Medicine Consortiums around the City of Los Angeles can integrate these performances, as well as research, into community outreach about utilizing a new approach in high tech modern medicine. $30,000 total would be allotted to three consortiums in the upcoming year.  An additional $10,000 will be necessary to develop a mechanism for stimulating discussion about the project on the Relational Medicine website and to outreach to perspectives of patients and medical leaders worldwide.  "
   How do you plan to scale the success of your proposal?: >-
     Findings from a study released in 2010 by the Society of Actuaries indicate
     that measurable medical errors cost the US economy $19.5 billion in 2008,
@@ -288,57 +286,6 @@ Are there other organizations doing similar work (whether complementary or compe
   both a patient and community level using Dr. Raia’s research methods.
   Additionally, funding could be used for collaborations with the UCLA Fielding
   School of Public Health.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  a. $100.000 will most likely be close to sufficient to cover the costs of the
-  goals we have established for the next 12 months. In order to raise awareness
-  in the media and in the community about the arts therapy project and the
-  Foundation, we may require additional funding (please see the example article:
-  http://www.wsj.com/articles/SB10001424052702303795304576452140505285416.) Many
-  additional costs would be covered by future UCLA Spark Crowdsourcing
-  campaigns. Through a previous UCLA Spark Crowdsourcing campaign, we were able
-  to gain support from our immediate community and raise $10,000 (please see:
-  https://spark.ucla.edu/project/534704cb0920657409de158d.) Additional costs may
-  also be covered through private donations. If the relationship and
-  communication between healthcare providers and patients could be improved by
-  the use of the principles of Relational Medicine Theory, 1) patient
-  preferences would be taken more seriously and satisfaction with health care
-  providers could be greatly enhanced 2) higher quality care with improved
-  outcomes would be delivered to the entire patient population 3) the reduction
-  in medical errors and the subsequent human and monetary benefits could be
-  staggering and, thus, 4) cost-effectiveness in the entire health system would
-  be enhanced. Current strategies are falling short of reaching these goals and
-  it is this opportunity that our foundation, as a catalyst, is addressing and
-  for which we request support.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  a. The first step we would like to take in the Relational Medicine Foundation
-  project in incorporating use of the arts as a healing tool in medicine is in
-  the development of the arts therapy program. Because the program will rely on
-  a primarily volunteer basis, as already discussed with UCLA Volunteer
-  Services, consisting of patient volunteers, students, and a few paid licensed
-  art therapists, we request an additional $50,000 to kickstart the program.
-  $8,000 of this amount will cover the art supplies necessary (sketchbooks,
-  canvases, paints, easels etc.). $12,000 will be allotted to compensating the
-  art therapists. $5,000 will be necessary to compensate the administrative
-  assistants we have been in contact with at the UCLA Heart & Lung Transplant
-  Center. $5,000 will be necessary for the development of behavioral incentives
-  for patients, with the help of the UCLA East-West Centers and the Mindful
-  Awareness Center, also in close collaboration with the Hammer museum. In order
-  to begin to transform the relationship between a healthcare professional and
-  patient into a patient-doctor collaboration, using art as a tool of patient
-  empowerment and mindfulness, we aim to raise awareness in the media about our
-  project through a 3 to 4 minute documentary, utilizing $10,000 in expenses.
-  $5,000 will be used to fund a Social Media expert to further expedite the
-  success of the project and discover further mechanisms for funding.
-  Additionally, $10,000 will be used to set up a performance at UCLA raising
-  awareness for the project’s cause (please see:
-  http://dailybruin.com/2012/05/03/patientphysician_dynamic_get_dramatic_treatment_in_emotion_theater_project_performances/
-  .) Relational Medicine Consortiums around the City of Los Angeles can
-  integrate these performances, as well as research, into community outreach
-  about utilizing a new approach in high tech modern medicine. $30,000 total
-  would be allotted to three consortiums in the upcoming year. An additional
-  $10,000 will be necessary to develop a mechanism for stimulating discussion
-  about the project on the Relational Medicine website and to outreach to
-  perspectives of patients and medical leaders worldwide.
 How do you plan to scale the success of your proposal?: >-
   Findings from a study released in 2010 by the Society of Actuaries indicate
   that measurable medical errors cost the US economy $19.5 billion in 2008, such

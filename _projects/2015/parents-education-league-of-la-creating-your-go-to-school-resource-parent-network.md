@@ -19,8 +19,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): "Mailing address:\r\n12021 Wilshire Blvd #460, Los Angeles, CA 90025\r\n\r\nOffice address:\r\n1100 Glendon Ave, 17th floor, Los Angeles, CA 90024"
   Organization(s) website(s): www.parentseducationleague.org
   Organization(s) twitter handle(s): www.twitter.com/peltweet
@@ -60,7 +60,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Parents Education League of Los Angeles (PEL)
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -127,16 +127,6 @@ maker_answers:
     and applications in other cities such as San Francisco
     http://firemancreative.com/work/parents-place/. They will receive
     approximately $36,000 of the grant. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    PEL will keep our Proposal within the $100,000 budget. The Website and
-    Mobile Application will cost approximately $30,000 to develop as noted
-    above. The annual site maintenance is $6,000. In addition, staff is budgeted
-    at $25,000.  $20,000 is allocated for programming & production. The outreach
-    will cost approximately $14,000 and overhead will be limited to $5,000.
-    Additional staffing may be needed to keep the database current and
-    comprehensive. This is addressed in our budget, but we will also utilize
-    undergraduate interns for research and data entry. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Budget for LA2050 Grant 2015\r\n\r\nWebsite Production $30,000\r\n\r\nWebsite Maintenance $6,000\r\n\r\nOutreach $14,000\r\n\r\nStaff $25,000\r\n\r\nProgramming $10,000\r\n\r\nProduction $10,000\r\n\r\nOverhead @ 5% $5,000\r\n\r\nTotal $100,000"
   How do you plan to scale the success of your proposal?: "Pathways to scale PEL’s success depend on a) providing a continued valuable resource and b) growing the number of parents served. The more parents we reach and serve well, the more valuable PEL becomes as a network of information. \r\n\r\nPEL’s budget is extremely lean, and yet we have made great strides in 5 years. Parents are extremely receptive and have seen the value in our programming. Via the proposed technology and parent networks, PEL can reach exponentially more parents. With this foothold of recognition and awareness, PEL will achieve an economy of scale to insure stability and viability as an organization. The benefits of the initial investment in the Website and Application will continue long after the initial 12 months, thus compounding the return on investment for multiple years. \r\n\r\nWith this infrastructure in place, PEL ultimately aims to replicate this model for the larger counties in California and expand statewide with the support of Regional and State organizations and local PTA Chapters. In addition, we will continue to partner and collaborate with other non-profit organizations & for-profit affiliates who can help fulfill our mission.\r\n\r\nNote: PEL’s current Affiliate Membership is available to for-profit resource providers and consists of a $95 tax-deductible donation/year. While PEL does not & will not advertise on its website, we do recognize these generous donors. Also, with a larger subscriber database, we are able to secure more corporate sponsorships for our events. These proceeds will allow us to hire additional staff to manage more programming and outreach. \r\n\r\nParent Testimonials:\r\nEducation & Enrichment Resource Fair:\r\n“I loved the speakers, mostly the keynote speakers. At something like this, it is nice to know you are not alone. Sometimes you feel you are the only one that has kid with issues and it's nice to see other moms doing what they can to help their children.  It was nice to have various services all at one place.  It was my first year going and I thought it was great.”\r\n\r\nKindergarten Panel:\r\n“The program was well organized & worthwhile. The moderator did a really good job. That isn't always easy, nor is handling a roomful of anxious parents, so just wanted to say \"thanks!\"\r\n\r\nPreschool Fair:\r\n“I'm a new mom and this was very helpful because some of the preschools I didn't find in my search on yelp, google search, & in the book.  It was wonderful to be able to ask questions to multiple schools.  Please keep having the fairs.”"
 areas_impacted: ''
 partners: ''
@@ -199,33 +189,6 @@ Are there other organizations doing similar work (whether complementary or compe
   and applications in other cities such as San Francisco
   http://firemancreative.com/work/parents-place/. They will receive
   approximately $36,000 of the grant.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  PEL will keep our Proposal within the $100,000 budget. The Website and Mobile
-  Application will cost approximately $30,000 to develop as noted above. The
-  annual site maintenance is $6,000. In addition, staff is budgeted at $25,000.
-  $20,000 is allocated for programming & production. The outreach will cost
-  approximately $14,000 and overhead will be limited to $5,000. Additional
-  staffing may be needed to keep the database current and comprehensive. This is
-  addressed in our budget, but we will also utilize undergraduate interns for
-  research and data entry.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Budget for LA2050 Grant 2015
-   
-   Website Production $30,000
-   
-   Website Maintenance $6,000
-   
-   Outreach $14,000
-   
-   Staff $25,000
-   
-   Programming $10,000
-   
-   Production $10,000
-   
-   Overhead @ 5% $5,000
-   
-   Total $100,000
 How do you plan to scale the success of your proposal?: >-
   Pathways to scale PEL’s success depend on a) providing a continued valuable
   resource and b) growing the number of parents served. The more parents we

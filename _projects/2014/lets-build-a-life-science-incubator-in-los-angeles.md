@@ -21,8 +21,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_researchgrant: '1'
   metrics_create_employment: '0'
-  city_state: 'Los Angeles, CA'
   org_website: www.lablaunch.org
   org_twitter: '@LAbLaunch'
   org_facebook: www.facebook.com/lablaunch
@@ -66,7 +66,7 @@ maker_answers:
   org_name: LAb Launch
   metrics_create_arts: '0'
   metrics_create_manufacturing: '1'
-  metrics_create_researchgrant: '1'
+  city_state: 'Los Angeles, CA'
   metrics_create_patents: '1'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '0'
@@ -89,8 +89,6 @@ maker_answers:
   achievable_goal: "With  support from LA2050, we will have sufficient startup capital to begin moving forward on this project. We will be able to employ an initial staff to begin the first stage of our project plan. The specific goals for this one-year initial program are:\r\n\r\n1)\tIdentify and rent a temporary coworking office space for “digital health” and other “virtual biotech” tenants to establish incubator activity, and begin assisting startups in this space.\r\n2)\tIdentify a site for a permanent incubator facility with research labs. Partner with developers & investors to begin the process of planning renovation & construction.\r\n3)\tBring together a network of investors & advisers that will commit to supporting the incubator and its tenant startups going forward. Work with partners to establish an investment fund or angel group that will be available to provide intimate business growth support (i.e. an accelerator program) and investment to the biotech startups in our incubator.\r\n\r\nWith $100,000 in startup funding from the LA2050 competition, we believe that these aims are very achievable for our project. A key focus for our team will be to build on this award by reaching out to the broader philanthropic community, industry partners, and State/Federal grant agencies for further funding. With a professional staff and publicity created by the LA2050 competition, we believe that we can leverage a substantial amount of funding that will be necessary to drive this project to full completion.\r\n"
   major_challenges: "A common concern to all business incubators is how the incubator itself can be self-sustaining, while offering high-level service to its tenants. Businesses that have been successful in this space share two key characteristics: they have support from the local community, and strong links to active and involved investors. \r\n\r\nWe plan to work with a broad network of advisors from both public and private sectors, local investment groups and institutes of higher learning. We intend to provide high-quality support to life science startups in LA, wherever they come from, and whatever their path to the market. Therefore, we will work with our partners across the region to identify opportunities for the development of our companies, while being mindful of the differing needs of the various communities we will serve.\r\n\r\nBy developing an investor-led accelerator program, and/or seed fund as the final stage of our multi-year strategy, we intend to create a long-term, sustainable endeavor through equity investments in our most promising startups. Income generated through these investments will form the basis of long-term sustainability for our activities in Life Science incubation.\r\n"
   competition: "An early-stage biotech incubator would be a unique asset in Los Angeles. \r\n\r\nSimilar entities already exist in the Bay Area (QB3, Berkeley BioLabs) and San Diego (BioTech and Beyond, Janssen Labs).\r\n\r\nA key advisor for our group is an incubator in Pasadena (Pasadena Bioscience Collaborative) that caters to growth-stage startup companies: i.e. those that already have seed funding and a clear business growth strategy. We are also partnering with LA Biohackers, a citizen science group. LA Biohackers maintains a small coworking lab, but does not have the facilities necessary to further develop and commercialize their innovations. A facility such as we are proposing would be necessary for their members to take the next step in turning a discovery into a product that investors would be willing to help develop.\r\n\r\nA biotech incubator that focuses on early-stage companies, with coworking space and shared equipment, therefore fills a gap that exists between the work of academic and citizen scientists in LA, and the availability of space and funding to commercialize their ideas. \r\n"
-  cost: "Our total 5-Year cost, including real estate acquisition and building/renovation is estimated at: $8MM - $12MM\r\n\r\nFollowing the LA 2050 competition, we are planning to reach our to investors and grant agencies to seed the incubator with $1MM - $2MM, which will be sufficient to expand into a temporary incubator facility. \r\n\r\nThe bulk of this cost estimate is back-loaded, as it would involve purchase and renovation of real estate for a permanent facility. To raise this amount, we intend to partner with developers and public/private entities that support urban regeneration. Through strategic partnerships such as these, we believe that we can create a sustainable facility that adds long-term value to its area."
-  budget: "Salaries: $60,000\r\nRent, utilities, etc. (office space): $25,000\r\nFurniture & Equipment: $5,000\r\nAdvertising & Outreach: $5,000\r\nLegal Costs: $5,000 \r\n"
   resources_money: '1'
   resources_staff: '0'
   resources_publicity: '1'

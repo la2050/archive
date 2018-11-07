@@ -21,8 +21,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  'City, State': 'Los Angeles, CA '
   Organization(s) mailing address(es): 'P.O. Box 8476 Los Angeles, CA 90008'
   Organization(s) website(s): www.jenesse.org
   Organization(s) twitter handle(s): www.twitter.com/jenessecenter
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA '
   Organization(s) name(s): 'Jenesse Center, Inc.'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '1'
@@ -188,21 +188,6 @@ maker_answers:
     Schools), South Central Training Consortium, and the Los Angeles Police
     Department.  Funds from LA2050 will not be used to fund the CCRN
     collaborative partners.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The existing program has a yearly budget of $300,000; Jenesse will seek funding from government grants, foundations, corporations and private individuals to cover the additional costs of the program. Funding from LA2050 would be used to sustain and expand existing curriculum-based workshops being implemented by the CCRN. To date, the CCRN project has educated more than 3,000 Los Angeles youth ages 13-18 (and their parents) who are exposed to violence. \r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-    a.Project Manager (Community Relations)(.30 FTE - Salary $12,977 b. Project
-    Manager (Youth & Training Programs )(.40 FTE - Salary $20,601 Benefits – 
-    $6,323 in benefits costs, which is calculated at a rate of 18.83 % of the
-    $33,578 in salaries. Program/Operating Expenses-a. Office Supplies $3,000 in
-    supplies  b. Communications- $1,500 costs of printing and copying. c.
-    Postage- $350 costs associated with mailing. d. Travel/Mileage –  $857 costs
-    of Program and Administrative travel. Other –  $45,301, Event Related
-    Expenses – Venue, Catering, Audio Visual, Entertainment, Marketing and
-    Registration (4 events @$6,500) - $26,000, Liability and Other Insurance -
-    $2,500 Consultant/Professional Fees - $9,301, Peer to Peer Training -
-    $5,000, Teen Angel Stipends (10 Stipends @ $250 each) - $2,500 Indirect
-    Costs – $9,091 for Indirect Costs.   Total Expenses (Personnel + Program +
-    Indirect) - $100,000
   How do you plan to scale the success of your proposal?: ' Jenesse plans to scale the success of the proposal through the number of youth (and parents) served, the number of hours of technical assistance offered, and the workshop outcomes. Before implementing our current workshops, we administered a Youth and Partner Perception Survey to ascertain the need.  The survey results were analyzed and interpreted by independent contractors Gary Bess Associates and confirmed that violence is a prevailing problem for the Los Angeles youth surveyed.  We also plan to administer a new survey to existing participants to show the effectiveness of the workshop and identify areas for improvement.  Gary Bess Associates will continue to evaluate all data and track program outcomes. Jenesse has already successfully implemented this model. In year 2 of the program we reached over 3,000 South Los Angeles youth, over 500 parents, and more than 100 service providers in 6 months through our violence prevention, intervention and outreach services. It is our intention to use the second survey results as a blue print to enhance and expand existing services, resources and technical assistance to at least 3,000 more youth, parents and partners. We also intend to have a model that can be replicated in other Los Angeles area schools and beyond. '
 areas_impacted: ''
 partners: ''
@@ -265,27 +250,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Corporation, Green Dot Public Schools (Locke and Jordan High Schools), South
   Central Training Consortium, and the Los Angeles Police Department. Funds from
   LA2050 will not be used to fund the CCRN collaborative partners.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The existing program has a yearly budget of $300,000; Jenesse will seek
-  funding from government grants, foundations, corporations and private
-  individuals to cover the additional costs of the program. Funding from LA2050
-  would be used to sustain and expand existing curriculum-based workshops being
-  implemented by the CCRN. To date, the CCRN project has educated more than
-  3,000 Los Angeles youth ages 13-18 (and their parents) who are exposed to
-  violence.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  a.Project Manager (Community Relations)(.30 FTE - Salary $12,977 b. Project
-  Manager (Youth & Training Programs )(.40 FTE - Salary $20,601 Benefits –
-  $6,323 in benefits costs, which is calculated at a rate of 18.83 % of the
-  $33,578 in salaries. Program/Operating Expenses-a. Office Supplies $3,000 in
-  supplies b. Communications- $1,500 costs of printing and copying. c. Postage-
-  $350 costs associated with mailing. d. Travel/Mileage – $857 costs of Program
-  and Administrative travel. Other – $45,301, Event Related Expenses – Venue,
-  Catering, Audio Visual, Entertainment, Marketing and Registration (4 events
-  @$6,500) - $26,000, Liability and Other Insurance - $2,500
-  Consultant/Professional Fees - $9,301, Peer to Peer Training - $5,000, Teen
-  Angel Stipends (10 Stipends @ $250 each) - $2,500 Indirect Costs – $9,091 for
-  Indirect Costs. Total Expenses (Personnel + Program + Indirect) - $100,000
 How do you plan to scale the success of your proposal?: >-
   Jenesse plans to scale the success of the proposal through the number of youth
   (and parents) served, the number of hours of technical assistance offered, and

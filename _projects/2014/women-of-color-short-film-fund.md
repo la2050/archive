@@ -19,8 +19,8 @@ project_areas:
   - SGV
   - SFV
 maker_answers:
+  metrics_create_patents: '0'
   metrics_create_arts: '1'
-  city_state: 'Los Angeles, CA'
   org_website: thebitchpack.com
   org_twitter: www.twitter.com/biatchpack
   org_facebook: 'https://www.facebook.com/HollywoodBiatchPack'
@@ -67,7 +67,7 @@ maker_answers:
   org_name: The Bitch Pack
   metrics_create_manufacturing: '1'
   metrics_create_researchgrant: '1'
-  metrics_create_patents: '0'
+  city_state: 'Los Angeles, CA'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '1'
   metrics_create_gini: '1'
@@ -89,8 +89,6 @@ maker_answers:
   achievable_goal: "One full calendar year is a perfect production cycle for 3-5 short films. We will need 1-2 months for outreach and selection of filmmakers, 1 month for screenwriting and notes, two months for pre-production, a month for production, and 3 months for post production. Our administrators will be connecting resources, maintaining online presence and preparing for distribution throughout the year. We are excited about the 1 year challenge and believe it is consistent with timelines given to film students at top film schools. \r\n\r\nThere will be absolute tangible results in one year."
   major_challenges: "There maybe push-back from those who think helping minorities and women is \"reverse racism\". We will ensure that everyone knows this is a community wide project that can include the support from all types of members. We will encourage a wide variety of volunteers, production workers, and collaborators in order to support the aim of this project. \r\n\r\nWith film production, there are always fires to put out, deadlines and budgets to which to adhere. To ensure things get done, there will be  advisers to attend to production issues. We will also look out for further grants, donors, and crowdfunding opportunities when necessary."
   competition: "There are no other groups doing something like this that we know of. This project is unique because it will involve men and women in uplifting Women of Color.\r\n\r\nThere have been \"women's initiatives\" for female directors sponsored by AFI and the Sundance Institute, but the majority of those chosen turn out each year to be wealthy white women who have been able to afford to make their own short films in the past. We want Women of Color Angelenos who otherwise couldn't afford to put their point of views into film form. \r\n\r\nThere is also an annual Queer Women of Color Film Festival through Outfest that limits the participation of WOC to LGBT members. We want to open the opportunity further and select Women of Color filmmakers by the strength of their point of views. "
-  cost: "We intend to keep to the budget of 100k for three to five films. In the event that a film costs more than the allotted amount we will encourage seeking other grant opportunities and crowd funding such as Kickstarter with the leadership of the filmmakers. \r\n\r\nWe hope to cut down the cost of locations and permits with the help of the City of LA where applicable and community partnerships. "
-  budget: "Upto 5 projects will receive a modest 15-17k towards making the film. This budget will be broken down more specifically when the details of the project emerge. This will include costs of food, minimum wage where it applies, cast payroll, equipment, transportation, locations, wardrobe and production design. \r\n\r\n10k will be used for administrative expenses, small stipend, publicity, and meeting related costs. \r\n\r\nThe remaining 5k will be used towards online distribution and a community screening event. \r\n\r\nWe will adjust and update the budget accordingly but it is our goal to stay within 100K. \r\n\r\nTotal is 100,000.00 for five films showing the world LA supports diverse stories in film"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

@@ -22,8 +22,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Val Verde, CA / returning applicant'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How did you hear about this challenge?: Email from a friend
   Organization(s) name(s): SCV Adventure Play
   Organization(s) mailing address(es): "30651 Arlington Street\r\nVal Verde, CA 91384"
   Organization(s) website(s): www.scvadventureplay.com
@@ -73,7 +73,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  'City, State': 'Val Verde, CA / returning applicant'
+  How did you hear about this challenge?: Email from a friend
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -130,8 +130,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Many of our goals will move forward at their own unique pace and we plan to implement a series of \"follow-ups\" to the areas we focus on increasing play space and camaraderie.  Due to our focus of supporting communities to develop their own play spaces organically we want to make sure we are not just passing through but a constant source of support for the communities to sustain a safer and playable neighborhood.\r\n\r\nBi-weekly team meetings:  Both our pop-ups and Adventure Playground teams will meet to discuss observations on how to best solve problems and make changes to our sites both temporary and permanent.  Discussion, observation, and reflection are essential to connect with each other and the playground participants in a meaningful assessment of their play needs."
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "Locally, there is to our knowledge only one other Adventure Playground in the LA area, and that is in Huntington Beach.  It is operated on a seasonal basis, and is a low-cost park.  One major difference from Huntington park is that we are committed to being open as often as possible year round.  We also want to focus on the needs of our specific neighborhood, and offer after school programs and workshops to allow for maximum usage of the space.  Huntington Beach has little to no online presence or outreach either, whereas we plan to replicate more permanent spaces for play and long term local community relationships and educational opportunities.  \r\n\r\nConversely, there are also portable organizations such as Side Street Projects (headquarters in Pasadena), who offer woodworking and other arts-related classes that can be done out of their bus in any neighborhood.  They are also multi-generational, and we admire much of what they have done.  Our pop-ups are less concerned with class-type learning and are more about providing a safe space where play is unrestricted and allowed to move at the speed and motivations of the participants.  It is also a good time to illustrate to parents and others how free play can change the act of playing, by letting them focus on their projects and collaborations with no formal teaching.  \r\n\r\nThen there are other community arts organizations like our frequent collaborators The ArTree (headquarters in Valencia), an arts center that teaches classes on crafts, painting, sculpture, etc. to children.  We differ from them because our method is not of a product-based instructional program, but totally focused on process, stress relief, and informal learning.  The ArTree has a similar goal of inviting children to express themselves and offer inspiration through art but we take a different avenue to avoid pre-empting children of what they are expected to make and how they should make it.  We also plan to offer our services not only to children but also adults in settings where they can be separate and or combined.  With that though, our differences and common goals with the ArtTree allow our two groups to collaborate very fluidly, as they recognize the importance of play for children (and adults) and the creative problem solving encouraged through making and experimenting."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Our main collaborator with this project is Pop-up Adventure Play as part of their \"Play Ranger\" program where they send a qualified play-worker to impoverished areas to help bring play back into communities.  Pop-up Adventure Play also has developed a play-work course which will be strongly utilized for our play-work training program.  \r\n\r\nWe are also a founding member of the American Adventure Playground Association which is connecting Adventure Playgrounds across the US and have tremendous support and resources from those in various stages and types of adventure playgrounds, including permanent and traveling.\r\n\r\nWe are already developing various workshops and collaborations with the nearest K-12 School, Santa Clarita Valley International.  We have just finished our second year working with the City of Santa Clarita doing monthly pop-ups at their Thursdays on Main events.  We have also held regular events at the local Earth Day Festivals, Day of the Child Festival put on by the College of the Canyons, and are continuously working with local arts organizations such as the ArtTree, SpotLight Arts, and Parenting groups.   \r\n\r\nWe have collaborated with LA Parks and Recreation on the local level with great enthusiasm for future events.  We also plan to identify operational areas to further expand possible partnering with the Parks and Recreation Department, Fish and Wildlife, Park Rangers, Child Life Agencies, and The Alliance for Childhood.  \r\n\r\nFunding from this grant will be used primarily for facilitation of our efforts and staffing.  There will be cross-over with Pop-up Adventure Play for administering a play-work training program via staffing, communication, and on the ground development."
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Our project cost will greatly depend on the travel, size and duration of our events.  Our pop-up model has little material cost (mostly duct tape) making its main expense staff salary.  On average, we expect our two full-time play-workers to work around 40 hours a week training, facilitating 2 to 3 pop-ups in LA County and 1 to 2 days of open play at Eureka Villa.  This rounds out to about $4,000 per play-worker per month and $96,000.00 a year all together.  \r\n\r\nOther major costs include for the pop-ups; gas and a pop-up play trailer or vehicle, and insurance.  These costs will range between $17,000 and $29,000.  \r\n\r\nEureka Villa main costs include evaluating the 118 trees on the property, storage for the materials, portable toilet systems and a few supplemental materials which will need to be new and not used.  We estimate it ranging between $5,000 and $17,000.\r\n\r\nWe plan to focus much of the LA 2050 Grant funds toward non-salary expenses and those specific to pop-up outreach.  For these expenses we are working with Pop-up Adventure Play for a bid on a Kellogg grant focusing on impoverished areas of the world.  The Kellogg will also cover the costs of the assistant play-workers salary.\r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "POP-UPS\r\nGas for one year:  $3,000.00\r\nPartial Purchase of an enclosed trailer or cargo vehicle:  $20,000.00\r\nVehicle Insurance:  $2,000.00\r\nPlay Materials:  $1,000.00\r\n\r\nEUREKA VILLA\r\nArborist Assessment:  $1,200.00\r\nOn-site Storage/Building:  $4,000.00\r\nPublic Liability Insurance:\t$5,000.00\r\nPortable Toilet:  $600.00\r\nToilet Maintenance:  $240.00\r\nPlay Materials & Tools:  $2000.00 \r\n\r\nSALARY SUPPLEMENT\r\nPlay-worker Compensation: $50,000.00\r\n\r\nTOTAL USE OF 2050 GRANT FUNDS:  $99,840.00  "
   How do you plan to scale the success of your proposal?: "We feel we have met our goals if the following is true:  \r\n\r\nIf the communities we visit are still enjoying their public spaces this time next year. \r\n\r\nIf Eureka Villa is regularly opening its gates to the public and holding play sessions. \r\n\r\nIf kids are socially connecting with each other as well as neighbors in the community.\r\n\r\nIf we are able to educate and or train other individuals for implementing open ended and or loose parts play.\r\n\r\nIf families have found a new love in playing together.\r\n\r\nIf a culture of respecting our young people's rights to play has been nourished.\r\n\r\nWe continue to develop and support Los Angeles communities to become safer and more connected."
 areas_impacted: ''
 partners: ''
@@ -201,39 +199,6 @@ Are there other organizations doing similar work (whether complementary or compe
    We have collaborated with LA Parks and Recreation on the local level with great enthusiasm for future events. We also plan to identify operational areas to further expand possible partnering with the Parks and Recreation Department, Fish and Wildlife, Park Rangers, Child Life Agencies, and The Alliance for Childhood. 
    
    Funding from this grant will be used primarily for facilitation of our efforts and staffing. There will be cross-over with Pop-up Adventure Play for administering a play-work training program via staffing, communication, and on the ground development.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Our project cost will greatly depend on the travel, size and duration of our
-  events. Our pop-up model has little material cost (mostly duct tape) making
-  its main expense staff salary. On average, we expect our two full-time
-  play-workers to work around 40 hours a week training, facilitating 2 to 3
-  pop-ups in LA County and 1 to 2 days of open play at Eureka Villa. This rounds
-  out to about $4,000 per play-worker per month and $96,000.00 a year all
-  together. 
-   
-   Other major costs include for the pop-ups; gas and a pop-up play trailer or vehicle, and insurance. These costs will range between $17,000 and $29,000. 
-   
-   Eureka Villa main costs include evaluating the 118 trees on the property, storage for the materials, portable toilet systems and a few supplemental materials which will need to be new and not used. We estimate it ranging between $5,000 and $17,000.
-   
-   We plan to focus much of the LA 2050 Grant funds toward non-salary expenses and those specific to pop-up outreach. For these expenses we are working with Pop-up Adventure Play for a bid on a Kellogg grant focusing on impoverished areas of the world. The Kellogg will also cover the costs of the assistant play-workers salary.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  POP-UPS
-   Gas for one year: $3,000.00
-   Partial Purchase of an enclosed trailer or cargo vehicle: $20,000.00
-   Vehicle Insurance: $2,000.00
-   Play Materials: $1,000.00
-   
-   EUREKA VILLA
-   Arborist Assessment: $1,200.00
-   On-site Storage/Building: $4,000.00
-   Public Liability Insurance: $5,000.00
-   Portable Toilet: $600.00
-   Toilet Maintenance: $240.00
-   Play Materials & Tools: $2000.00 
-   
-   SALARY SUPPLEMENT
-   Play-worker Compensation: $50,000.00
-   
-   TOTAL USE OF 2050 GRANT FUNDS: $99,840.00
 How do you plan to scale the success of your proposal?: |-
   We feel we have met our goals if the following is true: 
    

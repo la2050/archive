@@ -22,8 +22,8 @@ project_areas:
   - WESTSIDE
   - LA COUNTY
 maker_answers:
+  metrics_connect_traveltime: '0'
   metrics_connect_volunteerism: '1'
-  city_state: Santa Monica
   org_website: www.pwrdby.com
   org_twitter: '@pwrdby'
   org_facebook: 'https://www.facebook.com/picturehealing'
@@ -86,7 +86,7 @@ maker_answers:
   org_name: PwrdBy
   metrics_connect_voting: '0'
   metrics_connect_adultsupport: '1'
-  metrics_connect_traveltime: '0'
+  city_state: Santa Monica
   metrics_connect_culturalevents: '1'
   metrics_connect_publictransit: '0'
   metrics_connect_neighborhoodcouncils: '1'
@@ -122,11 +122,6 @@ maker_answers:
     fragmented. We'd be releasing a platform offering the array of tools plus
     new ones, all inside of one platform and incredibly competitive pricing and
     sometimes free. 
-  cost: >-
-    We believe the $100k will cover the cost of the build out. Through sales of
-    the product we plan to maintain the carry costs to continue to support the
-    nonprofits who will be using the tools.
-  budget: "$40k = Full time senior developer/data architect at $100 p/h x 400 hours\r\n$40k = Full time senior front end developer at $100 p/h x 400 hours\r\n$10k = Servers and subscription accounts to manage the development environment\r\n$10k = PR / Marketing for 3 months to build supporting revenue"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

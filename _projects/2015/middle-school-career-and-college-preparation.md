@@ -15,8 +15,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): "c/o ALL Management Corporation \r\n1230 Rosecrans S 560\r\nManhattan Beach, CA  90266"
   Organization(s) website(s): www.careerandcollegeclubs.org
   Organization(s) twitter handle(s): www.twitter.com/CCClubs
@@ -60,7 +60,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '0'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): Career & College clubs
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -111,8 +111,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "We ask every student int he program to complete pre- and post- surveys designed to measure attitudinal and behavioral growth.\r\n\r\nWe also have an ongoing partnership with ACT, Inc. to measure the long-term impact of the program. ACT looks at student outcomes in high school, college enrollment and, eventually, college completion. So far, they found that Career & College Clubs has exactly the kind of impact we had hoped - more students are thinking about their futures, making plans for, and actually enrolling in, postsecondary education."
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are no organizations doing the same work - career and college preparation, in middle school, using peer-to-peer learning. \r\n\r\nCareer & College Clubs does compliment many other efforts - AVID, GEARUP, Linked Learning, etc., and we find our sites often implement them jointly"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "We will first identify 40-50 target schools in LA County, based on their FRPM percentage. Starting with schools who have already indicated an interest in Career & College Clubs, we will then approach to let them know of the opportunity provided by LA2050.  If they agree to sign on, we will begin the process of training their staff and getting the program established. \r\n\r\nOther than fees to Career & College Clubs (which this grant would cover), the program is inexpensive for schools. Their costs are minimal."
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "Total cost to ALL Management Corporation for adding 20 sites is approximately $420,000.  The additional costs will be born by ALL Management Corporation, using revenue derived from other education-related activities.\r\n\r\nOur goal is to have 200 sites, total, by 2019-20. ALL Management has committed the financial and human resources to achieve the goal. "
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Program fees for 20 schools for 2016-17:  $60,000\r\nProgram fees for same schools for 2017-18: $20,000\r\nProgram fees for same schools for 2018-19: $20,000\r\nTotal budget:  $100,000 or an average of $1,667 per school / per year. "
   How do you plan to scale the success of your proposal?: >-
     We continue to grow the program, with new sites added almost weekly. Those
     efforts will continue, the grant from LA2050 will accelerate that process
@@ -165,17 +163,6 @@ Are there other organizations doing similar work (whether complementary or compe
   process of training their staff and getting the program established. 
    
    Other than fees to Career & College Clubs (which this grant would cover), the program is inexpensive for schools. Their costs are minimal.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Total cost to ALL Management Corporation for adding 20 sites is approximately
-  $420,000. The additional costs will be born by ALL Management Corporation,
-  using revenue derived from other education-related activities.
-   
-   Our goal is to have 200 sites, total, by 2019-20. ALL Management has committed the financial and human resources to achieve the goal.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Program fees for 20 schools for 2016-17: $60,000
-   Program fees for same schools for 2017-18: $20,000
-   Program fees for same schools for 2018-19: $20,000
-   Total budget: $100,000 or an average of $1,667 per school / per year.
 How do you plan to scale the success of your proposal?: >-
   We continue to grow the program, with new sites added almost weekly. Those
   efforts will continue, the grant from LA2050 will accelerate that process and,

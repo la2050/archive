@@ -21,8 +21,8 @@ project_image: >-
 project_areas:
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  'City, State': 'Los Angeles, CA'
   Organization(s) mailing address(es): "4949 Cleon Ave \r\nNorth Hollywood, CA 91601"
   Organization(s) website(s): www.flyyogaarts.com
   Organization(s) twitter handle(s): www.twitter.com/flyyogaarts
@@ -69,7 +69,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'Los Angeles, CA'
   Organization(s) name(s): FLY Yoga Arts
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '1'
@@ -135,8 +135,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "1. We will evaluate sense of safety and community benefit through a survey of students, teachers, and staff who participate in our program.\r\n2. We will work with schools to monitor a shift in academic achievement and behavioral trends as a result of participating in our after school programming.\r\n3. We will track student's mental and social understanding through assignments that highlight self reflection, decision making skills, and community building.\r\n4. We will survey parents in order to garner an understanding of their child’s energy level, focus, and communication skills beyond the school day.\r\n5. We will complete surveys in collaboration with school staff at the beginning and end of each workshop and training, as well as at the end of the implementation time to get a sense of their experience with classroom management, learning trends, and community wellbeing.\r\n6. To track the progress of teachers who have received training, we will provide consultation and personal mentoring."
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "While there are various organizations (both profit and non) bringing Mindfulness, Yoga, and Creative Arts to schools through classes, workshops, and staff development trainings, FLY is unique in its formula, providing lesson plans, curriculum and student development benchmarks, evaluations and materials. We have tailored our program to each school in order to work within a presented model, while initiating new techniques to benefit the unique students.  \r\n\r\nOne example of our play-based learning is a game in which the students physically make the shape of a “Letter of the Day.” We may write words with our bodies and with playful artistic materials, making songs, and creating poetry that will make a possible lifetime imprint in our minds. Truly, through joy, every child learns in an integrated and complete way.\r\n\r\nOur methodology is also totally innovative, and is continuing to be developed at the Harvard Graduate school of Education, with our creator and director Haley Dawn.  FLY utilizes the best of Somatic Learning, Flow Experience, and Play Therapy to enhance each child’s learning. "
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "We are currently working with LA's Best Enrichment Program, within their ASAP(After School Arts Program), bringing our own Teaching Artists and giving 20 class sessions to different schools around LA. We would love to use our partnership with them to continue and further our relationship with schools around the LA Area. The monetary gains of the grant would be going to further our ability to offer quality programming, however the program itself would not be the receiver of the funds. If there is necessary compensation for the connection or for training for their staff or teachers under the FLY umbrella, we will utilize part of administration fees for this.\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "For this transitional year of programming, we can happily work within a $100,000 budget to cover staff, new material creation, and materials for fifteen schools. If additional staff is needed and more schools demand FLY staff in order to grow our numbers, we will seek private funding or support from our other classes and communities. \r\nWe hope that this money will jump start a program that could eventually be self sustaining, utilizing the surplus from programs that are paid in full by parents and families, to support the programs for teachers and schools that would not be able."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$65,000 would go to FLY Staff: to be used toward our FLY Teaching Artist trainings, administrative staff, teaching artist budget and personnel expenses related to travel and materials.\r\n \r\n$25,000 will go into creating new materials:\r\n$17,500- Video & Audio creation and reproduction\r\n$  7,500- Workbooks, and Class Worksheets to be distributed en masse to LA’s Best sites.\r\n \r\n$10,000 will be used to provide any addition school needed materials: $4500-  30 yoga mats/ school\r\n$3000-  1 deck of our FLY yoga cards/ instructions school\r\n$1000-  a working music player/ school\r\n$1500-  1 prop bag/ school, including art supplies, and miscellaneous teaching props like stickers, feathers, balloons, balls etc."
   How do you plan to scale the success of your proposal?: "FLY will send our FLY Teaching Artists to lead large staff and teacher trainings for LAUSD schools as well as provide ongoing staff support.  Teachers will be trained to implement the play and movement based curriculum independently in their classrooms.\r\n\r\nWe will create surveys & communication plans that monitor each staff member's understanding and ability to implement lessons in an authentic way, as well as each student's academic progress, level of happiness, and ability to communicate & connect.\r\n\r\nTo keep true to its vision, FLY will create video/ audio recordings to aid in introducing exercises and provide clear curriculum materials: lesson plans, intentions, teacher handbooks, and student worksheets to every participating school.\r\n\r\nFLY will also provide all necessary materials and equipment including in class tools and curriculum elements such as flash cards, handouts, yoga mats, art supplies, to support our program for a full calendar year. "
 areas_impacted: ''
 partners: ''
@@ -196,26 +194,6 @@ Are there other organizations doing similar work (whether complementary or compe
   be the receiver of the funds. If there is necessary compensation for the
   connection or for training for their staff or teachers under the FLY umbrella,
   we will utilize part of administration fees for this.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  For this transitional year of programming, we can happily work within a
-  $100,000 budget to cover staff, new material creation, and materials for
-  fifteen schools. If additional staff is needed and more schools demand FLY
-  staff in order to grow our numbers, we will seek private funding or support
-  from our other classes and communities. 
-   We hope that this money will jump start a program that could eventually be self sustaining, utilizing the surplus from programs that are paid in full by parents and families, to support the programs for teachers and schools that would not be able.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  $65,000 would go to FLY Staff: to be used toward our FLY Teaching Artist
-  trainings, administrative staff, teaching artist budget and personnel expenses
-  related to travel and materials.
-    
-   $25,000 will go into creating new materials:
-   $17,500- Video & Audio creation and reproduction
-   $ 7,500- Workbooks, and Class Worksheets to be distributed en masse to LA’s Best sites.
-    
-   $10,000 will be used to provide any addition school needed materials: $4500- 30 yoga mats/ school
-   $3000- 1 deck of our FLY yoga cards/ instructions school
-   $1000- a working music player/ school
-   $1500- 1 prop bag/ school, including art supplies, and miscellaneous teaching props like stickers, feathers, balloons, balls etc.
 How do you plan to scale the success of your proposal?: >-
   FLY will send our FLY Teaching Artists to lead large staff and teacher
   trainings for LAUSD schools as well as provide ongoing staff support. Teachers

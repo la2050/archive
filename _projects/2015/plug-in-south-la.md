@@ -19,10 +19,8 @@ project_video: 'https://www.youtube.com/embed/qooMUYecd1s'
 project_areas:
   - South LA
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: >-
-    Tara Roth, president of the Goldhirsh Foundation and a member of our
-    advisory board, recommended applying.
   Organization(s) name(s): Plug In South LA
   Organization(s) mailing address(es): "12777 Jefferson Blvd.\r\nBuilding D – 3rd Floor\r\nLos Angeles, CA 90066\r\n"
   Organization(s) website(s): www.pluginsouthla.com
@@ -79,7 +77,9 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: >-
+    Tara Roth, president of the Goldhirsh Foundation and a member of our
+    advisory board, recommended applying.
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '1'
@@ -173,8 +173,6 @@ maker_answers:
     Our partners are Verizon, General Assembly, LA Tech Digest, the Network for
     Teaching Entrepreneurship in Los Angeles, and the University of Southern
     California but the entire grant would go directly into Plug In South LA.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "We are estimating a total cost of around $350,000. We will cover the \r\nadditional costs through investors, memberships, sponsors, and \r\ncorporate partners."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Operating manager at $78,000/year: Having an experienced, energetic operating manager is essential to meet the programming needs of South LA-based startups on a daily basis. This person ensures connectivity and engagement among Plug In South LA’s entrepreneurs, mentors, advisors, and the local community.\r\n\r\nAdministrative assistant at $20/hour: An administrative assistant will be necessary for managing day-to-day communications and operational tasks related to programming and the needs of Plug In South LA’s member entrepreneurs.\r\n\r\nMarketing at $5,000: Primary marketing costs cover SEO as well as third party contractors or vendors to assist with marketing strategy across social and mobile media, driving awareness and engagement around our programming and mission to create a tech hub in South LA.\r\n\r\nOther expenses beyond grant to be covered with additional funding: Conferences, Transportation and travel-related expenses, Utilities, Technology Licenses, Insurance, Capital expenditures"
   How do you plan to scale the success of your proposal?: "Plug In South LA anticipates growing the number of attendees and program participants by 20-30% in our second year by increasing our partnerships with surrounding educational institutions as well as expanding our professional network and sphere of influence by inviting successful executives, venture capitalists and angel investors to speak at events. In addition, we plan to diversify our programing beyond tech and digital media to include areas such as financial literacy within an entrepreneurial context. Scaling up successfully for us also means offering workshops and events in more South LA neighborhoods such as Inglewood, Compton, Huntington Park, and South Gate. \r\n\r\nPlug In South LA will catalyze the growth of its member companies and startups with its mentorship program and connections to venture capital. As Plug In South LA members become successful and hire more employees they will move out to larger dedicated office spaces in the surrounding community increasing economic activity. After proving to be a successful business model for generating and growing businesses Plug In will seek to open more co-working locations branching out to the South and East. \r\n"
 areas_impacted: ''
 partners: ''
@@ -223,21 +221,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Our partners are Verizon, General Assembly, LA Tech Digest, the Network for
   Teaching Entrepreneurship in Los Angeles, and the University of Southern
   California but the entire grant would go directly into Plug In South LA.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': |-
-  We are estimating a total cost of around $350,000. We will cover the 
-   additional costs through investors, memberships, sponsors, and 
-   corporate partners.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Operating manager at $78,000/year: Having an experienced, energetic operating
-  manager is essential to meet the programming needs of South LA-based startups
-  on a daily basis. This person ensures connectivity and engagement among Plug
-  In South LA’s entrepreneurs, mentors, advisors, and the local community.
-   
-   Administrative assistant at $20/hour: An administrative assistant will be necessary for managing day-to-day communications and operational tasks related to programming and the needs of Plug In South LA’s member entrepreneurs.
-   
-   Marketing at $5,000: Primary marketing costs cover SEO as well as third party contractors or vendors to assist with marketing strategy across social and mobile media, driving awareness and engagement around our programming and mission to create a tech hub in South LA.
-   
-   Other expenses beyond grant to be covered with additional funding: Conferences, Transportation and travel-related expenses, Utilities, Technology Licenses, Insurance, Capital expenditures
 How do you plan to scale the success of your proposal?: >-
   Plug In South LA anticipates growing the number of attendees and program
   participants by 20-30% in our second year by increasing our partnerships with

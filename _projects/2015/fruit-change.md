@@ -17,8 +17,8 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23782%252Fdisplay%252FIMG_7734.jpeg=c570x385
 project_areas: []
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: KPCC announcement
   Organization(s) name(s): Fruit Change
   Organization(s) mailing address(es): '463 W 14th St, San Pedro, CA 90731'
   Organization(s) website(s): 'http://www.fruitchange.com/'
@@ -68,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: KPCC announcement
   'City, State': 'San Pedro, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -133,12 +133,6 @@ maker_answers:
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
     At this time, there are no plans to partner with outside organizations, but
     as research continues this may change.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Fruit Change is a barter system and can become operational on a small scale
-    like the Hillside Produce Cooperative for zero dollars. With every extra bit
-    of money we only expand our options for growth. With a $100,000 I believe we
-    can accomplish the goals laid out in this grant application.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Projected budget for 1 year:\r\n\r\nWebsite and app development: $25,000\r\n\r\nStorefront rental: $25,000\r\n\r\nRefrigerated storage: $10,000\r\n\r\nMarketing, logo, brand identification: $10,000\r\n\r\nData collection and organization: $10,000\r\n\r\nFruit picking equipment: $1000\r\n\r\nFuel for delivery: $5200 (mileage reimbursement for members)\r\n\r\nCottage Food Operation Permit B: $1000 (will cover 4 different kitchens)\r\n\r\nCrafted Booth: $1500 (10x10 pop up)\r\n\r\nFarmers Market Non-Agricultural Food Purveyor: $500 (fee to attend 10+ markets a year)\r\n\r\nFarmers Market Backyard Grower Certified Producer: $525 (fee to attend 10+ markets a year)\r\n\r\nCommunity Food Producer and Gleaner Permit: $129\r\n\r\nFood Vehicle Independent delivery permit: $110\r\n\r\nFood Market Wholesale Permit: $856\r\n\r\nIncidentals: $9,180\r\n\r\nTotal: $100,000"
   How do you plan to scale the success of your proposal?: "San Pedro is a vibrant, multi cultural, socioeconomically diverse, historic community. It’s an amazing place where industry operates at a world class level, yet hand made tamales are still sold door to door out of a rolling cooler. It’s where I’ve always wanted to buy a house, and I finally did this summer. With the house came lemons, kumquats and guavas: lots of them. Those trees are our key to the city. It's the perfect place to connect a diverse group through the one thing we all have in common: everybody eats. \r\n\r\nFruit Change was founded with the belief that there's no better way to connect with the people around you than by sharing the land's bounty. This project isn’t trying to change San Pedro, or favor one group’s vision of progress over another. Fruit Change is about taking a good hard look at what we’ve got already. We need to talk to each other, figure out who’s got what, what everyone can do to help, and make the best of this great situation we’re in. \r\n\r\nTo become financially sustainable, there are currently plans to sell fruit and preserves to local markets and directly to the public, but as Fruit Change evolves we will keep an eye out for, and adapt to, opportunity. A lot of construction on the waterfront will happen in San Pedro over the next few years, meaning teams of workers will be looking to eat quick and nutritious meals on the job. There's opportunity for Fruit Change there. Mayor Garcetti has tapped Gaffey for his Great Streets Initiative. There's opportunity for Fruit Change there. \r\n\r\nIf Fruit Change is a success, there's no reason it can't happen in every neighborhood in LA. Fruit Change could include communities all over the city, making it a part of the sharing economy as common as Uber or AirB&B.\r\n\r\nAs we near the end of the initial $100,000 grant, we will rely on the revenue systems we’ve built and grown to continue to fund the program. Neighbors will collaborate on ways to barter for services, secure investors, increase sales, plant new trees, invite master gardeners to teach masters classes to increase productivity and countless other ideas. Even when the fruit trees aren't producing, the neighbors will be connecting, planning, learning, and fundraising for our future.\r\n\r\nI've been a Reality TV producer for seven years. If there's one thing I can do, it's jump into a brand new world, figure out how it works, and use limited resources to make it even better. I build a great team and get everyone working at full potential."
 areas_impacted: ''
 partners: ''
@@ -182,45 +176,6 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': >-
   At this time, there are no plans to partner with outside organizations, but as
   research continues this may change.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Fruit Change is a barter system and can become operational on a small scale
-  like the Hillside Produce Cooperative for zero dollars. With every extra bit
-  of money we only expand our options for growth. With a $100,000 I believe we
-  can accomplish the goals laid out in this grant application.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Projected budget for 1 year:
-   
-   Website and app development: $25,000
-   
-   Storefront rental: $25,000
-   
-   Refrigerated storage: $10,000
-   
-   Marketing, logo, brand identification: $10,000
-   
-   Data collection and organization: $10,000
-   
-   Fruit picking equipment: $1000
-   
-   Fuel for delivery: $5200 (mileage reimbursement for members)
-   
-   Cottage Food Operation Permit B: $1000 (will cover 4 different kitchens)
-   
-   Crafted Booth: $1500 (10x10 pop up)
-   
-   Farmers Market Non-Agricultural Food Purveyor: $500 (fee to attend 10+ markets a year)
-   
-   Farmers Market Backyard Grower Certified Producer: $525 (fee to attend 10+ markets a year)
-   
-   Community Food Producer and Gleaner Permit: $129
-   
-   Food Vehicle Independent delivery permit: $110
-   
-   Food Market Wholesale Permit: $856
-   
-   Incidentals: $9,180
-   
-   Total: $100,000
 How do you plan to scale the success of your proposal?: >-
   San Pedro is a vibrant, multi cultural, socioeconomically diverse, historic
   community. It’s an amazing place where industry operates at a world class

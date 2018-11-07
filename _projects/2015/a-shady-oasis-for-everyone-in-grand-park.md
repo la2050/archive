@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/BhO5jmXKosA'
 project_areas:
   - Central LA
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
-  How did you hear about this challenge?: Goldhirsh Foundation e-blast
   Organization(s) name(s): Performing Arts Center of Los Angeles County AKA The Music Center/Grand Park
   Organization(s) mailing address(es): '135 North Grand Avenue, Los Angeles, CA 90012'
   Organization(s) website(s): www.grandparkla.org
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '0'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Goldhirsh Foundation e-blast
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -193,10 +193,6 @@ maker_answers:
     the playground and “Park For Everyone” totems located at each cross street.
     These both include translations of the texts into 26 languages that reflects
     the inclusive and welcoming nature of Grand Park. 
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    While all of Grand Park would benefit from shading, the LA2050 grant will be
-    used to pilot the very first area. This pilot will cost $100,000. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Artist Commission: $15,000\r\nConstruction: $72,000\r\nPermits: $8,000\r\nContingency: $5,000\r\nTotal: $100,000\r\nThis budget does not include Grand Park administrative staff salaries for time spent on the project.  All staff time will be fully funded by Grand Park/The Music Center.\r\n"
   How do you plan to scale the success of your proposal?: >-
     Based on usage and community feedback, Grand Park will assess the degree of
     positive impact that shading pilot has had. The project can be scaled up by
@@ -282,16 +278,6 @@ Are there other organizations doing similar work (whether complementary or compe
   playground and “Park For Everyone” totems located at each cross street. These
   both include translations of the texts into 26 languages that reflects the
   inclusive and welcoming nature of Grand Park.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  While all of Grand Park would benefit from shading, the LA2050 grant will be
-  used to pilot the very first area. This pilot will cost $100,000.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Artist Commission: $15,000
-   Construction: $72,000
-   Permits: $8,000
-   Contingency: $5,000
-   Total: $100,000
-   This budget does not include Grand Park administrative staff salaries for time spent on the project. All staff time will be fully funded by Grand Park/The Music Center.
 How do you plan to scale the success of your proposal?: >-
   Based on usage and community feedback, Grand Park will assess the degree of
   positive impact that shading pilot has had. The project can be scaled up by

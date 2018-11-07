@@ -23,8 +23,8 @@ project_areas:
   - City of Los Angeles
   - LAUSD
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Email from colleague
   Organization(s) name(s): >-
     Los Angeles Southwest College Foundation, Innovate Globally and Los Angeles
     Southwest College Career & Technical Education
@@ -77,7 +77,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Email from colleague
   'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -160,12 +160,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Innov8 will use a variety of evaluative tools.  These include, but are not limited to the following: \r\n•\tNumber of students enrolled and % that complete classes.\r\n•\tStudent surveys/questionnaires\r\n•\tLASC Institutional Effectiveness department gathers data on all classes taught on campus\r\n•\tNumber of corporate partners secured for instruction and internships\r\n•\tNumber of students successfully placed in internships and preceptorships; % complete\r\n•\tNumber of students enrolled in four year university\r\n•\tNumber of students placed in viable job\r\n•\tNumber of students that launch a tech start-up\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "There are organizations that are doing portions of our program, but not any combine the education and business development like Innov8.  \r\n\r\nOne of the more famous coding programs is Yes We Code, founded by Van Jones that provides coding instruction for underserved youth. The #YesWeCode initiative targets low-opportunity youth and provides them with the necessary resources and tools to become world-class computer programmers. By learning this highly valuable and relevant 21st century skill, these young people are shifting the trajectory of their futures and transforming their relationships with their communities and their country.  \r\n\r\nThere are programs that provide entrepreneurial training for teachers.  In partnership with the LAUSD and  with school districts in Culver City, Downey, and Hawthorne, NFTE Los Angeles Metro trains teachers to engage students from low-income communities as entrepreneurial thinkers using our innovative, hands-on curriculum.  Since its opening in 2007, NFTE Los Angeles Metro has provided over 12,000 students with the tools and mindset necessary to prepare for successful futures in school, college and the workforce.  There are a myriad of schools that provide training on digital technology. \r\n\r\nHowever, Innov8 is unique in that we strive to create an entrepreneurial ecosystem that fosters continual education, connected to business opportunity, connected to South Los Angeles.  Innov8 seeks to bring the educational and economic dynamism that is found in the Silicon Valley into South Los Angeles.  The benefits to the community will include: career awareness, valuable and marketable skills development; entrepreneurial opportunity; work experience and job placement; and the hope of becoming the Southern California tech destination!\r\n\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "There are three primary partners on the project—LASC Foundation, Innovate Globally and LASC CTE.  Below is a brief description of roles, responsibilities and compensation:\r\n\r\nLASC Foundation is the Project Director and will be fiscally responsible for the project.  The LASC Foundation will be responsible project compliance, fiscal management, identifying and recruiting business partners and facilitating interaction between interactions with the LASC campus.  LASC will receive $50,000 of the funds.\r\n\r\nInnovate Globally is the Education and Program Coordinator.  They are responsible for curriculum development, instruction, educational coordination with LASC, and overseeing internship and preceptorship placements.  Innovate Globally will receive $50,000\r\n\r\nLASC CTE will work with the program to shepherd the project through the Los Angeles Community College District (LACCD) curriculum approval process to ensure the class is approved to issue certificates.  LASC CTE will also make classroom and presentation space available to the program.  LASC CTE is an uncompensated partner.\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The Innov8 full program budget is $280,000 for the first full year. 
-    Additional cost will be covered through various fundraising activities such
-    as: grant writing, individual donors, corporate sponsorship, events and
-    online donor campaigns. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Anticipated budget:\r\nStaff and Contractors--$60,000\r\nEquipment--$20,000\r\nMarketing--$10,000\r\nEvent--$10,000\r\n"
   How do you plan to scale the success of your proposal?: >-
     Innov8 will document our development process with hopes of initial
     increasing the number of students at LASC.  Once the program is successfully
@@ -233,17 +227,6 @@ Are there other organizations doing similar work (whether complementary or compe
    Innovate Globally is the Education and Program Coordinator. They are responsible for curriculum development, instruction, educational coordination with LASC, and overseeing internship and preceptorship placements. Innovate Globally will receive $50,000
    
    LASC CTE will work with the program to shepherd the project through the Los Angeles Community College District (LACCD) curriculum approval process to ensure the class is approved to issue certificates. LASC CTE will also make classroom and presentation space available to the program. LASC CTE is an uncompensated partner.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The Innov8 full program budget is $280,000 for the first full year. Additional
-  cost will be covered through various fundraising activities such as: grant
-  writing, individual donors, corporate sponsorship, events and online donor
-  campaigns.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Anticipated budget:
-   Staff and Contractors--$60,000
-   Equipment--$20,000
-   Marketing--$10,000
-   Event--$10,000
 How do you plan to scale the success of your proposal?: >-
   Innov8 will document our development process with hopes of initial increasing
   the number of students at LASC. Once the program is successfully implemented

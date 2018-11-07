@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - County of Los Angeles
 maker_answers:
+  'City, State': 'Chandler, AZ'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: A friend told me about it
   Organization(s) name(s): Polar Tech Ed and Consulting LLC/Patrick Leon
   Organization(s) mailing address(es): '3100 W Ray Rd, Suite 201, Chandler, AZ 85226'
   Organization(s) website(s): 'http://www.polarcomputer.net'
@@ -70,7 +70,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '0'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Chandler, AZ'
+  How did you hear about this challenge?: A friend told me about it
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '1'
@@ -137,15 +137,6 @@ maker_answers:
     partner that is able to assist in recruiting potential participants.  We
     will identify partner organizations based on a survey administered by Polar
     Tech Ed and Consulting, LLC.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    Ideally this app will be completed for around $100,000.  We have 30 years of
-    IT experience, and feel confident that the app can get up and running for
-    around $100,000.  There may be additional costs involved, and we would like
-    to apply for other grants that focus on chronic disease prevention, such as
-    the National Institute of Health.  We will look at other funding sources in
-    the private sector such as health startup incubators and venture capital in
-    addition to traditional public health funding methods.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Platform development costs: $60,433.00\r\n233 person days of development (7.4 months) at $200.00/day for developers and designers\r\nSource:  kinvey.com app estimator\r\nSalary: $20,000 for PI and CO-PI\r\nFringe costs of 32% of salary: $6,400\r\nVideo production costs: $10,000 to shoot all DPP curriculum\r\nAmazon Web Services backend: $6,000.00 12 months at $500.00 for servers and web hosting\r\n$5,000 for program evaluation development\r\n$5,000 for pilot participant sites to assist in recruiting program participants\r\n$11,000 for office equipment, supplies and software"
   How do you plan to scale the success of your proposal?: "After implementing the pilot program, we will make adjustments based on the program evaluation. Once this is completed, we will be offering the program to the entire US population that are diagnosed with Type 2 diabetes and expanding the scope to HIV/AID antiretroviral therapy (ART) compliance and cardiovascular disease management.  If after a one year evaluation period is completed, and it is determined that the expanded mobile services are effective, we can expand this globally to anyone and offer the program in different languages.\r\n\r\nWe can offer the program to insurance companies that are looking to add diabetes prevention efforts to their wellness program as well. "
 areas_impacted: ''
 partners: ''
@@ -210,25 +201,6 @@ Are there other organizations doing similar work (whether complementary or compe
   that is able to assist in recruiting potential participants. We will identify
   partner organizations based on a survey administered by Polar Tech Ed and
   Consulting, LLC.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  Ideally this app will be completed for around $100,000. We have 30 years of IT
-  experience, and feel confident that the app can get up and running for around
-  $100,000. There may be additional costs involved, and we would like to apply
-  for other grants that focus on chronic disease prevention, such as the
-  National Institute of Health. We will look at other funding sources in the
-  private sector such as health startup incubators and venture capital in
-  addition to traditional public health funding methods.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Platform development costs: $60,433.00
-   233 person days of development (7.4 months) at $200.00/day for developers and designers
-   Source: kinvey.com app estimator
-   Salary: $20,000 for PI and CO-PI
-   Fringe costs of 32% of salary: $6,400
-   Video production costs: $10,000 to shoot all DPP curriculum
-   Amazon Web Services backend: $6,000.00 12 months at $500.00 for servers and web hosting
-   $5,000 for program evaluation development
-   $5,000 for pilot participant sites to assist in recruiting program participants
-   $11,000 for office equipment, supplies and software
 How do you plan to scale the success of your proposal?: >-
   After implementing the pilot program, we will make adjustments based on the
   program evaluation. Once this is completed, we will be offering the program to

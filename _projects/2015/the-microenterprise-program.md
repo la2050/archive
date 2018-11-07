@@ -18,8 +18,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: friend
   Organization(s) name(s): Microenterprise.org
   Organization(s) mailing address(es): '19350 Business Center Drive, #110 Northridge, Ca 91324'
   Organization(s) website(s): www.microenterprise.org
@@ -61,7 +61,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: friend
   'City, State': 'Northridge, Ca'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -160,14 +160,6 @@ maker_answers:
     used to secure work space and equipment for our clients and access to
     micro-loans for working capital. Our partner organizations will not need to
     access these funds.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': We have budgeted $100k for 1 year. See projections below
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-    A 1 year lease in the valley for the size of facility we are looking at is
-    $4k per month - roughly $50k for the year. We will utilize $30k to renovate
-    the facility and to purchase equipment. The remaining $20k will be used to
-    provide micro-loans for our clients. On average our clients need $2k to
-    start their businesses. This means we will be able to provide loans for at
-    least 10 clients
   How do you plan to scale the success of your proposal?: >-
     We have already had several organizations approach us in the past from 
     Orange County, Arizona, Seattle and others. However, we have been very
@@ -234,14 +226,6 @@ Are there other organizations doing similar work (whether complementary or compe
   student volunteers/business mentors. However, the $100k will be used to secure
   work space and equipment for our clients and access to micro-loans for working
   capital. Our partner organizations will not need to access these funds.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': We have budgeted $100k for 1 year. See projections below
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  A 1 year lease in the valley for the size of facility we are looking at is $4k
-  per month - roughly $50k for the year. We will utilize $30k to renovate the
-  facility and to purchase equipment. The remaining $20k will be used to provide
-  micro-loans for our clients. On average our clients need $2k to start their
-  businesses. This means we will be able to provide loans for at least 10
-  clients
 How do you plan to scale the success of your proposal?: >-
   We have already had several organizations approach us in the past from Orange
   County, Arizona, Seattle and others. However, we have been very hesitant to

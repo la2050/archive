@@ -19,8 +19,8 @@ project_video: 'https://www.youtube.com/embed/TNz5Q0G-KAs'
 project_areas:
   - County of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  How did you hear about this challenge?: Civic Innovation Lab LA
   Organization(s) name(s): Localism Inc.
   Organization(s) mailing address(es): '236 Pine Ave. Long Beach, CA 90802'
   Organization(s) website(s): www.localism.co/madelb
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '0'
+  How did you hear about this challenge?: Civic Innovation Lab LA
   'City, State': 'Long Beach, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -153,14 +153,6 @@ maker_answers:
     that by purchasing locally, 3 times more money stays in the community than
     with chain purchases.
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "We have already started engaging the community and are seeing results by developing projects in partnership with local BIDS, merchants, artisans, community organizations and residents. In particular, we are collaborating with the Arts Council for Long Beach, Long Beach Fresh, the Growing Experience, Slow Money SoCal, California Endowment/Building Healthy Communities, the Long Beach Health Department and the State of California Department of Public Health.\r\n\r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    To date we have raised $36,770 through a crowdfunding campaign. Overall, we
-    are raising $500,000 through diverse revenue sources (please see our
-    response to scaling), but the project can be completed within a $400,000
-    budget. Grants and loans are anticipated to offset funds required, with
-    potential grant and loans totaling $150 - 250k, which leaves $250 - 350k as
-    the investment opportunity for community stakeholders and investors. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "INCOME\r\n\r\nLine….. Category………………..... INCOME\r\n1……… Retail Goods…………..... $738,800\r\n2……… Distribution…………….... $108,000\r\n3……… Culinary Goods……….... $360,000\r\n4……… Culinary Space Rental… $777,600\r\n\r\nTOTAL INCOME….…...….……… $1,983,600\r\n\r\nEXPENSES\r\n\r\nCost of Sales\r\n\r\n5……… Retail Goods………..….. $442,800\r\n6…….... Distribution……………... $67,200\r\n7…….... Culinary Goods…….….. $316,800\r\n8…….... Culinary Space Rental... $194,400\r\n\r\nStaff salaries and wages\r\n\r\n9………. Owner’s Compensation. $36,000\r\n10……… 3 Full-Time Employees. $124,800\r\n11……… 5 Part-Time Employees $52,000\r\n12……… Payroll Taxes & Benefits $30,764\r\n\r\nOperations\r\n\r\n13……. Advertising………………. $3,000\r\n14……. Bank & Merchant Fees.... $1,200\r\n15……. Contract Labor………….. $12,000\r\n16……. Miscellaneous…………… $12,000\r\n17……. Insurance (L&P)............... $3,600\r\n18.…. Legal & Professional Fees $2,400\r\n19……. Office Supplies………….. $1,800\r\n20……. Rent (business property).. $216,000\r\n21……. Phone & Communications $3,600\r\n22……. Utilities……………………. $18,000\r\n\r\nOther Expenses\r\n\r\n23……. Depreciation……………….. $58,000\r\n24……. Interest Comm Loan…….. $16,654\r\n25……. Interest Comm Mortgage.. $40,390\r\n\r\nTOTAL EXPENSES……………….. $1,730,135\r\n\r\nNET INCOME…………………….... $253,465"
   How do you plan to scale the success of your proposal?: "Culinary accelerator\r\nWe are planning to build out a large industrial kitchen in the back 1/3 of the 12,500 sq ft space at MADE. It will be rented out to up and coming foodmakers for blocks of 4-8 hours at a time. A culinary accelerator is for food businesses that have plans to grow by packaging and distributing their unique products. Long Beach does not have a culinary accelerator, and currently many of our foodmakers have to leave Long Beach to develop their businesses. To be conservative in our projects we estimated 4 foodmakers renting our kitchen space at $30 an hour, but only for 18 hours a day. \r\n\r\nCulinary goods\r\nThe foodmakers who rent the kitchen will have the option to sell items at wholesale to MADE for retail sales. Only selected food prepared in the incubator kitchen will be packaged and sold at MADE, and some foodmakers will be using the kitchen for catering. Additionally several local and regional farms have partnered with MADE  to offer fresh produce, eggs, honey from local fields, and regular grocery items such as artisan bread, pasta, spices, coffees, and 40+ local food brands. This math is based on 100 food sales a day at an average food sale price of $10.  \r\n\r\nRetail goods\r\nRetail goods encompass all the non-food items that are sold at MADE. There are currently products from over 100 local makers. This estimation is based on one main aspect: By increasing foot traffic with food there will be increased exposure of non-food re\r\ntail departments at MADE: furniture, home & garden, bath & body, artisan jewelry, books & music, hand-assembled bikes and biking accessories, lamps & candles, apparel, baby and children, greeting cards and more. As MADE matures it will resemble a local department store with a market space. These are based on 60 vendor/40 MADE consignment sales.\r\n\r\nDistribution\r\nDistribution is a volume play and a positioning play, with a focus on key destinations such as The Renaissance Long Beach, and fine local establishments such as Working Class Kitchen.  \r\n\r\nBecause these models are based on amount of product and fees, they are scalable for the growth of clients that we receive. Moreover, we do make revenue by renting out facility space for events, for which we charge 50%.\r\n"
 areas_impacted: ''
 partners: ''
@@ -228,62 +220,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Experience, Slow Money SoCal, California Endowment/Building Healthy
   Communities, the Long Beach Health Department and the State of California
   Department of Public Health.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  To date we have raised $36,770 through a crowdfunding campaign. Overall, we
-  are raising $500,000 through diverse revenue sources (please see our response
-  to scaling), but the project can be completed within a $400,000 budget. Grants
-  and loans are anticipated to offset funds required, with potential grant and
-  loans totaling $150 - 250k, which leaves $250 - 350k as the investment
-  opportunity for community stakeholders and investors.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  INCOME
-   
-   Line….. Category………………..... INCOME
-   1……… Retail Goods…………..... $738,800
-   2……… Distribution…………….... $108,000
-   3……… Culinary Goods……….... $360,000
-   4……… Culinary Space Rental… $777,600
-   
-   TOTAL INCOME….…...….……… $1,983,600
-   
-   EXPENSES
-   
-   Cost of Sales
-   
-   5……… Retail Goods………..….. $442,800
-   6…….... Distribution……………... $67,200
-   7…….... Culinary Goods…….….. $316,800
-   8…….... Culinary Space Rental... $194,400
-   
-   Staff salaries and wages
-   
-   9………. Owner’s Compensation. $36,000
-   10……… 3 Full-Time Employees. $124,800
-   11……… 5 Part-Time Employees $52,000
-   12……… Payroll Taxes & Benefits $30,764
-   
-   Operations
-   
-   13……. Advertising………………. $3,000
-   14……. Bank & Merchant Fees.... $1,200
-   15……. Contract Labor………….. $12,000
-   16……. Miscellaneous…………… $12,000
-   17……. Insurance (L&P)............... $3,600
-   18.…. Legal & Professional Fees $2,400
-   19……. Office Supplies………….. $1,800
-   20……. Rent (business property).. $216,000
-   21……. Phone & Communications $3,600
-   22……. Utilities……………………. $18,000
-   
-   Other Expenses
-   
-   23……. Depreciation……………….. $58,000
-   24……. Interest Comm Loan…….. $16,654
-   25……. Interest Comm Mortgage.. $40,390
-   
-   TOTAL EXPENSES……………….. $1,730,135
-   
-   NET INCOME…………………….... $253,465
 How do you plan to scale the success of your proposal?: |-
   Culinary accelerator
    We are planning to build out a large industrial kitchen in the back 1/3 of the 12,500 sq ft space at MADE. It will be rented out to up and coming foodmakers for blocks of 4-8 hours at a time. A culinary accelerator is for food businesses that have plans to grow by packaging and distributing their unique products. Long Beach does not have a culinary accelerator, and currently many of our foodmakers have to leave Long Beach to develop their businesses. To be conservative in our projects we estimated 4 foodmakers renting our kitchen space at $30 an hour, but only for 18 hours a day. 

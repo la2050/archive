@@ -19,8 +19,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change?  Advocate with policymakers and leaders: '0'
-  How did you hear about this challenge?: Tara Roth's presentation for FWD.us
   Organization(s) name(s): 'Voter, LLC'
   Organization(s) mailing address(es): '1453 3rd Street Promenade, Suite 300, Santa Monica, CA 90401'
   Organization(s) website(s): www.voter.xyz
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '0'
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
-  How do you plan to use these resources to make change? Mobilize for systems change: '1'
+  How did you hear about this challenge?: Tara Roth's presentation for FWD.us
   'City, State': 'Santa Monica, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
   How do you plan to use these resources to make change? Other: '0'
@@ -125,8 +125,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Voting by race - We’ll use demographic data from Facebook logins to track users’ voting rates by ethnicity, age, gender, and location. We respect privacy, and all data is anonymous in that we can never identify it to a specific user.\r\n\r\nRates of volunteerism - Compare the NCoCs (National Conference on Citizenship) annual volunteer metrics from the past to track progress in LA county. We will survey users at regular intervals, comparing our own results with the NCoCs.\r\n\r\nNeighborhood council participation - We plan to curate information on Los Angeles’s 96 neighborhood council elections. We will encourage and track neighborhood council participation by connecting users with councils in their area, and allowing them to check-in via social media.\r\n\r\nGovernment responsiveness - Periodically survey our user-base to gauge whether they feel responsiveness has improved. Our impact will be magnified by giving politicians insight into the issues their constituents prioritize most."
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "The only platform with the same core concept, is iSideWith, though their target audience and execution are much different than ours. We are targeting millennials and younger voters, and aim to make the experience fun, fast, and fact-based.\r\n\r\niSideWith does not have local information, and only matches users to national candidates. We are planning to curate data all the way down to local elections, beginning in Los Angeles.\r\n\r\nAdditionally, the iSideWith quiz is akin to a test one would take in high school. It’s not something people are going out of their way to participate in.\r\n\r\nBy contrast, we've designed Voter to be fast and engaging. We prioritize usability, focusing on making the experience fun and intuitive. We feature a tinder-inspired layout, in which users simply swipe on issues to indicate their position.\r\n\r\nWe consider iSideWith complementary rather than competitive. We are big fans of anything that helps foster civic engagement!"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "We have incredible partners and resources that allow us to automate most of our data aggregation, including: GovTrack.us, the Sunlight Foundation, Follow the Money, OpenSecrets, and Project Votesmart. Each organization is a nonprofit, and has been generous to offer their resources for free.\r\n\r\nWe were accepted into Google's new startup support program this month, which includes $100,000 of cloud services credits, and $20,000 of AdWords credits. We are also using Google’s Civic API (free to access) to tailor election data based on a user’s location.\r\n\r\nAdditionally, we have free office space in Santa Monica for the next year and half through the Stubbs Alderton accelerator program, located above the 3rd Street Promenade.\r\n(1453 3rd Street Promenade, Suite 300, Santa Monica, CA 90401)\r\n\r\n\r\nProject Team:\r\n\r\nHunter Scarborough (Design)\r\nKey Art winning graphic designer with a focus in mobile user-interface and web design.\r\n\r\nSuneil Nyamathi (Development)\r\nWinner of the 2013 Samsung Hackathon, earned his M.S. in Computer Science at UCLA.\r\n\r\nIan Macdonald (User Acquisition)\r\nPR consultant with contacts at the LA Times, Wired, Buzzfeed, TechCrunch, Bloomberg etc.\r\n\r\nDeborah Hafford (Business Development)\r\nWinner of Google's O.C. award with demonstrated success in user growth in start-ups.\r\n\r\nCarlos Morrow (Policy Analyst)\r\nBipartisan political consultant, previously worked under Senator Dianne Feinstein."
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "We expect the LA local election builds to cost between $100k-125k. We have an investor committed for $50k, and several others interested in helping bring Voter to local elections in Los Angeles.\r\n\r\nAs detailed above, we have several generous partners and resources that have allowed us to avoid many significant costs, including office space, as well as the bulk of cloud computing costs."
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "35k - Programming / Development\r\n27k - Marketing / Communications\r\n18k - Candidate Outreach team - We have relationships with several local universities, including Chapman, Loyola, Pepperdine, USC, and UCLA, to bring poli-sci interns on board.\r\n10k - Data culling\r\n7k   - Cloud computing & web servers (AWS) - AWS is required for certain services, the rest is covered by Google.\r\n3k   - Administrative / misc.\r\n0k   - Office Rent - We have free office space in Santa Monica for the next year and half through the Stubbs Alderton accelerator program, located above the 3rd Street Promenade.\r\n(1453 3rd Street Promenade, Suite 300, Santa Monica, CA 90401)"
   How do you plan to scale the success of your proposal?: "Our outreach team will be curating data for the first several elections; however, our long term goal for sustained growth, is to attract enough users that candidates for local office are incentivized to build their own profile, or risk missing a large percentage of the voting population.\r\n\r\nWe are also building an outreach program for social science and government classes at high schools and colleges. Aside from helping inform young voters, this accomplishes two important goals for the scalability of our proposal:\r\n1. It guarantees a strong group of local users in new municipalities.\r\n2. It builds the foundation for an outreach team to contact local candidates in that area.\r\n\r\nWe will focus on Los Angeles County and it’s 88 municipalities before scaling to other areas in Southern California. With proven success in Los Angeles, we plan to duplicate our program in neighboring areas, including Orange County and Ventura County."
 areas_impacted: ''
 partners: ''
@@ -232,21 +230,6 @@ Are there other organizations doing similar work (whether complementary or compe
    
    Carlos Morrow (Policy Analyst)
    Bipartisan political consultant, previously worked under Senator Dianne Feinstein.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We expect the LA local election builds to cost between $100k-125k. We have an
-  investor committed for $50k, and several others interested in helping bring
-  Voter to local elections in Los Angeles.
-   
-   As detailed above, we have several generous partners and resources that have allowed us to avoid many significant costs, including office space, as well as the bulk of cloud computing costs.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  35k - Programming / Development
-   27k - Marketing / Communications
-   18k - Candidate Outreach team - We have relationships with several local universities, including Chapman, Loyola, Pepperdine, USC, and UCLA, to bring poli-sci interns on board.
-   10k - Data culling
-   7k - Cloud computing & web servers (AWS) - AWS is required for certain services, the rest is covered by Google.
-   3k - Administrative / misc.
-   0k - Office Rent - We have free office space in Santa Monica for the next year and half through the Stubbs Alderton accelerator program, located above the 3rd Street Promenade.
-   (1453 3rd Street Promenade, Suite 300, Santa Monica, CA 90401)
 How do you plan to scale the success of your proposal?: >-
   Our outreach team will be curating data for the first several elections;
   however, our long term goal for sustained growth, is to attract enough users

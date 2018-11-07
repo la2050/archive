@@ -22,8 +22,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_learn_communitycollege: '1'
   collaboration: "The CDF will work with the Housing Authority of the County of Los Angeles (HACoLA) to implement Project: SCHOLARS. This partnership is confirmed and longstanding.  The benefits of working with HACoLA is the ability to work directly with site staff to access residents that are college-bound or current college students.  HACoLA offers their residents case management, afterschool programming, and clinical psychological services.  The relationships that their staff build through these and other programs is a compliment to CDF's programming.\r\n\r\n"
-  metrics_learn_earlyeducation: '0'
   org_website: www.lacdf.org
   org_twitter: ''
   org_facebook: ''
@@ -86,7 +86,7 @@ maker_answers:
   who_benefit: "CDF and Project: SCHOLARS benefit a specific sub-population of the Los Angeles Community: low-income housing residents, that is Section 8 and Public Housing residents.  In Los Angeles County there are over 100,000 families enrolled in one of these two housing programs. This target population is made up of some of our region’s most disadvantaged youth and families that struggle from more than poverty.  The vast majority of low-income residents are economically unstable and vulnerable and have also dealt with extreme adversity such as being formerly homeless, transition age youth (TAY) leaving the foster care system, victims of domestic or sexual violence, physically or mentally disabled, among other challenges.  A particularly unique aspect of the CDF’s target population is that there are no age limits, and in fact, the CDF encourages adults to return to higher education.  The CDF believes that while it is important to support youth transitioning from high school to college, supporting adults (especially adults with children) can be challenging but is also important to ending generational poverty.  Parents returning back to school have the opportunity to not only improve their lives but also the lives of their children. Without Project: SCHOLARS, our clients are at-risk of being stuck in the vicious cycle of generational poverty.\r\n\r\nAlthough direct services are provided to low-income housing residents, the ripple effects of Project: SCHOLARS goes well beyond the individual participant.  While the students receive the direct benefit of financial and emotional support as they persist through college, their family and the greater community gains a new positive role for educational excellence, perseverance, and resiliency as well.\r\n"
   about_you: 'Alhambra, CA '
   org_name: Los Angeles County Community Development Foundation
-  metrics_learn_communitycollege: '1'
+  metrics_learn_earlyeducation: '0'
   metrics_learn_unemployment: '0'
   metrics_learn_graduationrates: '0'
   metrics_learn_proficiency: '0'
@@ -119,11 +119,6 @@ maker_answers:
     low-income housing residents typically only focus on one public housing
     community, whereas CDF works with all residents of Section 8 and Public
     Housing.
-  cost: >-
-    The total budget for Project: SCHOLARS is $250,000 and will be covered by
-    additional support from corporate, foundation, government, and individual
-    support.
-  budget: "Program support needed to operate this program in 2015 includes the following personnel, non-personnel, and administrative costs:  \r\nPersonnel:\r\n1)\tExecutive Director: 15% of 1 FTE, including fringe benefits, ($16,050).  Responsible for day to day operations of Project: SCHOLARS. Will supervise all program staff, oversee program evaluation, monitor progress toward outcomes, prepare and submit reports. Will assist in direct service as time allows. \r\n2)\tProject: SCHOLARS Outreach Coordinator: 100% of 1 FTE, including fringe benefits ($47,750). Will engage program participants, participate in program evaluation, and serve as liaison with all community representatives and potential in-kind donors. Additionally, will recruit, screen, train, schedule quarterly mentor/student activities. Budgeted at 11 months in year one to allow one month for recruitment and hiring. Supervised by Executive Director.\r\nNon-personnel:\r\n1)\tScholarships: $18,000. Scholarships are awarded to low-income housing residents attending a 4-year university, community college, or vocational training program.  Scholarship amounts range from $750 to $2,500.\r\n2)\tPrinting: $500. The program will require approximately 35,000 pages will be printed for various purposes, including marketing outreach, volunteer recruitment, program planning documents, program evaluation materials, reports, letters, and forms.  Printing will be charged at a standard per page rate of $0.10 for black and white, $0.50 for color, and $0.75 for flyer quality paper.    \r\n3)\tPostage: $1,200. Agency experience shows that the most effective manner of formally announcing program related communication to participants is through postal mail (used in addition to e-mail, phone, and in-person communication).  \r\n4)\tTravel: $1,500. Mileage is paid at the federal rate of $0.55 cents per mile. Staff expects to travel a total of approximately 2,750 miles annually to meet with program participants, mentors, and community representatives, to consult with volunteers, and plan and implement activities.  \r\nAdministrative:\r\n1)\t$15,000. The CDF will provide financial management, bookkeeping, liability and professional insurance, financial audit, information-technology services, use of general office equipment and technology, office space, and other required services to support the HAR Scholarship program. Agency classifies these services as indirect expenses. The indirect-expense request is calculated at 15% of all direct expenses covered by the requested"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

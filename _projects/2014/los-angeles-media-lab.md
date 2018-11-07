@@ -15,8 +15,8 @@ project_areas:
   - CENTRAL LA
   - EAST LA
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: 'Los Angeles, CA'
   org_website: 'http://experimentalhalfhour.com'
   org_twitter: 'http://twitter.com/exphalfhour'
   org_facebook: 'http://facebook.com/experimentalhalfhour'
@@ -70,7 +70,7 @@ maker_answers:
   org_name: Experimental Half-Hour
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: 'Los Angeles, CA'
   metrics_create_patents: '0'
   metrics_create_jbs: '0'
   metrics_create_minoritywomenowned: '1'
@@ -97,8 +97,6 @@ maker_answers:
   achievable_goal: "We currently have a three camera mobile HD TV studio, however we lack a permanent home and studio to be based out of. With the monetary support from the LA 2050 Goals grant we will be able to secure a location immediately, build out the space, and start planning the public programming for the year. The project is fully achievable once a space is leased. Half of the equipment has been purchased and we have several community organizations on-board to contribute to the initial startup of the facility. \r\n"
   major_challenges: "Our biggest barriers are space and money. We need funding to rent and outfit a space to better serve the community. In order to account for our lack of a consolidated space, we’ve had to host events in site specific places. While this has been good, we think that a permanent space would allow us a broader range of programming as well as allowing us to be able to realize our specific vision. We’ve been able to hold fundraisers for past projects and events. This space would allow some leeway to focus on fundraising efforts because so far we have been dealing with finding a space as well as fundraising. \r\n"
   competition: "The city of Los Angeles has no functional public access studio station that serves the broader Los Angeles community. We are the only organization that is proposing a free and public access television and artist run media lab that will be available for all ages (adults and children).\r\n\r\nThe organizations that we work with - while not doing the exact work that we are doing,  nonetheless support our vision and want to contribute to our work. With a consolidated space, we will be able to include the resources and experience that they offer. Our vision is unique, but it also includes other groups working in media, radio and art. We are the only organization that is working with this type of media plan. We feel that we are serving the community in a way that is important and is not currently being fostered.\r\n\r\nExperimental Half-Hour was started as a platform to engage and broadcast local and international musicians, performance artists, dancers, and comedians. The half-hour episodes provide a record of contemporary performing arts and video culture. Conceptual collaboration is stimulated by access to a broad range of new and old technologies ranging from live video broadcasting to glitch-based homemade video effects “stomp” boxes. We want to create a collaborative environment that stimulates unexpected, pleasant surprises. Experiences that that bring artists and the community together.  "
-  cost: "Since starting Experimental Half-Hour we have been able to continue our programming with little to no money. Mostly it has been a volunteer run grassroots organization that is passionate about television and media. With the $100,000 we will secure the basic costs to run the facility. This will allow us to start right away with planning our public programming, events, and workshops.  \r\n\r\nIn the mean time we will continue our outreach for funding to secure the future of the media lab through additional grants and tax-deductible donations of equipment and money. "
-  budget: "Item                                 Qty           Unit Price                 Total\r\nRent                                 12              4,000                      48,000\r\nBuilt out                             1             5,000                        5,000\r\nUtilities                            12              1,000                       12,000\r\nPart-Time Staff                  1           18,000                      18,000\r\nAudio Mixer/PA                 1              3,000                        3,000\r\n2nd Studio Equipment     1            10,000                      10,000\r\nOne Year Insurance          1              4,000                        4,000\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

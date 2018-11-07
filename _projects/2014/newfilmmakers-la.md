@@ -20,8 +20,8 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
 maker_answers:
+  metrics_create_researchgrant: '0'
   metrics_create_employment: '1'
-  city_state: 'Hollywood, CA'
   org_website: www.nfmla.org
   org_twitter: www.twitter.com/nfmla
   org_facebook: www.facebook.com/nfmla
@@ -72,7 +72,7 @@ maker_answers:
   org_name: NewFilmmakers Los Angeles
   metrics_create_arts: '1'
   metrics_create_manufacturing: '0'
-  metrics_create_researchgrant: '0'
+  city_state: 'Hollywood, CA'
   metrics_create_patents: '0'
   metrics_create_jbs: '1'
   metrics_create_minoritywomenowned: '1'
@@ -109,8 +109,6 @@ maker_answers:
     both organizations to co-present films and events on a number of occasions
     and are proud to say that these collaborations have been fruitful on both
     sides--and most of all for the communities we're serving.
-  cost: "$100,000 will go a long way towards allowing us to greater serve the citizens of Los Angeles.\r\n\r\nIn terms of additional operating costs, NFMLA has been able to maintain a consistent stream of support for our current program's yearly expenses ($175,150) through generous contributions from our constituents, filmmakers, sponsors and many civic organizations throughout Los Angeles, such as the Hollywood Chamber of Commerce and FilmLA. Through the funding we have received from these sources we have been able to successfully maintain our program while steadily growing.  Revenue specifically includes: public and private grants, event ticket sales, film submission fees, yearly membership purchases, donations, and corporate sponsorship from such sources as: SAG-AFTRA, Wells Fargo, Revelry Event Design, FilmLA, Mole Richardson Company, LA Weekly, and Sony Pictures Entertainment."
-  budget: "NewFilmmakers Los Angeles specifically requests $100,000 from LA2020 to: cover the initial $25,000 salary of two new full-time staff members to do outreach to all underserved populations and communities of Los Angeles, use $15,000 of these funds to provide workshops and other educational programming to these populations, supplement filmmaker outreach costs of $10,000, expand On Location with $10,000, establish a $10,000 fund to fly low-income international filmmakers to our events so as to greater promote cultural exchange, as well as a $5,000 fund to allow submission fee waivers for low-income filmmakers and ticket waivers to low-income audience members.\r\n\r\nOur accountant, a 3rd party C.P.A., is responsible for all of our bookkeeping, which is also thoroughly examined by our Executive Director, Larry Laboe, and Board Treasurer, Steven J.  Wolfe, as an ethical failsafe. We keep very thorough records of our finances and pride ourselves on fiscal transparency.  Please feel free to call us anytime at your convenience with any budgetary questions you may have about NewFilmmakers Los Angeles; we welcome questions or visits from auditors."
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

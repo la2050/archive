@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: the internet
   Organization(s) name(s): Neighborhood Council Sustainability Alliance
   Organization(s) mailing address(es): "1515 Elevado St\r\nLos Angeles, CA 90026"
   Organization(s) website(s): 'http://ncsa.nationbuilder.com/'
@@ -72,7 +72,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: the internet
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -127,11 +127,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "Actions taken by participating households and blocks will be measured by\r\ncarbon pollution avoided\r\nresiliency and livability\r\nprogram growth\r\nnumber of actions taken\r\n\r\nPoints will also be awarded for the qualitative contributions of \r\ncollaboration\r\nsharing\r\nparticipation\r\nleadership\r\nsocial innovation\r\nmastery\r\nThis will help each team focus on the key performance indicators necessary for their success and the program’s growth.\r\n\r\nIn consultation with Mr. Gershon, the NCSA will design, implement, and analyze pre and post surveys related to the above measures.\r\n\r\nThe NCSA will also measure and report on such outputs as: \r\nblock leader recruitment rates\r\nparticipation rate per neighborhood\r\nnumber of LA residents and partners reached through Cool Block program education and outreach efforts\r\n\r\nFinally, we will measure environmental outcomes that include carbon pollution reduction and water savings per household, using online calculator tools. "
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "The NCSA is the first organization in the City of Los Angeles to systematically bring together Neighborhood and Community Councils—hubs of civic engagement in LA, representing nearly 100 communities—to achieve collective impact on local sustainability and resilience issues. We offer a unique and vital platform to connect, educate, and engage community members on such topics, in collaboration with city agency and nonprofit partners.\r\n\r\nOur “Cool Block” pilot program will be the first of its kind, anywhere in the world. The Cool Block program builds on and integrates 30 years of experience by the Empowerment Institute and more than 300 communities around the globe which have formed neighborhood-scale “EcoTeams” to foster healthy, sustainable communities.\r\n\r\nThe Cool Block approach is unique to grassroots sustainability behavior change programs in its ability to improve neighborhoods in a manner that: consistently achieves high impact results; is measurable; promotes social connections; is cost effective; and is highly scalable."
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "David Gershon, co-founder and CEO of Empowerment Institute and designer of the Cool Block and other sustainable behavior change programs, is one of the world’s foremost authorities on behavior change, community empowerment and large-system transformation. He applies this expertise to issues requiring community, organizational, and societal change. \r\n\r\nMr. Gershon’s clients include cities, large organizations, government agencies, and social entrepreneurs. He has addressed a wide diversity of issues ranging from low carbon lifestyles, livable neighborhoods, and sustainable communities to organizational talent development, corporate social engagement, and cultural transformation. Over the past thirty years the programs he has designed have won many awards, and a major academic research study described them as “unsurpassed in changing behavior.”\r\n\r\nMr. Gershon will provide $75,000 in in-kind support, through the provision of Cool Block guidebooks and related materials, intensive in-person capacity building training, and project team consulting services.\r\n\r\nOther project partners include: Mack Consulting, which will receive $2,000, TreePeople, and Recycle by City.\r\n\r\nRecycle by City empowers residents with the local information they need to recycle better, waste less, and keep hazardous materials out of the waste stream."
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The project costs will exceed $100,000, but additional costs are provided
-    through in-kind support in the amount of $84,060, which is detailed in the
-    budget.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "$75,000--\r\nConsulting support provided by David Gershon, Cool Block program creator.  In-kind\r\n\r\n$72,00--Salary for two quarter-time, local Project Leaders to manage and carry out the project. $90 per hour, 80 hours per month for 10 months\r\n\r\n$1,560--Volunteer time of NCSA Governing Board Members and Committee volunteers. $26 per hour, 6 members, 1 hours per month, 10 months.  In-kind\t\t\t\r\n\r\n$7,500--One project leader training workshop, plus 100 participant books. $7,500.  In-kind\r\n\r\n$2,000--Fiscal sponsor/contract administration  \r\n\r\n$5,000--NCSA administrative/overhead costs\r\n\r\n$4,000--Graphic design/marketing support for program. $400 per month for 10 months\r\n\r\n$5,000--One project leader training workshop, New York\r\n\r\n$4,000--Travel to training workshop for two project co-leaders\t\t\t\r\n\t\t\t\t\r\n$7,000--Events: Three Cool Block Cafe; 1-day Cool Block Leader training; 10 Cool Block parties;  and 1 Debrief session\r\n"
   How do you plan to scale the success of your proposal?: "One of the strengths of the underlying Cool Block program is that its foundation program, EcoTeams, has been successfully implemented in over 300 cities across the world, and has been proven to be highly scalable and replicable.  \r\n\r\nDavid Gershon will serve as a consultant on the pilot program, and work closely with the NCSA board to develop an effective architecture for scaling up the program.\r\n\r\nOur plan is to pilot the program in “early adopter” LA neighborhoods in Year 1 while growing a solid Cool Block program foundation and developing trained Cool Block leaders who can support follow-on work. We will then be poised to expand the Cool Block program exponentially in Years 2 and 3.\r\n\r\nCool Blocks are designed to engage in a web of mutual support with surrounding blocks, and through this mechanism have been shown to not only sustain behavior change, but expand it. Cool Neighborhoods can be created out of 10 adjacent Cool Blocks. The benefits of scale include such things as solar installations that serve entire neighborhoods and community carbon offset program to invest in local renewable energy or urban forestry projects.\r\n\r\nIn alignment with the Sustainable City Plan and the LA2050 Vision and Goals, our long-term goal is to engage 15% of City of LA households in the Cool Block program—a demonstrated tipping point for social change.\r\n\r\nBy the end of Year 3, Los Angeles will be in an ideal position to serve as a candidate for an upcoming “Cool Cities Challenge,” a $2.5 million initiative with 20 California cities leading the way to a healthy carbon future by 2020."
 areas_impacted: ''
 partners: ''
@@ -225,31 +220,6 @@ Are there other organizations doing similar work (whether complementary or compe
    Other project partners include: Mack Consulting, which will receive $2,000, TreePeople, and Recycle by City.
    
    Recycle by City empowers residents with the local information they need to recycle better, waste less, and keep hazardous materials out of the waste stream.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The project costs will exceed $100,000, but additional costs are provided
-  through in-kind support in the amount of $84,060, which is detailed in the
-  budget.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  $75,000--
-   Consulting support provided by David Gershon, Cool Block program creator. In-kind
-   
-   $72,00--Salary for two quarter-time, local Project Leaders to manage and carry out the project. $90 per hour, 80 hours per month for 10 months
-   
-   $1,560--Volunteer time of NCSA Governing Board Members and Committee volunteers. $26 per hour, 6 members, 1 hours per month, 10 months. In-kind 
-   
-   $7,500--One project leader training workshop, plus 100 participant books. $7,500. In-kind
-   
-   $2,000--Fiscal sponsor/contract administration 
-   
-   $5,000--NCSA administrative/overhead costs
-   
-   $4,000--Graphic design/marketing support for program. $400 per month for 10 months
-   
-   $5,000--One project leader training workshop, New York
-   
-   $4,000--Travel to training workshop for two project co-leaders 
-   
-   $7,000--Events: Three Cool Block Cafe; 1-day Cool Block Leader training; 10 Cool Block parties; and 1 Debrief session
 How do you plan to scale the success of your proposal?: >-
   One of the strengths of the underlying Cool Block program is that its
   foundation program, EcoTeams, has been successfully implemented in over 300

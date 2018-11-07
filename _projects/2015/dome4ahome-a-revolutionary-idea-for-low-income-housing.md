@@ -13,8 +13,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '1'
-  How did you hear about this challenge?: NPR
   Organization(s) name(s): 'HDomes.com, Shacklebrand Designs'
   Organization(s) mailing address(es): "PO Box 4098\r\nHollywood, CA 90078"
   Organization(s) website(s): HDomes.com
@@ -58,7 +58,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: NPR
   How do you plan to use these resources to make change? Other: '1'
   How do you plan to use these resources to make change? Specifics: Show how low cost housing can be high quality and desirable
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -149,10 +149,6 @@ maker_answers:
     design will be done gratis and it is intended that a lot of the work be done
     on a volunteer basis. It is intended that every available dollar be put into
     constructing actual homes.
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    We believe we can build at least two homes for $100 K and perhaps more
-    depending on the level of donations.
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Each Dome:  Dome Shell and slab $18,200, mechanical/electrical/plumbing $4,050, interior finish  $4,225,  windows $350, appliances  $1,250.\r\nLand improvement  sewer/power/water hookup, walkway etc etc.$10,000\r\nTotal for each dome $38,075  x 2  =  $76,150 \r\nIf materials/labor are donated we would like to build three Domes."
   How do you plan to scale the success of your proposal?: >-
     We would partner with the city of Los Angeles to roll out a larger
     Monolithic Dome building program. We would also look to corporate
@@ -194,15 +190,6 @@ Are there other organizations doing similar work (whether complementary or compe
   design will be done gratis and it is intended that a lot of the work be done
   on a volunteer basis. It is intended that every available dollar be put into
   constructing actual homes.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  We believe we can build at least two homes for $100 K and perhaps more
-  depending on the level of donations.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': >-
-  Each Dome: Dome Shell and slab $18,200, mechanical/electrical/plumbing $4,050,
-  interior finish $4,225, windows $350, appliances $1,250.
-   Land improvement sewer/power/water hookup, walkway etc etc.$10,000
-   Total for each dome $38,075 x 2 = $76,150 
-   If materials/labor are donated we would like to build three Domes.
 How do you plan to scale the success of your proposal?: >-
   We would partner with the city of Los Angeles to roll out a larger Monolithic
   Dome building program. We would also look to corporate sponsorship to

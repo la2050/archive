@@ -19,8 +19,8 @@ project_image: >-
 project_areas:
   - San Gabriel Valley
 maker_answers:
+  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '1'
-  'City, State': 'South Pasadena, CA '
   Organization(s) mailing address(es): "1301 Rollin Street\r\nSouth Pasadena, CA 91030"
   Organization(s) website(s): 'http://school.holyfamily.org/'
   Organization(s) twitter handle(s): 'https://twitter.com/holyfamily'
@@ -67,7 +67,7 @@ maker_answers:
   How do you plan to use these resources to make change? Conduct research: '1'
   How do you plan to use these resources to make change? Engage residents and stakeholders: '1'
   How do you plan to use these resources to make change? Implement a pilot or new project: '1'
-  How do you plan to use these resources to make change? Expand a pilot or a program: '1'
+  'City, State': 'South Pasadena, CA '
   Organization(s) name(s): 'Holy Family School '
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
   How do you plan to use these resources to make change? Implement and track policy: '0'
@@ -147,11 +147,6 @@ maker_answers:
     model in a truly collaborative effort with a variety of schools and
     community partners. 
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "Mutually-beneficial partnerships make up the core of an impactful service-learning model and we know that we are strengthened through collaboration and community impact. Notably, our collaboration and leadership role with our economically disadvantaged partner schools (Dolores Mission, Our Lady of Guadalupe, Assumption and St. Alphonsus) throughout East Los Angeles, will be enhanced through documented implementation methods around this service-learning model. For the past decade, Holy Family staff, students, parents and parishioners have committed time and resources to bring these schools new educational, drama, theater and art programs, text books, computers, playground equipment and school supplies. Our service-learning curriculum advancements and shared resources will be on ongoing opportunity to advance in solidarity with these schools. \r\n\r\nAdditional direct community partnerships will include: growing produce for the Holy Family Giving Bank weekly food distribution; supplying herbs and vegetables to local restaurants that supply our school hot lunch program; shared resources and joint faculty and student service-learning lessons in collaboration with our partner schools; as well as countless partnerships as part of our non-profit of the month service-learning partnerships with some examples including the Center for Restorative Justice Works (an organization providing assistance to children of the incarcerated), Hillsides for Abused Children and Project Haiti. "
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    The program will have one-time, start-up costs of $100,000 to implement and
-    develop a replicable model. Following the start-up year the program will be
-    sustained by the school budget. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "Faculty stipends to design and implement the program $25,000\r\nFaculty development $15,000\r\nExpanded resources/curriculum materials for the learning garden, outdoor classroom & multimedia component $40,000\r\nReplication manual materials $5,000\r\nShared resources with partner schools $15,000\r\n"
   How do you plan to scale the success of your proposal?: >-
     As a pilot school for many projects in the archdiocese of Los Angeles, Holy
     Family implements programs that exist for the benefit of our greater
@@ -226,16 +221,6 @@ Are there other organizations doing similar work (whether complementary or compe
   advance in solidarity with these schools. 
    
    Additional direct community partnerships will include: growing produce for the Holy Family Giving Bank weekly food distribution; supplying herbs and vegetables to local restaurants that supply our school hot lunch program; shared resources and joint faculty and student service-learning lessons in collaboration with our partner schools; as well as countless partnerships as part of our non-profit of the month service-learning partnerships with some examples including the Center for Restorative Justice Works (an organization providing assistance to children of the incarcerated), Hillsides for Abused Children and Project Haiti.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The program will have one-time, start-up costs of $100,000 to implement and
-  develop a replicable model. Following the start-up year the program will be
-  sustained by the school budget.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  Faculty stipends to design and implement the program $25,000
-   Faculty development $15,000
-   Expanded resources/curriculum materials for the learning garden, outdoor classroom & multimedia component $40,000
-   Replication manual materials $5,000
-   Shared resources with partner schools $15,000
 How do you plan to scale the success of your proposal?: >-
   As a pilot school for many projects in the archdiocese of Los Angeles, Holy
   Family implements programs that exist for the benefit of our greater

@@ -18,8 +18,8 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
 maker_answers:
+  'City, State': 'San Francisco, CA '
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: 'Friend '
   Organization(s) name(s): 'EARN '
   Organization(s) mailing address(es): "235 Montgomery Street, Suite 470 \r\nSan Francisco, CA 94104"
   Organization(s) website(s): 'http://www.earn.org'
@@ -66,7 +66,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '1'
-  'City, State': 'San Francisco, CA '
+  How did you hear about this challenge?: 'Friend '
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -118,8 +118,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "EARN rigorously evaluates our savings products; over the course of the program we track our client’s financial security and spending and saving behaviors. Our ultimate goal is to improve economic self-sufficiency by helping our clients build savings. Therefore, we also evaluate our work by the impact it has on financial behavior in the long-term. Key indicators we assess are if program users: \r\n\r\no Demonstrate a regular pattern of saving and reach their savings goals.\r\no Continue saving 6 months to a year after the program ends using a.) either a mainstream savings product or b.) an EARN goal-based account. \r\no Show an improvement in psychosocial behavior towards saving. For example: Being more prepared for financial emergencies and reporting more self-efficacy regarding their financial future. \r\n\r\nOur goals are for: \r\no 300 LA households will enroll and deposit at least $20 a month.\r\no 85% of participants will complete the program and 70% will consistently reach their monthly deposit goal.\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "EARN is the only organization in the United States focused on building savings habits via a laddered online approach. Our market research revealed that one of the largest unmet needs for the low-income population was a basic, short-term savings product that focused on cultivating a saving pattern. We found that nearly 90% of families want to save, but most are not saving and don't know how to begin. EARN’s new online savings program was created to fill this gap by reaching underbanked individuals and guiding them through the savings process in order to build short-term savings. \r\n\r\nWe set accessible savings goals and program lengths to reach people who have never saved before. Many traditional savings organizations require participants to set aside large sums of money ($1,000+) over several years without making a withdrawal, and the funds saved can only be used for a specific asset. These large savings goals and the long length of the program were barriers for enrollment and scalability, leaving many households underserved. EARN is unique because we work to create a habit of saving, starting with smaller dollar amount for emergencies. Our clients identify the greatest value of the program to be their own changed behavior and attitudes about finance, leading us to believe that they will be able to continue saving for larger goals. \r\n\r\n"
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "The $100,000 grant award will be utilized by EARN to expand our existing partnership with the Magnolia Place Community Initiative. The initiative brings together over seventy organizations that achieve and sustain community health in the neighborhoods within the five hundred blocks of the Magnolia Catchment Area of Los Angeles. EARN collaborates with several of these organizations including LIFT LA, CABO (Center for Asset Building Opportunities) and JF LA to bring savings to their constituents. \r\n\r\nEARN will use the grant award to enroll an additional 300 Los Angeles households in our savings program. EARN covers the complete cost of the program, which includes full customer service for users, marketing and outreach support, matched monetary rewards, and reporting and evaluation for partner organizations. Meanwhile, partner organizations are responsible for promoting the savings program to their clients. Partnerships are mutually beneficial because EARN reaches more underserved, underbanked households while partner organizations expand the services they deliver. \r\n"
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': "The total cost of expanding EARN’s saving program to Los Angeles is $300,000. Our project goals are to enroll at least 500 Los Angeles households in 2016 and to translate the program into Spanish. \r\n\r\nEARN has already received $200,000 from the Leonetti O’Connell Family Foundation to serve 200 Los Angeles households and to translate the program into Spanish. The LA2050 grant will support the enrollment of 300 additional households in the program. \r\n"
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "2015-16 EARN Budget for LA2050\r\n\t\r\nMatch Rewards: $16,500 \r\n\t\r\nSalaries\r\nFinancial Services: $9,200 \r\nProduct: $11,200 \r\nPlatform: $11,900 \r\nSalaries – Total: $32,300 \r\n\t\r\nBenefits\r\nRetirement: $2,422 \r\nInsurance: $7,802 \r\nOther: $814 \r\nBenefits – Total: $11,038 \r\n\t\r\nMarketing / Communications Expenses\r\nPress releases: $2,560 \r\nPartner Marketing Materials\t: $2,116 \r\nPR agency / contractors: $1,280 \r\nTravel: $4,074 \r\nMarketing / Communications Expenses - Total\t: $10,030 \r\n\t\r\nFinancial Services\r\nRent:  $14,994 \r\nFS - Savings Account - Intuit API: $720 \r\nOffice Supplies: $2,692 \r\nTelecommunications\t: $2,076 \r\nUtilities: $416 \r\nParticipant Expenses: $7,200 \r\nFinancial Services - Total\t 20,482 \r\n\t\r\nPlatform expenses\r\nEquipment Hire: $1,246 \r\nAmazon: $1,038 \r\nPlatform expenses - Total\t 2,284 \r\n\t\r\nAdministration\r\nOperations: $7,366 \r\nAdministration expenses – Total: $7,366 \r\n\t\r\nTotal Expense \t $100,000\r\n"
   How do you plan to scale the success of your proposal?: "EARN is dedicated to scaling impact through the use of technology. We have brought our savings programs online and are equipped to respond to the unique and varied needs of traditionally underserved individuals anywhere in the nation. The EARN savings program was specifically developed to focus on the transformative habit of saving, while being extremely cost efficient and highly scalable. By leveraging technology and using behavior-based rewards and incentives, our program has the potential to build a habit of saving in thousands of households in the United States. \r\n\r\nThe potential market for our savings program is huge. Almost half of Americans (40%) – 126 million people – are living on the edge of financial collapse with almost no savings. EARN intends to reach these individuals through direct marketing and by pursuing strategic partnerships with other organizations to offer EARN’s program to their low-income employees and clients. EARN has already established partnerships with twenty organizations, including four in Los Angeles. We are also pursuing sustainable earned revenue streams for businesses that want to offer the program as a benefit for their low to moderate income workers, allowing EARN to reach even more people. We currently have eight customers providing employees access to the EARN savings program. \r\n \r\nBeyond this, EARN is working to scale the impact that our program can have on people’s lives. We are building out a comprehensive suite of savings products that our clients can use to reach more ambitious savings goals. After successfully saving for emergencies our clients will be able to start saving for their children’s education, a home, or even their own retirement. All new products will be based upon our existing technology infrastructure, powered by Intuit and Amazon Web Services. \r\n\r\nEARN believes that providing the tools to save is one of the most effective ways to ensure resiliency and social-economic opportunity in our communities. We are determined to scale our success to reach people across America. \r\n"
 areas_impacted: ''
 partners: ''
@@ -187,55 +185,6 @@ Are there other organizations doing similar work (whether complementary or compe
   Opportunities) and JF LA to bring savings to their constituents. 
    
    EARN will use the grant award to enroll an additional 300 Los Angeles households in our savings program. EARN covers the complete cost of the program, which includes full customer service for users, marketing and outreach support, matched monetary rewards, and reporting and evaluation for partner organizations. Meanwhile, partner organizations are responsible for promoting the savings program to their clients. Partnerships are mutually beneficial because EARN reaches more underserved, underbanked households while partner organizations expand the services they deliver.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  The total cost of expanding EARN’s saving program to Los Angeles is $300,000.
-  Our project goals are to enroll at least 500 Los Angeles households in 2016
-  and to translate the program into Spanish. 
-   
-   EARN has already received $200,000 from the Leonetti O’Connell Family Foundation to serve 200 Los Angeles households and to translate the program into Spanish. The LA2050 grant will support the enrollment of 300 additional households in the program.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  2015-16 EARN Budget for LA2050
-   
-   Match Rewards: $16,500 
-   
-   Salaries
-   Financial Services: $9,200 
-   Product: $11,200 
-   Platform: $11,900 
-   Salaries – Total: $32,300 
-   
-   Benefits
-   Retirement: $2,422 
-   Insurance: $7,802 
-   Other: $814 
-   Benefits – Total: $11,038 
-   
-   Marketing / Communications Expenses
-   Press releases: $2,560 
-   Partner Marketing Materials : $2,116 
-   PR agency / contractors: $1,280 
-   Travel: $4,074 
-   Marketing / Communications Expenses - Total : $10,030 
-   
-   Financial Services
-   Rent: $14,994 
-   FS - Savings Account - Intuit API: $720 
-   Office Supplies: $2,692 
-   Telecommunications : $2,076 
-   Utilities: $416 
-   Participant Expenses: $7,200 
-   Financial Services - Total 20,482 
-   
-   Platform expenses
-   Equipment Hire: $1,246 
-   Amazon: $1,038 
-   Platform expenses - Total 2,284 
-   
-   Administration
-   Operations: $7,366 
-   Administration expenses – Total: $7,366 
-   
-   Total Expense $100,000
 How do you plan to scale the success of your proposal?: >-
   EARN is dedicated to scaling impact through the use of technology. We have
   brought our savings programs online and are equipped to respond to the unique

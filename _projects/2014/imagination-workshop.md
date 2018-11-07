@@ -15,8 +15,8 @@ project_video: ''
 project_areas:
   - LA COUNTY
 maker_answers:
+  metrics_live_selfsufficiency: '0'
   metrics_live_healthyfood: '0'
-  city_state: 'Los Angeles, CA'
   org_website: imaginationworkshop.org
   org_twitter: ''
   org_facebook: ''
@@ -100,7 +100,7 @@ maker_answers:
   org_name: Imagination Workshop
   metrics_live_healthcare: '0'
   metrics_live_airtoxins: '0'
-  metrics_live_selfsufficiency: '0'
+  city_state: 'Los Angeles, CA'
   metrics_live_importedwater: '0'
   metrics_live_obesity: '0'
   metrics_live_homelessness: '1'
@@ -132,8 +132,6 @@ maker_answers:
     mentally ill for 45 years.
   major_challenges: "1.  Getting the veterans from the various agencies to meet together at one time is a difficult problem.  With this funding we could solve it by having several groups going that offer an array of meeting times.\r\n\r\n2. Scheduling a professional theater venue in LA with performance space available at the right time.  This is solved because IW has long-standing relationships with LA area theaters, and they do their best to accommodate us."
   competition: "Imagination Workshop is the longest running arts and mental health organization in this country.  For more than forty years, hundreds of actors and writers from Broadway, film and television, including such well-known names as Susan Sarandon, Ted Danson and Sam Waterston, have, through IW, worked on stage with more than forty-five thousand people suffering mental illness, most of whom have never before experienced theater’s ability to transcend real life. On stage, troubled people who have difficulty dealing with even the simplest aspects of life suddenly discover that, as a fictional character, they can do all that they ever imagined and more.\r\n\r\nOver its many productive years, the IW has served a diverse community of every race, age, sex, ethnicity and economic background. IW has brought its singular approach to theater to the poor, the elderly, and children at risk of becoming involved with gangs and drugs. Psychiatric participants include people suffering from catatonia, schizophrenia, depression, compulsive-obsessive disorders, and even patients in locked wards.\r\n\r\nStudies at Semel Institute at UCLA have shown that participation in Imagination Workshop leads to positive behavioral and life changes that are permanent.  \r\n\r\nImagination Workshop uses the metaphor.  In traditional psychodrama therapies, patients act out scened from their own lives.  In Imagination workshop, they create characters to play far removed from themselves.  It's an opportunity to try on a new personality, walk in another's shoes, and safely explore behavior modes and experience discovery of the role creativity can make in everyday living.  Among the results of this experience for the patients are often improved social skills, enhanced performance in job interviews, and higher self-esteem, all buttressed by the accomplishment of writing and acting in a play.  Scientific studies at the UCLA Semel Institute have proven these results.  "
-  cost: '$50,000'
-  budget: "Fees for 15 professional theater artists to lead weekly sessions for eight months - $33,000\r\n\r\nProduction Expenses, including theater rental, set construction - $10,000\r\n\r\nFees for professional theater technicians - $2,000\r\n\r\nOrganizational expenses - $2,000\r\n\r\nPublicity - $3,000\r\n\r\n"
   resources_money: '1'
   resources_staff: '1'
   resources_publicity: '1'

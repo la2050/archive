@@ -16,8 +16,8 @@ project_image: 'https://img.youtube.com/vi/jxDLaDNSLjo/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/jxDLaDNSLjo'
 project_areas: []
 maker_answers:
+  'City, State': 'Los Angeles, CA'
   How do you plan to use these resources to make change? Implement and track policy: '0'
-  How did you hear about this challenge?: Newsletter
   Organization(s) name(s): 'Anti-Recidivism Coalition '
   Organization(s) mailing address(es): "448 S. Hill Street, Suite 908\r\nLos Angeles, CA 90013"
   Organization(s) website(s): www.antirecidivism.org
@@ -68,7 +68,7 @@ maker_answers:
   How do you plan to use these resources to make change? Expand a pilot or a program: '1'
   How do you plan to use these resources to make change? Mobilize for systems change: '0'
   How do you plan to use these resources to make change? Advocate with policymakers and leaders: '0'
-  'City, State': 'Los Angeles, CA'
+  How did you hear about this challenge?: Newsletter
   How do you plan to use these resources to make change? Other: '0'
   How do you plan to use these resources to make change? Specifics: ''
   How will your proposal improve the following “Live” metrics?  Access to healthy food: '0'
@@ -134,16 +134,6 @@ maker_answers:
   Please explain how you will evaluate your work.: "ARC will utilize its partnerships with the Los Angeles County Probation Department and the California Department of Corrections and Rehabilitation (CDCR) to support data collection on program participants, as well as to gather additional information and statistics around Los Angeles County’s incarcerated population and its demographics.\r\n\r\nARC’s Membership Services Director will oversee data collection, in close collaboration with ARC Case Managers and participating peer mentors. Data will be recorded in individual participant files and tracked through ARC’s secure member database. ARC will track the following performance measures: number of youth enrolled in services, number of youth exhibiting change in behavioral violations, substance abuse, gang activity and mental health, recidivism and reentry outcomes and probation violations, second and post-secondary education enrollment, job training and placement and connection to trauma-therapy and/or substance abuse treatment.\r\n"
   Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?: "ARC’s pre-release mentorship program is unprecedented in the history of Los Angeles County Probation. This program offers incarcerated youth the opportunity to learn from and engage with peers who have experienced incarceration firsthand. Furthermore, mentors have also received support and services through ARC’s Membership Services and can best explain the benefits and value of the ARC Support Network.  \r\n\r\nARC partner organization InsideOUT Writers (IOW) currently offers a pre-release creative writing program in the Barry J. Nidorf Juvenile Hall led by volunteer teachers. These writing programs promote positive peer interaction among incarcerated youth and provide a safe space for creativity and growth.\r\n\r\nIOW also offers an alumni program that provides case management to identify and address short and long term goals of formerly incarcerated alumni, post-release mentorship opportunities with adult volunteers to foster positively and healthy relationships, and life skills programming, including alumni writing circles. \r\n\r\nARC sees IOW’s pre-release creative writing classes as complimentary to ARC’s mentorship program, and IOW’s post-release reentry services as directly aligned with ARC’s service offerings and intends to collaborate with IOW to enhance this program. "
   'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?': "To complete enhancements of ARC’s case management model, ARC will collaborate with Leaders in Community Alternatives, or an equally distinguished community-based services provider.\r\n\r\nTo enhance recruitment and matching elements of its post-release mentorship services, ARC will partner with the Los Angeles Federation of Labor, the Los Angeles Chamber of Commerce, Warner Brothers Pictures, Paramount Pictures, Sony Pictures, two local law firms and various other community leaders and organizations to recruit additional mentors who work in careers that are of particular interest to current ARC members.\r\n\r\nFinally, to enhance the pre-release mentorship program curriculum and post-release reentry services, and to recruit and refer mentorship program participants and new members, ARC will partner with InsideOUT Writers."
-  'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-    ARC estimates that developing a scalable model and expanding the pre-release
-    mentorship program to an additional two juvenile facilities by 2017 will
-    cost approximately $100,000. Funding will be used to provide stipends and
-    travel for additional mentors, to hire consultants to oversee expansion and
-    evaluation of the pilot program and to develop program materials and guides.
-    Funding will also be used to work with a partner organization to enhance
-    ARC’s current case management model in order to prepare to serve additional
-    members as participants in the pre-release mentorship program are released. 
-  'Please include a detailed budget of how you will use $100,000 to implement this project.': "BUDGET\r\nMentors/Facilitators\t\t\t\t\t$24,000\r\nTraining/Administration\t\t\t\t$20,000\r\nSupplies/Materials \t\t\t\t\t$19,000\r\nConsultants\t\t\t\t\t\t        $10,000\r\nTransportation\t\t\t\t\t        $10,000\r\nReentry Services/Case Management\t\t$17,000 \r\nTotal\t\t\t\t\t\t\t       $100,000\r\n"
   How do you plan to scale the success of your proposal?: "With this funding, ARC will focus on creating a structured, managed and tracked pre-release mentorship program, and developing a model that can be taken into additional juvenile facilities over the next three to five years. \r\n\r\nARC will utilize its membership of 225 successful formerly incarcerated individuals to recruit and train additional peer mentors.\r\n\r\nARC will utilize its close relationship with Chief Probation Officer Jerry Powers and Director of the Division of Juvenile Justice Michael Minor to facilitate access into new facilities with a specific focus on implementing the program at Eastlake and Los Padrinos Juvenile Halls and additional Probation Camps.\r\n\r\nEventually, once the model is developed and has been implemented successfully at Probation facilities, ARC will look to expand the program to three State Division of Juvenile Justice (DJJ) facilities through a partnership with the California Department of Corrections and Rehabilitation.\r\n\r\nBecause program participants will be served by ARC’s current Support Network upon release, a large focus of planning for expanding the program will concentrate on enhancing ARC's current Membership Services framework through the development of more robust case management services. ARC will enhance programming around supporting cognitive and behavioral issues, as well as providing additional support for trauma and substance abuse.\r\n"
 areas_impacted: ''
 partners: ''
@@ -209,24 +199,6 @@ Are there other organizations doing similar work (whether complementary or compe
    To enhance recruitment and matching elements of its post-release mentorship services, ARC will partner with the Los Angeles Federation of Labor, the Los Angeles Chamber of Commerce, Warner Brothers Pictures, Paramount Pictures, Sony Pictures, two local law firms and various other community leaders and organizations to recruit additional mentors who work in careers that are of particular interest to current ARC members.
    
    Finally, to enhance the pre-release mentorship program curriculum and post-release reentry services, and to recruit and refer mentorship program participants and new members, ARC will partner with InsideOUT Writers.
-'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?': >-
-  ARC estimates that developing a scalable model and expanding the pre-release
-  mentorship program to an additional two juvenile facilities by 2017 will cost
-  approximately $100,000. Funding will be used to provide stipends and travel
-  for additional mentors, to hire consultants to oversee expansion and
-  evaluation of the pilot program and to develop program materials and guides.
-  Funding will also be used to work with a partner organization to enhance ARC’s
-  current case management model in order to prepare to serve additional members
-  as participants in the pre-release mentorship program are released.
-'Please include a detailed budget of how you will use $100,000 to implement this project.': |-
-  BUDGET
-   Mentors/Facilitators $24,000
-   Training/Administration $20,000
-   Supplies/Materials $19,000
-   Consultants  $10,000
-   Transportation  $10,000
-   Reentry Services/Case Management $17,000 
-   Total  $100,000
 How do you plan to scale the success of your proposal?: >-
   With this funding, ARC will focus on creating a structured, managed and
   tracked pre-release mentorship program, and developing a model that can be
