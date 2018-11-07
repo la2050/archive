@@ -23,16 +23,14 @@ ein: '954427291'
 zip: '90011'
 project_image: 'https://img.youtube.com/vi/wzFv5uV3pew/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050play2015/projects/PlayinSouthLA.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102006'
 project_titles:
   - Play for Life in South LA
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050play2015/projects/PlayinSouthLA.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102006'
 youtube_video_identifier: wzFv5uV3pew
 cached_project_image: >-
   https://archive-assets.la2050.org/images/a-place-called-home/img.youtube.com/vi/wzFv5uV3pew/maxresdefault.jpg

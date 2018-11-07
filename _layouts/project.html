@@ -39,7 +39,7 @@ stylesheets:
     {% endif %}
   {% endif %}
 
-  {% for challenge_url in organization.aggregated.challenge_url %}
+  {% for challenge_url in organization.challenge_url %}
     {% assign secure_challenge_url = challenge_url | replace: "http://", "https://" %}
     {% if winner.url contains secure_challenge_url or secure_challenge_url contains winner.url %}
       {% if page.year_submitted == 2018 %}

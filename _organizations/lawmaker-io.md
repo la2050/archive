@@ -22,18 +22,16 @@ ein: '472178446'
 zip: '90033'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/lawmaker-io.jpg'
 project_video: 'https://www.youtube.com/watch?v=mH8x6av0XTA'
+challenge_url:
+  - 'https://activation.la2050.org/connect/lawmaker-io/'
+year_submitted:
+  - '2018'
+project_ids:
+  - '8102067'
 project_titles:
   - >-
     LawMaker.io: A Collaboration Between Angelenos and LA Elected Officials to
     Solve Homelessness in LA
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/lawmaker-io/'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102067'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/lawmaker-io/activation.la2050.org/assets/images/connect/2048-wide/lawmaker-io.jpg
 

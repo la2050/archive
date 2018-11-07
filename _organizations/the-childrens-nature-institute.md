@@ -37,16 +37,14 @@ ein: '954320598'
 zip: ''
 project_image: 'https://mjmiaoren.files.wordpress.com/2010/02/sdc11804.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/ExNLA.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102245'
 project_titles:
   - 'Education by Nature: Los Angeles'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/ExNLA.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102245'
 youtube_video_identifier: ''
 cached_project_image: >-
   https://s-media-cache-ak0.pinimg.com/originals/73/b4/b6/73b4b606735bbe67fe36cd6bef57e501.jpg

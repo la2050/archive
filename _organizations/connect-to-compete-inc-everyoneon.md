@@ -20,16 +20,14 @@ zip: '90012'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/connect-to-compete-inc-everyoneon.jpg
 project_video: 'https://www.youtube.com/watch?v=-aFvxFfQick'
+challenge_url:
+  - 'https://activation.la2050.org/connect/connect-to-compete-inc-everyoneon/'
+year_submitted:
+  - '2018'
+project_ids:
+  - '8102030'
 project_titles:
   - 'EveryoneOn Digital Equity Champions Initiative: Bringing Angelenos Online'
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/connect-to-compete-inc-everyoneon/'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102030'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/connect-to-compete-inc-everyoneon/activation.la2050.org/assets/images/connect/2048-wide/connect-to-compete-inc-everyoneon.jpg
 

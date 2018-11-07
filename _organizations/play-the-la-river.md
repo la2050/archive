@@ -20,16 +20,14 @@ zip: '90065'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21550%252Fdisplay%252FPlaytheLARiver_LA2050_ImageCropped.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050play/projects/PlaytheLARiver.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102169'
 project_titles:
   - Play the LA River
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050play/projects/PlaytheLARiver.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102169'
 maker_image_file_name: PlaytheLARiver_LA2050_ImageCropped.jpg
 maker_image_id: '21550'
 cached_project_image: >-

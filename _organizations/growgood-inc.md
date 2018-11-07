@@ -23,17 +23,15 @@ ein: '455472840'
 zip: '90272'
 project_image: 'https://img.youtube.com/vi/zqrk27Md2Bo/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/GrowGood.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102124'
 project_titles:
   - 'Launching GrowGood''s Social Enterprise Business '
   - Launching GrowGoods Social Enterprise Business
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/GrowGood.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102124'
 youtube_video_identifier: zqrk27Md2Bo
 cached_project_image: >-
   https://archive-assets.la2050.org/images/growgood-inc/img.youtube.com/vi/zqrk27Md2Bo/hqdefault.jpg

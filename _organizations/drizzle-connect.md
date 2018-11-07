@@ -21,19 +21,17 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4367473165741-team90.png
 project_video: ''
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/bringing-free-high-speed-internet-and-mobile-phone-service-to-low-income-families-in-los-angeles
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102124'
 project_titles:
   - >-
     Bringing free high-speed internet and mobile phone service to low-income
     families in Los Angeles
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/bringing-free-high-speed-internet-and-mobile-phone-service-to-low-income-families-in-los-angeles
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102124'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/drizzle-connect/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4367473165741-team90.png
 

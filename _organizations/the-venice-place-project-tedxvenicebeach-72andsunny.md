@@ -21,16 +21,14 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23850%252Fdisplay%252FIMG_9355.JPG=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050play2015/projects/PUPs.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102314'
 project_titles:
   - LA Pop Up Parks
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050play2015/projects/PUPs.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102314'
 maker_image_file_name: IMG_9355.JPG
 maker_image_id: '23850'
 cached_project_image: >-

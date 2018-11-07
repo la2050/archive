@@ -21,16 +21,14 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3954291065741-team90.jpg
 project_video: ''
+challenge_url:
+  - 'https://challenge.la2050.org/entry/the-precise-barber-college'
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102057'
 project_titles:
   - The Precise Barber College
-aggregated:
-  challenge_url:
-    - 'https://challenge.la2050.org/entry/the-precise-barber-college'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102057'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/covenant-house-california/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3954291065741-team90.jpg
 

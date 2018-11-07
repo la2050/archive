@@ -22,6 +22,16 @@ zip: 90039-2520
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/big-brothers-big-sisters-of-greater-los-angeles.jpg
 project_video: 'https://www.youtube.com/watch?v=3J0TBcxjUQY'
+challenge_url:
+  - >-
+    https://activation.la2050.org/learn/big-brothers-big-sisters-of-greater-los-angeles/
+  - 'http://maker.good.is/myla2050learn2015/projects/BBBSLAMentoring.html'
+year_submitted:
+  - '2018'
+  - '2015'
+project_ids:
+  - '8102007'
+  - '5102025'
 project_titles:
   - 'College, Work, & Life Ready Through BBBSLA''s Workplace Mentoring Program'
   - >-
@@ -31,18 +41,6 @@ project_titles:
   - >-
     Linked Learning: College Work & Life Ready Through BBBSLAs Workplace
     Mentoring Program
-aggregated:
-  challenge_url:
-    - >-
-      https://activation.la2050.org/learn/big-brothers-big-sisters-of-greater-los-angeles/
-    - 'http://maker.good.is/myla2050learn2015/projects/BBBSLAMentoring.html'
-  year_submitted:
-    - '2018'
-    - '2015'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102007'
-  - '5102025'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/big-brothers-big-sisters-of-greater-los-angeles/activation.la2050.org/assets/images/learn/2048-wide/big-brothers-big-sisters-of-greater-los-angeles.jpg
 

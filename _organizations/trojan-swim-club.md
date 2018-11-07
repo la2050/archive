@@ -20,16 +20,14 @@ ein: '330614644'
 zip: '90089'
 project_image: 'https://img.youtube.com/vi/SdL6NXZskjo/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050play2015/projects/trojanswimclub.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102323'
 project_titles:
   - 'Swimming for Life: Water Safety and Competition for Inner-City Youth'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050play2015/projects/trojanswimclub.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102323'
 youtube_video_identifier: SdL6NXZskjo
 cached_project_image: >-
   https://archive-assets.la2050.org/images/trojan-swim-club/img.youtube.com/vi/SdL6NXZskjo/hqdefault.jpg

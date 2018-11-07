@@ -19,16 +19,14 @@ ein: '464749422'
 zip: '90405'
 project_image: 'https://img.youtube.com/vi/I-2fvjBviRI/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050connect/projects/beautifyla.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102021'
 project_titles:
   - Beautify LA!
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050connect/projects/beautifyla.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102021'
 youtube_video_identifier: I-2fvjBviRI
 cached_project_image: >-
   https://archive-assets.la2050.org/images/beautify-earth/img.youtube.com/vi/I-2fvjBviRI/maxresdefault.jpg

@@ -22,19 +22,17 @@ ein: '954089758'
 zip: '90010'
 project_image: 'https://img.youtube.com/vi/QV1lB2SqWos/hqdefault.jpg'
 project_video: ''
-project_titles:
-  - 'IHADLA: Breaking the Cycle of Poverty by Educating and Empowering Youth.'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/ihaveadream.html'
-    - 'http://maker.good.is/myla2050/projects/ihaveadream.html'
-  year_submitted:
-    - '2015'
-    - '2013'
-year_submitted: '2015'
-calculated_project_ids:
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/ihaveadream.html'
+  - 'http://maker.good.is/myla2050/projects/ihaveadream.html'
+year_submitted:
+  - '2015'
+  - '2013'
+project_ids:
   - '5102001'
   - '3102243'
+project_titles:
+  - 'IHADLA: Breaking the Cycle of Poverty by Educating and Empowering Youth.'
 youtube_video_identifier: QV1lB2SqWos
 cached_project_image: >-
   https://archive-assets.la2050.org/images/i-have-a-dream-foundation-los-angeles-ihadla/img.youtube.com/vi/QV1lB2SqWos/hqdefault.jpg

@@ -19,16 +19,14 @@ ein: '813935203'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/the-burg-llc.jpg'
 project_video: 'https://www.youtube.com/watch?v=DNPNUbNOQ48'
+challenge_url:
+  - 'https://activation.la2050.org/connect/the-burg-llc/'
+year_submitted:
+  - '2018'
+project_ids:
+  - '8102118'
 project_titles:
   - 'The Burg: LA''s Community Platform'
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/the-burg-llc/'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102118'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-burg-llc/activation.la2050.org/assets/images/connect/2048-wide/the-burg-llc.jpg
 

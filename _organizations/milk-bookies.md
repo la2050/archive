@@ -21,25 +21,23 @@ zip: '90404'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0517807355741-team90.jpg
 project_video: 'https://www.youtube.com/embed/OKuHAUhFKxk?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/leaders-readers-growing-school-libraries-and-minds-one-book-at-a-time
+  - 'http://maker.good.is/myla2050learn2015/projects/LeadersandReaders.html'
+year_submitted:
+  - '2016'
+  - '2015'
+  - '2014'
+project_ids:
+  - '6102155'
+  - '5102208'
+  - '4102146'
 project_titles:
   - 'Leaders + Readers: Bringing Much Needed Books to Children in LAUSD & Beyond '
   - 'Leaders + Readers: Growing School Libraries and Minds One Book At A Time'
   - 'Milk + Bookies: Bringing Service Learning and Books to LA Youth'
   - 'Leaders + Readers: Bringing Much Needed Books to Children in LAUSD & Beyond'
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/leaders-readers-growing-school-libraries-and-minds-one-book-at-a-time
-    - 'http://maker.good.is/myla2050learn2015/projects/LeadersandReaders.html'
-  year_submitted:
-    - '2016'
-    - '2015'
-    - '2014'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102155'
-  - '5102208'
-  - '4102146'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/milk-bookies/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0517807355741-team90.jpg
 

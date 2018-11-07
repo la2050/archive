@@ -20,6 +20,16 @@ zip: '90062'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6550607705741-team91.jpg
 project_video: 'https://www.youtube.com/embed/13VpJDoRnhg?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/sola-food-co-op-healthy-food-healthy-living-and-community-economic-empowerment
+  - 'http://maker.good.is/myla2050live2015/projects/goSoLA.html'
+year_submitted:
+  - '2016'
+  - '2015'
+project_ids:
+  - '6102231'
+  - '5102273'
 project_titles:
   - >-
     SoLA Food Co-op, a source for healthy food and community empowerment in
@@ -30,18 +40,6 @@ project_titles:
   - >-
     SoLA Food Co-op a source for healthy food and community empowerment in South
     LA
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/sola-food-co-op-healthy-food-healthy-living-and-community-economic-empowerment
-    - 'http://maker.good.is/myla2050live2015/projects/goSoLA.html'
-  year_submitted:
-    - '2016'
-    - '2015'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102231'
-  - '5102273'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/sola-food-co-op/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6550607705741-team91.jpg
 

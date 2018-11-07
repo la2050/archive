@@ -22,16 +22,14 @@ zip: '90807'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23575%252Fdisplay%252FPicture_5.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/therippleeffect.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102309'
 project_titles:
   - College Bridge Program for Graduating High School Seniors
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/therippleeffect.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102309'
 maker_image_file_name: Picture_5.jpg
 maker_image_id: '23575'
 cached_project_image: >-

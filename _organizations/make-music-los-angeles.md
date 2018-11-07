@@ -21,19 +21,17 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7837391883741-team88.jpg
 project_video: 'https://youtube.com/embed/xSGbvkEdpJE?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/playascape-transforming-la-into-an-artistic-playground-that-inspires-innovation-with-public-art
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102152'
 project_titles:
   - >-
     Playascape: Transforming LA into an artistic playground that inspires
     innovation with public art
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/playascape-transforming-la-into-an-artistic-playground-that-inspires-innovation-with-public-art
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102152'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/make-music-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7837391883741-team88.jpg
 

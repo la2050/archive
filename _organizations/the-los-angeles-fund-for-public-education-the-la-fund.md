@@ -18,15 +18,13 @@ ein: '452443162'
 zip: '67'
 project_image: 'https://img.youtube.com/vi/tMwKJIhKIAU/maxresdefault.jpg'
 project_video: ''
+challenge_url: []
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102222'
 project_titles:
   - 'The Intern Project: The Transformative Power of Internships'
-aggregated:
-  challenge_url: []
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102222'
 youtube_video_identifier: tMwKJIhKIAU
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-los-angeles-fund-for-public-education-the-la-fund/img.youtube.com/vi/tMwKJIhKIAU/maxresdefault.jpg

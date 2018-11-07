@@ -22,21 +22,19 @@ zip: '94114'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-lgbt-center.jpg
 project_video: 'https://youtu.be/63SBgjUNWxA'
+challenge_url:
+  - 'https://activation.la2050.org/connect/los-angeles-lgbt-center/'
+  - 'http://maker.good.is/myLA2050learn/projects/projectspin.html'
+year_submitted:
+  - '2018'
+  - '2014'
+project_ids:
+  - '8102075'
+  - '4102223'
 project_titles:
   - >-
     Resistance Squad: Amplifying the Power of Angelenos to Affect National
     Change
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/los-angeles-lgbt-center/'
-    - 'http://maker.good.is/myLA2050learn/projects/projectspin.html'
-  year_submitted:
-    - '2018'
-    - '2014'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102075'
-  - '4102223'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/los-angeles-lgbt-center/activation.la2050.org/assets/images/connect/2048-wide/los-angeles-lgbt-center.jpg
 

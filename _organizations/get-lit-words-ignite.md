@@ -21,6 +21,16 @@ zip: '90013'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/get-lit-words-ignite.jpg
 project_video: 'https://youtu.be/ioZuMb9vLz8'
+challenge_url:
+  - 'https://activation.la2050.org/create/get-lit-words-ignite/'
+  - >-
+    https://challenge.la2050.org/entry/get-lit-players-go-on-a-lit-for-literacy-tour-in-los-angeles-first-poetry-bus!
+year_submitted:
+  - '2018'
+  - '2016'
+project_ids:
+  - '8102044'
+  - '6102080'
 project_titles:
   - >-
     Get Lit Players go on a 'Lit for Literacy' Tour in Los Angeles' first Poetry
@@ -28,18 +38,6 @@ project_titles:
   - >-
     Literary Riot Creative Collective: A Radically Inclusive Youth-Led Content
     Studio
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/create/get-lit-words-ignite/'
-    - >-
-      https://challenge.la2050.org/entry/get-lit-players-go-on-a-lit-for-literacy-tour-in-los-angeles-first-poetry-bus!
-  year_submitted:
-    - '2018'
-    - '2016'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102044'
-  - '6102080'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/get-lit-words-ignite/activation.la2050.org/assets/images/create/2048-wide/get-lit-words-ignite.jpg
 

@@ -19,17 +19,15 @@ ein: '951642394'
 zip: 90089-2211
 project_image: 'https://img.youtube.com/vi/dN0L0YMa39s/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/LAReality.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102251'
 project_titles:
   - 'LAReality - a game that makes its players into makers, doers, and creators'
   - LAReality - a game that makes its players into makers doers and creators
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/LAReality.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102251'
 youtube_video_identifier: dN0L0YMa39s
 cached_project_image: >-
   https://archive-assets.la2050.org/images/usc-game-innovation-lab/img.youtube.com/vi/dN0L0YMa39s/hqdefault.jpg

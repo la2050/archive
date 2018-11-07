@@ -23,6 +23,12 @@ ein: '770568469'
 zip: '91107'
 project_image: 'https://img.youtube.com/vi/sKN2PQLjrps/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/ReadingPartnersLA.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102249'
 project_titles:
   - >-
     Reading Partners LA: The Path to Fourth Grade Reading Proficiency for 1,000
@@ -30,14 +36,6 @@ project_titles:
   - >-
     Reading Partners LA: The Path to Fourth Grade Reading Proficiency for 1000
     Children
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/ReadingPartnersLA.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102249'
 youtube_video_identifier: sKN2PQLjrps
 cached_project_image: >-
   https://archive-assets.la2050.org/images/reading-partners/img.youtube.com/vi/sKN2PQLjrps/maxresdefault.jpg

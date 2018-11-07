@@ -19,16 +19,14 @@ ein: '471443694'
 zip: '90039'
 project_image: 'https://img.youtube.com/vi/DRehRt5n68c/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050connect/projects/LawSoupLA.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102114'
 project_titles:
   - Law Soup LA
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050connect/projects/LawSoupLA.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102114'
 youtube_video_identifier: DRehRt5n68c
 cached_project_image: >-
   https://archive-assets.la2050.org/images/law-soup-inc/img.youtube.com/vi/DRehRt5n68c/hqdefault.jpg

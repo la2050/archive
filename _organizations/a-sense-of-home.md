@@ -20,18 +20,16 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371052065741-team91.png
 project_video: 'https://www.youtube.com/embed/PXXuCduxggc?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/creating-a-home-is-a-bridge-to-creating-community
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102003'
 project_titles:
   - 'Creating a home is a bridge to creating community '
   - Creating a home is a bridge to creating community
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/creating-a-home-is-a-bridge-to-creating-community
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102003'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/a-sense-of-home/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371052065741-team91.png
 

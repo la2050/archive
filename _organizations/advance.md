@@ -28,16 +28,14 @@ ein: '461862955'
 zip: ''
 project_image: 'https://img.youtube.com/vi/d8oxCVYqxhU/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/AccessJustice.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102001'
 project_titles:
   - Advancing Justice through Legal Social Enterprises
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/AccessJustice.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102001'
 youtube_video_identifier: d8oxCVYqxhU
 cached_project_image: >-
   https://archive-assets.la2050.org/images/advance/img.youtube.com/vi/d8oxCVYqxhU/hqdefault.jpg

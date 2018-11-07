@@ -21,17 +21,15 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/city-of-los-angeles-information-technology-agency.jpg
 project_video: 'https://youtu.be/5eE1kF4xL2U'
+challenge_url:
+  - >-
+    https://activation.la2050.org/learn/city-of-los-angeles-information-technology-agency/
+year_submitted:
+  - '2018'
+project_ids:
+  - '8102025'
 project_titles:
   - GoDigital! LA’s Digital Literacy Program
-aggregated:
-  challenge_url:
-    - >-
-      https://activation.la2050.org/learn/city-of-los-angeles-information-technology-agency/
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102025'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/city-of-los-angeles-information-technology-agency/activation.la2050.org/assets/images/learn/2048-wide/city-of-los-angeles-information-technology-agency.jpg
 

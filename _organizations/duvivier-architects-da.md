@@ -18,15 +18,13 @@ ein: '549153417'
 zip: '90291'
 project_image: 'https://img.youtube.com/vi/fAQOxqwuIHk/maxresdefault.jpg'
 project_video: ''
+challenge_url: []
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102196'
 project_titles:
   - Los Angeles Beaches Forever
-aggregated:
-  challenge_url: []
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102196'
 youtube_video_identifier: fAQOxqwuIHk
 cached_project_image: >-
   https://archive-assets.la2050.org/images/duvivier-architects-da/img.youtube.com/vi/fAQOxqwuIHk/maxresdefault.jpg

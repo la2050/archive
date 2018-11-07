@@ -19,16 +19,14 @@ ein: '264286940'
 zip: '90028'
 project_image: 'https://img.youtube.com/vi/grALjLXwxgM/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/NFMLA.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102157'
 project_titles:
   - NewFilmmakers LA
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/NFMLA.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102157'
 youtube_video_identifier: grALjLXwxgM
 cached_project_image: >-
   https://archive-assets.la2050.org/images/newfilmmakers-los-angeles/img.youtube.com/vi/grALjLXwxgM/maxresdefault.jpg

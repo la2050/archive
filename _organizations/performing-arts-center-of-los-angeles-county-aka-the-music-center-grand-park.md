@@ -21,16 +21,14 @@ ein: '952217011'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/BhO5jmXKosA/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050play2015/projects/acoolergrandpark.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102234'
 project_titles:
   - A shady oasis for everyone in Grand Park
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050play2015/projects/acoolergrandpark.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102234'
 youtube_video_identifier: BhO5jmXKosA
 cached_project_image: >-
   https://archive-assets.la2050.org/images/performing-arts-center-of-los-angeles-county-aka-the-music-center-grand-park/img.youtube.com/vi/BhO5jmXKosA/maxresdefault.jpg

@@ -43,18 +43,16 @@ ein: '452038035'
 zip: ''
 project_image: 'https://img.youtube.com/vi/h1GATPgLPxQ/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/swipesforthehomeless.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102241'
 project_titles:
   - >-
     Students Working Together to Combat Homelessness and Reduce Food Waste on
     Campus
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/swipesforthehomeless.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102241'
 youtube_video_identifier: h1GATPgLPxQ
 cached_project_image: >-
   https://archive-assets.la2050.org/images/swipes-for-the-homeless/img.youtube.com/vi/h1GATPgLPxQ/maxresdefault.jpg

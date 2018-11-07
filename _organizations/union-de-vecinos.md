@@ -98,16 +98,14 @@ ein: '522076978'
 zip: ''
 project_image: 'https://img.youtube.com/vi/Ih-cjiooJ3M/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/UVLA.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102264'
 project_titles:
   - DIY Social Spaces
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/UVLA.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102264'
 youtube_video_identifier: Ih-cjiooJ3M
 cached_project_image: >-
   https://archive-assets.la2050.org/images/union-de-vecinos/img.youtube.com/vi/Ih-cjiooJ3M/maxresdefault.jpg

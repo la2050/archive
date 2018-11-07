@@ -23,17 +23,15 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2610135955741-team91.JPG
 project_video: ''
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/youth-mentoring-and-entrepreneurship-program-for-middle-school-students
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102281'
 project_titles:
   - Youth Mentoring and Entrepreneurship Program for Middle School Students
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/youth-mentoring-and-entrepreneurship-program-for-middle-school-students
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102281'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/wethrive/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2610135955741-team91.JPG
 

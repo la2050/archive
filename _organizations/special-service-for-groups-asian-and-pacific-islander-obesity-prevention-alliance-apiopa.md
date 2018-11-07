@@ -58,16 +58,14 @@ ein: '951716914'
 zip: ''
 project_image: 'https://img.youtube.com/vi/DXcrNhhe5V0/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/ChinatownFoodHub.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102236'
 project_titles:
   - Chinatown Food Hub
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/ChinatownFoodHub.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102236'
 youtube_video_identifier: DXcrNhhe5V0
 cached_project_image: >-
   https://archive-assets.la2050.org/images/special-service-for-groups-asian-and-pacific-islander-obesity-prevention-alliance-apiopa/img.youtube.com/vi/DXcrNhhe5V0/maxresdefault.jpg

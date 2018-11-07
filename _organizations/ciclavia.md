@@ -22,26 +22,24 @@ ein: '273428380'
 zip: '90013'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/ciclavia.jpg'
 project_video: 'https://youtu.be/I7wQ8SasHfQ'
+challenge_url:
+  - 'https://activation.la2050.org/connect/ciclavia/'
+  - 'http://maker.good.is/myla2050connect2015/projects/CicLAvia.html'
+  - 'http://maker.good.is/myla2050/projects/CicLAvia.html'
+year_submitted:
+  - '2018'
+  - '2015'
+  - '2013'
+project_ids:
+  - '8102021'
+  - '5102055'
+  - '3102061'
 project_titles:
   - >-
     CicLAvia: "When LA Listens" captures and tells the stories of the people and
     places that is LA.
   - 'CicLAvia: Get Connected LA'
   - 'CicLAvia: The Route to LA’s Future'
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/ciclavia/'
-    - 'http://maker.good.is/myla2050connect2015/projects/CicLAvia.html'
-    - 'http://maker.good.is/myla2050/projects/CicLAvia.html'
-  year_submitted:
-    - '2018'
-    - '2015'
-    - '2013'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102021'
-  - '5102055'
-  - '3102061'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/ciclavia/activation.la2050.org/assets/images/connect/2048-wide/ciclavia.jpg
 

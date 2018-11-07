@@ -21,18 +21,16 @@ zip: '90403'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23338%252Fdisplay%252FScreen_Shot_2015-10-03_at_3.51.42_PM.png=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/ReframeLabs.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102251'
 project_titles:
   - >-
     Training leaders to launch new and redesigned next generation schools in Los
     Angeles
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/ReframeLabs.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102251'
 maker_image_file_name: Screen_Shot_2015-10-03_at_3.51.42_PM.png
 maker_image_id: '23338'
 cached_project_image: >-

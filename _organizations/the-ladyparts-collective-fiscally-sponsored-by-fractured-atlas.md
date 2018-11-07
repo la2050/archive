@@ -23,19 +23,17 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4990464255741-team89.JPG
 project_video: 'https://www.youtube.com/embed/sGB-wEyY8Ic?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/eliminating-the-gray-leveraging-theater-to-end-sexual-violence-on-college-campuses
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102260'
 project_titles:
   - >-
     ELIMINATING THE GRAY: LEVERAGING THEATER TO END SEXUAL VIOLENCE ON COLLEGE
     CAMPUSES
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/eliminating-the-gray-leveraging-theater-to-end-sexual-violence-on-college-campuses
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102260'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-ladyparts-collective-fiscally-sponsored-by-fractured-atlas/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4990464255741-team89.JPG
 

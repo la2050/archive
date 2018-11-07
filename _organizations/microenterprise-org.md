@@ -21,16 +21,14 @@ ein: '465504858'
 zip: '91324'
 project_image: 'https://img.youtube.com/vi/0qhd1kRJ698/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050create2015/projects/Microenterprise.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102207'
 project_titles:
   - The Microenterprise Program
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050create2015/projects/Microenterprise.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102207'
 youtube_video_identifier: 0qhd1kRJ698
 cached_project_image: >-
   https://archive-assets.la2050.org/images/microenterprise-org/img.youtube.com/vi/0qhd1kRJ698/maxresdefault.jpg

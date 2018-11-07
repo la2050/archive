@@ -47,6 +47,12 @@ ein: '956000927'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/BRAINCANCERLA.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102041'
 project_titles:
   - >-
     Development of a Multidisciplinary Los Angeles County-Based Brain Cancer
@@ -54,14 +60,6 @@ project_titles:
   - >-
     Development of a Multidisciplinary Los Angeles CountyBased Brain Cancer
     Program 
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/BRAINCANCERLA.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102041'
 maker_image_file_name: BRAINCANCERLA2050.jpg
 maker_image_id: '16042'
 cached_project_image: >-

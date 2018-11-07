@@ -21,16 +21,14 @@ ein: '954171497'
 zip: ''
 project_image: 'https://img.youtube.com/vi/5fr_Qf0ZQ7M/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050connect/projects/rover.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102076'
 project_titles:
   - Connecting LA to its River
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050connect/projects/rover.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102076'
 youtube_video_identifier: 5fr_Qf0ZQ7M
 cached_project_image: >-
   https://archive-assets.la2050.org/images/friends-of-the-los-angeles-river/img.youtube.com/vi/5fr_Qf0ZQ7M/maxresdefault.jpg

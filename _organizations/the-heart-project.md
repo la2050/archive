@@ -73,16 +73,14 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16966%252Fdisplay%252FDSCF5143_eventbrite.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/theheartproject.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102249'
 project_titles:
   - 'The HeArt Project: Arts Education ends the Dropout Crisis in LA'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/theheartproject.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102249'
 maker_image_file_name: DSCF5143_eventbrite.jpg
 maker_image_id: '16966'
 cached_project_image: >-

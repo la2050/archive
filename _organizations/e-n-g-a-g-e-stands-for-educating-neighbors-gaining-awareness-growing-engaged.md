@@ -52,16 +52,14 @@ ein: '474528239'
 zip: ''
 project_image: 'https://img.youtube.com/vi/HtWxHzKO0zY/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/CRD3LA.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102032'
 project_titles:
   - The County Resident from District 3
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/CRD3LA.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102032'
 youtube_video_identifier: HtWxHzKO0zY
 cached_project_image: >-
   https://archive-assets.la2050.org/images/e-n-g-a-g-e-stands-for-educating-neighbors-gaining-awareness-growing-engaged/img.youtube.com/vi/HtWxHzKO0zY/hqdefault.jpg

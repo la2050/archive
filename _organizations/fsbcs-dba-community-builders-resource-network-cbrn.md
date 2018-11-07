@@ -35,16 +35,14 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17060%252Fdisplay%252Fcollaboration_statement.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/CBRN.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102135'
 project_titles:
   - Community Builders Resource Network (CBRN)
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/CBRN.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102135'
 maker_image_file_name: collaboration_statement.jpg
 maker_image_id: '17060'
 cached_project_image: >-

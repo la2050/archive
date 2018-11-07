@@ -21,19 +21,17 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6138888165741-team90.png
 project_video: 'https://www.youtube.com/embed/17VrzStmqAs?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/empower-me-a-digital-tool-for-rape-survivors-allies-that-fosters-community-justice-healing
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102133'
 project_titles:
   - >-
     Empower Me, a digital tool for rape survivors & allies that fosters
     community, justice & healing
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/empower-me-a-digital-tool-for-rape-survivors-allies-that-fosters-community-justice-healing
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102133'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/light-sprout/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6138888165741-team90.png
 

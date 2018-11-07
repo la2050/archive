@@ -25,16 +25,14 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17043%252Fdisplay%252FSchool_Based_Mentoring.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/SchoolMentoring.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102030'
 project_titles:
   - School Based Mentoring
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/SchoolMentoring.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102030'
 maker_image_file_name: School_Based_Mentoring.jpg
 maker_image_id: '17043'
 cached_project_image: >-

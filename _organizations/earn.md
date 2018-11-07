@@ -20,17 +20,15 @@ zip: '94104'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23728%252Fdisplay%252FEarnlogopage2.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/save.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102089'
 project_titles:
   - 'Turning Effort Into Opportunity Through Saving '
   - Turning Effort Into Opportunity Through Saving
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/save.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102089'
 maker_image_file_name: Earnlogopage2.jpg
 maker_image_id: '23728'
 cached_project_image: >-

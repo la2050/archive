@@ -54,16 +54,14 @@ ein: '953337990'
 zip: ''
 project_image: /uploads/great-leap-inc.jpg
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/FandangObon2050.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102142'
 project_titles:
   - Fandango Obon Project / Proyecto Fandango Obon
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/FandangObon2050.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102142'
 youtube_video_identifier: gyQdQTAWs0U
 cached_project_image: >-
   https://archive-assets.la2050.org/images/great-leap-inc/img.youtube.com/vi/gyQdQTAWs0U/hqdefault.jpg

@@ -22,16 +22,14 @@ ein: '475033123'
 zip: '90012'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/freefrom.jpg'
 project_video: 'https://www.youtube.com/watch?v=9tCDaZikwNQ'
+challenge_url:
+  - 'https://activation.la2050.org/live/freefrom/'
+year_submitted:
+  - '2018'
+project_ids:
+  - '8102041'
 project_titles:
   - Make LA the first city where everyone can live free from abuse
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/live/freefrom/'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102041'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/freefrom/activation.la2050.org/assets/images/live/2048-wide/freefrom.jpg
 

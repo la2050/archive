@@ -21,29 +21,27 @@ zip: '90005'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/data-roads-foundation.jpg
 project_video: 'https://www.youtube.com/user/DataRoadsFoundation'
+challenge_url:
+  - 'https://activation.la2050.org/connect/data-roads-foundation/'
+  - >-
+    https://challenge.la2050.org/entry/la-on-the-l-a-m-m-learning-angels-mega-mesh
+  - 'http://maker.good.is/myla2050connect2015/projects/Community-Box.html'
+  - 'http://maker.good.is/myLA2050connect/projects/All_LA_online_faster.html'
+year_submitted:
+  - '2018'
+  - '2016'
+  - '2015'
+  - '2014'
+project_ids:
+  - '8102034'
+  - '6102059'
+  - '5102080'
+  - '4102052'
 project_titles:
   - 100% of LA online faster!
   - Community at Home Box
   - 'LA on the L.A.M.M: Learning Angels'' Mega-Mesh'
   - Women@Home Networks
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/data-roads-foundation/'
-    - >-
-      https://challenge.la2050.org/entry/la-on-the-l-a-m-m-learning-angels-mega-mesh
-    - 'http://maker.good.is/myla2050connect2015/projects/Community-Box.html'
-    - 'http://maker.good.is/myLA2050connect/projects/All_LA_online_faster.html'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
-    - '2014'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102034'
-  - '6102059'
-  - '5102080'
-  - '4102052'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/data-roads-foundation/activation.la2050.org/assets/images/connect/2048-wide/data-roads-foundation.jpg
 

@@ -72,18 +72,16 @@ ein: '260042961'
 zip: ''
 project_image: 'https://img.youtube.com/vi/KAJrrW9SOdA/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/arcexperience.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102006'
 project_titles:
   - >-
     MyARC: A digital social network that solves educational challenges one
     project at a time.
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/arcexperience.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102006'
 youtube_video_identifier: KAJrrW9SOdA
 cached_project_image: >-
   https://archive-assets.la2050.org/images/arc/img.youtube.com/vi/KAJrrW9SOdA/maxresdefault.jpg

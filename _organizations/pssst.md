@@ -17,17 +17,15 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4400390065741-team91.jpg
 project_video: ''
+challenge_url:
+  - 'https://challenge.la2050.org/entry/pssst-2017-artists-supporting-artists'
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102192'
 project_titles:
   - 'PSSST 2017: Artists Supporting Artists  '
   - 'PSSST 2017: Artists Supporting Artists'
-aggregated:
-  challenge_url:
-    - 'https://challenge.la2050.org/entry/pssst-2017-artists-supporting-artists'
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102192'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/pssst/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4400390065741-team91.jpg
 

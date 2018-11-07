@@ -29,16 +29,14 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16858%252Fdisplay%252FAccess_LA_Rt_copy.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/neighbor.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102211'
 project_titles:
   - 'Neighbor to Neighbor: Connecting Los Angeles Through Storytelling'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/neighbor.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102211'
 maker_image_file_name: Access_LA_Rt_copy.jpg
 maker_image_id: '16858'
 cached_project_image: >-

@@ -19,16 +19,14 @@ ein: '464981201'
 zip: ''
 project_image: 'https://img.youtube.com/vi/mei1C43QDXw/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/schkapf.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102187'
 project_titles:
   - Schkapf Performing Arts Incubator
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/schkapf.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102187'
 youtube_video_identifier: mei1C43QDXw
 cached_project_image: >-
   https://archive-assets.la2050.org/images/schkapf/img.youtube.com/vi/mei1C43QDXw/maxresdefault.jpg

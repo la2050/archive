@@ -23,22 +23,20 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4957308744741-team88.jpg
 project_video: 'https://www.youtube.com/embed/L9QrXSUROQ0?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/emerging-voices-fellowship-creating-diverse-literary-artists-through-mentorship
+  - 'http://maker.good.is/myLA2050play/projects/LAYouthLaureate.html'
+year_submitted:
+  - '2016'
+  - '2014'
+project_ids:
+  - '6102180'
+  - '4102166'
 project_titles:
   - >-
     Emerging Voices Fellowship: Creating Diverse Literary Artists Through
     Mentorship
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/emerging-voices-fellowship-creating-diverse-literary-artists-through-mentorship
-    - 'http://maker.good.is/myLA2050play/projects/LAYouthLaureate.html'
-  year_submitted:
-    - '2016'
-    - '2014'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102180'
-  - '4102166'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/pen-center-usa-pen-usa/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4957308744741-team88.jpg
 

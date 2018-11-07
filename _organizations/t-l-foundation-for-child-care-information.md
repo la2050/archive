@@ -22,6 +22,18 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0113414065741-team91.png
 project_video: ''
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/culinary-skills-in-a-box-giving-children-in-child-care-the-tools-to-establish-healthy-habits
+  - 'http://maker.good.is/myla2050live2015/projects/caregiverandme.html'
+year_submitted:
+  - '2016'
+  - '2015'
+  - '2014'
+project_ids:
+  - '6102224'
+  - '5102286'
+  - '4102243'
 project_titles:
   - >-
     Caregivers & Kids - License-Exempt & Child Inclusive Nutrition and Physical
@@ -30,20 +42,6 @@ project_titles:
     Culinary Skills in a Box - Giving Children in Child Care the Tools to
     Establish Healthy Habits
   - 'Caregiver and Me: Get Healthy with Sesame Street'
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/culinary-skills-in-a-box-giving-children-in-child-care-the-tools-to-establish-healthy-habits
-    - 'http://maker.good.is/myla2050live2015/projects/caregiverandme.html'
-  year_submitted:
-    - '2016'
-    - '2015'
-    - '2014'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102224'
-  - '5102286'
-  - '4102243'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/t-l-foundation-for-child-care-information/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0113414065741-team91.png
 

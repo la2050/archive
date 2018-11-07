@@ -20,17 +20,15 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7867733165741-team90.png
 project_video: ''
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/turning-los-angeles-into-a-renewable-energy-leader
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102069'
 project_titles:
   - Turning Los Angeles into a Renewable Energy Leader
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/turning-los-angeles-into-a-renewable-energy-leader
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102069'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/food-water-watch/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7867733165741-team90.png
 

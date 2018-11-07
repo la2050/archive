@@ -37,16 +37,14 @@ ein: '330209754'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/WALKINGSHIELD.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102272'
 project_titles:
   - 'LA American Indian College Education Initiative '
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/WALKINGSHIELD.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102272'
 maker_image_file_name: scholarspic.jpg
 maker_image_id: '16254'
 cached_project_image: >-

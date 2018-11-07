@@ -21,6 +21,33 @@ zip: '90249'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1655980265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/p6jmc2uJAb0?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/robin-hoods-of-rubbish-for-the-la-landfillharmonics
+  - >-
+    https://challenge.la2050.org/entry/are-the-robbin-hoods-of-rubbish-arriving-in-your-neighborhood-park?
+  - >-
+    https://challenge.la2050.org/entry/the-robin-hoods-of-rubbish-are-building-steam-labs!
+  - 'http://maker.good.is/myla2050play2015/projects/MobileMakersSpace.html'
+  - 'http://maker.good.is/myla2050create2015/projects/LALandfillHarmonic.html'
+  - 'http://maker.good.is/myla2050learn2015/projects/ReImaginedResources.html'
+  - 'http://maker.good.is/myLA2050play/projects/reimaginedresources.html'
+year_submitted:
+  - '2016'
+  - '2016'
+  - '2016'
+  - '2015'
+  - '2015'
+  - '2015'
+  - '2014'
+project_ids:
+  - '6102227'
+  - '6102226'
+  - '6102225'
+  - '5102289'
+  - '5102288'
+  - '5102287'
+  - '4102237'
 project_titles:
   - Are the Robbin Hoods of Rubbish arriving in your neighborhood park?
   - LA Landfill Harmonic Orchestra
@@ -29,35 +56,6 @@ project_titles:
   - T4T.org’s ReImagined Resource Center STEAM Labs
   - The Robin Hoods of Rubbish are building STEAM Labs!
   - T4T.org’s Mobile Makers Space with ReImagined Resources
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/robin-hoods-of-rubbish-for-the-la-landfillharmonics
-    - >-
-      https://challenge.la2050.org/entry/are-the-robbin-hoods-of-rubbish-arriving-in-your-neighborhood-park?
-    - >-
-      https://challenge.la2050.org/entry/the-robin-hoods-of-rubbish-are-building-steam-labs!
-    - 'http://maker.good.is/myla2050play2015/projects/MobileMakersSpace.html'
-    - 'http://maker.good.is/myla2050create2015/projects/LALandfillHarmonic.html'
-    - 'http://maker.good.is/myla2050learn2015/projects/ReImaginedResources.html'
-    - 'http://maker.good.is/myLA2050play/projects/reimaginedresources.html'
-  year_submitted:
-    - '2016'
-    - '2016'
-    - '2016'
-    - '2015'
-    - '2015'
-    - '2015'
-    - '2014'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102227'
-  - '6102226'
-  - '6102225'
-  - '5102289'
-  - '5102288'
-  - '5102287'
-  - '4102237'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/t4t-org/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1655980265741-team91.jpg
 

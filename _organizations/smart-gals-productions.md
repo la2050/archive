@@ -22,17 +22,15 @@ zip: '90031'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23815%252Fdisplay%252FIsWasWillBe_SmartGals.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050connect2015/projects/IsWasWillBe.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102269'
 project_titles:
   - 'Is.Was.Will Be. '
   - Is.Was.Will Be.
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050connect2015/projects/IsWasWillBe.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102269'
 maker_image_file_name: IsWasWillBe_SmartGals.jpg
 maker_image_id: '23815'
 cached_project_image: >-

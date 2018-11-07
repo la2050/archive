@@ -23,18 +23,16 @@ ein: '954302067'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/WjnYc_5sRG8/maxresdefault.jpg'
 project_video: ''
-project_titles:
-  - Climate Cents
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050live2015/projects/ClimateCents.html'
-  year_submitted:
-    - '2015'
-    - '2014'
-year_submitted: '2015'
-calculated_project_ids:
+challenge_url:
+  - 'http://maker.good.is/myla2050live2015/projects/ClimateCents.html'
+year_submitted:
+  - '2015'
+  - '2014'
+project_ids:
   - '5102066'
   - '4102013'
+project_titles:
+  - Climate Cents
 youtube_video_identifier: WjnYc_5sRG8
 cached_project_image: >-
   https://archive-assets.la2050.org/images/climate-cents/img.youtube.com/vi/WjnYc_5sRG8/maxresdefault.jpg

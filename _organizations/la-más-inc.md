@@ -47,16 +47,14 @@ ein: '383886677'
 zip: ''
 project_image: 'https://img.youtube.com/vi/iGjxg6yI_og/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/farmonwheels.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102071'
 project_titles:
   - Farm on Wheels
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/farmonwheels.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102071'
 youtube_video_identifier: iGjxg6yI_og
 cached_project_image: >-
   https://archive-assets.la2050.org/images/la-más-inc/img.youtube.com/vi/iGjxg6yI_og/hqdefault.jpg

@@ -19,16 +19,14 @@ ein: '464108322'
 zip: '91406'
 project_image: 'https://img.youtube.com/vi/NHaLkpe_jms/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050connect/projects/MYCITY.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102060'
 project_titles:
   - MY CITY
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050connect/projects/MYCITY.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102060'
 youtube_video_identifier: NHaLkpe_jms
 cached_project_image: >-
   https://archive-assets.la2050.org/images/dumlao-enterprises/img.youtube.com/vi/NHaLkpe_jms/maxresdefault.jpg

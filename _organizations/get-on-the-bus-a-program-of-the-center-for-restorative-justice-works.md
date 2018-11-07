@@ -21,6 +21,12 @@ zip: '91606'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23562%252Fdisplay%252FCRJW_Goodmaker.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050create2015/projects/GetOnTheBus2015.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102109'
 project_titles:
   - >-
     Reunifying children with their incarcerated parents in prisons throughout
@@ -28,14 +34,6 @@ project_titles:
   - >-
     Reunifying children with their incarcerated parents in prisons throughout
     California
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050create2015/projects/GetOnTheBus2015.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102109'
 maker_image_file_name: CRJW_Goodmaker.jpg
 maker_image_id: '23562'
 cached_project_image: >-

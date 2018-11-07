@@ -23,23 +23,21 @@ zip: '90065'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1369152355741-team90.png
 project_video: 'https://www.youtube.com/embed/rDnYXMVy1xo?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/musicworks-connecting-music-industry-pros-to-underserved-kids-for-social-transformation
+  - 'http://maker.good.is/myla2050connect2015/projects/LAWorks.html'
+year_submitted:
+  - '2016'
+  - '2015'
+project_ids:
+  - '6102118'
+  - '5102165'
 project_titles:
   - 'L.A. Works: Volunteers for a Greater LA'
   - >-
     MusicWorks: connecting music-industry pros to underserved kids for social
     transformation
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/musicworks-connecting-music-industry-pros-to-underserved-kids-for-social-transformation
-    - 'http://maker.good.is/myla2050connect2015/projects/LAWorks.html'
-  year_submitted:
-    - '2016'
-    - '2015'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102118'
-  - '5102165'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/l-a-works/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1369152355741-team90.png
 

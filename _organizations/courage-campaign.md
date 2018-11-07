@@ -58,6 +58,12 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16571%252Fdisplay%252FDFO_retreat_rowdy_pic.jpg=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/VoterParticipation.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102094'
 project_titles:
   - General Message to Humanity.
   - >-
@@ -66,14 +72,6 @@ project_titles:
   - >-
     Increase Voter Turnout Neighbor to Neighbor Communication and Govt
     Responsiveness
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/VoterParticipation.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102094'
 maker_image_file_name: DFO_retreat_rowdy_pic.jpg
 maker_image_id: '16571'
 cached_project_image: >-

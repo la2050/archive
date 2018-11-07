@@ -19,16 +19,14 @@ ein: '330744619'
 zip: '90640'
 project_image: 'https://img.youtube.com/vi/z7QaUClznXM/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/Welcome.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102161'
 project_titles:
   - Welcome to Our Neighborhood
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/Welcome.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102161'
 youtube_video_identifier: z7QaUClznXM
 cached_project_image: >-
   https://archive-assets.la2050.org/images/optimizing-national-education/img.youtube.com/vi/z7QaUClznXM/hqdefault.jpg

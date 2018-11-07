@@ -23,20 +23,18 @@ zip: '90015'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/center-for-council-a-project-of-community-partners.jpg
 project_video: 'https://www.youtube.com/watch?v=TAAc3xB3YTk'
-project_titles:
-  - Connection through Council
-aggregated:
-  challenge_url:
-    - >-
-      https://activation.la2050.org/connect/center-for-council-a-project-of-community-partners/
-    - 'http://maker.good.is/myla2050connect2015/projects/centerforcouncil.html'
-  year_submitted:
-    - '2018'
-    - '2015'
-year_submitted: '2018'
-calculated_project_ids:
+challenge_url:
+  - >-
+    https://activation.la2050.org/connect/center-for-council-a-project-of-community-partners/
+  - 'http://maker.good.is/myla2050connect2015/projects/centerforcouncil.html'
+year_submitted:
+  - '2018'
+  - '2015'
+project_ids:
   - '8102015'
   - '5102047'
+project_titles:
+  - Connection through Council
 cached_project_image: >-
   https://archive-assets.la2050.org/images/center-for-council-a-project-of-community-partners/activation.la2050.org/assets/images/connect/2048-wide/center-for-council-a-project-of-community-partners.jpg
 

@@ -328,7 +328,7 @@ align-self: stretch;
 
   {% assign is_winner = false %}
   {% for winner in site.data.winners %}
-    {% for challenge_url in data.aggregated.challenge_url %}
+    {% for challenge_url in data.challenge_url %}
       {% assign secure_challenge_url = challenge_url | replace: "http://", "https://" %}
       {% if winner.url contains secure_challenge_url or secure_challenge_url contains winner.url %}
         {% assign is_winner = true %}
@@ -339,7 +339,7 @@ align-self: stretch;
 
   {% assign is_honorable = false %}
   {% for honorable in site.data.honorable_mentions %}
-    {% for challenge_url in data.aggregated.challenge_url %}
+    {% for challenge_url in data.challenge_url %}
       {% if honorable.url contains data.url %}
         {% assign is_honorable = true %}
         {% assign honorable_year = honorable.year %}

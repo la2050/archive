@@ -13,7 +13,7 @@ stylesheets:
 
 
 
-{% for project_id in page.calculated_project_ids %}
+{% for project_id in page.project_ids %}
   {% assign data_list = data_collection.docs | where: "project_id", project_id %}
   {% if data_list.size > 0 %}
     {% assign project_list = project_list | push: data_list[0] %}
@@ -534,7 +534,7 @@ font-size: 1.25em; line-height: 1; margin-bottom: 3rem;" id="ideas">Submitted Id
     {% endif %}
   {% endif %}
 
-  {% for challenge_url in page.aggregated.challenge_url %}
+  {% for challenge_url in page.challenge_url %}
     {% assign secure_challenge_url = challenge_url | replace: "http://", "https://" %}
     {% if winner.url contains secure_challenge_url or secure_challenge_url contains winner.url %}
       {% if project.year_submitted == 2018 %}

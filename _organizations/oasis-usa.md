@@ -56,16 +56,14 @@ ein: '954870779'
 zip: ''
 project_image: 'https://img.youtube.com/vi/_5icxWSNJFw/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/oasisusa.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102208'
 project_titles:
   - 'Making LA TraffickFree: ending trafficking 1 COMMUNITY at a time'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/oasisusa.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102208'
 youtube_video_identifier: _5icxWSNJFw
 cached_project_image: >-
   https://archive-assets.la2050.org/images/oasis-usa/img.youtube.com/vi/_5icxWSNJFw/maxresdefault.jpg

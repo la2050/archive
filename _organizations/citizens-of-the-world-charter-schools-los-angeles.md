@@ -20,6 +20,18 @@ ein: ''
 zip: ''
 project_image: 'http://www.cwclosangeles.org/wp-content/uploads/2015/01/bg6.jpg'
 project_video: ''
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/cwc-la-building-communities-that-embrace-equity-and-address-injustice
+  - 'http://maker.good.is/myla2050learn2015/projects/CITIZENSOFTHEWORLD.html'
+year_submitted:
+  - '2016'
+  - '2015'
+  - '2014'
+project_ids:
+  - '6102037'
+  - '5102057'
+  - '4102036'
 project_titles:
   - >-
     A Peaceful Los Angeles: Developing the Hearts and Minds of Our Future
@@ -28,20 +40,6 @@ project_titles:
   - >-
     HEAR LA amps up music education and outreach to create opportunity for LA
     kids
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/cwc-la-building-communities-that-embrace-equity-and-address-injustice
-    - 'http://maker.good.is/myla2050learn2015/projects/CITIZENSOFTHEWORLD.html'
-  year_submitted:
-    - '2016'
-    - '2015'
-    - '2014'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102037'
-  - '5102057'
-  - '4102036'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/citizens-of-the-world-charter-schools-los-angeles/www.cwclosangeles.org/wp-content/uploads/2015/01/bg6.jpg
 

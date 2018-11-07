@@ -20,17 +20,15 @@ ein: '954302067'
 zip: '90015'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/smartairla.jpg'
 project_video: ''
+challenge_url:
+  - 'https://activation.la2050.org/live/smartairla/'
+year_submitted:
+  - '2018'
+project_ids:
+  - '8102110'
 project_titles:
   - SmartAirLA
   - 'SmartAirLA '
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/live/smartairla/'
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102110'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/smartairla/activation.la2050.org/assets/images/live/2048-wide/smartairla.jpg
 

@@ -21,21 +21,19 @@ ein: '464000152'
 zip: '90094'
 project_image: 'https://img.youtube.com/vi/QaoTDnw-Xtw/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050create/projects/Transformation.html'
+  - 'http://maker.good.is/myla2050/projects/Sabio.html'
+year_submitted:
+  - '2014'
+  - '2013'
+project_ids:
+  - '4102184'
+  - '3102231'
 project_titles:
   - >-
     Sabio & Crossroads working together to incubate diverse tech talent in Los
     Angeles.
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050create/projects/Transformation.html'
-    - 'http://maker.good.is/myla2050/projects/Sabio.html'
-  year_submitted:
-    - '2014'
-    - '2013'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102184'
-  - '3102231'
 youtube_video_identifier: QaoTDnw-Xtw
 cached_project_image: >-
   https://archive-assets.la2050.org/images/sabio-enterprises-inc/img.youtube.com/vi/QaoTDnw-Xtw/maxresdefault.jpg

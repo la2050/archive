@@ -21,16 +21,14 @@ ein: '922748922'
 zip: '90291'
 project_image: 'https://img.youtube.com/vi/WendT0Sm-Tk/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050connect2015/projects/poetryambassador.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102336'
 project_titles:
   - LA Youth Poet Ambassadors
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050connect2015/projects/poetryambassador.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102336'
 youtube_video_identifier: WendT0Sm-Tk
 cached_project_image: >-
   https://archive-assets.la2050.org/images/urban-word-los-angeles/img.youtube.com/vi/WendT0Sm-Tk/maxresdefault.jpg

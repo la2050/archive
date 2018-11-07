@@ -19,16 +19,14 @@ ein: '273421838'
 zip: '90038'
 project_image: 'https://img.youtube.com/vi/l2oE7AX8gtw/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050connect/projects/LABikeTrains.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102107'
 project_titles:
   - L.A. Bike Trains
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050connect/projects/LABikeTrains.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102107'
 youtube_video_identifier: l2oE7AX8gtw
 cached_project_image: >-
   https://archive-assets.la2050.org/images/l-a-bike-trains-bicycle-culture-institute/img.youtube.com/vi/l2oE7AX8gtw/maxresdefault.jpg

@@ -45,17 +45,15 @@ ein: '954679811'
 zip: ''
 project_image: 'https://pbs.twimg.com/media/Dp0_YyTU0AACEA9.jpg:large'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/salamanderproject.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102207'
 project_titles:
   - 'The Salamander Project: Re-designing Creativity in Education'
   - 'The Salamander Project: Redesigning Creativity in Education'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/salamanderproject.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102207'
 youtube_video_identifier: y3Gts_Aoxd8
 cached_project_image: >-
   https://archive-assets.la2050.org/images/no-right-brain-left-behind-and-green-dot-schools/img.youtube.com/vi/y3Gts_Aoxd8/hqdefault.jpg

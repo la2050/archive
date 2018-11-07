@@ -23,20 +23,18 @@ zip: '90046'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/national-association-of-latino-independent-producers-nalip.jpg
 project_video: 'https://youtu.be/3uy1I03CPas'
-project_titles:
-  - Digitize LA
-aggregated:
-  challenge_url:
-    - >-
-      https://activation.la2050.org/create/national-association-of-latino-independent-producers-nalip/
-    - 'http://maker.good.is/myLA2050create/projects/DigtizeLA.html'
-  year_submitted:
-    - '2018'
-    - '2014'
-year_submitted: '2018'
-calculated_project_ids:
+challenge_url:
+  - >-
+    https://activation.la2050.org/create/national-association-of-latino-independent-producers-nalip/
+  - 'http://maker.good.is/myLA2050create/projects/DigtizeLA.html'
+year_submitted:
+  - '2018'
+  - '2014'
+project_ids:
   - '8102121'
   - '4102225'
+project_titles:
+  - Digitize LA
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-national-association-of-latino-independent-producers-nalip/activation.la2050.org/assets/images/create/2048-wide/national-association-of-latino-independent-producers-nalip.jpg
 

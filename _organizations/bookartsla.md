@@ -20,17 +20,15 @@ zip: '90066'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23476%252Fdisplay%252FIMG_8796_(2).JPG=c570x385
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/MAKEANDREADBOOKS.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102032'
 project_titles:
   - 'Make a Book, Read a Book'
   - Make a Book Read a Book
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/MAKEANDREADBOOKS.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102032'
 maker_image_file_name: IMG_8796_(2).JPG
 maker_image_id: '23476'
 cached_project_image: >-

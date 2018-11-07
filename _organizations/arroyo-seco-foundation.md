@@ -21,17 +21,15 @@ ein: '954328068'
 zip: 90065-1011
 project_image: 'https://img.youtube.com/vi/ffK1mzyzUPE/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050connect2015/projects/ArroyoRiverParks.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102020'
 project_titles:
   - 'Bring Back the River: Restoring the Los Angeles River Watershed '
   - 'Bring Back the River: Restoring the Los Angeles River Watershed'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050connect2015/projects/ArroyoRiverParks.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102020'
 youtube_video_identifier: ffK1mzyzUPE
 cached_project_image: >-
   https://archive-assets.la2050.org/images/arroyo-seco-foundation/img.youtube.com/vi/ffK1mzyzUPE/maxresdefault.jpg

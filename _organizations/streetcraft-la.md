@@ -40,18 +40,16 @@ ein: '237360521'
 zip: ''
 project_image: 'https://img.youtube.com/vi/LDkB_pxZu2k/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/streetcraft.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102239'
 project_titles:
   - >-
     Streetcraft: where street hustlers and tag bangers become creative economy
     entrepreneurs
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/streetcraft.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102239'
 youtube_video_identifier: LDkB_pxZu2k
 cached_project_image: >-
   https://archive-assets.la2050.org/images/streetcraft-la/img.youtube.com/vi/LDkB_pxZu2k/maxresdefault.jpg

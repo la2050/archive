@@ -44,16 +44,14 @@ ein: '481269978'
 zip: ''
 project_image: 'https://img.youtube.com/vi/keoZhYn_XbI/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/NEVERBUILT.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102004'
 project_titles:
   - 'Never Built: Los Angeles'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/NEVERBUILT.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102004'
 youtube_video_identifier: keoZhYn_XbI
 cached_project_image: >-
   https://archive-assets.la2050.org/images/a-d-architecture-and-design-museum-los-angeles/img.youtube.com/vi/keoZhYn_XbI/maxresdefault.jpg

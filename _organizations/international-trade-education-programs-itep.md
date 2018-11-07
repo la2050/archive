@@ -23,17 +23,15 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1825639986741-team91.jpg
 project_video: ''
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/east-los-angeles-youth-environmental-leadership-summit
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102106'
 project_titles:
   - East Los Angeles Youth Environmental Leadership Summit
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/east-los-angeles-youth-environmental-leadership-summit
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102106'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/international-trade-education-programs-itep/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1825639986741-team91.jpg
 

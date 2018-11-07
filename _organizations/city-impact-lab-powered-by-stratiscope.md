@@ -29,17 +29,15 @@ zip: '94965'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/city-impact-lab-powered-by-stratiscope.jpg
 project_video: ''
+challenge_url:
+  - >-
+    https://activation.la2050.org/connect/city-impact-lab-powered-by-stratiscope/
+year_submitted:
+  - '2018'
+project_ids:
+  - '8102024'
 project_titles:
   - '“The BlockMobile”: Creating Connections Block by Block'
-aggregated:
-  challenge_url:
-    - >-
-      https://activation.la2050.org/connect/city-impact-lab-powered-by-stratiscope/
-  year_submitted:
-    - '2018'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102024'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/city-impact-lab-powered-by-stratiscope/activation.la2050.org/assets/images/connect/2048-wide/city-impact-lab-powered-by-stratiscope.jpg
 

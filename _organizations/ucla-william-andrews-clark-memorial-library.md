@@ -28,16 +28,14 @@ ein: '952250801'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050/projects/Clark.html'
+year_submitted:
+  - '2013'
+project_ids:
+  - '3102263'
 project_titles:
   - 'Arts on the Grounds: L.A. Escena Performance Series'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050/projects/Clark.html'
-  year_submitted:
-    - '2013'
-year_submitted: '2013'
-calculated_project_ids:
-  - '3102263'
 maker_image_file_name: CLARK_The_Country_Wife__1.jpg
 maker_image_id: '16669'
 cached_project_image: >-

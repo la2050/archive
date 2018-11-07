@@ -18,17 +18,15 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6052198655741-team91.jpeg
 project_video: 'https://www.youtube.com/embed/ozDtyhaXTtI?rel=0&amp;showinfo=0'
+challenge_url:
+  - >-
+    https://challenge.la2050.org/entry/sync-thinkers-doers-research-to-hyperdrive-local-solutions-innovation
+year_submitted:
+  - '2016'
+project_ids:
+  - '6102071'
 project_titles:
   - 'Sync thinkers, doers & research to hyperdrive local solutions & innovation.'
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/sync-thinkers-doers-research-to-hyperdrive-local-solutions-innovation
-  year_submitted:
-    - '2016'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102071'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/library/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6052198655741-team91.jpeg
 

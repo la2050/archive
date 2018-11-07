@@ -21,19 +21,17 @@ ein: '954302067'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/69OXVYZ15kU/maxresdefault.jpg'
 project_video: ''
-project_titles:
-  - The Peer Mediation Network
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/peermediationnetwork.html'
-    - 'http://maker.good.is/myla2050/projects/conflictresolution.html'
-  year_submitted:
-    - '2015'
-    - '2013'
-year_submitted: '2015'
-calculated_project_ids:
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/peermediationnetwork.html'
+  - 'http://maker.good.is/myla2050/projects/conflictresolution.html'
+year_submitted:
+  - '2015'
+  - '2013'
+project_ids:
   - '5102303'
   - '3102157'
+project_titles:
+  - The Peer Mediation Network
 youtube_video_identifier: 69OXVYZ15kU
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-institute-for-nonviolence-in-los-angeles/img.youtube.com/vi/69OXVYZ15kU/maxresdefault.jpg

@@ -19,16 +19,14 @@ ein: 472268086‏
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/pnwgZVtiDAA/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050create2015/projects/LAAF.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102152'
 project_titles:
   - LA ART FEST
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050create2015/projects/LAAF.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102152'
 youtube_video_identifier: pnwgZVtiDAA
 cached_project_image: >-
   https://archive-assets.la2050.org/images/julie-rico-dba-as-o-fine-art/img.youtube.com/vi/pnwgZVtiDAA/hqdefault.jpg

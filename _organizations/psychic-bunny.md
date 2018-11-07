@@ -19,16 +19,14 @@ ein: '900406307'
 zip: '90013'
 project_image: 'https://img.youtube.com/vi/NtMAZqR4Tf4/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myLA2050play/projects/FlightOfTheAngels.html'
+year_submitted:
+  - '2014'
+project_ids:
+  - '4102177'
 project_titles:
   - Flight of the Angels - A Pervasive Audio Game About DTLA
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myLA2050play/projects/FlightOfTheAngels.html'
-  year_submitted:
-    - '2014'
-year_submitted: '2014'
-calculated_project_ids:
-  - '4102177'
 youtube_video_identifier: NtMAZqR4Tf4
 cached_project_image: >-
   https://archive-assets.la2050.org/images/psychic-bunny/img.youtube.com/vi/NtMAZqR4Tf4/maxresdefault.jpg

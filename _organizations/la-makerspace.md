@@ -20,16 +20,14 @@ ein: '954116679'
 zip: '91615'
 project_image: 'https://img.youtube.com/vi/V0_Km6YYSbo/maxresdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050learn2015/projects/LAMakerspace.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102168'
 project_titles:
   - Teach Kids Coding with Minecraft
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050learn2015/projects/LAMakerspace.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102168'
 youtube_video_identifier: V0_Km6YYSbo
 cached_project_image: >-
   https://archive-assets.la2050.org/images/la-makerspace/img.youtube.com/vi/V0_Km6YYSbo/maxresdefault.jpg

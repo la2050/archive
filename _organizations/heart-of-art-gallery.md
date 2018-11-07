@@ -20,16 +20,14 @@ ein: '461899740'
 zip: '90016'
 project_image: 'https://img.youtube.com/vi/jpQSRVlR_XM/hqdefault.jpg'
 project_video: ''
+challenge_url:
+  - 'http://maker.good.is/myla2050create2015/projects/HeartofArt.html'
+year_submitted:
+  - '2015'
+project_ids:
+  - '5102132'
 project_titles:
   - 'City with a Heart of Art: 1000 New Artworks made in & by LA in 2016'
-aggregated:
-  challenge_url:
-    - 'http://maker.good.is/myla2050create2015/projects/HeartofArt.html'
-  year_submitted:
-    - '2015'
-year_submitted: '2015'
-calculated_project_ids:
-  - '5102132'
 youtube_video_identifier: jpQSRVlR_XM
 cached_project_image: >-
   https://archive-assets.la2050.org/images/heart-of-art-gallery/img.youtube.com/vi/jpQSRVlR_XM/hqdefault.jpg

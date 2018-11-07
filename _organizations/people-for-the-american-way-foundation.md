@@ -23,26 +23,23 @@ zip: '20005'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8636309165741-team90.JPG
 project_video: 'https://www.youtube.com/embed/t9dVCR59w60?rel=0&amp;showinfo=0'
+challenge_url:
+  - 'https://challenge.la2050.org/entry/front-line-leaders-academy-–-los-angeles'
+  - 'http://maker.good.is/myla2050connect2015/projects/FLLALA.html'
+  - 'http://maker.good.is/myla2050/projects/frontlineleaders.html'
+year_submitted:
+  - '2016'
+  - '2015'
+  - '2013'
+project_ids:
+  - '6102182'
+  - '5102233'
+  - '3102217'
 project_titles:
   - Front Line Leaders Academy - Los Angeles Pilot Program
   - Front Line Leaders Academy – Los Angeles
   - 'Front Line Leaders Academy: Creating  Change that Lasts'
   - 'Micah Leaders Engage Hip Hop Generation in Civic Participation '
-aggregated:
-  challenge_url:
-    - >-
-      https://challenge.la2050.org/entry/front-line-leaders-academy-–-los-angeles
-    - 'http://maker.good.is/myla2050connect2015/projects/FLLALA.html'
-    - 'http://maker.good.is/myla2050/projects/frontlineleaders.html'
-  year_submitted:
-    - '2016'
-    - '2015'
-    - '2013'
-year_submitted: '2016'
-calculated_project_ids:
-  - '6102182'
-  - '5102233'
-  - '3102217'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/people-for-the-american-way-foundation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8636309165741-team90.JPG
 

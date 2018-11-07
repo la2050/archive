@@ -22,24 +22,22 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/synaccord-llc.jpg
 project_video: ''
+challenge_url:
+  - 'https://activation.la2050.org/connect/synaccord-llc/'
+  - 'https://challenge.la2050.org/entry/engage-your-neighborhood'
+  - 'http://maker.good.is/myla2050connect2015/projects/SynaccordLA.html'
+year_submitted:
+  - '2018'
+  - '2016'
+  - '2015'
+project_ids:
+  - '8102115'
+  - '6102234'
+  - '5102285'
 project_titles:
   - Engage Your Neighborhood
   - Engaging LA Online in Solutions that Unite Us
   - Neighborhood Conversations
-aggregated:
-  challenge_url:
-    - 'https://activation.la2050.org/connect/synaccord-llc/'
-    - 'https://challenge.la2050.org/entry/engage-your-neighborhood'
-    - 'http://maker.good.is/myla2050connect2015/projects/SynaccordLA.html'
-  year_submitted:
-    - '2018'
-    - '2016'
-    - '2015'
-year_submitted: '2018'
-calculated_project_ids:
-  - '8102115'
-  - '6102234'
-  - '5102285'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/synaccord-llc/activation.la2050.org/assets/images/connect/2048-wide/synaccord-llc.jpg
 

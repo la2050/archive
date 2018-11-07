@@ -74,10 +74,10 @@ const attributes = [
   'zip',
   'project_image',
   'project_video',
+  'challenge_url',
+  'year_submitted',
   'project_ids',
   'project_titles',
-  'aggregated',
-  'year_submitted',
   'calculated_project_ids',
   'original_project_ids',
   'original_project_titles',
@@ -412,12 +412,20 @@ function processFile(filename) {
   //   console.log("found missing title: " + data.yaml.organization_id)
   // }
 
-  if (data.yaml.year_submitted != data.yaml.aggregated.year_submitted[0]) {
-    console.log("**** found mismatched year_submitted")
-    console.dir(data.yaml)
-  }
+  // if (data.yaml.year_submitted != data.yaml.aggregated.year_submitted[0]) {
+  //   console.log("**** found mismatched year_submitted")
+  //   console.dir(data.yaml)
+  // }
 
-  // saveMarkdown(filename, data)
+  // data.yaml.year_submitted = data.yaml.aggregated.year_submitted
+  // delete data.yaml.aggregated.year_submitted
+
+  // data.yaml.challenge_url = data.yaml.aggregated.challenge_url
+  // delete data.yaml.aggregated.challenge_url
+
+
+
+  saveMarkdown(filename, data)
 }
 
 
