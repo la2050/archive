@@ -21,15 +21,11 @@ ein: '272007326'
 zip: '90067'
 project_image: 'https://img.youtube.com/vi/lilCVZW2Ggk/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102188'
 project_titles:
   - High School CPR Training
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/lafdcpr.html'
-  project_ids:
-    - '5102188'
   year_submitted:
     - '2015'
 year_submitted: '2015'

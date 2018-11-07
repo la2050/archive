@@ -85,15 +85,11 @@ ein: '461912903'
 zip: ''
 project_image: 'https://img.youtube.com/vi/IYZkhNMTKrg/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102035'
 project_titles:
   - 'MASTERY LA: Map Learning & Expertise for Lifelong Exploration'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/MASTERY.html'
-  project_ids:
-    - '3102035'
   year_submitted:
     - '2013'
 year_submitted: '2013'

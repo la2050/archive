@@ -24,15 +24,11 @@ ein: '383887267'
 zip: ''
 project_image: 'https://img.youtube.com/vi/R-T1Ud6JTNo/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102101'
 project_titles:
   - Renewable Financing for Renewable Energy
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/takebackthegrid.html'
-  project_ids:
-    - '3102101'
   year_submitted:
     - '2013'
 year_submitted: '2013'

@@ -19,15 +19,11 @@ ein: '613480924'
 zip: '91504'
 project_image: 'https://img.youtube.com/vi/Vv698CCwrt4/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102147'
 project_titles:
   - Apps4LA- Transitioning Los Angeles into a Smart City
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Apps4LA.html'
-  project_ids:
-    - '4102118'
   year_submitted:
     - '2014'
 year_submitted: '2014'

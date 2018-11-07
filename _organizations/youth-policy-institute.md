@@ -23,12 +23,6 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/youth-policy-institute.jpg
 project_video: 'https://youtu.be/__37Jfcwzr8'
-project_ids:
-  - '8102140'
-  - '6102288'
-  - '5102347'
-  - '4102265'
-  - '3102278'
 project_titles:
   - LA Schools to Parks
   - 'Los Angeles Promise Neighborhood: Transforming Public Education'
@@ -45,12 +39,6 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/YPICOLLEGEPROMISE.html'
     - 'http://maker.good.is/myLA2050play/projects/YPI.html'
     - 'http://maker.good.is/myla2050/projects/PromiseNeighborhood.html'
-  project_ids:
-    - '8102140'
-    - '6102288'
-    - '5102347'
-    - '4102267'
-    - '3102278'
   year_submitted:
     - '2018'
     - '2016'

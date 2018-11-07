@@ -21,15 +21,11 @@ zip: '90007'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/stellas-socks.jpg
 project_video: 'https://www.youtube.com/watch?v=ClzWZnnOiJA'
-project_ids:
-  - '8102112'
 project_titles:
   - Stella's Socks - Shelter for Your Feet
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/stellas-socks/'
-  project_ids:
-    - '8102112'
   year_submitted:
     - '2018'
 year_submitted: '2018'

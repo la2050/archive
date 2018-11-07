@@ -22,17 +22,12 @@ ein: '954089758'
 zip: '90010'
 project_image: 'https://img.youtube.com/vi/QV1lB2SqWos/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102001'
 project_titles:
   - 'IHADLA: Breaking the Cycle of Poverty by Educating and Empowering Youth.'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/ihaveadream.html'
     - 'http://maker.good.is/myla2050/projects/ihaveadream.html'
-  project_ids:
-    - '5102001'
-    - '3102243'
   year_submitted:
     - '2015'
     - '2013'

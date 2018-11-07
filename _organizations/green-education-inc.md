@@ -19,14 +19,10 @@ zip: '90802'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22790%252Fdisplay%252FGEInc_Logo-brown_3-12.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102200'
 project_titles:
   - Green The Block
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102132'
   year_submitted:
     - '2014'
 year_submitted: '2014'

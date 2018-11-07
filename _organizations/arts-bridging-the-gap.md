@@ -23,16 +23,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6368104854741-team91.jpg
 project_video: 'https://www.youtube.com/embed/9rIjGtZLljo?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102011'
 project_titles:
   - 'Girls Make VR: Teach underserved girls how to make VR and AR content'
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/girls-make-vr-teach-underserved-girls-how-to-make-vr-and-ar-content
-  project_ids:
-    - '6102011'
   year_submitted:
     - '2016'
 year_submitted: '2016'

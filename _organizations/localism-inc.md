@@ -19,8 +19,6 @@ ein: '452177652'
 zip: '90802'
 project_image: 'https://img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102181'
 project_titles:
   - >-
     MADE in Long Beach: Fostering independent entrepreneurship to accelerate the
@@ -28,8 +26,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/madeinlongbeach.html'
-  project_ids:
-    - '5102254'
   year_submitted:
     - '2015'
 year_submitted: '2015'

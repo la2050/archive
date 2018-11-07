@@ -17,18 +17,12 @@ ein: '954592893'
 zip: '90242'
 project_image: 'https://img.youtube.com/vi/myUKgR-PO4c/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102069'
-  - '4102142'
 project_titles:
   - 'Clothes The Deal: Dismantling Barriers to Employment'
   - Employment Enhancement Project
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/clothesthedeal2050.html'
-  project_ids:
-    - '5102069'
-    - '4102195'
   year_submitted:
     - '2015'
     - '2014'

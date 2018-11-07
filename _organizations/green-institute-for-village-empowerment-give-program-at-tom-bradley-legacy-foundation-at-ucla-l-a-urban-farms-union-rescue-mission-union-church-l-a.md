@@ -23,15 +23,11 @@ zip: '90095'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23569%252Fdisplay%252Ftowergarden.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102118'
 project_titles:
   - Sustainable Community Urban Farms Initiative
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/GIVEUrbanfarms.html'
-  project_ids:
-    - '5102118'
   year_submitted:
     - '2015'
 year_submitted: '2015'

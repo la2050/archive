@@ -45,16 +45,12 @@ zip: '90042'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/environment-california-research-policy-center.jpg
 project_video: ''
-project_ids:
-  - '8102037'
 project_titles:
   - '#NextStopCleanAir: Electric School Buses for LA’s Kids'
 aggregated:
   challenge_url:
     - >-
       https://activation.la2050.org/live/environment-california-research-policy-center/
-  project_ids:
-    - '8102037'
   year_submitted:
     - '2018'
 year_submitted: '2018'

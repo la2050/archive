@@ -22,9 +22,6 @@ zip: '91101'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
 project_video: ''
-project_ids:
-  - '6102110'
-  - '5102151'
 project_titles:
   - Joyful Heart Foundation’s Survivor Retreat Model
 aggregated:
@@ -32,9 +29,6 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/joyful-heart-foundations-survivor-retreat-model
     - 'http://maker.good.is/myla2050live2015/projects/JHFsurvivorretreat.html'
-  project_ids:
-    - '6102110'
-    - '5102151'
   year_submitted:
     - '2016'
     - '2015'

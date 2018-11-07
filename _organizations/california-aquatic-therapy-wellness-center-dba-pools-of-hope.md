@@ -23,8 +23,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7134629065741-team91.jpg
 project_video: ''
-project_ids:
-  - '6102025'
 project_titles:
   - >-
     Pools of Hope provides an after-school Swim & Achieve Homework Assistance
@@ -33,8 +31,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/pools-of-hope-provides-an-after-school-swim-achieve-homework-assistance-lab-for-at-risk-youth
-  project_ids:
-    - '6102025'
   year_submitted:
     - '2016'
 year_submitted: '2016'

@@ -22,17 +22,12 @@ zip: 90041-8301
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7081548543741-team89.jpg
 project_video: 'https://youtube.com/embed/gxmDmbwknC0?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102136'
 project_titles:
   - LA Audubon - Urban Nature Explored
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/la-audubon-urban-nature-explored'
     - 'http://maker.good.is/myla2050play2015/projects/urbannature.html'
-  project_ids:
-    - '6102136'
-    - '5102183'
   year_submitted:
     - '2016'
     - '2015'

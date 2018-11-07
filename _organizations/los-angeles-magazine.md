@@ -21,8 +21,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4972927725741-team91.jpg
 project_video: ''
-project_ids:
-  - '6102200'
 project_titles:
   - >-
     GIVE Los Angeles: charitable giving that unites and connects us in the city
@@ -34,8 +32,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/give-los-angeles-charitable-giving-that-unites-and-connects-us-in-the-city-we-love
-  project_ids:
-    - '6102200'
   year_submitted:
     - '2016'
 year_submitted: '2016'

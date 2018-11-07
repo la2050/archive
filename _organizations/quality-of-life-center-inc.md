@@ -28,15 +28,11 @@ ein: '550896331'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
-project_ids:
-  - '3102225'
 project_titles:
   - Improve The Quality of Life Through Education and Community Support
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/QualityOfLifeCenter.html'
-  project_ids:
-    - '3102225'
   year_submitted:
     - '2013'
 year_submitted: '2013'

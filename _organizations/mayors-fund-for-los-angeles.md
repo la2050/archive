@@ -27,8 +27,6 @@ zip: '20001'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/mayors-fund-for-los-angeles.jpg
 project_video: ''
-project_ids:
-  - '8102081'
 project_titles:
   - >-
     VolunteerLA will mobilize Angelenos to volunteer and create long-lasting
@@ -36,8 +34,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/mayors-fund-for-los-angeles/'
-  project_ids:
-    - '8102081'
   year_submitted:
     - '2018'
 year_submitted: '2018'

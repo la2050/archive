@@ -22,15 +22,11 @@ zip: '91016'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23208%252Fdisplay%252FAMBgroupPic.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102008'
 project_titles:
   - Music School for Blind Children
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/ouramb.html'
-  project_ids:
-    - '5102008'
   year_submitted:
     - '2015'
 year_submitted: '2015'

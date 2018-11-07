@@ -29,16 +29,12 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16625%252Fdisplay%252FCIMG0246.jpg=c570x385
 project_video: ''
-project_ids:
-  - '3102023'
 project_titles:
   - API Equality-LA
   - Eye to Eye LGBTQ Organizing Center
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/apiequalityeyetoeye.html'
-  project_ids:
-    - '3102023'
   year_submitted:
     - '2013'
 year_submitted: '2013'

@@ -18,8 +18,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0402902265741-team89.jpg
 project_video: 'https://www.youtube.com/embed/oaYNAjDLsxk?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102247'
 project_titles:
   - 'Local civic engagement is hard. Let’s make it easier.  '
   - Local civic engagement is hard. Let’s make it easier.
@@ -27,8 +25,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/local-civic-engagement-is-hard-lets-make-it-easier
-  project_ids:
-    - '6102247'
   year_submitted:
     - '2016'
 year_submitted: '2016'

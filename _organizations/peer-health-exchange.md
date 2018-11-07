@@ -22,10 +22,6 @@ zip: '90017'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/peer-health-exchange.jpg
 project_video: ''
-project_ids:
-  - '8102094'
-  - '4102086'
-  - '3102216'
 project_titles:
   - Access to Health Resources for Young People
   - Empowering Teens to Make Healthy Decisions
@@ -35,9 +31,6 @@ aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/peer-health-exchange/'
     - 'http://maker.good.is/myla2050/projects/peerhealthexchange.html'
-  project_ids:
-    - '8102094'
-    - '3102216'
   year_submitted:
     - '2018'
     - '2014'

@@ -20,9 +20,6 @@ ein: '465509683'
 zip: '90405'
 project_image: 'https://img.youtube.com/vi/W6D_g6EB-QY/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102014'
-  - '4102007'
 project_titles:
   - >-
     Let Ambulante connect new audiences to your nonprofit thru public
@@ -34,9 +31,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/movingdocumentaries.html'
     - 'http://maker.good.is/myLA2050connect/projects/BringAmbulante2CA.html'
-  project_ids:
-    - '5102014'
-    - '4102191'
   year_submitted:
     - '2015'
     - '2014'

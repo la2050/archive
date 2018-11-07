@@ -19,8 +19,6 @@ ein: '454105869'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/mutuo.jpg'
 project_video: 'https://www.youtube.com/watch?v=Xr8XGS427jo'
-project_ids:
-  - '8102086'
 project_titles:
   - |-
     A house for Tommy in my backyard! 
@@ -30,7 +28,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/mutuo/'
-  project_ids: []
   year_submitted:
     - '2018'
 year_submitted: '2018'

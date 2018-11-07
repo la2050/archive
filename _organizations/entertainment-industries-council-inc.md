@@ -17,8 +17,6 @@ ein: '54259363'
 zip: '90069'
 project_image: 'https://img.youtube.com/vi/5paOc34oG84/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102093'
 project_titles:
   - >-
     Generation Next: Ready on the SET and Action - Science, Technology,
@@ -29,8 +27,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/EICGenerationNext.html'
-  project_ids:
-    - '5102093'
   year_submitted:
     - '2015'
 year_submitted: '2015'

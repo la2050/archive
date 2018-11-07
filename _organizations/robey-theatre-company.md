@@ -20,15 +20,11 @@ zip: '90013'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23966%252Fdisplay%252FRobey_Brochure_Front1_(1).jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102255'
 project_titles:
   - History Detectives 2.0
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/history-mobile.html'
-  project_ids:
-    - '5102255'
   year_submitted:
     - '2015'
 year_submitted: '2015'

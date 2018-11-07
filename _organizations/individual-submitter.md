@@ -22,15 +22,11 @@ zip: '91601'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23280%252Fdisplay%252FDrought_Solutions_3.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102141'
 project_titles:
   - Effective Drought Solutions
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/bringbackthebeaver.html'
-  project_ids:
-    - '5102141'
   year_submitted:
     - '2015'
 year_submitted: '2015'

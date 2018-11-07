@@ -58,15 +58,11 @@ ein: '951716914'
 zip: ''
 project_image: 'https://img.youtube.com/vi/DXcrNhhe5V0/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102236'
 project_titles:
   - Chinatown Food Hub
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ChinatownFoodHub.html'
-  project_ids:
-    - '3102236'
   year_submitted:
     - '2013'
 year_submitted: '2013'

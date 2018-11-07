@@ -23,16 +23,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1741937194741-team89.jpg
 project_video: ''
-project_ids:
-  - '6102109'
 project_titles:
   - 'Electrify LA:  the Campaign for Clean Buses and Good Jobs'
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/electrify-la-the-campaign-for-clean-buses-and-good-jobs
-  project_ids:
-    - '6102109'
   year_submitted:
     - '2016'
 year_submitted: '2016'

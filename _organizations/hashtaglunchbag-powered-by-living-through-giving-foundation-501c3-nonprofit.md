@@ -25,16 +25,12 @@ zip: '90043'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit.jpg
 project_video: 'https://www.youtube.com/watch?v=3WjUJh2z0WE'
-project_ids:
-  - '8102002'
 project_titles:
   - '#HashtagLunchbag Feeds LA'
 aggregated:
   challenge_url:
     - >-
       https://activation.la2050.org/live/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit/
-  project_ids:
-    - '8102002'
   year_submitted:
     - '2018'
 year_submitted: '2018'

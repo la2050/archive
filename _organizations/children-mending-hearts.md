@@ -48,15 +48,11 @@ ein: '264131176'
 zip: ''
 project_image: 'https://img.youtube.com/vi/d166fbxFWas/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102059'
 project_titles:
   - 'Children Mending Hearts: Kids Helping Kids'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/kidshelpingkids.html'
-  project_ids:
-    - '3102059'
   year_submitted:
     - '2013'
 year_submitted: '2013'

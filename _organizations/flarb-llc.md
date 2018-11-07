@@ -43,15 +43,11 @@ ein: '200142792'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
-project_ids:
-  - '3102046'
 project_titles:
   - evolve.la
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/evolvela.html'
-  project_ids:
-    - '3102046'
   year_submitted:
     - '2013'
 year_submitted: '2013'

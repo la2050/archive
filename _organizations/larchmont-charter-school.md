@@ -21,8 +21,6 @@ zip: '90405'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/larchmont-charter-school.jpg
 project_video: 'https://www.youtube.com/watch?v=GjY2oTPnxak'
-project_ids:
-  - '8102064'
 project_titles:
   - >-
     Larchmont Social Justice Alliance allows youth to speak up for social
@@ -30,8 +28,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/larchmont-charter-school/'
-  project_ids:
-    - '8102064'
   year_submitted:
     - '2018'
 year_submitted: '2018'

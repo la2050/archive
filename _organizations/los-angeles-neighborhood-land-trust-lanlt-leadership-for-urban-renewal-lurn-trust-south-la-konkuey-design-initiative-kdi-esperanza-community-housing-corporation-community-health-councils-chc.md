@@ -24,8 +24,6 @@ ein: '383687836'
 zip: '90037'
 project_image: 'https://img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102192'
 project_titles:
   - 'FREE LOTS ANGELES: Transforming Vacant Lots into Neighborhood Assets'
 aggregated:
@@ -33,10 +31,6 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/FreeLotsAngeles.html'
     - 'http://maker.good.is/myLA2050connect/projects/MacArthurParkConnect.html'
     - 'http://maker.good.is/myla2050/projects/FruitVegetableOasis.html'
-  project_ids:
-    - '5102192'
-    - '4102202'
-    - '3102188'
   year_submitted:
     - '2015'
     - '2014'

@@ -20,16 +20,12 @@ ein: '270889800'
 zip: '90003'
 project_image: 'https://img.youtube.com/vi/aH5tvjvjOYE/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102223'
 project_titles:
   - 'The Community Engagement Initiative '
   - The Community Engagement Initiative
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/OSBconnect.html'
-  project_ids:
-    - '5102223'
   year_submitted:
     - '2015'
 year_submitted: '2015'

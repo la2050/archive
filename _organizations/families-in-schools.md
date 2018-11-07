@@ -18,14 +18,10 @@ ein: '954818894'
 zip: '90017'
 project_image: 'https://img.youtube.com/vi/C1uVBoRtQ74/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102070'
 project_titles:
   - Los Angeles Campaign for Grade Level Reading
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102125'
   year_submitted:
     - '2014'
 year_submitted: '2014'

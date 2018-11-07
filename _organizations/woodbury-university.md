@@ -16,15 +16,11 @@ zip: 91504-1052
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21934%252Fdisplay%252FPatch_2.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102260'
 project_titles:
   - 'The Junior Fellows & The Soft Studio '
   - The Junior Fellows & The Soft Studio
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102187'
   year_submitted:
     - '2014'
 year_submitted: '2014'

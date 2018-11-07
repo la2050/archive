@@ -19,12 +19,10 @@ ein: ''
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
-project_ids: []
 project_titles: []
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/EatWellLiveBetter.html'
-  project_ids: []
   year_submitted:
     - '2015'
 year_submitted: '2015'

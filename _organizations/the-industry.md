@@ -19,15 +19,11 @@ ein: '453307896'
 zip: '90029'
 project_image: 'https://img.youtube.com/vi/0SGeH9Mnt2k/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102215'
 project_titles:
   - 'HOPSCOTCH: A MOBILE OPERA AND POP-UP SPACE'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/HOPSCOTCH.html'
-  project_ids:
-    - '4102091'
   year_submitted:
     - '2014'
 year_submitted: '2014'

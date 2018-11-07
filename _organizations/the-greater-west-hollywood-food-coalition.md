@@ -48,15 +48,11 @@ ein: 951716914 (in the name of Special Service for Groups)
 zip: ''
 project_image: 'https://img.youtube.com/vi/vZOFIeiYKwA/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102248'
 project_titles:
   - volunteers housing the homeless
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/sycamoreandromaine.html'
-  project_ids:
-    - '3102248'
   year_submitted:
     - '2013'
 year_submitted: '2013'

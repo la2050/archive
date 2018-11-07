@@ -33,15 +33,11 @@ ein: '453753219'
 zip: ''
 project_image: 'https://img.youtube.com/vi/cEATGWzLMiM/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102024'
 project_titles:
   - 'DIYFO: DIY For Others. An accessible space for cultivating creative talent'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/diyfo.html'
-  project_ids:
-    - '3102024'
   year_submitted:
     - '2013'
 year_submitted: '2013'

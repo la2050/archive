@@ -17,8 +17,6 @@ ein: '473612459'
 zip: '90272'
 project_image: 'https://img.youtube.com/vi/1Qmy2pX9eEo/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102334'
 project_titles:
   - >-
     From the Mountains to the Sea, growing Civic Art Gardens with schools along
@@ -29,8 +27,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/mountainstosea.html'
-  project_ids:
-    - '5102334'
   year_submitted:
     - '2015'
 year_submitted: '2015'

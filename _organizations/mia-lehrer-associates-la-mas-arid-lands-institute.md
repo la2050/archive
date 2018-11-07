@@ -15,8 +15,6 @@ ein: '270903202'
 zip: '90010'
 project_image: 'https://img.youtube.com/vi/2qWrLJakj5M/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102143'
 project_titles:
   - >-
     L.A.W.N. Los Angeles Water Network: A digital platform to help solve our
@@ -24,9 +22,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/urbanforest.html'
-  project_ids:
-    - '4102156'
-    - '3102072'
   year_submitted:
     - '2014'
     - '2013'

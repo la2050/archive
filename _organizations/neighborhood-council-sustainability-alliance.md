@@ -23,15 +23,11 @@ zip: '90026'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23843%252Fdisplay%252FCool_block_9.png=c570x385
 project_video: ''
-project_ids:
-  - '5102218'
 project_titles:
   - Cool Blocks LA
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/coolblocksla.html'
-  project_ids:
-    - '5102218'
   year_submitted:
     - '2015'
 year_submitted: '2015'

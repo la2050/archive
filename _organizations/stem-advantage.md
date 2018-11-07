@@ -22,16 +22,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3262530655741-team91.jpg
 project_video: 'https://www.youtube.com/embed/z2t5cRSBqQA?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102218'
 project_titles:
   - 'STEM Advantage: Today''s students, tomorrow''s innovators!'
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/stem-advantage-todays-students-tomorrows-innovators!
-  project_ids:
-    - '6102218'
   year_submitted:
     - '2016'
 year_submitted: '2016'

@@ -20,15 +20,11 @@ ein: '954107449'
 zip: '90006'
 project_image: 'https://img.youtube.com/vi/K83J6XaqQlM/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102050'
 project_titles:
   - Dance Leadership Program for Women
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Danceleadership.html'
-  project_ids:
-    - '4102024'
   year_submitted:
     - '2014'
 year_submitted: '2014'

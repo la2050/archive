@@ -23,19 +23,17 @@ ein: '952925985'
 zip: '91711'
 project_image: 'https://img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102099'
-  - '4102051'
 project_titles:
-  - "Fallen Fruit from Rising Women: Empowering women through social enterprise and food justice"
-  - "Fallen Fruit from Rising Women: Empowering Women through Food Justice and Social Entrepreneurship"
+  - >-
+    Fallen Fruit from Rising Women: Empowering women through social enterprise
+    and food justice
+  - >-
+    Fallen Fruit from Rising Women: Empowering Women through Food Justice and
+    Social Entrepreneurship
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/FFFRW.html'
     - 'http://maker.good.is/myLA2050create/projects/FFFRW.html'
-  project_ids:
-    - '5102099'
-    - '4102051'
   year_submitted:
     - '2015'
     - '2014'

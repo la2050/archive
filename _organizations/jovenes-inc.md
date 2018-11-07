@@ -19,9 +19,6 @@ ein: '954342434'
 zip: '90033'
 project_image: 'https://img.youtube.com/vi/6BWp4B7O03I/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102122'
-  - '3102160'
 project_titles:
   - Invisible to Invincible
   - 'The Beacon Network, presented by Jovenes, Inc.'
@@ -29,9 +26,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ehubb.html'
-  project_ids:
-    - '4102142'
-    - '3102160'
   year_submitted:
     - '2014'
     - '2013'

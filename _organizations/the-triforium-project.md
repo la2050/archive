@@ -23,8 +23,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7344404654741-team91.jpg
 project_video: ''
-project_ids:
-  - '6102258'
 project_titles:
   - >-
     Restoring and reimagining the World's First 'Polyphonoptic' sculpture in
@@ -33,8 +31,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/restoring-and-reimagining-the-worlds-first-polyphonoptic-sculpture-in-downtown-los-angeles
-  project_ids:
-    - '6102258'
   year_submitted:
     - '2016'
 year_submitted: '2016'

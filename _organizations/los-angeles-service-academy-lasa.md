@@ -23,9 +23,6 @@ zip: '90019'
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/los-angeles-service-academy-lasa.jpg
 project_video: 'https://youtu.be/uGjAQ4LYDr8'
-project_ids:
-  - '8102077'
-  - '6102145'
 project_titles:
   - Los Angeles is a Puzzle; Together We Make Sense of It
   - Students Engaging Los Angeles
@@ -35,11 +32,6 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/los-angeles-is-a-puzzle-together-we-make-sense-of-it
     - 'http://maker.good.is/myla2050connect2015/projects/LASA.html'
-  project_ids:
-    - '8102077'
-    - '6102145'
-    - '5102195'
-    - '4102256'
   year_submitted:
     - '2018'
     - '2016'

@@ -20,8 +20,6 @@ ein: '330081886'
 zip: '91604'
 project_image: 'https://img.youtube.com/vi/mvOTPkbwJJU/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102277'
 project_titles:
   - >-
     Making California Friendly Plants Mainstream to Drought Proof Southern
@@ -29,8 +27,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/CAfriendly.html'
-  project_ids:
-    - '5102277'
   year_submitted:
     - '2015'
 year_submitted: '2015'

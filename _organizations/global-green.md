@@ -22,9 +22,6 @@ ein: '770387124'
 zip: '90405'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/global-green.jpg'
 project_video: 'https://www.youtube.com/watch?v=xtgKX6NE490'
-project_ids:
-  - '8102046'
-  - '6102083'
 project_titles:
   - Global Green’s Creative Reuse Coalition
   - 'Global Green’s Creative Reuse Coalition '
@@ -34,10 +31,6 @@ aggregated:
     - 'https://activation.la2050.org/live/global-green/'
     - >-
       https://challenge.la2050.org/entry/los-angeles-resilience-hubs-developing-a-model-for-a-resilient-city
-  project_ids:
-    - '8102046'
-    - '6102083'
-    - '4102251'
   year_submitted:
     - '2018'
     - '2016'

@@ -20,15 +20,11 @@ zip: '90782'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22859%252Fdisplay%252Fla_biohackers__LA2050_570_345_copy2.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102124'
 project_titles:
   - An Open Biology Lab for Everyone
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/LAB.html'
-  project_ids:
-    - '4102055'
   year_submitted:
     - '2014'
 year_submitted: '2014'

@@ -19,15 +19,11 @@ ein: '473732729'
 zip: '90039'
 project_image: 'https://img.youtube.com/vi/CTFt7gFp6BY/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102254'
 project_titles:
   - 'Chicken & Egg: A Grocery Co-op along the LA RIver'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/LARiverCoOp.html'
-  project_ids:
-    - '5102101'
   year_submitted:
     - '2015'
 year_submitted: '2015'

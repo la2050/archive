@@ -17,15 +17,11 @@ zip: '90013'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20953%252Fdisplay%252FScreen_Shot_2014-07-30_at_5.51.26_PM.png=c570x385
 project_video: ''
-project_ids:
-  - '4102207'
 project_titles:
   - Women of Color Short Film Fund
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/WOCMakeFilms.html'
-  project_ids:
-    - '4102087'
   year_submitted:
     - '2014'
 year_submitted: '2014'

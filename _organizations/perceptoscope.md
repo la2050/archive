@@ -21,8 +21,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1517216783741-team89.jpeg
 project_video: 'https://www.youtube.com/embed/GCBLHUIW9FI?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102215'
 project_titles:
   - >-
     Explore Los Angeles's past, present, and future in augmented reality through
@@ -31,8 +29,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/explore-los-angeless-past-present-and-future-in-augmented-reality-through-perceptoscope
-  project_ids:
-    - '6102215'
   year_submitted:
     - '2016'
 year_submitted: '2016'

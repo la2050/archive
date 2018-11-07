@@ -19,8 +19,6 @@ ein: '542088575'
 zip: ''
 project_image: 'https://img.youtube.com/vi/BtUB4Ycebms/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102018'
 project_titles:
   - >-
     Poesia Para La Gente & Writ Large Press Present: The Neighborhood
@@ -28,8 +26,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/NEIGHBORHOODLITSCAPE.html'
-  project_ids:
-    - '4102012'
   year_submitted:
     - '2014'
 year_submitted: '2014'

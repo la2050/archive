@@ -23,10 +23,6 @@ zip: '90013'
 project_image: >-
   https://activation.la2050.org/assets/images/play/2048-wide/people-for-parks.jpg
 project_video: 'https://www.youtube.com/watch?v=J2ZWX_tk4BU'
-project_ids:
-  - '8102095'
-  - '6102181'
-  - '5102232'
 project_titles:
   - >-
     COMPAS for Park Equity: co-powering & mobilizing communities to expand
@@ -39,10 +35,6 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/people-for-parks-community-school-parks-go-kid-healthy!
     - 'http://maker.good.is/myla2050play2015/projects/peopleforparks.html'
-  project_ids:
-    - '8102095'
-    - '6102181'
-    - '5102232'
   year_submitted:
     - '2018'
     - '2016'

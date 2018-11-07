@@ -20,17 +20,12 @@ zip: '90290'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21229%252Fdisplay%252Furban_air.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102246'
-  - '3102098'
 project_titles:
   - URBAN AIR
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/URBANAIR.html'
     - 'http://maker.good.is/myla2050/projects/urbanair.html'
-  project_ids:
-    - '3102098'
   year_submitted:
     - '2014'
     - '2013'

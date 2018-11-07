@@ -33,15 +33,11 @@ ein: '460815941'
 zip: ''
 project_image: 'https://img.youtube.com/vi/y5Q3OTnTYC4/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102096'
 project_titles:
   - 'Create LA: Free Art Classes for Kids'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/createla.html'
-  project_ids:
-    - '3102096'
   year_submitted:
     - '2013'
 year_submitted: '2013'

@@ -19,15 +19,11 @@ ein: '453189725'
 zip: ''
 project_image: 'https://img.youtube.com/vi/XFrn3G05ZVc/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102049'
 project_titles:
   - L Creativo - A Latin Indie Music Community
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LCreativo.html'
-  project_ids:
-    - '5102117'
   year_submitted:
     - '2014'
 year_submitted: '2014'

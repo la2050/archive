@@ -19,14 +19,11 @@ ein: '464743109'
 zip: '90401'
 project_image: 'https://img.youtube.com/vi/cljP5pJVVbE/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102339'
 project_titles:
   - Politics in 8 Seconds
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/voter.html'
-  project_ids: []
   year_submitted:
     - '2015'
 year_submitted: '2015'

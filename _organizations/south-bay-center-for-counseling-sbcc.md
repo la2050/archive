@@ -21,16 +21,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5174397094741-team88.jpg
 project_video: 'https://www.youtube.com/embed/VqJoQqVJkWg?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102212'
 project_titles:
   - 'Co/Lab (Co/Llaboration): Resident-Driven, Co-Created, Social Change'
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/co-lab-co-llaboration-resident-driven-co-created-social-change
-  project_ids:
-    - '6102212'
   year_submitted:
     - '2016'
 year_submitted: '2016'

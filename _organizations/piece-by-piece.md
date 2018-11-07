@@ -22,16 +22,12 @@ zip: '90021'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22131%252Fdisplay%252FIn_Studio_Irvine_Mural.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102168'
 project_titles:
   - 'LA Mosaic Mecca Project:  An Urban Mosaic Intervention on Skid Row'
   - 'LA Mosaic Mecca Project: An Urban Mosaic Intervention on Skid Row'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LAMosaicMecca.html'
-  project_ids:
-    - '4102069'
   year_submitted:
     - '2014'
 year_submitted: '2014'

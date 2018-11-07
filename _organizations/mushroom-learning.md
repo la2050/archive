@@ -14,14 +14,10 @@ zip: '90064'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21687%252Fdisplay%252Fla2050-pic-2.png=c570x385
 project_video: ''
-project_ids:
-  - '4102152'
 project_titles:
   - We Teach Kids Code
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102067'
   year_submitted:
     - '2014'
 year_submitted: '2014'

@@ -22,10 +22,6 @@ zip: '90403'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1698840075741-team91.PNG
 project_video: 'https://www.youtube.com/embed/FGTFKKha0-Q?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102238'
-  - '5102298'
-  - '4102209'
 project_titles:
   - >-
     Camp4All takes homeless families to beautiful LA beaches for surfing,
@@ -40,10 +36,6 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/help-us-create-and-inspire-the-future-tech-leaders-of-la!
     - 'http://maker.good.is/myla2050play2015/projects/Camp4All.html'
-  project_ids:
-    - '6102238'
-    - '5102298'
-    - '4102241'
   year_submitted:
     - '2016'
     - '2015'

@@ -61,8 +61,6 @@ ein: '954635737'
 zip: ''
 project_image: 'https://img.youtube.com/vi/XyASgYDVS_Q/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102048'
 project_titles:
   - >-
     Turn Up the Turn Out: Engaging LA’s Voters through Advanced Technology in
@@ -73,8 +71,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/TurnUptheTurnOut.html'
-  project_ids:
-    - '3102048'
   year_submitted:
     - '2013'
 year_submitted: '2013'

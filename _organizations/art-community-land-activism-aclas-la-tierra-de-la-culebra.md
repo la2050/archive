@@ -20,14 +20,10 @@ ein: '954592961'
 zip: '90042'
 project_image: 'https://img.youtube.com/vi/jAOkF8UAOLI/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102094'
 project_titles:
   - Revitalizing La Tierra de la Culebra community art park
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102114'
   year_submitted:
     - '2014'
 year_submitted: '2014'

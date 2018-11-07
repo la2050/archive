@@ -23,8 +23,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1328398065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/flxMXmBJItU?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102277'
 project_titles:
   - >-
     CARPE LA: collaborative augmented reality play experience for families of
@@ -33,8 +31,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/carpe-la-collaborative-augmented-reality-play-experience-for-families-of-los-angeles
-  project_ids:
-    - '6102277'
   year_submitted:
     - '2016'
 year_submitted: '2016'

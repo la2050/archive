@@ -21,15 +21,11 @@ zip: '90027'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20229%252Fdisplay%252FLACGC_Community_Photo.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102126'
 project_titles:
   - Grow Healthy Food in Your Neighborhood!
   - Growing a Healthy Los Angeles
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102147'
   year_submitted:
     - '2014'
 year_submitted: '2014'

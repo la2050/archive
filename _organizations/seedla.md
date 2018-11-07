@@ -21,9 +21,6 @@ ein: '471749354'
 zip: '90065'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/seedla.jpg'
 project_video: 'https://www.youtube.com/watch?v=p0Ag2WK9kaw'
-project_ids:
-  - '8102107'
-  - '6102206'
 project_titles:
   - 'SeedLA: Empowering Environmental Leadership'
   - 'SeedLA: Empowering Environmental Nonprofits'
@@ -32,9 +29,6 @@ aggregated:
     - 'https://activation.la2050.org/live/seedla/'
     - >-
       https://challenge.la2050.org/entry/seedla-empowering-environmental-nonprofits
-  project_ids:
-    - '8102107'
-    - '6102206'
   year_submitted:
     - '2018'
     - '2016'

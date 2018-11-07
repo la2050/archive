@@ -21,9 +21,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2726365725741-team91.jpg
 project_video: ''
-project_ids:
-  - '6102246'
-  - '4102216'
 project_titles:
   - 'Reading Makes A Difference: Inspiring Kids to Read & Care About Others'
   - Reading Makes a Difference
@@ -31,9 +28,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/reading-makes-a-difference-inspiring-kids-to-read-care-about-others
-  project_ids:
-    - '6102246'
-    - '4102242'
   year_submitted:
     - '2016'
     - '2014'

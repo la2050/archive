@@ -21,12 +21,6 @@ zip: '90046'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852179754741-team91.jpg
 project_video: 'https://www.youtube.com/embed/3HIz022aUd4?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102038'
-  - '5102061'
-  - '5102060'
-  - '5102059'
-  - '3102014'
 project_titles:
   - 'Camp Educates Kids Forever '
   - KIPP (Kids Indoor Play Park)
@@ -41,12 +35,6 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/SavingLives.html'
     - 'http://maker.good.is/myla2050play2015/projects/KIPP.html'
     - 'http://maker.good.is/myla2050/projects/RAP.html'
-  project_ids:
-    - '6102038'
-    - '5102059'
-    - '5102059'
-    - '5102059'
-    - '3102014'
   year_submitted:
     - '2016'
     - '2015'

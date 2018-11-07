@@ -23,10 +23,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6804863875741-team90.jpg
 project_video: 'https://www.youtube.com/embed/YhYQSknRMu8?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102140'
-  - '4102131'
-  - '3102185'
 project_titles:
   - 'Food Democracy in LA: Creating Policy Ideas for a Healthy, Fair Food System'
   - >-
@@ -39,10 +35,6 @@ aggregated:
       https://challenge.la2050.org/entry/food-democracy-in-la-creating-policy-ideas-for-a-healthy-fair-food-system
     - 'http://maker.good.is/myLA2050connect/projects/goodfoodla.html'
     - 'http://maker.good.is/myla2050/projects/goodfoodla.html'
-  project_ids:
-    - '6102140'
-    - '4102232'
-    - '3102185'
   year_submitted:
     - '2016'
     - '2014'

@@ -18,17 +18,14 @@ instagram: www.instagram.com/librosschmibros
 facebook: 'https://www.facebook.com/librosschmibros'
 ein: '952540759'
 zip: '90033'
-project_image: 'https://scontent-sjc3-1.cdninstagram.com/vp/1d2c7d675b4aea2433bc2c923e206a8d/5C643A91/t51.2885-15/sh0.08/e35/p640x640/41812836_2153684764898933_4840971122943201181_n.jpg'
+project_image: >-
+  https://scontent-sjc3-1.cdninstagram.com/vp/1d2c7d675b4aea2433bc2c923e206a8d/5C643A91/t51.2885-15/sh0.08/e35/p640x640/41812836_2153684764898933_4840971122943201181_n.jpg
 project_video: ''
-project_ids:
-  - '4102118'
 project_titles:
   - 'Bicycle Libraries: The Class of 2050'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/BicycleLibraries.html'
-  project_ids:
-    - '4102054'
   year_submitted:
     - '2014'
 year_submitted: '2014'

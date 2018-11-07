@@ -22,9 +22,6 @@ ein: '300945310'
 zip: '90071'
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/produceathon.jpg'
 project_video: ''
-project_ids:
-  - '8102097'
-  - '6102190'
 project_titles:
   - >-
     #StoryTeching: Delivering civic innovation via storytelling & technology
@@ -37,9 +34,6 @@ aggregated:
     - 'https://activation.la2050.org/create/produceathon/'
     - >-
       https://challenge.la2050.org/entry/storyteching-delivering-civic-innovation-via-storytelling-technology-based-incentive-challenges
-  project_ids:
-    - '8102097'
-    - '6102190'
   year_submitted:
     - '2018'
     - '2016'

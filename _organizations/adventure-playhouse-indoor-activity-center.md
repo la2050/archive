@@ -22,8 +22,6 @@ ein: '383887199'
 zip: '91340'
 project_image: 'https://img.youtube.com/vi/JrkPrBnN4UI/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102009'
 project_titles:
   - >-
     Have fun, exercise, and spend quality time with the family in a safe and
@@ -34,7 +32,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/adventureplayhouse.html'
-  project_ids: []
   year_submitted:
     - '2015'
 year_submitted: '2015'

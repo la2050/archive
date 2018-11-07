@@ -19,15 +19,11 @@ ein: '954443724'
 zip: '91403'
 project_image: 'https://img.youtube.com/vi/1JDr-eMpJX4/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102181'
 project_titles:
   - This is the Moment!
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/moment.html'
-  project_ids:
-    - '4102077'
   year_submitted:
     - '2014'
 year_submitted: '2014'

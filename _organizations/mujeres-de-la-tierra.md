@@ -21,10 +21,6 @@ zip: '90065'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4156269625741-team90.jpg
 project_video: 'https://www.youtube.com/embed/0NEAOsciAWM?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102157'
-  - '5102214'
-  - '4102151'
 project_titles:
   - >-
     La Paletera de los Angeles - Fruit Bars, Cold Drinks, Healthy Delicious
@@ -40,10 +36,6 @@ aggregated:
       https://challenge.la2050.org/entry/telenovelas-in-the-park-a-new-way-of-learning!
     - 'http://maker.good.is/myla2050live2015/projects/healthypaletas.html'
     - 'http://maker.good.is/myLA2050create/projects/lapaletera.html'
-  project_ids:
-    - '6102157'
-    - '5102214'
-    - '4102235'
   year_submitted:
     - '2016'
     - '2015'

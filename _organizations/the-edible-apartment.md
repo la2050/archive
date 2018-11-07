@@ -22,9 +22,6 @@ zip: '90036'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1280996065741-team88.jpg
 project_video: 'https://www.youtube.com/embed/tdnjWY1fGj0?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102240'
-  - '5102301'
 project_titles:
   - Planting Gardens of Urban Delight!
   - The Edible Apartment
@@ -32,9 +29,6 @@ aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/planting-gardens-of-urban-delight!'
     - 'http://maker.good.is/myla2050live2015/projects/theedibleapartment.html'
-  project_ids:
-    - '6102240'
-    - '5102301'
   year_submitted:
     - '2016'
     - '2015'

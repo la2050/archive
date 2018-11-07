@@ -22,8 +22,6 @@ ein: '954425671'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/future-america.jpg'
 project_video: 'https://youtu.be/bbNl_ikc93g'
-project_ids:
-  - '8102042'
 project_titles:
   - >-
     The Latin Jazz Youth Ensemble of Los Angeles models the Latin Jazz Youth
@@ -31,8 +29,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/learn/future-america/'
-  project_ids:
-    - '8102042'
   year_submitted:
     - '2018'
 year_submitted: '2018'

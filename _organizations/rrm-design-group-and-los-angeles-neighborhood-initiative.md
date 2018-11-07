@@ -18,15 +18,11 @@ zip: '93401'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23558%252Fdisplay%252FIMG_0112.JPG=c570x385
 project_video: ''
-project_ids:
-  - '5102257'
 project_titles:
   - LA Outside The Box
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/LAOutsideTheBox.html'
-  project_ids:
-    - '5102257'
   year_submitted:
     - '2015'
 year_submitted: '2015'

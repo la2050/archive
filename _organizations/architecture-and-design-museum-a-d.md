@@ -21,15 +21,11 @@ zip: '90013'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23861%252Fdisplay%252FAplusD-ReveaLALA.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102019'
 project_titles:
   - ReveaLALA
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/AplusD.html'
-  project_ids:
-    - '5102019'
   year_submitted:
     - '2015'
 year_submitted: '2015'

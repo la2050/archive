@@ -19,15 +19,11 @@ ein: '131624102'
 zip: '90031'
 project_image: 'https://img.youtube.com/vi/KRKqNflY-PU/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102017'
 project_titles:
   - WildLAParks
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/wildlaparks.html'
-  project_ids:
-    - '4102011'
   year_submitted:
     - '2014'
 year_submitted: '2014'

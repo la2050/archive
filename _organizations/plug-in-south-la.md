@@ -21,14 +21,11 @@ ein: '475199699'
 zip: '90066'
 project_image: 'https://img.youtube.com/vi/qooMUYecd1s/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102239'
 project_titles:
   - Plug In South LA
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/PlugInSouthLA.html'
-  project_ids: []
   year_submitted:
     - '2015'
 year_submitted: '2015'

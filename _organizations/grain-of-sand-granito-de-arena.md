@@ -35,15 +35,11 @@ ein: '460667294'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
-project_ids:
-  - '3102141'
 project_titles:
   - Think Before You Trash
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/CleanBeachesandOcean.html'
-  project_ids:
-    - '3102141'
   year_submitted:
     - '2013'
 year_submitted: '2013'

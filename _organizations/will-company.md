@@ -21,8 +21,6 @@ ein: '954215225'
 zip: '91401'
 project_image: 'https://img.youtube.com/vi/GzEz6Q-9lWQ/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102256'
 project_titles:
   - >-
     Arts & Fitness After School, for the Health of Young Minds, Bodies and
@@ -31,8 +29,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/artsandfitness.html'
-  project_ids:
-    - '4102105'
   year_submitted:
     - '2014'
 year_submitted: '2014'

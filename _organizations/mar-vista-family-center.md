@@ -23,15 +23,11 @@ zip: '90057'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/mar-vista-family-center.jpg
 project_video: 'https://youtu.be/4ejRwTEFlUg'
-project_ids:
-  - '8102080'
 project_titles:
   - The Youth New A.G.E Initiative
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/mar-vista-family-center/'
-  project_ids:
-    - '8102080'
   year_submitted:
     - '2018'
 year_submitted: '2018'

@@ -24,16 +24,12 @@ zip: '90013'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23344%252Fdisplay%252FArtWalk_Final_Full_Color_logo.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102083'
 project_titles:
   - downtown art walk votes
 aggregated:
   challenge_url:
     - >-
       http://maker.good.is/myla2050connect2015/projects/downtownartwalkvotes.html
-  project_ids:
-    - '5102084'
   year_submitted:
     - '2015'
 year_submitted: '2015'

@@ -20,9 +20,6 @@ zip: '91601'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23727%252Fdisplay%252FStillVideoImage_(2).jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102102'
-  - '4102071'
 project_titles:
   - >-
     FLY Yoga Arts: Enhancing & Growing LAUSD Arts Education with Movement,
@@ -36,8 +33,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/FLYYogaArts.html'
-  project_ids:
-    - '5102206'
   year_submitted:
     - '2015'
     - '2014'

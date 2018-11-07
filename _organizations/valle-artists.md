@@ -24,15 +24,11 @@ ein: '270126980'
 zip: ''
 project_image: 'https://img.youtube.com/vi/rksqpbf13eo/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102270'
 project_titles:
   - Art Revitalization Movement
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Artistmovement.html'
-  project_ids:
-    - '3102270'
   year_submitted:
     - '2013'
 year_submitted: '2013'

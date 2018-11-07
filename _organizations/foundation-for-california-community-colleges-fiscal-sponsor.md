@@ -18,8 +18,6 @@ ein: '680412350'
 zip: '95811'
 project_image: 'https://img.youtube.com/vi/q2OELc_KuI4/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102074'
 project_titles:
   - >-
     PlanYour Future: Helping 6th-12th grade students plan, prepare and figure
@@ -29,8 +27,6 @@ project_titles:
     how to pay for college
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102127'
   year_submitted:
     - '2014'
 year_submitted: '2014'

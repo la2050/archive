@@ -23,8 +23,6 @@ ein: '263106566'
 zip: '90013'
 project_image: 'https://img.youtube.com/vi/xcozMknxurc/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102005'
 project_titles:
   - 'Connecting Voices, Building Power: Resident Led  Community Planning'
   - 'Connecting Voices Building Power: Resident Led Community Planning'
@@ -32,9 +30,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/ConnectingVoices.html'
     - 'http://maker.good.is/myla2050/projects/lagreenteensummit.html'
-  project_ids:
-    - '4102002'
-    - '3102013'
   year_submitted:
     - '2014'
     - '2013'

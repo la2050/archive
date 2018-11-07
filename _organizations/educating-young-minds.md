@@ -68,16 +68,12 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16514%252Fdisplay%252Feym_apple.JPG=c570x385
 project_video: ''
-project_ids:
-  - '3102118'
 project_titles:
   - EYM's ACCESS / NO EXCUSE
   - EYMs ACCESS / NO EXCUSE
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/access.html'
-  project_ids:
-    - '3102118'
   year_submitted:
     - '2013'
 year_submitted: '2013'

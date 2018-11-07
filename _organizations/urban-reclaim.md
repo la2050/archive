@@ -24,15 +24,11 @@ ein: '272190657'
 zip: ''
 project_image: 'https://img.youtube.com/vi/rDZ9hY7J0xQ/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102267'
 project_titles:
   - Reclaimed Park Strand Project
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/reclaimedpark.html'
-  project_ids:
-    - '3102267'
   year_submitted:
     - '2013'
 year_submitted: '2013'

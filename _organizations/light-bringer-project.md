@@ -19,14 +19,10 @@ zip: '91105'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22179%252Fdisplay%252FIMG_2944.JPG=c570x385
 project_video: ''
-project_ids:
-  - '4102120'
 project_titles:
   - L.A. Futures
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102144'
   year_submitted:
     - '2014'
 year_submitted: '2014'

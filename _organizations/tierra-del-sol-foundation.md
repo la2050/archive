@@ -23,9 +23,6 @@ zip: '91040'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4769182815741-team88.png
 project_video: 'https://www.youtube.com/embed/_REjMUMytYw?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102264'
-  - '5102320'
 project_titles:
   - >-
     Empowering Artists with Disabilities to Fill the Creative Industry
@@ -36,9 +33,6 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/pathways-to-employment-through-professional-volunteerism
     - 'http://maker.good.is/myla2050create2015/projects/tierradelsol.html'
-  project_ids:
-    - '6102264'
-    - '5102320'
   year_submitted:
     - '2016'
     - '2015'

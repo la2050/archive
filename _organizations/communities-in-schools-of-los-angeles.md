@@ -21,9 +21,6 @@ ein: '473675225'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102074'
-  - '3102085'
 project_titles:
   - >-
     Bringing the South LA community together to support the students at Santee
@@ -34,9 +31,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/cisofla.html'
     - 'http://maker.good.is/myla2050/projects/cislosangeles.html'
-  project_ids:
-    - '5102075'
-    - '3102085'
   year_submitted:
     - '2015'
     - '2013'

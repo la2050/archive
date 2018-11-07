@@ -20,15 +20,11 @@ zip: '90065'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21550%252Fdisplay%252FPlaytheLARiver_LA2050_ImageCropped.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102169'
 project_titles:
   - Play the LA River
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/PlaytheLARiver.html'
-  project_ids:
-    - '4102070'
   year_submitted:
     - '2014'
 year_submitted: '2014'

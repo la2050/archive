@@ -44,16 +44,12 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17284%252Fdisplay%252FPoster2_smaller.jpg=c570x385
 project_video: ''
-project_ids:
-  - '3102036'
 project_titles:
   - PARK-IN-A-BOX
   - PARKINABOX
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Park-in-a-Box.html'
-  project_ids:
-    - '3102036'
   year_submitted:
     - '2013'
 year_submitted: '2013'

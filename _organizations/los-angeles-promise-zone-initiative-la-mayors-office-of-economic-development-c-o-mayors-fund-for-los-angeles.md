@@ -21,8 +21,6 @@ ein: '471084641'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/MbjQABq5iTI/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102193'
 project_titles:
   - >-
     Young Ethnographers: fostering youth development through the Promise Zone
@@ -30,8 +28,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/Young_Ethnographers.html'
-  project_ids:
-    - '5102193'
   year_submitted:
     - '2015'
 year_submitted: '2015'

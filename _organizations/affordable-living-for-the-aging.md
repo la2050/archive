@@ -67,15 +67,11 @@ ein: '953301874'
 zip: ''
 project_image: 'https://img.youtube.com/vi/FVOqZ9sWi8k/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102009'
 project_titles:
   - Shared Housing Helps Los Angeles Become a National Model!
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/SharedHousing.html'
-  project_ids:
-    - '3102009'
   year_submitted:
     - '2013'
 year_submitted: '2013'

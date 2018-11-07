@@ -19,9 +19,6 @@ ein: '510665121'
 zip: '90029'
 project_image: 'https://img.youtube.com/vi/xXMkk_S-UnU/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102088'
-  - '3102115'
 project_titles:
   - DUBLAB's Open Studio Initiative
   - SOUND SHARE LA
@@ -30,13 +27,11 @@ project_titles:
   - DUBLABs Open Studio Initiative
 aggregated:
   challenge_url:
-    - https://challenge.la2050.org/entry/dublab-fm-in-los-angeles-connecting-la-residents-through-freeform-radio
+    - >-
+      https://challenge.la2050.org/entry/dublab-fm-in-los-angeles-connecting-la-residents-through-freeform-radio
     - >-
       http://maker.good.is/myla2050connect2015/projects/OPENSTUDIOINITIATIVE.html
     - 'http://maker.good.is/myla2050/projects/SOUNDSHARELA.html'
-  project_ids:
-    - '5102088'
-    - '3102115'
   year_submitted:
     - '2015'
     - '2013'

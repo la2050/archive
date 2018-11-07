@@ -16,14 +16,10 @@ zip: '90071'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22419%252Fdisplay%252FLA2050-Hero.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102255'
 project_titles:
   - 'CUT MY COMMUTE: CHANGING LA''S QUALITY OF LIFE THROUGH LOCAL HIRE'
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102181'
   year_submitted:
     - '2014'
 year_submitted: '2014'

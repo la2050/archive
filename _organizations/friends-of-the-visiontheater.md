@@ -21,15 +21,11 @@ ein: '954439557'
 zip: '90008'
 project_image: 'https://img.youtube.com/vi/_BC4Wfw6Gb4/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102078'
 project_titles:
   - Leimert Park Village Studios
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/LPVStudios.html'
-  project_ids:
-    - '4102039'
   year_submitted:
     - '2014'
 year_submitted: '2014'

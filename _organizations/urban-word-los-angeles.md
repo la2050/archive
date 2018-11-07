@@ -21,15 +21,11 @@ ein: '922748922'
 zip: '90291'
 project_image: 'https://img.youtube.com/vi/WendT0Sm-Tk/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102336'
 project_titles:
   - LA Youth Poet Ambassadors
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/poetryambassador.html'
-  project_ids:
-    - '5102336'
   year_submitted:
     - '2015'
 year_submitted: '2015'

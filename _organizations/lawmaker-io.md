@@ -22,8 +22,6 @@ ein: '472178446'
 zip: '90033'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/lawmaker-io.jpg'
 project_video: 'https://www.youtube.com/watch?v=mH8x6av0XTA'
-project_ids:
-  - '8102067'
 project_titles:
   - >-
     LawMaker.io: A Collaboration Between Angelenos and LA Elected Officials to
@@ -31,8 +29,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/lawmaker-io/'
-  project_ids:
-    - '8102067'
   year_submitted:
     - '2018'
 year_submitted: '2018'

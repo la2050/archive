@@ -19,15 +19,11 @@ ein: '330744619'
 zip: '90640'
 project_image: 'https://img.youtube.com/vi/z7QaUClznXM/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102161'
 project_titles:
   - Welcome to Our Neighborhood
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Welcome.html'
-  project_ids:
-    - '4102066'
   year_submitted:
     - '2014'
 year_submitted: '2014'

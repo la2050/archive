@@ -16,14 +16,10 @@ zip: '90013'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21961%252Fdisplay%252FSCI-Arc-HFH_FINAL.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102175'
 project_titles:
   - SCI-Arc/Habitat LA Housing Project
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102163'
   year_submitted:
     - '2014'
 year_submitted: '2014'

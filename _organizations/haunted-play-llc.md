@@ -21,8 +21,6 @@ ein: '943490342'
 zip: '90230'
 project_image: 'https://img.youtube.com/vi/wGHuWyQEQIU/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102127'
 project_titles:
   - >-
     Interactive Live Theatre where the audience moves through the story and
@@ -30,8 +28,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/DELUSION.html'
-  project_ids:
-    - '4102158'
   year_submitted:
     - '2015'
 year_submitted: '2015'

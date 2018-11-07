@@ -21,16 +21,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5030775394741-team91.jpg
 project_video: 'https://www.youtube.com/embed/LxJHEQHCP5c?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102127'
 project_titles:
   - California Native Plant Public Education Project
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/california-native-plant-public-education-project
-  project_ids:
-    - '6102127'
   year_submitted:
     - '2016'
 year_submitted: '2016'

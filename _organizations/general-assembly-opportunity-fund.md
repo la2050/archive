@@ -18,16 +18,12 @@ ein: '272807367'
 zip: '10010'
 project_image: 'https://img.youtube.com/vi/CMmY955jD5A/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102081'
 project_titles:
   - >-
     Opportunity Fund: Transformative Education & Opportunities in Technology for
     Underrepresented Groups
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102064'
   year_submitted:
     - '2014'
 year_submitted: '2014'

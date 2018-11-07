@@ -21,15 +21,11 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3954291065741-team90.jpg
 project_video: ''
-project_ids:
-  - '6102057'
 project_titles:
   - The Precise Barber College
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/the-precise-barber-college'
-  project_ids:
-    - '6102057'
   year_submitted:
     - '2016'
 year_submitted: '2016'

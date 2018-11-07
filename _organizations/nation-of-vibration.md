@@ -18,8 +18,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4762549545741-team90.jpg
 project_video: 'https://www.youtube.com/embed/jzZRGNGG5LA?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102209'
 project_titles:
   - >-
     Nation of Vibration’s L.A.vation Project: Bringing Healing, and Connection
@@ -28,8 +26,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/nation-of-vibrations-l-a-vation-project-bringing-healing-and-connection-to-communities-across-l-a
-  project_ids:
-    - '6102209'
   year_submitted:
     - '2016'
 year_submitted: '2016'

@@ -18,8 +18,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4934410265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/-7-HrBCZPFo?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102161'
 project_titles:
   - >-
     Give Today LA: An online community center connecting causes, commerce and
@@ -28,8 +26,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/give-today-la-an-online-community-center-connecting-causes-commerce-and-community-to-do-good!
-  project_ids:
-    - '6102161'
   year_submitted:
     - '2016'
 year_submitted: '2016'

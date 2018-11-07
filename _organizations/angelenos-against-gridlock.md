@@ -94,15 +94,11 @@ ein: '943179772'
 zip: ''
 project_image: 'https://img.youtube.com/vi/tnpBsy1mGwQ/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102021'
 project_titles:
   - 'LA v2.0: Transforming LA into a World Class Place to Live'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/fundthisproject.html'
-  project_ids:
-    - '3102021'
   year_submitted:
     - '2013'
 year_submitted: '2013'

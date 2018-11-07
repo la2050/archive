@@ -21,15 +21,11 @@ zip: '92504'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22335%252Fdisplay%252Fvolunteer-photo.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102089'
 project_titles:
   - 'Seeds the Game: Community Jams'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/seeds.html'
-  project_ids:
-    - '5102147'
   year_submitted:
     - '2014'
 year_submitted: '2014'

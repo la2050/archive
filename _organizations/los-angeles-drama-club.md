@@ -18,8 +18,6 @@ ein: '273546756'
 zip: '90019'
 project_image: 'https://img.youtube.com/vi/79DqmMTV8-Y/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102130'
 project_titles:
   - >-
     Los Angeles Drama Club: A Creative Home for Young Shakespearians to learn,
@@ -29,8 +27,6 @@ project_titles:
     create and grow
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102151'
   year_submitted:
     - '2014'
 year_submitted: '2014'

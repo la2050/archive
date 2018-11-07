@@ -86,15 +86,11 @@ ein: '912154834'
 zip: ''
 project_image: 'https://img.youtube.com/vi/gHdNsESWQgM/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102139'
 project_titles:
   - GLOBALGIRL MEDIA HIVE NETWORK
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/globalgirlmedia.html'
-  project_ids:
-    - '3102139'
   year_submitted:
     - '2013'
 year_submitted: '2013'

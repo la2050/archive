@@ -21,14 +21,11 @@ zip: '90015'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/we-are-the-mighty.jpg
 project_video: ''
-project_ids:
-  - '8102137'
 project_titles:
   - Los Angeles Veterans Orientation (LAVO)
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/we-are-the-mighty/'
-  project_ids: []
   year_submitted:
     - '2018'
 year_submitted: '2018'

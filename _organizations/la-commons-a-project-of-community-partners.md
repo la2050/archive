@@ -21,8 +21,6 @@ zip: '90015'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/la-commons-a-project-of-community-partners.jpg
 project_video: 'https://www.youtube.com/watch?v=mNrTZHODsQI'
-project_ids:
-  - '8102060'
 project_titles:
   - 'A Recipe for a Great City: Home Cooking'
 aggregated:
@@ -30,9 +28,6 @@ aggregated:
     - >-
       https://activation.la2050.org/connect/la-commons-a-project-of-community-partners/
     - 'http://maker.good.is/myla2050/projects/FoundLA.html'
-  project_ids:
-    - '8102060'
-    - '3102171'
   year_submitted:
     - '2018'
     - '2013'

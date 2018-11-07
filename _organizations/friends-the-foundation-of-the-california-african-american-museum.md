@@ -48,15 +48,11 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17083%252Fdisplay%252FWishing_Upon_A_Star.jpg=c570x385
 project_video: ''
-project_ids:
-  - '3102133'
 project_titles:
   - Digging Deeper/ Making Connections/ Doing Better
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/MakingitHappen.html'
-  project_ids:
-    - '3102133'
   year_submitted:
     - '2013'
 year_submitted: '2013'

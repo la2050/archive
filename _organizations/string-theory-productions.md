@@ -63,15 +63,11 @@ ein: '710929869'
 zip: ''
 project_image: 'https://img.youtube.com/vi/pUrKNHKdDLA/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102099'
 project_titles:
   - The Los Angeles Giant Harp Project
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/giantharpproject.html'
-  project_ids:
-    - '3102099'
   year_submitted:
     - '2013'
 year_submitted: '2013'

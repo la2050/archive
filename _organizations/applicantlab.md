@@ -20,14 +20,11 @@ ein: '473354380'
 zip: '90094'
 project_image: 'https://img.youtube.com/vi/IRXVbzVLXls/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102018'
 project_titles:
   - Conquering the College Essay
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CollegeEssay.html'
-  project_ids: []
   year_submitted:
     - '2015'
 year_submitted: '2015'

@@ -20,14 +20,11 @@ ein: '824997963'
 zip: '90036'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/notow.jpg'
 project_video: 'https://youtu.be/Vz9f3nvm5-Y'
-project_ids:
-  - '8102091'
 project_titles:
   - Mobile application to make parking easier
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/notow/'
-  project_ids: []
   year_submitted:
     - '2018'
 year_submitted: '2018'

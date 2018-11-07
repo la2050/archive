@@ -45,16 +45,12 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16974%252Fdisplay%252FLa_Loma_Development_Single_Picture.jpg=c570x385
 project_video: ''
-project_ids:
-  - '3102068'
 project_titles:
   - 'La Loma Center: Green Education, Environmental Resources, and Job Training '
   - 'La Loma Center: Green Education Environmental Resources and Job Training '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LALOMA.html'
-  project_ids:
-    - '3102068'
   year_submitted:
     - '2013'
 year_submitted: '2013'

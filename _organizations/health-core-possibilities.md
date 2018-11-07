@@ -23,15 +23,11 @@ zip: '94113'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/health-core-possibilities.jpg
 project_video: 'https://www.youtube.com/watch?v=2x_ao5Cxho8'
-project_ids:
-  - '8102052'
 project_titles:
   - STOP WREX! DRIVE WITHOUT TEXT/ALTO WREX! MANEJA SIN EL TEXT /
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/health-core-possibilities/'
-  project_ids:
-    - '8102091'
   year_submitted:
     - '2018'
 year_submitted: '2018'

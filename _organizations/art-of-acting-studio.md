@@ -23,15 +23,11 @@ zip: '90038'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23700%252Fdisplay%252F12113284_1058676700830263_4818412174925935968_o.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102022'
 project_titles:
   - Art of Acting Studio 1 Week Theatre Intensives for Incarcerated Citizens
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/SAArtOfActingLA.html'
-  project_ids:
-    - '5102022'
   year_submitted:
     - '2015'
 year_submitted: '2015'

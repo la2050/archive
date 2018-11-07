@@ -21,8 +21,6 @@ ein: '954473701'
 zip: '90027'
 project_image: 'https://img.youtube.com/vi/q9wQFn0hPbk/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102019'
 project_titles:
   - >-
     BRIDGE-ing Cultures and Cultivating Change in LA through Original Youth &
@@ -30,8 +28,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/bridgetheatre.html'
-  project_ids:
-    - '4102013'
   year_submitted:
     - '2014'
 year_submitted: '2014'

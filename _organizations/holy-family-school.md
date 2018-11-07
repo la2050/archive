@@ -22,16 +22,12 @@ zip: '91030'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23605%252Fdisplay%252FFullSizeRender-2.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102136'
 project_titles:
   - 'Learning Through Service at Holy Family School '
   - Learning Through Service at Holy Family School
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/servicelearningHFS.html'
-  project_ids:
-    - '5102136'
   year_submitted:
     - '2015'
 year_submitted: '2015'

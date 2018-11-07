@@ -23,8 +23,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7260306494741-team91.JPG
 project_video: 'https://www.youtube.com/embed/3NWi_lmKGzs?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102132'
 project_titles:
   - >-
     LLCF Adventure Playground: Embracing play, discovering passions, and
@@ -33,8 +31,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/llcf-adventure-playground-embracing-play-discovering-passions-and-creating-community!
-  project_ids:
-    - '6102132'
   year_submitted:
     - '2016'
 year_submitted: '2016'

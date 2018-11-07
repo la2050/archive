@@ -22,8 +22,6 @@ ein: '474586012'
 zip: '91364'
 project_image: 'https://img.youtube.com/vi/UYdxlEZVaNA/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102065'
 project_titles:
   - >-
     Graduate thousands of L.A. High School Students with an Awesome Teacher & an
@@ -34,8 +32,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/classnube.html'
-  project_ids:
-    - '4102099'
   year_submitted:
     - '2015'
 year_submitted: '2015'

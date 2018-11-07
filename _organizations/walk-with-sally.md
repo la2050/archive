@@ -22,8 +22,6 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/walk-with-sally.jpg
 project_video: 'https://www.youtube.com/watch?v=pnfEE7Dx14g'
-project_ids:
-  - '8102135'
 project_titles:
   - >-
     Walk With Sally - Bringing the cancer community together to heal the next
@@ -31,8 +29,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/walk-with-sally/'
-  project_ids:
-    - '8102135'
   year_submitted:
     - '2018'
 year_submitted: '2018'

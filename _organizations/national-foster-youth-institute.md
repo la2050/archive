@@ -21,16 +21,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6395409023741-team88.jpg
 project_video: ''
-project_ids:
-  - '6102163'
 project_titles:
   - 'Foster Youth and Families: Joining Voices for Change'
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/foster-youth-and-families-joining-voices-for-change
-  project_ids:
-    - '6102163'
   year_submitted:
     - '2016'
 year_submitted: '2016'

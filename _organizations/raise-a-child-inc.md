@@ -23,9 +23,6 @@ zip: '90013'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/raise-a-child-inc.jpg
 project_video: 'https://vimeo.com/261964830'
-project_ids:
-  - '8102100'
-  - '4102180'
 project_titles:
   - >-
     Connect to RaiseAChild: Engaging Angelenos to improve outcomes for foster
@@ -37,9 +34,6 @@ aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/raise-a-child-inc/'
     - 'http://maker.good.is/myLA2050connect/projects/RaiseAChild.html'
-  project_ids:
-    - '8102100'
-    - '4102263'
   year_submitted:
     - '2018'
     - '2014'

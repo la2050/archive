@@ -42,15 +42,11 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17028%252Fdisplay%252Flogo_new.jpg=c570x385
 project_video: ''
-project_ids:
-  - '3102015'
 project_titles:
   - 'Parent and Child Training Program '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FamilySchoolInteract.html'
-  project_ids:
-    - '3102015'
   year_submitted:
     - '2013'
 year_submitted: '2013'

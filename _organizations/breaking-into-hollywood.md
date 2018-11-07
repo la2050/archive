@@ -21,8 +21,6 @@ ein: '611500533'
 zip: '90212'
 project_image: 'https://img.youtube.com/vi/GLojtCpWaz4/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102035'
 project_titles:
   - >-
     STARS (Super Talented Artists' Resource Studio) Fosters Artistic
@@ -33,8 +31,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/STARS.html'
-  project_ids:
-    - '5102035'
   year_submitted:
     - '2015'
 year_submitted: '2015'

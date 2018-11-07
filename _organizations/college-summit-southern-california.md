@@ -18,8 +18,6 @@ ein: '522007028'
 zip: '90245'
 project_image: 'https://img.youtube.com/vi/XNxfMssLYzc/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102042'
 project_titles:
   - >-
     College Summit: Equipping 4,800 Low-Income Student For Success in College
@@ -29,8 +27,6 @@ project_titles:
     Career
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102122'
   year_submitted:
     - '2014'
 year_submitted: '2014'

@@ -45,8 +45,6 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16505%252Fdisplay%252FLogo.jpg=c570x385
 project_video: ''
-project_ids:
-  - '3102138'
 project_titles:
   - >-
     Climate Leaders - reducing environmental impact by sharing best practices
@@ -57,8 +55,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/climateleaders.html'
-  project_ids:
-    - '3102138'
   year_submitted:
     - '2013'
 year_submitted: '2013'

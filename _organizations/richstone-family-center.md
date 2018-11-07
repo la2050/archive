@@ -23,9 +23,6 @@ zip: '90250'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7962246194741-team91.JPG
 project_video: 'https://www.youtube.com/embed/4V4Ke8wtZgg?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102198'
-  - '5102253'
 project_titles:
   - Integrated Healing & Wellness Center
   - Richstone Healing & Wellness Center
@@ -33,9 +30,6 @@ aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/integrated-healing-wellness-center'
     - 'http://maker.good.is/myla2050live2015/projects/richstone.html'
-  project_ids:
-    - '6102198'
-    - '5102253'
   year_submitted:
     - '2016'
     - '2015'

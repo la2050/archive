@@ -21,11 +21,6 @@ zip: '90005'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/data-roads-foundation.jpg
 project_video: 'https://www.youtube.com/user/DataRoadsFoundation'
-project_ids:
-  - '8102034'
-  - '6102059'
-  - '5102080'
-  - '4102052'
 project_titles:
   - 100% of LA online faster!
   - Community at Home Box
@@ -38,11 +33,6 @@ aggregated:
       https://challenge.la2050.org/entry/la-on-the-l-a-m-m-learning-angels-mega-mesh
     - 'http://maker.good.is/myla2050connect2015/projects/Community-Box.html'
     - 'http://maker.good.is/myLA2050connect/projects/All_LA_online_faster.html'
-  project_ids:
-    - '8102034'
-    - '6102059'
-    - '4102062'
-    - '4102250'
   year_submitted:
     - '2018'
     - '2016'

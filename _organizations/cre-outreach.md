@@ -35,16 +35,12 @@ ein: '261127320'
 zip: ''
 project_image: 'https://img.youtube.com/vi/pp9oh64x-9Y/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102095'
 project_titles:
   - 'Transforming Lives, One Show at a Time'
   - Transforming Lives One Show at a Time
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/creoutreach.html'
-  project_ids:
-    - '3102095'
   year_submitted:
     - '2013'
 year_submitted: '2013'

@@ -22,8 +22,6 @@ ein: '951656369'
 zip: ''
 project_image: 'https://img.youtube.com/vi/z__BDhvkp9Q/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102030'
 project_titles:
   - >-
     Blind Children's Center to strengthen new Social Skills Program with
@@ -34,8 +32,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/bcc.html'
-  project_ids:
-    - '5102030'
   year_submitted:
     - '2015'
 year_submitted: '2015'

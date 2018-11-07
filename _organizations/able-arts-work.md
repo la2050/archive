@@ -23,16 +23,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0178457155741-team91.jpg
 project_video: 'https://www.youtube.com/embed/yjPtx6xf7jI?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102004'
 project_titles:
   - 'Artbeat Radio '
   - Artbeat Radio
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/artbeat-radio'
-  project_ids:
-    - '6102004'
   year_submitted:
     - '2016'
 year_submitted: '2016'

@@ -22,9 +22,6 @@ ein: '461134852'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/la-compost.jpg'
 project_video: 'https://youtu.be/QeunrIbUzt0'
-project_ids:
-  - '8102061'
-  - '6102119'
 project_titles:
   - >-
     Building Community and reducing organic waste via Community Compost Hubs
@@ -36,10 +33,6 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/building-community-and-reducing-organic-waste-via-community-compost-hubs-throughout-la-county
     - 'http://maker.good.is/myla2050live2015/projects/Composthubs.html'
-  project_ids:
-    - '8102061'
-    - '6102119'
-    - '5102164'
   year_submitted:
     - '2018'
     - '2016'

@@ -22,16 +22,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2875239905741-team91.jpg
 project_video: 'https://www.youtube.com/embed/PV_FxBFP2hA?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102195'
 project_titles:
   - 'AMP! Virtual: Sexual Health Education for a Digital Generation'
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/amp!-virtual-sexual-health-education-for-a-digital-generation
-  project_ids:
-    - '6102195'
   year_submitted:
     - '2016'
 year_submitted: '2016'

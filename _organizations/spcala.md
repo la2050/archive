@@ -21,9 +21,6 @@ zip: '90016'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23662%252Fdisplay%252FCarrie_15-00963.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102279'
-  - '4102197'
 project_titles:
   - 'End Violence, Create Generation Empathy®'
   - >-
@@ -40,9 +37,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ASN.html'
     - 'http://maker.good.is/myLA2050play/projects/generationempathy.html'
-  project_ids:
-    - '5102279'
-    - '4102214'
   year_submitted:
     - '2015'
     - '2014'

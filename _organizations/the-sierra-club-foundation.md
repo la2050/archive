@@ -21,18 +21,13 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6783094165741-team89.jpg
 project_video: 'https://www.youtube.com/embed/ZqcKcMqk1lM?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102257'
 project_titles:
   - The Future is Bright! A Clean Energy Future for LA
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-future-is-bright-a-clean-energy-future-for-la
-    - http://maker.good.is/myLA2050live/projects/solarforsunnyla.html
-  project_ids:
-    - '6102257'
-    - '4102243'
+    - 'http://maker.good.is/myLA2050live/projects/solarforsunnyla.html'
   year_submitted:
     - '2016'
     - '2014'

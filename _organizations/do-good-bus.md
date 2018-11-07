@@ -19,9 +19,6 @@ ein: '300694127'
 zip: ''
 project_image: 'https://img.youtube.com/vi/T17vBV41x0g/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102055'
-  - '3102025'
 project_titles:
   - Do Good Bus
   - 'Do Good Bus | Free Rides '
@@ -29,8 +26,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/dogoodbus.html'
     - 'http://maker.good.is/myla2050/projects/dogoodbus.html'
-  project_ids:
-    - '3102025'
   year_submitted:
     - '2014'
     - '2013'

@@ -24,16 +24,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4597804105741-team91.jpg
 project_video: ''
-project_ids:
-  - '6102274'
 project_titles:
   - STEM Center for Innovation and Excellence (SCIE)
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/stem-center-for-innovation-and-excellence-scie
-  project_ids:
-    - '6102274'
   year_submitted:
     - '2016'
 year_submitted: '2016'

@@ -79,8 +79,6 @@ ein: '954845170'
 zip: ''
 project_image: 'https://img.youtube.com/vi/hHXkL2SbXI8/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102190'
 project_titles:
   - >-
     “Hey, I’m Walking Here!”: A Campaign Celebrating Pedestrians in the City of
@@ -94,8 +92,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LAwalks.html'
-  project_ids:
-    - '3102190'
   year_submitted:
     - '2013'
 year_submitted: '2013'

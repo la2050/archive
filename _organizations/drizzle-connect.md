@@ -21,8 +21,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4367473165741-team90.png
 project_video: ''
-project_ids:
-  - '6102124'
 project_titles:
   - >-
     Bringing free high-speed internet and mobile phone service to low-income
@@ -31,8 +29,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/bringing-free-high-speed-internet-and-mobile-phone-service-to-low-income-families-in-los-angeles
-  project_ids:
-    - '6102124'
   year_submitted:
     - '2016'
 year_submitted: '2016'

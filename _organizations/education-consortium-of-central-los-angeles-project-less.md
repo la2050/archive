@@ -79,15 +79,11 @@ ein: '954230350'
 zip: ''
 project_image: 'https://img.youtube.com/vi/6pkTdEgSCvo/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102119'
 project_titles:
   - Learning Equipment Supply Service
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/morelearning.html'
-  project_ids:
-    - '3102119'
   year_submitted:
     - '2013'
 year_submitted: '2013'

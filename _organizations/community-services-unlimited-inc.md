@@ -21,15 +21,11 @@ ein: '953218396'
 zip: '90089'
 project_image: 'https://img.youtube.com/vi/CQsypZUTmbo/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102045'
 project_titles:
   - Earth Day Every Day
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050create/projects/Earthdayeveryday.html'
-  project_ids:
-    - '4102019'
   year_submitted:
     - '2014'
 year_submitted: '2014'

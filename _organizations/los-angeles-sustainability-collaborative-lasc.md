@@ -21,14 +21,10 @@ zip: '91302'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22723%252Fdisplay%252F5971_LASC_Poster_07_(1).jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102240'
 project_titles:
   - Securing a Sustainable and Empowered Los Angeles
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102152'
   year_submitted:
     - '2014'
 year_submitted: '2014'

@@ -21,9 +21,6 @@ zip: '90013'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/get-lit-words-ignite.jpg
 project_video: 'https://youtu.be/ioZuMb9vLz8'
-project_ids:
-  - '8102044'
-  - '6102080'
 project_titles:
   - >-
     Get Lit Players go on a 'Lit for Literacy' Tour in Los Angeles' first Poetry
@@ -36,9 +33,6 @@ aggregated:
     - 'https://activation.la2050.org/create/get-lit-words-ignite/'
     - >-
       https://challenge.la2050.org/entry/get-lit-players-go-on-a-lit-for-literacy-tour-in-los-angeles-first-poetry-bus!
-  project_ids:
-    - '8102044'
-    - '6102080'
   year_submitted:
     - '2018'
     - '2016'

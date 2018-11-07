@@ -23,8 +23,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4297890165741-team90.jpg
 project_video: 'https://www.youtube.com/embed/5fPP7vcVjlM?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102090'
 project_titles:
   - >-
     Conservation Pathways: Environmental Education and Careers for Tomorrow's
@@ -33,8 +31,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/conservation-pathways-environmental-education-and-careers-for-tomorrows-leaders
-  project_ids:
-    - '6102090'
   year_submitted:
     - '2016'
 year_submitted: '2016'

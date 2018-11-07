@@ -21,8 +21,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5148126005741-team91.png
 project_video: 'https://player.vimeo.com/video/123870044?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102150'
 project_titles:
   - >-
     Lynne Cohen Preventive Care Clinic at USC/Norris Cancer Center for Women at
@@ -31,8 +29,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/lynne-cohen-preventive-care-clinic-at-usc-norris-cancer-center-for-women-at-risk-for-cancer
-  project_ids:
-    - '6102150'
   year_submitted:
     - '2016'
 year_submitted: '2016'

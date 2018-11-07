@@ -23,16 +23,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2052596015741-team91.jpg
 project_video: 'https://www.youtube.com/embed/2n0ZbTcuqlo?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102103'
 project_titles:
   - Providing Access to the Arts and the Endless Possibilities They Offer
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/providing-access-to-the-arts-and-the-endless-possibilities-they-offer
-  project_ids:
-    - '6102103'
   year_submitted:
     - '2016'
 year_submitted: '2016'

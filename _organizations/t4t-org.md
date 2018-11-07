@@ -21,13 +21,6 @@ zip: '90249'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1655980265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/p6jmc2uJAb0?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102227'
-  - '6102226'
-  - '6102225'
-  - '5102289'
-  - '5102288'
-  - '5102287'
 project_titles:
   - Are the Robbin Hoods of Rubbish arriving in your neighborhood park?
   - LA Landfill Harmonic Orchestra
@@ -48,13 +41,6 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/LALandfillHarmonic.html'
     - 'http://maker.good.is/myla2050learn2015/projects/ReImaginedResources.html'
     - 'http://maker.good.is/myLA2050play/projects/reimaginedresources.html'
-  project_ids:
-    - '6102227'
-    - '6102226'
-    - '6102225'
-    - '5102287'
-    - '5102287'
-    - '5102287'
   year_submitted:
     - '2016'
     - '2016'

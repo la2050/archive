@@ -22,15 +22,11 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4915432065741-team91.jpg
 project_video: 'https://youtu.be/HSe2pclx0MU?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102248'
 project_titles:
   - SK8 4 Education
 aggregated:
   challenge_url:
     - 'https://challenge.la2050.org/entry/sk8-4-education'
-  project_ids:
-    - '6102248'
   year_submitted:
     - '2016'
 year_submitted: '2016'

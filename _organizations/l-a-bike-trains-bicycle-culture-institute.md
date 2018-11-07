@@ -19,15 +19,11 @@ ein: '273421838'
 zip: '90038'
 project_image: 'https://img.youtube.com/vi/l2oE7AX8gtw/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102107'
 project_titles:
   - L.A. Bike Trains
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/LABikeTrains.html'
-  project_ids:
-    - '4102047'
   year_submitted:
     - '2014'
 year_submitted: '2014'

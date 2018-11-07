@@ -21,16 +21,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3933038065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/1lv9lN3FZUw?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102250'
 project_titles:
   - Help Create Schoolyard Habitats for People and Wildlife in LA!
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/help-create-schoolyard-habitats-for-people-and-wildlife-in-la!
-  project_ids:
-    - '6102250'
   year_submitted:
     - '2016'
 year_submitted: '2016'

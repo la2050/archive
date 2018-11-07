@@ -19,15 +19,11 @@ ein: '464108322'
 zip: '91406'
 project_image: 'https://img.youtube.com/vi/NHaLkpe_jms/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102060'
 project_titles:
   - MY CITY
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/MYCITY.html'
-  project_ids:
-    - '8102052'
   year_submitted:
     - '2014'
 year_submitted: '2014'

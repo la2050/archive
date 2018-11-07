@@ -16,15 +16,12 @@ zip: '90089'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20755%252Fdisplay%252FThe_Prep_Source_Resume_Workshop.png=c570x385
 project_video: ''
-project_ids:
-  - '4102227'
 project_titles:
   - >-
     Creating an equal opportunity to succeed by mentorship from someone that has
     the career you want
 aggregated:
   challenge_url: []
-  project_ids: []
   year_submitted:
     - '2014'
 year_submitted: '2014'

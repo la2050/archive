@@ -31,8 +31,6 @@ zip: '90017'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/geffen-academy-at-ucla.jpg
 project_video: 'https://youtu.be/m9NRl8lAdZY'
-project_ids:
-  - '8102043'
 project_titles:
   - >-
     RideLA. Rewarding Impact and Driving Engagement on LA’s Metro via a
@@ -40,8 +38,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/geffen-academy-at-ucla/'
-  project_ids:
-    - '8102043'
   year_submitted:
     - '2018'
 year_submitted: '2018'

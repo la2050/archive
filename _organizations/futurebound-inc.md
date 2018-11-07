@@ -19,13 +19,10 @@ zip: '90505'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21609%252Fdisplay%252FFutureBoundKids_w_Logo.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102080'
 project_titles:
   - Transforming College Access for Los Angeles’ Youth Through Gaming
 aggregated:
   challenge_url: []
-  project_ids: []
   year_submitted:
     - '2014'
 year_submitted: '2014'

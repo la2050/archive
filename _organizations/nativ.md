@@ -40,15 +40,11 @@ ein: '102649365'
 zip: ''
 project_image: 'https://img.youtube.com/vi/Dq2cY1SKlFQ/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102080'
 project_titles:
   - 'NativLA: Discover the city you thought you knew '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Nativ.html'
-  project_ids:
-    - '3102080'
   year_submitted:
     - '2013'
 year_submitted: '2013'

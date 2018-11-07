@@ -21,16 +21,12 @@ ein: '462395125'
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/eayikes.jpg'
 project_video: 'https://youtu.be/PtA8wOP6XuM'
-project_ids:
-  - '8102036'
 project_titles:
   - 'Back to Basics: Transforming How Angelenos Connect'
   - Youth Building and Empowerment!
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/connect/eayikes/'
-  project_ids:
-    - '8102036'
   year_submitted:
     - '2018'
 year_submitted: '2018'

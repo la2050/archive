@@ -43,15 +43,11 @@ ein: '956000735'
 zip: ''
 project_image: 'https://img.youtube.com/vi/ZobE5kX4dTc/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102067'
 project_titles:
   - LA Creates! Media Arts Learning Initiative
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LACreates.html'
-  project_ids:
-    - '3102067'
   year_submitted:
     - '2013'
 year_submitted: '2013'

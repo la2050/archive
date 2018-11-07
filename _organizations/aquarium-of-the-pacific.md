@@ -19,14 +19,10 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22849%252Fdisplay%252FAquariumPacific.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102221'
 project_titles:
   - Seafood for the Future
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102112'
   year_submitted:
     - '2014'
 year_submitted: '2014'

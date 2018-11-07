@@ -28,15 +28,11 @@ ein: '953038398'
 zip: ''
 project_image: 'https://img.youtube.com/vi/nPa4Lu7CMPA/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102027'
 project_titles:
   - 'The A LOT Initiative: Using Art to Activate Vacant City Lots'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ALOT.html'
-  project_ids:
-    - '3102027'
   year_submitted:
     - '2013'
 year_submitted: '2013'

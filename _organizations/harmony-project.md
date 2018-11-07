@@ -38,15 +38,11 @@ ein: '954856236'
 zip: ''
 project_image: 'https://img.youtube.com/vi/zVwm_GRMSHw/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102145'
 project_titles:
   - 'Harmony Project '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/HARMONYPROJECT.html'
-  project_ids:
-    - '3102145'
   year_submitted:
     - '2013'
 year_submitted: '2013'

@@ -23,10 +23,6 @@ zip: '20005'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8636309165741-team90.JPG
 project_video: 'https://www.youtube.com/embed/t9dVCR59w60?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102182'
-  - '5102233'
-  - '3102217'
 project_titles:
   - Front Line Leaders Academy - Los Angeles Pilot Program
   - Front Line Leaders Academy – Los Angeles
@@ -38,10 +34,6 @@ aggregated:
       https://challenge.la2050.org/entry/front-line-leaders-academy-–-los-angeles
     - 'http://maker.good.is/myla2050connect2015/projects/FLLALA.html'
     - 'http://maker.good.is/myla2050/projects/frontlineleaders.html'
-  project_ids:
-    - '6102182'
-    - '5102233'
-    - '3102217'
   year_submitted:
     - '2016'
     - '2015'

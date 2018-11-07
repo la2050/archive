@@ -40,8 +40,6 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17143%252Fdisplay%252Fslanguage_facade_edit.jpg=c570x385
 project_video: ''
-project_ids:
-  - '3102177'
 project_titles:
   - >-
     LA><ART’s public art initiatives take contemporary art to the streets
@@ -49,8 +47,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LAXART.html'
-  project_ids:
-    - '3102177'
   year_submitted:
     - '2013'
 year_submitted: '2013'

@@ -19,16 +19,12 @@ ein: '55777888'
 zip: '90034'
 project_image: 'https://img.youtube.com/vi/s-SSOCwgWEs/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102268'
 project_titles:
   - 'Paint to Succeed '
   - Paint to Succeed
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/painttosucceed.html'
-  project_ids:
-    - '5102268'
   year_submitted:
     - '2015'
 year_submitted: '2015'

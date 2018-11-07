@@ -23,9 +23,6 @@ zip: '90403'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8786812913741-team90.jpg
 project_video: ''
-project_ids:
-  - '6102242'
-  - '5102292'
 project_titles:
   - Connecting LA Tech Companies with Area STEM Organizations
   - Tech LA Cares (TLC)
@@ -34,9 +31,6 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/connecting-la-tech-companies-with-area-stem-organizations
     - 'http://maker.good.is/myla2050connect2015/projects/techlacares.html'
-  project_ids:
-    - '6102242'
-    - '8102119'
   year_submitted:
     - '2016'
     - '2015'

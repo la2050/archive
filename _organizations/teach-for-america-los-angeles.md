@@ -21,10 +21,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6235226615741-team90.jpg
 project_video: 'https://www.youtube.com/embed/T7BYSC7XXLk?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102230'
-  - '4102204'
-  - '3102242'
 project_titles:
   - >-
     Enlisting our city’s most promising future leaders in the fight for
@@ -39,11 +35,6 @@ aggregated:
       https://challenge.la2050.org/entry/trauma-informed-teaching-initiative-a-win-for-teachers-and-students
     - 'http://maker.good.is/myla2050learn2015/projects/TFALA.html'
     - 'http://maker.good.is/myla2050/projects/TEACHFORAMERICA-LA.html'
-  project_ids:
-    - '6102230'
-    - '5102291'
-    - '4102240'
-    - '3102242'
   year_submitted:
     - '2016'
     - '2015'

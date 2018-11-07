@@ -15,16 +15,11 @@ ein: '954302067'
 zip: '90013'
 project_image: 'https://img.youtube.com/vi/FmHmFIlfA4A/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102263'
 project_titles:
   - 'WriteGirl: The Write Place for Girls'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/powerofthepen.html'
-  project_ids:
-    - '4102188'
-    - '3102275'
   year_submitted:
     - '2014'
     - '2013'

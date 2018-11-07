@@ -19,8 +19,6 @@ ein: '472691696'
 zip: ''
 project_image: 'https://img.youtube.com/vi/uVgrIU_Bl9g/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102091'
 project_titles:
   - >-
     Making the next generation of creativity accessible to anyone with a 3D
@@ -28,8 +26,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/eezitec.html'
-  project_ids:
-    - '8102069'
   year_submitted:
     - '2015'
 year_submitted: '2015'

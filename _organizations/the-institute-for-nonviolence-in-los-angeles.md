@@ -21,17 +21,12 @@ ein: '954302067'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/69OXVYZ15kU/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102303'
 project_titles:
   - The Peer Mediation Network
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/peermediationnetwork.html'
     - 'http://maker.good.is/myla2050/projects/conflictresolution.html'
-  project_ids:
-    - '5102303'
-    - '3102157'
   year_submitted:
     - '2015'
     - '2013'

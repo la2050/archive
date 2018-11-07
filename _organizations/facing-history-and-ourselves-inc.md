@@ -20,18 +20,12 @@ ein: '42761636'
 zip: '90017'
 project_image: 'https://img.youtube.com/vi/2EbK6sblpo0/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102097'
-  - '4102069'
 project_titles:
   - Facing History and Ourselves Partnership School Network
   - Facing History's Partnership Schools Network
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/facinghistoryla.html'
-  project_ids:
-    - '5102097'
-    - '4102069'
   year_submitted:
     - '2015'
     - '2014'

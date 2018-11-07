@@ -38,15 +38,11 @@ ein: '954395737'
 zip: ''
 project_image: 'https://img.youtube.com/vi/gTKhNc98GIc/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102078'
 project_titles:
   - 'Partnership for Black Workers Rising '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/workersrising.html'
-  project_ids:
-    - '3102078'
   year_submitted:
     - '2013'
 year_submitted: '2013'

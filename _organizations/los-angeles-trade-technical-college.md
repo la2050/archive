@@ -25,9 +25,6 @@ zip: '90015'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24040%252Fdisplay%252Fconnect_SLATEZsigners.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102197'
-  - '4102138'
 project_titles:
   - >-
     Los Angeles Trade-Technical College South LA Transit Empowerment Zone
@@ -39,10 +36,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/SLATE_Z.html'
     - 'http://maker.good.is/myLA2050learn/projects/LearnandServeOER.html'
-  project_ids:
-    - '5102197'
-    - '4102203'
-    - '4102204'
   year_submitted:
     - '2015'
     - '2014'

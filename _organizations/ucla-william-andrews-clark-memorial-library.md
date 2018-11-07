@@ -28,15 +28,11 @@ ein: '952250801'
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
-project_ids:
-  - '3102263'
 project_titles:
   - 'Arts on the Grounds: L.A. Escena Performance Series'
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/Clark.html'
-  project_ids:
-    - '3102263'
   year_submitted:
     - '2013'
 year_submitted: '2013'

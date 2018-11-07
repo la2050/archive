@@ -36,15 +36,11 @@ ein: '273429917'
 zip: ''
 project_image: 'https://img.youtube.com/vi/BSvlFmSuKyw/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102151'
 project_titles:
   - Human Resources L.A. Artist Residency Program!
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/hrlaartresidency.html'
-  project_ids:
-    - '3102151'
   year_submitted:
     - '2013'
 year_submitted: '2013'

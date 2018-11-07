@@ -75,16 +75,12 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17239%252Fdisplay%252FJohn_-_LA_Daily_News.jpg=c570x385
 project_video: ''
-project_ids:
-  - '3102235'
 project_titles:
   - 'Ready, Set, Gold!: A Students'' Guide to a Lifetime of Fitness '
   - 'Ready Set Gold!: A Students Guide to a Lifetime of Fitness '
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/ReadySetGold.html'
-  project_ids:
-    - '3102235'
   year_submitted:
     - '2013'
 year_submitted: '2013'

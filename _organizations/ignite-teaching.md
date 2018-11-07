@@ -19,13 +19,10 @@ zip: '93021'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20940%252Fdisplay%252Fla2050.png=c570x385
 project_video: ''
-project_ids:
-  - '4102096'
 project_titles:
   - Ignite Teaching
 aggregated:
   challenge_url: []
-  project_ids: []
   year_submitted:
     - '2014'
 year_submitted: '2014'

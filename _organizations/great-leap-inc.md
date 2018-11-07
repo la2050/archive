@@ -1,4 +1,5 @@
 ---
+original_project_image: 'https://img.youtube.com/vi/gyQdQTAWs0U/hqdefault.jpg'
 published: true
 organization_id: '2013084'
 title: 'Great Leap, Inc.'
@@ -52,18 +53,12 @@ facebook: ''
 ein: '953337990'
 zip: ''
 project_image: /uploads/great-leap-inc.jpg
-# Source: http://greatleap.org/wp-content/uploads/2017/04/cropped-IMG_2312-copy-1.jpg
-original_project_image: 'https://img.youtube.com/vi/gyQdQTAWs0U/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102142'
 project_titles:
   - Fandango Obon Project / Proyecto Fandango Obon
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FandangObon2050.html'
-  project_ids:
-    - '3102142'
   year_submitted:
     - '2013'
 year_submitted: '2013'

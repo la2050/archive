@@ -19,15 +19,11 @@ ein: '453003702'
 zip: '90026'
 project_image: 'https://img.youtube.com/vi/ytlmnttRP70/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102014'
 project_titles:
   - ShareLA
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/ShareLA.html'
-  project_ids:
-    - '4102009'
   year_submitted:
     - '2014'
 year_submitted: '2014'

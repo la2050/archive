@@ -23,8 +23,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6377992175741-team91.jpg
 project_video: 'https://www.youtube.com/embed/yYikBEjX8p0?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102162'
 project_titles:
   - >-
     The Talk Project – Teens leading workshops on sexual violence & culture
@@ -33,8 +31,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-talk-project-–-teens-leading-workshops-on-sexual-violence-culture-change
-  project_ids:
-    - '6102162'
   year_submitted:
     - '2016'
 year_submitted: '2016'

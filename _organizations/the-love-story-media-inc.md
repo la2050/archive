@@ -21,8 +21,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6473062183741-team90.png
 project_video: 'https://player.vimeo.com/video/168583145?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102249'
 project_titles:
   - The Love Story Interactive Art Journal + Live Open Mic Show
 aggregated:
@@ -30,9 +28,6 @@ aggregated:
     - >-
       https://challenge.la2050.org/entry/the-love-story-interactive-art-journal-live-open-mic-show
     - 'http://maker.good.is/myla2050connect2015/projects/TheLoveStory.html'
-  project_ids:
-    - '6102249'
-    - '5102305'
   year_submitted:
     - '2016'
     - '2015'

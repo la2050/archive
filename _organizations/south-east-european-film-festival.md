@@ -19,15 +19,11 @@ ein: '510618883'
 zip: '90046'
 project_image: 'https://img.youtube.com/vi/qtJ5XumU1Gw/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102194'
 project_titles:
   - BALKAN - L.A. CULTURAL CROSSROADS
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050play/projects/BalkansLA.html'
-  project_ids:
-    - '4102084'
   year_submitted:
     - '2014'
 year_submitted: '2014'

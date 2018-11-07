@@ -21,15 +21,12 @@ zip: '91617'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23146%252Fdisplay%252FTWOAB.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102028'
 project_titles:
   - Ambassador Bird - L.A.'s Diversity Ambassador
   - Ambassador Bird - L.A.s Diversity Ambassador
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050connect2015/projects/AmbassadorBird.html'
-  project_ids: []
   year_submitted:
     - '2015'
 year_submitted: '2015'

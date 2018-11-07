@@ -21,8 +21,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1467124065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/3wrDCMSLScc?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102253'
 project_titles:
   - >-
     Collaborative Teacher Project: igniting curiosity through innovative
@@ -31,8 +29,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/collaborative-teacher-project-igniting-curiosity-through-innovative-classrooms-teacher-mentoring
-  project_ids:
-    - '6102253'
   year_submitted:
     - '2016'
 year_submitted: '2016'

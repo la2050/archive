@@ -77,16 +77,12 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17077%252Fdisplay%252FHelper_Logo.jpg=c570x385
 project_video: ''
-project_ids:
-  - '3102143'
 project_titles:
   - Youth Outreach Unit "Together We Create a Better Y.O.U."
   - Youth Outreach Unit Together We Create a Better Y.O.U.
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/REACHINGOURYOUTH.html'
-  project_ids:
-    - '3102143'
   year_submitted:
     - '2013'
 year_submitted: '2013'

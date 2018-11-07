@@ -21,9 +21,6 @@ ein: '272225420'
 zip: '90014'
 project_image: 'https://img.youtube.com/vi/aKgBQ7XR-pg/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102062'
-  - '3102116'
 project_titles:
   - ' Dodgeball, Community and the Common Good'
   - 'Dodgeball, Prosperity and the Common Good'
@@ -33,9 +30,6 @@ aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/eryc.html'
     - 'http://maker.good.is/myla2050/projects/theyachtclub.html'
-  project_ids:
-    - '4102030'
-    - '3102116'
   year_submitted:
     - '2014'
     - '2013'

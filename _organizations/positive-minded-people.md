@@ -20,16 +20,12 @@ zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22152%252Fdisplay%252FImage_for_Good.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102171'
 project_titles:
   - 'Mobilize 10,000+ LA Residents Into Volunteerism Using DoGooder.LA'
   - Mobilize 10000+ LA Residents Into Volunteerism Using DoGooder.LA
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myLA2050connect/projects/DoGooder.html'
-  project_ids:
-    - '4102072'
   year_submitted:
     - '2014'
 year_submitted: '2014'

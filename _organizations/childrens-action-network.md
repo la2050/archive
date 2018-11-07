@@ -21,8 +21,6 @@ zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/tides-center-dba-childrens-action-network.jpg
 project_video: 'https://youtu.be/JPeuzRmiI3w'
-project_ids:
-  - '6102035'
 project_titles:
   - FosterMore-Because No Child Makes It Alone
   - Helping LA’s most vulnerable youth succeed
@@ -32,10 +30,6 @@ aggregated:
       https://activation.la2050.org/connect/tides-center-dba-childrens-action-network/
     - >-
       https://challenge.la2050.org/entry/fostermore-because-no-child-makes-it-alone
-  project_ids:
-    - '8102020'
-    - '6102035'
-    - '4102126'
   year_submitted:
     - '2018'
     - '2016'

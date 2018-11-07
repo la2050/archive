@@ -19,14 +19,10 @@ zip: '91604'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22088%252Fdisplay%252FLINCOLN_STATUE.jpg=c570x385
 project_video: ''
-project_ids:
-  - '4102101'
 project_titles:
   - 'LINCOLN HEIGHTS HEALTH INITIATIVE '
 aggregated:
   challenge_url: []
-  project_ids:
-    - '4102145'
   year_submitted:
     - '2014'
 year_submitted: '2014'

@@ -43,8 +43,6 @@ ein: '421774453'
 zip: ''
 project_image: 'https://img.youtube.com/vi/Jw8-KCURHUA/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102091'
 project_titles:
   - LA Kids Rock!
   - LA Kids Rock!2
@@ -52,8 +50,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/proveLAKidsRock.html'
-  project_ids:
-    - '3102091'
   year_submitted:
     - '2013'
 year_submitted: '2013'

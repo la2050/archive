@@ -41,8 +41,6 @@ ein: '452443162'
 zip: ''
 project_image: 'https://img.youtube.com/vi/FB9aNSfVARA/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102253'
 project_titles:
   - >-
     School Fuel - Tackling Childhood Obesity in the Los Angeles Unified School
@@ -53,8 +51,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/school_fuel.html'
-  project_ids:
-    - '3102253'
   year_submitted:
     - '2013'
 year_submitted: '2013'

@@ -19,9 +19,6 @@ ein: '273419857'
 zip: '90038'
 project_image: 'https://img.youtube.com/vi/uVV1_WmFT9o/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102095'
-  - '3102153'
 project_titles:
   - Paper Free Studio
   - 'THE i.am.angel EAST L.A. INCUBATOR PROJECT '
@@ -31,8 +28,6 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/iam_makerspace.html'
     - 'http://maker.good.is/myla2050/projects/iamangel_incubator.html'
     - 'http://maker.good.is/myla2050/projects/paperfreestudio.html'
-  project_ids:
-    - '4102044'
   year_submitted:
     - '2014'
     - '2013'

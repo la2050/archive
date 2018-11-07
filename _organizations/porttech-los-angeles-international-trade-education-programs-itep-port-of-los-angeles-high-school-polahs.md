@@ -21,17 +21,12 @@ ein: '800363808'
 zip: '90731'
 project_image: 'https://img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102170'
 project_titles:
   - Rebuilding LA’s port communities one business at a time
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/PortTech.html'
     - 'http://maker.good.is/myLA2050create/projects/PortTechLA.html'
-  project_ids:
-    - '5102241'
-    - '4102071'
   year_submitted:
     - '2015'
     - '2014'

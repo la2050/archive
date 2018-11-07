@@ -21,9 +21,6 @@ ein: '954754598'
 zip: '91401'
 project_image: 'https://activation.la2050.org/assets/images/play/2048-wide/red-hen-press.jpg'
 project_video: ''
-project_ids:
-  - '8102101'
-  - '6102194'
 project_titles:
   - 'Get Lit with Red Hen Press: Bringing Fresh Voices to the LA Literary Scene'
   - Red Hen Press Community Center for the Arts
@@ -32,9 +29,6 @@ aggregated:
     - 'https://activation.la2050.org/play/red-hen-press/'
     - >-
       https://challenge.la2050.org/entry/get-lit-with-red-hen-press-bringing-fresh-voices-to-the-la-literary-scene
-  project_ids:
-    - '8102101'
-    - '6102194'
   year_submitted:
     - '2018'
     - '2016'

@@ -23,15 +23,11 @@ ein: '820576380'
 zip: '90017'
 project_image: 'https://img.youtube.com/vi/q4McatdcN78/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102333'
 project_titles:
   - LA Cash for College 4 All
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/LACASHFORCOLLEGE.html'
-  project_ids:
-    - '5102333'
   year_submitted:
     - '2015'
 year_submitted: '2015'

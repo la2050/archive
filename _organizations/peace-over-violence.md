@@ -15,9 +15,6 @@ ein: '510179305'
 zip: '90017'
 project_image: 'https://img.youtube.com/vi/nF2CnqS_6oQ/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '4102164'
-  - '3102215'
 project_titles:
   - Children's Counseling Program at POV
   - Make A Choice Campaign
@@ -26,9 +23,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/POV.html'
-  project_ids:
-    - '4102159'
-    - '3102215'
   year_submitted:
     - '2014'
     - '2013'

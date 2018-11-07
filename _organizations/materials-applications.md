@@ -62,8 +62,6 @@ ein: '262567190'
 zip: ''
 project_image: 'https://img.youtube.com/vi/Uj3t-8frJ4Q/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102195'
 project_titles:
   - >-
     START SEEING UGLY!  A social app to reveal and transform blighted parts of
@@ -71,8 +69,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/UGLYAPP.html'
-  project_ids:
-    - '3102195'
   year_submitted:
     - '2013'
 year_submitted: '2013'

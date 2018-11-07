@@ -31,15 +31,11 @@ ein: '454998717'
 zip: ''
 project_image: 'https://img.youtube.com/vi/f2SXn1p3d4I/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102170'
 project_titles:
   - Establishing a Hub for Cleantech Innovation and Job Creation
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/LACI.html'
-  project_ids:
-    - '3102170'
   year_submitted:
     - '2013'
 year_submitted: '2013'

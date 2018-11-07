@@ -20,9 +20,6 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5522525955741-team91.png
 project_video: ''
-project_ids:
-  - '6102060'
-  - '4102054'
 project_titles:
   - The 4Liter Classroom Challenge
   - >-
@@ -32,9 +29,6 @@ aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-4liters-pop-up-experience-los-angeles-middle-schoolers-learn-to-love-conserve-their-water
-  project_ids:
-    - '6102060'
-    - '4102225'
   year_submitted:
     - '2016'
     - '2014'

@@ -20,15 +20,11 @@ zip: '91302'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23690%252Fdisplay%252FChange_Better_Profile.jpg=c570x385
 project_video: ''
-project_ids:
-  - '5102051'
 project_titles:
   - Training LA Nonprofits With The Best Ideas To Create The Biggest Impact
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/changebetter.html'
-  project_ids:
-    - '5102051'
   year_submitted:
     - '2015'
 year_submitted: '2015'

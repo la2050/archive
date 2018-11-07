@@ -22,8 +22,6 @@ zip: '90291'
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/girls-academic-leadership-academy-gala.jpg
 project_video: 'https://youtu.be/PTteThgae3o'
-project_ids:
-  - '8102045'
 project_titles:
   - 'Launch Her Future: Empowering Los Angeles Girls'
 aggregated:
@@ -31,9 +29,6 @@ aggregated:
     - >-
       https://activation.la2050.org/learn/girls-academic-leadership-academy-gala/
     - 'http://maker.good.is/myla2050learn2015/projects/GALA2015.html'
-  project_ids:
-    - '8102045'
-    - '5102110'
   year_submitted:
     - '2018'
     - '2015'

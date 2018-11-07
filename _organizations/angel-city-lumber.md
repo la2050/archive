@@ -21,14 +21,11 @@ ein: '474574079'
 zip: '90039'
 project_image: 'https://img.youtube.com/vi/4Kt14HIJyiU/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102016'
 project_titles:
   - Angel City Lumber
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/angelcitylumber.html'
-  project_ids: []
   year_submitted:
     - '2015'
 year_submitted: '2015'

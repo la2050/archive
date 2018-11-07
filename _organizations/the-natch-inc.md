@@ -21,8 +21,6 @@ ein: '813470225'
 zip: '90021'
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg'
 project_video: ''
-project_ids:
-  - '8102120'
 project_titles:
   - Farmers Market Delivery
 aggregated:
@@ -30,8 +28,6 @@ aggregated:
     - 'https://activation.la2050.org/create/the-natch-inc/'
     - >-
       https://challenge.la2050.org/entry/bringing-the-farmers-market-to-peoples-door
-  project_ids:
-    - '6102208'
   year_submitted:
     - '2018'
     - '2016'

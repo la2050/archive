@@ -20,15 +20,11 @@ ein: '951992732'
 zip: 91330-8309
 project_image: 'https://img.youtube.com/vi/5tvdNOJ7fCw/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102313'
 project_titles:
   - CREATE Project
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/CREATEProject.html'
-  project_ids:
-    - '5102313'
   year_submitted:
     - '2015'
 year_submitted: '2015'

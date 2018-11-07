@@ -32,8 +32,6 @@ ein: '900678872'
 zip: ''
 project_image: 'https://img.youtube.com/vi/EpR6dHeaGIQ/hqdefault.jpg'
 project_video: ''
-project_ids:
-  - '3102129'
 project_titles:
   - >-
     Bringing Together Angelenos to Glean Local Food and Provide Fresh Produce to
@@ -42,8 +40,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050/projects/FoodForwardLA.html'
-  project_ids:
-    - '3102129'
   year_submitted:
     - '2013'
 year_submitted: '2013'

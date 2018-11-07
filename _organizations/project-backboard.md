@@ -23,8 +23,6 @@ ein: '475245280'
 zip: '91030'
 project_image: 'https://img.youtube.com/vi/phXK2cX3WEk/maxresdefault.jpg'
 project_video: ''
-project_ids:
-  - '5102243'
 project_titles:
   - >-
     Basketball Courts and Public Art: Inspiring Inter-generational Play in
@@ -32,8 +30,6 @@ project_titles:
 aggregated:
   challenge_url:
     - 'http://maker.good.is/myla2050play2015/projects/ProjectBackboard.html'
-  project_ids:
-    - '5102243'
   year_submitted:
     - '2015'
 year_submitted: '2015'

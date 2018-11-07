@@ -21,16 +21,12 @@ zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1573115165741-team88.jpg
 project_video: 'https://www.youtube.com/embed/9dUfXn07Zvg?rel=0&amp;showinfo=0'
-project_ids:
-  - '6102024'
 project_titles:
   - 'People''s Planning School: Park Equity Project'
 aggregated:
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/peoples-planning-school-park-equity-project
-  project_ids:
-    - '6102024'
   year_submitted:
     - '2016'
 year_submitted: '2016'

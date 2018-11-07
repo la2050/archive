@@ -21,15 +21,11 @@ zip: '90291'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/my-friends-house-inc.jpg
 project_video: 'https://youtu.be/Bt5RMStlQxI?t=90'
-project_ids:
-  - '8102087'
 project_titles:
   - Healthy Food and Healthy Lives in South Los Angeles
 aggregated:
   challenge_url:
     - 'https://activation.la2050.org/live/my-friends-house-inc/'
-  project_ids:
-    - '8102087'
   year_submitted:
     - '2018'
 year_submitted: '2018'
