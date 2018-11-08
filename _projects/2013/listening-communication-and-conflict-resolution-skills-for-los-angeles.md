@@ -19,34 +19,32 @@ project_summary: >-
   ways possible.  
 project_image: 'https://img.youtube.com/vi/-wRfwMCYTHY/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/-wRfwMCYTHY'
-maker_answers:
-  success: >-
-    We will train and work with hundreds of people who want to find better ways
-    of communicating and resolving conflict.  They will obtain a better
-    understanding of community resources to assist them, and learn to intervene
-    effectively to help resolve disputes wherever they occur.
-  description: >-
-    It will help advance the mission of "a mediator on every block," allowing
-    neighbors, co-workers and family members to better interact and create more
-    profound social connections.
-  collaborators: >-
-    There is a vibrant dispute resolution and dialogue and deliberation
-    community in Los Angeles.  All of these collaborators will be made aware and
-    invited to participate in this initiative, if it is selected for funding.
-  description1: >-
-    More than 2,000 members of the public were trained by Avis Ridley-Thomas in
-    the years that I oversaw the Los Angeles City Attorney's Dispute Resolution
-    Program of the Office of the Los Angeles City Attorney.  Emeritus UCLA
-    Professor Buzz Wilms initiated a class at UCLA in 2001, and hundreds of
-    undergraduates have been trained as a result of that class.
-  vision: >-
-    Listening, communication and mediation skills would be standard curriculum
-    in schools, and standard operating procedure at homes and in workplaces
-    throughout Los Angeles.  Any persons involved in miscommunication,
-    misunderstanding or conflict would get multiple opportunities to resolve the
-    matter quickly and constructively.  A culture change would occur in our
-    city, resulting in significantly fewer matters which result in violent
-    behavior. 
+description1: >-
+  More than 2,000 members of the public were trained by Avis Ridley-Thomas in
+  the years that I oversaw the Los Angeles City Attorney's Dispute Resolution
+  Program of the Office of the Los Angeles City Attorney.  Emeritus UCLA
+  Professor Buzz Wilms initiated a class at UCLA in 2001, and hundreds of
+  undergraduates have been trained as a result of that class.
+collaborators: >-
+  There is a vibrant dispute resolution and dialogue and deliberation community
+  in Los Angeles.  All of these collaborators will be made aware and invited to
+  participate in this initiative, if it is selected for funding.
+success: >-
+  We will train and work with hundreds of people who want to find better ways of
+  communicating and resolving conflict.  They will obtain a better understanding
+  of community resources to assist them, and learn to intervene effectively to
+  help resolve disputes wherever they occur.
+description: >-
+  It will help advance the mission of "a mediator on every block," allowing
+  neighbors, co-workers and family members to better interact and create more
+  profound social connections.
+vision: >-
+  Listening, communication and mediation skills would be standard curriculum in
+  schools, and standard operating procedure at homes and in workplaces
+  throughout Los Angeles.  Any persons involved in miscommunication,
+  misunderstanding or conflict would get multiple opportunities to resolve the
+  matter quickly and constructively.  A culture change would occur in our city,
+  resulting in significantly fewer matters which result in violent behavior. 
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/listening-communication-and-conflict-resolution-skills-for-los-angeles/img.youtube.com/vi/-wRfwMCYTHY/maxresdefault.jpg
 youtube_video_identifier: '-wRfwMCYTHY'

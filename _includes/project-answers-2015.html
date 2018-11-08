@@ -2,93 +2,93 @@
 
 {% comment %}
 <h3>In one sentence, please describe what your organization does</h3>
-{{ page.maker_answers["In one sentence, please describe what your organization does"] | markdownify }}
+{{ page["In one sentence, please describe what your organization does"] | markdownify }}
 {% endcomment %}
 
 {% comment %}
 <h3>In one to three sentences, please describe your proposal.</h3>
-{{ page.maker_answers["In one to three sentences, please describe your proposal."] | markdownify }}
+{{ page["In one to three sentences, please describe your proposal."] | markdownify }}
 {% endcomment %}
 
 <h3>In what areas of Los Angeles will you be directly working?</h3>
 <ul>
-  {% for area in page.maker_answers["Where will you be working?"] %}
+  {% for area in page["Where will you be working?"] %}
   <li>{{ area }}</li>
   {% endfor %}
 </ul>
 
 <h3>How do you plan to use these resources to make change?</h3>
 <ul>
-  {% for area in page.maker_answers["How do you plan to use these resources to make change?"] %}
+  {% for area in page["How do you plan to use these resources to make change?"] %}
   <li>{{ area }}</li>
   {% endfor %}
 </ul>
 
-{% if page.maker_answers["How will your proposal improve the following “Learn” metrics?"] and page.maker_answers["How will your proposal improve the following “Learn” metrics?"].size > 0 %}
+{% if page["How will your proposal improve the following “Learn” metrics?"] and page["How will your proposal improve the following “Learn” metrics?"].size > 0 %}
 <h3>How will your proposal improve the following “Learn” metrics?</h3>
 <ul>
-  {% for metric in page.maker_answers["How will your proposal improve the following “Learn” metrics?"] %}
+  {% for metric in page["How will your proposal improve the following “Learn” metrics?"] %}
   <li>{{ metric }}</li>
   {% endfor %}
 </ul>
-{% elsif page.maker_answers["How will your proposal improve the following “Create” metrics?"] and page.maker_answers["How will your proposal improve the following “Create” metrics?"].size > 0 %}
+{% elsif page["How will your proposal improve the following “Create” metrics?"] and page["How will your proposal improve the following “Create” metrics?"].size > 0 %}
 <h3>How will your proposal improve the following “Create” metrics?</h3>
 <ul>
-  {% for metric in page.maker_answers["How will your proposal improve the following “Create” metrics?"] %}
+  {% for metric in page["How will your proposal improve the following “Create” metrics?"] %}
   <li>{{ metric }}</li>
   {% endfor %}
 </ul>
-{% elsif page.maker_answers["How will your proposal improve the following “Play” metrics?"] and page.maker_answers["How will your proposal improve the following “Play” metrics?"].size > 0 %}
+{% elsif page["How will your proposal improve the following “Play” metrics?"] and page["How will your proposal improve the following “Play” metrics?"].size > 0 %}
 <h3>How will your proposal improve the following “Play” metrics?</h3>
 <ul>
-  {% for metric in page.maker_answers["How will your proposal improve the following “Play” metrics?"] %}
+  {% for metric in page["How will your proposal improve the following “Play” metrics?"] %}
   <li>{{ metric }}</li>
   {% endfor %}
 </ul>
-{% elsif page.maker_answers["How will your proposal improve the following “Connect” metrics?"] and page.maker_answers["How will your proposal improve the following “Connect” metrics?"].size > 0 %}
+{% elsif page["How will your proposal improve the following “Connect” metrics?"] and page["How will your proposal improve the following “Connect” metrics?"].size > 0 %}
 <h3>How will your proposal improve the following “Connect” metrics?</h3>
 <ul>
-  {% for metric in page.maker_answers["How will your proposal improve the following “Connect” metrics?"] %}
+  {% for metric in page["How will your proposal improve the following “Connect” metrics?"] %}
   <li>{{ metric }}</li>
   {% endfor %}
 </ul>
-{% elsif page.maker_answers["How will your proposal improve the following “Live” metrics?"] and page.maker_answers["How will your proposal improve the following “Live” metrics?"].size > 0 %}
+{% elsif page["How will your proposal improve the following “Live” metrics?"] and page["How will your proposal improve the following “Live” metrics?"].size > 0 %}
 <h3>How will your proposal improve the following “Live” metrics?</h3>
 <ul>
-  {% for metric in page.maker_answers["How will your proposal improve the following “Live” metrics?"] %}
+  {% for metric in page["How will your proposal improve the following “Live” metrics?"] %}
   <li>{{ metric }}</li>
   {% endfor %}
 </ul>
 {% endif %}
 
-{% if page.maker_answers["Describe in greater detail how you will make LA the best place to learn."] %}
+{% if page["Describe in greater detail how you will make LA the best place to learn."] %}
 <h3>Describe in greater detail how you will make LA the best place to learn.</h3>
-{{ page.maker_answers["Describe in greater detail how you will make LA the best place to learn."] | markdownify }}
+{{ page["Describe in greater detail how you will make LA the best place to learn."] | markdownify }}
 
-{% elsif page.maker_answers["Describe in greater detail how you will make LA the best place to create."] %}
+{% elsif page["Describe in greater detail how you will make LA the best place to create."] %}
 <h3>Describe in greater detail how you will make LA the best place to create.</h3>
-{{ page.maker_answers["Describe in greater detail how you will make LA the best place to create."] | markdownify }}
+{{ page["Describe in greater detail how you will make LA the best place to create."] | markdownify }}
 
-{% elsif page.maker_answers["Describe in greater detail how you will make LA the best place to play."] %}
+{% elsif page["Describe in greater detail how you will make LA the best place to play."] %}
 <h3>Describe in greater detail how you will make LA the best place to play.</h3>
-{{ page.maker_answers["Describe in greater detail how you will make LA the best place to play."] | markdownify }}
+{{ page["Describe in greater detail how you will make LA the best place to play."] | markdownify }}
 
-{% elsif page.maker_answers["Describe in greater detail how you will make LA the best place to connect."] %}
+{% elsif page["Describe in greater detail how you will make LA the best place to connect."] %}
 <h3>Describe in greater detail how you will make LA the best place to connect.</h3>
-{{ page.maker_answers["Describe in greater detail how you will make LA the best place to connect."] | markdownify }}
+{{ page["Describe in greater detail how you will make LA the best place to connect."] | markdownify }}
 
-{% elsif page.maker_answers["Describe in greater detail how you will make LA the healthiest place to live:"] %}
+{% elsif page["Describe in greater detail how you will make LA the healthiest place to live:"] %}
 <h3>Describe in greater detail how you will make LA the healthiest place to live:</h3>
-{{ page.maker_answers["Describe in greater detail how you will make LA the healthiest place to live:"] | markdownify }}
+{{ page["Describe in greater detail how you will make LA the healthiest place to live:"] | markdownify }}
 
 {% endif %}
 
 <h3>Please explain how you will evaluate your work.</h3>
-{{ page.maker_answers["Please explain how you will evaluate your work."] | markdownify }}
+{{ page["Please explain how you will evaluate your work."] | markdownify }}
 
 <h3>How can the LA2050 community and other stakeholders help your proposal succeed?</h3>
 <ul>
-  {% for area in page.maker_answers["How can the LA2050 community and other stakeholders help your proposal succeed?"] %}
+  {% for area in page["How can the LA2050 community and other stakeholders help your proposal succeed?"] %}
   <li>{{ area }}</li>
   {% endfor %}
 </ul>

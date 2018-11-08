@@ -65,154 +65,151 @@ project_summary: >-
   to have their greatest impact, to realize their greatest potential.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22625%252Fdisplay%252Flarb_logo.jpg=c570x385
-maker_answers:
-  success: >-
-    There are 5 central measurements we use to assess how we are doing. (1) We
-    will measure our readership. Although our most engaged readers are in L.A.,
-    we now have readers in 150 countries and in all 50 states reading almost a
-    half million pieces a month. We hope to double that each year for the next
-    two years. Reaching those numbers would constitute success in this area. (2)
-    We will measure the diversity of our contributors. We successfully attracted
-    a wider range of writers & reviewers than any of the other most important
-    reviews of books and culture; in the VIDA survey of women’s participation in
-    book reviewing, for instance, our numbers are better, sometimes by a factor
-    of two or three, than all the major outlets except the Women’s Review of
-    Books. But we want to have much more robust representation of African
-    American, Latino/a, Asian American, Persian, and other communities. We would
-    measure our success by the rise in those numbers. (3) We will monitor our
-    influence. Already we see publishers featuring our reviews on book covers
-    and in advertisements, and see references to our pieces in NY Times, New
-    Yorker, Slate, Salon, and many other newspapers, magazines, and websites. To
-    see that increase would be a measure of our ability to impact the national
-    cultural conversation, as would higher Google rankings of our pieces, and
-    mentioned in other highly-ranked pieces. (4) We will gauge our success by
-    the support we receive. Our success so far has been made possible by
-    people’s willingness to support the project financially (as well as by their
-    willingness to volunteer their time as editors, & by their willingness to
-    donate their writing or write for a very nominal sum). Our success going
-    forward can be measured by the willingness of people to financially support
-    our project, making the other two less necessary. We have roughly doubled
-    our contributions from our 1st year to our 2nd, & we would like to double
-    again this year and next. We are starting a membership program, & the level
-    of participation in the program will be an important measure of our success,
-    as will the total dollars raised. (5) We will measure our success in terms
-    of the support we can give to others. We believe strongly that writers
-    should get paid for their work, & aim to help to reverse the damage done to
-    writers’ livelihood by the decline of print periodicals. We will consider it
-    a major success if we raise enough through gifts, grants, & auxiliary income
-    to pay writers the rates that print book reviews have traditionally paid. We
-    also would measure our success by whether we can expand our outreach in
-    community programming & educational services. We hope to produce more in the
-    way of radio programming, for instance, to bring our curriculum project to
-    more schools, & to bring the intensive editing workshops we provide our
-    interns to other high school, college students & recent graduates. If we are
-    serving a broad range of L.A. communities we will consider ourselves a
-    success.
-  description: >-
-    LARB will provide, for the people of Los Angeles, a source of lifetime
-    learning, global in scope and yet local in its perspective and in many of
-    its concerns. Our website will be a meeting place for everyone interested in
-    culture in all its various guises, an open forum for anyone to participate
-    in. --- Our presence in local media, as in our current collaboration with
-    KCRW and our work with KCET in development, will help more people become
-    engaged with the literary, artistic, and intellectual life of the city.  Our
-    public programming, like our current collaborations with The Broad Stage,
-    LiveTalksLA, and LAPL’s ALOUD series, will continue to increase in breadth
-    and frequency, bringing a series of newly conceived, multigenre performances
-    to a variety of audiences, building on the work being done on our website.
-    And, in turn, our national and global presence will help bring readers
-    elsewhere an appreciation for L.A.’s contributions to culture; that is, we
-    will post podcasts and video digests of these events on our website and our
-    YouTube channel.  Our public programming will enhance the offerings the city
-    already has, and our partnerships with the arts and culture organizations
-    listed below, along with, we hope, partnerships with many more, will help
-    integrate our famously fragmented city. --- We bring the most recondite and
-    specialized research from our major universities, art schools, and colleges
-    and make it accessible to anyone in the city. --- By placing the writers in
-    the worlds of film and television, the literary writers, the popular genre
-    writers, the academic writers, and the newspaper and magazine writers, we
-    build bridges among tribes that have long kept their distance from one
-    another, with benefits in all directions. --- Our work with high schools
-    will help engage students with culture in many different ways. --- We will
-    be a new and vigorous and innovative partner with all of the arts and
-    culture organizations in town in the project of bringing the world to Los
-    Angeles and Los Angeles to the world. We will help recruit, train, and
-    retain the writers and critics required to keep Los Angeles the most
-    important city for arts and culture in the country.
-  collaborators: >-
-    We collaborate, first and foremost, with the 100s of contributors and our
-    100s of contributing editors, the majority of whom are L.A.-based. We are
-    collaborating with our readers, whose comments are an increasingly important
-    part of the site. We collaborate with a number of local arts and culture
-    institutions, including the L.A. Public Library, KCRW, KCET, Broad Stage, UC
-    Riverside, UC Irvine, USC, CalArts, UCHRI, Los Angeles Institute for the
-    Humanities, LiveTalksLA, and PEN USA. We collaborate with publications,
-    universities, and literary groups around the country, co-sponsoring events,
-    doing cross-promotion on our sites and in social media. We have also started
-    to work with LAUSD, a pilot program at Animo Pat Brown Charter H.S.
-  description1: >-
-    We have already partially succeeded in bringing a sense of community to the
-    cultural life of L.A. in a new way. We are training a new generation in the
-    lost art of editing. We have built something the literary, artistic, &
-    intellectual community is proud to be associated with, & proud to have
-    represent them. We have received extravagant praise from the larger literary
-    community. The New Yorker called us “an instant jewel of the internet,” Pico
-    Iyer said we are “like 1000 angels descending,” Salman Rushdie claims ours
-    was the best piece of criticism written about his work, & writers Jon Robin
-    Baitz & Michael Tolkin call LARB “the best literary magazine in the
-    country.” But more importantly the best writers in the country want to write
-    for us, & continue to come to us not only from all over L.A. County, but
-    also from New York, Boston, the Midwest, the West, & overseas. We have
-    achieved the status of a major voice in the cultural conversation in a
-    remarkably short time. We have been recognized by the publishing industry in
-    Publisher’s Weekly, the business community in Forbes, & the academic
-    community in Chronicle of Higher Education, & many other venues. The
-    accolades are based on our daily achievements in bringing forth smart,
-    dynamic, beautifully written, carefully curated, edited, & fact-checked
-    essays, reviews and interviews and the conversations that develop about them
-    on the website. Primarily, in other words, our site is our achievement, an
-    ever-growing, intelligently interlinked conversation on literature, art,
-    music, film, TV, politics, new media, & the rest of our shared culture. We
-    have succeeded in bringing together writers from around the world, bringing
-    together new writers with top professionals, writers from a wide variety of
-    different cultural worlds: literary fiction, SF, fantasy, mystery, thriller
-    & other genres; the commercial publishing world & the nonprofit & academic
-    worlds; the big presses and the small and the self-published; artists,
-    architects, sociologists, medical researchers, musicians, filmmakers,
-    scientists, & TV writers; & all of these from across a broad array of the
-    immigrant communities that define L.A. We cover a much wider range of texts,
-    genres, media, & topics than the traditional periodicals in this field,
-    reflective of the less hierarchical, less tradition-bound culture of Los
-    Angeles. While the other arts have enjoyed national prominence, literature &
-    criticism have lagged. We feel we have succeeded in making people (including
-    the New York publishing world) understand the importance, diversity, and
-    vibrancy of the literary culture of this, the largest book market in the
-    world, & in making the perspective of L.A. writers we provide part of the
-    necessary reading for publishing professionals around the world. Our pieces
-    are reprinted by Salon, Daily Beast, & publications in Brazil, Germany &
-    elsewhere. And we have managed to begin working toward sustainability,
-    increasing our income significantly. 
-  vision: >-
-    Los Angeles would be a city with a more vibrant, a more inclusive, a more
-    intelligently discussed and more widely, globally appreciated cultural
-    scene. The different literary communities, from the graphic novel readers
-    and writers, the electronic culture producers and consumers, to the TV,
-    film, and new media writers and users, to the academic researchers in all
-    fields of the humanities and sciences, across all races and ethnic groups,
-    and across all of the arts, would have at their disposal a responsive,
-    innovative, interactive forum, a "publication" that would bridge the
-    academic and popular, the local and the global, and the traditional and the
-    new. LARB will have kept on the cutting edge of any new technologies useful
-    to its mission and its readers. LARB will have helped keep alive the fine
-    arts of editing, proofreading, and fact-checking, and will continue training
-    new generations in them. LARB will have developed multiple platforms for use
-    in instruction from the early grades through graduate colleges. The best
-    that is being thought and written and produced in 2050 would be finding its
-    maximum audience. LARB will have established itself as among the very few
-    leading forums for arts and culture in the world. And instead of losing
-    ground, as predicted in the GOOD report, Los Angeles, through the vitality
-    of its literature, arts, and culture, will have increased its ability to
-    enhance human development, both in the city and county, and far beyond.
+description1: >-
+  We have already partially succeeded in bringing a sense of community to the
+  cultural life of L.A. in a new way. We are training a new generation in the
+  lost art of editing. We have built something the literary, artistic, &
+  intellectual community is proud to be associated with, & proud to have
+  represent them. We have received extravagant praise from the larger literary
+  community. The New Yorker called us “an instant jewel of the internet,” Pico
+  Iyer said we are “like 1000 angels descending,” Salman Rushdie claims ours was
+  the best piece of criticism written about his work, & writers Jon Robin Baitz
+  & Michael Tolkin call LARB “the best literary magazine in the country.” But
+  more importantly the best writers in the country want to write for us, &
+  continue to come to us not only from all over L.A. County, but also from New
+  York, Boston, the Midwest, the West, & overseas. We have achieved the status
+  of a major voice in the cultural conversation in a remarkably short time. We
+  have been recognized by the publishing industry in Publisher’s Weekly, the
+  business community in Forbes, & the academic community in Chronicle of Higher
+  Education, & many other venues. The accolades are based on our daily
+  achievements in bringing forth smart, dynamic, beautifully written, carefully
+  curated, edited, & fact-checked essays, reviews and interviews and the
+  conversations that develop about them on the website. Primarily, in other
+  words, our site is our achievement, an ever-growing, intelligently interlinked
+  conversation on literature, art, music, film, TV, politics, new media, & the
+  rest of our shared culture. We have succeeded in bringing together writers
+  from around the world, bringing together new writers with top professionals,
+  writers from a wide variety of different cultural worlds: literary fiction,
+  SF, fantasy, mystery, thriller & other genres; the commercial publishing world
+  & the nonprofit & academic worlds; the big presses and the small and the
+  self-published; artists, architects, sociologists, medical researchers,
+  musicians, filmmakers, scientists, & TV writers; & all of these from across a
+  broad array of the immigrant communities that define L.A. We cover a much
+  wider range of texts, genres, media, & topics than the traditional periodicals
+  in this field, reflective of the less hierarchical, less tradition-bound
+  culture of Los Angeles. While the other arts have enjoyed national prominence,
+  literature & criticism have lagged. We feel we have succeeded in making people
+  (including the New York publishing world) understand the importance,
+  diversity, and vibrancy of the literary culture of this, the largest book
+  market in the world, & in making the perspective of L.A. writers we provide
+  part of the necessary reading for publishing professionals around the world.
+  Our pieces are reprinted by Salon, Daily Beast, & publications in Brazil,
+  Germany & elsewhere. And we have managed to begin working toward
+  sustainability, increasing our income significantly. 
+collaborators: >-
+  We collaborate, first and foremost, with the 100s of contributors and our 100s
+  of contributing editors, the majority of whom are L.A.-based. We are
+  collaborating with our readers, whose comments are an increasingly important
+  part of the site. We collaborate with a number of local arts and culture
+  institutions, including the L.A. Public Library, KCRW, KCET, Broad Stage, UC
+  Riverside, UC Irvine, USC, CalArts, UCHRI, Los Angeles Institute for the
+  Humanities, LiveTalksLA, and PEN USA. We collaborate with publications,
+  universities, and literary groups around the country, co-sponsoring events,
+  doing cross-promotion on our sites and in social media. We have also started
+  to work with LAUSD, a pilot program at Animo Pat Brown Charter H.S.
+success: >-
+  There are 5 central measurements we use to assess how we are doing. (1) We
+  will measure our readership. Although our most engaged readers are in L.A., we
+  now have readers in 150 countries and in all 50 states reading almost a half
+  million pieces a month. We hope to double that each year for the next two
+  years. Reaching those numbers would constitute success in this area. (2) We
+  will measure the diversity of our contributors. We successfully attracted a
+  wider range of writers & reviewers than any of the other most important
+  reviews of books and culture; in the VIDA survey of women’s participation in
+  book reviewing, for instance, our numbers are better, sometimes by a factor of
+  two or three, than all the major outlets except the Women’s Review of Books.
+  But we want to have much more robust representation of African American,
+  Latino/a, Asian American, Persian, and other communities. We would measure our
+  success by the rise in those numbers. (3) We will monitor our influence.
+  Already we see publishers featuring our reviews on book covers and in
+  advertisements, and see references to our pieces in NY Times, New Yorker,
+  Slate, Salon, and many other newspapers, magazines, and websites. To see that
+  increase would be a measure of our ability to impact the national cultural
+  conversation, as would higher Google rankings of our pieces, and mentioned in
+  other highly-ranked pieces. (4) We will gauge our success by the support we
+  receive. Our success so far has been made possible by people’s willingness to
+  support the project financially (as well as by their willingness to volunteer
+  their time as editors, & by their willingness to donate their writing or write
+  for a very nominal sum). Our success going forward can be measured by the
+  willingness of people to financially support our project, making the other two
+  less necessary. We have roughly doubled our contributions from our 1st year to
+  our 2nd, & we would like to double again this year and next. We are starting a
+  membership program, & the level of participation in the program will be an
+  important measure of our success, as will the total dollars raised. (5) We
+  will measure our success in terms of the support we can give to others. We
+  believe strongly that writers should get paid for their work, & aim to help to
+  reverse the damage done to writers’ livelihood by the decline of print
+  periodicals. We will consider it a major success if we raise enough through
+  gifts, grants, & auxiliary income to pay writers the rates that print book
+  reviews have traditionally paid. We also would measure our success by whether
+  we can expand our outreach in community programming & educational services. We
+  hope to produce more in the way of radio programming, for instance, to bring
+  our curriculum project to more schools, & to bring the intensive editing
+  workshops we provide our interns to other high school, college students &
+  recent graduates. If we are serving a broad range of L.A. communities we will
+  consider ourselves a success.
+description: >-
+  LARB will provide, for the people of Los Angeles, a source of lifetime
+  learning, global in scope and yet local in its perspective and in many of its
+  concerns. Our website will be a meeting place for everyone interested in
+  culture in all its various guises, an open forum for anyone to participate in.
+  --- Our presence in local media, as in our current collaboration with KCRW and
+  our work with KCET in development, will help more people become engaged with
+  the literary, artistic, and intellectual life of the city.  Our public
+  programming, like our current collaborations with The Broad Stage,
+  LiveTalksLA, and LAPL’s ALOUD series, will continue to increase in breadth and
+  frequency, bringing a series of newly conceived, multigenre performances to a
+  variety of audiences, building on the work being done on our website. And, in
+  turn, our national and global presence will help bring readers elsewhere an
+  appreciation for L.A.’s contributions to culture; that is, we will post
+  podcasts and video digests of these events on our website and our YouTube
+  channel.  Our public programming will enhance the offerings the city already
+  has, and our partnerships with the arts and culture organizations listed
+  below, along with, we hope, partnerships with many more, will help integrate
+  our famously fragmented city. --- We bring the most recondite and specialized
+  research from our major universities, art schools, and colleges and make it
+  accessible to anyone in the city. --- By placing the writers in the worlds of
+  film and television, the literary writers, the popular genre writers, the
+  academic writers, and the newspaper and magazine writers, we build bridges
+  among tribes that have long kept their distance from one another, with
+  benefits in all directions. --- Our work with high schools will help engage
+  students with culture in many different ways. --- We will be a new and
+  vigorous and innovative partner with all of the arts and culture organizations
+  in town in the project of bringing the world to Los Angeles and Los Angeles to
+  the world. We will help recruit, train, and retain the writers and critics
+  required to keep Los Angeles the most important city for arts and culture in
+  the country.
+vision: >-
+  Los Angeles would be a city with a more vibrant, a more inclusive, a more
+  intelligently discussed and more widely, globally appreciated cultural scene.
+  The different literary communities, from the graphic novel readers and
+  writers, the electronic culture producers and consumers, to the TV, film, and
+  new media writers and users, to the academic researchers in all fields of the
+  humanities and sciences, across all races and ethnic groups, and across all of
+  the arts, would have at their disposal a responsive, innovative, interactive
+  forum, a "publication" that would bridge the academic and popular, the local
+  and the global, and the traditional and the new. LARB will have kept on the
+  cutting edge of any new technologies useful to its mission and its readers.
+  LARB will have helped keep alive the fine arts of editing, proofreading, and
+  fact-checking, and will continue training new generations in them. LARB will
+  have developed multiple platforms for use in instruction from the early grades
+  through graduate colleges. The best that is being thought and written and
+  produced in 2050 would be finding its maximum audience. LARB will have
+  established itself as among the very few leading forums for arts and culture
+  in the world. And instead of losing ground, as predicted in the GOOD report,
+  Los Angeles, through the vitality of its literature, arts, and culture, will
+  have increased its ability to enhance human development, both in the city and
+  county, and far beyond.
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/los-angeles-review-of-books/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22625%252Fdisplay%252Flarb_logo.jpg=c570x385.jpg
 maker_image_id: '22625'

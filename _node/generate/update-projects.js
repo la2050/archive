@@ -244,32 +244,57 @@ const attributes = [
 
 
 // '2013': 
- 'What is your idea and how will it impact your indicator?',
- 'What are some of your organization’s most important achievements to date?',
- 'Please identify any partners or collaborators who will work with you on this project.',
- 'Please explain how you will evaluate your project. How will you measure success?',
- 'How will your project benefit Los Angeles? Please be specific.',
- 'What would success look like in the year 2050 regarding your indicator?',
+  'description1',
+  'collaborators',
+  'success',
+  'description',
+  'vision',
 
 // '2014': 
- 'Which area(s) of LA does your project benefit? Other (elaborate)',
- 'What is your idea/project in more detail?',
- 'What will you do to implement this idea/project?',
- 'How will your idea/project help make LA the best place to connect today? In LA2050?',
- 'Whom will your project benefit? Please be specific.',
+  "Please describe yourself",
+  "one_sentence_project",
+  "one_sentence_org",
+  "Does your project impact Los Angeles County?",
+  "Which area(s) of LA does your project benefit?",
+  "more_detail",
+  "implement",
+  "impact_learn",
+  "impact_create",
+  "impact_play",
+  "impact_connect",
+  "impact_live",
+  "who_benefit",
+  "collaboration",
+  "partners_collaboration",
+  "How will your project impact the LA2050 “Learn” metrics?",
+  "How will your project impact the LA2050 “Create” metrics?",
+  "How will your project impact the LA2050 “Play” metrics?",
+  "How will your project impact the LA2050 “Connect” metrics?",
+  "How will your project impact the LA2050 “Live” metrics?",
+  "impact_metrics",
+  "evaluate",
+  "two_lessons",
+  "achievable_goal",
+  "major_challenges",
+  "What resources does your project need?",
 
 // '2015': 
- 'areas_impacted',
- 'partners',
- 'Please specify below',
- 'Describe in greater detail how you will make LA the best place to connect:',
- 'Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?',
- 'Please explain how you will evaluate your work.',
- 'Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?',
- 'Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?',
- 'How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?',
- 'Please include a detailed budget of how you will use $100,000 to implement this project.',
- 'How do you plan to scale the success of your proposal?',
+  "In one sentence, please describe what your organization does",
+  "In one to three sentences, please describe your proposal.",
+  "Where will you be working?",
+  "How do you plan to use these resources to make change?",
+  "How will your proposal improve the following “Learn” metrics?",
+  "How will your proposal improve the following “Create” metrics?",
+  "How will your proposal improve the following “Play” metrics?",
+  "How will your proposal improve the following “Connect” metrics?",
+  "How will your proposal improve the following “Live” metrics?",
+  "Describe in greater detail how you will make LA the best place to learn.",
+  "Describe in greater detail how you will make LA the best place to create.",
+  "Describe in greater detail how you will make LA the best place to play.",
+  "Describe in greater detail how you will make LA the best place to connect.",
+  "Describe in greater detail how you will make LA the healthiest place to live:",
+  "Please explain how you will evaluate your work.",
+  "How can the LA2050 community and other stakeholders help your proposal succeed?",
 
 // '2016': 
 
@@ -1452,7 +1477,17 @@ function processFile(filename) {
   delete data.yaml['How do you plan to scale the success of your proposal?']
   */
 
-  // saveMarkdown(filename, data)
+  // if (data.yaml.maker_answers) {
+  //   for (let prop in data.yaml.maker_answers) {
+  //     if (data.yaml.maker_answers.hasOwnProperty(prop)) {
+  //       data.yaml[prop] = data.yaml.maker_answers[prop]
+  //       delete data.yaml.maker_answers[prop]
+  //     }
+  //   }
+  // }
+
+
+  saveMarkdown(filename, data)
 }
 
 
