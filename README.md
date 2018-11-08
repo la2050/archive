@@ -137,4 +137,3 @@ jekyll build && jekyll serve --host=0.0.0.0 --incremental --skip-initial-build
 * [Liquid for Designers](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
 * [Jekyll](https://jekyllrb.com/docs/home/)
 * [GitHub Pages](https://pages.github.com)
-
