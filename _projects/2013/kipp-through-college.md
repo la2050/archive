@@ -76,7 +76,7 @@ project_summary: >-
   underserved communities.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17303%252Fdisplay%252FKIPPThroughCollege3.jpg=c570x385
-description1: >-
+What are some of your organization’s most important achievements to date?: >-
   If it were a district, KIPP LA would be the highest performing in Los Angeles
   County serving a majority of students from low-income communities.  For nearly
   a decade, KIPP LA’s schools have been proving what is possible in raising
@@ -92,7 +92,7 @@ description1: >-
   above the national average in English language arts. Finally, 96 percent of
   KIPP LA alumni are attending high-performing, college-prep high schools, and
   nearly 85 percent are currently enrolled in college.
-collaborators: >-
+Please identify any partners or collaborators who will work with you on this project.: >-
   KIPP LA and the KTC team work closely with high schools, colleges, and
   universities that our alumni attend to ensure that they are succeeding on
   their journeys to and through college. KTC is also working to formalize these
@@ -101,8 +101,8 @@ collaborators: >-
   partnerships will identify strategies that educational institutions can
   implement to help close the achievement gap for all students of color and
   first-generation college students.
-success: "A key ingredient to KIPP LA’s success is our commitment to data-driven decision-making and transparency. The KTC team regularly evaluates both quantitative and qualitative data to ensure that we are having the greatest impact possible on our students’ lives. This includes the number of students who matriculate to high-performing high schools, the number of students who participate in KTC support services such as financial aid assistance and counseling, and the number of students who enter, persist in, and graduate from selective colleges and universities.</br></br>In the coming year, KIPP LA and KTC will strive to meet the following goals and objectives:</br></br>\r\n•  Each year, KIPP LA’s middle schools will place 95 percent of eighth graders in college-preparatory high schools (high schools that provide college counseling for all students, offer the “A-G” courses the University of California requires, and have an Academic Performance Index score of 800+).</br>\r\n•  At least 80 percent of KIPP LA middle school alumni will enroll in college each year.</br>\r\n•  At least 10 percent of KIPP LA alumni in grades 9-12 will attend a summer or enrichment program.</br>\r\n•  At least 15 percent of KIPP LA alumni in grades 9-12 will participate in KTC enrichment programs, (such as the alumni volunteer program, internship program, job shadowing, career networking party, college partnership summer programs, college tours/fairs, and application boot camps).</br>\r\n•  At least 80 percent of KIPP LA alumni will persist in college. "
-description: >-
+Please explain how you will evaluate your project. How will you measure success?: "A key ingredient to KIPP LA’s success is our commitment to data-driven decision-making and transparency. The KTC team regularly evaluates both quantitative and qualitative data to ensure that we are having the greatest impact possible on our students’ lives. This includes the number of students who matriculate to high-performing high schools, the number of students who participate in KTC support services such as financial aid assistance and counseling, and the number of students who enter, persist in, and graduate from selective colleges and universities.</br></br>In the coming year, KIPP LA and KTC will strive to meet the following goals and objectives:</br></br>\r\n•  Each year, KIPP LA’s middle schools will place 95 percent of eighth graders in college-preparatory high schools (high schools that provide college counseling for all students, offer the “A-G” courses the University of California requires, and have an Academic Performance Index score of 800+).</br>\r\n•  At least 80 percent of KIPP LA middle school alumni will enroll in college each year.</br>\r\n•  At least 10 percent of KIPP LA alumni in grades 9-12 will attend a summer or enrichment program.</br>\r\n•  At least 15 percent of KIPP LA alumni in grades 9-12 will participate in KTC enrichment programs, (such as the alumni volunteer program, internship program, job shadowing, career networking party, college partnership summer programs, college tours/fairs, and application boot camps).</br>\r\n•  At least 80 percent of KIPP LA alumni will persist in college. "
+How will your project benefit Los Angeles?: >-
   The neighborhoods of South and East Los Angeles, where KIPP LA students and
   alumni live, face astonishingly high levels of illiteracy, drug abuse, gang
   violence, and juvenile crime. Schools are overcrowded and underperforming;
@@ -138,7 +138,7 @@ description: >-
   supporting KIPP LA is not only an investment in underserved students’
   education and preparation for college; it is an investment in the future of
   our city and country. 
-vision: >-
+What would success look like in the year 2050 regarding your indicator?: >-
   In 2050, success in education would mean that every student in Los Angeles,
   regardless of their zip code or demographics, attends a high-quality,
   college-preparatory school from kindergarten through 12th grade. Ultimately,

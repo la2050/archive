@@ -19,26 +19,26 @@ project_summary: >-
   ways possible.  
 project_image: 'https://img.youtube.com/vi/-wRfwMCYTHY/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/-wRfwMCYTHY'
-description1: >-
+What are some of your organization’s most important achievements to date?: >-
   More than 2,000 members of the public were trained by Avis Ridley-Thomas in
   the years that I oversaw the Los Angeles City Attorney's Dispute Resolution
   Program of the Office of the Los Angeles City Attorney.  Emeritus UCLA
   Professor Buzz Wilms initiated a class at UCLA in 2001, and hundreds of
   undergraduates have been trained as a result of that class.
-collaborators: >-
+Please identify any partners or collaborators who will work with you on this project.: >-
   There is a vibrant dispute resolution and dialogue and deliberation community
   in Los Angeles.  All of these collaborators will be made aware and invited to
   participate in this initiative, if it is selected for funding.
-success: >-
+Please explain how you will evaluate your project. How will you measure success?: >-
   We will train and work with hundreds of people who want to find better ways of
   communicating and resolving conflict.  They will obtain a better understanding
   of community resources to assist them, and learn to intervene effectively to
   help resolve disputes wherever they occur.
-description: >-
+How will your project benefit Los Angeles?: >-
   It will help advance the mission of "a mediator on every block," allowing
   neighbors, co-workers and family members to better interact and create more
   profound social connections.
-vision: >-
+What would success look like in the year 2050 regarding your indicator?: >-
   Listening, communication and mediation skills would be standard curriculum in
   schools, and standard operating procedure at homes and in workplaces
   throughout Los Angeles.  Any persons involved in miscommunication,

@@ -30,7 +30,7 @@ project_summary: >-
   doing what we do out of love for our fellow man and for no other reason. 
 project_image: 'https://img.youtube.com/vi/vZOFIeiYKwA/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/vZOFIeiYKwA'
-description1: >-
+What are some of your organization’s most important achievements to date?: >-
   Having been called into being as volunteers by the City of West Hollywood in
   1987, we suffered the awful realization just two years later that West
   Hollywood, as a political entity, wasn't ready to defend a group that was
@@ -58,15 +58,15 @@ description1: >-
   at the takeoff point, in that every new volunteer who means it has a new idea
   as to how we can reach deeper into the community and how we can avail
   ourselves of its strength to do more for the weakest among us.
-collaborators: "The US Department of Housing and Urban Development\r\nThe Housing Authority of the County of Los Angeles\r\nThe Housing Authority of the City of Los Angeles\r\nThe Department of Social Services of The City of West Hollywood\r\nThe Social Security Administration\r\nThe Department of Social Services of the County of Los Angeles\r\nSt. Victor Roman Catholic Church in West Hollywood\r\nSt. Paul Roman Catholic Church in Westwood\r\nThe Hollyood Division of the Los Angeles Police Department\r\nThe Los Angeles County Sheriff's Department for West Hollywood\r\nGETTLOVE\r\nPATH\r\nHousingWorks\r\nThe Business Improvement District (BID) for the Media District\r\nThe Hollywood Business Owners' Alliance and Hwd4ward\r\nOur administrative umbrella agency Special Service for Groups"
-success: >-
+Please identify any partners or collaborators who will work with you on this project.: "The US Department of Housing and Urban Development\r\nThe Housing Authority of the County of Los Angeles\r\nThe Housing Authority of the City of Los Angeles\r\nThe Department of Social Services of The City of West Hollywood\r\nThe Social Security Administration\r\nThe Department of Social Services of the County of Los Angeles\r\nSt. Victor Roman Catholic Church in West Hollywood\r\nSt. Paul Roman Catholic Church in Westwood\r\nThe Hollyood Division of the Los Angeles Police Department\r\nThe Los Angeles County Sheriff's Department for West Hollywood\r\nGETTLOVE\r\nPATH\r\nHousingWorks\r\nThe Business Improvement District (BID) for the Media District\r\nThe Hollywood Business Owners' Alliance and Hwd4ward\r\nOur administrative umbrella agency Special Service for Groups"
+Please explain how you will evaluate your project. How will you measure success?: >-
   We will measure it one homeless person at a time -- who is no longer homeless
   but back with the rest of us:  indoors, with a place to sleep at night, a
   place to wash and keep clean, a place to be warm and safe and to store clothes
   and other things, and a place to receive friends and family, as if having
   friends and family again wasn't just a matter of figuring out how to survive
   but a matter of living and enjoying life.
-description: >-
+How will your project benefit Los Angeles?: >-
   Getting fifteen chronically homeless people off the street and into permanent
   housing will (1) vastly reduce the amount of taxpayer money spent to take care
   of them IN the street -- in shelters, in emergency rooms and hospitals, in
@@ -79,7 +79,7 @@ description: >-
   will return them to a position of productivity alongside the rest of us:  to
   jobs, to social and political interactions of all kinds, and (sure enough) to
   VOLUNTEERING to help others who are still on the downward spiral.
-vision: >-
+What would success look like in the year 2050 regarding your indicator?: >-
   Success in 2050 would be the citizens of Los Angeles -- not the politicians,
   not the activists, not the social service agencies, but the citizens -- long
   since having awakened to the fact that life is only wonderful if the wonder of

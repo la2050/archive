@@ -9,7 +9,7 @@ title: LA the capital of mindfulness in 2050
 project_summary: "<p>Our idea is to transform the health of Los Angeles by catalyzing a mindfulness movement and changing behavior upstream. Working with health care professionals, schools, hospitals, clinics, businesses, community centers, and citizen leaders we will provide the tools, teachings, and network of teachers to help more people learn how to install healthy behaviors that benefit ourselves, our families, our institutions, and our city.</p>\r\n\r\n<p>There are three specific components of this idea: </p>\r\n\r\n<p>1. Expand the existing InsightLA training programs for health care professionals, which currently provide mindfulness training to health care professionals at Children's Hospital of Los Angeles (CHLA) and other LA hospitals (UCLA Mattel Children's Hospital, St John's, Cedars-Sinai) and hospice programs, including a partnership with Skirball. Nurses, doctors, respiratory & other therapists, social workers, chaplains, and interpreters all receive mindfulness training. The program has proven to be popular and beneficial to the many health care professionals who have attended over the last six years. As eighty percent of child deaths in hospitals occur in ICUs, the mindfulness retreats were initially created to help PICU (Pediatric ICU) and NICU (Neonatal ICU) staffers deal with the grief of multiple losses. The program has since expanded to include practitioners from other units, including Hematology-oncology, Cardio-thoracic, Surgery, Adolescent Medicine, and Bone Marrow Transplant. We are interested in expanding this program by launching a teacher training program that specializes on serving the health care system and the people who provide care. </p>\r\n\r\n<p>2. Repair and open a new 17 acre property that has recently been transferred to InsightLA and can serve as a center for mindfulness in the heart of the city. The property is a unique asset offering access to nature, canyon views, native plants, and hiking trails. An estimated $75,000 are needed this year for basic repairs to make the space usable. Once those repairs are made, we intend to hold a retreat for professional caregivers from area hospitals and hospices, and with this grant we would also package the case study to create manuals and show how this model can be scaled to other health institutions in LA. We can also utilize the space to create similar programs targeted to specific professional fields and workplaces throughout the city, as well as community colleges and LAUSD, offering leadership trainings to help current and future leaders develop mindfulness tools to help solve LA's most pressing challenges.</p>\r\n\r\n<p>3. Grow the network of teachers and programs that exists across LA in health care institutions, schools, and community centers through a Los Angeles Mindfulness Ambassador initiative. Currently, all InsightLA programs are open to the public, and participation is increasing. In addition to helping InsightLA launch a unique physical space, this project will help InsightLA take the mindfulness training programs online to increase reach and accessiblity of the trainings. Through this offline / online hybrid model, the project will effectively generate mindful leadership and action across our cultural, institutional, and community assets.</p>"
 project_image: 'https://img.youtube.com/vi/lLS50WusJa4/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/lLS50WusJa4'
-description1: >-
+What are some of your organization’s most important achievements to date?: >-
   We have trained more than 10,000 individual students in mindfulness. We have
   successfully maintained daily programs for which NO person is turned away for
   lack of funds. We have trained nurses, doctors, and social workers in
@@ -23,8 +23,8 @@ description1: >-
   Valley and South Bay. We have brought in nationally renowned speakers and held
   large public forums to educate citizens about how mindfulness can improve
   their lives.
-collaborators: "<p>Our intention is to partner wherever possible and appropriate to help scale the impact.\r\n\r\nChildren's Hospital of Los Angeles is the initial pilot for a health care institution, and we will look to build on existing partnerships with UCLA Pediatric Pain Program, UCLArts and Healing, the SIMMS/MANN Center for Integrative Oncology, the Cancer Support Community-Benjamin Center, and the LA Veteran's Administration.\r\n\r\nGreen Yoga Association, or another relevant partner, will serve as an environmental steward for the 17 acre property. \r\n\r\nFoundation for a Mindful Society (Mindful magazine & Mindful.org) will help document the pilot programs.\r\n\r\nInsightLA Ed, the educational arm of InsightLA, will administer education and training programs."
-success: >-
+Please identify any partners or collaborators who will work with you on this project.: "<p>Our intention is to partner wherever possible and appropriate to help scale the impact.\r\n\r\nChildren's Hospital of Los Angeles is the initial pilot for a health care institution, and we will look to build on existing partnerships with UCLA Pediatric Pain Program, UCLArts and Healing, the SIMMS/MANN Center for Integrative Oncology, the Cancer Support Community-Benjamin Center, and the LA Veteran's Administration.\r\n\r\nGreen Yoga Association, or another relevant partner, will serve as an environmental steward for the 17 acre property. \r\n\r\nFoundation for a Mindful Society (Mindful magazine & Mindful.org) will help document the pilot programs.\r\n\r\nInsightLA Ed, the educational arm of InsightLA, will administer education and training programs."
+Please explain how you will evaluate your project. How will you measure success?: >-
   We will measure success by the ability to open the 17 acre facility this year,
   which currently is unfunded; by the number of health care professionals and
   community leaders who are trained in mindfulness; the number of new
@@ -37,7 +37,7 @@ success: >-
   empirically-proven, scientifically-validated, experientially-contagious,
   cost-effective solution of meditation and mindfulness. Therefore, the number
   of influencers going through the program will also be tracked.
-description: >-
+How will your project benefit Los Angeles?: >-
   <p>This project will create a world class resource for training leaders in the
   mindfulness movement in the heart of Los Angeles. With new access to a
   property of 17 acres of pristine nature, this project will enable InsightLA to
@@ -54,7 +54,7 @@ description: >-
   and training to be more mindful and considerate about the way we engage with
   the social, political, and natural environment and contribute to our families,
   our communities, and our city.</p>
-vision: >-
+What would success look like in the year 2050 regarding your indicator?: >-
   In 2050, LA is locally, nationally, and globally recognized as a leader in
   mindfulness. Thousands of active LA Mindfulness Ambassadors represent all of
   our neighborhoods and institutions. LA is seen as the city that pioneered

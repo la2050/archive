@@ -9,7 +9,7 @@ title: Financial Enrichment and Management (collegiate class of 20182019)
 project_summary: "Lambda Theta Nu Sorority, Incorporated’s overall objective is to implement a financial management class for high school students ages 15-18.  This class will prepare and empower them with financial literacy and the ability to respect and understand the distinction between spending money and using money, becoming effective citizens in a global economic society.\r\n\r\nThe overall impact will teach inner city youth traditionally underexposed to the tools of financial literacy, 1) how to use a bank effectively, 2) the importance of credit, 3) saving your money vs. spending your money, 4) why all money is not “good money,\" and 5) money and college.\r\n"
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16587%252Fdisplay%252Fphoto-33.JPG=c570x385
-description1: >-
+What are some of your organization’s most important achievements to date?: >-
   As a non-profit organization we cater to the female youth through our
   programming. Through our philanthropy "TIJERAS," cutting through to enhance
   education opportunities, we fundraise hundreds of dollars every year to donate
@@ -21,14 +21,14 @@ description1: >-
   encourages students to pursue a higher education and we offer them the tools
   and support to do so.
 collaborators: ''
-success: >-
+Please explain how you will evaluate your project. How will you measure success?: >-
   Evaluation of the project will be in the form of weekly student activity logs,
   pre and post surveys, quizzes, and monitoring of the students. Our success
   will be measured by monitoring student participation in the weekly student
   activities and workshops, success of the students in using their money
   effectively during workshops and activities, as well as their scores from the
   pre-quiz to the post quiz for the program.
-description: >-
+How will your project benefit Los Angeles?: >-
   Statistics from the California High School Performance Reports presented by
   the State Department of Education indicate that only 63.5% of the Los Angeles
   Unified School District (LAUSD) students graduate from high school. Those
@@ -38,7 +38,7 @@ description: >-
   necessary skills needed to succeed in life. Our classes will enable students
   to enter the workforce with more positive and realistic aspirations. Students
   statistically expected to underachieve will be empowered to do the opposite.
-vision: >-
+What would success look like in the year 2050 regarding your indicator?: >-
   In the year 2050 this group of students would have reached out to two more
   generations of students developing their financial enrichment, thus advancing
   the effect of this program implemented in 2013. Los Angeles will see that more

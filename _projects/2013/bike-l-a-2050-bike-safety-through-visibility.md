@@ -19,7 +19,7 @@ project_summary: >-
   safety of bicyclists on city streets.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16963%252Fdisplay%252F2019409068.jpg=c570x385
-description1: >-
+What are some of your organization’s most important achievements to date?: >-
   We have been involved in a number of projects focusing on urban mobility and
   the interface with cities and the built environment. Marc Alt was founding
   Executive Director of the Green Parking Council, a non-profit organization
@@ -29,7 +29,7 @@ description1: >-
   Marc has also worked with some of the leading companies in the automotive,
   architecture and engineering fields on urban mobility projects, including the
   launch of electric vehicles and charging infrastructure.
-collaborators: >-
+Please identify any partners or collaborators who will work with you on this project.: >-
   We would like to partner with numerous bicycling advocacy groups working in
   L.A. on various aspects of bicycle transportation and urban planning,
   community advocacy, access and safety. We would also like to partner with L.A.
@@ -37,16 +37,16 @@ collaborators: >-
   Coalition, LADOT, CicLAvia and many of the other advocacy groups that are
   passionate about raising awareness about bicycling safety and improving access
   to safe biking on city and county streets.
-success: >-
+Please explain how you will evaluate your project. How will you measure success?: >-
   Using measuring devices from companies such as Eco Counter, actual metrics of
   increases in numbers of bicyclists on city roads will be captured and
   reported. Baseline and target metrics will be established in partnership with
   the city and county's master plans for bicycling.
-description: >-
+How will your project benefit Los Angeles?: >-
   Increasing the visibility of bicyclists will improve the safety of biking in
   L.A. and will in turn lead to more people feeling comfortable choosing to
   commute via bicycle.
-vision: "By 2050, a large network of monitoring devices and sensors would be installed throughout the L.A. region, both stationary counting devices and mobile sensing devices via bike-mounted sensors, mobile apps on cellphones and other open source counting, measuring and monitoring devices. This open data would be aggregated and made available to the public and to L.A. County to integrate into existing and future smart city traffic monitoring programs, allowing bicycle traffic to be included in city and county-wide realtime traffic monitoring programs.\r\n\r\nThe biggest success indicator would be increase in public awareness of bike safety, a measurable reduction of bicycling accidents involving vehicles, improvements in human health and well-being due to increased outdoor activity, reduced vehicle miles, improved air quality and a sense of wellbeing and community that has been documented in cultures that use bicycles for commuting."
+What would success look like in the year 2050 regarding your indicator?: "By 2050, a large network of monitoring devices and sensors would be installed throughout the L.A. region, both stationary counting devices and mobile sensing devices via bike-mounted sensors, mobile apps on cellphones and other open source counting, measuring and monitoring devices. This open data would be aggregated and made available to the public and to L.A. County to integrate into existing and future smart city traffic monitoring programs, allowing bicycle traffic to be included in city and county-wide realtime traffic monitoring programs.\r\n\r\nThe biggest success indicator would be increase in public awareness of bike safety, a measurable reduction of bicycling accidents involving vehicles, improvements in human health and well-being due to increased outdoor activity, reduced vehicle miles, improved air quality and a sense of wellbeing and community that has been documented in cultures that use bicycles for commuting."
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/bike-l-a-2050-bike-safety-through-visibility/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16963%252Fdisplay%252F2019409068.jpg=c570x385.jpg
 maker_image_id: '16963'

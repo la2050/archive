@@ -46,7 +46,7 @@ project_summary: >-
   college opportunity for a larger number of students.
 project_image: 'https://img.youtube.com/vi/jGa5KEowRPM/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/jGa5KEowRPM'
-description1: >-
+What are some of your organization’s most important achievements to date?: >-
   The Pullias Center for Higher Education is dedicated to improving access to
   college for low-income and historically under-represented students. The
   academic arm of our Center has focused on: (1) researching how students,
@@ -80,9 +80,9 @@ description1: >-
   and careers. Our games were developed and pilot tested in Los Angeles and are
   now utilized nationally. My LA2050 funding would enable us to expand these
   programs and train practitioners on how to make use of the game-based tools.
-collaborators: "High schools within the Los Angeles Unified School District: Belmont, Crenshaw, Dorsey, Foshay Learning Center, Fremont, Manual Arts, Marshall, Roosevelt, Roybal Learning Center\r\nUSC Game Innovation Lab\r\nCash for College- Los Angeles Chamber of Commerce\r\nNational College Access Network\r\nSouthern California College Access Network\r\nCollege Access Foundation of California\r\nSelected businesses - to be determined\r\n"
-success: "With regards to the effects of the programs on students outcomes, we will measure success by administering surveys to students prior to and post participation in our programs. The surveys will be designed to collect data on the effects of the program on college knowledge and college-going efficacy. We also will conduct selected focus groups with students and practitioners in order to gain a deeper  understanding of which practices are working best for students and their teachers and/or counselors.\r\nWe will also evaluate the project by analyzing the numbers of game players and if/how those numbers increase, thus increasing traction in the project. We will also analyze back-end server data related to the games in order to ascertain the effects of game play on students' college aspirations and/or plans."
-description: >-
+Please identify any partners or collaborators who will work with you on this project.: "High schools within the Los Angeles Unified School District: Belmont, Crenshaw, Dorsey, Foshay Learning Center, Fremont, Manual Arts, Marshall, Roosevelt, Roybal Learning Center\r\nUSC Game Innovation Lab\r\nCash for College- Los Angeles Chamber of Commerce\r\nNational College Access Network\r\nSouthern California College Access Network\r\nCollege Access Foundation of California\r\nSelected businesses - to be determined\r\n"
+Please explain how you will evaluate your project. How will you measure success?: "With regards to the effects of the programs on students outcomes, we will measure success by administering surveys to students prior to and post participation in our programs. The surveys will be designed to collect data on the effects of the program on college knowledge and college-going efficacy. We also will conduct selected focus groups with students and practitioners in order to gain a deeper  understanding of which practices are working best for students and their teachers and/or counselors.\r\nWe will also evaluate the project by analyzing the numbers of game players and if/how those numbers increase, thus increasing traction in the project. We will also analyze back-end server data related to the games in order to ascertain the effects of game play on students' college aspirations and/or plans."
+How will your project benefit Los Angeles?: >-
   Our project will help improve the college-going rates at high schools that
   have the lowest college-going rates within the Los Angeles Unified School
   District.  Many students who are eligible for college choose not to attend
@@ -112,7 +112,7 @@ description: >-
   of college counselors having to work with enormous case loads and students can
   have the one on one interaction needed to understand how to navigate the
   college admissions and financial aid processes.
-vision: >-
+What would success look like in the year 2050 regarding your indicator?: >-
   Currently California ranks 40th among the states in the rate of high school
   graduates going directly to college.  By 2050, we hope to increase
   college-going rates by 15-20% by working directly with students who are

@@ -9,7 +9,7 @@ title: f2 FutureFest LA
 project_summary: "The f2: FutureFest LA \r\n\r\nThe c3: Center for Conscious Creativity www.consciouscreativity.org proposes producing the launch of an annual \"worlds fair\" type LA cultural event featuring emerging entertainment technologies and the latest creations in the arts, entertainment and media industries with emphasis on how the arts, entertainment and creativity can create a better world. \r\n\r\nInitially, the f2 will take place downtown LA at LA Center Studios www.lacenterstudios.com and will feature a futures film festival, an arts and emerging technologies showcase and a music concert for a challenge/cause.  The buildings at the LA Center Studios will become canvases for unique digital projection mapping creations and the Vortex Dome www.vorteximmersion.com located at the studio will house a fulldome festival showcase as well.  The first of its kind in Los Angeles.  \r\n\r\nThe festival will also include the STATE OF THE ARTS symposium featuring thought leaders and experts addressing the latest trends in the arts and entertainment industries and will provide ideas and case studies around how the arts, creativity, entertainment and storytelling can be used to create a better world/future.  \r\n\r\nThe c3 has presented the STATE OF THE ARTS since 2010 when it first launched as a collaborative partner with the LA Opera's RING FEST LA www.c3so.com and www.c3visionlab.org and would now propose adding the f2 to its offerings in honor of the City of LA.  \r\n\r\nThe f2 will serve as an annual magnet attracting the world's greatest artists and creators and technology innovators to participate along the city's own talent pool.   It will be modeled after the tremendously successful Venice Biennale, SXSW in Austin, Texas, and the Fringe Festival in Endinburgh, Scotland (Statistics for 2011 Edinburgh Festival Fringe concluded that it was the largest on record: there were over 40,000 performances of over 2,500 different shows in 258 venues.  Ticket sales amounted to around 1.8 million.  There are now 12 full-time members of staff.  For more details visit:  http://en.wikipedia.org/wiki/Edinburgh_Festival_Fringe).  \r\n\r\nThe f2 has the potential to become a global event that could rival the Edinburgh Fringe Festival potentially attracting millions of visitors to the city for this annual event as it seeds in the Fall of 2013 and then gradually involves the entire City of Greater Los Angeles, the Creative Capital of the World, to participate.  \r\n\r\nThe arts and creativity of children and students will also be included and arts and media colleges will also participate by encouraging their students to participate in the annual event.  \r\n\r\n  "
 project_image: 'https://img.youtube.com/vi/n_itMCVl124/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/n_itMCVl124'
-description1: >-
+What are some of your organization’s most important achievements to date?: >-
   In 2009 the c3 created a partnership with The Millennium Project
   www.millennium-project.org, a global futurists think tank, and the founder of
   c3 serves as the Chair of their Global Arts and Media Node.  Together with the
@@ -34,7 +34,7 @@ description1: >-
   with a renowned 83 year old ballet dancer/choreographer.  The piece, BLUE
   APPLE, was successfully premiered in September 2012 in the Vortex Dome to a
   very appreciative audience.  
-collaborators: >-
+Please identify any partners or collaborators who will work with you on this project.: >-
   The Millennium Project www.millennium-project.org will co-present with the c3
   as they have since 2010.  Futurists and PhDs David Wright and Jose Ramos,
   amongst other futurists, will participate in presenting the f3 futures film
@@ -43,13 +43,13 @@ collaborators: >-
   education and projects for children and youth so as to involve them in the
   festival as well.  Cal Arts. Otis, USC, UCLA, Art Center, Chapman College will
   be invited to have their students participate.   
-success: >-
+Please explain how you will evaluate your project. How will you measure success?: >-
   The f2 will be deemed a success by evaluating the number of artists and
   attendees who participate in the festival and the symposium who have a
   positive experience.  Optimal financial success will be measured by the total
   income and profit made from the event so that the f2 can continue to be
   produced and evolve into the future.  
-description: >-
+How will your project benefit Los Angeles?: >-
   Los Angeles would benefit by hosting a unique annual world famous arts and
   entertainment event much like SXSW has done for Austin, Texas, the Venice
   Biennale has done for Venice, Italy and the Fringe Fest has done for
@@ -60,7 +60,7 @@ description: >-
   publicity they will gain from participating in the f2, the  tourism industry
   in LA will benefit and LA will stay at the cutting edge of creativity and
   technology due to being inspired to showcase this event each year.  
-vision: >-
+What would success look like in the year 2050 regarding your indicator?: >-
   Much like the World's Fair and the Venice Biennale, the f2: FutureFest LA will
   have grown to become a prestigious citywide global festival that persons of
   all ages participate in.  It will inspire year round innovative project

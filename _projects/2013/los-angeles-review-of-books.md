@@ -65,7 +65,7 @@ project_summary: >-
   to have their greatest impact, to realize their greatest potential.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22625%252Fdisplay%252Flarb_logo.jpg=c570x385
-description1: >-
+What are some of your organization’s most important achievements to date?: >-
   We have already partially succeeded in bringing a sense of community to the
   cultural life of L.A. in a new way. We are training a new generation in the
   lost art of editing. We have built something the literary, artistic, &
@@ -106,7 +106,7 @@ description1: >-
   Our pieces are reprinted by Salon, Daily Beast, & publications in Brazil,
   Germany & elsewhere. And we have managed to begin working toward
   sustainability, increasing our income significantly. 
-collaborators: >-
+Please identify any partners or collaborators who will work with you on this project.: >-
   We collaborate, first and foremost, with the 100s of contributors and our 100s
   of contributing editors, the majority of whom are L.A.-based. We are
   collaborating with our readers, whose comments are an increasingly important
@@ -117,7 +117,7 @@ collaborators: >-
   universities, and literary groups around the country, co-sponsoring events,
   doing cross-promotion on our sites and in social media. We have also started
   to work with LAUSD, a pilot program at Animo Pat Brown Charter H.S.
-success: >-
+Please explain how you will evaluate your project. How will you measure success?: >-
   There are 5 central measurements we use to assess how we are doing. (1) We
   will measure our readership. Although our most engaged readers are in L.A., we
   now have readers in 150 countries and in all 50 states reading almost a half
@@ -158,7 +158,7 @@ success: >-
   workshops we provide our interns to other high school, college students &
   recent graduates. If we are serving a broad range of L.A. communities we will
   consider ourselves a success.
-description: >-
+How will your project benefit Los Angeles?: >-
   LARB will provide, for the people of Los Angeles, a source of lifetime
   learning, global in scope and yet local in its perspective and in many of its
   concerns. Our website will be a meeting place for everyone interested in
@@ -189,7 +189,7 @@ description: >-
   the world. We will help recruit, train, and retain the writers and critics
   required to keep Los Angeles the most important city for arts and culture in
   the country.
-vision: >-
+What would success look like in the year 2050 regarding your indicator?: >-
   Los Angeles would be a city with a more vibrant, a more inclusive, a more
   intelligently discussed and more widely, globally appreciated cultural scene.
   The different literary communities, from the graphic novel readers and

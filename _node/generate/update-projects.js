@@ -245,37 +245,57 @@ const attributes = [
 
 // '2013': 
   'description1',
+  'What are some of your organization’s most important achievements to date?',
   'collaborators',
+  'Please identify any partners or collaborators who will work with you on this project.',
   'success',
+  'Please explain how you will evaluate your project. How will you measure success?',
   'description',
+  'How will your project benefit Los Angeles?',
   'vision',
+  'What would success look like in the year 2050 regarding your indicator?',
 
 // '2014': 
   "Please describe yourself",
   "one_sentence_project",
   "one_sentence_org",
+  "In one sentence, please describe your idea or project.",
   "Does your project impact Los Angeles County?",
   "Which area(s) of LA does your project benefit?",
   "more_detail",
+  "What is your idea/project in more detail?",
   "implement",
+  "What will you do to implement this idea/project?",
   "impact_learn",
+  "How will your idea/project help make LA the best place to LEARN today? In 2050?",
   "impact_create",
+  "How will your idea/project help make LA the best place to CREATE today? In 2050?",
   "impact_play",
+  "How will your idea/project help make LA the best place to PLAY today? In 2050?",
   "impact_connect",
+  "How will your idea/project help make LA the best place to CONNECT today? In 2050?",
   "impact_live",
+  "How will your idea/project help make LA the healthiest place to LIVE today? In 2050?",
   "who_benefit",
+  "Whom will your project benefit?",
   "collaboration",
   "partners_collaboration",
+  "Please identify any partners or collaborators who will work with you on this project.",
   "How will your project impact the LA2050 “Learn” metrics?",
   "How will your project impact the LA2050 “Create” metrics?",
   "How will your project impact the LA2050 “Play” metrics?",
   "How will your project impact the LA2050 “Connect” metrics?",
   "How will your project impact the LA2050 “Live” metrics?",
   "impact_metrics",
+  "Please elaborate on how your project will impact the above metrics.",
   "evaluate",
+  "Please explain how you will evaluate your project.",
   "two_lessons",
+  "What two lessons have informed your solution or project?",
   "achievable_goal",
+  "Explain how implementing your project within the next twelve months is an achievable goal.",
   "major_challenges",
+  "Please list at least two major barriers/challenges you anticipate. What is your strategy for ensuring a successful implementation?",
   "What resources does your project need?",
 
 // '2015': 
@@ -1486,6 +1506,64 @@ function processFile(filename) {
   //   }
   // }
 
+  // let projectAnswerMap2013 = {
+  //   'description1': 'What are some of your organization’s most important achievements to date?',
+  //   'collaborators': 'Please identify any partners or collaborators who will work with you on this project.',
+  //   'success': 'Please explain how you will evaluate your project. How will you measure success?',
+  //   'description': 'How will your project benefit Los Angeles?',
+  //   'vision': 'What would success look like in the year 2050 regarding your indicator?'
+  // }
+
+  // if (data.yaml.year_submitted == 2013) {
+  //   for (let prop in projectAnswerMap2013) {
+  //     if (projectAnswerMap2013.hasOwnProperty(prop)) {
+  //       if (data.yaml[prop]) {
+  //         data.yaml[projectAnswerMap2013[prop]] = data.yaml[prop]
+  //         delete data.yaml[prop]
+  //       }
+  //     }
+  //   }
+  // }
+
+  let projectAnswerMap2014 = {
+    // "Please describe yourself": "Please describe yourself",
+    "one_sentence_project": "In one sentence, please describe your idea or project.",
+    "one_sentence_org": "In one sentence, please describe your idea or project.",
+    // "Does your project impact Los Angeles County?",
+    // "Which area(s) of LA does your project benefit?",
+    "more_detail": "What is your idea/project in more detail?",
+    "implement": "What will you do to implement this idea/project?",
+    "impact_learn": "How will your idea/project help make LA the best place to LEARN today? In 2050?",
+    "impact_create": "How will your idea/project help make LA the best place to CREATE today? In 2050?",
+    "impact_play": "How will your idea/project help make LA the best place to PLAY today? In 2050?",
+    "impact_connect": "How will your idea/project help make LA the best place to CONNECT today? In 2050?",
+    "impact_live": "How will your idea/project help make LA the healthiest place to LIVE today? In 2050?",
+    "who_benefit": "Whom will your project benefit?",
+    "collaboration": "Please identify any partners or collaborators who will work with you on this project.",
+    "partners_collaboration": "Please identify any partners or collaborators who will work with you on this project.",
+    // "How will your project impact the LA2050 “Learn” metrics?",
+    // "How will your project impact the LA2050 “Create” metrics?",
+    // "How will your project impact the LA2050 “Play” metrics?",
+    // "How will your project impact the LA2050 “Connect” metrics?",
+    // "How will your project impact the LA2050 “Live” metrics?",
+    "impact_metrics": "Please elaborate on how your project will impact the above metrics.",
+    "evaluate": "Please explain how you will evaluate your project.",
+    "two_lessons": "What two lessons have informed your solution or project?",
+    "achievable_goal": "Explain how implementing your project within the next twelve months is an achievable goal.",
+    "major_challenges": "Please list at least two major barriers/challenges you anticipate. What is your strategy for ensuring a successful implementation?",
+    // "What resources does your project need?",
+  }
+
+  if (data.yaml.year_submitted == 2014) {
+    for (let prop in projectAnswerMap2014) {
+      if (projectAnswerMap2014.hasOwnProperty(prop)) {
+        if (data.yaml[prop]) {
+          data.yaml[projectAnswerMap2014[prop]] = data.yaml[prop]
+          delete data.yaml[prop]
+        }
+      }
+    }
+  }
 
   saveMarkdown(filename, data)
 }

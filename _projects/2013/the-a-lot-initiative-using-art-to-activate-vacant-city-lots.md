@@ -9,8 +9,8 @@ title: 'The A LOT Initiative: Using Art to Activate Vacant City Lots'
 project_summary: "Our A LOT Initiative will foster a stronger community identity, a sense of place, and revitalize economic development by way of supporting creative activity. Free events will promote the concept of creative placemaking, encouraging our community to animate public and private spaces, rejuvenate streetscapes, improve local business viability and public safety, while bringing together diverse people to celebrate, to inspire, and to be inspired. The A Lot Initiative will begin in Fall 2013.\r\n\r\n\r\nA LOT's primary goal is to broaden audience and artist engagement, as well as, expand geographic scope, with underserved communities especially benefiting. Rather than placing cultural activities in enclosed venues for a limited number of people for a couple of hours, the objective is to enliven vacant lots, streets, and entire areas with creative energy -- sound, light, visual art, and performance -- for days or even weeks at a time. In addition to engaging residents in the arts, A LOT is intended to increase pedestrian traffic and enliven streets with vacant storefronts, thus creating prospects for both \"pop-up\" and more permanent businesses to revitalize these neighborhoods. The projects' mobility is intended to offer this transformative opportunity to multiple neighborhoods creating lasting impact throughout the city."
 project_image: 'https://img.youtube.com/vi/nPa4Lu7CMPA/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/nPa4Lu7CMPA'
-description1: "Recipient of the National Endowment for the Arts Our Town Grant for $150,000. The Arts Council was one of 80 organizations selected from a pool of 317 applicants.  And, 1 of 6 organizations to receive the highest amount.  The Arts Council serves over 2500 students each year in the Arts Learning program. Every October, Long Beach Arts Month promotes over 500 events for National Arts and Humanities Month in Long Beach. This calendar reaches over 100,000 people all over Los Angeles. On average each year, the Arts Council distributes over 40 grants to artists and community based nonprofit arts organizations. \r\n"
-collaborators: >-
+What are some of your organization’s most important achievements to date?: "Recipient of the National Endowment for the Arts Our Town Grant for $150,000. The Arts Council was one of 80 organizations selected from a pool of 317 applicants.  And, 1 of 6 organizations to receive the highest amount.  The Arts Council serves over 2500 students each year in the Arts Learning program. Every October, Long Beach Arts Month promotes over 500 events for National Arts and Humanities Month in Long Beach. This calendar reaches over 100,000 people all over Los Angeles. On average each year, the Arts Council distributes over 40 grants to artists and community based nonprofit arts organizations. \r\n"
+Please identify any partners or collaborators who will work with you on this project.: >-
   A LOT aims to serve low-income residents by linking arts and culture
   participation with the mission of redevelopment, helping to revitalize
   economically-challenged neighborhoods with world-class performances that will
@@ -19,7 +19,7 @@ collaborators: >-
   Long Beach Development Services, a local government agency. Other partners in
   this effort include local neighborhood associations and groups, as well as
   business improvement districts throughout the city.
-success: >-
+Please explain how you will evaluate your project. How will you measure success?: >-
   The primary intended outcome of the project is that the Long Beach and Los
   Angeles County will be strengthened through the arts. A secondary outcome is
   public engagement with diverse and excellent art. Quantitative performance
@@ -37,7 +37,7 @@ success: >-
   greater interaction of cultures and ethnic groups. This information will be
   gathered through surveys and interviews with key staff of the partners and
   leaders of the community. 
-description: >-
+How will your project benefit Los Angeles?: >-
   Arts Council for Long Beach and its partners have embarked on a unique,
   initiative that blends arts participation with community redevelopment. The A
   LOT Initiative  will improve the vitality of traditionally underserved
@@ -49,7 +49,7 @@ description: >-
   neighborhood. While the current structure and focus of the initiative  is on
   underserved neighborhoods and residents in the Long Beach area, the project's
   concepts can be applied throughout the region.  
-vision: >-
+What would success look like in the year 2050 regarding your indicator?: >-
   In 2050, A LOT’s success will be seen throughout Los Angeles as vacant lots
   become cultural hubs bringing communities together. These spaces will
   transform the cultural landscape of communities building arts participation

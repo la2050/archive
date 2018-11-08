@@ -53,7 +53,7 @@ project_summary: >-
   coaching, feedback and collaboration and all students will benefit.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16507%252Fdisplay%252FFB_Cover_photo.jpg=c570x385
-description1: >-
+What are some of your organization’s most important achievements to date?: >-
   Founded in 2003 in response to the acute shortage of leadership and management
   talent in the education sector, Education Pioneers attracts, prepares, and
   advances top leaders, managers, and analysts to accelerate excellence in
@@ -69,14 +69,14 @@ description1: >-
   education by connecting our Alumni to high-impact careers in education and
   supporting them to succeed. More than 70 percent of our employed Alumni work
   full-time in education.
-collaborators: >-
+Please identify any partners or collaborators who will work with you on this project.: >-
   Education Pioneers (EP) has longstanding partnerships with dozens of
   organizations in Los Angeles. This project is explicitly structured to promote
   collaboration and knowledge sharing across the<b> Los Angeles Unified School
   District, PUC Schools, Camino Nuevo Charter Academy, </b>and additional EP
   partners who will be selected based on their desire to collaborate on
   generating replicable approaches.
-success: >-
+Please explain how you will evaluate your project. How will you measure success?: >-
   At the outset of the project, all organizations will agree on a few unifying
   key performance indicators which will be measured before, during, and after
   the fall semester of the 2013-2014 school year.  These indicators will include
@@ -85,7 +85,7 @@ success: >-
   perceptions on the effectiveness of the project will be taken via brief online
   surveys. <br><br>Finally, existing measures, like test scores, will be
   analyzed from year to year and compared between pilot and comparison schools.
-description: >-
+How will your project benefit Los Angeles?: >-
   Across Los Angeles every morning, 750,000 students enter their classrooms. 
   Each of these classrooms is led by a teacher. And each teacher should have a
   leader who can come into their classroom, observe their instruction and help
@@ -100,7 +100,7 @@ description: >-
   teachers in their classrooms during each school year. By 2050 this would lead
   to over <b>8 million</b> additional hours spent developing effective educators
   in LA. 
-vision: >-
+What would success look like in the year 2050 regarding your indicator?: >-
   In 2050, principals in Los Angeles will lead vibrant communities of effective
   educators who are reflective and committed to continuous improvement of their
   instructional practice. These principals will have high-functioning systems

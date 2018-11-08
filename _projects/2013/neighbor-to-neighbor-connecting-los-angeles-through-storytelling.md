@@ -27,7 +27,7 @@ project_summary: >-
   volunteers engaged, and best team cooperation. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16858%252Fdisplay%252FAccess_LA_Rt_copy.jpg=c570x385
-description1: >-
+What are some of your organization’s most important achievements to date?: >-
   Founded by UCLA students in 1982, Outfest is the leading organization that
   promotes equality by creating, sharing, and protecting LGBT (Lesbian, Gay,
   Bisexual and Transgender) stories on the screen. Outfest builds community by
@@ -39,7 +39,7 @@ description1: >-
   festivals in Southern California, the only LGBT people of color film festival,
   three filmmaking programs using mentors, and we have over 400 volunteers who
   participate in our programs. 
-collaborators: >-
+Please identify any partners or collaborators who will work with you on this project.: >-
   Outfest has over 80 community partners that we work with through our film
   festivals that include The Wall La Memorias Project, Jovenes Inc., Satrang,
   AIDS Project Los Angeles, Children’s Hospital Los Angeles, Gay-Straight
@@ -50,7 +50,7 @@ collaborators: >-
   neighborhood councils, such as the Historic Highland Park Neighborhood
   Council, who has been a key collaborator in a recent neighborhood based
   Outfest program. 
-success: >-
+Please explain how you will evaluate your project. How will you measure success?: >-
   In the short term, we will measure success by the number of volunteers who
   participate, the number of films that are completed, how well the teams work
   together, and how many community members were engaged to complete the
@@ -62,8 +62,8 @@ success: >-
   they learned in the project to get work. Ideally, this project will continue
   annually and will build stronger and deeper relationships within neighborhoods
   every year. 
-description: "By organizing diverse teams to tell a story about a local hero in 15 different neighborhoods across Los Angeles. This project will: \r\n1. Engage at least 300 volunteers. \r\n2. Build community among people of diverse backgrounds. \r\n3. Deepen connection to neighborhoods by highlighting local heroes. \r\n4. Provide basic training to at least 45 novice filmmakers who can transport their skills into the job force. "
-vision: "In 2050, Los Angeles neighborhoods will have actively engaged residents, who not only know their neighbors, but they know their neighbor’s histories and stories, as well as their local heroes. Community members will understand the issues that affect their neighborhoods, collaborate in uplifting the Los Angeles region, and participate in local government. The result of this connection and involvement is that all neighborhoods will have affordable housing, jobs within a 30-minute commute, and access to parks, arts, and culture. \r\n\r\nOur project, Neighbor to Neighbor: Connecting Los Angeles Through Storytelling, contributes to this picture of success by connecting people to each other through community-based collaborative storytelling and volunteerism. By working on a project together people will get to know each other, develop common bonds, become involved in their community and invested in making Los Angeles a better place to live for everyone. "
+How will your project benefit Los Angeles?: "By organizing diverse teams to tell a story about a local hero in 15 different neighborhoods across Los Angeles. This project will: \r\n1. Engage at least 300 volunteers. \r\n2. Build community among people of diverse backgrounds. \r\n3. Deepen connection to neighborhoods by highlighting local heroes. \r\n4. Provide basic training to at least 45 novice filmmakers who can transport their skills into the job force. "
+What would success look like in the year 2050 regarding your indicator?: "In 2050, Los Angeles neighborhoods will have actively engaged residents, who not only know their neighbors, but they know their neighbor’s histories and stories, as well as their local heroes. Community members will understand the issues that affect their neighborhoods, collaborate in uplifting the Los Angeles region, and participate in local government. The result of this connection and involvement is that all neighborhoods will have affordable housing, jobs within a 30-minute commute, and access to parks, arts, and culture. \r\n\r\nOur project, Neighbor to Neighbor: Connecting Los Angeles Through Storytelling, contributes to this picture of success by connecting people to each other through community-based collaborative storytelling and volunteerism. By working on a project together people will get to know each other, develop common bonds, become involved in their community and invested in making Los Angeles a better place to live for everyone. "
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2013/neighbor-to-neighbor-connecting-los-angeles-through-storytelling/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16858%252Fdisplay%252FAccess_LA_Rt_copy.jpg=c570x385.jpg
 maker_image_id: '16858'
