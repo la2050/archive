@@ -12,23 +12,19 @@ project_summary: >-
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20596%252Fdisplay%252FIMAG0233.jpg=c570x385
 project_video: ''
-impact_metrics: >-
-  The installation of sculptures will plant the seed for others to initiate
-  artistic endeavors thy otherwise would not attempt.  the installation of ANY
-  public art in these deprived neighborhoods is a significant gain in the
-  artistic availability to the community.
 project_areas:
   - CENTRAL LA
   - SOUTH LA
+Please identify any partners or collaborators who will work with you on this project.: "The collaborators for this project are local leaders and District 9 staff who will assist with site selection and the unveiling BBQ's.  These collaborators are not specifically named.  They will be contacted as sculpture projects are developed.  The number of collaboration participants will be small because the primary beneficiaries live and work in the immediate neighborhood.\r\n\r\n1. Community Involvement\r\n2. Communication between parties\r\n3. Recognition of contributions "
 Please describe yourself: Solo actor (just us on this project!)
-one_sentence_project: >-
+'In one sentence, please describe your idea or project.': >-
   Fabricate and install neighborhood sculptures that all cultures, races and
   income levels can connect with and take pride in.
 Does your project impact Los Angeles County?: Yes (benefits a region of LA County)
 Which area(s) of LA does your project benefit?:
   - Central LA
   - South LA
-more_detail: >-
+What is your idea/project in more detail?: >-
   Six to ten metal sculptures will be placed in neighborhoods with the intent to
   enhance public spaces and introduce art into a culture that is otherwise
   barren of community-based art.  The unveiling will  BBQ be proceeded by a
@@ -39,7 +35,7 @@ more_detail: >-
   installed. The public acceptance and positive reception has encouraged this
   application for funds. The fact that the sculpture has not been vandalized is
   testament to high public regard for the art.
-implement: >-
+What will you do to implement this idea/project?: >-
   Specific site selection for the sculpture locations will be coordinated with
   District 9 representatives and local leaders in small groups at face to face
   meetings.  An initial site will be based on visibility, site suitability, and
@@ -53,7 +49,7 @@ implement: >-
   decisions needed are straight forward. Fabrication of the metal structures is
   a one person job.  It is important that this application does not imply more
   complexity than there will be. 
-impact_create: >-
+How will your idea/project help make LA the best place to CREATE today? In 2050?: >-
   Presently, there is an obvious lack of public art and likewise lack of
   appreciation of art.  The grantee has experimented with placement of artistic
   pieces in public areas and has noted the inquisitiveness, attention, and
@@ -74,26 +70,30 @@ impact_create: >-
   replicated to change more communities.  Like the story of the person throwing
   small starfish into the ocean, small action, but it makes a big difference to
   the starfish.   
-who_benefit: >-
+Whom will your project benefit?: >-
   The project is intended to benefit those who live and work in the community. 
   The benefits are quality of life issues that are improved by positive changes
   to the environment. Those positively affected by the addition of art to the
   environment runs the gamut from old to young, male and female, business owner
   to the unemployed, rich and poor.  Any positive change in the environment or
   culture directly or indirectly changes things for the good - for everyone.
-partners_collaboration: "The collaborators for this project are local leaders and District 9 staff who will assist with site selection and the unveiling BBQ's.  These collaborators are not specifically named.  They will be contacted as sculpture projects are developed.  The number of collaboration participants will be small because the primary beneficiaries live and work in the immediate neighborhood.\r\n\r\n1. Community Involvement\r\n2. Communication between parties\r\n3. Recognition of contributions "
 How will your project impact the LA2050 “Create” metrics?:
   - Employment in creative industries
   - Arts establishments per capita
   - >-
     Measures of cultural and global economic influence (“soft power”) (Dream
     Metric)
-evaluate: "Predominately through the installation of metal sculptures.  The target is six to ten.  Involvement of the community.  Measured by response to the BBQ's and party.  \r\n\r\nSustainability - Longevity measured in the care the sculptures receive - vandalism "
-two_lessons: "1. Installation of sculpture on 58th and Broadway and the reaction of the neighborhood.\r\n\r\n2. Traveling through LA has revealed a stark contrast between South Central and other sections of LA.  The obvious question is why so much art in some sections and practically none in others? What can be done to enhance artistic projects in the parts of LA that have none?"
-achievable_goal: >-
+Please elaborate on how your project will impact the above metrics.: >-
+  The installation of sculptures will plant the seed for others to initiate
+  artistic endeavors thy otherwise would not attempt.  the installation of ANY
+  public art in these deprived neighborhoods is a significant gain in the
+  artistic availability to the community.
+Please explain how you will evaluate your project.: "Predominately through the installation of metal sculptures.  The target is six to ten.  Involvement of the community.  Measured by response to the BBQ's and party.  \r\n\r\nSustainability - Longevity measured in the care the sculptures receive - vandalism "
+What two lessons have informed your solution or project?: "1. Installation of sculpture on 58th and Broadway and the reaction of the neighborhood.\r\n\r\n2. Traveling through LA has revealed a stark contrast between South Central and other sections of LA.  The obvious question is why so much art in some sections and practically none in others? What can be done to enhance artistic projects in the parts of LA that have none?"
+Explain how implementing your project within the next twelve months is an achievable goal.: >-
   At a minimum a sculpture can be completed and installed every 1 1/2 to 2
   months.  This schedule is acceptable to the artist.
-major_challenges: "1. Securing funds:  Applying for grants\r\n\r\n2. Selecting installation sites: Involve neighborhood and community leaders early in the process"
+Please list at least two major barriers/challenges you anticipate. What is your strategy for ensuring a successful implementation?: "1. Securing funds:  Applying for grants\r\n\r\n2. Selecting installation sites: Involve neighborhood and community leaders early in the process"
 What resources does your project need?:
   - Network/relationship support
   - Money (financial capital)

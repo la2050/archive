@@ -11,7 +11,6 @@ project_summary: >-
   theatrical productions & wellness workshops in LA.  
 project_image: 'https://img.youtube.com/vi/TsuTBskJETc/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/TsuTBskJETc'
-impact_metrics: "Senior Star Power's Senior Theatrical Arts & Cultural Complex will provide a safe environment for the well-being of the aging community.  Senior Star Power is a California 501(c)(3) nonprofit organization that provides live theatrical entertainment, special events, and theatre arts-related workshops and classes. We focus primarily on:\r\n•\tProviding regular live theatrical entertainment showcasing mature performers; \r\n•\tProviding regular live theatre arts educational programs that benefit the community at large; and,\r\n•\tOffering arts-based evidence-based programming and services that empower older adults to become more active in managing their own wellness and health care.  Workshops include: GET UP, GET OUT, AND GET A LIFE!  Proving that age is only a number, COMEDY TODAY Laughter is medicine for the body and soul, EXPRESS YOURSELF! A fun and energetic improvisation class, FINDING YOUR VOICE Singing for fun and perhaps a 2nd career, DANCING FOR THE YOUNG-AT-HEART Beginning tappers, WRITING FOR FUN Put the colors of your life down in black and white, TAP YOUR TROUBLES AWAY Intermediate & advanced dance.\r\n\r\n\r\n\r\n\r\n\r\n"
 project_areas:
   - CENTRAL LA
   - EAST LA
@@ -20,8 +19,14 @@ project_areas:
   - SFV
   - SOUTH BAY
   - WESTSIDE
+Please identify any partners or collaborators who will work with you on this project.: >-
+  We will engage all government, civic, education, nonprofit, and faith-based
+  organizations to participate in our activities. We will also work with local
+  travel and hospitality businesses to develop tourist packages including
+  lodging, bus tours, dining, shopping, and other entertainment attractions that
+  will encourage visitors to stay multiple days in the city.
 Please describe yourself: Solo actor (just us on this project!)
-one_sentence_org: >-
+'In one sentence, please describe your idea or project.': >-
   Our vision is to establish a year-round theatrical performing arts and
   workshops program that benefits the entire community.
 Does your project impact Los Angeles County?: 'No'
@@ -33,7 +38,7 @@ Which area(s) of LA does your project benefit?:
   - San Fernando Valley
   - South Bay
   - Westside
-more_detail: >-
+What is your idea/project in more detail?: >-
   This project is a logical extension of our mission to empower the aging
   population to manage their own health, stay active, and lead more fulfilling
   lives. Our goal is to obtain a safe and workable environment where we can
@@ -44,13 +49,13 @@ more_detail: >-
   dancing (physical movement), singing (memory), and music (relationships).
   Important too, is the fact that these experiences enrich the soul, stimulate
   the mind, and promote wellness and social participation in Los Angeles.
-implement: >-
+What will you do to implement this idea/project?: >-
   We will solicit sponsorships from corporations, use social media and YouTube,
   fundraising events and programs, submit grant applications, stay in the public
   eye through publicity, community outreach, motivational seminars, workshops
   with community partners, enlisting celebrity seniors in our mission, engage
   the officials of the city of Los Angeles.
-impact_play: >-
+How will your idea/project help make LA the best place to PLAY today? In 2050?: >-
   According to Bonnie L. Vorenberg, President of ArtAge and a nationally
   recognized expert in senior theatre, and according to AARP, senior theatre is
   one of the fastest-growing recreation and culture trends in the country.  Los
@@ -67,7 +72,7 @@ impact_play: >-
   tourism-related spending in 2012. Average age of visitors was 58 years. 79% of
   activities participated in were shows.  Senior Star Power can bring these
   tourists and their spending power to Los Angeles.
-who_benefit: >-
+Whom will your project benefit?: >-
   Senior Star Power's project will directly benefit the aging population of 60+
   years and indirectly benefit the entire Los Angeles community. There’s no
   doubt that all of these aging adults wish to keep active and vital. Along with
@@ -77,24 +82,19 @@ who_benefit: >-
   greater Los Angeles area, and by 2034, that number will reach 36 of every 100
   adults. That’s a gain of nearly 1 million senior citizens in the area.  By
   2050 it is projected that the number will be 50 of every 100 adults.   
-partners_collaboration: >-
-  We will engage all government, civic, education, nonprofit, and faith-based
-  organizations to participate in our activities. We will also work with local
-  travel and hospitality businesses to develop tourist packages including
-  lodging, bus tours, dining, shopping, and other entertainment attractions that
-  will encourage visitors to stay multiple days in the city.
 How will your project impact the LA2050 “Play” metrics?:
   - 'Provide a permenant Senior Theatrical Arts & Cultural Complex '
-evaluate: "1. Sold out performances\r\n2. Number of tours generated\r\n3. Overwhelming response of attendees to workshops and classes\r\n4. The number of seniors inspired to live longer and healthier lives.\r\n5. Number of senior rejuvenating their careers and reinventing their lives.\r\n6. Number of businesses in proximity to the Senior Theatrical Arts & Cultural Complex energized and flourishing"
-two_lessons: "1.  Evidence that the aging population is increasing at a fast rate and requires more services directed to their tastes and needs.  There is no theatrical complex in Los Angeles dedicated to this mission.\r\n\r\n2. The fact that this increasing population is living longer means that there is a more urgent need for a facility that inspires and motivates like Senior Star Power's Senior Theatrical Arts & Cultural Complex."
-achievable_goal: >-
+Please elaborate on how your project will impact the above metrics.: "Senior Star Power's Senior Theatrical Arts & Cultural Complex will provide a safe environment for the well-being of the aging community.  Senior Star Power is a California 501(c)(3) nonprofit organization that provides live theatrical entertainment, special events, and theatre arts-related workshops and classes. We focus primarily on:\r\n•\tProviding regular live theatrical entertainment showcasing mature performers; \r\n•\tProviding regular live theatre arts educational programs that benefit the community at large; and,\r\n•\tOffering arts-based evidence-based programming and services that empower older adults to become more active in managing their own wellness and health care.  Workshops include: GET UP, GET OUT, AND GET A LIFE!  Proving that age is only a number, COMEDY TODAY Laughter is medicine for the body and soul, EXPRESS YOURSELF! A fun and energetic improvisation class, FINDING YOUR VOICE Singing for fun and perhaps a 2nd career, DANCING FOR THE YOUNG-AT-HEART Beginning tappers, WRITING FOR FUN Put the colors of your life down in black and white, TAP YOUR TROUBLES AWAY Intermediate & advanced dance.\r\n\r\n\r\n\r\n\r\n\r\n"
+Please explain how you will evaluate your project.: "1. Sold out performances\r\n2. Number of tours generated\r\n3. Overwhelming response of attendees to workshops and classes\r\n4. The number of seniors inspired to live longer and healthier lives.\r\n5. Number of senior rejuvenating their careers and reinventing their lives.\r\n6. Number of businesses in proximity to the Senior Theatrical Arts & Cultural Complex energized and flourishing"
+What two lessons have informed your solution or project?: "1.  Evidence that the aging population is increasing at a fast rate and requires more services directed to their tastes and needs.  There is no theatrical complex in Los Angeles dedicated to this mission.\r\n\r\n2. The fact that this increasing population is living longer means that there is a more urgent need for a facility that inspires and motivates like Senior Star Power's Senior Theatrical Arts & Cultural Complex."
+Explain how implementing your project within the next twelve months is an achievable goal.: >-
   Senior Star Power has a track record of 3 sold out musical productions as a
   for profit company.  Senior Star Power produced 2 sold out musical productions
   under our 501(c)(3) nonprofit.  These 5 productions we all performed in
   different rentals theatres.  Our first goal is to acquire a donated facility
   for the 2015 production and our workshops.  We have all our teachers in place
   and the production team in place.
-major_challenges: "1. Acquiring the necessary funding and facility to proceed.\r\n\r\n2. Making people aware of the aging population's need to be kept active and engaged in community and wellness."
+Please list at least two major barriers/challenges you anticipate. What is your strategy for ensuring a successful implementation?: "1. Acquiring the necessary funding and facility to proceed.\r\n\r\n2. Making people aware of the aging population's need to be kept active and engaged in community and wellness."
 What resources does your project need?:
   - Network/relationship support
   - Money (financial capital)

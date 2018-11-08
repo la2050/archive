@@ -12,15 +12,6 @@ project_summary: >-
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22179%252Fdisplay%252FIMG_2944.JPG=c570x385
 project_video: ''
-impact_metrics: >-
-  L.A. Futures emboldens classroom learning by learning and life skill
-  experiences with industry professionals in the classroom and at their places
-  of work.  Theory and principles are translated into real-world practices and
-  our students connect acquired knowledge with the needs and expectation of the
-  workplace. As such, our students make the connection between college and
-  career and become workforce ready. By developing the talent and capacity of
-  our younger generations, we are investing in the future viability of our local
-  economy.
 project_areas:
   - CENTRAL LA
   - EAST LA
@@ -28,8 +19,9 @@ project_areas:
   - SGV
   - SOUTH BAY
   - WESTSIDE
+Please identify any partners or collaborators who will work with you on this project.: "Our confirmed business partner t confirmed collaborators are:\r\nTBWA\\Chiat\\Day\r\nDDB California\r\nIgnitedUSA\r\nSaatchi & Saatchi\r\nThinkLA, consortium of creative companies\r\nOur confirmed school confirmed collaborators are:\r\nDorsey High School\r\nJames Foshay Learning Center\r\nPasadena High School\r\nVenice High School\r\nWe have worked for several years with these collaborators.\r\nThree factors that are critical to the success of these partnerships are:\r\n1) Shared decision-making\r\n2) Understanding of roles and expectations\r\n3) Evaluation and improvement"
 Please describe yourself: Collaboration (partners are signed up and ready to hit the ground running!)
-one_sentence_project: >-
+'In one sentence, please describe your idea or project.': >-
   L.A. Futures builds success tracks for public high school youth into college
   and career
 Does your project impact Los Angeles County?: 'No'
@@ -40,7 +32,7 @@ Which area(s) of LA does your project benefit?:
   - San Gabriel Valley
   - South Bay
   - Westside
-more_detail: >-
+What is your idea/project in more detail?: >-
   L.A. Futures is a work-based learning program which partners public schools
   with major creative companies to prepare students for success in college and
   beyond. Students build competencies and life skills through professional
@@ -51,7 +43,7 @@ more_detail: >-
   job-prepared talent pool to draw upon. High school is where to start.
   Educational entrepreneurship, through business and community partnerships,
   provides the resources. L.A. Futures is the connection.
-implement: >-
+What will you do to implement this idea/project?: >-
   Since it was inaugurated several years ago, L.A. Futures has served hundreds
   of upper-division high school students who have gone on to higher education at
   twice the rate of their peers.  Through partnering with creative organizations
@@ -79,7 +71,7 @@ implement: >-
   of the demands of today’s employer. We believe that L.A. Futures is a powerful
   link in the continuum of college-bound-to-career efforts at a critical time in
   their decision-making process. 
-impact_learn: >-
+How will your idea/project help make LA the best place to LEARN today? In 2050?: >-
   California's leading educators are proponents of  building smaller learning
   communities, such as "pathways" and "academies" which focus on broad industry
   themes, such as business and entrepreneurship, arts, entertainment and media,
@@ -101,7 +93,7 @@ impact_learn: >-
   meet diversity of employment goals--and because our workforce will be prepared
   and energized to shift culture through job roles and practices we don't even
   know the names of!  
-who_benefit: >-
+Whom will your project benefit?: >-
   Participants of L.A. Futures mirror the ethnic and economic strata of local
   public school student populations. Current data describes our Academy student
   population as follows: 72.3% Latino, 9.6% Black, 10.1% White, 4% Asian, 2.1%
@@ -111,7 +103,6 @@ who_benefit: >-
   pool of our own community the creative industry is greatly benefitted if we
   bear in mind that 726,300 direct and indirect jobs, or 1 in 7 jobs, represent
   the human capital that vitalizes this industry. 
-collaboration: "Our confirmed business partner t confirmed collaborators are:\r\nTBWA\\Chiat\\Day\r\nDDB California\r\nIgnitedUSA\r\nSaatchi & Saatchi\r\nThinkLA, consortium of creative companies\r\nOur confirmed school confirmed collaborators are:\r\nDorsey High School\r\nJames Foshay Learning Center\r\nPasadena High School\r\nVenice High School\r\nWe have worked for several years with these collaborators.\r\nThree factors that are critical to the success of these partnerships are:\r\n1) Shared decision-making\r\n2) Understanding of roles and expectations\r\n3) Evaluation and improvement"
 How will your project impact the LA2050 “Learn” metrics?:
   - >-
     Percentage of community college students completing a certificate, degree,
@@ -130,7 +121,16 @@ How will your project impact the LA2050 “Learn” metrics?:
     Industry diversity of employment goals, preparedness for new and future job
     roles, diverse generations impact on the products and services of the
     creative industry
-evaluate: >-
+Please elaborate on how your project will impact the above metrics.: >-
+  L.A. Futures emboldens classroom learning by learning and life skill
+  experiences with industry professionals in the classroom and at their places
+  of work.  Theory and principles are translated into real-world practices and
+  our students connect acquired knowledge with the needs and expectation of the
+  workplace. As such, our students make the connection between college and
+  career and become workforce ready. By developing the talent and capacity of
+  our younger generations, we are investing in the future viability of our local
+  economy.
+Please explain how you will evaluate your project.: >-
   Formal evaluation measurements are used to assess the performance and
   quality-level of the L.A. Futures program and to make recommendations for
   improvement. This includes entry, mid-point and exit surveys; Dialogue with
@@ -141,8 +141,8 @@ evaluate: >-
   In the coming year, we intend to form an advisory council of educators and
   industry professionals to help us bring the L.A. Futures program to the next
   level. 
-two_lessons: "The following two lessons have informed our project:\r\n1) The expressed need for industry to hire within our own community\r\n2) The need for students to literally see and experience exciting job roles that they can aspire toward."
-achievable_goal: >-
+What two lessons have informed your solution or project?: "The following two lessons have informed our project:\r\n1) The expressed need for industry to hire within our own community\r\n2) The need for students to literally see and experience exciting job roles that they can aspire toward."
+Explain how implementing your project within the next twelve months is an achievable goal.: >-
   We have four business partners and four school partners and the program has
   already been tracked. This includes classroom visits and visits to companies'
   major headquarters. Meetings between partners are currently taking place at
@@ -150,7 +150,7 @@ achievable_goal: >-
   We are also in the process of forming further collaborations with
   community-based organizations who serve as clients for the students'
   campaigns. 
-major_challenges: >-
+Please list at least two major barriers/challenges you anticipate. What is your strategy for ensuring a successful implementation?: >-
   One barrier is to be able to accomplish this with a small staff, led by a
   Program Coordinator and Lead Instructor Mentors. Our strategy for meeting that
   challenge is to work with volunteers who also serve as professional mentors.

@@ -4,11 +4,7 @@
 {{ page["Please describe yourself"] | markdownify }}
 
 <h3>In one sentence, please describe your idea or project.</h3>
-{% if page.one_sentence_project and page.one_sentence_project != "" %}
-{{ page.one_sentence_project | markdownify }}
-{% else %}
-{{ page.one_sentence_org | markdownify }}
-{% endif %}
+{{ page["In one sentence, please describe your idea or project."] | markdownify }}
 
 {% if page['Does your project impact Los Angeles County?'] != "No" %}
 <h3>Does your project impact Los Angeles County?</h3>
@@ -23,46 +19,41 @@
 </ul>
 
 <h3>What is your idea/project in more detail?</h3>
-{{ page.more_detail | markdownify }}
+{{ page["What is your idea/project in more detail?"] | markdownify }}
 
 <h3>What will you do to implement this idea/project?</h3>
-{{ page.implement | markdownify }}
+{{ page["What will you do to implement this idea/project?"] | markdownify }}
 
 
-{% if page.impact_learn %}
+{% if page["How will your idea/project help make LA the best place to LEARN today? In 2050?"] %}
 
 <h3>How will your idea/project help make LA the best place to LEARN today? In 2050?</h3>
-{{ page.impact_learn | markdownify }}
+{{ page["How will your idea/project help make LA the best place to LEARN today? In 2050?"] | markdownify }}
 
-{% elsif page.impact_create %}
+{% elsif page["How will your idea/project help make LA the best place to CREATE today? In 2050?"] %}
 <h3>How will your idea/project help make LA the best place to CREATE today? In 2050?</h3>
-{{ page.impact_create | markdownify }}
+{{ page["How will your idea/project help make LA the best place to CREATE today? In 2050?"] | markdownify }}
 
-{% elsif page.impact_play %}
+{% elsif page["How will your idea/project help make LA the best place to PLAY today? In 2050?"] %}
 <h3>How will your idea/project help make LA the best place to PLAY today? In 2050?</h3>
-{{ page.impact_play | markdownify }}
+{{ page["How will your idea/project help make LA the best place to PLAY today? In 2050?"] | markdownify }}
 
-{% elsif page.impact_connect %}
+{% elsif page["How will your idea/project help make LA the best place to CONNECT today? In 2050?"] %}
 <h3>How will your idea/project help make LA the best place to CONNECT today? In 2050?</h3>
-{{ page.impact_connect | markdownify }}
+{{ page["How will your idea/project help make LA the best place to CONNECT today? In 2050?"] | markdownify }}
 
-{% elsif page.impact_live %}
+{% elsif page["How will your idea/project help make LA the healthiest place to LIVE today? In 2050?"] %}
 <h3>How will your idea/project help make LA the healthiest place to LIVE today? In 2050?</h3>
-{{ page.impact_live | markdownify }}
+{{ page["How will your idea/project help make LA the healthiest place to LIVE today? In 2050?"] | markdownify }}
 
 {% endif %}
 
 
 <h3>Whom will your project benefit?</h3>
-{{ page.who_benefit | markdownify }}
+{{ page["Whom will your project benefit?"] | markdownify }}
 
 <h3>Please identify any partners or collaborators who will work with you on this project.</h3>
-{% if page.collaboration %}
-  {{ page.collaboration | markdownify }}
-{% else %}
-  {{ page.partners_collaboration | markdownify }}
-{% endif %}
-
+{{ page["Please identify any partners or collaborators who will work with you on this project."] | markdownify }}
 
 
 {% if page["How will your project impact the LA2050 “Learn” metrics?"] and page["How will your project impact the LA2050 “Learn” metrics?"].size > 0 %}
@@ -104,7 +95,7 @@
 
 
 <h3>Please elaborate on how your project will impact the above metrics.</h3>
-{{ page.impact_metrics | markdownify }}
+{{ page["Please elaborate on how your project will impact the above metrics."] | markdownify }}
 
 {% comment %}
 <h3>Please select which other LA2050 Goals are relevant to your project or organization:</h3>
@@ -112,16 +103,16 @@
 {% endcomment %}
 
 <h3>Please explain how you will evaluate your project.</h3>
-{{ page.evaluate | markdownify }}
+{{ page["Please explain how you will evaluate your project."] | markdownify }}
 
 <h3>What two lessons have informed your solution or project?</h3>
-{{ page.two_lessons | markdownify }}
+{{ page["What two lessons have informed your solution or project?"] | markdownify }}
 
 <h3>Explain how implementing your project within the next twelve months is an achievable goal. </h3>
-{{ page.achievable_goal | markdownify }}
+{{ page["Explain how implementing your project within the next twelve months is an achievable goal."] | markdownify }}
 
 <h3>Please list at least two major barriers/challenges you anticipate. What is your strategy for ensuring a successful implementation?</h3>
-{{ page.major_challenges | markdownify }}
+{{ page["Please list at least two major barriers/challenges you anticipate. What is your strategy for ensuring a successful implementation?"] | markdownify }}
 
 <h3>What resources does your project need?</h3>
 <ul>
