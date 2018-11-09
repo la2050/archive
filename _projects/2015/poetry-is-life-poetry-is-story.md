@@ -21,14 +21,6 @@ project_video: 'https://www.youtube.com/embed/gX3uzlinkXc'
   healing and holistic learning of our community through the arts and literacy,
   thereby activating creativity, imagination and expression to improve our
   quality of life.
-'In one to three sentences, please describe your proposal.': >-
-  The arts are a powerful means to heal, transform, and revitalize persons,
-  families, communities, economies, political structures, and environments. We
-  propose to offer 30 poetry/story workshops to multi-generational residents at
-  libraries across L.A.. Within each of the 15 L.A. City Council districts there
-  will be two 2-hour weekly workshops lasting 4 weeks, each culminating in a
-  community open mic. Each district will feature one workshop for English
-  speakers, and another for Spanish speakers.
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Engage residents and stakeholders

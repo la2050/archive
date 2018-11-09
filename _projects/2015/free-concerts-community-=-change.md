@@ -20,14 +20,6 @@ project_image: >-
   In 2016, Grand Performances (GP) celebrates 30 years of presenting FREE, high
   quality performing arts that reflect the best of global culture and inspire
   community among America's most diverse audience.
-'In one to three sentences, please describe your proposal.': >-
-  GP believes that art can introduce us to the big issues of society and to each
-  other – a vital role in a city as diverse as ours. For our milestone season,
-  GP will present 50+ free cultural events including live performances and
-  public conversations at our iconic Downtown L.A. venue plus community outreach
-  programs serving more than 60,000 people from across the region. GP will
-  connect audiences to artists and each other resulting in greater participation
-  in L.A.’s cultural and civic life.
 Where will you be working?:
   - City of Los Angeles
 How do you plan to use these resources to make change?:

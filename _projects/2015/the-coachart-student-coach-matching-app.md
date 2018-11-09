@@ -19,14 +19,6 @@ project_video: 'https://www.youtube.com/embed/dYGBRY6Ol30'
 'In one sentence, please describe what your organization does': >-
   CoachArt creates a transformative arts and athletics community for families
   impacted by childhood chronic illness. 
-'In one to three sentences, please describe your proposal.': >-
-  The CoachArt Matching App will modernize the way chronically ill students are
-  paired into arts and athletics mentorships and expand CoachArt’s
-  transformative community to include exponentially more families. Our
-  algorithmic matching app will reduce 99+% of the overhead currently needed to
-  make a successful matches, from an average matching process of 8 hours down to
-  approximately 5 minutes. In two years, that will scale annually to provide a
-  projected 3,000 more students in Los Angeles. 
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Conduct research

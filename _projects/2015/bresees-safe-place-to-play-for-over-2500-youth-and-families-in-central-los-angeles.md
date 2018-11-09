@@ -17,13 +17,6 @@ project_summary: >-
   development experiences. 
 project_image: 'https://img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/yeyzmCpYfFk'
-'In one to three sentences, please describe your proposal.': >-
-  Bresee is seeking to transform its underutilized parking lot into a
-  state-of-the-art multi-sport court and a hub for safe family-based community
-  programming. Bresee’s Safe Place to Play Multi-Sport Court will provide over
-  2,500 youth and families in Central Los Angeles with healthy physical
-  activity, safe alternatives to gang involvement, and positive youth
-  development experiences. 
 Where will you be working?:
   - Central LA
 How do you plan to use these resources to make change?:

@@ -21,14 +21,6 @@ project_image: >-
   L.A. County’s impoverished, neglected, and abused children and foster youth,
   ages zero to 24. In 2014 we provided free legal and social services to more
   than 8,000 children. 
-'In one to three sentences, please describe your proposal.': >-
-  In 2013, the Alliance for Children’s Rights and Children’s Law Center sought
-  an engaging way to meaningfully educate and empower every transition-age
-  youth, ages 16-24, or “TAY” in L.A. County. Together they created the Know
-  Before You Go campaign (B4UGO), which features multimodal platforms to help
-  TAY and organization’s serving them in the areas of work, school, life,
-  health, money and more. This campaign was created for foster youth, informed
-  by foster youth. That novel concept alone connects
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Engage residents and stakeholders

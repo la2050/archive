@@ -21,14 +21,6 @@ project_image: >-
   public radio station that features an eclectic mix of news, music, and
   cultural programming that engages audiences in civic dialogue and advances
   cultural conversation.
-'In one to three sentences, please describe your proposal.': >-
-  An award from LA2050 would support KCRW’s first major Capital Campaign and
-  meet three objectives: (1) Construct the KCRW Media Center, custom-designed to
-  meet KCRW’s needs, connect to audiences in new profound ways, and serve as the
-  premier cross cultural public space for Los Angeles’ diverse population; (2)
-  Invest in programming that moves KCRW to new levels of excellence; and (3)
-  Create digital technologies that promote KCRW’s mission amid an ever-changing
-  media landscape.
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Engage residents and stakeholders

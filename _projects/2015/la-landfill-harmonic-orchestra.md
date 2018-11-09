@@ -20,14 +20,6 @@ project_video: 'https://www.youtube.com/embed/MkTQQ0m8Ys8'
   T4T.org inspires the next generation of Scientists, Technology experts,
   Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean waste
   and in doing this we nurture environmental stewardship.
-'In one to three sentences, please describe your proposal.': >-
-  Let’s create LA LandfillHarmonics inspired by Parqaguay’s LandfillHarmonics.
-  LAUSD has among the highest concentration of low-income students in the state,
-  with more than 80% living at or below the poverty line. This translates into
-  nearly 400 high-poverty campuses where all students automatically qualify for
-  subsidized lunches.  There is little room in the school budget for the arts.
-  Where is music for these children? We want to teach them to make music out of
-  found objects.
 Where will you be working?:
   - 'Parks, community centers and Title 1 Schools in LA County.'
 How do you plan to use these resources to make change?:

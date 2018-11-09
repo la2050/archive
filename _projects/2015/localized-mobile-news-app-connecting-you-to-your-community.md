@@ -17,12 +17,6 @@ project_image: >-
 'In one sentence, please describe what your organization does': >-
   Ruckus projects is a community of future makers coming together to launch
   projects that matter.
-'In one to three sentences, please describe your proposal.': >-
-  We are the Waze for neighborhood news and events! Using geo-location data from
-  local news sources (of your choosing), our app will plot the stories that
-  matter to you, in real-time, on an interactive map that both engages and
-  informs.  Gone are the days of information overload and irrelevant articles...
-  it's time to view the news like never before!
 Where will you be working?:
   - City of Los Angeles
 How do you plan to use these resources to make change?:

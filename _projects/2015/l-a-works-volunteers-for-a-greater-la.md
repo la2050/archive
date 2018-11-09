@@ -17,14 +17,6 @@ project_summary: >-
 project_image: 'https://img.youtube.com/vi/-6JhSNkIbso/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/-6JhSNkIbso'
 'In one sentence, please describe what your organization does': "L.A. Works\_empowers Angelenos to\_address pressing social issues through\_volunteerism and community\_collaborations."
-'In one to three sentences, please describe your proposal.': >-
-  Connect to your community through volunteer service with L.A. Works! We are
-  striving to transform Los Angeles by creating a culture of volunteerism that
-  will encourage Angelenos to connect with other volunteers, nonprofit
-  organizations, and the issues they are most passionate about impacting. By
-  growing our Managed Project programming, we will make volunteering even more
-  accessible by having opportunities led by trained L.A. Works volunteers in
-  every neighborhood of Greater Los Angeles. 
 Where will you be working?:
   - City of Los Angeles
   - LAUSD

@@ -20,14 +20,6 @@ project_image: >-
   LA Voice is an interfaith, multi-racial community organization that awakens
   people to their own power, training them to speak, act and work together to
   transform our city into one that reflects the dignity of all people. 
-'In one to three sentences, please describe your proposal.': >-
-  LA will not solve its problem of racial inequity without greater civic
-  participation. Voter turnout is at a historic low, and LA Voice has a plan to
-  turn that around. Barriers to voting can be overcome by leaders from diverse
-  faith backgrounds investing in local relationships to increase participation.
-  When LA Voice leaders turn out all 40,000 people represented by our 36 diverse
-  congregations-- AND their neighbors--it will shift the electorate towards a
-  more representative, inclusive county. 
 Where will you be working?:
   - Central LA
   - East LA

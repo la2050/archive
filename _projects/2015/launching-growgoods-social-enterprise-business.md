@@ -16,14 +16,6 @@ project_summary: >-
   employ Shelter residents, many of whom are veterans. 
 project_image: 'https://img.youtube.com/vi/zqrk27Md2Bo/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/zqrk27Md2Bo'
-'In one to three sentences, please describe your proposal.': >-
-  GrowGood, Inc., a non-profit organization, has worked since 2011 in
-  partnership with the Salvation Army's Bell Homeless Shelter to transform the
-  1.5-acre parcel of fallow land adjacent to the Shelter into a small farm. With
-  $100,000, GrowGood will launch its UCLA award-winning social enterprise
-  business plan to build a greenhouse on-site to grow and sell produce
-  year-round to LA’s finest restaurants. The social enterprise business will
-  employ Shelter residents, many of whom are veterans. 
 Where will you be working?:
   - 'The Salvation Army''s Bell Shelter in Bell, CA; LA County'
 How do you plan to use these resources to make change?:

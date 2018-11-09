@@ -10,7 +10,6 @@ project_summary: "Every Monday night at 10:00 PM, hundreds of Angelenos gather f
 project_image: 'https://img.youtube.com/vi/U6oh03TPQOw/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/U6oh03TPQOw'
 'In one sentence, please describe what your organization does': "BlacklistLA inspires Angelenos of diverse backgrounds to connect around a shared love for running, street art and the City of LA. \r\n"
-'In one to three sentences, please describe your proposal.': "Every Monday night at 10:00 PM, hundreds of Angelenos gather for a 3-mile run through the streets of LA. The location of the run varies; what remains the same is a diverse group of runners sharing their fitness goals, appreciating the unsung beauty of our city’s street art, and developing a deeper connection to each other and our neighborhoods. \r\n\r\nThis proposal aims to turn the powerful connecting force of the BlacklistLA Monday run into a more frequent occurrence by expanding its offerings."
 Where will you be working?:
   - Central LA
   - East LA

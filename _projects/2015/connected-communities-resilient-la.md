@@ -20,14 +20,6 @@ project_image: >-
   The Red Cross prevents and alleviates human suffering in the face of
   emergencies by mobilizing the power of volunteers and the generosity of
   donors.
-'In one to three sentences, please describe your proposal.': >-
-  We will connect LA’s most vulnerable communities on a neighbor-to-neighbor and
-  community-to-community level through the power of volunteerism. New
-  neighborhood networks and community coalitions will coalesce around the issue
-  of preparedness for home fires. These efforts will lead to a more
-  inter-connected LA with more resilient and prepared individuals and
-  communities, for any type of disaster large or small, especially in
-  vulnerable, low-income communities.
 Where will you be working?:
   - Central LA
   - East LA

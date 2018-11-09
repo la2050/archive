@@ -15,11 +15,6 @@ project_summary: >-
   stuck on technology can come and play and run around like kids used to.
 project_image: 'https://img.youtube.com/vi/JrkPrBnN4UI/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/JrkPrBnN4UI'
-'In one to three sentences, please describe your proposal.': >-
-  We want to create a place that kids can play and learn all in the same
-  environment. Parents can feel confident that their children will exercise and
-  have fun while still keeping up with school work. Kids in a society that are
-  stuck on technology can come and play and run around like kids used to.
 Where will you be working?:
   - San Fernando Valley
   - 'Adventure Playhouse 1116 San Fernando Rd. San Fernando, Ca 91340'

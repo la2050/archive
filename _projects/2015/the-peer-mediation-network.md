@@ -16,14 +16,6 @@ project_summary: >-
   communication will be de rigueur for citizens of 2050.
 project_image: 'https://img.youtube.com/vi/69OXVYZ15kU/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/69OXVYZ15kU'
-'In one to three sentences, please describe your proposal.': >-
-  Students will lead the conflict resolution revolution and be agents of
-  peaceful change in LA and via the internet. Young people who have received
-  Peer Mediation Training will produce and ‘star in’ video podcasts, YouTube
-  videos and interactive programs. They will share the basic tenets of
-  alternatives to violence and social emotional learning using technology that
-  is fast becoming a universal language and whose integration into all facets of
-  communication will be de rigueur for citizens of 2050.
 Where will you be working?:
   - City of Los Angeles
   - LAUSD

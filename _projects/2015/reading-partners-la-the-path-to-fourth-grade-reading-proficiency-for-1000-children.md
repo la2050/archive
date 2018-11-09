@@ -17,13 +17,6 @@ project_summary: >-
   children in Los Angeles area Title I schools. 
 project_image: 'https://img.youtube.com/vi/sKN2PQLjrps/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/sKN2PQLjrps'
-'In one to three sentences, please describe your proposal.': >-
-  Reading Partners plans to expand our core program in LA County and deepen
-  local impact on fourth grade literacy achievement. In 2015-16, we have already
-  expanded from eight to ten school partners, reaching at least 575 students
-  with the support of 850 volunteers. By 2017, we intend to partner with an
-  additional four to six new school sites, doubling our reach from 500 to 1,000
-  children in Los Angeles area Title I schools. 
 Where will you be working?:
   - San Gabriel Valley
   - Westside

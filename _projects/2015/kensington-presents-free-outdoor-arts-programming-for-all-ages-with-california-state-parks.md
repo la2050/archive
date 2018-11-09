@@ -18,14 +18,6 @@ project_summary: >-
   setting in the heart of the city. 
 project_image: 'https://img.youtube.com/vi/v-5UnN1CD0E/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/v-5UnN1CD0E'
-'In one to three sentences, please describe your proposal.': >-
-  In close partnership with the California State Parks Department, we’ll
-  continue the evolution of Kensington Presents from our front porch in Angeleno
-  Heights, to a yearlong series at the Viaduct. Throughout the year, we’ll
-  transform the Viaduct, a magical urban park, into a thriving community arts
-  space celebrating local artists, engaging local businesses, and inviting
-  Angelenos of all ages to enjoy eclectic programs in a safe, clean, fun park
-  setting in the heart of the city. 
 Where will you be working?:
   - Downtown LA/Chinatown
 How do you plan to use these resources to make change?:

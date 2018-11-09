@@ -23,14 +23,6 @@ project_video: 'https://www.youtube.com/embed/3ceZFpvVVU0'
   curling, with a goal to offer the game to the local community, to foster the
   social and competitive spirit of curling, and develop competition at a local &
   national level.
-'In one to three sentences, please describe your proposal.': >-
-  Since 2007, we have grown the sport of curling in Los Angeles under poor ice
-  conditions and limited availability from local hockey rinks.  We are in the
-  process of building the San Fernando Valley Curling Center by adapting an
-  existing building that would be dedicated to the specific requirements of this
-  sport.  A dedicated facility will enable us to realize our mission of being
-  inclusive, expanding youth and wheelchair programs, as well as promote lasting
-  social connections in the community.
 Where will you be working?:
   - San Fernando Valley
   - City of Los Angeles

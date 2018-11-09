@@ -16,14 +16,6 @@ project_summary: >-
   enriched through community connections.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23605%252Fdisplay%252FFullSizeRender-2.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  HFS hopes to transform the way education integrates learning through service
-  by transforming our service-learning initiative into a model program and
-  catalyst for change. Through programming, research and evaluation we hope to
-  develop an innovative and replicable service-learning curriculum characterized
-  by meaningful partnerships, reflection and enriched instructional strategies.
-  We believe that we learn from the people we serve and that curriculum is
-  enriched through community connections.
 Where will you be working?:
   - San Gabriel Valley
 How do you plan to use these resources to make change?:

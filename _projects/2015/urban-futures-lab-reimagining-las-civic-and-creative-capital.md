@@ -21,14 +21,6 @@ project_video: 'https://www.youtube.com/embed/1HVZ3rX86M4'
   experts, cultural planners and Fellows—that designs and implements long-term,
   place-based, art, media, education, and civic engagement projects that advance
   social change. 
-'In one to three sentences, please describe your proposal.': >-
-  Urban Futures Lab is a multi-year fellowship training, mentorship and
-  employment program for young adults (18-26) from low-income communities of
-  color in LA. Fellows are trained as interdisciplinary creative community
-  problem solvers and future civic leaders as they work on projects to
-  strengthen LA neighborhoods. Fellows develop career and community-building
-  skills and networks through projects addressing arts, culture and equitable
-  development, community health, and neighborhood identity. 
 Where will you be working?:
   - Central LA
   - East LA

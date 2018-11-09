@@ -16,14 +16,6 @@ project_summary: >-
   their health and community.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23185%252Fdisplay%252Fthumb_IMG_2442_1024_2.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  We will oversee the creation of 15 new Edible Apartments around the city of
-  Los Angeles.  We will meet with building owners and residents to do a needs
-  assessment; determine land and resource availability and, from those findings,
-  create a site-specific design for each site location. This network of Edible
-  Apartments will provide access to healthy eating and community for those who
-  do not live in a single family residence, but still want to take ownership of
-  their health and community.
 Where will you be working?:
   - City of Los Angeles
 How do you plan to use these resources to make change?:

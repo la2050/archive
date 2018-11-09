@@ -14,7 +14,6 @@ project_video: 'https://www.youtube.com/embed/wZGBfT2_pi4'
   Angeles to develop their ideas in affordable, high-quality lab facilities,
   with access to services and a supportive innovation community to accelerate
   their success.
-'In one to three sentences, please describe your proposal.': "Our goal, and our vision for the Los Angeles of 2050 is a vibrant network of affordable, accessible biotech incubators across the LA metro region, where life science innovators from any background can access the facilities and equipment they need to move their ideas forward. \r\n\r\nAt LabLaunch-Monrovia, we will provide high-quality laboratory space, state-of-the-art shared equipment, and a supportive innovation community, giving biotech startups a place to take root in Los Angeles."
 Where will you be working?:
   - San Gabriel Valley
   - Monrovia; Monrovia USD; LA County; City of LA

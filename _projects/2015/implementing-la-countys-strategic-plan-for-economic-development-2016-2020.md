@@ -13,7 +13,6 @@ project_image: >-
   As LA County’s designated economic development leadership organization for
   over 34 years, the LAEDC’s purpose is to improve standards of living for LA
   County’s residents by growing overall economic prosperity. 
-'In one to three sentences, please describe your proposal.': "LAEDC proposes to leverage its past success in leading collaborative economic development efforts to ramp up the 2016-2020 Strategic Plan’s implementation program around seven aspirational goals: \r\n1. Invest in Human Capital\r\n2. Strengthen Leading Traded Industries\r\n3. Catalyze Innovation Capacities\r\n4. Fix Infrastructure Development, Financing and Delivery Processes\r\n5. Create a More Business Friendly Environment\r\n6. Increase Global Connectedness\r\n7. Build More Livable Communities "
 Where will you be working?:
   - Central LA
   - East LA

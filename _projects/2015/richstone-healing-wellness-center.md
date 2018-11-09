@@ -16,14 +16,6 @@ project_summary: >-
   health, and productivity. 
 project_image: 'https://img.youtube.com/vi/gRaTc3pZvug/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/gRaTc3pZvug'
-'In one to three sentences, please describe your proposal.': >-
-  Richstone's Healing and Wellness Center will address the consequences of abuse
-  and trauma through a broad range of services for families exposed to, or
-  affected by, physical, psychological or sexual abuse, neglect, and violence in
-  the home or community. Through thoughtfully coordinated mental health and
-  wellness programs, the Center will transition children and families out of
-  crisis, down the path of healing and towards a goal of long-term stability,
-  health, and productivity. 
 Where will you be working?:
   - South Bay
   - 'Hawthorne, Lawndale, Lennox and surrounding communities'

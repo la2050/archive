@@ -17,11 +17,6 @@ project_video: 'https://www.youtube.com/embed/BnbLK2sxsXI'
   The Story Project encourages at-risk youth in underserved communities to
   improve communication skills and personal identity through storytelling rooted
   in the media arts. 
-'In one to three sentences, please describe your proposal.': >-
-  We propose the creation of a media dialogue between rival communities
-  throughout the city of Los Angeles that erases violence by humanizing the
-  surrounding neighborhood. Stories have power. Media is a way of sharing those
-  stories. 
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Engage residents and stakeholders

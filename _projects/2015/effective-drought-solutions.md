@@ -9,7 +9,6 @@ title: Effective Drought Solutions
 project_summary: "Strategically reintroduce native beaver populations back into the dwindling watersheds around LA County, using modern techniques where beaver are \"trained\" to engineer dams where we want them to, yet leave our infrastructure intact. Beavers are proven to be highly effective at mitigating drought, flash floods, and erosion. As the first major metropolitan area to embrace this cost-effective solution, we would be ensuring a lasting, positive impact on the economy and ecology of our whole region.\r\n"
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23280%252Fdisplay%252FDrought_Solutions_3.jpg=c570x385
-'In one to three sentences, please describe your proposal.': "Strategically reintroduce native beaver populations back into the dwindling watersheds around LA County, using modern techniques where beaver are \"trained\" to engineer dams where we want them to, yet leave our infrastructure intact. Beavers are proven to be highly effective at mitigating drought, flash floods, and erosion. As the first major metropolitan area to embrace this cost-effective solution, we would be ensuring a lasting, positive impact on the economy and ecology of our whole region.\r\n"
 Where will you be working?:
   - County of Los Angeles
 How do you plan to use these resources to make change?:

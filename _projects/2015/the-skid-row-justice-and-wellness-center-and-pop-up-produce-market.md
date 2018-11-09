@@ -16,14 +16,6 @@ project_summary: >-
   micro-enterprise center.
 project_image: 'https://img.youtube.com/vi/d7u6LPKVtv4/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/d7u6LPKVtv4'
-'In one to three sentences, please describe your proposal.': >-
-  Located in the Skid Row community, but serving low-income communities of color
-  across Downtown and South LA, the LA CAN Justice and Wellness Center will
-  focus on making Los Angeles a healthy place to live for extremely low-income
-  and homeless residents, as well as others, through expanded services for
-  housing stability and homelessness prevention and increased access to healthy
-  food through a seed-to-market community garden, produce market and
-  micro-enterprise center.
 Where will you be working?:
   - Central LA
   - South LA

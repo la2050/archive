@@ -16,14 +16,6 @@ project_summary: >-
   benchmark ACT (Attitude, Commitment, Teamwork).
 project_image: 'https://img.youtube.com/vi/MIn1VBaIlrQ/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/MIn1VBaIlrQ'
-'In one to three sentences, please describe your proposal.': >-
-  CHIME levels the playing field by ensuring that students excel as productive
-  world citizens through a futuristic oriented program characterized by dynamic
-  academic curriculum, excellence in teaching/learning & the optimal use of
-  technology. We foster a positive environment for students to discover and
-  express their creative voice by bringing the imagination of young minds to
-  life through media. CHIME also emphasizes lifelong learning through our
-  benchmark ACT (Attitude, Commitment, Teamwork).
 Where will you be working?:
   - County of Los Angeles
   - >-

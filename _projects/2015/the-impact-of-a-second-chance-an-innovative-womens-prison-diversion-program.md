@@ -16,14 +16,6 @@ project_summary: >-
   mental health and psychiatry services.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23741%252Fdisplay%252F2013_Pomona_0649.JPG=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  To address the skyrocketing rates of incarceration for women who suffer from
-  substance use disorders, LA County developed the Second Chance Women’s
-  Re-entry Court (WRC) program as an alternative. WRC provides behavioral health
-  treatment, helps women unite with their children and provides practical
-  solutions like job training, parenting and life skills to help women become
-  self-sufficient. Prototypes proposes to expand services to include additional
-  mental health and psychiatry services.
 Where will you be working?:
   - County of Los Angeles
 How do you plan to use these resources to make change?:

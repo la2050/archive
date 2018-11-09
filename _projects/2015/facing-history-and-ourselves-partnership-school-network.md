@@ -16,14 +16,6 @@ project_summary: >-
   creating change in their communities.
 project_image: 'https://img.youtube.com/vi/2EbK6sblpo0/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/2EbK6sblpo0'
-'In one to three sentences, please describe your proposal.': >-
-  Facing History will engage its LA Partnership Schools Network in a year-long
-  journey to create compassionate school communities and build a stronger, more
-  empathetic LA. The network includes 17 diverse public middle and high schools
-  that infuse Facing History content across grade levels and disciplines to
-  increase students’ ability to relate history to their own lives; heighten
-  their understanding of the origins of bigotry and hatred; and engage them in
-  creating change in their communities.
 Where will you be working?:
   - East LA
   - San Fernando Valley

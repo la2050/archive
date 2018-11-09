@@ -16,14 +16,6 @@ project_summary: >-
   and expanded in 2017.
 project_image: 'https://img.youtube.com/vi/SHjS92F_BK8/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/SHjS92F_BK8'
-'In one to three sentences, please describe your proposal.': >-
-  The Incubator School will build on our playbook for entrepreneurship education
-  by developing a high school and an evaluation model that meet the needs of
-  21st Century students, families, and communities. Outcomes include a detailed
-  plan for an innovative school that can function within the constraints of
-  staffing and budget faced by other urban schools, and an evaluation system for
-  on-going feedback and improvement. Both will be developed and piloted in 2016
-  and expanded in 2017.
 Where will you be working?:
   - Westside
   - LAUSD

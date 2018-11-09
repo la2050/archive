@@ -16,14 +16,6 @@ project_summary: >-
   more just education systems.
 project_image: 'https://img.youtube.com/vi/31zyNJHGmig/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/31zyNJHGmig'
-'In one to three sentences, please describe your proposal.': >-
-  FREE LA High School is a unique education program in South Los Angeles that
-  supports system-involved youth in obtaining high school diplomas. Our students
-  are primarily youth of color who have been pushed out of traditional schools
-  through suspensions, expulsions and/or lock-ups, and are left with few options
-  to complete their degree. Social justice organizing is integrated into our
-  curriculum in order to equip youth with the skills necessary to work towards
-  more just education systems.
 Where will you be working?:
   - South LA
 How do you plan to use these resources to make change?:

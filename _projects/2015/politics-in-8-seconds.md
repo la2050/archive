@@ -15,10 +15,6 @@ project_video: 'https://www.youtube.com/embed/cljP5pJVVbE'
 'In one sentence, please describe what your organization does': >-
   We’re building an app that makes it fast, fun, and easy to become informed in
   any election - Essentially, it’s tinder for politics.
-'In one to three sentences, please describe your proposal.': >-
-  Our mission is to take the friction out of becoming an informed voter. Answer
-  a few simple questions to find out which political candidates have your best
-  interests at heart, and have a track record to back it up.
 Where will you be working?:
   - Central LA
   - San Fernando Valley

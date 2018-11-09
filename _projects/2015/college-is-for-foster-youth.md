@@ -16,14 +16,6 @@ project_summary: >-
   our College Sponsorship program earn a Bachelors within 5 years. 
 project_image: 'https://img.youtube.com/vi/adLZ6eeMc2w/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/adLZ6eeMc2w'
-'In one to three sentences, please describe your proposal.': >-
-  Believing that college access and success is the best path to
-  self-sufficiency, United Friends of the Children has created an 11-year
-  educational support continuum that helps foster youth graduate from high
-  school, aspire to and attain college acceptance, and earn their Bachelors
-  degree.  100% of those in our Readiness program 4 years or more graduate HS,
-  with more than 50% matriculating directly to 4-yr. schools;  70% of those in
-  our College Sponsorship program earn a Bachelors within 5 years. 
 Where will you be working?:
   - County of Los Angeles
 How do you plan to use these resources to make change?:

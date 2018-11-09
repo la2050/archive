@@ -18,14 +18,6 @@ project_summary: >-
   training ground for future play-workers. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24111%252Fdisplay%252FSCV_ADvplay_table_logo.png=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  SCV Adventure Play is teaming up with Pop-up Adventure Play of the UK who will
-  send an official play-worker to expand our pop-up adventure playgrounds into
-  low income communities throughout LA County and help these areas cultivate
-  their own play culture and spaces.  It will also further develop "Eureka
-  Villa" a permanent adventure playground in Northern LA County as a destination
-  for young people to play on a beautiful 2 acre wild space and serve as a
-  training ground for future play-workers. 
 Where will you be working?:
   - County of Los Angeles
   - City of Los Angeles

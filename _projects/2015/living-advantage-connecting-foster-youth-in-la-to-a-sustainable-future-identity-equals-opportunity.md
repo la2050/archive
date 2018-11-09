@@ -21,13 +21,6 @@ project_video: 'https://www.youtube.com/embed/1_UXQ2fFeSU'
   LA, Inc. brings a more innovative approach by utilizing a technological and
   media platform in servicing at risk youth targeting the foster care/probation
   population through collaboration while leveraging services and resources.
-'In one to three sentences, please describe your proposal.': >-
-  LA, Inc. will expand our reach & give quality services to 1,000 at risk and
-  foster youth in LA, who are in danger of dropping out of school, being
-  unemployed, becoming homeless and incarcerated. Our approach is through
-  collaboration to connect, engage & interact with LA service providers. Some
-  goals… high school students will graduate on time, be college and/or career
-  prepared and receive social and emotional support for higher self-esteem. 
 Where will you be working?:
   - Central LA
   - East LA

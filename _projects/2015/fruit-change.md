@@ -19,13 +19,6 @@ project_image: >-
   Fruit Change is an organization founded with the intent to develop a system
   for San Pedro neighbors to connect with each other by sharing the bounty from
   neighborhood fruit trees. 
-'In one to three sentences, please describe your proposal.': >-
-  Fruit Change aims to connect neighbors who have fruit trees with neighbors who
-  want the fruit, subsequently fostering connections between neighbors across
-  age, class, ethnic and geographic borders that may otherwise never happen.
-  Those with trees will be able to trade with their neighbors, thus eliminating
-  the waste of excess fruit. Those without trees can trade in sweat equity by
-  picking, sorting, preserving and delivering fruit with their neighbors.
 Where will you be working?:
   - 'San Pedro, CA'
 How do you plan to use these resources to make change?:

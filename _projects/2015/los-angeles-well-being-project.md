@@ -16,14 +16,6 @@ project_summary: >-
   practices that make Vision 80 a reality. 
 project_image: 'https://img.youtube.com/vi/EJWQ6cYZBCk/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/EJWQ6cYZBCk'
-'In one to three sentences, please describe your proposal.': >-
-  The Los Angeles Well-being Project is a collaborative campaign aimed at
-  building the momentum and advancing a shift toward resilience, healthy, and
-  equitable mobility for all.  Expanding on the "Happiness & Well-Being Index"
-  in Los Angeles from 2014, HappyCity Los Angeles will bring together local
-  leaders in government, civil society organizations, media, businesses, and
-  economists to develop strategies for distributed leadership for policies and
-  practices that make Vision 80 a reality. 
 Where will you be working?:
   - Central LA
   - East LA

@@ -16,14 +16,6 @@ project_summary: >-
   ridership, and 5) make it easier to learn! 
 project_image: 'https://img.youtube.com/vi/uiAFCgZ6YRw/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/uiAFCgZ6YRw'
-'In one to three sentences, please describe your proposal.': >-
-  With the cost of education going up and the economic fortunes of families
-  going down, students need a break. We’re working with LA Metro and community
-  colleges in LA County to build support for prepaid fare-free student transit
-  passes to: 1) make it easier and cheaper for students to get to school and
-  jobs; 2) reduce traffic, driving and GHG emissions; 3) fill empty seats on
-  transit and reduce the operating cost per ride; 4) encourage life-long
-  ridership, and 5) make it easier to learn! 
 Where will you be working?:
   - County of Los Angeles
 How do you plan to use these resources to make change?:

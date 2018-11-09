@@ -20,14 +20,6 @@ project_image: >-
   AOA transforms lives and communities through the arts by creating an
   environment that nurtures theatre artists who value humanity as their first
   priority.
-'In one to three sentences, please describe your proposal.': >-
-  AOA is using theatre to transform lives of some of LA’s most challenged
-  citizens. Through AOA’s Outreach Division we are serving incarcerated women in
-  partnership with Five Keys Charter School and Twin Towers Correctional
-  Facility and men in the Pitchess Juvenile Detention Center.  Our incarcerated
-  students receive training in Voice and Speech, Movement and Acting Technique
-  and then develop a body of original theatre to be performed for their peers
-  and their teachers.
 Where will you be working?:
   - 'Twin Towers Correctional Facility, Pitchess Detention Center(Castaic)'
 How do you plan to use these resources to make change?:

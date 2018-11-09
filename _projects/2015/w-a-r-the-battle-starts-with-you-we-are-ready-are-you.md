@@ -16,14 +16,6 @@ project_summary: >-
   community members in the city of Los Angeles.
 project_image: 'https://img.youtube.com/vi/t3QQPi2pnEU/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/t3QQPi2pnEU'
-'In one to three sentences, please describe your proposal.': >-
-  After-School All-Stars, Los Angeles wants to support our youth as they move
-  through the toughest transition, middle school to high school, and make
-  life-changing decisions that will determine their paths in high school and
-  beyond. We want to continue to mentor our students in their high school years
-  and provide them an opportunity to also mentor the future and make a
-  difference. Through this program, students will become successful and active
-  community members in the city of Los Angeles.
 Where will you be working?:
   - Central LA
   - East LA

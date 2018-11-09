@@ -18,14 +18,6 @@ project_summary: >-
   the next hub for K-12 education innovation.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23338%252Fdisplay%252FScreen_Shot_2015-10-03_at_3.51.42_PM.png=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  Reframe engages frontline educators in collaborative school design, rethinking
-  the factory school model in favor of designs that personalize learning for
-  students. Our programs include: free, monthly workshops across LA; deeper
-  2-day bootcamps; a 6-month Redesign program open to any existing school
-  (public, charter, private); and a prestigious 1-year Next Gen Fellowship for
-  leaders who want to launch innovative new schools. Reframe will help LA become
-  the next hub for K-12 education innovation.
 Where will you be working?:
   - County of Los Angeles
   - City of Los Angeles

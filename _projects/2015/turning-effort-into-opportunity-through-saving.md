@@ -14,12 +14,6 @@ project_summary: >-
   weather financial storms, and invest in their dreams
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23728%252Fdisplay%252FEarnlogopage2.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  EARN will expand our innovative, online, matched savings program to serve
-  families in Los Angeles. EARN’s program promotes positive financial behavior
-  and develops a lasting habit of saving, which is the first step in achieving
-  financial security and upward mobility. Through saving, individuals can
-  weather financial storms, and invest in their dreams
 Where will you be working?:
   - County of Los Angeles
   - City of Los Angeles

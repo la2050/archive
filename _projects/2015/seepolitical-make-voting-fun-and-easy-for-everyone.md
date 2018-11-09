@@ -12,7 +12,6 @@ project_video: 'https://www.youtube.com/embed/atB8yIPXKCk'
 'In one sentence, please describe what your organization does': >-
   SeePolitical demystifies the issues on your ballot as well as the process of
   how they get there. 
-'In one to three sentences, please describe your proposal.': "SeePolitical is in negotiations with 3 major universities located in Los Angeles to establish the first SeePolitical Institute. \r\n\r\nEstablishment of the SeePolitical Institute will create a proven sustainable model by which college students research issues confronting voters and produce nonpartisan educational content for public consumption. "
 Where will you be working?:
   - City of Los Angeles
   - LAUSD

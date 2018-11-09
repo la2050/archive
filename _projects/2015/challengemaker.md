@@ -13,7 +13,6 @@ project_image: >-
   ChallengeMaker is a platform that allows nonprofits, companies, influencers
   and regular folks alike to host fundraising campaigns for nonprofits using fun
   challenges.
-'In one to three sentences, please describe your proposal.': 'With this grant there will be no end to the good we can do for our community. '
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Conduct research

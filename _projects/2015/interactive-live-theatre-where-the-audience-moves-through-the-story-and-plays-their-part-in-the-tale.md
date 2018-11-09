@@ -19,10 +19,6 @@ project_video: 'https://www.youtube.com/embed/wGHuWyQEQIU'
   nation. We create eerie "moving plays" in existing structures (such as old
   mansions) where the audience plays parts in a living, breathing, and tangible
   story.
-'In one to three sentences, please describe your proposal.': >-
-  This new and innovative type of theatre has been a wild hit here in LA. Yet we
-  remain a small theatre company in need of funds to keep the momentum going and
-  build our next year-round play here in LA. 
 Where will you be working?:
   - South LA
 How do you plan to use these resources to make change?:

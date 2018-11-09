@@ -23,14 +23,6 @@ project_image: >-
   authority, promoting the understanding and use of California native plants
   through its educational programs, retail nursery, outreach, seed program, and
   demonstration gardens.
-'In one to three sentences, please describe your proposal.': >-
-  Landscaping for Resilience brings people together to change their
-  neighborhoods through installing and maintaining public native plant gardens.
-  People connect over their shared desire for pubic green space and a richer and
-  more rewarding urban environment. LFR provides environmental and social
-  benefits, demonstrating how communities, government agencies, and non-profits
-  can work together to enhance green space and create skill sets for positive
-  environmental change within Los Angeles County.
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Engage residents and stakeholders

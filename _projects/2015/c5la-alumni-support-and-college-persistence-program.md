@@ -16,14 +16,6 @@ project_summary: >-
   population to persist and succeed in college.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24065%252Fdisplay%252Fclass_of_2016_selfie.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  C5LA serves kids at high risk for school dropout due to poverty, precarious
-  living circumstances, and prevalence of gangs in their neighborhoods. Our
-  5-year program of leadership camps, college/career prep, and service learning
-  helps students realize their true potential. C5LA gets at-risk youth to
-  college; however, many are unable to stay the course. Funding from LA2050 will
-  enable C5LA to implement college retention initiatives for this vulnerable
-  population to persist and succeed in college.
 Where will you be working?:
   - County of Los Angeles
 How do you plan to use these resources to make change?:

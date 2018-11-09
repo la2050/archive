@@ -20,14 +20,6 @@ project_image: >-
   People For the American Way Foundation protects constitutional values under
   attack from the Right and defends the values that honor free speech, religious
   liberty, equal opportunity and equal justice for all.
-'In one to three sentences, please describe your proposal.': >-
-  Building on the success of the first of a two-year pilot, we’ll recruit a
-  second group of young people from LA County – those underrepresented in local
-  public leadership, such as young women, young people of color, and LGBTQ youth
-  – and train them using the Front Line Leaders Academy’s leadership development
-  model to take on greater civic participation roles. We’ll also provide support
-  to the first cohort of young leaders trained last year as they continue
-  community service.
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Engage residents and stakeholders

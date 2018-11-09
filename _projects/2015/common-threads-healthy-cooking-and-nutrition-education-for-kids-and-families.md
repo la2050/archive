@@ -16,14 +16,6 @@ project_summary: >-
   of 3,649 individuals. 
 project_image: 'https://img.youtube.com/vi/teuTGnS3vkM/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/teuTGnS3vkM'
-'In one to three sentences, please describe your proposal.': >-
-  We are seeking $100,000 in support of our hands-on, in- and out-of-school
-  healthy cooking and nutrition education for underserved kids, their families,
-  and their teachers. Our programs bring healthy food to children in need, while
-  also teaching them how to prepare nutritious, affordable meals and snacks on
-  their own. During the 2015-2016 school year, we will partner with 15 Los
-  Angeles schools to implement our proven programming, thereby reaching a total
-  of 3,649 individuals. 
 Where will you be working?:
   - County of Los Angeles
   - LAUSD

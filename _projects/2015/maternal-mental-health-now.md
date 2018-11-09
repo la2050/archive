@@ -16,14 +16,6 @@ project_summary: >-
   workshops in the communities surrounding the sites.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23910%252Fdisplay%252FMMH-NOW_Final_Logo_9.1.15_(8.5_x_3_5).jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  The overall goal of our project is to improve recognition and response to
-  perinatal mood and anxiety disorders in medical settings in the safety net. We
-  will do this by implementing a model of collaborative perinatal mental health
-  care in 3 FQHCs, evaluating its effectiveness and creating a best practice
-  guide. We will address other barriers to identification and treatment of
-  perinatal mood and anxiety disorders by facilitating stigma-reduction
-  workshops in the communities surrounding the sites.
 Where will you be working?:
   - County of Los Angeles
 How do you plan to use these resources to make change?:

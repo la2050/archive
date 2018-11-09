@@ -20,13 +20,6 @@ project_video: 'https://www.youtube.com/embed/W8wBA--Vo8o'
   youth from across L.A. to address pressing social issues while gaining
   valuable leadership skills through significant service experiences with local
   organizations.
-'In one to three sentences, please describe your proposal.': >-
-  We are working with a diverse group of young people from across Los Angeles
-  who have talents, ideas, and energy that are waiting to be activated. We
-  empower these youth to take action on issues in their community that are
-  important to them. This proposal supports the expansion of our reach and
-  impact in 2016, as we increase the size of our middle school program from 75
-  to 100 youth and launch our high school program with 75 youth.
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Implement a pilot or new project

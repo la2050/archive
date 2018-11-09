@@ -15,13 +15,6 @@ project_summary: >-
   help people create stronger communities. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23850%252Fdisplay%252FIMG_9355.JPG=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  We built the first park in 30 days with less than $20K and a lot of volunteer
-  help.  We propose to re-create this project in 5-7 unused or open city owned
-  spaces all over LA.  We have lessons learned in place from the first
-  successful pop up park and partners ready to support the creation of several
-  more right away.  We can take dead space in LA and bring it back to life to
-  help people create stronger communities. 
 Where will you be working?:
   - County of Los Angeles
   - City of Los Angeles

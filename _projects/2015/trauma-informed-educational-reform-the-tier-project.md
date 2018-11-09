@@ -16,14 +16,6 @@ project_summary: >-
   action plans.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23820%252Fdisplay%252FTIER.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  The TIER Project is designed to transform public school districts in Los
-  Angeles County into trauma informed educational systems. Eighty school
-  districts will participate in the TIER Project’s 2-day training which includes
-  curriculum on trauma, trauma informed evidence based practices, and developing
-  action plans to implement these practices for K-12 classes. After the training
-  school districts will receive technical assistance to help implement their
-  action plans.
 Where will you be working?:
   - County of Los Angeles
 How do you plan to use these resources to make change?:

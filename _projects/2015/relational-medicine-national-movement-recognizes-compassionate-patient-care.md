@@ -20,13 +20,6 @@ project_image: >-
   through its dedication to the “relationally present” person-to-person
   encounter between patient and healthcare professionals and its dissemination
   of research results.
-'In one to three sentences, please describe your proposal.': >-
-  Based on Dr. Federica Raia's ethnographic and participatory research, the
-  Relational Medicine Foundation's key activities include: patient and student
-  involvement in the artistic integration of Art and Medicine to aid the process
-  of healing through collaboration with innovative and well-respected arts and
-  cultural institutions, and the dissemination of research results to the
-  community.
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Conduct research

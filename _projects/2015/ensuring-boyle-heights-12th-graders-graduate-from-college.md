@@ -16,14 +16,6 @@ project_summary: >-
   an expectation for all students across LA.
 project_image: 'https://img.youtube.com/vi/vTrYQcYICQQ/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/vTrYQcYICQQ'
-'In one to three sentences, please describe your proposal.': >-
-  A $100,000 LA2050 grant will provide college scholarship funds to up to 46
-  i.am College Track Boyle Heights 12th graders graduating from Roosevelt High
-  School this June. Almost all of these students will be the first in their
-  family to graduate from college, and most come from families that are living
-  at or below the federal poverty level. Funding from LA2050 will help make
-  college a reality for these students, and support our efforts to make college
-  an expectation for all students across LA.
 Where will you be working?:
   - East LA
   - Roosevelt High School; Boyle Heights

@@ -19,12 +19,6 @@ project_video: 'https://www.youtube.com/embed/13dwU_7eCrQ'
   provide gender-responsive services including access to basic needs and
   resources, clinical health and wellness, mental health, housing, education,
   and job readiness.
-'In one to three sentences, please describe your proposal.': >-
-  DWC is seeking $100,000 from the Goldhirsh Foundation to support the expansion
-  of our transitional employment program. DWC will place 10 women into paid
-  employment through our two retail stores in downtown LA, for a period of 12
-  months, gaining hands-on work experience in customer service, food handling,
-  drink making, inventory management, and retail. 
 Where will you be working?:
   - 'Skid Row, Los Angeles '
 How do you plan to use these resources to make change?:

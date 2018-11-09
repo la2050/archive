@@ -15,13 +15,6 @@ project_summary: >-
   sexual assault, gang violence and bullying. 
 project_image: 'https://img.youtube.com/vi/2EuVrQnBaFE/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/2EuVrQnBaFE'
-'In one to three sentences, please describe your proposal.': >-
-  The  Consolidated Youth Project (CYP)  was created to reduce the impact of
-  violence on youth in South Los Angeles through the creation of a Coordinated
-  Community Response Network (CCRN) that provides comprehensive prevention,
-  intervention, and a training service model to address the needs of youth
-  exposed to domestic violence, teen dating violence, intimate partner violence,
-  sexual assault, gang violence and bullying. 
 Where will you be working?:
   - South LA
   - County of Los Angeles

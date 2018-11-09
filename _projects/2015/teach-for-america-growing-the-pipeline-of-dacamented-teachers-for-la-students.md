@@ -15,13 +15,6 @@ project_summary: >-
   students who share the same background.
 project_image: 'https://img.youtube.com/vi/Iih_C_KRHL0/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Iih_C_KRHL0'
-'In one to three sentences, please describe your proposal.': >-
-  Given the issues facing our immigrant students in Los Angeles and with the
-  announcement of Deferred Action for Childhood Arrivals (DACA) in 2012, we are
-  committed to increasing pathways for DACA recipients to join as Teach For
-  America corps members teaching in Los Angeles public schools. We believe
-  DACAmented corps members have the unique potential to serve as role models for
-  students who share the same background.
 Where will you be working?:
   - Central LA
   - East LA

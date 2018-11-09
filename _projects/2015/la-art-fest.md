@@ -17,12 +17,6 @@ project_video: 'https://www.youtube.com/embed/pnwgZVtiDAA'
 'In one sentence, please describe what your organization does': >-
   It produces, funds, and develops art events and projects for and with the
   diverse communities in Los Angeles.
-'In one to three sentences, please describe your proposal.': >-
-  LA Art Fest will present work by the most innovative and interesting artists
-  in Los Angeles. The event will be a juxtaposition of styles and cultures
-  reflecting the true tapestry of art communities throughout Los Angeles. The
-  event will feature music, painting, sculpture, and craft-works created by
-  artists in the area. 
 Where will you be working?:
   - Central LA
   - >-

@@ -18,12 +18,6 @@ project_video: 'https://www.youtube.com/embed/ENJ15Tkyiqw'
   Citizens Of Culture uses an experience design and “culture hacking” to
   educate, inspire, and motivate people to think critically and put their
   creativity into action.
-'In one to three sentences, please describe your proposal.': >-
-  Citizens Of Culture will develop a cross platform community of artists,
-  entrepreneurs and everyday citizens that extends to web, print, and live
-  events. We are establishing a culture of entrepreneurship that moves people to
-  start their own firms and gives them resource to be successful, specifically
-  surviving the first year in business.
 Where will you be working?:
   - South LA
   - Chuco's Justice Center

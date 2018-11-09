@@ -16,14 +16,6 @@ project_summary: >-
   and then demand permanent change. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24129%252Fdisplay%252FScreen_Shot_2015-10-07_at_4.00.20_PM.png=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  The Great Streets Challenge will temporarily transform five main streets into
-  vibrant, healthy, playful public spaces. Community based organizations will
-  design and lead projects through a comprehensive outreach process that will
-  culminate in a physical demonstration of an innovative street design. This
-  process fundamentally disrupts traditional planning and capital development by
-  empowering local communities to re-imagine their front yards – city streets –
-  and then demand permanent change. 
 Where will you be working?:
   - City of Los Angeles
 How do you plan to use these resources to make change?:

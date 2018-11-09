@@ -19,14 +19,6 @@ project_video: 'https://www.youtube.com/embed/X9EpK48pYtY'
 'In one sentence, please describe what your organization does': >-
   The Moving Museum runs a nomadic contemporary art program in significant
   locations across the world.
-'In one to three sentences, please describe your proposal.': >-
-  For The Moving Museum Los Angeles we will establish an international residency
-  program with 15 local and 25 international artists in Spring 2016. Over 4
-  months there will be a citywide intensive period of production and creation of
-  new commissioned artwork, which will culminate in a 2month biennale scale
-  exhibition in September. The backbone to the project will be a curated public
-  program of events focused on the creation of culinary projects and
-  performances initiated by participating artists.
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Conduct research

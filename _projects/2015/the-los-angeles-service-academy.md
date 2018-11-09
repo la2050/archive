@@ -20,14 +20,6 @@ project_image: >-
   The Los Angeles Service Academy provides an intensive introduction to the
   infrastructure and institutions of greater Los Angeles for high school juniors
   who have expressed an interest in public service and civic engagement.  
-'In one to three sentences, please describe your proposal.': >-
-  We seek philanthropic support to fund LASA's ongoing operations and next
-  cohort of student participants in the 2016-2017 programmatic year. 
-  Specifically, LASA brings together high school juniors from all over Los
-  Angeles County for an intensive week in the summer, plus one Saturday per
-  month during the school year. Each meeting combines experts with field trips
-  tied to themes critical to civic life in LA: transit, governance, water, the
-  LA River, the harbor, law enforcement, food/housing, etc.
 Where will you be working?:
   - Central LA
   - East LA

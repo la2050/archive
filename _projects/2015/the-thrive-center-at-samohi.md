@@ -16,14 +16,6 @@ project_summary: >-
   the support and tools needed to thrive.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23931%252Fdisplay%252Fwordcloud-thrivecenter.png=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  Teens are facing a mental health crisis due to a complex interplay of factors
-  that takes many forms, including substance abuse, social isolation,
-  depression, and suicidal ideation. The Thrive Center at Santa Monica High
-  School will tackle the crisis head-on through coordinated wellbeing services
-  and positive psychology. This next generation school-based health center will
-  be a place where teens learn how to do more than just survive - they will find
-  the support and tools needed to thrive.
 Where will you be working?:
   - Westside
   - 'Santa Monica High School, SMMUSD, Santa Monica'

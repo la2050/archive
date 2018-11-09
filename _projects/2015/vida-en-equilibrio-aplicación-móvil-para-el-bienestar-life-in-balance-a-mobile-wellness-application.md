@@ -16,12 +16,6 @@ project_summary: >-
   also in Spanish.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23673%252Fdisplay%252Fvidaenequilibrio.png=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  To design and implement a mobile chronic disease prevention experience.  This
-  app will present original, evidence-based content, and will also include live
-  interaction with health educators and other participants throughout the
-  duration of the experience.  The experience will be available in English and
-  also in Spanish.
 Where will you be working?:
   - County of Los Angeles
 How do you plan to use these resources to make change?:

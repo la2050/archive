@@ -18,10 +18,6 @@ project_image: >-
   The Southwest Area Police Youth Board is comprised of Board-elected community
   youth, and elected youth and adult advisers, with the goal of increasing youth
   involvement in community safety and quality of life issues in Southwest Area.
-'In one to three sentences, please describe your proposal.': >-
-  The Public Safety Youth Conference will gather advice, concerns and
-  recommendations on deterring crime and fostering public safety and community
-  policing from the perspective of the youth in our communities.
 Where will you be working?:
   - South LA
   - City of Los Angeles

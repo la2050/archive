@@ -15,13 +15,6 @@ project_summary: >-
   & medicinal herbs.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24023%252Fdisplay%252FLA2050_Freeway_Growth.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  The majority of California farms are located far removed from the predominate
-  consumers - the urban dwelling general public. This project proposes to
-  transform an iconic facet of life in Los Angeles by utilise the peri-freeway
-  spaces. These spaces, that are normatively occupied by shrubs and ice plants,
-  would be replaced with micro-climate appropriate edible fruit/vegetable crops
-  & medicinal herbs.
 Where will you be working?:
   - County of Los Angeles
 How do you plan to use these resources to make change?:

@@ -21,14 +21,6 @@ project_video: 'https://www.youtube.com/embed/iQpQqqot8AQ'
   job training, mentoring and education, combined with expert career guidance
   and employer partnerships, transforming lives and lifting families out of
   poverty.
-'In one to three sentences, please describe your proposal.': >-
-  JVS WorksTM will hire a staff person to implement a public awareness and
-  outreach campaign across LA County aimed at reducing the skills gap for people
-  who in spite of having a H.S. Diploma or GED remain under- or unemployed. 
-  Through this outreach, coupled with our rigorous recruitment and screening
-  process, 350 people will be enrolled in a JVS WorksTM training program that is
-  supported by leading industry employers and prepares graduates for careers
-  beyond 2050 in high-growth industries. 
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Expand a pilot or a program

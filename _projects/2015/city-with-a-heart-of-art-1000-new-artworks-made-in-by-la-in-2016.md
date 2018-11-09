@@ -13,7 +13,6 @@ project_video: 'https://www.youtube.com/embed/jpQSRVlR_XM'
   Heart of Art Gallery is a conscious space run by women in South LA that
   provides a safe, unfiltered space for the creation and presentation of art
   made by women, youth, and members of the LGBTQIA community.
-'In one to three sentences, please describe your proposal.': "The Heart of Art Gallery proposes:  1000 New Artworks made in & by LA in 2016!\r\n\r\nWith a grant of...\r\n\r\n100,000 dollars, we will outreach to the over \r\n\r\n10,000 women, youth and LGBTQIA artists in LA, to ask them to help produce\r\n\r\n1,000 new works of art in 2016, to exhibit at one or more of our \r\n\r\n100 community art events during the year, and continue our outreach at at least\r\n\r\n10 university events, all by rebuilding our \r\n\r\n1 Heart of Art gallery."
 Where will you be working?:
   - South LA
   - 'South Central LA, Exposition Park area'

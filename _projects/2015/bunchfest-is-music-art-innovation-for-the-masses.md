@@ -18,12 +18,6 @@ project_video: 'https://www.youtube.com/embed/ByhCcHjp3FQ'
   We publish BUNCH Magazine which equips creative professionals and those who
   are curious about careers in creative fields with tools, tips, and inspiration
   through storytelling and guides.
-'In one to three sentences, please describe your proposal.': >-
-  We are creating BUNCHFEST, a 3 day festival that aims to take the tools
-  explored in the magazine offline and brought to the masses. BUNCH Magazine is
-  dedicated to bringing resources to creatives with the goal of increasing
-  employment in creative fields and empowering makers and entrepreneurs in these
-  industries. 
 Where will you be working?:
   - East LA
   - 'Arts District, Downtown Los Angeles'

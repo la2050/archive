@@ -21,14 +21,6 @@ project_video: 'https://www.youtube.com/embed/TjRq-S_gY9U'
   reduce commuting costs, Green Commuter will utilize a fleet of electric
   vehicles to provide a combined service of vanpool, car sharing, and fleet
   replacement.
-'In one to three sentences, please describe your proposal.': >-
-  Green Commuter emphasizes sustainability and maximizing the efficiency of the
-  existing transportation network at a human scale. This proposal expands the
-  upcoming launch of our pilot programs offering complete car sharing and
-  vanpooling services using the latest technology and zero-emission vehicles
-  (ZEVs) to facilitate travel across the greater LA area. We offer the most
-  comprehensive program to reduce greenhouse gas emissions and traffic
-  congestion, all while reducing commuting costs.
 Where will you be working?:
   - Central LA
   - East LA

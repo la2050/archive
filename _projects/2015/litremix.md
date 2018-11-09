@@ -16,14 +16,6 @@ project_summary: >-
   reading books relevant to their students.
 project_image: 'https://img.youtube.com/vi/0EQnXawnCQk/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/0EQnXawnCQk'
-'In one to three sentences, please describe your proposal.': >-
-  The world looks toward Los Angeles as the mecca of creativity and imagination,
-  making it the perfect anchor city to pilot LitRemix. We are proposing a
-  partnership to engage both HS and college students in a program that generates
-  art inspired by specific classic books taught in school. Common-core
-  compliant, LitRemix is based on 10 years of work through Artists for Literacy.
-  It directly addresses the challenge teachers have to make the experience of
-  reading books relevant to their students.
 Where will you be working?:
   - Westside
   - City of Los Angeles

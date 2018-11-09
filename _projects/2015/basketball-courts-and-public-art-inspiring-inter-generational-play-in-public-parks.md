@@ -18,14 +18,6 @@ project_summary: >-
   appropriate.  
 project_image: 'https://img.youtube.com/vi/phXK2cX3WEk/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/phXK2cX3WEk'
-'In one to three sentences, please describe your proposal.': >-
-  Public park basketball courts are the “heart-beat” of many communities. 
-  Leveraging the energy and creativity created by outdoor basketball, Project
-  Backboard will coordinate with local and national partners to renovate 15
-  basketball courts in LA, commission and install public art, made by community
-  members and working artists, around each court, host free all-ages basketball
-  tournaments, cleaning up graffiti and install outdoor fitness equipment where
-  appropriate.  
 Where will you be working?:
   - City of Los Angeles
 How do you plan to use these resources to make change?:

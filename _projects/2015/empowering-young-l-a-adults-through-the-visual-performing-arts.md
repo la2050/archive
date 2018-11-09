@@ -20,14 +20,6 @@ project_video: 'https://www.youtube.com/embed/-_7F7nxyZ1Y'
   For the past three years, PIECES has been empowering young L.A. artists to
   pursue their dreams by providing valuable creative tools including mentorship,
   community support, educational and professional opportunities. 
-'In one to three sentences, please describe your proposal.': >-
-  Throughout the following year PIECES will be expanding its programming to
-  better serve its growing number of young artists seeking a place to grow
-  artistically and to create. To effectively do so, we will offer more
-  professional learning opportunities, conduct outreach to secure more
-  volunteers, mentors and staff, as well as organize events for the community
-  that showcase the work of our members. Our purpose for doing this is to ensure
-  that more and more of  our young artists find success.
 Where will you be working?:
   - Westside
 How do you plan to use these resources to make change?:

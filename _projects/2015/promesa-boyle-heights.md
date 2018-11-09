@@ -16,14 +16,6 @@ project_summary: >-
   act & create a more just community.
 project_image: 'https://img.youtube.com/vi/S4rpsBWmEw4/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/S4rpsBWmEw4'
-'In one to three sentences, please describe your proposal.': >-
-  It takes a village to nurture a child’s success. A thriving student is the
-  result of more than a good school. It is also a thriving community with jobs,
-  affordable housing, wellness access, & strong social networks. That is why, we
-  are united around a vision where: 1) every child has an opportunity to learn,
-  grow & succeed from cradle through college and career; 2) families can live a
-  stable, healthy and fulfilling life; and 3) every individual is empowered to
-  act & create a more just community.
 Where will you be working?:
   - East LA
   - County of Los Angeles

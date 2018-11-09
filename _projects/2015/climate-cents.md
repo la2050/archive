@@ -16,14 +16,6 @@ project_summary: >-
   friends to take action and maximize your impact.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23638%252Fdisplay%252Fnew_site3.png=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  In a divided, distracted, disconnected city, Climate Cents brings people
-  together by showcasing local environmental initiatives, and making it easy to
-  get involved. When you donate your money or time, you’ll instantly receive the
-  gratification of knowing the difference you’re making – a stream of
-  personalized metrics like CO2 reductions, plus inspiring photos and data
-  visualizations. It’s simple to share these on social media, motivate your
-  friends to take action and maximize your impact.
 Where will you be working?:
   - County of Los Angeles
 How do you plan to use these resources to make change?:

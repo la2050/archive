@@ -18,14 +18,6 @@ project_summary: >-
   learning and academic outcomes.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23399%252Fdisplay%252FBBBSLA_Workplace_Mentoring_-_Linked_Learning.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  In a world that is becoming increasingly automated & online, one of the most
-  radical & innovative things you can do is to return to the basics to unleash
-  the potential in real human to human interaction. Most people can identify an
-  adult from their childhood who served as their guide and "showed us the ropes"
-  - a mentor. BBBSLA wants to connect our city's vulnerable youth to qualified
-  mentors through our programs, which have been proven to measurably improve
-  learning and academic outcomes.
 Where will you be working?:
   - Central LA
   - East LA

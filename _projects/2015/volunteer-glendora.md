@@ -20,14 +20,6 @@ project_image: >-
   The City of Glendora provides the citizens and business community with a full
   range of effective municipal services while maintaining our historical sense
   of community values.
-'In one to three sentences, please describe your proposal.': >-
-  The City of Glendora offers a variety of opportunities to its residents as
-  well as those of surrounding communities, to volunteer within our parks,
-  facilities and wilderness areas.  The City would like to increase  its
-  volunteer programs in our Trails and Wilderness areas as well as individual
-  projects by investing in an enclosed mobile tool trailer that would house
-  various equipment needed for volunteer projects throughout the City.  It is
-  the goal of the City to get the community excited about
 Where will you be working?:
   - San Gabriel Valley
   - City of Glendora

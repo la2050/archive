@@ -16,14 +16,6 @@ project_summary: >-
   portion of the LA River to 20 locations alon
 project_image: 'https://img.youtube.com/vi/NlnlvjCu_AE/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/NlnlvjCu_AE'
-'In one to three sentences, please describe your proposal.': >-
-  TEN FEET 2016 will be a temporary arts and culture exhibition and a series of
-  after school intergenerational workshops featuring local artists engaging
-  residents, visitors, students, and others.  10 FEET explores the potential for
-  new River friendly relationships between private properties and the LA River
-  increasing and elevating our places to play in LA. We propose to expand our
-  2015 inaugural event of 7 participants and venues along a 2 mile linear
-  portion of the LA River to 20 locations alon
 Where will you be working?:
   - Central LA
   - East LA

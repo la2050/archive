@@ -9,7 +9,6 @@ title: Dome4aHome A revolutionary idea for low-income housing
 project_summary: "We will construct two Monolithic Dome homes to showcase the extraordinary qualities of reinforced, open-span concrete construction. \r\nWe will show how by providing skills training to the unemployed we can construct permanent, high quality, low-cost housing for the homeless."
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23466%252Fdisplay%252Flarge_domes-134_crop.jpg=c570x385
-'In one to three sentences, please describe your proposal.': "We will construct two Monolithic Dome homes to showcase the extraordinary qualities of reinforced, open-span concrete construction. \r\nWe will show how by providing skills training to the unemployed we can construct permanent, high quality, low-cost housing for the homeless."
 Where will you be working?:
   - County of Los Angeles
   - City of Los Angeles

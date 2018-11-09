@@ -16,14 +16,6 @@ project_summary: >-
   in their field of major.
 project_image: 'https://img.youtube.com/vi/f_x1AGOuR7A/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/f_x1AGOuR7A'
-'In one to three sentences, please describe your proposal.': >-
-  WestCal Academy identifies student success in three ways: identifying a career
-  pathway; completing high school, college, and/or vocational training; and
-  securing employment in their field of major. WestCal Academy promotes "Career
-  Pathways" and "Linked Learning" approaches that connects industry mentors with
-  classroom instruction to motivate students towards a career pathway. WestCal
-  Academy also assists with connecting students with potential mentors who work
-  in their field of major.
 Where will you be working?:
   - Central LA
   - East LA

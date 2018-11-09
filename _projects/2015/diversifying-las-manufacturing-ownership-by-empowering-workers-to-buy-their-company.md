@@ -18,10 +18,6 @@ project_image: >-
   Concerned Capital creates business ownership opportunities for long-term blue
   collar workers in privately held Southern California companies in order to
   build wealth in minority communities and preserve jobs.
-'In one to three sentences, please describe your proposal.': >-
-  The project will help key employees and related parties buy their company and
-  in the process save jobs, promote investment, and help businesses get back
-  into growth mode.
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Expand a pilot or a program

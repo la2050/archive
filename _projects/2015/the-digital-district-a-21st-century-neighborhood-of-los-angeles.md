@@ -18,12 +18,6 @@ project_image: >-
   Impact Hub Los Angeles is a local incubator/community center part of a global
   network of 11,000 social entrepreneurs in 82 Impact Hubs spread across five
   continents.
-'In one to three sentences, please describe your proposal.': >-
-  In an effort to improve civic engagement and community involvement, Impact Hub
-  Los Angeles is proposing a centrally-organized, interactive public wifi
-  network in the Arts District that will disseminate civic updates, provide
-  information about events and help coordinate large-scale community-based
-  initiatives. 
 Where will you be working?:
   - 'Arts District '
 How do you plan to use these resources to make change?:

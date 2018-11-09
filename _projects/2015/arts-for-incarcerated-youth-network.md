@@ -20,13 +20,6 @@ project_video: 'https://www.youtube.com/embed/Wx27G6vdyF4'
   collaborative that provides exceptional arts programming in order to build
   resiliency and wellness, eliminate recidivism, and transform the juvenile
   justice system. 
-'In one to three sentences, please describe your proposal.': >-
-  AIYN is seeking funds to match an investment by the Los Angeles County
-  Probation Department and the Los Angeles County Arts Commission to provide
-  comprehensive, multi-disciplinary arts programming in all juvenile detention
-  camps and halls across Los Angeles County in the coming year.  This bold
-  initiative has the power to transform our young people, the systems that serve
-  them, and create a powerful resource for the creative economy in Los Angeles.
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Implement a pilot or new project

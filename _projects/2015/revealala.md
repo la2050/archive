@@ -13,7 +13,6 @@ project_image: >-
   The mission of The Architecture and Design Museum is to celebrate and promote
   an awareness of progressive architecture and design in everyday life through
   exhibits, educational programs and public outreach.
-'In one to three sentences, please describe your proposal.': "ReveaLALA is a series of interventions that highlight and reframe important visual depictions of Latino culture in Los Angeles.\r\n\r\nFrom public sculptures and iconic buildings to road signs and street vendors, each element will literally be‘reframed’ with a simple color panel placed behind it – momentarily taking the piece out of its surroundings and allowing the viewer see it afresh and to rethink its meaning."
 Where will you be working?:
   - City of Los Angeles
   - LAUSD

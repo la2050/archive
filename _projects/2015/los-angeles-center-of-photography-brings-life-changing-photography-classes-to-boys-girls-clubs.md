@@ -23,14 +23,6 @@ project_image: >-
   photographers to come for artistic growth, discussion and inspiration--with
   classes, certificates and a one-year professional program, as well as outreach
   to underserved youth.
-'In one to three sentences, please describe your proposal.': >-
-  LACP will bring a year-long digital photography program to four Boys & Girls
-  Clubs in LA County.  Youngsters from 10-18 learn basic digital photography
-  skills, followed by portrait, street photography and documentary classes,
-  focused on their lives and communities--but also exposing them to careers. 
-  LACP will host a final exhibit for each group in Hollywood—heightening student
-  self-esteem by following through with a long-term creative project and helping
-  mount the show. 
 Where will you be working?:
   - East LA
   - Westside

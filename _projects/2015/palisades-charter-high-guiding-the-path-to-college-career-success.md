@@ -16,14 +16,6 @@ project_summary: >-
   students from all over the world. 
 project_image: 'https://img.youtube.com/vi/XUlv1Zd4JZU/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/XUlv1Zd4JZU'
-'In one to three sentences, please describe your proposal.': >-
-  The Career Services Center will provide students with the tools needed for
-  success in college and the workforce by establishing a model career services
-  program that is student-centric, takes the students’ education outside the
-  classroom, and brings community and business resources onto campus.  Through
-  the use of advanced technology, and business community and local government
-  resources, the program will allow students from the City of LA to compete with
-  students from all over the world. 
 Where will you be working?:
   - Palisades Charter High School; Pacific Palisades; LA County
 How do you plan to use these resources to make change?:

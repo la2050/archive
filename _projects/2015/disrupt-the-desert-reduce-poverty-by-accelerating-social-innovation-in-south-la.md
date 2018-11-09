@@ -18,14 +18,6 @@ project_summary: >-
   symposium on how to amplify the impact of So. LA nonprofits. 
 project_image: 'https://img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/iHlwRhoV_78'
-'In one to three sentences, please describe your proposal.': >-
-  We propose a social innovation accelerator where design thinking meets social
-  justice, on its home turf, to disrupt the patterns of disinvestment that have
-  made So. LA into a human services non-profit desert. Cross-sector teams
-  composed of local service providers, designers, and strategists will
-  participate in an innovative, multi-modal series of events including 3
-  leadership development workshops, a 2.5 day design sprint, and a 1 day
-  symposium on how to amplify the impact of So. LA nonprofits. 
 Where will you be working?:
   - South LA
   - Los Angeles SouthWest College

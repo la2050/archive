@@ -17,12 +17,6 @@ project_video: 'https://www.youtube.com/embed/s-SSOCwgWEs'
 'In one sentence, please describe what your organization does': >-
   To promote peace and good will in the world by helping those in need through
   the arts. 
-'In one to three sentences, please describe your proposal.': >-
-  We propose an interactive intervention program working with at risk students,
-  Veterans, local community members to be guided by muralist, graffiti artist
-  and fine artist working along side with community to create a mural program
-  that transforms public spaces and individual lives. As well as in providing
-  murals that will give pride to their local communities. 
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Engage residents and stakeholders

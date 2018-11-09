@@ -19,12 +19,6 @@ project_video: 'https://www.youtube.com/embed/Dcwg2GZofvo'
   strengths & needs of girls to face life's challenges. Through project based
   learning & gamification, WhizGirls empowers & trains girls with digital
   language and entrepreneurship.
-'In one to three sentences, please describe your proposal.': >-
-  Girls ages 12 to 18 are inspired to pursue post-secondary education and career
-  paths in mathematical, scientific and technical fields. The program combines
-  sports, creativity and personal development activities with an intensive
-  summer camp experience, educational and experiential opportunities during the
-  school year, and career development opportunities for older participants. 
 Where will you be working?:
   - East LA
   - South LA

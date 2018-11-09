@@ -21,14 +21,6 @@ project_video: 'https://www.youtube.com/embed/MbjQABq5iTI'
 'In one sentence, please describe what your organization does': >-
   The Promise Zone Partnership is building healthy neighborhoods by connecting
   our efforts and resources to empower families.
-'In one to three sentences, please describe your proposal.': >-
-  The Los Angeles Promise Zone Initiative led by Mayor Eric Garcetti’s Office
-  tests innovative ideas for neighborhood revitalization. This project will make
-  LA the “best place to connect” by providing Promise Zone youth with a summer
-  job as Young Ethnographers.  Over the course of 8 weeks next summer, they will
-  engage their neighbors in an assessment of quality of life to guide
-  decision-making within local government and measure how the Promise Zone is
-  improving lives.
 Where will you be working?:
   - Central LA
 How do you plan to use these resources to make change?:

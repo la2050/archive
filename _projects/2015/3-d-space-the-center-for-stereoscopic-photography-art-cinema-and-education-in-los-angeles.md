@@ -21,12 +21,6 @@ project_video: 'https://www.youtube.com/embed/sMiWY0aFpkk'
   is a Los Angeles based nonprofit dedicated to the preservation of the history
   of stereoscopic imaging and the advancement of current and future 3-D arts and
   sciences. 
-'In one to three sentences, please describe your proposal.': >-
-  In 2016, 3-D SPACE will implement an ongoing program of public presentations,
-  classes and workshops in stereoscopic 3-D content creation, from 3-D
-  photography and filmmaking to immersive virtual reality. These programs will
-  include outreach to LA's underserved communities, and also specialized
-  educational initiatives for LA's creative youth and senior populations.
 Where will you be working?:
   - Central LA
   - San Fernando Valley

@@ -14,7 +14,6 @@ project_video: 'https://www.youtube.com/embed/fMyc7c0Ylc4'
   and environmentally sustainable LA; Public Counsel provides free legal
   services to those in need and addresses systemic issues through impact
   litigation and advocacy.
-'In one to three sentences, please describe your proposal.': "Plans to revitalize the LA River promise to deliver over 18,000 jobs, billions in private development, and tremendous environmental benefits. But a fundamental question remains: who will access these benefits?\r\n\r\nLA Riverworks wants to engage local residents to help existing neighborhoods thrive alongside a revitalized LA River. "
 Where will you be working?:
   - Northeast LA
 How do you plan to use these resources to make change?:

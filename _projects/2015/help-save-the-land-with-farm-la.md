@@ -13,11 +13,6 @@ project_summary: >-
   health-conscious way of life.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23612%252Fdisplay%252F2050_Lg.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  We want to use this grant money to create a model farm that showcases a
-  sustainable way to grow organic food. In the process we will educate and
-  encourage the community to get involved and learn about a more
-  health-conscious way of life.
 Where will you be working?:
   - East LA
   - City of Los Angeles

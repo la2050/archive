@@ -21,14 +21,6 @@ project_image: >-
   supporting indigenous innovation, providing access to quality education and
   link students to jobs in growth industries and entrepreneurial opportunities
   in South LA. 
-'In one to three sentences, please describe your proposal.': >-
-  LASC Foundation partnered with Innovate Globally to create a synergistic
-  program that accomplishes the following three goals:  1) educate students and
-  South Los Angeles residents on the highly marketable skill of coding;  2)
-  support business entrepreneurship by providing students and community members
-  with “soup to nuts” business instruction and industry exposure for
-  tech-related start-ups; and 3) ultimately create a sustainable “Innovation
-  Ecosystem” that will encourage indigenous creativity.
 Where will you be working?:
   - South LA
   - South Bay

@@ -12,7 +12,6 @@ project_image: >-
 'In one sentence, please describe what your organization does': >-
   We design community solutions using human-centered design through IDEO.org and
   Acumen.
-'In one to three sentences, please describe your proposal.': "My Bucketlist LA Recipe: Serving the city + Learning the city + Connecting to the people of the city. Now repeat [you’ll have too much fun not to]. \r\n\r\nMy Bucketlist LA uses an interactive platform/map interface in order for targeted audieinces (e.g., new residents, college students, community leaders (neighborhood council members)) to easily navigate and connect with each other through curated community and cultural events focused around volunteerism, play/fun, and food.\r\n"
 Where will you be working?:
   - City of Los Angeles
 How do you plan to use these resources to make change?:

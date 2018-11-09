@@ -19,12 +19,6 @@ project_video: 'https://www.youtube.com/embed/dZQ4_RgpSno'
   print, events), to expanding the reach of LA literature, art, and culture, and
   to fostering a diverse cultural conversation by curating the best in writing
   and all the arts.
-'In one to three sentences, please describe your proposal.': >-
-  LARB will profile LA writers and artists every day of the year, making the
-  country and world aware of their work, increasing their ability to sustain
-  creative lives by building the requisite critical understanding and
-  infrastructure, and giving LA writers and artists the exposure they need to
-  compete.
 Where will you be working?:
   - Central LA
   - East LA

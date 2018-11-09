@@ -21,14 +21,6 @@ project_video: 'https://www.youtube.com/embed/uVgrIU_Bl9g'
 'In one sentence, please describe what your organization does': >-
   EEZITEC is an eCommerce platform & ecosystem where people can discover & learn
   about 3D printing, purchase 3D printers, 3D scanners, & 3D printed models.
-'In one to three sentences, please describe your proposal.': >-
-  We'd like to build a 3D Printing makerspace & showroom so people can learn
-  about 3D Printing, purchase 3D Printers, & use them as a service for
-  customizable goods.  We'd hold live workshops for anyone curious about 3D
-  Printing & new technologies, & give people tangible experiences with these
-  products.  The makerspace will also allow people to use 3D Printers without
-  buying them so they can experience the technology without making a big
-  investment, but can buy a printer if from our showrooom.
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Engage residents and stakeholders

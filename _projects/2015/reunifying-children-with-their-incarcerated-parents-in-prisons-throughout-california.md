@@ -21,13 +21,6 @@ project_image: >-
   Get On The Bus, a program of the Center for Restorative Justice Works,
   reunifies children throughout the Greater Los Angeles area with their
   incarcerated parents in prisons throughout California.
-'In one to three sentences, please describe your proposal.': >-
-  Get On The Bus would like to expand our pilot Camp Suzanne restorative justice
-  summer camp program for children and their incarcerated parents taking place
-  inside prison walls. This weeklong camp was successfully piloted during the
-  summer of 2015 for 12 children and their mothers at the Federal Correctional
-  Institution-Dublin Facility. Our goal is to offer the camp to a greater number
-  of children and add a much-needed art therapy component.
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Conduct research

@@ -18,12 +18,6 @@ project_image: >-
   Based at the USC Annenberg School for Communication and Journalism, Civic Tech
   USC is an initiative exploring how new technologies can help to reimagine
   civic life and engage everyday people in improving their communities.
-'In one to three sentences, please describe your proposal.': >-
-  Data-driven research and recommendations for the 2016 online voting pilot of
-  the Los Angeles Neighborhood Councils. We will evaluate the impact of the
-  online voting pilot on voter turnout and engagement, and develop
-  recommendations and best practices for maximizing participation in future
-  online elections in LA that become a model for cities around the country.
 Where will you be working?:
   - Central LA
   - South LA

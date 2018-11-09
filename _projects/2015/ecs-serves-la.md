@@ -16,14 +16,6 @@ project_summary: >-
   with volunteer contributions.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23859%252Fdisplay%252FGood_Image_Change_the_World.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  For LA2050, ECS proposes change the way both students and teachers learn in LA
-  by leveraging the reach of its award-winning service learning model in the
-  2016-2017 school year. By connecting its diverse, altruistic young students
-  with LA’s rich and dynamic community of nonprofit organizations, ECS will
-  help: 1) its students scale their learning and become more college-ready and
-  workforce-ready, and 2)  local LA organizational partners scale their impact
-  with volunteer contributions.
 Where will you be working?:
   - South LA
   - South Bay

@@ -16,11 +16,6 @@ project_image: >-
 'In one sentence, please describe what your organization does': >-
   ExchangeWorks creates new opportunities for artists and the public through the
   exchange of art and resources.
-'In one to three sentences, please describe your proposal.': >-
-  EWLA, a pilot program of ExchangeWorks, enables artists to pursue their vision
-  and the public to contribute to the arts. EWLA connects artists to individuals
-  and businesses through mutually beneficial exchanges, with an economic,
-  environmental, personal and cultural impact.
 Where will you be working?:
   - >-
     While working countywide, EWLA’s temporary event space will be located in

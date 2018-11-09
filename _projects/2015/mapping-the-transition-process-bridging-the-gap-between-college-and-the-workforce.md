@@ -19,11 +19,6 @@ project_image: >-
   This organization maps the transitional process of students’ from college to
   the workforce by considering factors of college preparation, volunteerism,
   internships, and networking.
-'In one to three sentences, please describe your proposal.': >-
-  Our organization provides services to fill the gaps for schools, colleges, job
-  training, and recruitment agencies. We do this by providing intentional
-  networking events and integrated essential skill-building internship
-  opportunities for students to transition from college to the workforce. 
 Where will you be working?:
   - San Gabriel Valley
 How do you plan to use these resources to make change?:

@@ -21,14 +21,6 @@ project_image: >-
   exhibitions, education, music and theater by promoting visual and performing
   arts, providing a cultural hub for our community and enriching the lives of
   artists and others. 
-'In one to three sentences, please describe your proposal.': >-
-  Incorporating the arts into our lives has become a panacea to the stresses of
-  every-day life and LAACE will give Angelenos an easier and more comprehensive
-  way to access the arts in LA.  By identifying businesses, venues,
-  organizations and individuals connected to the arts, we can offer residents of
-  LA, as well as tourists a web portal which targets arts, culture &
-  entertainment. Our website will also become a resource point for
-  business-to-business data and offer a new Metro LAACE Art discount 
 Where will you be working?:
   - San Fernando Valley
   - >-

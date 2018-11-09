@@ -15,13 +15,6 @@ project_summary: >-
   gifts and talents. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23223%252Fdisplay%252FYes4arts_picture_image.jpeg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  The program gives basic art instruction with the intention of attracting
-  students who love art but also drawing students who discover their creativity
-  for the first time. Students gain confidence while participating in these
-  classes, which produces well-rounded, positive students. We see students teach
-  other students, which promotes the idea of helping others and sharing our
-  gifts and talents. 
 Where will you be working?:
   - Westside
   - South Bay

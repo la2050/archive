@@ -12,7 +12,6 @@ project_image: >-
 'In one sentence, please describe what your organization does': >-
   Tech LA Cares (TLC) connects LA's growing technology companies with volunteer
   opportunities within their communities.
-'In one to three sentences, please describe your proposal.': "The Los Angeles tech space is growing at a rapid pace -- so much so, that it is difficult for tech companies to devote time, resources, and energy into being a strong partner within their own communities.\r\n\r\nTech LA Cares (TLC) aims to bridge that gap by matching companies with organizations and events, both by in-person needs assessments, as well as online volunteer signup mechanisms.\r\n\r\nWe believe in the efficiency of online tools, but also believe that human contact is key to success.\r\n"
 Where will you be working?:
   - City of Los Angeles
 How do you plan to use these resources to make change?:

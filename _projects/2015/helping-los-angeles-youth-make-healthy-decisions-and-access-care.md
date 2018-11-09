@@ -16,14 +16,6 @@ project_summary: >-
   dedicated high school student advocates. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23806%252Fdisplay%252FUSE_THIS_ONE.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  Now more than ever, PPLA is working to empower students to advocate for their
-  own health by giving them the knowledge and skills to make positive decisions
-  about their reproductive and sexual lives. We wrap around schools and
-  communities through a multi-pronged approach that includes delivering an
-  innovative classroom curriculum, teaching parents to effectively communicate,
-  providing reproductive healthcare in schools, and training a cadre of
-  dedicated high school student advocates. 
 Where will you be working?:
   - Central LA
   - East LA

@@ -20,14 +20,6 @@ project_image: >-
   Social Welfare at UCLA Luskin School of Public Affairs identifies and develops
   emerging areas of research and teaching and cultivates leaders and change
   agents who advance solutions to society's most pressing problems
-'In one to three sentences, please describe your proposal.': >-
-  LA County has the highest number of children in foster care of any county in
-  America which results in a continuing need to recruit those willing to serve
-  as foster parents. While there are numerous groups working on this problem
-  (DCFS, FFA’s) there remains no coordinated source of information. for those
-  willing to meet this need. Our proposal focuses on providing consolidated
-  “just in time” on-line information to individuals and families willing to
-  serve as foster parents. 
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Conduct research

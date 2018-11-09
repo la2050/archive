@@ -16,14 +16,6 @@ project_summary: >-
   and allowing for easy clean-up. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23235%252Fdisplay%252Fplay.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  I would like to see indoor play parks at various parks throughout the City of
-  LA.  The play parks would be designed for children that are baby, infant, and
-  toddler ages and would provide a safe, indoor environment as a relief from
-  outdoor factors (weather, transients, etc).  Portable play equipment and mats
-  would provide appropriate levels of play for smaller children to express
-  themselves and play physically while protecting them from their surroundings
-  and allowing for easy clean-up. 
 Where will you be working?:
   - City of Los Angeles
   - Poinsettia Recreation Center

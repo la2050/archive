@@ -19,14 +19,6 @@ project_video: 'https://www.youtube.com/embed/zmZJYC2WFVk'
 'In one sentence, please describe what your organization does': >-
   PortTech connects entrepreneurs, industry and community to advance innovation,
   solve port/global environmental challenges, and create jobs.
-'In one to three sentences, please describe your proposal.': >-
-  The PortTech Pitch program provides comprehensive outreach, education and
-  mentoring services to promising tech startups focused on solving global
-  challenges. Through dedicated one-on-one mentoring, we begin the process of
-  transforming these startup teams into thriving businesses. At the Pitch
-  Competition and PortTechEXPO, we provide an opportunity for entrepreneurs and
-  investors, industry and civic leaders, students and researchers to explore new
-  technologies and connect with innovators.
 Where will you be working?:
   - Harbor area communities surrounding the Ports of Los Angeles and Long Beach
 How do you plan to use these resources to make change?:

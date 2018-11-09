@@ -22,14 +22,6 @@ project_video: 'https://www.youtube.com/embed/duMAZ5TXBMg'
   Tierra del Sol Foundation enables adults with moderate to severe developmental
   disabilities to realize their greatest human potential, become as independent
   as possible within their communities, and establish a valued role in society. 
-'In one to three sentences, please describe your proposal.': >-
-  1 in 6 children are being born with developmental disabilities - such as
-  Autism and Down syndrome - requiring lifelong support, adding to over 830,000
-  California adults with developmental disabilities. Our cultural landscape will
-  be stunted if we don’t help the artists among this population to express
-  themselves. Tierra will identify people who are artistically gifted, and
-  empower them to build careers, increasing employment in creative industries
-  such as animation, ceramics, and commercial art.
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Engage residents and stakeholders

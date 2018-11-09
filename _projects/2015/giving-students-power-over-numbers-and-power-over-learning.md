@@ -16,14 +16,6 @@ project_summary: >-
   system designed by Dr. Randy Palisoc.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23622%252Fdisplay%252FironboxeducationLA2050.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  Chronic low achievement in math has been a major barrier that has prevented
-  Los Angeles from being considered the best place to learn. Struggling students
-  need an effective math fluency system to build the foundation they need to
-  succeed in higher level math, and teachers need expert training to implement
-  effective math instruction. Ironbox Education will fill both of these needs
-  for multiple schools in Los Angeles County by using a proven math fluency
-  system designed by Dr. Randy Palisoc.
 Where will you be working?:
   - County of Los Angeles
 How do you plan to use these resources to make change?:

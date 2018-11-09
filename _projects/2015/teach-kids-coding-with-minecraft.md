@@ -9,7 +9,6 @@ title: Teach Kids Coding with Minecraft
 project_summary: "LA Makerspace will partner with LA-based benefit corporation Connected Camps to create free coding camps with a common core-aligned curriculum, leveraging Minecraft, the wildly popular computer game, to teach kids to build, design, and code. Open source, free, and tailored to after-school educators, youth organization staff, parents and those without education backgrounds, the camps will enable people in underserved communities all over LA to use Minecraft to develop STEAM skills in youth. \r\n"
 project_image: 'https://img.youtube.com/vi/V0_Km6YYSbo/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/V0_Km6YYSbo'
-'In one to three sentences, please describe your proposal.': "LA Makerspace will partner with LA-based benefit corporation Connected Camps to create free coding camps with a common core-aligned curriculum, leveraging Minecraft, the wildly popular computer game, to teach kids to build, design, and code. Open source, free, and tailored to after-school educators, youth organization staff, parents and those without education backgrounds, the camps will enable people in underserved communities all over LA to use Minecraft to develop STEAM skills in youth. \r\n"
 Where will you be working?:
   - Central LA
   - East LA

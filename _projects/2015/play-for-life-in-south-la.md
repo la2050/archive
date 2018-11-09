@@ -15,13 +15,6 @@ project_summary: >-
   children and families in the 90011 area with safe spaces to play and thrive.
 project_image: 'https://img.youtube.com/vi/wzFv5uV3pew/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/wzFv5uV3pew'
-'In one to three sentences, please describe your proposal.': >-
-  Through LA2050, APCH will help beautify our South Los Angeles neighborhood,
-  improve fitness and wellbeing, expand opportunities for education, and
-  encourage broader horizons and a sense of community by engaging all residents,
-  young and old. APCH believes that your zip code should not define your future;
-  through our innovative, wrap-around services we will provide thousands of
-  children and families in the 90011 area with safe spaces to play and thrive.
 Where will you be working?:
   - Central LA
   - South LA

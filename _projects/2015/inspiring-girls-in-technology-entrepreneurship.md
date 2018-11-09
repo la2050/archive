@@ -15,10 +15,6 @@ project_video: 'https://www.youtube.com/embed/NTnzCDQ335U'
 'In one sentence, please describe what your organization does': >-
   Inspire & educate girls and women to solve problems in their community using
   technology.
-'In one to three sentences, please describe your proposal.': >-
-  Offer the opportunity to young girls to develop technology and
-  entrepreneurship skills through Technovation's open source curriculum and
-  professional mentorship. 
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Engage residents and stakeholders

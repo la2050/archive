@@ -21,14 +21,6 @@ project_video: 'https://www.youtube.com/embed/1oq_kmWPaYk'
   health through car-free streets in Los Angeles County and engages people to
   positively transform relationships with our diverse communities and with each
   other.
-'In one to three sentences, please describe your proposal.': >-
-  CicLAvia 2016 will expand its open streets program by integrating iconic
-  routes with new ones:  Southeast Cities; Northeast San Fernando Valley; the
-  Heart of LA, and Wilshire Blvd.  By blending the old with the new, car-free
-  Angelenos can bear witness to social, cultural and economic renaissances
-  happening from one neighborhood to the next.  The opportunity to see Los
-  Angeles, up close and personal vs. in a car and through the rear view mirror,
-  redefines the meaning of connection.
 Where will you be working?:
   - Central LA
   - East LA

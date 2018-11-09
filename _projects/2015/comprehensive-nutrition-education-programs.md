@@ -15,13 +15,6 @@ project_summary: >-
   to healthy produce for 300 families living in South LA. 
 project_image: 'https://img.youtube.com/vi/7GOyC2VCNOk/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/7GOyC2VCNOk'
-'In one to three sentences, please describe your proposal.': >-
-  Groceryships pilot programs achieved profound physical and emotional health
-  results for the low-income families struggling with diabetes and obesity. Now,
-  with a recently opened community center, Groceryships wants to dramatically
-  expand the number of programs we can offer to families. The $100,000 grant
-  would provide six months of weekly nutrition education classes and free access
-  to healthy produce for 300 families living in South LA. 
 Where will you be working?:
   - South LA
 How do you plan to use these resources to make change?:

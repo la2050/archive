@@ -22,14 +22,6 @@ project_video: 'https://www.youtube.com/embed/W6D_g6EB-QY'
   Generate dialogue, cultural exchange and revitalize public spaces through a
   mobile, curated documentary series, which travels directly into communities to
   offer it 100% for free.
-'In one to three sentences, please describe your proposal.': >-
-  Ambulante's annual community tour has been so successful there is a demand
-  from our nonprofit partners for our projection and curatorial expertise. With
-  this grant two of our most experienced staff members can be compensated during
-  off-season to: field partnership requests and organize support at the scale we
-  can successfully deliver, including;operation and use of our outdoor
-  projection system, leveraging our industry contacts to secure films and
-  negotiate lower screening fees, cross promotion.
 Where will you be working?:
   - Central LA
   - East LA

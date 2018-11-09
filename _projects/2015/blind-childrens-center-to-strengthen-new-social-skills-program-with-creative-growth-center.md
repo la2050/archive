@@ -11,7 +11,6 @@ title: >-
 project_summary: "This year the Blind Children's Center launched a first-of-its-kind, 3-Year Social Skills Program to specifically address the socio-emotional needs of children who are blind or visually impaired.\r\n\r\nWe aim to build a new Creative Growth Center, consisting of a new playhouse, upgraded lunch area and new sensory garden equipped with adaptive equipment, educational games, and engaging devices to support the development of critical social skills in our students who are blind or visually impaired."
 project_image: 'https://img.youtube.com/vi/z__BDhvkp9Q/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/z__BDhvkp9Q'
-'In one to three sentences, please describe your proposal.': "This year the Blind Children's Center launched a first-of-its-kind, 3-Year Social Skills Program to specifically address the socio-emotional needs of children who are blind or visually impaired.\r\n\r\nWe aim to build a new Creative Growth Center, consisting of a new playhouse, upgraded lunch area and new sensory garden equipped with adaptive equipment, educational games, and engaging devices to support the development of critical social skills in our students who are blind or visually impaired."
 Where will you be working?:
   - County of Los Angeles
   - City of Los Angeles

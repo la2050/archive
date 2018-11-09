@@ -16,13 +16,6 @@ project_summary: >-
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23180%252Fdisplay%252FESRLogo.jpg=c570x385
 'In one sentence, please describe what your organization does': "Our fully back lined studios will be available to students as an after school program so they can learn to play on professional equipment, hone their music skills, and experience the camaraderie and confidence that this environment will foster. \r\n"
-'In one to three sentences, please describe your proposal.': >-
-  ESR wishes to play a part of Boyle Heights' musical history, and by opening
-  it's doors for an after school program, we will continue the flow of great
-  musicianship coming out of the neighborhood. This would be a first of it's
-  kind opportunity for the youth of LA to have sound-proofed studios to practice
-  in at full volume, state of the art music equipment at their disposal, and a
-  safe creative environment in which to practice music and let their ideas flow.
 Where will you be working?:
   - East LA
 How do you plan to use these resources to make change?:

@@ -16,14 +16,6 @@ project_summary: >-
   referrals services that address those needs.
 project_image: 'https://img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/8RfGcPRl--8'
-'In one to three sentences, please describe your proposal.': >-
-  CISLA’s goal is to improve educational outcomes for underserved students at 12
-  schools in Los Angeles Unified School District, leading to an increase in
-  graduation rates. Through the use of one-on-one case management and
-  school-wide or small group interventions, we will place passionate and trained
-  social service professionals onto school campuses every day to identify the
-  needs – academic and non-academic - of students and offer on-site programs and
-  referrals services that address those needs.
 Where will you be working?:
   - Central LA
   - East LA

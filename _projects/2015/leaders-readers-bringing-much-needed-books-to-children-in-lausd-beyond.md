@@ -16,14 +16,6 @@ project_summary: >-
   to fill the budget gap that LAUSD faces.
 project_image: 'https://img.youtube.com/vi/OKuHAUhFKxk/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/OKuHAUhFKxk'
-'In one to three sentences, please describe your proposal.': >-
-  M+B’s LEADERS+READERS program is designed to encourage student volunteers in
-  the Los Angeles community to organize book drives benefiting another Los
-  Angeles based “sister” school. The goal of every Leaders + Readers book drive
-  is to flood underserved Los Angeles schools with the books needed to support
-  learning and academic excellence AND allow students to gain experience with
-  leadership and community service. L+R is leveraging our community’s resources
-  to fill the budget gap that LAUSD faces.
 Where will you be working?:
   - County of Los Angeles
   - City of Los Angeles

@@ -16,14 +16,6 @@ project_summary: >-
   happening in the ocean.
 project_image: 'https://img.youtube.com/vi/laadW_CUhSY/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/laadW_CUhSY'
-'In one to three sentences, please describe your proposal.': >-
-  At least once a month, we go to various shipwrecks and reefs that are covered
-  in ghost nets, which will wreak havoc on fragile marine ecosystems for decades
-  or even centuries if they are not removed. Los Angeles is FULL of people who
-  scuba dive, surf, swim, snorkel, kayak, windsurf, etc.- we live near the ocean
-  because we LOVE her! We also do a lot of outreach for adults and kids of all
-  ages: lectures, presentations, tabling events to let everyone know what is
-  happening in the ocean.
 Where will you be working?:
   - City of Los Angeles
   - >-

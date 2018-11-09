@@ -15,12 +15,6 @@ project_summary: >-
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23743%252Fdisplay%252FScreen_Shot_2015-10-06_at_10.04.00_AM.png=c570x385
 'In one sentence, please describe what your organization does': "The Urban & Environmental Policy Institute (UEPI) is a research, policy, and advocacy, organization at Occidental College committed to bringing about social change and a more just, livable and green society.\r\n"
-'In one to three sentences, please describe your proposal.': >-
-  LA Mobilized is an initiative to showcase how LA can change how we move, and
-  how the city can change around us.  With new transportation priorities, Los
-  Angeles has the opportunity to evolve into a more sustainable and equitable
-  city. To tap into this potential, LA needs to democratize planning so
-  residents can co-create the future. 
 Where will you be working?:
   - Central LA
   - East LA

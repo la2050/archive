@@ -14,9 +14,6 @@ project_video: 'https://www.youtube.com/embed/0qhd1kRJ698'
 'In one sentence, please describe what your organization does': >-
   We help homeless (and extremely low-income) individuals start small
   businesses. 
-'In one to three sentences, please describe your proposal.': >-
-  We would like to set up an incubator facility for our clients to use as
-  workspace, office space and a store front. 
 Where will you be working?:
   - Central LA
   - San Fernando Valley

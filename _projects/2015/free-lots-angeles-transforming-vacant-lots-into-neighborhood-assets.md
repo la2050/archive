@@ -15,13 +15,6 @@ project_summary: >-
   where there are not enough places to PLAY. 
 project_image: 'https://img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/KQnPSzqeZRk'
-'In one to three sentences, please describe your proposal.': >-
-  Free Lots Angeles (FLA), a project of six organizations, works with
-  communities to transform vacant lots into health-promoting neighborhood
-  resources such as community gardens, parks, and mobility hubs. FLA organizes
-  “pop-ups” on vacant lots and helps change City policy to allow for Angelenos
-  to access city-owned vacant land in their neighborhoods, especially in places
-  where there are not enough places to PLAY. 
 Where will you be working?:
   - Central LA
   - East LA

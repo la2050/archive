@@ -19,14 +19,6 @@ project_image: >-
 'In one sentence, please describe what your organization does': >-
   Change Better trains nonprofits in data, business, and collaboration
   strategies to turn big ideas into big impact.
-'In one to three sentences, please describe your proposal.': >-
-  We will host a 4-month training program for startup nonprofits that are based
-  in and serving greater Los Angeles. The program will teach the most promising
-  new nonprofits to create sustainable business models, to use data to innovate
-  faster, and to build partnerships that enable their organizations to scale.
-  Our LA2050 program will culminate with a pitch competition, where industry
-  leaders and our participants will gather to showcase their bold ideas and make
-  LA the best place to create change.
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Engage residents and stakeholders

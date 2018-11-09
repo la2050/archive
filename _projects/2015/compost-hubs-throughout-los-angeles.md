@@ -15,13 +15,6 @@ project_summary: >-
   tools and education needed to compost locally.
 project_image: 'https://img.youtube.com/vi/oPkjhNbvFTw/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/oPkjhNbvFTw'
-'In one to three sentences, please describe your proposal.': >-
-  L.A. Compost and Kiss the Ground are partnering to create a local solution to
-  composting in Los Angeles.  We are currently composting over 2,000lbs of food
-  weekly across 5 hubs countywide. Over the next 5 years we plan to expand our
-  work by building 20 more hubs and establishing composting programs that will
-  keep unnecessary food scraps out of landfills, providing communities with the
-  tools and education needed to compost locally.
 Where will you be working?:
   - Central LA
   - East LA

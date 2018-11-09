@@ -13,11 +13,6 @@ project_summary: >-
   chains we want to end the food deserts that plague Los Angeles. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23755%252Fdisplay%252FHydroponickids1.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  Our "Green Works Project" seeks to build on existing research that shows how
-  nature and built environments directly affect human health and well-being.
-  Additionally, by creating local economic development and sustainable food
-  chains we want to end the food deserts that plague Los Angeles. 
 Where will you be working?:
   - County of Los Angeles
   - City of Los Angeles

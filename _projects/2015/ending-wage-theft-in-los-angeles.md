@@ -16,14 +16,6 @@ project_summary: >-
   create quality employment.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23889%252Fdisplay%252F12000148473_482ef012b5_k.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  We seek to increase the resilience of low wage workers and their industries in
-  LA by improving the enforcement of basic labor protections. We will design and
-  pilot a wage theft prevention tool to help predict when and where wage theft
-  occurs, so that City officials may wisely allocate resources to protect
-  workers’ wages, and responsible employers from unfair competition. We will
-  also produce industry case studies, to identify and learn from employers who
-  create quality employment.
 Where will you be working?:
   - City of Los Angeles
 How do you plan to use these resources to make change?:

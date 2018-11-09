@@ -14,7 +14,6 @@ project_video: 'https://www.youtube.com/embed/ffK1mzyzUPE'
   river that provides habitat for fish, wildlife, and conservation and provides
   Southern Californians a greater interaction and appreciation of the Los
   Angeles River Watershed.
-'In one to three sentences, please describe your proposal.': "The Arroyo River Parks Program (ARPP) will build community support for re-imagining our watershed from a sterile concrete channel to a vibrant river ecosystem.\r\n\r\nThe ARPP program will educate citizens about the river revitalization planned by the Army Core of Engineers on the Arroyo Seco Stream in Los Angeles County.\r\n\r\nTo reach out to the community we want to establish a native plant nursery that will be the central location of our effort to reconnect the community to the LA River Watershed."
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Engage residents and stakeholders

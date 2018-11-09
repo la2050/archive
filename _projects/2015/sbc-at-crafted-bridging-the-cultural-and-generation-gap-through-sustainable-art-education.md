@@ -23,14 +23,6 @@ project_image: >-
   exhibitions and experimental projects serving the South Bay and engages the
   community in reflection of the meaning and relevance of contemporary art
   through educational programs
-'In one to three sentences, please describe your proposal.': >-
-  SBC will build and operate a new arts education and exhibition facility at
-  CRAFTED at the Port of Los Angeles.  This new SBC arts center, the first of
-  its kind on the LA Waterfront, will appeal to all generations and be
-  accessible to people of all income levels.  Our shared goal is to engage youth
-  and seniors in arts and sustainability through a program of exhibitions and
-  workshops that emphasize community, connection and the exchange of ideas
-  between people of all backgrounds and ages.
 Where will you be working?:
   - South Bay
   - City of Los Angeles

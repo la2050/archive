@@ -20,13 +20,6 @@ project_video: 'https://www.youtube.com/embed/H-S2LiQcO00'
 'In one sentence, please describe what your organization does': >-
   Blueprint Earth’s mission is to preserve Earth's environments through
   scientific research and education.
-'In one to three sentences, please describe your proposal.': >-
-  Blueprint Earth’s vision is to transform Los Angeles into the global leader in
-  environmental science and technology innovation by 2050.  We are creating a
-  culture of curiosity and innovation that will grow and retain top talent, as
-  well as drive research funding, private investments, and environmental
-  startups. We want the name "Los Angeles" to be to the environmental science
-  world what "Hollywood" is to the film world by 2050.
 Where will you be working?:
   - Central LA
   - East LA

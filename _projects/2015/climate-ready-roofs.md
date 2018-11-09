@@ -15,13 +15,6 @@ project_summary: >-
   program can become a model for the nation.
 project_image: 'https://img.youtube.com/vi/jRPfyjiCjwg/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/jRPfyjiCjwg'
-'In one to three sentences, please describe your proposal.': >-
-  California’s climate is changing and it’s vital that the people of Los Angeles
-  are prepared. Three local organizations – Habitat for Humanity Greater Los
-  Angeles, Grid Alternatives Greater Los Angeles and Climate Resolve – have
-  joined forces to help low-income Angelenos become climate ready by placing
-  solar panels on newly laid cool roofs. With your help, this innovative LA
-  program can become a model for the nation.
 Where will you be working?:
   - County of Los Angeles
   - City of Los Angeles

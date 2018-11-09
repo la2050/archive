@@ -23,14 +23,6 @@ project_video: 'https://www.youtube.com/embed/LLupKVdXbLI'
   for Los Angeles' Creative Education, supporting at-risk youth, their families
   & emerging creative professionals throughout LA via mentorship &
   free-to-low-cost workshops.
-'In one to three sentences, please describe your proposal.': >-
-  DSTL Arts, Emerging Arts Leaders/LA & Trade School LA unite to form The
-  Partnership for Los Angeles' Creative Education (PLACE), a hub where at-risk
-  youth, their families, & emerging creatives receive mentorship, professional
-  training & free-to-low-cost classes. This grant will fund a brick-&-mortar
-  locale, centralizing our programs, & fund infrastructure for volunteer
-  engagement, recruitment & training for our respective programs, plus a
-  co-working space where members can connect & create.
 Where will you be working?:
   - Central LA
   - East LA

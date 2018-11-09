@@ -20,14 +20,6 @@ project_image: >-
   Bill Weber Studios creates marketing communications, promotions, products and
   media for non-profit organizations that work to improve the lives of children
   and families worldwide.  
-'In one to three sentences, please describe your proposal.': >-
-  Ambassador Bird is the international symbol of peace -- the dove -- reimagined
-  as a hero for children and families. The character teaches diversity and
-  teamwork through international cultural awareness. By using the character at
-  community events,  educational programs, and through tourism marketing, Los
-  Angeles will have a mascot that encourages people to connect with neighbors
-  and visitors by sharing personal stories, learning about different cultures,
-  and making friends. 
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Engage residents and stakeholders

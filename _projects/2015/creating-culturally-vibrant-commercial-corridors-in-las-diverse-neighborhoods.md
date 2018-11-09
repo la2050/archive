@@ -19,14 +19,6 @@ project_image: >-
 'In one sentence, please describe what your organization does': >-
   LISC equips struggling communities with the capital, strategy and know-how to
   become places where people and businesses can thrive.
-'In one to three sentences, please describe your proposal.': >-
-  The cultural assets of Los Angeles’ neighborhoods represent an untapped
-  economic development resource. LISC LA intends to (1) convene local arts,
-  business and community economic development stakeholders to glean
-  best-practice strategies for cultural economic development, (2) support the
-  implementation of efforts to anchor 4 neighborhoods/commercial corridors as
-  cultural magnets and (3) strengthen, while growing diverse businesses that are
-  part of the local creative economy.
 Where will you be working?:
   - Central LA
   - East LA

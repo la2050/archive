@@ -23,14 +23,6 @@ project_image: >-
   institutions & government that centers on transit, education, enterprise, &
   redevelopment. The vision is to connect SLA through transportation, education
   & economic mobility. 
-'In one to three sentences, please describe your proposal.': >-
-  LATTC’s SLATE-Z is a complex strategy that intersects jobs, workforce,
-  education, safety, affordable housing, healthy communities, & business
-  development to tackle an urban center with one of the nation’s highest rates
-  of poverty.  Within this broad context, the focus of this proposal is to
-  “CONNECT” South LA residents to increased mobility through (a) free or
-  reduced-cost transit ridership (b) educational technology innovations and (c)
-  educational advocacy/civic engagement. 
 Where will you be working?:
   - South LA
 How do you plan to use these resources to make change?:

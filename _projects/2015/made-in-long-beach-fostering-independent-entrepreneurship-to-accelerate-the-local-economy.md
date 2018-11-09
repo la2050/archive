@@ -19,12 +19,6 @@ project_video: 'https://www.youtube.com/embed/TNz5Q0G-KAs'
 'In one sentence, please describe what your organization does': >-
   Localism Inc. fosters independent entrepreneurship to promote a more
   sustainable, self-reliant local economy.
-'In one to three sentences, please describe your proposal.': >-
-  Localism is developing a “trifecta” business accelerator, culinary
-  accelerator, and tech makerspace called MADE. We create opportunity for
-  innovative local entrepreneurs, and lower their risk threshold to help them
-  grow. Our vision is to make these projects scalable, sustainable and
-  repeatable for diverse communities. 
 Where will you be working?:
   - Long Beach; LA County
 How do you plan to use these resources to make change?:

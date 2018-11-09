@@ -21,14 +21,6 @@ project_image: >-
   provide a positive meaningful impact within our built environment in Los
   Angeles.  As Architects we can bring together Community Stakeholders,
   Governmental Agencies and NPOs.
-'In one to three sentences, please describe your proposal.': >-
-  THarchitecture in has identified a dire need to safely connect the communities
-  of  Westchester, Inglewood, Playa Vista, Culver City, Mar Vista Marina Del Rey
-  and Venice via pedestrian/bike friendly oriented paths, our proposal is to
-  provide a Connector Pedestrian/Bike Bridge as a first step. The challenge:
-  there is currently not a safe route that provides the residents of our
-  community the ability to move north and south with existing Ballona Creek
-  Bridges at Lincoln and Centinela.  
 Where will you be working?:
   - Westside
   - 'Ballona Creek between Play Vista, Mar Vista, Marina Del Rey and Culver City.'

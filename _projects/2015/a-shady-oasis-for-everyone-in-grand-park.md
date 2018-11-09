@@ -16,14 +16,6 @@ project_summary: >-
   spaces and attend free events in downtown LA.
 project_image: 'https://img.youtube.com/vi/BhO5jmXKosA/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/BhO5jmXKosA'
-'In one to three sentences, please describe your proposal.': >-
-  Our proposal supports the design/installation of shade structures in highly
-  trafficked central gathering spaces for park events & weekly food truck events
-  (22K DTLA residents & employees a year).  Visitors consistently request
-  additional shade particularly for our most vulnerable visitors; children and
-  elders. Adding shade areas will increase capacity and enhance the comfort of
-  the 1MM people who access Grand Park annually to play, enjoy quiet green
-  spaces and attend free events in downtown LA.
 Where will you be working?:
   - Central LA
 How do you plan to use these resources to make change?:

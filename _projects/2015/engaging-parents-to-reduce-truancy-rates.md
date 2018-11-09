@@ -16,14 +16,6 @@ project_summary: >-
   enrolled families.
 project_image: 'https://img.youtube.com/vi/0MYV-P-oK80/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/0MYV-P-oK80'
-'In one to three sentences, please describe your proposal.': >-
-  Truancy is defined as a student being absent or tardy by more than 30 minutes
-  without a valid excuse on 3 occasions in a school year, and we intend to
-  reduce the truancy rate by 10% at our two charter schools that operate in Skid
-  Row. We propose a three-pronged collaborative approach to addressing chronic
-  absence and truancy: 1) changes in school attendance practices; 2) home
-  visitation; and 3) parent engagement and leadership opportunities for our
-  enrolled families.
 Where will you be working?:
   - East LA
   - South LA

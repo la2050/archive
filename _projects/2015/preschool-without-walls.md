@@ -14,12 +14,6 @@ project_summary: >-
   run co-ops. 
 project_image: 'https://img.youtube.com/vi/Hey6DKTLdw8/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Hey6DKTLdw8'
-'In one to three sentences, please describe your proposal.': >-
-  Preschool Without Walls (PWW) addresses the fact that 80% of the most
-  vulnerable children in Los Angeles are not attending, and will never attend,
-  preschool. PWW has a solution: bring early learning out of the classroom and
-  into the community with pop-up preschools, place based learning, and community
-  run co-ops. 
 Where will you be working?:
   - County of Los Angeles
 How do you plan to use these resources to make change?:

@@ -20,13 +20,6 @@ project_video: ''
   CASA recruits and trains Court Appointed Special Advocates (CASAs) to advocate
   for and support an abused or neglected foster care child in the courtroom and
   in all areas of their lives.
-'In one to three sentences, please describe your proposal.': >-
-  The 30,000 children under the care of the Dependency Court in L.A. County are
-  hurt, frightened, and confused children in desperate need of support and
-  advocacy services -- a need that trained, court-appointed CASA volunteer
-  advocates fill.  CASA of Los Angeles will recruit 250 more volunteers to help
-  these children navigate not only the trials of the courtroom but the trials of
-  a challenged childhood. 
 Where will you be working?:
   - >-
     CASA of Los Angeles helps children in foster care from everywhere in Los

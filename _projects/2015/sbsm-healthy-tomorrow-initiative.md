@@ -16,14 +16,6 @@ project_summary: >-
   perception of fitness and exercise at these high schools.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23214%252Fdisplay%252FIMG_0438.JPG=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  $100,000 will supply two LAUSD high schools with state-of-the-art fitness
-  centers, the SBSM curriculum and professional development training for the
-  school’s physical education department.  Following an eight-week
-  implementation of the SBSM Curriculum, we expect to improve student passing
-  rates by a minimum 25% on the Fitnessgram assessment (California State
-  proficiency test for student physical fitness) as well as improve student’s
-  perception of fitness and exercise at these high schools.
 Where will you be working?:
   - LAUSD
 How do you plan to use these resources to make change?:

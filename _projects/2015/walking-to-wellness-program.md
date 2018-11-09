@@ -16,14 +16,6 @@ project_summary: >-
   Unhealthy Habits.  
 project_image: 'https://img.youtube.com/vi/_AEWWNe6eQw/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/_AEWWNe6eQw'
-'In one to three sentences, please describe your proposal.': >-
-  The Walking-to-Wellness Program is a qualitatively and quantitatively measured
-  health improvement plan, consisting of leader-facilitated group interaction
-  focusing on cooperation, developing goals, and the processes required for
-  reaching those goals. The program stresses individual attention and support
-  and requires a 2-day per week, 7-week commitment to creating a healthier
-  lifestyle. The two main elements of this program are Walking and Changing
-  Unhealthy Habits.  
 Where will you be working?:
   - Central LA
   - San Fernando Valley

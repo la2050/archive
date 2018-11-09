@@ -16,14 +16,6 @@ project_summary: >-
   implement their vision at the school.
 project_image: 'https://img.youtube.com/vi/_P0ljapOsHo/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/_P0ljapOsHo'
-'In one to three sentences, please describe your proposal.': >-
-  The high school dropout crisis is enormous in scope, yet highly concentrated
-  in just a few neighborhoods, like South L.A.  City Year LA and the Partnership
-  are expanding our collaboration into Carver Middle School to ensure the most
-  at-risk students reach their full potential. City Year AmeriCorps members will
-  target 7th and 8th grade students who demonstrate risk factors for dropping
-  out, providing more capacity to Partnership staff and school leadership to
-  implement their vision at the school.
 Where will you be working?:
   - Carver Middle School (South Los Angeles)
 How do you plan to use these resources to make change?:

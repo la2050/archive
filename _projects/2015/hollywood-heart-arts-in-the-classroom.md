@@ -15,13 +15,6 @@ project_summary: >-
   partnerships; potential candidates include Fairfax and Venice High Schools.
 project_image: 'https://img.youtube.com/vi/7VGCk_c0VcU/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/7VGCk_c0VcU'
-'In one to three sentences, please describe your proposal.': >-
-  Hollywood HEART would like to sustain and build on its pilot program creating
-  arts-enriched learning environments for high school students in low-income and
-  underserved communities. We are currently partnering with LA High School to
-  transform their campus through in-class and after-school arts workshops. We
-  seek funding to sustain our program at LA High School and to launch new
-  partnerships; potential candidates include Fairfax and Venice High Schools.
 Where will you be working?:
   - LAUSD
 How do you plan to use these resources to make change?:

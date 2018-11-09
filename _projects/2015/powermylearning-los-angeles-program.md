@@ -9,7 +9,6 @@ title: PowerMyLearning Los Angeles Program
 project_summary: "Imagine a world where students have the tools to achieve their dreams. Imagine a world where teachers can personalize their instruction to each student. Imagine families empowered to become stronger learning partners for their children. Imagine this is true for everyone, regardless of income.That’s the world PowerMyLearning is creating in Los Angeles.\r\n\r\nWe provide training & digital tools to low-income students, families & teachers to help students do better in school & achieve lifelong success"
 project_image: 'https://img.youtube.com/vi/IG53vhayb9k/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/IG53vhayb9k'
-'In one to three sentences, please describe your proposal.': "Imagine a world where students have the tools to achieve their dreams. Imagine a world where teachers can personalize their instruction to each student. Imagine families empowered to become stronger learning partners for their children. Imagine this is true for everyone, regardless of income.That’s the world PowerMyLearning is creating in Los Angeles.\r\n\r\nWe provide training & digital tools to low-income students, families & teachers to help students do better in school & achieve lifelong success"
 Where will you be working?:
   - Central LA
   - San Fernando Valley

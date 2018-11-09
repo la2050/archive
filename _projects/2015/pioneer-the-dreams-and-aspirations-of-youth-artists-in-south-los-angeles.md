@@ -20,14 +20,6 @@ project_video: 'https://www.youtube.com/embed/yy9nnTHABlE'
   Dreamhaus is both an educational and economic catalyst for urban youth in
   South Los Angeles to creatively empower themselves through art and amplify the
   future vision and their own community's growth.
-'In one to three sentences, please describe your proposal.': >-
-  Every year, the dreams and aspirations of many youth living in Los Angeles
-  wanting to express their artistic talents come to a screeching halt due to a
-  lack of creative outlets. According to the South LA Work Source Center, 4 out
-  of 10 under privileged youth between the ages of 16-24 years old seek work
-  experience and interest in the creative/art profession. As Otis College of Art
-  and Design Alumni, we recognize the void and plan to fulfill it through an
-  established community engaged art house. 
 Where will you be working?:
   - South LA
   - LAUSD

@@ -21,14 +21,6 @@ project_video: 'https://www.youtube.com/embed/4Kt14HIJyiU'
   before they can be destroyed - mills and dries them into usable dimensions -
   and offers them to artists, crafts people and builders at an affordable price
   point.
-'In one to three sentences, please describe your proposal.': >-
-  Everybody loves trees while they’re standing, but In Los Angeles a felled tree
-  immediately becomes “green waste,” garbage to be chipped or buried in city
-  landfills.  But the natural urban forest of our city overflows with usable
-  trees which can be re-purposed into highly sought after lumber.  Angel City
-  Lumber offers a vision of Los Angeles in which trees felled in the city are
-  given a second life in the hands of the artists, crafts people and builders of
-  Los Angeles.
 Where will you be working?:
   - East LA
   - >-

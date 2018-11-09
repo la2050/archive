@@ -20,13 +20,6 @@ project_image: >-
   for arts, culture and Jewish education on the east side of Los Angeles, and
   strives to connect people of all different backgrounds through arts & cultural
   programming.
-'In one to three sentences, please describe your proposal.': >-
-  The SIJCC proposes LA’s first city-wide Human Library initiative. The Library
-  provides a forum for people to engage in difficult conversations and gain a
-  deeper understanding of diverse human experiences. Participants “check out”
-  individuals who have volunteered to act as “books” labeled with titles that
-  specify a topic or neighborhood they represent. Through guided conversation,
-  participants are better able to connect to others in their community.
 Where will you be working?:
   - City of Los Angeles
 How do you plan to use these resources to make change?:

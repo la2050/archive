@@ -16,14 +16,6 @@ project_summary: >-
   developed into a public awareness campaign.
 project_image: 'https://img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/kQnTJYkpO4A'
-'In one to three sentences, please describe your proposal.': >-
-  The Healthy Streams for Angelenos project as an important first step to make
-  important linkages between human health, resource management, and water
-  quality science. The goal of the Healthy Streams for Angelenos project is to
-  provide resource managers with the information they need to accurately assess
-  the public health risks associated with stream-based recreation when known
-  water quality safety standards are exceeded. This information will be
-  developed into a public awareness campaign.
 Where will you be working?:
   - Central LA
   - San Gabriel Valley

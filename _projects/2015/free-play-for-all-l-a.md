@@ -16,14 +16,6 @@ project_summary: >-
   engage the greater community in hours of free play!
 project_image: 'https://img.youtube.com/vi/FAirDH4ROp0/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/FAirDH4ROp0'
-'In one to three sentences, please describe your proposal.': >-
-  We want to create a traveling play program in communities across L.A.
-  utilizing parks, community centers and other public spaces to increase
-  awareness, health, fitness and fun! We’ll create the pLAy Bus, fill it with
-  athletically inspired equipment, travel each weekend to new a location (park,
-  parking lot, gymnasium, etc.) in a different community/area/district/town
-  throughout L.A. County, unload the equipment, set up in the space provided and
-  engage the greater community in hours of free play!
 Where will you be working?:
   - Central LA
   - East LA

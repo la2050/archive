@@ -15,13 +15,6 @@ project_summary: >-
   world cultures.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23665%252Fdisplay%252FLevitt_LA_Silk_Road-285-2080542528-O.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  To develop a curriculum of interactive activities and workshops prior to our
-  Children’s Concert Series, in partnership with other local arts organizations.
-  that ignite the imaginations of children and their families.  The activities
-  and workshops will be coordinated with the acts performing on stage,
-  showcasing the multiculturalism of LA, and expanding the awareness of other
-  world cultures.
 Where will you be working?:
   - Central LA
   - San Gabriel Valley

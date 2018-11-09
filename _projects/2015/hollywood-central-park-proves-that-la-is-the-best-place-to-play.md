@@ -16,14 +16,6 @@ project_summary: >-
   communities through innovative design.
 project_image: 'https://img.youtube.com/vi/t_fQo1Z6VSg/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/t_fQo1Z6VSg'
-'In one to three sentences, please describe your proposal.': >-
-  Our proposal is to hold a design competition for LA-based architects and
-  landscape designers to create an iconic design for the Hollywood Central Park.
-  The goal is to create a 38-acre urban park that caps the Hollywood Freeway,
-  and serves diverse, dense and disadvantaged communities separated for more
-  than 60 years by the freeway. It should be a park that could exist only in
-  Hollywood and is intrinsic to Los Angeles. It must connect the surrounding
-  communities through innovative design.
 Where will you be working?:
   - Central LA
   - Hollywood

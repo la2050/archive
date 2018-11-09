@@ -16,14 +16,6 @@ project_summary: >-
   participation will keep these spaces sustainable.
 project_image: 'https://img.youtube.com/vi/3nATZG2br34/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/3nATZG2br34'
-'In one to three sentences, please describe your proposal.': >-
-  People for Parks (PFP) will open six new LA Community School Parks for public
-  use during non-school hours. LAUSD youth enrichment specialists will offer
-  diverse programming with emphases on play, physical activity, nutrition,
-  outdoor learning and community building. Use of school playgrounds as park
-  space is a creative, efficient, inexpensive way to provide a park within
-  walking distance of LA residents. Community mobilization by PFP and parent
-  participation will keep these spaces sustainable.
 Where will you be working?:
   - Central LA
   - East LA

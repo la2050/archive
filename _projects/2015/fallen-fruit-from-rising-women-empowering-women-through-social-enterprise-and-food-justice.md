@@ -18,14 +18,6 @@ project_summary: >-
   offering economic opportunities for graduates.
 project_image: 'https://img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Ht0-3dSjCew'
-'In one to three sentences, please describe your proposal.': >-
-  Picking local fruit that would otherwise go to waste, Crossroads residents and
-  Claremont college students produce jams from seasonal fruit and use the
-  profits to fund our larger food justice program. We would like to expand our
-  program by establishing a co-op model and developing our pilot Social
-  Entrepreneurs Academy into two concrete program for Crossroads graduates. The
-  programs will help the women build business and financial literacy while
-  offering economic opportunities for graduates.
 Where will you be working?:
   - San Gabriel Valley
   - 'Claremont, CA and the immediate surrounding area'

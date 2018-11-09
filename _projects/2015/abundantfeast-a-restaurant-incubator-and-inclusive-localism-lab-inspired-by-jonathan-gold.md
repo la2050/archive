@@ -22,14 +22,6 @@ project_video: 'https://www.youtube.com/embed/qyZQR5_KCEM'
   civ.LA is an agile civic innovation laboratory (or "think-do tank"). We're
   passionate about launching new ventures that connect conflicted stakeholder
   groups around opportunities to create value equitably.
-'In one to three sentences, please describe your proposal.': >-
-  AbundantFeast is a for-benefit incubator of restaurants confronting the issues
-  of gentrification. Its board of directors comprise the conflicted stakeholders
-  in urban development. The incubator is a modified startup launch process to
-  power-up new restaurants vetted by a criteria set by the board. It will be
-  self-sustaining after startup costs. It will create new value to share among
-  the stakeholders. It will evolve urban development toward equitable resolution
-  of conflict and inclusion.
 Where will you be working?:
   - East LA
   - Highland Park

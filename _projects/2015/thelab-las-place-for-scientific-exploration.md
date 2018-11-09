@@ -13,11 +13,6 @@ project_summary: >-
   of our community.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23379%252Fdisplay%252FLA2050.png=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  We are looking to acquire additional scientific and safety equipment with the
-  goals of expanding our youth scientist program, community classes, and
-  workshops.  We will design classes most suitable to the needs and capabilities
-  of our community.
 Where will you be working?:
   - San Gabriel Valley
   - City of Los Angeles

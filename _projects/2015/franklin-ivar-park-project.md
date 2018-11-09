@@ -15,13 +15,6 @@ project_summary: >-
   Wi-Fi.  
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23455%252Fdisplay%252FFranklin-Ivar_Plan-small_2015_09_15.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  The Franklin-Ivar Park project will convert a ¾-acre lot into a natural park
-  in the heart of Hollywood.  Elements of the park include an amphitheater,
-  California native plant landscaping, significant tree canopy to mitigate
-  pollution, water-efficient irrigation,  picnic area, adventure play area for
-  youth, shaded seating, solar panels, bicycle racks, nature trails, and free
-  Wi-Fi.  
 Where will you be working?:
   - Central LA
   - '6351 West Franklin Avenue, Los Angeles, CA 90028'

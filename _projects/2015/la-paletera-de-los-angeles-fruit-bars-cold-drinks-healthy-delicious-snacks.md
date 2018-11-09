@@ -16,14 +16,6 @@ project_summary: >-
   workforce for women.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23623%252Fdisplay%252FMarsh_Park_Launch_Denice_Bike_.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  La Paletera is up scaling the current “paleta” vendor model by selling healthy
-  frozen fruit bars produced with sustainable business practices. The fruit bars
-  and other healthy snacks will be sold from a colorfully designed solar powered
-  cart. The frozen ice pop stick will be etched with environmental friendly
-  messages in various languages. The objective of La Paletera is to become a
-  micro-enterprise venture that will create sustainable jobs to the entry level
-  workforce for women.
 Where will you be working?:
   - Central LA
   - East LA

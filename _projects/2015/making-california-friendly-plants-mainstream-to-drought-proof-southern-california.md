@@ -16,12 +16,6 @@ project_summary: >-
   change-makers: kids.
 project_image: 'https://img.youtube.com/vi/mvOTPkbwJJU/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/mvOTPkbwJJU'
-'In one to three sentences, please describe your proposal.': >-
-  This transformative public education campaign will make California friendly
-  plants hotter than pokemon circa 1995.  How?  We're going to take existing
-  water community efforts to the next level with pioneering data science and
-  unleash some cool new creative videos and books to convert the best
-  change-makers: kids.
 Where will you be working?:
   - Across the Southern California region
 How do you plan to use these resources to make change?:

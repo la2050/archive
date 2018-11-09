@@ -14,12 +14,6 @@ project_summary: >-
   obstacles. Find your path and take action!
 project_image: 'https://img.youtube.com/vi/k-SpD948tJc/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/k-SpD948tJc'
-'In one to three sentences, please describe your proposal.': >-
-  TMPST Action Parks are uniquely designed to bring creative movement to
-  communities everywhere through play, fitness, and overcoming obstacles. Our
-  Action Parks are perfect for freerunning, great for calisthenics, crossfit,
-  and fun for anyone who’s excited to face the challenge of overcoming
-  obstacles. Find your path and take action!
 Where will you be working?:
   - San Fernando Valley
   - South LA

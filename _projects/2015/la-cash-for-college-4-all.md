@@ -16,14 +16,6 @@ project_summary: >-
   to increase aid students secure.
 project_image: 'https://img.youtube.com/vi/q4McatdcN78/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/q4McatdcN78'
-'In one to three sentences, please describe your proposal.': >-
-  Los Angeles Cash for College is the region's largest financial aid awareness
-  and college access campaign, informing, assisting and rewarding students, who
-  aspire to go to college, but who think the financial barriers are too great.
-  Each year, we reach 20,000 students through a college and career convention,
-  over 150 free financial aid completion workshops, and a scholarship reception,
-  empowering them to apply to college and seek financial aid. This year, we hope
-  to increase aid students secure.
 Where will you be working?:
   - County of Los Angeles
 How do you plan to use these resources to make change?:

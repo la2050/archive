@@ -16,14 +16,6 @@ project_summary: >-
   four counties, and 3)last mile truck feeder terminals.
 project_image: 'https://img.youtube.com/vi/Z8CUwycoaCc/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Z8CUwycoaCc'
-'In one to three sentences, please describe your proposal.': >-
-  GRID proposes a Demand-Risk Public Private Partnership whereby private
-  investment replaces traditional tax-payer backed securities to build large
-  scale transportation infrastructure. We connect port containers with inland
-  freight distribution hubs comprising of a 3-pronged systems platform;
-  1)SuperDock, a new platform to load and unload container ships, 2)Freight
-  Pipeline; an underground container shuttle under existing freeways connecting
-  four counties, and 3)last mile truck feeder terminals.
 Where will you be working?:
   - East LA
   - 'The La Kretz Innovation Campus 411 S. Hewitt St. LA, CA 90013'

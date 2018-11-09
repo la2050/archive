@@ -18,14 +18,6 @@ project_summary: >-
   is a brilliant solution. 
 project_image: 'https://img.youtube.com/vi/fi31RJKyr4I/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/fi31RJKyr4I'
-'In one to three sentences, please describe your proposal.': >-
-  SoLA  seeks to provide better access to natural, organic and non GMO foods in
-  South LA in the form of a full service grocery cooperative. We envision our
-  store as a place not only for shopping but for learning , in cooking and
-  nutrition classes, and for the community to gather, share prepared foods,
-  fresh juices, and organic coffee. We feel that in an area long overlooked,
-  with too few grocery stores, that is a food desert, a health foods cooperative
-  is a brilliant solution. 
 Where will you be working?:
   - South LA
   - In the Leimert Park area

@@ -19,14 +19,6 @@ project_video: 'https://www.youtube.com/embed/9l0UWGhKU-U'
 'In one sentence, please describe what your organization does': >-
   JobCouch is a mobile enhanced platform to match hourly jobseekers with
   employers in the services industry.
-'In one to three sentences, please describe your proposal.': >-
-  Our mission at JobCouch is not only to help match jobseekers with hourly job
-  listings but also connect them with local job training programs. By partnering
-  with LA non-profits, government (Workforce Investment Board) & community
-  organizations, our goal is to close the talent-divide between employers and
-  jobseekers (young adults (16-24), formerly incarcerated individuals &
-  immigrants). We're not just focused on hourly jobs, but to help LA residents
-  discover a career & opportunities to succeed.
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Conduct research

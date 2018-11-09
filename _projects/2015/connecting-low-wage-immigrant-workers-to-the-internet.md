@@ -20,14 +20,6 @@ project_image: >-
   IDEPSCA organizes and educates low immigrant workers concerned with solving
   problems in their own communities in the areas of workforce and economic
   development and worker health and safety. 
-'In one to three sentences, please describe your proposal.': >-
-  IDEPSCA will design and implement a series of blingual English/Spanish
-  trainings for low wage immigrant workers on how to use their mobile phones to
-  better connect them to services in the City of LA. The trainings will include
-  how to connect to free wireless networks and use apps on their phones
-  including JobsLA, GoMetro, MyLA 311. We will also show workers how to use
-  social media apps to connect to their government representatives and local
-  neighborhood councils. 
 Where will you be working?:
   - San Fernando Valley
   - City of Los Angeles

@@ -20,14 +20,6 @@ project_image: >-
   Data Roads Foundation expands access to interconnected networks (or Internets
   for short) by promoting community network ownership, free as in liberty
   software, and free documentation (including legal templates).
-'In one to three sentences, please describe your proposal.': >-
-  The Internet today divides communities by empowering remote network owners and
-  information services to overpower local community businesses and resources. It
-  creates a growing digital divide between those who can afford monopoly rents
-  on broadband channel access versus those who cannot. Community at Home (Box)
-  breaks that negative cycle by providing full connection and data services
-  within each home, growing organically into neighborhood and community-wide
-  networks, one household at a time.
 Where will you be working?:
   - Central LA
   - East LA

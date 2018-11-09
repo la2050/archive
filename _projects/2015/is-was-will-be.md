@@ -21,14 +21,6 @@ project_image: >-
   Smart Gals seeks to connect those who would otherwise not meet, by taking
   literature, performance and the arts out of their traditional venues, removing
   exclusivity, and op
-'In one to three sentences, please describe your proposal.': >-
-  Is.Was.Will Be. seeks to document the swiftly changing neighborhood of Elysian
-  Valley as it is today, while simultaneously building a comprehensive
-  historical profile through research and the development of a neighborhood
-  archive. Creating interactions within the community about what it is and what
-  it was, will enable residents to view Elysian Valley in the context of Los
-  Angeles history, and empower them to actively shape what it will be by fully
-  engaging in civic dialog about new development.
 Where will you be working?:
   - City of Los Angeles
   - LAUSD

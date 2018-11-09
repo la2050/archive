@@ -16,14 +16,6 @@ project_summary: >-
   for L.A. now and in 2050.
 project_image: 'https://img.youtube.com/vi/8EU-FnJm4xE/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/8EU-FnJm4xE'
-'In one to three sentences, please describe your proposal.': >-
-  YPI’s COLLEGE PROMISE helps low-income students prepare for and go to college
-  through financial education and a unique 3:1 match that puts $981 into special
-  savings accounts for 1,300 students who otherwise may not be able to afford
-  school. $981 is the gap to cover community college costs after financial aid,
-  an amount that also makes it three times more likely students will enroll in
-  college—and four times more likely they’ll graduate. That’s something great
-  for L.A. now and in 2050.
 Where will you be working?:
   - City of Los Angeles
   - LAUSD

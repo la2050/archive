@@ -14,12 +14,6 @@ project_summary: >-
   inspiring citizens to help solve our city’s transit, public space, and water. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24151%252Fdisplay%252FCtD_2050_Image_2.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  Connect the Dots uses art and design to bring complex science to the surfaces
-  of our city's streets, shaping sound policy and inspired public space for a
-  water-smart future. Working in neighborhoods along the river and across the
-  basin, CtD uses advanced hydrologic data as public art, empowering and
-  inspiring citizens to help solve our city’s transit, public space, and water. 
 Where will you be working?:
   - >-
     thirsty neighborhoods dotted across the 864-sq-mile LA Basin, on the river

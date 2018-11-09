@@ -18,14 +18,6 @@ project_summary: >-
   academic outcomes of low-income children.
 project_image: 'https://img.youtube.com/vi/a-3Yo_Yz5Vc/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/a-3Yo_Yz5Vc'
-'In one to three sentences, please describe your proposal.': >-
-  Jumpstart recruits and trains college students and older adults (ages 55+) to
-  implement a data-driven preschool curriculum in low-income communities,
-  helping children circumvent the achievement gap by ensuring that they build
-  the language, literacy, and socio-emotional skills most vital to school
-  success. Jumpstart seeks to expand our program, particularly in South LA and
-  East LA, to continue fostering intergenerational learning and improving the
-  academic outcomes of low-income children.
 Where will you be working?:
   - Central LA
   - East LA

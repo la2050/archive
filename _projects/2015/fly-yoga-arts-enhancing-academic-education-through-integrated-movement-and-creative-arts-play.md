@@ -18,14 +18,6 @@ project_summary: >-
   keeping students balanced and engaged in learning. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23727%252Fdisplay%252FStillVideoImage_(2).jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  FLY Yoga Arts is a comprehensive curriculum of games, mindfulness and
-  movement-based education designed for in-class or after school learning and
-  play.  During the next year FLY seeks to train 1000 Los Angeles area educators
-  to implement the FLY curriculum in their classrooms.   The FLY mission to
-  “teach the teachers” will empower educators to seamlessly integrate play,
-  movement and “mindful moments” into their classrooms with the result of
-  keeping students balanced and engaged in learning. 
 Where will you be working?:
   - LAUSD
 How do you plan to use these resources to make change?:

@@ -16,14 +16,6 @@ project_summary: >-
   storytellers.
 project_image: 'https://img.youtube.com/vi/9pqXAYBOKLo/maxresdefault.jpg'
 project_video: 'https://youtu.be/o-kSyggO5n0'
-'In one to three sentences, please describe your proposal.': >-
-  826LA and Young Storytellers will partner to inspire students to discover the
-  power of their voice by helping them share their stories with the world. To
-  encourage students to develop creative learning behaviors and English &
-  Language Arts skills, L.A. must first show our youngest citizens that these
-  skills matter by reinforcing that their voices matter. 826LA and Young
-  Storytellers will engage volunteers to help today’s students become tomorrow’s
-  storytellers.
 Where will you be working?:
   - Central LA
   - East LA

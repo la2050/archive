@@ -16,12 +16,6 @@ project_summary: >-
   efficient supports are available for all students. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23240%252Fdisplay%252F_MG_9694.JPG=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  Students, community-based organizations, and colleges all are working toward
-  the same goal: students graduating from college. Since their goals are
-  aligned, these groups should not work outside of each other; instead, SoCal
-  CAN proposes the coordination of these entities to ensure effective and
-  efficient supports are available for all students. 
 Where will you be working?:
   - Central LA
   - East LA

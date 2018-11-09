@@ -9,7 +9,6 @@ title: Technology for the Classroom
 project_summary: "Redeemer Elementary is a small private Christian school located in West LA.  To enhance student learning and better prepare children for today's tech-savvy society, we would like to implement technology in the classroom.  We would LOVE to have SMART Boards or even something as simple as projectors in every classroom.  Help us enhance student learning and make the future successful for students.  Lets make LA the best place to LEARN!\r\n"
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23262%252Fdisplay%252Fdsc00212.jpg=c570x385
-'In one to three sentences, please describe your proposal.': "Redeemer Elementary is a small private Christian school located in West LA.  To enhance student learning and better prepare children for today's tech-savvy society, we would like to implement technology in the classroom.  We would LOVE to have SMART Boards or even something as simple as projectors in every classroom.  Help us enhance student learning and make the future successful for students.  Lets make LA the best place to LEARN!\r\n"
 Where will you be working?:
   - Westside
 How do you plan to use these resources to make change?:

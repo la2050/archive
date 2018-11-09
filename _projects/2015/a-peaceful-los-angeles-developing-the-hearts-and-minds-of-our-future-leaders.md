@@ -16,14 +16,6 @@ project_summary: >-
   complex, diverse, and ever-changing world. 
 project_image: 'https://img.youtube.com/vi/RVA2N6tX2cg/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/RVA2N6tX2cg'
-'In one to three sentences, please describe your proposal.': >-
-  In order to fulfill our mission, Citizens of the World seeks to construct a
-  rich, comprehensive social-emotional learning (SEL) program, as we believe
-  self-regulation and social connection are essential components of every
-  child’s development. Including SEL in everyday instruction allows for deeper,
-  longer-term learning to occur. Ultimately, we envision that students who have
-  built strong social-emotional competencies will become better citizens of our
-  complex, diverse, and ever-changing world. 
 Where will you be working?:
   - City of Los Angeles
   - >-

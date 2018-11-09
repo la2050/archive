@@ -18,13 +18,6 @@ project_video: 'https://www.youtube.com/embed/Nry74LO2c0I'
 'In one sentence, please describe what your organization does': >-
   Center for Council delivers council-based programs that foster collective
   wisdom, greater resilience and a deeper sense of community.
-'In one to three sentences, please describe your proposal.': >-
-  We work with local social justice organizations to implement Council Practice.
-  To serve the needs of the populations they serve, these organizations must
-  develop their capacity to listen deeply and compassionately so as to
-  understand both the context and history of the underlying issues. The practice
-  of deep listening without judgment fosters an atmosphere of respect for one’s
-  self and others, promotes empathy, understanding and cooperation. 
 Where will you be working?:
   - Central LA
   - East LA

@@ -21,14 +21,6 @@ project_video: 'https://www.youtube.com/embed/nu53ttV7jQI'
   business as the most powerful force for positive change; we believe that
   brands have not only the opportunity, but also the obligation to make the
   world a better place to live.  
-'In one to three sentences, please describe your proposal.': >-
-  Tiny Rebellion will use the $100,000 dollar grant to create a campaign around
-  four unrecognized dolphin statues located in the Santa Monica area that serve
-  as donation points for the cities homeless service agencies. The
-  #FeedtheDolphins campaign will include lead up promotions to a one-day
-  experiential event that will raise awareness for the existing donation
-  program, and show how the local community can use their spare change to make a
-  big difference.
 Where will you be working?:
   - Westside
 How do you plan to use these resources to make change?:

@@ -14,10 +14,6 @@ project_summary: >-
   only obstacle between them and a diploma).  
 project_image: 'https://img.youtube.com/vi/UYdxlEZVaNA/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/UYdxlEZVaNA'
-'In one to three sentences, please describe your proposal.': >-
-  Our proposal is to take otherwise non-graduating students and help them
-  graduate by focusing on the fail they received in biology class (often the
-  only obstacle between them and a diploma).  
 Where will you be working?:
   - Central LA
   - East LA

@@ -14,12 +14,6 @@ project_summary: >-
   others.  
 project_image: 'https://img.youtube.com/vi/CAz_mkuDRno/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/CAz_mkuDRno'
-'In one to three sentences, please describe your proposal.': >-
-  We will increase attendance to major league sporting events by bringing in our
-  technology which allows everyone old and young to come together and play a
-  game. By having them actively participate where normally they would just watch
-  some static content, we increase the chance they will come back and bring
-  others.  
 Where will you be working?:
   - 'Large Sports Venues, LA County'
 How do you plan to use these resources to make change?:

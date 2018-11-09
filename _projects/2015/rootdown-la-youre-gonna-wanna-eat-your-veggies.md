@@ -16,14 +16,6 @@ project_summary: >-
   Youth-driven Neighborhood Food System sites.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23812%252Fdisplay%252FRD_APCH_Training_Install_Mar_15_4web.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  South LA youth, who now run RootDown LA, know how to build demand for, and
-  create supplies of fresh produce, directly in their neighborhoods. Our goal
-  this year is to support these young people to begin to develop their own
-  for-profit healthy food ventures, incorporating the nutrition and culinary
-  educational activities they already expertly facilitate, and the produce from
-  the garden networks they installed and maintain, at our South Los Angeles
-  Youth-driven Neighborhood Food System sites.
 Where will you be working?:
   - South LA
 How do you plan to use these resources to make change?:

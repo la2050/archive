@@ -19,13 +19,6 @@ project_image: >-
   Off The Saw creates community around furniture making by offering bench space,
   workshops, maker talks, and apprenticeships to furniture makers in Los
   Angeles. 
-'In one to three sentences, please describe your proposal.': >-
-  Los Angeles is home to thousands of craft furniture makers that lack access to
-  tools, resources, and educational opportunities to grow their businesses.
-  These furniture makers grapple with questions about how to best design and
-  build a product and get it to market. Off The Saw will create a year-long
-  series of discussions to examine how craftsmanship can survive and thrive in
-  our city and to create a toolkit for building LA's creative economy.
 Where will you be working?:
   - Central LA
   - >-

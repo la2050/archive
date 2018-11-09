@@ -16,14 +16,6 @@ project_summary: >-
   communities.
 project_image: 'https://img.youtube.com/vi/g5AgtC0G5ec/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/g5AgtC0G5ec'
-'In one to three sentences, please describe your proposal.': >-
-  ‘Making for Good’ is a DIY Girls initiative that implements the design
-  thinking process to empower girls to identify and prototype solutions to
-  issues encountered in their communities. We will expand our ‘Making for Good’
-  project to investigate air quality using open-source technology and propose
-  solutions for a Los Angeles with clean air by 2050. This project enables girls
-  and others to become advocates for the change they want to see in their
-  communities.
 Where will you be working?:
   - San Fernando Valley
   - City of Los Angeles

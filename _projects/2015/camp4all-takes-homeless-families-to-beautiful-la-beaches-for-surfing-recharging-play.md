@@ -16,12 +16,6 @@ project_summary: >-
   innovative, fun way possible.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23533%252Fdisplay%252FGreat-Group-Camp4All-Beach-Photo-2014.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  The CLF's Camp4All Program takes homeless families out of their shelter
-  environment in LA to the natural beauty of LA's beaches-teaching them to surf,
-  allowing them to rest and recharge- and hang out with their families in a
-  beautiful SoCal environment. Camp4All shows that LA loves to play in the most
-  innovative, fun way possible.
 Where will you be working?:
   - Central LA
   - East LA

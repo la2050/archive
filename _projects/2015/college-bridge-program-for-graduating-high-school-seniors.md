@@ -13,11 +13,6 @@ project_summary: >-
   program will receive a stipend.  
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23575%252Fdisplay%252FPicture_5.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  The Ripple Effect will offer a summer bridge program for graduating high
-  school seniors to prepare them for college.  The program will include academic
-  and college readiness preparation.  Students who successfully complete the
-  program will receive a stipend.  
 Where will you be working?:
   - City of Los Angeles
   - 'Southeast L.A. County, including Whittier, Santa Fe Springs, Pico Rivera'

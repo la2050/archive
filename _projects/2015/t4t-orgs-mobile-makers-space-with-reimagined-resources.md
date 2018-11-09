@@ -16,14 +16,6 @@ project_summary: >-
   realize what their imagination can inspire.
 project_image: 'https://img.youtube.com/vi/XPYx9Zb6q6c/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/XPYx9Zb6q6c'
-'In one to three sentences, please describe your proposal.': >-
-  T4T.org’s Pop-Up Makers’ Spaces using ReImagined Resources will arrive in some
-  of LA’s most underserved communities. On a Saturday or Sunday morning a truck
-  will pull up, drop down the sides, set up the tables and future inventors,
-  scientists and researchers, from the local community go to work. These
-  children are welcome to create, build and experiment. We will bring Laser
-  cutters, 3D Printers and more, all the tools these young inventors need to
-  realize what their imagination can inspire.
 Where will you be working?:
   - County of Los Angeles
   - 'Parks, community centers and Title 1 Schools in LA County.'

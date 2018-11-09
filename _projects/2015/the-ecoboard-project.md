@@ -21,14 +21,6 @@ project_video: 'https://www.youtube.com/embed/5-OvAiMBAFc'
   powerful force for protecting the ocean environment, through science,
   innovation, campaigns and programs making sustainable solutions accessible,
   easy and desirable. 
-'In one to three sentences, please describe your proposal.': >-
-  Our goal is to create the first ever Workshop Showcase for a new paradigm in
-  surfboard + watercraft design & production - The EcoBoard Project.
-  Appropriately, SoCal was the birthplace for surfboard manufacturing and
-  innovation. Sustainablesurf.org is currently working with leaders in the surf
-  world towards better, safer, healthier practices - from shaping + design to
-  glassing + storytelling.  Working with Marko Foam, E-tech, and Entropy Resin,
-  we will show how this transformative process works. 
 Where will you be working?:
   - Westside
   - South Bay

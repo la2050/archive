@@ -19,14 +19,6 @@ project_video: 'https://www.youtube.com/embed/WendT0Sm-Tk'
 'In one sentence, please describe what your organization does': >-
   Urban Word LA provided diverse platforms for youth to cultivate and share
   their powerful voices.
-'In one to three sentences, please describe your proposal.': >-
-  The Youth Poet Ambassadors program honors 15 teens each year, and names the LA
-  Youth Poet Laureate. These youth are not only selected by the strength of
-  their creative voices, but most importantly because of their histories of
-  volunteerism and civic/community engagement. Each year, we activate around (3)
-  issues, and this year we've identified: 1) voter awareness/participation, 2)
-  access to creative industries & workforce development, and 3) college access,
-  as our Ambassador Initiatives.
 Where will you be working?:
   - City of Los Angeles
   - LAUSD

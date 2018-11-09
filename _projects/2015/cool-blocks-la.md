@@ -16,14 +16,6 @@ project_summary: >-
   resiliency.  
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23843%252Fdisplay%252FCool_block_9.png=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  The “Cool Blocks LA” program will build planet-friendly, disaster resilient,
-  socially connected neighborhoods in LA, block by block. By the end of the Cool
-  Blocks LA pilot year, at least 10 neighborhood block teams across three Los
-  Angeles communities will complete the program. In the process, these teams
-  will reduce both their carbon and water footprints by an average of 25% while
-  getting to know their neighbors and building their personal and shared
-  resiliency.  
 Where will you be working?:
   - City of Los Angeles
 How do you plan to use these resources to make change?:

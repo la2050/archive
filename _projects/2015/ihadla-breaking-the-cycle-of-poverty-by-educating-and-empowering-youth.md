@@ -16,14 +16,6 @@ project_summary: >-
   scholarship from us upon completing high school.
 project_image: 'https://img.youtube.com/vi/QV1lB2SqWos/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/QV1lB2SqWos'
-'In one to three sentences, please describe your proposal.': >-
-  Working in Boyle Heights, Watts, & Inglewood, IHADLA strives to break the
-  cycle of poverty by sponsoring entire grade levels of 3rd graders from
-  under-performing schools in low-income areas, providing them with the only
-  long-term, comprehensive program of its kind in Los Angeles. For 10 years,
-  “Dreamers” attend our in-school, after-school & summer programs that prepare
-  them for academic & emotional success; each student is eligible for an $8,000
-  scholarship from us upon completing high school.
 Where will you be working?:
   - East LA
   - South LA

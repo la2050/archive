@@ -15,13 +15,6 @@ project_summary: >-
   success can make a difference for their communities.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23515%252Fdisplay%252FDSC_0342.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  Sequoyah school is establishing a new high school that will challenge the
-  prevalent model for high school education in both public and private schools
-  across the country and accelerate reform in secondary education.  This new
-  high school will be focused not only on cultivating and expressing academic
-  achievement, but will be a place where students learn how their individual
-  success can make a difference for their communities.
 Where will you be working?:
   - Central LA
   - East LA

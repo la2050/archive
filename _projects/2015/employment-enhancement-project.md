@@ -13,11 +13,6 @@ project_summary: >-
   employment and achieve their career goals.
 project_image: 'https://img.youtube.com/vi/myUKgR-PO4c/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/myUKgR-PO4c'
-'In one to three sentences, please describe your proposal.': >-
-  The Employment Enhancement Project will provide business attire and
-  pre-employment training to low-income residents of Los Angeles.  The resources
-  provided by Clothes The Deal, will help Los Angeles residents obtain
-  employment and achieve their career goals.
 Where will you be working?:
   - Central LA
   - East LA

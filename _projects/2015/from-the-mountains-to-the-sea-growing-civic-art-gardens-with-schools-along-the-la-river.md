@@ -18,14 +18,6 @@ project_summary: >-
   people of all ages to “play”.
 project_image: 'https://img.youtube.com/vi/1Qmy2pX9eEo/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/1Qmy2pX9eEo'
-'In one to three sentences, please describe your proposal.': >-
-  We will produce a Civic Arts and Engagement Program connecting communities and
-  cultures by creating, cultivating and sustaining "art gardens" (serving as
-  outdoor classrooms, meeting places, art studios, urban gardens) in public open
-  spaces along the LA River. In partnership with adjacent schools representing a
-  diversity of people and environments, we’ll show how to bring more Beauty to
-  civic spaces and build community through creating healthy and happy places for
-  people of all ages to “play”.
 Where will you be working?:
   - Central LA
   - San Fernando Valley

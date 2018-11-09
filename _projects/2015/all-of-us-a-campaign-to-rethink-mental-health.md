@@ -9,7 +9,6 @@ title: 'All of Us: A Campaign to Rethink Mental Health'
 project_summary: "Conducting a much-needed conference to educate LA about mental health, advocate for expansion of mental health services, and spread awareness to pave the way for enacting legislative change to support individuals dealing with mental health issues. \r\nA series of small projects to change the perception of mental health issues, and to expand the scope of our campaign will precede the conference.\r\n"
 project_image: 'https://img.youtube.com/vi/YHlDfLtzSio/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/YHlDfLtzSio'
-'In one to three sentences, please describe your proposal.': "Conducting a much-needed conference to educate LA about mental health, advocate for expansion of mental health services, and spread awareness to pave the way for enacting legislative change to support individuals dealing with mental health issues. \r\nA series of small projects to change the perception of mental health issues, and to expand the scope of our campaign will precede the conference.\r\n"
 Where will you be working?:
   - Central LA
   - East LA

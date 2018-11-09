@@ -12,10 +12,6 @@ project_summary: >-
   STEM-related activities and careers.
 project_image: 'https://img.youtube.com/vi/SXGVU13JPLU/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/SXGVU13JPLU'
-'In one to three sentences, please describe your proposal.': >-
-  Our organization seeks to establish a LA’s Promise Technology Academy at each
-  of our school sites and expose 90 students from low-income backgrounds to
-  STEM-related activities and careers.
 Where will you be working?:
   - South LA
 How do you plan to use these resources to make change?:

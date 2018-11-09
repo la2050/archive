@@ -10,7 +10,6 @@ project_summary: "RCLA helps local leaders hold first-time offenders accountable
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23396%252Fdisplay%252FReConnectLA_Logo_02.jpg=c570x385
 'In one sentence, please describe what your organization does': "Justice Lab is making California's criminal justice system more compassionate, efficient, and cost-effective.\r\n"
-'In one to three sentences, please describe your proposal.': "RCLA helps local leaders hold first-time offenders accountable for the crimes they commit and, in the process, build community.\r\n\r\nBy partnering with prosecuting agencies, RCLA will divert first-time offenders from the criminal justice system before charges are filed and into a volunteer-led program whose goal is to reconnect the first-time offender, who may feel isolated, ashamed, and  disconnected, back into the community through service, dialogue, and referral to community resources. "
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Engage residents and stakeholders

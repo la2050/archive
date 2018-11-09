@@ -20,11 +20,6 @@ project_image: >-
   Center for Innovation showcases and promotes LA County as a leading global
   center for innovation and entrepreneurship rooted in boundless creativity and
   diversity.
-'In one to three sentences, please describe your proposal.': >-
-  In the past two years, the LAEDC has created a hotbed of innovation that
-  showcases the best novel technologies and advanced ideas in the LA County. Our
-  aim is to inspire Angelinos and create a more cohesive community through
-  curating innovation events across the region.
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Conduct research

@@ -16,14 +16,6 @@ project_summary: >-
   call these places Pando Hubs.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23521%252Fdisplay%252FEco_Civ.png=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  The intention of this proposal is to transform Los Angeles by identifying and
-  networking its existing hubs of ecological civilization – places where healthy
-  living and education extends to social relations and the biosphere.  This
-  pilot grant will allow us to take a series of small, bold moves in nurturing
-  relationships among the hubs, and to develop plans for our next step, to
-  create and support new centers of ecological living, work and innovation.  We
-  call these places Pando Hubs.
 Where will you be working?:
   - County of Los Angeles
   - City of Los Angeles

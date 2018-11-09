@@ -14,12 +14,6 @@ project_summary: >-
   which once completed we send to villages in Africa. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23250%252Fdisplay%252FWheels_graduation_ceremony.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  Wheels of Hope LA trains and certifies hard to employ people in Los Angeles
-  and then certifies them through the American Welding Society. The AWS
-  certification is good in all 50 states and once our students pass we then
-  place them in jobs. The end of term project is welding motorcycle ambulances,
-  which once completed we send to villages in Africa. 
 Where will you be working?:
   - '412 Boyd St, Los Angeles CA 90013'
 How do you plan to use these resources to make change?:

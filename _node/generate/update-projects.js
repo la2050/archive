@@ -1677,12 +1677,19 @@ function processFile(filename) {
   //   }
   // }
 
-  if (data.yaml.year_submitted == 2015) {
-    delete data.yaml.project_areas
-  }
+  // if (data.yaml.year_submitted == 2015) {
+  //   delete data.yaml.project_areas
+  //   if (data.yaml["In one to three sentences, please describe your proposal."]) {
+  //     data.yaml.project_summary = data.yaml["In one to three sentences, please describe your proposal."]
+  //     delete data.yaml["In one to three sentences, please describe your proposal."]
+  //   }
+  //   // if (data.yaml["project_summary"] == data.yaml["In one to three sentences, please describe your proposal."]) {
+  //   //   console.log(data.yaml.title)
+  //   // }
+  // }
 
 
-  saveMarkdown(filename, data)
+  // saveMarkdown(filename, data)
 }
 
 

@@ -16,14 +16,6 @@ project_summary: >-
   its holistic, integrated partner services. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23674%252Fdisplay%252FImage.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  This grant will support IAVA’s Rapid Response Referral Program (RRRP),
-  providing LA’s more than 320,000 veterans and their families with support as
-  they transition to civilian life—which can be challenging in LA, where
-  homelessness and unemployment rates among veterans are higher than average and
-  where it can take over a year for a VA claim to be processed. IAVA will hold
-  numerous community outreach activities to provide vets with access to RRRP and
-  its holistic, integrated partner services. 
 Where will you be working?:
   - County of Los Angeles
 How do you plan to use these resources to make change?:

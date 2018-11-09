@@ -12,10 +12,6 @@ project_summary: >-
   relationship to transform neighborhoods.
 project_image: 'https://img.youtube.com/vi/XYkDHo1jJ1c/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/XYkDHo1jJ1c'
-'In one to three sentences, please describe your proposal.': >-
-  A new alt sport played by kids and cops together. Each team contains young
-  people and cadets from the police academy. Playing together builds a
-  relationship to transform neighborhoods.
 Where will you be working?:
   - South LA
   - Watts Towers

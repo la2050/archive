@@ -16,14 +16,6 @@ project_summary: >-
   project-based learning.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23346%252Fdisplay%252F73168.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  JSA will partner with Alliance College-Ready Public Schools to provide a civic
-  leadership program that prepares low-income students to become engaged
-  citizens and successful students into and through college. This proposal will
-  create six new JSA chapters at Alliance schools, which are uniquely suited to
-  host the organization because of 1) their mission to empower LA’s underserved
-  students for college and career success, and 2) their focus on student-led
-  project-based learning.
 Where will you be working?:
   - Central LA
   - East LA

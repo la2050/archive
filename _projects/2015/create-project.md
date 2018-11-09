@@ -15,13 +15,6 @@ project_summary: >-
   through a textbook.
 project_image: 'https://img.youtube.com/vi/5tvdNOJ7fCw/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/5tvdNOJ7fCw'
-'In one to three sentences, please describe your proposal.': >-
-  The CREATE Project is helping math teachers design lessons that are both
-  intuitive and engaging for their students. Using a new app developed at CSUN,
-  students can learn math through interactive activities that guide them toward
-  their own discoveries of the math concepts. Teaching with this new app will
-  help teachers focus on getting through to their kids, rather than just get
-  through a textbook.
 Where will you be working?:
   - Central LA
   - East LA

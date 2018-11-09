@@ -16,14 +16,6 @@ project_summary: >-
   youth to a career choice in water safety.  
 project_image: 'https://img.youtube.com/vi/U-UzxBOeJm8/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/U-UzxBOeJm8'
-'In one to three sentences, please describe your proposal.': >-
-  Geared for youth ages 9-17, the Open Water Junior Lifeguard Program operates
-  during the summer at two open water locations within the City. Taught by
-  certified lifeguards, our Program is  competitive and rigorous, providing
-  instruction in physical conditioning, competition skills, and the use of
-  professional lifesaving equipment.  Our Program is designed to educate and
-  impassion youth to appreciate and respect the marine environment and introduce
-  youth to a career choice in water safety.  
 Where will you be working?:
   - San Fernando Valley
   - South Bay

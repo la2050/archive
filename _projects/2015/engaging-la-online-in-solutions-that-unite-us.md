@@ -20,14 +20,6 @@ project_image: >-
   We are building the online platform that engages everyone in finding solutions
   that unite us while keeping it fair, balanced and civil and distilling it down
   to a small, high-quality, and representative set for our elected leaders.
-'In one to three sentences, please describe your proposal.': >-
-  The possibilities are limitless if the people of LA can come together and make
-  things happen. This is the platform that brings in all of the residents of LA
-  that are “too busy” by giving them a way to participate online with text and
-  video which matches both their schedules and how they want government to
-  communicate with them; and democratically distills the contributions of
-  millions of participants in to a small, high-quality, representative set for
-  city and neighborhood council meetings.
 Where will you be working?:
   - City of Los Angeles
 How do you plan to use these resources to make change?:

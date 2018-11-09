@@ -16,14 +16,6 @@ project_summary: >-
   communities and makes L.A. the best place to live.
 project_image: 'https://img.youtube.com/vi/a-kQryxgF4M/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/a-kQryxgF4M'
-'In one to three sentences, please describe your proposal.': >-
-  Re:Ciclos is a Los Angeles-based project that recycles landfill-bound steel
-  bicycles and redirects them into the hands of youth who redesign, re-fabricate
-  and assemble them into cargo bicycles that are then distributed to
-  communities, individuals, organizations/businesses that will use them in their
-  everyday endeavors.  Re:Ciclos seeks to empower students by offering an
-  educational platform that puts their creations to work in their own
-  communities and makes L.A. the best place to live.
 Where will you be working?:
   - City of Los Angeles
   - 'Bicycle Kitchen 4429 Fountain Ave, Los Angeles, CA 90029'

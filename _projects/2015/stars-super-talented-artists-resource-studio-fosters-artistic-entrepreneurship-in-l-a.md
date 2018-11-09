@@ -21,12 +21,6 @@ project_video: 'https://www.youtube.com/embed/GLojtCpWaz4'
   professionals in the entertainment industry pursue their careers by hosting
   educational networking events and offering unique resources focused on the
   arts and media.
-'In one to three sentences, please describe your proposal.': >-
-  Our 501(c)(3) non-profit organization, Breaking into Hollywood, will launch an
-  innovative resource center:  STARS (Super Talented Artists' Resource Studio)
-  in the city of Los Angeles for creative and business professionals in the
-  entertainment industry. STARS will be a brick and mortar hub for aspiring and
-  mid-level artists to collaborate and showcase their diverse talents.
 Where will you be working?:
   - San Fernando Valley
 How do you plan to use these resources to make change?:

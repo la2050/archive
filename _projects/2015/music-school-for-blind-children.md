@@ -14,12 +14,6 @@ project_summary: >-
   clothes for them.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23208%252Fdisplay%252FAMBgroupPic.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  We've recently opened a larger location in Los Angeles because there are so
-  many blind students looking for a place to learn to become musicians. We need
-  money to help with student tuition, musical instruments and teacher salary.
-  The students also want to start dancing! So, we're trying to purchase shoes &
-  clothes for them.
 Where will you be working?:
   - San Fernando Valley
   - County of Los Angeles

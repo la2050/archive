@@ -15,13 +15,6 @@ project_summary: >-
   obtaining a college athletic scholarship. 
 project_image: 'https://img.youtube.com/vi/IscZOss0am8/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/IscZOss0am8'
-'In one to three sentences, please describe your proposal.': >-
-  By keeping the youth focused and occupied on sports, mainly basketball and
-  education, will lead to less crime, less obesity, less high school drop outs,
-  and pregnancy rates. With Dream Big Hoops Center the youth can come get
-  homework done first, then begin basketball training. We want our youth to get
-  better and improve so that they can further their career and education by
-  obtaining a college athletic scholarship. 
 Where will you be working?:
   - San Fernando Valley
   - County of Los Angeles

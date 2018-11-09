@@ -18,14 +18,6 @@ project_summary: >-
   prize at the annual SET Awards Ceremony.
 project_image: 'https://img.youtube.com/vi/5paOc34oG84/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/5paOc34oG84'
-'In one to three sentences, please describe your proposal.': >-
-  Generation Next will bring seminars into high school classrooms to build
-  writing skills and a love of writing by teaching screenwriting basics using
-  professional screenwriters. Students in participating classes can submit ideas
-  for movie or TV scripts dealing with scientists, engineers or technologists,
-  and students with winning ideas will be supported by science and creative
-  mentors in writing a full script. Top 2 finished scripts will receive a cash
-  prize at the annual SET Awards Ceremony.
 Where will you be working?:
   - San Fernando Valley
   - Westside

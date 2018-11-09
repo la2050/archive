@@ -20,13 +20,6 @@ project_image: >-
   offering affordable, responsible financial products that enable underserved
   small businesses and households to work toward financial stability and
   economic mobility.
-'In one to three sentences, please describe your proposal.': >-
-  Opportunity Fund has a vision that every entrepreneur in Los Angeles can
-  access the financing and support needed to realize his or her full potential
-  to create wealth and jobs.  As California’s largest nonprofit microlender, we
-  seek to invest $10 million in 700 small businesses across LA this
-  year—creating and retaining 1,800 jobs and driving economic activity in the
-  region’s most underserved communities.
 Where will you be working?: []
 How do you plan to use these resources to make change?:
   - Expand a pilot or a program

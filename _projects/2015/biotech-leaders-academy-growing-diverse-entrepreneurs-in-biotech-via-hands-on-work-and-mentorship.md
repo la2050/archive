@@ -22,14 +22,6 @@ project_video: 'https://www.youtube.com/embed/UNbHPa1n2g4'
   LA Bioscience Hub (LABH) facilitates the creation of a thriving bioscience
   cluster that fosters innovation, nurtures local talent, and creates
   good-paying jobs in East LA’s LA Bioscience Corridor.
-'In one to three sentences, please describe your proposal.': >-
-  LA Bioscience Hub, in collaboration with East Los Angeles College (ELAC), will
-  create the Biotech Leaders Academy - a new program that introduces East LA’s
-  bioscience students to the possibilities of becoming a biotech entrepreneur.
-  We will place students into summer internships with LA biotech companies to
-  give them valuable hands-on work experience. Students will also attend an
-  entrepreneurship academy that introduces them to the opportunities and
-  pathways of creating a biotech startup.
 Where will you be working?:
   - East LA
 How do you plan to use these resources to make change?:

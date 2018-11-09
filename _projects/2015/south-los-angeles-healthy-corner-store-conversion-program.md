@@ -16,14 +16,6 @@ project_summary: >-
   economy by increasing the profits of local businesses.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23775%252Fdisplay%252FCB_Logo.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  South Los Angeles Healthy Corner Store Conversion Program is a proposal to
-  help prevent childhood obesity through an innovative approach of converting
-  corner stores into venues that stock fresh, healthy products. In food deserts,
-  with limited access to fresh fruits and vegetables, corner stores are
-  ubiquitous. Adding fresh, healthy food to these regularly frequented
-  businesses can increase consumption of nutritious food and stimulate the
-  economy by increasing the profits of local businesses.
 Where will you be working?:
   - South LA
   - >-

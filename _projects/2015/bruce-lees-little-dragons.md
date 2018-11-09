@@ -15,13 +15,6 @@ project_summary: >-
   do so, the opportunity to participate.
 project_image: 'https://img.youtube.com/vi/YufCYg-BYaY/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/YufCYg-BYaY'
-'In one to three sentences, please describe your proposal.': >-
-  The Bruce Lee’s Little Dragons program will provide life confidence skills and
-  martial arts training to at-risk and underprivileged youth in the Los Angeles
-  County area, using Bruce Lee as a vehicle to inspire confidence and motivate
-  action within our next generation. The program will give kids who have a
-  sincere desire to pursue Martial Arts like Bruce, but simply cannot afford to
-  do so, the opportunity to participate.
 Where will you be working?:
   - County of Los Angeles
 How do you plan to use these resources to make change?:

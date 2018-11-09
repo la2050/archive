@@ -16,14 +16,6 @@ project_summary: >-
   profitable herbs and vegetables. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23569%252Fdisplay%252Ftowergarden.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  We seek to establish a solar-powered water conservation and urban vertical
-  community farm pilot project and job training program at Union Church in
-  downtown Little Tokyo.  In partnership with LA Urban Farms, we will install 20
-  vertical garden tower planters at Union Church.  We will also train job-ready,
-  former Skidrow residents of Union Rescue Missions’ Job Development Program and
-  Little Tokyo residents in the maintenance of the tower gardens and in growing
-  profitable herbs and vegetables. 
 Where will you be working?:
   - Central LA
   - >-

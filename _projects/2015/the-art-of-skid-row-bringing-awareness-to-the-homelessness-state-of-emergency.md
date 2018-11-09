@@ -18,14 +18,6 @@ project_summary: >-
   crisis. 
 project_image: 'https://img.youtube.com/vi/5-66_Xqn0Cw/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/5-66_Xqn0Cw'
-'In one to three sentences, please describe your proposal.': >-
-  The Art of Skid Row’s goal is to bring awareness to the homelessness state of
-  emergency through digital and print photojournalism. The AoSR is an print and
-  digital collaboration of local photographers that will be launched through a
-  loud social media campaign and sold at Los Angeles businesses including: book
-  stores, art galleries, restaurants, and coffee shops. Proceeds from book sales
-  will achieve both an immediate and long-term solution for the homeless
-  crisis. 
 Where will you be working?:
   - Central LA
   - South LA

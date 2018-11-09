@@ -19,13 +19,6 @@ project_video: 'https://www.youtube.com/embed/jqxMSN_U1Pk'
   The Hollywood Fringe Festival (HFF) is an annual, open-access,
   community-derived event celebrating freedom of expression and collaboration in
   the performing arts community.
-'In one to three sentences, please describe your proposal.': >-
-  HFF is looking to test a pop-up theatre venue during the 2016 and 2017
-  festivals to explore whether a temporary venue (1) provides the local
-  community greater accessibility to the festival; (2) increases the
-  participation of performers and producers from lower economic backgrounds by
-  providing a subsidized cost for renting space; and (3) acts as a catalyst for
-  additional theatrical spaces to grow in the community. 
 Where will you be working?:
   - >-
     One square mile in Hollywood.  Borders are La Brea to the west, Western to

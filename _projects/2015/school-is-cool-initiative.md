@@ -16,14 +16,6 @@ project_summary: >-
   inequities that currently exist.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24144%252Fdisplay%252FShannonTaTLA2050.jpeg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  Our "School is Cool" initiative is designed to help our community receive all
-  they need to create a base of knowledge, a love of education, and adopt the
-  tools needed to thrive in and out of the classroom. We make attendance at
-  school a priority and promote academic excellence to all students. By teaching
-  students to value the importance of education, we aim to increase their
-  overall interest while helping to bridge the gap between the educational
-  inequities that currently exist.
 Where will you be working?:
   - Central LA
   - East LA

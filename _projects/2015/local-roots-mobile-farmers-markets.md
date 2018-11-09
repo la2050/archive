@@ -15,13 +15,6 @@ project_summary: >-
   and providing increased healthy food access in low-income neighborhoods.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23707%252Fdisplay%252FMobile_Market_Mock-Up.png=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  We will use a mobile trailer to encase a solar powered controlled environment
-  farm to create a “Mobile Market” capable of growing and distributing
-  high-quality local produce to residents of low-income neighborhoods Los
-  Angeles. This Mobile Market will be the first in a fleet focused on educating
-  the public about healthy eating, eradicating food deserts, combating obesity,
-  and providing increased healthy food access in low-income neighborhoods.
 Where will you be working?:
   - Central LA
   - East LA

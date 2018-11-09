@@ -15,13 +15,6 @@ project_summary: >-
   academic and technology skills to building projects. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23370%252Fdisplay%252FGALA_pic_1.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  Recognizing the research that shows that an all-girls school has a significant
-  impact on the academic achievement of young women, GALA will provide a
-  rigorous college preparatory education with a STEM based curriculum. Our
-  proposal is for a collaborative work Maker Space, which will provide a more
-  flexible learning environment where the girls can apply their collaborative,
-  academic and technology skills to building projects. 
 Where will you be working?:
   - LAUSD
   - 'GALA Academy, on the campus of LA High School, Los Angeles, Ca'

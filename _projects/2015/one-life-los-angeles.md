@@ -17,11 +17,6 @@ project_image: >-
   Melrose World Cinema Center (MWCC) is a non-profit film studio, the major
   components of MWCC are to seek and cultivate creative talent, supplement film
   education.
-'In one to three sentences, please describe your proposal.': >-
-  ONE LIFE LOS ANGELES WORKSHOP is an HANDS-ON program focusing on a FIVE-DAY
-  FORMAT that educates students about the basics of FILMMAKING while giving them
-  the opportunity to create MOVING IMAGES about relevant SOCIAL ISSUES and
-  FILMING THIER LIFE IN LOS ANGELES COUNTY
 Where will you be working?:
   - LAUSD
 How do you plan to use these resources to make change?:

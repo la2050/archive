@@ -15,13 +15,6 @@ project_summary: >-
   area via the making of hand-made books.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23476%252Fdisplay%252FIMG_8796_(2).JPG=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  BookArtsLA will offer onsite book arts projects for public elementary school
-  programs affording teachers an innovative, quality curriculum enhancement. 
-  Understanding the classroom teacher’s requisite adherence to state standards,
-  each of our book arts projects can align to a specific curricular subject. 
-  Students and teachers learn deeply by creating connections in a given subject
-  area via the making of hand-made books.
 Where will you be working?:
   - Westside
   - >-

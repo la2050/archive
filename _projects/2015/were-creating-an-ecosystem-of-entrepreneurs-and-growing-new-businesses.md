@@ -20,13 +20,6 @@ project_image: >-
   startups during the most critical stage of their growth cycle, by connecting
   new companies to office space, mentors and necessary resources essential for
   success.
-'In one to three sentences, please describe your proposal.': >-
-  This summer we opened our first Grid110 space in DTLA. We plan to open
-  multiple spaces throughout downtown and around LA, that use an-accelerator
-  type model to support the growth of startups, as well as provide programming
-  and public events. Each space will focus on a different industry, creating
-  sub-communities within the LA startup community and connecting the dots on an
-  overall ecosystem.
 Where will you be working?:
   - East LA
   - DTLA

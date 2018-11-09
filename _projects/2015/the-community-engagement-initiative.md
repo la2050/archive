@@ -13,7 +13,6 @@ project_video: 'https://www.youtube.com/embed/aH5tvjvjOYE'
   Operations-South Bureau Community Stakeholder Collaboration is a community
   partnership connecting the community and local city government to make LA the
   best place to live.
-'In one to three sentences, please describe your proposal.': "The Community Engagement Initiative is a comprehensive Community Engagement Program with the vision that local government is responsive to the needs of the residents and Angelenos are contributing members to their community.\r\n\r\nIt is an \"evidence based practice\" that examines existing evidence based community engagement strategies and assesses how existing community resources, services and programs are being utilized to coordinate these services in an effective and efficient manner.\r\n"
 Where will you be working?:
   - Central LA
   - South LA

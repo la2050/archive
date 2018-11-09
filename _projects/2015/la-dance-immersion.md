@@ -16,14 +16,6 @@ project_summary: >-
   after the grant period is complete.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23865%252Fdisplay%252Fballerinas_image.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  LA Dance Immersion connects the arts, specifically dance, with communities
-  through an intensive program that increases youth opportunity for fundamental
-  dance training in economically disadvantaged communities, educates youth &
-  their families in dance appreciation, dance history, stretching and
-  strengthening, & healthy behaviors & nutrition, and trains young adults to be
-  instructors at a professional level to ensure sustainability of this program
-  after the grant period is complete.
 Where will you be working?:
   - City of Los Angeles
 How do you plan to use these resources to make change?:

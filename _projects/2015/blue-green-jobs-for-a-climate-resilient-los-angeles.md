@@ -16,14 +16,6 @@ project_summary: >-
   conserve, and reuse precious water resources.
 project_image: 'https://img.youtube.com/vi/fvo26NJM3JM/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/fvo26NJM3JM'
-'In one to three sentences, please describe your proposal.': >-
-  The Water LA job training and certification program will build our city’s
-  water-smart workforce. Local NGOs and green businesses will partner with LA
-  Trade Tech to develop curricula and provide instructor training for low-cost
-  courses in the design, installation, and maintenance of climate resilient
-  residential urban acupuncture strategies. The courses will train a skilled
-  workforce to support Angelenos in transforming their homes to capture,
-  conserve, and reuse precious water resources.
 Where will you be working?:
   - City of Los Angeles
   - LA Trade Tech

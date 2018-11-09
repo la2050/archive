@@ -20,14 +20,6 @@ project_video: 'https://www.youtube.com/embed/uIeSYK3uGbU'
   Union Rescue Mission provides a pathway to life transformation, jobs and
   housing for men, women and families experiencing homelessness on the streets
   of Los Angeles. 
-'In one to three sentences, please describe your proposal.': >-
-  At Union Rescue Mission, we propose that jobs are the first step to financial
-  stability for those experiencing homelessness on the streets of Los Angeles.
-  The program we are proposing for this Grants Challenge is our Jobs Program,
-  which helps the men and women we serve do just that – find good, living wage
-  jobs. We propose that as recipients of this $100,000 grant we can expand our
-  current program—and double the number of men and women securing employment
-  (currently at 75) to 150 during 2016. 
 Where will you be working?:
   - Central LA
   - East LA

@@ -20,14 +20,6 @@ project_video: 'https://www.youtube.com/embed/z7nrpaONjUI'
   Netiya is a food justice and interfaith network that fosters self-reliance and
   land stewardship to lead Angelenos of all faiths toward greater access to food
   worthy of a blessing.
-'In one to three sentences, please describe your proposal.': >-
-  The Fermenting Change Event Series will bring together people from diverse
-  communities over our shared values of nourishing food and land stewardship.
-  Our program will engage Jewish and Muslim school communities and grow to
-  become a replicable model for interfaith celebration across the region. By
-  building connections around food, justice, and traditional ties to the earth,
-  we build relationships across religious and cultural barriers to create an
-  interconnected and resilient Los Angeles.
 Where will you be working?:
   - Central LA
   - San Gabriel Valley

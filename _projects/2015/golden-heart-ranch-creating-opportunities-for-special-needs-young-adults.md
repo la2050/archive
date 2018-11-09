@@ -14,12 +14,6 @@ project_summary: >-
   teens and young adults the arena to reach their fullest potential.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23906%252Fdisplay%252F2014-08-12_11.41.58.jpg=c570x385
-'In one to three sentences, please describe your proposal.': >-
-  We propose to build the best place to live for young adults with special
-  needs. Golden Heart Ranch will have on and off site jobs, residential housing,
-  opportunities for social events and community friendships. We are building an
-  intentional community of the future that will give our special needs kids,
-  teens and young adults the arena to reach their fullest potential.
 Where will you be working?:
   - San Fernando Valley
   - County of Los Angeles

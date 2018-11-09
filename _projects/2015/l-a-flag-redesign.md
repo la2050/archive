@@ -20,14 +20,6 @@ project_image: >-
   Los Angeles Flag is a non-profit organization dedicated to uniting our city by
   establishing a strong civic identity and fostering a sense of civic pride
   amongst Angelenos throughout the city and around the world.
-'In one to three sentences, please describe your proposal.': >-
-  Los Angeles is a great city, and every great city deserves a great flag. Our
-  current flag is neither good nor effective and, consequently, has all but
-  faded into obscurity; people don’t know it, and because they don’t know it,
-  they don’t fly it. A well-designed flag, however, will serve as an emblem of
-  unity and pride; it will bring together millions of otherwise disconnected
-  Angelenos by restoring a sense of civic pride and strengthening LA’s ‘brand’
-  identity throughout the world at large.
 Where will you be working?:
   - City of Los Angeles
 How do you plan to use these resources to make change?:

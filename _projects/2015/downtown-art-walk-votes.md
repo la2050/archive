@@ -20,13 +20,6 @@ project_image: >-
   Thursday of every month Art Walk  Our daily Mission is to improve the local
   community and to create economic opportunities for artists, galleries, small
   businesses, and youth 
-'In one to three sentences, please describe your proposal.': >-
-  My Vote Matters!  Art Walk will foster participation in the political process
-  by encouraging participating galleries and vendors to focus on the political
-  process in their exhibits and wares; by sponsoring debate viewing parties; by
-  sponsoring live debates; by sponsoring a politically-themed film series; by
-  offering special tours of politically-themed murals for families and children;
-  and by sponsoring a My Vote Matters mural.
 Where will you be working?:
   - Central LA
   - City of Los Angeles

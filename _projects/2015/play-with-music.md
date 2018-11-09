@@ -9,7 +9,6 @@ title: Play with Music
 project_summary: "We change the way music is taught - teaching music theory, songwriting, audio engineering & production + enabling students to be creators, not just consumers, of music. We connect students with music industry pros, & build bridges from the classrooms to careers through internships & more. \r\n\r\nWe’d like your help to capitalize on the momentum from our pilot (Jan-March 2015) and the partnerships we have since developed to launch PWM in schools across LA, focusing our impact on at-risk students."
 project_image: 'https://img.youtube.com/vi/MY3TeVh867s/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/MY3TeVh867s'
-'In one to three sentences, please describe your proposal.': "We change the way music is taught - teaching music theory, songwriting, audio engineering & production + enabling students to be creators, not just consumers, of music. We connect students with music industry pros, & build bridges from the classrooms to careers through internships & more. \r\n\r\nWe’d like your help to capitalize on the momentum from our pilot (Jan-March 2015) and the partnerships we have since developed to launch PWM in schools across LA, focusing our impact on at-risk students."
 Where will you be working?:
   - Central LA
   - East LA

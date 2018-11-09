@@ -16,14 +16,6 @@ project_summary: >-
   support to treat the whole child and the entire family.
 project_image: 'https://img.youtube.com/vi/3AOHXhfJeho/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/3AOHXhfJeho'
-'In one to three sentences, please describe your proposal.': >-
-  The more Adverse Childhood Experiences (ACEs) to which a child is exposed,
-  including: abuse, incarceration of parents, and exposure to family and
-  community violence, the more likely the child is to suffer from negative
-  physical and mental health in adulthood —from heart disease to depression. 
-  CII’s Integrated Services Model addresses trauma through services in:
-  evidence-based mental health, early childhood, youth development, and family
-  support to treat the whole child and the entire family.
 Where will you be working?:
   - Central LA
   - South LA

@@ -14,12 +14,6 @@ project_summary: >-
   in high quality, hands-on STEM learning. 
 project_image: 'https://img.youtube.com/vi/XBAE46x2qio/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/XBAE46x2qio'
-'In one to three sentences, please describe your proposal.': >-
-  Iridescent proposes to provide year-long STEM hands on curriculum and support
-  to students, teachers and parents from two selected Title 1 elementary schools
-  in Los Angeles.  Iridescent will implement a model that deeply engages and
-  trains parents, educators and STEM mentors - to collectively support students
-  in high quality, hands-on STEM learning. 
 Where will you be working?:
   - South LA
   - Frank Del Olmo Elementary and Western Elementary

@@ -21,14 +21,6 @@ project_image: >-
 'In one sentence, please describe what your organization does': >-
   Make it in LA connects and celebrates the entrepreneurial ecosystem for making
   things in LA.
-'In one to three sentences, please describe your proposal.': >-
-  Everyone knows LA is a center for design, culture, and tech -- but did you
-  know it’s also the largest manufacturing hub in the country? Preliminary
-  results of a forthcoming study have found that LA manufacturing opportunities
-  are growing, but companies need help connecting to LA’s complex supplier
-  network, accessing capital, and navigating government. Make it in LA is
-  piloting an effort to help startups and growing companies connect and succeed
-  in the design and manufacturing ecosystem of LA.
 Where will you be working?:
   - Central LA
   - East LA

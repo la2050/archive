@@ -21,14 +21,6 @@ project_video: 'https://www.youtube.com/embed/qooMUYecd1s'
   early 2016 and curates various programming series (Digital and Beyond in LA) 
   that highlights emerging local STEM and digital media trends, inspiring young
   leaders in historica
-'In one to three sentences, please describe your proposal.': >-
-  Plug In South LA seeks to create a tech hub and co-working space in South LA.
-  Our programming brings social capital to the heart of South LA, attracting
-  thought leaders and visionaries from around the city and country. We create
-  conversations that drive collaboration, partnership, and commerce at the local
-  level. This activity is crucial for the youth in South LA. They will shape the
-  future of technology and digital media, and the more opportunities they see,
-  the more our local community will th
 Where will you be working?:
   - South LA
   - >-

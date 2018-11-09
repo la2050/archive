@@ -16,14 +16,6 @@ project_summary: >-
   address the lack of stable school garden programs
 project_image: 'https://img.youtube.com/vi/g0KxazcQnVA/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/g0KxazcQnVA'
-'In one to three sentences, please describe your proposal.': >-
-  The Farmers Market and Urban Garden Network in Palms, one of the densest areas
-  in L.A. instills environmental stewardship in our youth and the final bit of
-  funding will ensure a successful completion of our network of school and
-  community gardens. This initiative is action-oriented, builds public
-  involvement, focuses on a root cause of our environmental/health crises, and
-  partner’s school gardens with our farmers market and community gardens to
-  address the lack of stable school garden programs
 Where will you be working?:
   - Westside
   - LAUSD

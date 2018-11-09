@@ -17,14 +17,6 @@ project_summary: >-
 project_image: 'https://img.youtube.com/vi/wmExJ7xdKYc/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/wmExJ7xdKYc'
 'In one sentence, please describe what your organization does': "Culture Shock LA utilizes urban dance, art, and culture to cultivate meaningful education, enrichment and entertainment programs\r\nin diverse communities."
-'In one to three sentences, please describe your proposal.': >-
-  The Center for Connecting the Community (C3) is an arts-based community center
-  providing accessible multi-generational programming for LA residents. Through
-  a variety of disciplines in the performing, visual, and culinary arts, C3 will
-  encourage health and wellness through diverse programs that spark engagement
-  and creativity. The Center is designed to be a safe space where community
-  members and leaders can connect and exchange ideas on how to create a vibrant
-  Los Angeles. 
 Where will you be working?:
   - South Bay
   - City of Los Angeles

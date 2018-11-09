@@ -16,14 +16,6 @@ project_summary: >-
   swimming instruction and competitive program.
 project_image: 'https://img.youtube.com/vi/SdL6NXZskjo/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/SdL6NXZskjo'
-'In one to three sentences, please describe your proposal.': >-
-  The Trojan Swim Club Outreach Program is a free, school-based, high-quality
-  swim program that began at a single South Los Angeles site in 2014 with 90
-  students and has served a total 260 to date. The success of the program has
-  led us to plan an expansion of our capacity and partnership with LAUSD in
-  2016. By increasing capacity at our existing site and expanding to two new
-  schools, we will reach 830 students annually with our rigorous water safety,
-  swimming instruction and competitive program.
 Where will you be working?:
   - Central LA
   - South LA
