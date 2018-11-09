@@ -14,36 +14,12 @@ project_summary: >-
 project_image: >-
   https://activation.la2050.org/assets/images/play/2048-wide/south-bay-bicycle-coalition.jpg
 project_video: 'https://youtu.be/ZE0fqJVRj80'
-project_measure: >-
-  We will define success on several fronts: the reach and interaction that we
-  experience with core collaborators, partners and other stakeholders the
-  methods by which residents engage, number of residents who come out to PLAY
-  and activate on the South Bay LA Trails, and the feedback that we receive. By
-  monitoring key activities as they happen, we will evaluate with a constructive
-  focus and assess and report in real time. The idea is that the Project can be
-  improved and achieve Activation more effectively.
-
-
-  After the event has started, the evaluation team will be receiving feedback
-  from residents who joined the ACTIVATE SOUTH BAY LA TRAILS!--measuring the
-  activation. Among other things, we will establish the extent to which the
-  Project’s objectives are met and whether we can improve in any way and if so,
-  how. We will learn from our mistakes.
-
-
-  Volunteers are often the front-line support and experience the process and can
-  often articulate what works and what could be improved in an Activation. A
-  structured feedback process helps SBBC to better understand their volunteer
-  experience and use the feedback to better support volunteers. We use volunteer
-  feedback after each event to make modifications that contribute to a
-  continuous improvement process. In this way, we identify issues quickly that
-  improve volunteer experiences, and volunteers in turn are willing to share
-  their perspectives.
-impact_metrics: >-
-  ["Access to open space and park facilities","Number (and quality) of informal
-  spaces for play","Number of parks with intergenerational play opportunities"]
-make_la_great: "Trails can transform areas, bringing diverse populations together from neighboring communities, and promote and support healthier lifestyles. Trails make regional assets available to populations that otherwise might not derive benefit. Physical activity becomes accessible to the widest range of people, including persons with disabilities and others who are known to be less physically active. Trails provides an amenity open to residents of every age.\r\n\r\nWalking, Running and Biking are fun and green, curbing our carbon footprints, reducing air pollution and our reliance on fossil fuels. The momentum for active transportation is building, thanks in no small part to completion of the South Bay Bicycle Master Plan. Active transportation is perceived by more and more as a safe way to get outdoors and have fun!\r\n\r\nFor example, if by answering the call to join in on the fun ACTIVATE SOUTH BAY LA TRAILS! residents begin to support City infrastructure that supports pedestrian and cycling activities, then when an issue comes up in a City related to that, they are empowered to speak out in the public forum.\r\n\r\nExpanding uses of linear paths will help us meet our primary goal of augmenting access to space to PLAY in the our urban environment. Since we suffer from a low ratio of park acres per thousand residents (critically underserved in some South Bay Cities), trails are a component of the solution. Seniors, adults, families and children need the benefit of playtime. Having greater access to trails will expand available play spaces, regardless of age. The importance of intergenerational connections is generally acknowledged. Although not defined as park space, trails will help to increase the opportunities for residents of all ages to meet in their pedestrian and cycling activities.\r\n\r\nActivating the trail system will bolster the walk/bike/transit scores for every neighborhood along the way. The Walk Score offers an answer to two important questions. \"What can I do to improve my personal health?\" and \"What can I do to improve the health of the planet?\" Furthermore, living a walkable or bikable lifestyle means rush hour traffic becomes less relevant. It is well documented that real estate values are higher in neighborhoods with higher scores.\r\n\r\nACTIVATE SOUTH BAY LA TRAILS! Impacts positively on CONNECT and LIVE activation through communication on the project website, newsletter, twitter, Instagram and other social media platforms this project will expand residents’ social media contacts and connections around something that is valuable to all: PLAY! Social interaction can start when they join in for scheduled volunteer efforts. Activating the public for various events can start the development of social interaction among the residents of five South Cities. Activating the Trails for gatherings will strengthen the social fabric of the area."
-project_proposal_description: >-
+Will your proposal impact any other LA2050 goal categories?:
+  - LA is the best place to CONNECT
+  - LA is the healthiest place to LIVE
+In what areas of Los Angeles will you be directly working?:
+  - South Bay
+Please describe the activation your organization seeks to launch.: >-
   A vast network of trails exists throughout the South Bay region to expand
   available space for safe cycling and pedestrian activities. ACTIVATE SOUTH BAY
   LA TRAILS! will engage residents (and visitors, communicating by every
@@ -51,9 +27,11 @@ project_proposal_description: >-
   people of all ages, with a desire to meet their neighbors. By adding mapping
   and wayfinding, residents will connect with each other to join in the
   fun--activating trails throughout the South Bay.
-project_areas:
-  - South Bay
-project_proposal_mobilize:
+Which metrics will your activation impact?​:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of parks with intergenerational play opportunities
+How will your activation mobilize Angelenos?:
   - Digital organizing or activism
   - Create new tools or technologies for greater civic/political engagement
   - >-
@@ -63,7 +41,7 @@ project_proposal_mobilize:
   - >-
     Opportunities for residents to interconnect beyond residential neighborhoods
     or cities
-project_proposal_best_place: >-
+Describe in greater detail how your activation will make LA the best place?: >-
   Trails can transform areas, bringing diverse populations together from
   neighboring communities, and promote and support healthier lifestyles. Trails
   make regional assets available to populations that otherwise might not derive
@@ -115,7 +93,7 @@ project_proposal_best_place: >-
   development of social interaction among the residents of five South Cities.
   Activating the Trails for gatherings will strengthen the social fabric of the
   area.
-project_proposal_engage: >-
+How will your activation engage Angelenos to make LA the best place?: >-
   Median household incomes of residents of the five South Bay Cities vary a
   great deal, ranging from $144,868 in Manhattan Beach, $103,782 in Redondo
   Beach and $91,623 in El Segundo to $51,934 and $45,069 in Lawndale and
@@ -149,7 +127,32 @@ project_proposal_engage: >-
   interpretive program, a bicycle ride from North Redondo to Lawndale, a bike
   safety program, helmet giveaway, bicycle maintenance check, or a trail cleanup
   to maintain the connection we share through the Trails.
-project_five_years: >-
+Please explain how you will define and measure success for your activation.​: >-
+  We will define success on several fronts: the reach and interaction that we
+  experience with core collaborators, partners and other stakeholders the
+  methods by which residents engage, number of residents who come out to PLAY
+  and activate on the South Bay LA Trails, and the feedback that we receive. By
+  monitoring key activities as they happen, we will evaluate with a constructive
+  focus and assess and report in real time. The idea is that the Project can be
+  improved and achieve Activation more effectively.
+
+
+  After the event has started, the evaluation team will be receiving feedback
+  from residents who joined the ACTIVATE SOUTH BAY LA TRAILS!--measuring the
+  activation. Among other things, we will establish the extent to which the
+  Project’s objectives are met and whether we can improve in any way and if so,
+  how. We will learn from our mistakes.
+
+
+  Volunteers are often the front-line support and experience the process and can
+  often articulate what works and what could be improved in an Activation. A
+  structured feedback process helps SBBC to better understand their volunteer
+  experience and use the feedback to better support volunteers. We use volunteer
+  feedback after each event to make modifications that contribute to a
+  continuous improvement process. In this way, we identify issues quickly that
+  improve volunteer experiences, and volunteers in turn are willing to share
+  their perspectives.
+Where do you hope this activation or your organization will be in five years?: >-
   SBBC envisions a vastly expanded network of trails within five years. This
   activation will raise awareness among the South Bay communities that we are
   all connected, and formal and informal trails are a way to interrelate with
@@ -166,18 +169,8 @@ project_five_years: >-
   improving infrastructure. With this effort to activate Trails, we will
   continue to be at the forefront of expanding various options for active
   transportation.
-category_metrics:
-  - Access to open space and park facilities
-  - Number (and quality) of informal spaces for play
-  - Number of parks with intergenerational play opportunities
-category_other:
-  - LA is the best place to CONNECT
-  - LA is the healthiest place to LIVE
-Please describe the activation your organization seeks to launch.: ''
-Describe in greater detail how your activation will make LA the best place?: ''
 How will your activation engage Angelenos to make LA the best place: ''
 Please explain how you will define and measure success for your activation.: ''
-Where do you hope this activation or your organization will be in five years?: ''
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2018/activate-south-bay-la-trails/activation.la2050.org/assets/images/play/2048-wide/south-bay-bicycle-coalition.jpg
 organization_name: South Bay Bicycle Coalition

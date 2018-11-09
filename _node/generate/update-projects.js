@@ -342,9 +342,9 @@ const attributes = [
  'project_proposal_description',
  "Please describe the activation your organization seeks to launch.",
  'category_metrics',
- "Please describe the activation your organization seeks to launch.",
+ "Which metrics will your activation impact?​",
  'project_proposal_impact',
- "Which of metrics will your activation impact?​",
+ "Which metrics will your activation impact?​",
  'category_other',
  "Will your proposal impact any other LA2050 goal categories?",
  'project_areas',
@@ -1645,8 +1645,8 @@ function processFile(filename) {
   let projectAnswerMap2018 = {
    'project_collaborators': "Are any other organizations collaborating on this proposal?",
    'project_proposal_description': "Please describe the activation your organization seeks to launch.",
-   'category_metrics': "Please describe the activation your organization seeks to launch.",
-   'project_proposal_impact': "Which of metrics will your activation impact?​",
+   'category_metrics': "Which metrics will your activation impact?​",
+   'project_proposal_impact': "Which metrics will your activation impact?​",
    'category_other': "Will your proposal impact any other LA2050 goal categories?",
    'project_areas': "In what areas of Los Angeles will you be directly working?",
    'project_proposal_mobilize': "How will your activation mobilize Angelenos?",
@@ -1663,6 +1663,8 @@ function processFile(filename) {
       data.yaml["project_collaborators"] = ""
     }
     delete data.yaml["project_is_collaboration"]
+    delete data.yaml.make_la_great
+    delete data.yaml.impact_metrics
 
     for (let prop in projectAnswerMap2018) {
       if (projectAnswerMap2018.hasOwnProperty(prop)) {

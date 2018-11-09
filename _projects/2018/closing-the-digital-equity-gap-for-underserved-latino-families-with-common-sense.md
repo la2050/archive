@@ -15,51 +15,10 @@ project_summary: >-
   Latino families and kids thrive in the digital age.
 project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg'
 project_video: 'https://www.youtube.com/watch?v=0ZmDMvQPyoE'
-project_measure: >-
-  Common Sense is committed to measuring the impact of our work. By the end of
-  the grant period, we anticipate that we will have:
-   
-   
-   
-   Our Reach:
-   
-   At least 200-300 parents will have attended a parent workshop (via schools or community partners). These workshops offer a better understanding of the digital world, identify tools that support the educational goals of the family, and allow underserved parents to feel welcome in a safe environment for learning. 
-   
-   
-   
-   Partnerships will be established with at least 4-5 community-based organizations in LA who will disseminate Common Sense content.
-   
-   
-   
-   At least 100 community-based educators will be trained to provide workshops to families on media and technology issues. All participants in the train-the-trainer programs will receive recognition for being agents of changes in their community as a Common Sense Technology Champion.
-   
-    
-   
-   Our Impact:
-   
-   Through surveys of Los Angeles area parents:
-   
-   At least 90% of parents and families will report that they were either “very satisfied” or “satisfied” with Common Sense sessions 
-   
-   At least 90% of parents and families will report that our sessions were of “high quality” or “quality.” 
-   
-   At least 85% of parents and families will report that they have higher levels of confidence in helping guide their kids to be good digital citizens
-   
-   At least 80% of parents and families will report that they feel better educated on where they can go to access more information and support on digital tools to support learning at home
-impact_metrics: >-
-  ["Proficiency in English and Language Arts and Math","Students’ perceived
-  sense of safety at and on the way to school","Students’ immersion in Science,
-  Technology, Engineering, and Math content"]
-make_la_great: "Common Sense is uniquely positioned to address the needs of Latino families in Los Angeles. Over the last year, Common Sense began efforts to broaden our reach to low-income Latino families in Los Angeles. We launched a new destination for Spanish-speaking families, Common Sense Latino, which features all of our Spanish-language resources including blog posts, reviews, and advice content. This content development is led by specialists in Latino-focused communications and parent advice experts. We’ve also formed a Latino Advisory Council to help forge new partnerships with grassroots LA organizations serving Latino families. To date, we’ve established partnerships with key organizations such as Abriendo Puertas and EveryoneOn/ConnectHome, as well as with several school districts, such as Compton Unified, that are interested in educating Latino families about media and technology. \r\n \r\n \r\n \r\n With support from LA 2050, we will strengthen our partnerships with these organizations as well as build relationships with additional nonprofits working with Latino families. These partnerships allow us to bring the content we are creating at the national level directly to parents locally. Specifically, we will engage in the following activities: \r\n \r\n \r\n \r\n Facilitate parent workshops to help families understand the impact of media and how to best guide their kids - a unique opportunity for families who are not tech savvy to understand better the digital world, identify tools to support their kids goals, feel safe so they can learn. \r\n \r\n \r\n \r\n Create new and culturally-relevant content (English and Spanish) for families, including tip sheets, recommended lists, and other parent-facing resources covering a wide range of topics including:\r\n \r\n *Helping families discover and use quality and age-appropriate media with their kids\r\n \r\n *Establishing a healthy media diet, using technology to bond with kids, and media that brings family together\r\n \r\n *Using media to support academic goals\r\n \r\n *Supporting kids in being good digital citizens and discovering new ways that technology can empower kids’ learning at home and in school\r\n \r\n \r\n \r\n Establish more partnerships with community organizations ( i.e. Para Los Ninos, First 5 LA) to disseminate our content with the families they serve.\r\n \r\n \r\n \r\n Provide in-person training to community-based educators, who will then provide workshops to families on media and technology issues\r\n \r\n \r\n \r\n Through these efforts, we will help kids build the skills they need to harness technology for learning and life - from using the internet safely and responsibly to using media and technology to optimize learning. Our award-winning Digital Citizenship program covers media balance and well being, digital footprint and identity, privacy and safety, relationships and communication, digital drama, cyberbullying and hate speech, and news and media literacy. This comprehensive work will be executed by a team of people in our LA office, supported by our national staff who are creating the programmatic resources."
-project_proposal_description: >-
-  48 percent of LA's population and 65 percent of students enrolled in public
-  schools are Latino. Common Sense’s free English and Spanish-language online
-  resources are linguistically and culturally relevant, and can activate the
-  skills and knowledge that underserved families need to play an active role in
-  their kids’ media and tech lives. A grant from LA2050 will fund our Latino
-  Specialist’s in-person trainings for parents and community-based
-  organizations.
-project_areas:
+Will your proposal impact any other LA2050 goal categories?:
+  - LA is the best place to CONNECT
+  - LA is the healthiest place to LIVE
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
@@ -67,12 +26,24 @@ project_areas:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
   - LAUSD
-project_proposal_mobilize:
+Please describe the activation your organization seeks to launch.: >-
+  48 percent of LA's population and 65 percent of students enrolled in public
+  schools are Latino. Common Sense’s free English and Spanish-language online
+  resources are linguistically and culturally relevant, and can activate the
+  skills and knowledge that underserved families need to play an active role in
+  their kids’ media and tech lives. A grant from LA2050 will fund our Latino
+  Specialist’s in-person trainings for parents and community-based
+  organizations.
+Which metrics will your activation impact?​:
+  - Proficiency in English and Language Arts and Math
+  - Students’ perceived sense of safety at and on the way to school
+  - 'Students’ immersion in Science, Technology, Engineering, and Math content'
+How will your activation mobilize Angelenos?:
   - Trainings and/or in-person engagements
   - >-
     Influence individual behavior (e.g. change consumer spending or increase
     conservation activity)
-project_proposal_best_place: >-
+Describe in greater detail how your activation will make LA the best place?: >-
   Common Sense is uniquely positioned to address the needs of Latino families in
   Los Angeles. Over the last year, Common Sense began efforts to broaden our
   reach to low-income Latino families in Los Angeles. We launched a new
@@ -117,7 +88,7 @@ project_proposal_best_place: >-
    
    
    Through these efforts, we will help kids build the skills they need to harness technology for learning and life - from using the internet safely and responsibly to using media and technology to optimize learning. Our award-winning Digital Citizenship program covers media balance and well being, digital footprint and identity, privacy and safety, relationships and communication, digital drama, cyberbullying and hate speech, and news and media literacy. This comprehensive work will be executed by a team of people in our LA office, supported by our national staff who are creating the programmatic resources.
-project_proposal_engage: >-
+How will your activation engage Angelenos to make LA the best place?: >-
   Our ultimate goal is to ensure that young people have the skills and knowledge
   to live, work, and thrive in the 21st century. Raising the next generation to
   be savvy consumers and producers of media is critical to the health of our
@@ -135,7 +106,38 @@ project_proposal_engage: >-
   grass-root organizations. Our interactions on the ground in underserved
   communities, in turn, influence the creation of content at a national level
   that benefits all families through our social channels and media outlets.
-project_five_years: >-
+Please explain how you will define and measure success for your activation.​: >-
+  Common Sense is committed to measuring the impact of our work. By the end of
+  the grant period, we anticipate that we will have:
+   
+   
+   
+   Our Reach:
+   
+   At least 200-300 parents will have attended a parent workshop (via schools or community partners). These workshops offer a better understanding of the digital world, identify tools that support the educational goals of the family, and allow underserved parents to feel welcome in a safe environment for learning. 
+   
+   
+   
+   Partnerships will be established with at least 4-5 community-based organizations in LA who will disseminate Common Sense content.
+   
+   
+   
+   At least 100 community-based educators will be trained to provide workshops to families on media and technology issues. All participants in the train-the-trainer programs will receive recognition for being agents of changes in their community as a Common Sense Technology Champion.
+   
+    
+   
+   Our Impact:
+   
+   Through surveys of Los Angeles area parents:
+   
+   At least 90% of parents and families will report that they were either “very satisfied” or “satisfied” with Common Sense sessions 
+   
+   At least 90% of parents and families will report that our sessions were of “high quality” or “quality.” 
+   
+   At least 85% of parents and families will report that they have higher levels of confidence in helping guide their kids to be good digital citizens
+   
+   At least 80% of parents and families will report that they feel better educated on where they can go to access more information and support on digital tools to support learning at home
+Where do you hope this activation or your organization will be in five years?: >-
   In five years, we hope to have grown and fostered a community of parents and
   families who can guide their children towards success in the 21st Century. We
   hope also to have learned how to best support these families, and that these
@@ -144,22 +146,6 @@ project_five_years: >-
   who help us create culturally-relevant, research-based content that is
   disseminated to trusted partners (schools and nonprofits) through ongoing
   in-person trainings and consultations.
-category_metrics:
-  - Proficiency in English and Language Arts and Math
-  - Students’ perceived sense of safety at and on the way to school
-  - 'Students’ immersion in Science, Technology, Engineering, and Math content'
-category_other:
-  - LA is the best place to CONNECT
-  - LA is the healthiest place to LIVE
-Please describe the activation your organization seeks to launch.: >-
-  48 percent of LA's population and 65 percent of students enrolled in public
-  schools are Latino. Common Sense’s free English and Spanish-language online
-  resources are linguistically and culturally relevant, and can activate the
-  skills and knowledge that underserved families need to play an active role in
-  their kids’ media and tech lives. A grant from LA2050 will fund our Latino
-  Specialist’s in-person trainings for parents and community-based
-  organizations.
-Describe in greater detail how your activation will make LA the best place?: "Common Sense is uniquely positioned to address the needs of Latino families in Los Angeles. Over the last year, Common Sense began efforts to broaden our reach to low-income Latino families in Los Angeles. We launched a new destination for Spanish-speaking families,  Common Sense Latino, which features all of our Spanish-language resources including blog posts, reviews, and advice content. This content development is led by specialists in Latino-focused communications and parent advice experts. We’ve also formed a Latino Advisory Council to help forge new partnerships with grassroots LA organizations serving Latino families. To date, we’ve established partnerships with key organizations such as Abriendo Puertas and EveryoneOn/ConnectHome, as well as with several school districts, such as Compton Unified, that are interested in educating Latino families about media and technology.  \r\n\r\nWith support from LA 2050, we will strengthen our partnerships with these organizations as well as build relationships with additional nonprofits working with Latino families. These partnerships allow us to bring the content we are creating at the national level directly to parents locally.  Specifically, we will engage in the following activities: \r\n\r\nFacilitate parent workshops to help families understand the impact of media and how to best guide their kids - a unique opportunity for families who are not tech savvy to understand better the digital world, identify tools to support their kids goals, feel safe so they can learn. \r\n\r\nCreate new and culturally-relevant content (English and Spanish) for families, including tip sheets, recommended lists, and other parent-facing resources covering a wide range of topics including:\r\n*Helping families discover and use quality and age-appropriate media with their kids\r\n*Establishing a healthy media diet, using technology to bond with kids, and media that brings family together\r\n*Using media to support academic goals\r\n*Supporting kids in being good digital citizens and discovering new ways that technology can empower kids’ learning at home and in school\r\n\r\nEstablish more partnerships with community organizations ( i.e. Para Los Ninos, First 5 LA) to disseminate our content with the families they serve.\r\n\r\nProvide in-person training to community-based educators, who will then provide workshops to families on media and technology issues\r\n\r\nThrough these efforts, we will help kids build the skills they need to harness technology for learning and life - from using the internet safely and responsibly to using media and technology to optimize learning.  Our award-winning Digital Citizenship program covers media balance and well being, digital footprint and identity, privacy and safety, relationships and communication, digital drama, cyberbullying and hate speech, and news and media literacy. This comprehensive work will be executed by a team of people in our LA office, supported by our national staff who are creating the programmatic resources.\r\n"
 How will your activation engage Angelenos to make LA the best place: >-
   Our ultimate goal is to ensure that young people have the skills and knowledge
   to live, work, and thrive in the 21st century.  Raising the next generation to
@@ -179,15 +165,6 @@ How will your activation engage Angelenos to make LA the best place: >-
   communities, in turn, influence the creation of content at a national level
   that benefits all families through our social channels and media outlets.
 Please explain how you will define and measure success for your activation.: "Common Sense is committed to measuring the impact of our work. By the end of the grant period, we anticipate that we will have:\r\n\r\nOur Reach:\r\nAt least 200-300 parents will have attended a parent workshop (via schools or community partners). These workshops offer a better understanding of the digital world, identify tools that support the educational goals of the family, and allow underserved parents to feel welcome in a safe environment for learning. \r\n\r\nPartnerships will be established with at least 4-5 community-based organizations in LA who will disseminate Common Sense content.\r\n\r\nAt least 100 community-based educators will be trained to provide workshops to families on media and technology issues. All participants in the train-the-trainer programs will receive recognition for being agents of changes in their community as a Common Sense Technology Champion.\r\n \r\nOur Impact:\r\nThrough surveys of Los Angeles area parents:\r\nAt least 90% of parents and families will report that they were either “very satisfied” or “satisfied” with Common Sense sessions \r\nAt least 90% of parents and families will report that our sessions were of “high quality” or “quality.” \r\nAt least 85% of parents and families will report that they have higher levels of confidence in helping guide their kids to be good digital citizens\r\nAt least 80% of parents and families will report that they feel better educated on where they can go to access more information and support on digital tools to support learning at home\r\n"
-Where do you hope this activation or your organization will be in five years?: >-
-  In five years, we hope to have grown and fostered a community of parents and
-  families who can guide their children towards success in the 21st Century.  We
-  hope also to have learned how to best support these families, and that these
-  lessons will inform content production for our national Latino resources. This
-  will have been possible thanks to the support of organizations such as LA2050,
-  who help us create culturally-relevant, research-based content that is
-  disseminated to trusted partners (schools and nonprofits) through ongoing
-  in-person trainings and consultations.
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2018/closing-the-digital-equity-gap-for-underserved-latino-families-with-common-sense/activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg
 organization_name: Common Sense
