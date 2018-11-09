@@ -15,42 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6890837355741-team91.jpg
 project_video: 'https://www.youtube.com/embed/whDuQqva3a8?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: 'Machine Project, Echo Park Film Center'
-project_measure: >-
-  DUBLAB's FM Initiative will be evaluated by the following metrics:
-
-
-  PUBLIC FEEDBACK:
-
-
-  To evaluate the response from the public, an e-mail survey will be conducted
-  with participants at the end of the project’s first year. Feedback given by
-  the public will be compiled with anecdotal reports from studio staff.
-
-
-  MEDIA RESPONSE:
-
-
-  Press received will be taken into consideration alongside public opinion.
-  Positive coverage in at least three major Los Angeles media outlets will be
-  considered a success. We will also take into account the depth of social media
-  activity throughout the course of the initiative and the number of followers
-  gained.
-
-
-  Staff Review:
-
-
-  The staff will conduct a review at the end of each month of operation to
-  evaluate the studio's success based on enthusiasm of the audience and depth of
-  engagement. At the end of the first year of operation we will determine if the
-  quality of the project successfully fulfilled the initiative's goals.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - Community outreach
-project_description: >-
+Are any other organizations collaborating on this proposal?: 'Machine Project, Echo Park Film Center'
+Please describe your project proposal.: >-
   DUBLAB has received a license from the FCC to broadcast on the FM airwaves in
   Los Angeles, and would like to build our FM broadcasting capabilities with
   funding from the LA2050 grant. We will buy a transmitter, an antennae, and be
@@ -58,27 +24,15 @@ project_description: >-
   broadcast on the FM airwaves has been a long time in the making, and is part
   of a larger organizational effort to engage more listeners with our diverse,
   freeform broadcasts.
-project_impact: >-
-  ["Social & emotional support","Cultural events","Travel time to
-  work","Residential segregation","Total number of local social media friends
-  and connections Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Travel time to work
   - Residential segregation
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  DUBLAB has received a license from the FCC to broadcast on the FM airwaves in
-  Los Angeles, and would like to build our FM broadcasting capabilities with
-  funding from the LA2050 grant. We will buy a transmitter, an antennae, and be
-  able to hire an engineer to put it all together. The decision for dublab to
-  broadcast on the FM airwaves has been a long time in the making, and is part
-  of a larger organizational effort to engage more listeners with our diverse,
-  freeform broadcasts.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   DUBLAB's FM Initiative can help make Los Angeles the best place to connect by
   providing an extremely accessible platform for musicians, DJs, and artists to
   reach LA residents with freeform broadcasts.
@@ -124,6 +78,39 @@ project_proposal_best_place: >-
   in Los Angeles. DUBLAB also serves as a creative incubator for musicians in
   Los Angeles to develop their sonic experimentations in both live performance
   settings and studio­ based radio broadcasts.
+Please explain how you will define and measure success for your project.​: >-
+  DUBLAB's FM Initiative will be evaluated by the following metrics:
+
+
+  PUBLIC FEEDBACK:
+
+
+  To evaluate the response from the public, an e-mail survey will be conducted
+  with participants at the end of the project’s first year. Feedback given by
+  the public will be compiled with anecdotal reports from studio staff.
+
+
+  MEDIA RESPONSE:
+
+
+  Press received will be taken into consideration alongside public opinion.
+  Positive coverage in at least three major Los Angeles media outlets will be
+  considered a success. We will also take into account the depth of social media
+  activity throughout the course of the initiative and the number of followers
+  gained.
+
+
+  Staff Review:
+
+
+  The staff will conduct a review at the end of each month of operation to
+  evaluate the studio's success based on enthusiasm of the audience and depth of
+  engagement. At the end of the first year of operation we will determine if the
+  quality of the project successfully fulfilled the initiative's goals.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/dublab-fm-in-los-angeles-connecting-la-residents-through-freeform-radio/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6890837355741-team91.jpg
 organization_name: Future Roots Inc.

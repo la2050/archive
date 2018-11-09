@@ -15,42 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7925063255741-team88.png
 project_video: 'https://www.youtube.com/embed/wyKSTyquR-0?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  Operation Gratitude measures success through quantitative and qualitative
-  metrics. Key performance indicators include the numbers of: volunteers,
-  in-kind and financial donations, and package recipients. 
-
-
-  The true benefits and ultimate success of the Operation Gratitude program,
-  however, can be found in the Mail Call section of our website which displays
-  thousands of letters from heroes who have received the Care Packages. One
-  theme that runs through the letters is how surprised and appreciative they are
-  that total strangers have taken the time to show they care: “We expect to get
-  things from friends and family, but you sent me something out of a deep
-  respect for your country & its defenders. That's powerful.” 
-
-
-  Equally important is our ability to touch troops who served during previous
-  wars. A former 82nd Airborne Paratrooper from WWII wrote: 'It's a great
-  feeling to know that we haven't been forgotten. Because of you & all Americans
-  like you, our country remains strong and united.” 
-
-
-  The most dramatic illustration of our impact was received from an Army First
-  Sergeant: 'Your care packages lifted morale & helped save the life of a young
-  soldier who never got mail, care packages, or anything. He was planning to
-  commit suicide on Christmas, but because that soldier received your care
-  package on Christmas Eve, he changed his mind. Your care package made a major
-  difference in a human life. Because of your organization, one less family
-  received terrible news at Christmas.'
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Every year, thousands of local Operation Gratitude volunteers form a human
   assembly line to create 200,000+ care packages for Active Military, their
   children, Veterans, First Responders, Wounded heroes & Caregivers. Each
@@ -58,26 +24,15 @@ project_description: >-
   personal letters.  Our proposal is to provide every Angeleno an opportunity to
   express their gratitude to all who serve by engaging in hands-on activities at
   our facility and in their own communities.
-project_impact: >-
-  ["Social & emotional support","Rates of volunteerism","Total number of local
-  social media friends and connections Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Rates of volunteerism
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  Every year, thousands of local Operation Gratitude volunteers form a human
-  assembly line to create 200,000+ care packages for Active Military, their
-  children, Veterans, First Responders, Wounded heroes & Caregivers. Each
-  package contains up to 50 snack, entertainment & handmade items, toiletries &
-  personal letters.  Our proposal is to provide every Angeleno an opportunity to
-  express their gratitude to all who serve by engaging in hands-on activities at
-  our facility and in their own communities.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - San Fernando Valley
   - County of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Operation Gratitude offers fulfilling volunteer activities and a sense of
   purpose to the residents of Los Angeles.
 
@@ -138,6 +93,39 @@ project_proposal_best_place: >-
 
 
   This is Los Angeles connecting and saying “Thank You” to all who serve.
+Please explain how you will define and measure success for your project.​: >-
+  Operation Gratitude measures success through quantitative and qualitative
+  metrics. Key performance indicators include the numbers of: volunteers,
+  in-kind and financial donations, and package recipients. 
+
+
+  The true benefits and ultimate success of the Operation Gratitude program,
+  however, can be found in the Mail Call section of our website which displays
+  thousands of letters from heroes who have received the Care Packages. One
+  theme that runs through the letters is how surprised and appreciative they are
+  that total strangers have taken the time to show they care: “We expect to get
+  things from friends and family, but you sent me something out of a deep
+  respect for your country & its defenders. That's powerful.” 
+
+
+  Equally important is our ability to touch troops who served during previous
+  wars. A former 82nd Airborne Paratrooper from WWII wrote: 'It's a great
+  feeling to know that we haven't been forgotten. Because of you & all Americans
+  like you, our country remains strong and united.” 
+
+
+  The most dramatic illustration of our impact was received from an Army First
+  Sergeant: 'Your care packages lifted morale & helped save the life of a young
+  soldier who never got mail, care packages, or anything. He was planning to
+  commit suicide on Christmas, but because that soldier received your care
+  package on Christmas Eve, he changed his mind. Your care package made a major
+  difference in a human life. Because of your organization, one less family
+  received terrible news at Christmas.'
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/operation-gratitude-americans-saying-thank-you-to-all-who-serve/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7925063255741-team88.png
 organization_name: Operation Gratitude

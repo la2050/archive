@@ -17,34 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9172894265741-team91.png
 project_video: 'https://www.youtube.com/embed/a-9Ki04WhRM?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  We believe NEXT FEST will be successful if we can reach and bring together
-  more Angelenos around some of the most distinctive voices in independent film
-  culture today. We hope that our audiences will leave entertained, challenged,
-  and having connected in a way that is altogether unique. 
-
-
-  Sundance Institute emphasizes documentation, benchmarking, and evaluation in
-  all of our programs and services, and measures the success of activities
-  through a variety of mechanisms, including: audience attendance and engagement
-  at all events, surveys of program participants and partners, social media and
-  website engagement, media coverage, and story reporting. The Institute also
-  conducts extensive data collection and analysis from online, mobile, and
-  social platforms featuring the Sundance name. All Sundance Programs are
-  responsive to the needs of the participants: Institute staff evaluate Program
-  activities on an ongoing basis, meet quarterly throughout the year to measure
-  progress in reaching the established goals of our initiatives, carefully
-  consider feedback gathered both formally and informally, and make program
-  modifications when appropriate.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   An LA2050 grant would enable Sundance Institute to 1) provide 20% of NEXT
   FEST17 screening and event tickets free-of-charge to Los Angeles County
   community organizations and other community outreach programs, 2) support NEXT
@@ -52,24 +26,12 @@ project_description: >-
   accessible outdoor community space located next to the festival and open
   throughout NEXT FEST. Our ticket outreach efforts will reach a broad range of
   Angelenos across the county.
-project_impact: >-
-  ["Cultural events","Public/open streets gatherings","Public transit
-  riders","Total number of local social media friends and connections Angelenos
-  have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Cultural events
   - Public/open streets gatherings
   - Public transit riders
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  An LA2050 grant would enable Sundance Institute to 1) provide 20% of NEXT
-  FEST17 screening and event tickets free-of-charge to Los Angeles County
-  community organizations and other community outreach programs, 2) support NEXT
-  FEST public panels and workshops, and 3) continue NEXT DOOR, a publicly
-  accessible outdoor community space located next to the festival and open
-  throughout NEXT FEST. Our ticket outreach efforts will reach a broad range of
-  Angelenos across the county.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -81,7 +43,7 @@ project_areas:
   - Antelope Valley
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Los Angeles is vast and complex, posing a unique set of challenges to
   individual civic and cultural participation. Revitalization of the city center
   is crucial to promoting diverse, cross-cultural collaboration. We believe that
@@ -132,6 +94,31 @@ project_proposal_best_place: >-
   to be able to broaden our outreach in Los Angeles through a fully underwritten
   community ticket initiative and by continuing to offer a free, public space
   for NEXT FEST attendees and the vibrant downtown neighborhood.
+Please explain how you will define and measure success for your project.​: >-
+  We believe NEXT FEST will be successful if we can reach and bring together
+  more Angelenos around some of the most distinctive voices in independent film
+  culture today. We hope that our audiences will leave entertained, challenged,
+  and having connected in a way that is altogether unique. 
+
+
+  Sundance Institute emphasizes documentation, benchmarking, and evaluation in
+  all of our programs and services, and measures the success of activities
+  through a variety of mechanisms, including: audience attendance and engagement
+  at all events, surveys of program participants and partners, social media and
+  website engagement, media coverage, and story reporting. The Institute also
+  conducts extensive data collection and analysis from online, mobile, and
+  social platforms featuring the Sundance name. All Sundance Programs are
+  responsive to the needs of the participants: Institute staff evaluate Program
+  activities on an ongoing basis, meet quarterly throughout the year to measure
+  progress in reaching the established goals of our initiatives, carefully
+  consider feedback gathered both formally and informally, and make program
+  modifications when appropriate.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/next-fest-a-weekend-of-indie-film-music-bringing-angelenos-together-in-the-heart-of-downtown-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9172894265741-team91.png
 organization_name: Sundance Institute

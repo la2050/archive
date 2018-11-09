@@ -17,24 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4928931823741-team90.jpg
 project_video: 'https://www.youtube.com/embed/5fIYqcCuCuw?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: N/A
-project_measure: >-
-  We measure our success by the number of individuals that we are able to serve
-  – attendance/participation numbers. It is also measured by the number of
-  members engaged in entrepreneurial, educational or mid-career professional
-  activities.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - Community outreach
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   PIECES seeks to grow its existing educational programs, which focus on the
   visual and performing arts, and mentorship. All funds granted to the
   organization will be allocated toward securing a stable location to operate
@@ -42,21 +26,12 @@ project_description: >-
   order to expand programming. In turn, PIECES will serve more young creatives
   in the Los Angeles area, offering a secure, inspirational, and motivational
   creative home. Growing more opportunities.
-project_impact: '["Arts establishments"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
-project_proposal_description: >-
-  PIECES seeks to grow its existing educational programs, which focus on the
-  visual and performing arts, and mentorship. All funds granted to the
-  organization will be allocated toward securing a stable location to operate
-  from, hiring staff and acquiring the required tools and equipment needed in
-  order to expand programming. In turn, PIECES will serve more young creatives
-  in the Los Angeles area, offering a secure, inspirational, and motivational
-  creative home. Growing more opportunities.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Westside
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   PIECES has been empowering young people through the arts since 2012. It is a
   successful program that allows for young adults, ages 18 - 25 to explore their
   potential, reach for higher goals in a safe, and highly creative environment.
@@ -75,6 +50,21 @@ project_proposal_best_place: >-
 
   With more funding, PIECES can make more of this happen. Ensuring that more
   young people stay hungry and encouraged to reach for their goals.
+Please explain how you will define and measure success for your project.​: >-
+  We measure our success by the number of individuals that we are able to serve
+  – attendance/participation numbers. It is also measured by the number of
+  members engaged in entrepreneurial, educational or mid-career professional
+  activities.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/continue-to-empower-young-adults-in-l-a-through-the-visual-and-performing-arts/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4928931823741-team90.jpg
 organization_name: PIECES

@@ -14,64 +14,24 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1825639986741-team91.jpg
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: N/A
-project_measure: >-
-  Measurement tool (outputs):
-
-  1-Leading industry experts will join with high school students to explore new
-  methods for creating a resilient community.
-
-  Definition of success (outcomes):
-
-  1-Mentorship relationships will forge, building students’ networks and
-  inspiring activism. Mentors will be inspired to approach environmental
-  sustainability in new ways resulting from working with students.
-
-
-  Measurement tool (outputs):
-
-  2-Industry engagement will be tracked and a sampling of students will complete
-  a survey of their Summit experience.
-
-  Definition of success (outcomes):
-
-  2-Students will become interested in pursuing careers in clean technology,
-  alternative fuel engineering, wetland preservation, environmental compliance,
-  and lead mitigation efforts in their own communities.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - 'Education/training '
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   This Summit will provide students in East Los Angeles the opportunity to learn
   about cutting edge environmental science careers that will enable them to
   become part of the local economy and contribute to their communities cleaner,
   more accessible, and sustainable. ITEP will convene industry and community
   partners to hear the Generation Z perspective on community problems and
   potential solutions.
-project_impact: >-
-  ["Waterways","Exposure to air toxins","Self-sufficiency","Local
-  water","Resilient communities","Tree canopy cover"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Waterways
   - Exposure to air toxins
   - Self-sufficiency
   - Local water
   - Resilient communities
   - Tree canopy cover
-project_proposal_description: >-
-  This Summit will provide students in East Los Angeles the opportunity to learn
-  about cutting edge environmental science careers that will enable them to
-  become part of the local economy and contribute to their communities cleaner,
-  more accessible, and sustainable. ITEP will convene industry and community
-  partners to hear the Generation Z perspective on community problems and
-  potential solutions.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - East LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   ITEP will present a one-day community Environmental Leadership Summit in Fall
   2017 to include student presentations, an environmental fair, keynote speaker,
   and breakout sessions. The Summit will engage students, parents, faculty and
@@ -113,6 +73,35 @@ project_proposal_best_place: >-
   Together, ITEP and the East Los Angeles community residents will make LA the
   best place to LIVE by supporting efforts to ensure a healthy and sustainable
   environment for all its citizens.
+Please explain how you will define and measure success for your project.​: >-
+  Measurement tool (outputs):
+
+  1-Leading industry experts will join with high school students to explore new
+  methods for creating a resilient community.
+
+  Definition of success (outcomes):
+
+  1-Mentorship relationships will forge, building students’ networks and
+  inspiring activism. Mentors will be inspired to approach environmental
+  sustainability in new ways resulting from working with students.
+
+
+  Measurement tool (outputs):
+
+  2-Industry engagement will be tracked and a sampling of students will complete
+  a survey of their Summit experience.
+
+  Definition of success (outcomes):
+
+  2-Students will become interested in pursuing careers in clean technology,
+  alternative fuel engineering, wetland preservation, environmental compliance,
+  and lead mitigation efforts in their own communities.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - 'Education/training '
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/east-los-angeles-youth-environmental-leadership-summit/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1825639986741-team91.jpg
 organization_name: International Trade Education Programs (ITEP)

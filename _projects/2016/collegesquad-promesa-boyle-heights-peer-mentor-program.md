@@ -15,40 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5158070785741-team91.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: 'Mendez High School, Roosevelt High School, Hollenbeck Middle School'
-project_measure: >-
-  Success will be defined by both immediate and long term outcomes.  To gauge
-  short term success, we will distribute surveys school wide on our two high
-  school and one middle school campus before starting the program to gauge
-  college awareness.  Surveys will be distributed after the program has been
-  completed and data will be analyzed to note for statistically significant
-  increases in awareness.  For our target cohort of the 40 high school and
-  middle school students, they will complete pre, mid, and post surveys that
-  focus on college awareness, college attainment, self esteem, and hope for
-  their future.  Additionally, post program focus groups will be completed for
-  all cohorts: college, high school, and middle school.  For long term success,
-  we will analyze school wide data obtained from our schools.  We already have
-  baseline data from previous school years from the three target schools on
-  attendance, behavior, graduation rates, course performance, and college
-  enrollment.  We will use this data to gauge the school wide impact on our
-  program’s presentations and school wide initiatives.  In addition to the
-  school baseline data we have, there is a documented need for this type of
-  programming in Boyle Heights. Boyle Heights’ 69% dropout rate underlines this
-  predominantly Latino community’s high-need.  And although the C-S model at
-  Mendez has helped double the graduation rate in the last four years, local
-  youth continue to face many barriers to graduation and college success.
-project_proposal_help:
-  - 'Money '
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: 'Mendez High School, Roosevelt High School, Hollenbeck Middle School'
+Please describe your project proposal.: >-
   To increase college access among Boyle Heights youth, we will create a peer
   mentoring program, in which local college students would mentor college bound,
   but first generation high students at two key schools, Felicitas and Gonzalo
@@ -56,25 +24,14 @@ project_description: >-
   prepare to apply to college.  In turn, those high school mentors, will mentor
   at risk middle school students at risk of not graduating, to increase their
   motivation towards school.
-project_impact: >-
-  ["College matriculation rates","District-wide graduation rates","Student
-  education pipeline","Youth unemployment and underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College matriculation rates
   - District-wide graduation rates
   - Student education pipeline
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  To increase college access among Boyle Heights youth, we will create a peer
-  mentoring program, in which local college students would mentor college bound,
-  but first generation high students at two key schools, Felicitas and Gonzalo
-  Mendez High School and Roosevelt High School, giving them support as they
-  prepare to apply to college.  In turn, those high school mentors, will mentor
-  at risk middle school students at risk of not graduating, to increase their
-  motivation towards school.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - East LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   PBH implementation began in 2012 through a Community-School (C-S) model at
   Mendez HS, including case management for highest-risk juniors and seniors;
   school-wide supports to build a college-going culture; and leadership
@@ -121,6 +78,37 @@ project_proposal_best_place: >-
   initiatives they will lead on their campus to raise college awareness,
   offering opportunities for both leadership development and a wider project
   scope.
+Please explain how you will define and measure success for your project.​: >-
+  Success will be defined by both immediate and long term outcomes.  To gauge
+  short term success, we will distribute surveys school wide on our two high
+  school and one middle school campus before starting the program to gauge
+  college awareness.  Surveys will be distributed after the program has been
+  completed and data will be analyzed to note for statistically significant
+  increases in awareness.  For our target cohort of the 40 high school and
+  middle school students, they will complete pre, mid, and post surveys that
+  focus on college awareness, college attainment, self esteem, and hope for
+  their future.  Additionally, post program focus groups will be completed for
+  all cohorts: college, high school, and middle school.  For long term success,
+  we will analyze school wide data obtained from our schools.  We already have
+  baseline data from previous school years from the three target schools on
+  attendance, behavior, graduation rates, course performance, and college
+  enrollment.  We will use this data to gauge the school wide impact on our
+  program’s presentations and school wide initiatives.  In addition to the
+  school baseline data we have, there is a documented need for this type of
+  programming in Boyle Heights. Boyle Heights’ 69% dropout rate underlines this
+  predominantly Latino community’s high-need.  And although the C-S model at
+  Mendez has helped double the graduation rate in the last four years, local
+  youth continue to face many barriers to graduation and college success.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/collegesquad-promesa-boyle-heights-peer-mentor-program/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5158070785741-team91.jpg
 organization_name: Proyecto Pastoral

@@ -17,52 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0699377525741-team90.png
 project_video: 'http://bit.ly/2016-KP-CNM-Video?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  The Center for Nonprofit Management aims to: 1) provide networking and
-  collaborative opportunities for nonprofit leaders and social innovators across
-  Los Angeles; and 2) provide peer emotional and professional support by
-  incubating new venture partnerships through small group sessions.  
-
-  We will evaluate the program’s success based on the following:
-
-  1. The number of participants who have not participated in such a convening
-  before and found it valuable to their operations; 
-
-  2. The number of new collaborations that emerge after the program is
-  completed, and what those collaborations look like; and, 
-
-  3. Qualitative evaluation results that show how the small peer groups helped
-  provide peer support.
-
-  Specific questions to be asked include:
-
-  * Did you develop strategic partnerships to advance the work of your
-  organization?
-
-  * Did you obtain support and wisdom from peers or a network?
-
-  * Number of organizations and/or innovators who you plan to work with now or
-  in the future 
-
-  * Number of times your small peer group met and schedule of future meetings
-
-
-  We will conduct pre and post program surveys before and after the program to
-  determine effectiveness of the large scale convenings and the small group
-  incubator component.  We will also measure our success in facilitating new
-  partnerships and collaborations between the participants.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Last spring, researchers at UCLA announced that giving in LA is down $1
   billion a year.  That shocking finding means that annual galas and golf
   tournaments are great but given the distress across our community, it isn’t
@@ -70,24 +26,12 @@ project_description: >-
   CONNECT-CONVENE-COLLABORATE will bring together leaders and innovators from
   all sectors across LA to provide peer support and promote new collaborations
   to solve LA’s biggest problems.
-project_impact: >-
-  ["Social & emotional support","Government responsiveness to residents’
-  needs","Rates of volunteerism","Total number of local social media friends and
-  connections Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Government responsiveness to residents’ needs
   - Rates of volunteerism
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  Last spring, researchers at UCLA announced that giving in LA is down $1
-  billion a year.  That shocking finding means that annual galas and golf
-  tournaments are great but given the distress across our community, it isn’t
-  enough. So, in the words of frustrated partners, “it’s time to talk.”  SPARK!:
-  CONNECT-CONVENE-COLLABORATE will bring together leaders and innovators from
-  all sectors across LA to provide peer support and promote new collaborations
-  to solve LA’s biggest problems.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Fernando Valley
@@ -97,7 +41,7 @@ project_areas:
   - Antelope Valley
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   As the leading nonprofit convener in Southern California, the Center for
   Nonprofit Management has over 35 years of experience working to assist
   nonprofit leaders, staff, and board members striving to achieve their
@@ -138,6 +82,49 @@ project_proposal_best_place: >-
   be successful.  Our goal is that these working groups will get people to talk
   about how to resolve some of the most pressing issues Los Angeles is facing,
   and continue to meet long after the grant is completed.
+Please explain how you will define and measure success for your project.​: >-
+  The Center for Nonprofit Management aims to: 1) provide networking and
+  collaborative opportunities for nonprofit leaders and social innovators across
+  Los Angeles; and 2) provide peer emotional and professional support by
+  incubating new venture partnerships through small group sessions.  
+
+  We will evaluate the program’s success based on the following:
+
+  1. The number of participants who have not participated in such a convening
+  before and found it valuable to their operations; 
+
+  2. The number of new collaborations that emerge after the program is
+  completed, and what those collaborations look like; and, 
+
+  3. Qualitative evaluation results that show how the small peer groups helped
+  provide peer support.
+
+  Specific questions to be asked include:
+
+  * Did you develop strategic partnerships to advance the work of your
+  organization?
+
+  * Did you obtain support and wisdom from peers or a network?
+
+  * Number of organizations and/or innovators who you plan to work with now or
+  in the future 
+
+  * Number of times your small peer group met and schedule of future meetings
+
+
+  We will conduct pre and post program surveys before and after the program to
+  determine effectiveness of the large scale convenings and the small group
+  incubator component.  We will also measure our success in facilitating new
+  partnerships and collaborations between the participants.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/spark-connect-convene-collaborate-will-promote-las-culture-of-interconnectedness/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0699377525741-team90.png
 organization_name: Southern California Center for Nonprofit Management

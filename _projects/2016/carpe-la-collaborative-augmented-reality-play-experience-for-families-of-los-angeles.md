@@ -17,9 +17,64 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1328398065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/flxMXmBJItU?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: Artifact Technologies
-project_measure: >-
+Are any other organizations collaborating on this proposal?: Artifact Technologies
+Please describe your project proposal.: >-
+  CARPE LA is mobile experience designed to get teams of kids and adults outside
+  to play a story-driven, location-based game in parks throughout LA. Through a
+  series of summer events at which CARPE LA will be played, teams will
+  collaborate to unlock the open spaces in their neighborhoods.
+Which metrics will your proposal impact?​:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of parks with intergenerational play opportunities
+In what areas of Los Angeles will you be directly working?:
+  - East LA
+  - Westside
+Describe in greater detail how your proposal will make LA the best place.: >-
+  Research shows that intergenerational play supports language development,
+  critical thinking, and emotional connections among families and communities.
+  However, opportunities for people to come together for intergenerational
+  play—experiences that are equally playful no matter your age—are often
+  difficult to find and access. 
+
+
+  CARPE LA: Collaborative Augmented Reality Play Experience for Families in LA’s
+  parks has two key features that will make LA the best place to play. First, it
+  will bring an exciting new intergenerational play experience to parks around
+  LA, which will offer the added benefit of bringing communities together.
+  Second, CARPE LA blends digital and physical play through augmented reality
+  technology similar to what powered this summer’s hit game Pokemon Go! 
+   
+  CARPE LA will increase access to open space and park activities through
+  gameplay events designed for participants of all ages and abilities. As a team
+  game, play is enhanced by including players with differing abilities and
+  ideas. And, although the game has a technological component, it is not
+  necessary for all team members to have a mobile device to participate.
+   
+  The pilot will improve the number and quality of informal spaces for play in
+  participating neighborhoods in two ways: 1) the events - held on what we’ll
+  call Summer Saturdays - will provide a guided model for intergenerational play
+  offered through a story that encourages families to slow down and discover
+  together. Our team members are experts in both design and instruction related
+  to intergenerational play. As families and communities participate, they will
+  learn skills for designing their own intergenerational play experiences in the
+  park. 2) We will install beacon technology within the park to facilitate the
+  digital aspects of the game and offer ways for the families to use their
+  mobile devices to collect, share and unlock more opportunities within the park
+  and beyond. The hardware does not have to be permanently installed allowing us
+  to expand the game beyond the initial pilot sites. 
+   
+  The key metric we expect to impact is the number of parks with
+  intergenerational play experiences. We see that technology has, in some ways,
+  decreased the opportunities for true intergenerational play in parks—play in
+  which the adults are as engaged as the children—due to the fact that adults
+  can be always connected to work or home, even when outside playing. CARPE LA
+  uses that same mobile technology to create a compelling, immersive play
+  experience that blends digital technology with the types of physical and
+  reflective play that parks encourage: running, jumping, climbing, all the way
+  to observing, imagining and discovering. It is the best of both worlds,
+  brought together through a compelling story and social connections.
+Please explain how you will define and measure success for your project.​: >-
   We will measure success of the project based on: 1) participation rates at
   events and 2) quality of play experiences reported by participants. We will
   collect the following data to determine success: 
@@ -64,77 +119,13 @@ project_measure: >-
   surveys with participants to collect data on their experiences. Through the
   research, we will be able to learn more about intergenerational play and how
   to design and facilitate community-based experiences.
-project_proposal_help:
+How can the LA2050 community and other stakeholders help your proposal succeed?:
   - 'Money '
   - Volunteers
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
-project_description: >-
-  CARPE LA is mobile experience designed to get teams of kids and adults outside
-  to play a story-driven, location-based game in parks throughout LA. Through a
-  series of summer events at which CARPE LA will be played, teams will
-  collaborate to unlock the open spaces in their neighborhoods.
-project_impact: >-
-  ["Access to open space and park facilities","Number (and quality) of informal
-  spaces for play","Number of parks with intergenerational play opportunities"]
-project_proposal_impact:
-  - Access to open space and park facilities
-  - Number (and quality) of informal spaces for play
-  - Number of parks with intergenerational play opportunities
-project_proposal_description: >-
-  CARPE LA is mobile experience designed to get teams of kids and adults outside
-  to play a story-driven, location-based game in parks throughout LA. Through a
-  series of summer events at which CARPE LA will be played, teams will
-  collaborate to unlock the open spaces in their neighborhoods.
-project_areas:
-  - East LA
-  - Westside
-project_proposal_best_place: >-
-  Research shows that intergenerational play supports language development,
-  critical thinking, and emotional connections among families and communities.
-  However, opportunities for people to come together for intergenerational
-  play—experiences that are equally playful no matter your age—are often
-  difficult to find and access. 
-
-
-  CARPE LA: Collaborative Augmented Reality Play Experience for Families in LA’s
-  parks has two key features that will make LA the best place to play. First, it
-  will bring an exciting new intergenerational play experience to parks around
-  LA, which will offer the added benefit of bringing communities together.
-  Second, CARPE LA blends digital and physical play through augmented reality
-  technology similar to what powered this summer’s hit game Pokemon Go! 
-   
-  CARPE LA will increase access to open space and park activities through
-  gameplay events designed for participants of all ages and abilities. As a team
-  game, play is enhanced by including players with differing abilities and
-  ideas. And, although the game has a technological component, it is not
-  necessary for all team members to have a mobile device to participate.
-   
-  The pilot will improve the number and quality of informal spaces for play in
-  participating neighborhoods in two ways: 1) the events - held on what we’ll
-  call Summer Saturdays - will provide a guided model for intergenerational play
-  offered through a story that encourages families to slow down and discover
-  together. Our team members are experts in both design and instruction related
-  to intergenerational play. As families and communities participate, they will
-  learn skills for designing their own intergenerational play experiences in the
-  park. 2) We will install beacon technology within the park to facilitate the
-  digital aspects of the game and offer ways for the families to use their
-  mobile devices to collect, share and unlock more opportunities within the park
-  and beyond. The hardware does not have to be permanently installed allowing us
-  to expand the game beyond the initial pilot sites. 
-   
-  The key metric we expect to impact is the number of parks with
-  intergenerational play experiences. We see that technology has, in some ways,
-  decreased the opportunities for true intergenerational play in parks—play in
-  which the adults are as engaged as the children—due to the fact that adults
-  can be always connected to work or home, even when outside playing. CARPE LA
-  uses that same mobile technology to create a compelling, immersive play
-  experience that blends digital technology with the types of physical and
-  reflective play that parks encourage: running, jumping, climbing, all the way
-  to observing, imagining and discovering. It is the best of both worlds,
-  brought together through a compelling story and social connections.
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/carpe-la-collaborative-augmented-reality-play-experience-for-families-of-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1328398065741-team91.jpg
 organization_name: USC Annenberg Innovation Lab

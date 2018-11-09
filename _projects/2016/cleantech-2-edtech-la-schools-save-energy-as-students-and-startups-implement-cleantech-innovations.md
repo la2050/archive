@@ -17,50 +17,10 @@ project_summary: >-
 project_image: >-
   https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/11214192_935905586488107_4722615873049382596_n.jpg?_nc_cat=110&oh=02f45f49f54442c56940bfce84664260&oe=5C473C10
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Los Angeles Cleantech Incubator, Los Angeles Unified School District, Los
   Angeles Department of Water and Power, Southern California Edison
-project_measure: >-
-  The goals of the project are to establish a pilot program that supports
-  cleantech startups developing new energy and water efficiency technology, and
-  introduces these new technologies into LAUSD operations faster and more
-  efficiently, to provide strategic funding for these pilot trials to foster
-  successful outcomes, and to develop a learning program for high school
-  students who wish to explore becoming an cleantech entrepreneur.
-
-  To measure our success Cleantech 2 Edtech will track the following: 
-
-  •Number of cleantech companies who engage 
-
-  •New technologies tested and their areas of application
-
-  •Percent of tested technologies that could be adopted within the school system
-
-  * School Engagement: number and staff
-
-  * Student Engagement: number participating, and applicants
-
-  •Company satisfaction with the program and percentage that will continue
-  beyond the pilot phase
-
-  •Educational institution satisfaction
-
-  •Potential to scale the pilot and apply to the rest of the school system
-
-  * Utility interest in expanding the program 
-
-  •Rocket Fund impact: new funding opportunities for participating companies and
-  engagement with new customers
-
-  •Energy and water savings from piloted technologies
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Education/training
-project_description: >-
+Please describe your project proposal.: >-
   Cleantech 2 Edtech will explore new clean energy and water technologies and
   work with LAUSD and the utilities to pilot them in the district. We will offer
   complementary education and internship opportunities for high school students
@@ -68,13 +28,7 @@ project_description: >-
   for funding in a new Memorandum of Understanding (“MOU”).  This project would
   complement their efforts and access funding both to educate and to develop 
   emerging efficiency technologies.
-project_impact: >-
-  ["Federal research grant funding","Jobs per capita","High growth
-  startups","Patents per capita","Percentage of graduates from local higher
-  education institutions that remain in LA County 5 years after
-  graduating","Recruiting and retention rates for local higher education
-  institutions","Venture capital investment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Federal research grant funding
   - Jobs per capita
   - High growth startups
@@ -84,20 +38,12 @@ project_proposal_impact:
     in LA County 5 years after graduating
   - Recruiting and retention rates for local higher education institutions
   - Venture capital investment
-project_proposal_description: >-
-  Cleantech 2 Edtech will explore new clean energy and water technologies and
-  work with LAUSD and the utilities to pilot them in the district. We will offer
-  complementary education and internship opportunities for high school students
-  interested in learning more. LAUSD and LADWP are developing pilot technologies
-  for funding in a new Memorandum of Understanding (“MOU”).  This project would
-  complement their efforts and access funding both to educate and to develop 
-  emerging efficiency technologies.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
   - LADWP and SCE's rate paying territories
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Cleantech 2 Edtech will make LA the best place to create through nurturing the
   coming generation of cleantech innovators and the jobs they bring, helping
   schools secure cleaner energy and water more efficiently, and promoting a
@@ -146,6 +92,45 @@ project_proposal_best_place: >-
 
   This program will be established at pilot sites within LAUSD, and if
   successful, rolled out more widely.
+Please explain how you will define and measure success for your project.​: >-
+  The goals of the project are to establish a pilot program that supports
+  cleantech startups developing new energy and water efficiency technology, and
+  introduces these new technologies into LAUSD operations faster and more
+  efficiently, to provide strategic funding for these pilot trials to foster
+  successful outcomes, and to develop a learning program for high school
+  students who wish to explore becoming an cleantech entrepreneur.
+
+  To measure our success Cleantech 2 Edtech will track the following: 
+
+  •Number of cleantech companies who engage 
+
+  •New technologies tested and their areas of application
+
+  •Percent of tested technologies that could be adopted within the school system
+
+  * School Engagement: number and staff
+
+  * Student Engagement: number participating, and applicants
+
+  •Company satisfaction with the program and percentage that will continue
+  beyond the pilot phase
+
+  •Educational institution satisfaction
+
+  •Potential to scale the pilot and apply to the rest of the school system
+
+  * Utility interest in expanding the program 
+
+  •Rocket Fund impact: new funding opportunities for participating companies and
+  engagement with new customers
+
+  •Energy and water savings from piloted technologies
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Education/training
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/cleantech-2-edtech-la-schools-save-energy-as-students-and-startups-implement-cleantech-innovations/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/11214192_935905586488107_4722615873049382596_n.jpg
 organization_name: California Institute of Technology

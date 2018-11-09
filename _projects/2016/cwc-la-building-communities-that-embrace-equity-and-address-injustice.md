@@ -15,28 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0183087065741-team90.jpg
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: >-
-  CWC LA will contract with the Fellowship for Race and Equity in Education
-  (FREE) as an expert facilitator for some of our core training sessions. FREE
-  supports education organizations to realize their missions of providing a
-  truly equitable education for every student. FREE starts with race, the most
-  taboo and unreconciled American subject, so that when inequities of any kind
-  surface we can recognize, disrupt, and rebuild.
-project_measure: "Our organization has identified a set of 12 CWC-specific “dispositions” we aim to develop in our students. The dispositions are as follows:\n* Self: self-aware, response-able, confident, agile, courageous\n* Together: culturally competent, curious, empathetic, compassionate\n* World: systems thinker, global, scholarly\nAs CWC approaches learning with a strategic equity focus, we anticipate our graduates will more fully embody these 12 dispositions.\n\nAdditionally, we will define and measure success for this project using a variety of metrics pertaining to race and equity, including:\n\n•Teachers and Staff \n\t-Diverse hiring practices and talent pipelines\n\t-Modeling behavior of successfully engaging in crucial conversations about race and equity\n\t-Feedback from continuing education/PD/dialogue\n\t-Feedback on school culture\n\t-Shared understanding of definitions and key terms  (e.g., diversity)\n\n•Families\n\t-Feedback on school culture and access to the school community\n\t-Implementation of structures to ensure equitable parent voices\n\n•Students\n\t-Feedback on school culture\n\t-Observed student leadership and agency\n\t-Development of a plan to address issues of diversity and difference with students\n\t-Shared language and values among students"
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Through CWC’s school model, students learn to meaningfully connect with each
   other, be part of any community, and courageously decide who they are in the
   world and how they want the world to be. The goal of our race, equity and
@@ -44,12 +24,7 @@ project_description: >-
   thrive in a diverse society. To achieve this ambitious goal, CWC must equip
   our staff with the values, skills, and tools to empower students to navigate
   lines of difference and build community.
-project_impact: >-
-  ["College completion","College matriculation rates","District-wide graduation
-  rates","Proficiency in English and Language Arts and Math","Students’
-  perceived sense of safety at and on the way to school","Suspension and
-  expulsion rates","Truancy rates in elementary and middle schools"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - District-wide graduation rates
@@ -57,19 +32,11 @@ project_proposal_impact:
   - Students’ perceived sense of safety at and on the way to school
   - Suspension and expulsion rates
   - Truancy rates in elementary and middle schools
-project_proposal_description: >-
-  Through CWC’s school model, students learn to meaningfully connect with each
-  other, be part of any community, and courageously decide who they are in the
-  world and how they want the world to be. The goal of our race, equity and
-  diversity project is for staff and students to realize their full potential to
-  thrive in a diverse society. To achieve this ambitious goal, CWC must equip
-  our staff with the values, skills, and tools to empower students to navigate
-  lines of difference and build community.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - Westside
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   CWC LA’s unique model is built upon three core tenets: academic excellence,
   diversity and community.  We believe true learning can occur best in a diverse
   school environment that honors and engages the community it serves. CWC
@@ -128,6 +95,19 @@ project_proposal_best_place: >-
   office staff
 
   •          Principals and other leaders
+Please explain how you will define and measure success for your project.​: "Our organization has identified a set of 12 CWC-specific “dispositions” we aim to develop in our students. The dispositions are as follows:\n* Self: self-aware, response-able, confident, agile, courageous\n* Together: culturally competent, curious, empathetic, compassionate\n* World: systems thinker, global, scholarly\nAs CWC approaches learning with a strategic equity focus, we anticipate our graduates will more fully embody these 12 dispositions.\n\nAdditionally, we will define and measure success for this project using a variety of metrics pertaining to race and equity, including:\n\n•Teachers and Staff \n\t-Diverse hiring practices and talent pipelines\n\t-Modeling behavior of successfully engaging in crucial conversations about race and equity\n\t-Feedback from continuing education/PD/dialogue\n\t-Feedback on school culture\n\t-Shared understanding of definitions and key terms  (e.g., diversity)\n\n•Families\n\t-Feedback on school culture and access to the school community\n\t-Implementation of structures to ensure equitable parent voices\n\n•Students\n\t-Feedback on school culture\n\t-Observed student leadership and agency\n\t-Development of a plan to address issues of diversity and difference with students\n\t-Shared language and values among students"
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/cwc-la-building-communities-that-embrace-equity-and-address-injustice/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0183087065741-team90.jpg
 organization_name: Citizens of the World Los Angeles

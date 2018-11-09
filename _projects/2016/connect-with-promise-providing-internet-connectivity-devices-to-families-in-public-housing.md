@@ -17,29 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3786211355741-team91.jpg
 project_video: 'https://www.youtube.com/embed/SArUqu9L8eI?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: Access from AT&T
-project_measure: >-
-  EveryoneOn on will track the number of low-income people in public housing who
-  receive devices and get connected to the Internet at home, tracking outcomes
-  in education post connectivity. In short, not only will we track the actual
-  number of Internet adoptions, but the benefits of which these adoptions yield
-  long term results in regards to educational progress and economic mobility.
-  Through local data collection, on the ground surveys, standardized questions,
-  and real time evaluations, we will be able to analyze the effectiveness of our
-  outputs versus outcomes, measuring our findings against comparable data.
-  Rigorous monitoring and evaluation for EveryoneOn thus far has yielded useful
-  insights which have guided our overall operations. In addition, we plan to
-  highlight success stories to help show the real life impact that digital
-  inclusion provides.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Since 2012, EveryoneOn has been connecting people in the U.S. to low-cost
   Internet, devices, and digital literacy training. Internet connectivity is
   critical to learning and educational advancement today, especially when 80% of
@@ -47,29 +26,17 @@ project_description: >-
   applications are filled out online. In collaboration with AT&T, we will
   facilitate Internet connectivity and devices for families living in public
   housing within Los Angeles’ designated Promise Zones.
-project_impact: >-
-  ["College completion","College matriculation rates","District-wide graduation
-  rates","Proficiency in English and Language Arts and Math","Early
-  education","Student education pipeline"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - District-wide graduation rates
   - Proficiency in English and Language Arts and Math
   - Early education
   - Student education pipeline
-project_proposal_description: >-
-  Since 2012, EveryoneOn has been connecting people in the U.S. to low-cost
-  Internet, devices, and digital literacy training. Internet connectivity is
-  critical to learning and educational advancement today, especially when 80% of
-  children need the Internet to do their homework and 90% of college
-  applications are filled out online. In collaboration with AT&T, we will
-  facilitate Internet connectivity and devices for families living in public
-  housing within Los Angeles’ designated Promise Zones.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - South LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Technology has changed the way we do business, pursue education, find jobs,
   and communicate. Yet in the country that invented the Internet, nearly one in
   five Americans (64 million), disproportionately from low-income and minority
@@ -104,6 +71,26 @@ project_proposal_best_place: >-
   school and be college and career ready, and acts as a key tool in parents
   ability to be engaged and empowered to direct their children’s learning.
   Today, the ultimate vehicle for opportunity is through the Internet.
+Please explain how you will define and measure success for your project.​: >-
+  EveryoneOn on will track the number of low-income people in public housing who
+  receive devices and get connected to the Internet at home, tracking outcomes
+  in education post connectivity. In short, not only will we track the actual
+  number of Internet adoptions, but the benefits of which these adoptions yield
+  long term results in regards to educational progress and economic mobility.
+  Through local data collection, on the ground surveys, standardized questions,
+  and real time evaluations, we will be able to analyze the effectiveness of our
+  outputs versus outcomes, measuring our findings against comparable data.
+  Rigorous monitoring and evaluation for EveryoneOn thus far has yielded useful
+  insights which have guided our overall operations. In addition, we plan to
+  highlight success stories to help show the real life impact that digital
+  inclusion provides.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/connect-with-promise-providing-internet-connectivity-devices-to-families-in-public-housing/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3786211355741-team91.jpg
 organization_name: EveryoneOn

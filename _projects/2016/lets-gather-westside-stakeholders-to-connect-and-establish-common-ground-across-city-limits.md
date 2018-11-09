@@ -17,25 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0138450996741-team90.jpeg
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: None.
-project_measure: >-
-  The primarily measure of success will be the number and diversity of
-  attendees. The secondary measure will be the proposal and execution of three
-  projects that will arise from the proceedings. Attendees will vote on project
-  proposals and then pledge to contribute to one of the projects, and progress
-  will be tracked throughout the year. This way, the conference will have a
-  lasting impact beyond the relationships and ideas that arise at the event
-  itself.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   The Westside of Los Angeles is home to more people than all but a handful of
   American cities in their entirety. And yet, because of the region's
   combination of independent jurisdictions, the Westside is more of an idea than
@@ -43,25 +26,14 @@ project_description: >-
   day-long conference to gather leaders and stakeholders from across the
   Westside spectrum to solve common challenges, seize upon common opportunities,
   and identify projects to pursue in the coming year.
-project_impact: >-
-  ["Government responsiveness to residents’ needs","Public transit
-  riders","Participation in neighborhood councils","Residential segregation"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Government responsiveness to residents’ needs
   - Public transit riders
   - Participation in neighborhood councils
   - Residential segregation
-project_proposal_description: >-
-  The Westside of Los Angeles is home to more people than all but a handful of
-  American cities in their entirety. And yet, because of the region's
-  combination of independent jurisdictions, the Westside is more of an idea than
-  an entity. As the Westside's leading civic organization, WUF proposes a
-  day-long conference to gather leaders and stakeholders from across the
-  Westside spectrum to solve common challenges, seize upon common opportunities,
-  and identify projects to pursue in the coming year.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Westside
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The Westside of Los Angeles includes some of the most distinctive, prized real
   estate in the country, with resources and attributes that eclipse those of
   entire cities. And yet, the Westside faces significant challenges. Some
@@ -96,6 +68,22 @@ project_proposal_best_place: >-
   for far longer. With LA 2050's support, we hope to reach out to Westside
   stakeholders who do not typically participate in events like this in order to
   a create sense of unity, cooperation, and friendliness among neighbors.
+Please explain how you will define and measure success for your project.​: >-
+  The primarily measure of success will be the number and diversity of
+  attendees. The secondary measure will be the proposal and execution of three
+  projects that will arise from the proceedings. Attendees will vote on project
+  proposals and then pledge to contribute to one of the projects, and progress
+  will be tracked throughout the year. This way, the conference will have a
+  lasting impact beyond the relationships and ideas that arise at the event
+  itself.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/lets-gather-westside-stakeholders-to-connect-and-establish-common-ground-across-city-limits/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0138450996741-team90.jpeg
 organization_name: Westside Urban Forum

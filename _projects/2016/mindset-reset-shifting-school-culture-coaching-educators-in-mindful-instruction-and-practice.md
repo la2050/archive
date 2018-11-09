@@ -17,40 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5938228555741-team91.png
 project_video: 'https://www.youtube.com/embed/0xgcqCC9nTM?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: Vignettes Learning
-project_measure: >-
-  Success is defined by growth in the areas of building reflective
-  practitioners, making progress on school-wide instructional practices, and
-  building mindful school cultures. Using action research, we will investigate
-  the effectiveness of our model of support and process for improvement. The
-  documentation and data for the pilots effectiveness, regarding the learning
-  community’s positive shift in its practice and/or development of its
-  professional capacity, will consist of: quantitative data; net promoter score
-  surveys, teacher and coach monitoring using the Pedagogics rubric for the
-  Stages of Integration, Path 2 Expertise metrics; and qualitative data;
-  recorded interviews, educator reflection, and coach generated anecdotal notes
-  and informal assessment. We will evaluate the qualitative data using the data
-  source triangulation method then use it to validate the quantitative data to
-  generate results. A successful pilot will result in positive change in both
-  quantitative and qualitative data. We anticipate seeing an increase in
-  implementation of instructional skills and strategies (rubric, anecdotal
-  notes), a positive change in the overall mindset of educators (surveys), a
-  shift to a more mindful school culture (interviews, reflection), educators
-  engaged in seeking more information and interacting with the Pedagogics
-  community (Path 2 Expertise metrics), and the achievement of personal goals.
-  Overall effectiveness of our pilot will result in a positive net promoter
-  score.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Network/relationship support
-  - Quality improvement research
-  - Social Media Strategies
-project_description: >-
+Are any other organizations collaborating on this proposal?: Vignettes Learning
+Please describe your project proposal.: >-
   A 10 month Pilot of coaching services in 3 LA schools to connect educators
   with effective instruction, mindful learning, and a more dynamic school
   culture based on existing vision. Schools start where they are in
@@ -58,20 +26,11 @@ project_description: >-
   Pedagogics to refine strategies and explore tools that address challenges and
   issues unique to each site. Ongoing learning and development is facilitated by
   a PLN to shift education towards a more mindful LA.
-project_impact: '["Student education pipeline"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Student education pipeline
-project_proposal_description: >-
-  A 10 month Pilot of coaching services in 3 LA schools to connect educators
-  with effective instruction, mindful learning, and a more dynamic school
-  culture based on existing vision. Schools start where they are in
-  implementation of best practice and mindful learning and collaborate with
-  Pedagogics to refine strategies and explore tools that address challenges and
-  issues unique to each site. Ongoing learning and development is facilitated by
-  a PLN to shift education towards a more mindful LA.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   “Are we preparing kids minds for a life of tests or the test of life?” Arthur
   L. Costa 
 
@@ -128,6 +87,37 @@ project_proposal_best_place: >-
 
   In 2050, LA is known as the tipping point of dynamic mindful learning and
   instruction across the global education community!
+Please explain how you will define and measure success for your project.​: >-
+  Success is defined by growth in the areas of building reflective
+  practitioners, making progress on school-wide instructional practices, and
+  building mindful school cultures. Using action research, we will investigate
+  the effectiveness of our model of support and process for improvement. The
+  documentation and data for the pilots effectiveness, regarding the learning
+  community’s positive shift in its practice and/or development of its
+  professional capacity, will consist of: quantitative data; net promoter score
+  surveys, teacher and coach monitoring using the Pedagogics rubric for the
+  Stages of Integration, Path 2 Expertise metrics; and qualitative data;
+  recorded interviews, educator reflection, and coach generated anecdotal notes
+  and informal assessment. We will evaluate the qualitative data using the data
+  source triangulation method then use it to validate the quantitative data to
+  generate results. A successful pilot will result in positive change in both
+  quantitative and qualitative data. We anticipate seeing an increase in
+  implementation of instructional skills and strategies (rubric, anecdotal
+  notes), a positive change in the overall mindset of educators (surveys), a
+  shift to a more mindful school culture (interviews, reflection), educators
+  engaged in seeking more information and interacting with the Pedagogics
+  community (Path 2 Expertise metrics), and the achievement of personal goals.
+  Overall effectiveness of our pilot will result in a positive net promoter
+  score.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Network/relationship support
+  - Quality improvement research
+  - Social Media Strategies
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/mindset-reset-shifting-school-culture-coaching-educators-in-mindful-instruction-and-practice/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5938228555741-team91.png
 organization_name: Pedagogics Coaching Group

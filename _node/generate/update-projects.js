@@ -231,7 +231,6 @@ const attributes = [
 
  'impact_metrics',
  'make_la_great',
- 'project_proposal_description',
  'project_areas',
  'project_proposal_mobilize',
  'project_proposal_best_place',
@@ -314,11 +313,57 @@ const attributes = [
   "Describe in greater detail how you will make LA the best place to connect.",
   "Describe in greater detail how you will make LA the healthiest place to live:",
   "Please explain how you will evaluate your work.",
-  "How can the LA2050 community and other stakeholders help your proposal succeed?",
+  // "How can the LA2050 community and other stakeholders help your proposal succeed?",
 
-// '2016': 
+// '2016':
+  'project_is_collaboration',
+  'project_collaborators',
+  'Are any other organizations collaborating on this proposal?',
+  'project_proposal_description',
+  'Please describe your project proposal.',
+  'category_metrics',
+  'Which metrics will your proposal impact?​',
+  'category_other',
+  'Will your proposal impact any other LA2050 goal categories?',
+  'project_areas',
+  'In what areas of Los Angeles will you be directly working?',
+  'project_proposal_best_place',
+  'Describe in greater detail how your proposal will make LA the best place.',
+  'project_measure',
+  'Please explain how you will define and measure success for your project.​',
+  'project_proposal_help',
+  'How can the LA2050 community and other stakeholders help your proposal succeed?',
 
 // '2018': 
+ 'project_is_collaboration',
+ "Are any other organizations collaborating on this proposal?",
+ 'project_collaborators',
+ "Are any other organizations collaborating on this proposal?",
+ 'project_proposal_description',
+ "Please describe the activation your organization seeks to launch.",
+ 'category_metrics',
+ "Please describe the activation your organization seeks to launch.",
+ 'project_proposal_impact',
+ "Which of metrics will your activation impact?​",
+ 'category_other',
+ "Will your proposal impact any other LA2050 goal categories?",
+ 'project_areas',
+ "In what areas of Los Angeles will you be directly working?",
+ 'project_proposal_mobilize',
+ "How will your activation mobilize Angelenos?",
+ 'project_proposal_best_place',
+ "Describe in greater detail how your activation will make LA the best place?",
+ 'project_proposal_engage',
+ "How will your activation engage Angelenos to make LA the best place?",
+ 'project_measure',
+ "Please explain how you will define and measure success for your activation.​",
+ 'project_five_years',
+ "Where do you hope this activation or your organization will be in five years?",
+ 'project_proposal_help',
+ "How can the LA2050 community and other stakeholders help your proposal succeed?",
+
+
+
  'Please describe the activation your organization seeks to launch.',
  'Describe in greater detail how your activation will make LA the best place?',
  'How will your activation engage Angelenos to make LA the best place',
@@ -1525,45 +1570,111 @@ function processFile(filename) {
   //   }
   // }
 
-  let projectAnswerMap2014 = {
-    // "Please describe yourself": "Please describe yourself",
-    "one_sentence_project": "In one sentence, please describe your idea or project.",
-    "one_sentence_org": "In one sentence, please describe your idea or project.",
-    // "Does your project impact Los Angeles County?",
-    // "Which area(s) of LA does your project benefit?",
-    "more_detail": "What is your idea/project in more detail?",
-    "implement": "What will you do to implement this idea/project?",
-    "impact_learn": "How will your idea/project help make LA the best place to LEARN today? In 2050?",
-    "impact_create": "How will your idea/project help make LA the best place to CREATE today? In 2050?",
-    "impact_play": "How will your idea/project help make LA the best place to PLAY today? In 2050?",
-    "impact_connect": "How will your idea/project help make LA the best place to CONNECT today? In 2050?",
-    "impact_live": "How will your idea/project help make LA the healthiest place to LIVE today? In 2050?",
-    "who_benefit": "Whom will your project benefit?",
-    "collaboration": "Please identify any partners or collaborators who will work with you on this project.",
-    "partners_collaboration": "Please identify any partners or collaborators who will work with you on this project.",
-    // "How will your project impact the LA2050 “Learn” metrics?",
-    // "How will your project impact the LA2050 “Create” metrics?",
-    // "How will your project impact the LA2050 “Play” metrics?",
-    // "How will your project impact the LA2050 “Connect” metrics?",
-    // "How will your project impact the LA2050 “Live” metrics?",
-    "impact_metrics": "Please elaborate on how your project will impact the above metrics.",
-    "evaluate": "Please explain how you will evaluate your project.",
-    "two_lessons": "What two lessons have informed your solution or project?",
-    "achievable_goal": "Explain how implementing your project within the next twelve months is an achievable goal.",
-    "major_challenges": "Please list at least two major barriers/challenges you anticipate. What is your strategy for ensuring a successful implementation?",
-    // "What resources does your project need?",
+  // let projectAnswerMap2014 = {
+  //   // "Please describe yourself": "Please describe yourself",
+  //   "one_sentence_project": "In one sentence, please describe your idea or project.",
+  //   "one_sentence_org": "In one sentence, please describe your idea or project.",
+  //   // "Does your project impact Los Angeles County?",
+  //   // "Which area(s) of LA does your project benefit?",
+  //   "more_detail": "What is your idea/project in more detail?",
+  //   "implement": "What will you do to implement this idea/project?",
+  //   "impact_learn": "How will your idea/project help make LA the best place to LEARN today? In 2050?",
+  //   "impact_create": "How will your idea/project help make LA the best place to CREATE today? In 2050?",
+  //   "impact_play": "How will your idea/project help make LA the best place to PLAY today? In 2050?",
+  //   "impact_connect": "How will your idea/project help make LA the best place to CONNECT today? In 2050?",
+  //   "impact_live": "How will your idea/project help make LA the healthiest place to LIVE today? In 2050?",
+  //   "who_benefit": "Whom will your project benefit?",
+  //   "collaboration": "Please identify any partners or collaborators who will work with you on this project.",
+  //   "partners_collaboration": "Please identify any partners or collaborators who will work with you on this project.",
+  //   // "How will your project impact the LA2050 “Learn” metrics?",
+  //   // "How will your project impact the LA2050 “Create” metrics?",
+  //   // "How will your project impact the LA2050 “Play” metrics?",
+  //   // "How will your project impact the LA2050 “Connect” metrics?",
+  //   // "How will your project impact the LA2050 “Live” metrics?",
+  //   "impact_metrics": "Please elaborate on how your project will impact the above metrics.",
+  //   "evaluate": "Please explain how you will evaluate your project.",
+  //   "two_lessons": "What two lessons have informed your solution or project?",
+  //   "achievable_goal": "Explain how implementing your project within the next twelve months is an achievable goal.",
+  //   "major_challenges": "Please list at least two major barriers/challenges you anticipate. What is your strategy for ensuring a successful implementation?",
+  //   // "What resources does your project need?",
+  // }
+
+  // if (data.yaml.year_submitted == 2014) {
+  //   for (let prop in projectAnswerMap2014) {
+  //     if (projectAnswerMap2014.hasOwnProperty(prop)) {
+  //       if (data.yaml[prop]) {
+  //         data.yaml[projectAnswerMap2014[prop]] = data.yaml[prop]
+  //         delete data.yaml[prop]
+  //       }
+  //     }
+  //   }
+  // }
+
+  // let projectAnswerMap2016 = {
+  //   'project_collaborators': 'Are any other organizations collaborating on this proposal?',
+  //   'project_proposal_description': 'Please describe your project proposal.',
+  //   'category_metrics': 'Which metrics will your proposal impact?​',
+  //   'project_proposal_impact': 'Which metrics will your proposal impact?​',
+  //   'category_other': 'Will your proposal impact any other LA2050 goal categories?',
+  //   'project_areas': 'In what areas of Los Angeles will you be directly working?',
+  //   'project_proposal_best_place': 'Describe in greater detail how your proposal will make LA the best place.',
+  //   'project_measure': 'Please explain how you will define and measure success for your project.​',
+  //   'project_proposal_help': 'How can the LA2050 community and other stakeholders help your proposal succeed?'
+  // }
+
+  // if (data.yaml.year_submitted == 2016) {
+
+  //   if (data.yaml["project_is_collaboration"] == "No") {
+  //     data.yaml["project_collaborators"] = ""
+  //   }
+  //   delete data.yaml["project_is_collaboration"]
+  //   delete data.yaml["project_impact"]
+  //   delete data.yaml.project_description
+
+  //   for (let prop in projectAnswerMap2016) {
+  //     if (projectAnswerMap2016.hasOwnProperty(prop)) {
+  //       if (data.yaml[prop] !== undefined) {
+  //         data.yaml[projectAnswerMap2016[prop]] = data.yaml[prop]
+  //         delete data.yaml[prop]
+  //       }
+  //     }
+  //   }
+  // }
+
+
+  let projectAnswerMap2018 = {
+   'project_collaborators': "Are any other organizations collaborating on this proposal?",
+   'project_proposal_description': "Please describe the activation your organization seeks to launch.",
+   'category_metrics': "Please describe the activation your organization seeks to launch.",
+   'project_proposal_impact': "Which of metrics will your activation impact?​",
+   'category_other': "Will your proposal impact any other LA2050 goal categories?",
+   'project_areas': "In what areas of Los Angeles will you be directly working?",
+   'project_proposal_mobilize': "How will your activation mobilize Angelenos?",
+   'project_proposal_best_place': "Describe in greater detail how your activation will make LA the best place?",
+   'project_proposal_engage': "How will your activation engage Angelenos to make LA the best place?",
+   'project_measure': "Please explain how you will define and measure success for your activation.​",
+   'project_five_years': "Where do you hope this activation or your organization will be in five years?",
+   'project_proposal_help': "How can the LA2050 community and other stakeholders help your proposal succeed?",
   }
 
-  if (data.yaml.year_submitted == 2014) {
-    for (let prop in projectAnswerMap2014) {
-      if (projectAnswerMap2014.hasOwnProperty(prop)) {
+  if (data.yaml.year_submitted == 2018) {
+
+    if (data.yaml["project_is_collaboration"] == "No") {
+      data.yaml["project_collaborators"] = ""
+    }
+    delete data.yaml["project_is_collaboration"]
+
+    for (let prop in projectAnswerMap2018) {
+      if (projectAnswerMap2018.hasOwnProperty(prop)) {
         if (data.yaml[prop]) {
-          data.yaml[projectAnswerMap2014[prop]] = data.yaml[prop]
+          data.yaml[projectAnswerMap2018[prop]] = data.yaml[prop]
           delete data.yaml[prop]
         }
       }
     }
   }
+
+
 
   saveMarkdown(filename, data)
 }

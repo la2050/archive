@@ -14,65 +14,27 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0680094165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/PsctXfdIX5A?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   The Nature Conservancy, City of Los Angeles Department of Recreation and
   Parks, and Los Angeles Parks Foundation.
-project_measure: >-
-  The success of the Grown in LA Outdoor Urban Laboratory will be defined and
-  measured by the following: the completion of a fully-functional propagation
-  and research facility, which will be measured by the re-purposing of existing
-  materials from the old nursery site when possible, the incorporation of
-  locally-sourced and/or environmentally-responsible materials when appropriate,
-  and the use of water- and energy-efficiency systems; the development and
-  execution of cutting-edge urban ecological research, which will be measured by
-  the number of research projects and their practicality of application in Los
-  Angeles; the contribution of plant material to local restoration efforts,
-  which will be measured by the number of plants propagated and installed in
-  local Los Angeles water-wise and urban restoration projects; and the number of
-  people who engage with the LAb through volunteer and research project
-  opportunities as well as through educational programming.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles
-  - 'Education/training '
-  - Technical infrastructure (computers
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-  - N/A
-project_description: >-
+Please describe your project proposal.: >-
   Grown in LA will work to reinvigorate a relic nursery in the heart of LA’s
   largest public space - Griffith Park! This project will convert an
   underutilized plot of land into an outdoor urban laboratory that will grow
   climate-appropriate plants for public parks and LA River restoration projects;
   conduct cutting-edge research on urban ecology; and engage Angelenos through
   educational opportunities.
-project_impact: >-
-  ["Waterways","Exposure to air toxins","Self-sufficiency","Local
-  water","Resilient communities","Tree canopy cover"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Waterways
   - Exposure to air toxins
   - Self-sufficiency
   - Local water
   - Resilient communities
   - Tree canopy cover
-project_proposal_description: >-
-  Grown in LA will work to reinvigorate a relic nursery in the heart of LA’s
-  largest public space - Griffith Park! This project will convert an
-  underutilized plot of land into an outdoor urban laboratory that will grow
-  climate-appropriate plants for public parks and LA River restoration projects;
-  conduct cutting-edge research on urban ecology; and engage Angelenos through
-  educational opportunities.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - City of Los Angeles
   - N/A
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   In the coming decades, millions of native plants will be needed for
   restoration and urban greening projects along Los Angeles’ waterways, public
   open spaces, and private properties—a supply that does not currently exist in
@@ -119,6 +81,33 @@ project_proposal_best_place: >-
   model and promote healthier habitats in LA that are livable for plants,
   wildlife, and Angelenos--ultimately transforming our region into a metropolis
   that works in harmony with Mother Nature.
+Please explain how you will define and measure success for your project.​: >-
+  The success of the Grown in LA Outdoor Urban Laboratory will be defined and
+  measured by the following: the completion of a fully-functional propagation
+  and research facility, which will be measured by the re-purposing of existing
+  materials from the old nursery site when possible, the incorporation of
+  locally-sourced and/or environmentally-responsible materials when appropriate,
+  and the use of water- and energy-efficiency systems; the development and
+  execution of cutting-edge urban ecological research, which will be measured by
+  the number of research projects and their practicality of application in Los
+  Angeles; the contribution of plant material to local restoration efforts,
+  which will be measured by the number of plants propagated and installed in
+  local Los Angeles water-wise and urban restoration projects; and the number of
+  people who engage with the LAb through volunteer and research project
+  opportunities as well as through educational programming.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - 'Education/training '
+  - Technical infrastructure (computers
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
+  - N/A
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/creating-mother-natures-metropolis/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0680094165741-team91.jpg
 organization_name: Grown in LA

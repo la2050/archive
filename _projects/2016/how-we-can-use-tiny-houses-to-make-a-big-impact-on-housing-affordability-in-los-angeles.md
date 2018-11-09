@@ -16,61 +16,22 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4867649955741-team91.jpg
 project_video: 'https://www.youtube.com/embed/sKs_VJT3Xr0?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: 'LATCH Collective, Makes A Village, LLC'
-project_measure: >-
-  1) SUCCESS IS LA County residents developing homebuilding knowledge and
-  skills. THIS LOOKS LIKE 300+ hours of home building labor; 12+ workshops; 50+
-  participants trained in shop safety; 80%+ of membership holders feel they’ve
-  gained the skills and confidence to start their own projects; and 80%+
-  individuals in, or desiring to enter, the homebuilding/related industry feel
-  their experience with LATCH is beneficial to their resume or a future
-  interview. 2) SUCCESS IS LATCH becomes valued as a home-building resource
-  center by LA County residents. THIS LOOKS LIKE 100+ Community memberships; 12+
-  Builder Memberships; 20+ Partner members; 10,000+ visits to LATCH online
-  resource library; 100+ tool rentals through Tool Share Library; 50+ hours of
-  1-1 consultation; 10+ municipal leaders visit LATCH; and 80% of partner
-  members receive at least 1 client as from LATCH. 3) SUCCESS IS increase in
-  self-sufficient homeowners. THIS LOOKS LIKE 24+ homes built at LATCH; 12+
-  Veterans sponsored through Hammer & Heart program; 5+ traditional (non-tiny)
-  homeowners support their mortgage payment through income from the
-  addition/renovation of an SDU with support of LATCH. 4) SUCCESS IS laying the
-  foundation for a permanently affordable village of owner occupied housing.
-  THIS LOOKS LIKE PMF purchase of a site to develop a Tiny House village
-  demonstration. 5) SUCCESS IS previous strangers connecting and willfully
-  becoming neighbors. THIS LOOKS LIKE... Formation of housing cooperative.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles
-  - 'Education/training '
-  - Technical infrastructure (computers
-  - Community outreach
-project_description: >-
+Are any other organizations collaborating on this proposal?: 'LATCH Collective, Makes A Village, LLC'
+Please describe your project proposal.: >-
   Makes a Village, LATCH Collective and the Patrick McCaffrey Foundation are
   collaborating to demonstrate how to use tiny homes to create
   affordable-by-design housing and increase self-sufficiency in Los Angeles.
   With $100,000, we can take 5 important capacity-building steps for
   implementing our approach.
-project_impact: >-
-  ["Housing affordability","Self-sufficiency","Resilient
-  communities","Homelessness"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Housing affordability
   - Self-sufficiency
   - Resilient communities
   - Homelessness
-project_proposal_description: >-
-  Makes a Village, LATCH Collective and the Patrick McCaffrey Foundation are
-  collaborating to demonstrate how to use tiny homes to create
-  affordable-by-design housing and increase self-sufficiency in Los Angeles.
-  With $100,000, we can take 5 important capacity-building steps for
-  implementing our approach.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
   - Locations of LATCH & Makes a Village are TBD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Our proposal supports Los Angeles in its goal of becoming housing secure,
   promoting self-sufficiency, encouraging resilient communities, and preventing
   further growth of homelessness, by enabling owner-built, affordable-by-design
@@ -118,6 +79,35 @@ project_proposal_best_place: >-
   will allow LA residents an opportunity to work together to overcome high costs
   of living and participate meaningfully in the development and management of
   each housing community.
+Please explain how you will define and measure success for your project.​: >-
+  1) SUCCESS IS LA County residents developing homebuilding knowledge and
+  skills. THIS LOOKS LIKE 300+ hours of home building labor; 12+ workshops; 50+
+  participants trained in shop safety; 80%+ of membership holders feel they’ve
+  gained the skills and confidence to start their own projects; and 80%+
+  individuals in, or desiring to enter, the homebuilding/related industry feel
+  their experience with LATCH is beneficial to their resume or a future
+  interview. 2) SUCCESS IS LATCH becomes valued as a home-building resource
+  center by LA County residents. THIS LOOKS LIKE 100+ Community memberships; 12+
+  Builder Memberships; 20+ Partner members; 10,000+ visits to LATCH online
+  resource library; 100+ tool rentals through Tool Share Library; 50+ hours of
+  1-1 consultation; 10+ municipal leaders visit LATCH; and 80% of partner
+  members receive at least 1 client as from LATCH. 3) SUCCESS IS increase in
+  self-sufficient homeowners. THIS LOOKS LIKE 24+ homes built at LATCH; 12+
+  Veterans sponsored through Hammer & Heart program; 5+ traditional (non-tiny)
+  homeowners support their mortgage payment through income from the
+  addition/renovation of an SDU with support of LATCH. 4) SUCCESS IS laying the
+  foundation for a permanently affordable village of owner occupied housing.
+  THIS LOOKS LIKE PMF purchase of a site to develop a Tiny House village
+  demonstration. 5) SUCCESS IS previous strangers connecting and willfully
+  becoming neighbors. THIS LOOKS LIKE... Formation of housing cooperative.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - 'Education/training '
+  - Technical infrastructure (computers
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/how-we-can-use-tiny-houses-to-make-a-big-impact-on-housing-affordability-in-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4867649955741-team91.jpg
 organization_name: Patrick McCaffrey Foundation

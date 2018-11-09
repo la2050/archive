@@ -14,52 +14,10 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3892536625741-team89.jpg
 project_video: 'https://www.youtube.com/embed/ym0IsfhUDW8?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   AltaSea at the Port of Los Angeles, Ocean Exploration Trust, Los Angeles
   Maritime Institute, Catalina Sea Ranch, Blue Robotics
-project_measure: >-
-  Our long term measure of defining success will be that students grow into
-  champions for a sustainable ocean and planet.  In addition, our goal is that
-  students increase their participation in STEM classes in middle and high
-  school, attending college, and ultimately choose careers in STEM sectors.
-  AltaSea is in the process of developing a tracking system that will allow us
-  to keep students engaged with the network.  AltaSea’s 2016 partnership with
-  OET is being independently evaluated.  
-
-
-  Currently, the AltaSea network relies on internal evaluations to measure our
-  short term successes. Some indicators of success are:
-
-
-  * When youth discover abilities they did not know they possess and realize
-  they are capable of achieving anything in life through hard work and
-  determination.
-
-  * When at-risk students realize what they are learning in the classroom has
-  'real world' significance and opportunities for a 'better life' abound at
-  shore and at sea.
-
-  * When students make an emotional connection to learning through exploring the
-  ocean and develop a love for the ocean and life-long learning.
-
-  * When under-performing students' grades improve and students stay in school
-  and pursue STEM-related careers as a result of their participation in our
-  programs or Youth Crew.
-
-  * When our community becomes more aware of the preciousness of our local
-  waters and threats to marine life, and develop daily 'good stewardship' habits
-  to preserve and conserve the oceans entrusted to us.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   Using cutting-edge blue technology and state of the art ocean research,
   AltaSea’s STEM network provides ocean-based programs to middle school students
   at the LA Waterfront. Through hands-on exploration of the ocean, students will
@@ -67,28 +25,17 @@ project_description: >-
   challenges and ultimately to see science/STEM careers as an option. Our long
   term goal is to motivate our youth to be 21st century champions for a
   sustainable ocean.
-project_impact: >-
-  ["College matriculation rates","District-wide graduation rates","Proficiency
-  in English and Language Arts and Math","Student education pipeline"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College matriculation rates
   - District-wide graduation rates
   - Proficiency in English and Language Arts and Math
   - Student education pipeline
-project_proposal_description: >-
-  Using cutting-edge blue technology and state of the art ocean research,
-  AltaSea’s STEM network provides ocean-based programs to middle school students
-  at the LA Waterfront. Through hands-on exploration of the ocean, students will
-  be empowered to be part of the solution to the planet’s sustainability
-  challenges and ultimately to see science/STEM careers as an option. Our long
-  term goal is to motivate our youth to be 21st century champions for a
-  sustainable ocean.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South LA
   - South Bay
   - Gateway Cities
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   AltaSea and our partners, Blue Robotics (BR), Catalina Sea Ranch (CSR), Los
   Angeles Maritime Institute (LAMI) and Ocean Exploration Trust (OET), introduce
   students to ocean exploration, technologies and sciences. Students have access
@@ -145,6 +92,47 @@ project_proposal_best_place: >-
   our planet's extraordinary ocean. Visits to AltaSea and the LA Waterfront
   ignite a lifelong passion and curiosity about the ocean, motivating this
   generation to be guardians for a sustainable future.
+Please explain how you will define and measure success for your project.​: >-
+  Our long term measure of defining success will be that students grow into
+  champions for a sustainable ocean and planet.  In addition, our goal is that
+  students increase their participation in STEM classes in middle and high
+  school, attending college, and ultimately choose careers in STEM sectors.
+  AltaSea is in the process of developing a tracking system that will allow us
+  to keep students engaged with the network.  AltaSea’s 2016 partnership with
+  OET is being independently evaluated.  
+
+
+  Currently, the AltaSea network relies on internal evaluations to measure our
+  short term successes. Some indicators of success are:
+
+
+  * When youth discover abilities they did not know they possess and realize
+  they are capable of achieving anything in life through hard work and
+  determination.
+
+  * When at-risk students realize what they are learning in the classroom has
+  'real world' significance and opportunities for a 'better life' abound at
+  shore and at sea.
+
+  * When students make an emotional connection to learning through exploring the
+  ocean and develop a love for the ocean and life-long learning.
+
+  * When under-performing students' grades improve and students stay in school
+  and pursue STEM-related careers as a result of their participation in our
+  programs or Youth Crew.
+
+  * When our community becomes more aware of the preciousness of our local
+  waters and threats to marine life, and develop daily 'good stewardship' habits
+  to preserve and conserve the oceans entrusted to us.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/altasea-where-stem-meets-the-ocean/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3892536625741-team89.jpg
 organization_name: AltaSea at the Port of Los Angeles

@@ -15,44 +15,10 @@ project_summary: >-
 project_image: >-
   https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/33962704_1968321119845978_1971477352793767936_n.png?_nc_cat=104&oh=2e94ad0162e05bb4d9af5a060a926c41&oe=5C4A2292
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Investing in Place - lead applicant, Team Friday, USC Program for Regional and
   Environmental Equity (PERE), Impact Hub LA
-project_measure: >-
-  There are over 10 million people in LA County. When Metro was creating the
-  expenditure plan for Measure M (LA County’s transportation ballot measure in
-  November), about 48,000 people — or less than half a percent of the total
-  population — was engaged in the process. Our goal is to increase this level of
-  engagement by, most importantly, directly working with and mobilizing the
-  people most affected by our transportation decisions — these include our most
-  vulnerable populations like youth, students, older adults, and individuals
-  with disabilities.
-
-
-  Our success will be measured by three metrics: 
-
-
-  1) Number of new organic viewers, followers, and engagements on social media.
-  Our target goal is: 1,000 new followers.
-
-
-  2) Number of individuals and organizations we recruit and mobilize through
-  letter writing campaigns, public comment letters and testimonies, petition
-  signatures, and meetings with legislators and their staff. Our target goal is:
-  cultivating and sustaining a leadership circle of more than  25 new
-  individuals and 5 new organizations.
-
-
-  3) Number of advocacy meetings with newly cultivate leaders and elected
-  officials and their staff. Target goal: At least 10 meetings total.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   In Los Angeles, like many major metropolitan areas, you can’t get ahead if you
   can’t get around. Our transportation system — our roads, sidewalks, buses,
   trains, bikeways — are complex and more interconnected than people think. We
@@ -60,12 +26,7 @@ project_description: >-
   transportation system — from how it’s funded and who makes the decisions to
   who depends on our buses and trains as their connection lifeline — and what we
   can do to make it better for all.
-project_impact: >-
-  ["Social & emotional support","Government responsiveness to residents’
-  needs","Travel time to work","Public transit riders","Transit-accessible
-  housing and employment (the share of housing units and percentage of jobs that
-  are located within a half-mile of transit)"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Government responsiveness to residents’ needs
   - Travel time to work
@@ -73,17 +34,9 @@ project_proposal_impact:
   - >-
     Transit-accessible housing and employment (the share of housing units and
     percentage of jobs that are located within a half-mile of transit)
-project_proposal_description: >-
-  In Los Angeles, like many major metropolitan areas, you can’t get ahead if you
-  can’t get around. Our transportation system — our roads, sidewalks, buses,
-  trains, bikeways — are complex and more interconnected than people think. We
-  will spark a series of discussions and online videos that decipher our
-  transportation system — from how it’s funded and who makes the decisions to
-  who depends on our buses and trains as their connection lifeline — and what we
-  can do to make it better for all.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   We formed Investing in Place on January 2015 to bring together businesses,
   public agencies, philanthropists, researchers, and community organizations to
   help find solutions to improving quality of life for all, especially
@@ -144,6 +97,39 @@ project_proposal_best_place: >-
   Screening event at Impact Hub LA. 
 
   All accompanied by communications & advocacy campaign.
+Please explain how you will define and measure success for your project.​: >-
+  There are over 10 million people in LA County. When Metro was creating the
+  expenditure plan for Measure M (LA County’s transportation ballot measure in
+  November), about 48,000 people — or less than half a percent of the total
+  population — was engaged in the process. Our goal is to increase this level of
+  engagement by, most importantly, directly working with and mobilizing the
+  people most affected by our transportation decisions — these include our most
+  vulnerable populations like youth, students, older adults, and individuals
+  with disabilities.
+
+
+  Our success will be measured by three metrics: 
+
+
+  1) Number of new organic viewers, followers, and engagements on social media.
+  Our target goal is: 1,000 new followers.
+
+
+  2) Number of individuals and organizations we recruit and mobilize through
+  letter writing campaigns, public comment letters and testimonies, petition
+  signatures, and meetings with legislators and their staff. Our target goal is:
+  cultivating and sustaining a leadership circle of more than  25 new
+  individuals and 5 new organizations.
+
+
+  3) Number of advocacy meetings with newly cultivate leaders and elected
+  officials and their staff. Target goal: At least 10 meetings total.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/you-cant-get-ahead-if-you-cant-get-around-stories-research-on-howweroll/scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/33962704_1968321119845978_1971477352793767936_n.png
 organization_name: Investing in Place

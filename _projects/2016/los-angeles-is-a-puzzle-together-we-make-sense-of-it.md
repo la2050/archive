@@ -15,50 +15,18 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4340166065741-team90.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: USC; Huntington Library; LAPL
-project_measure: >-
-  LASA's definition of success is twofold. First, LASA seeks to introduce youth
-  to the complexities of LA infrastructure. Second, LASA seeks to empower youth
-  to become problem-solvers and agents of change.
-
-
-  LASA measures success via:
-
-  * Number of students participating and number applying;
-
-  * Positive written feedback from students, teachers, and speakers. 
-
-  * Students' knowledge of the aspects of LA infrastructure and ability to frame
-  issues they plan to address moving forward;
-   * Further, by creating the alumni database, LASA will be able to track, foster, and celebrate the change LASA graduates bring to LA in concrete terms.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: USC; Huntington Library; LAPL
+Please describe your project proposal.: >-
   LASA proposes to expand its learning activities by investing in greater
   cohesion amongst our students, easing transportation concerns, and creating
   and sustaining our community of alumni to create change in LA. LASA plans to
   create a comprehensive database of current students and alumni to capture
   feedback after each session as well as feedback from alumni who can articulate
   how LASA changed their career or study trajectories.
-project_impact: '["College matriculation rates","District-wide graduation rates"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College matriculation rates
   - District-wide graduation rates
-project_proposal_description: >-
-  LASA proposes to expand its learning activities by investing in greater
-  cohesion amongst our students, easing transportation concerns, and creating
-  and sustaining our community of alumni to create change in LA. LASA plans to
-  create a comprehensive database of current students and alumni to capture
-  feedback after each session as well as feedback from alumni who can articulate
-  how LASA changed their career or study trajectories.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -70,7 +38,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Designed as a supplement to the regular school year, LASA will make greater
   Los Angeles the best place to learn by providing an intensive introduction to
   the infrastructure and institutions of greater Los Angeles for high school
@@ -106,6 +74,29 @@ project_proposal_best_place: >-
   Our hope is that, over time, LASA will change the lives and career paths of
   hundreds of high school students in the region and will become an agent of
   change and community building throughout Los Angeles.
+Please explain how you will define and measure success for your project.​: >-
+  LASA's definition of success is twofold. First, LASA seeks to introduce youth
+  to the complexities of LA infrastructure. Second, LASA seeks to empower youth
+  to become problem-solvers and agents of change.
+
+
+  LASA measures success via:
+
+  * Number of students participating and number applying;
+
+  * Positive written feedback from students, teachers, and speakers. 
+
+  * Students' knowledge of the aspects of LA infrastructure and ability to frame
+  issues they plan to address moving forward;
+   * Further, by creating the alumni database, LASA will be able to track, foster, and celebrate the change LASA graduates bring to LA in concrete terms.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/los-angeles-is-a-puzzle-together-we-make-sense-of-it/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4340166065741-team90.jpg
 organization_name: Los Angeles Service Academy (LASA)

@@ -15,59 +15,28 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6473062183741-team90.png
 project_video: 'https://player.vimeo.com/video/168583145?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: America Innovates Foundation
-project_measure: >-
-  We will track our sales of the journals, 
-
-  We will look at how much engagement we have on our social media. 
-
-  We will use Google Analytics to measure conversion and retention of our
-  members on our digital platform.
-
-  We track event turn out to the two live shows.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: America Innovates Foundation
+Please describe your project proposal.: >-
   This isn't about mental health--it's about transforming pain into creative
   expression. We will interview 40 artists on how they have transformed the pain
   of loss into art and produce the interviews into an interactive media art
   journal, complimented by two live music/art shows where Angelenos can engage
   in conversations surrounding grief, love and art while providing artists
   performances and open mic sharing of our journal entries.
-project_impact: >-
-  ["Social & emotional support","Cultural events","Public/open streets
-  gatherings","Rates of volunteerism","Residential segregation","Total number of
-  local social media friends and connections Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Public/open streets gatherings
   - Rates of volunteerism
   - Residential segregation
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  This isn't about mental health--it's about transforming pain into creative
-  expression. We will interview 40 artists on how they have transformed the pain
-  of loss into art and produce the interviews into an interactive media art
-  journal, complimented by two live music/art shows where Angelenos can engage
-  in conversations surrounding grief, love and art while providing artists
-  performances and open mic sharing of our journal entries.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
   - Westside
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   When people experience the pain of loss, they often hide emotions like
   depression, anger, and anxiety associated with loss for fear judgement and the
   mental health stigma. Grieving is often a tough, lonely process but necessary
@@ -111,6 +80,25 @@ project_proposal_best_place: >-
   wellness interest groups) who have an interest in how art and music can heal
   us. We also have a network of people America Innovates Foundation can bring in
   to curate talks on the link between social and emotional health and art.
+Please explain how you will define and measure success for your project.​: >-
+  We will track our sales of the journals, 
+
+  We will look at how much engagement we have on our social media. 
+
+  We will use Google Analytics to measure conversion and retention of our
+  members on our digital platform.
+
+  We track event turn out to the two live shows.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/the-love-story-interactive-art-journal-live-open-mic-show/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6473062183741-team90.png
 organization_name: 'The Love Story Media, Inc.'

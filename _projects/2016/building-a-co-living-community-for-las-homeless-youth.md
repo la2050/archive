@@ -15,8 +15,7 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7267442825741-team91.jpg
 project_video: 'https://www.youtube.com/embed/nzZIUSqsR-Y?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   'PodShare for Homeless Youth' would be serviced by one or more non-profit
   partners who would identify WHO stays, for WHAT duration of time, and HOW they
   can benefit from communal living., , The following organizations have
@@ -24,61 +23,7 @@ project_collaborators: >-
   Homeless Youth Partnership' (LA LGBT Center and Children's Hospital) and 
   County of Los Angeles, Department of Children and Family Services (75% of
   emancipated foster children experience homelessness).
-project_measure: >-
-  Over the years, we have seen many Podestrians move out of the pods as new
-  roommates at apartment buildings nearby. If we can create an open community of
-  like-minded individuals who live/work together, then maybe we can cultivate
-  supportive communities for homeless and recently emancipated youth. 
-
-
-  Short term success in launching this project will involve:
-
-
-  - Signing a lease for a 40 pod location, and building the pods and community
-  space.
-
-
-  - Seeking gift-in-kind sponsors for ongoing supplies.
-
-    — Signing partnership agreements with nonprofits regarding daily operations and staffing.
-
-  Long term success involves evaluating:
-
-
-  - The percentage of youth who transition from our program to longer term
-  housing.
-
-
-  - The number of individuals we can help find jobs at local hotels, motels, and
-  property management companies through our hospitality training. We will look
-  to existing organizations like the LA Kitchen and Homeboy Industries for key
-  metrics and milestones for job training and placement. 
-
-
-  - Our ability to secure additional and sustainable funding to lease, equip,
-  and staff this pilot location. 
-
-
-  - The location’s ability to foster communal living without conflict. The
-  strength of our screening process with be tested within the first few months
-  of the program, and we may need to reevaluate.
-
-
-  - Surveying clients and partners to identify which resources are most
-  beneficial, and how we can meet not only physical needs, but also encourage
-  creativity and growth.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles
-  - 'Education/training '
-  - Technical infrastructure (computers
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   PodShare will build a pilot program for transitional housing for Homeless
   Youth in Hollywood to host 40 individuals selected by partner organizations,
   for a period of up to six months while they seek long term housing. The
@@ -86,25 +31,14 @@ project_description: >-
   'maker's lab' for content creation, and hospitality job training with
   placement to PodShare and hotel service companies. Each youth pays a nominal
   fee and must either have or be actively seeking a job.
-project_impact: >-
-  ["Housing affordability","Self-sufficiency","Resilient
-  communities","Homelessness"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Housing affordability
   - Self-sufficiency
   - Resilient communities
   - Homelessness
-project_proposal_description: >-
-  PodShare will build a pilot program for transitional housing for Homeless
-  Youth in Hollywood to host 40 individuals selected by partner organizations,
-  for a period of up to six months while they seek long term housing. The
-  property will offer co-living pods for sleeping, shared co-ed amenities, a
-  'maker's lab' for content creation, and hospitality job training with
-  placement to PodShare and hotel service companies. Each youth pays a nominal
-  fee and must either have or be actively seeking a job.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   If LA wants to be the best place to LIVE, we need to offer more places to
   live. One solution to LA's homeless crisis is to build creative communities
   using vacant buildings and 'pods' as adaptive re-use of small spaces.
@@ -169,6 +103,60 @@ project_proposal_best_place: >-
   scale) so that the youth develop responsible fiscal habits. Fees can be offset
   through government subsidies, private donations, and possibly even housing
   vouchers.  The goal is to create authorship and autonomy.
+Please explain how you will define and measure success for your project.​: >-
+  Over the years, we have seen many Podestrians move out of the pods as new
+  roommates at apartment buildings nearby. If we can create an open community of
+  like-minded individuals who live/work together, then maybe we can cultivate
+  supportive communities for homeless and recently emancipated youth. 
+
+
+  Short term success in launching this project will involve:
+
+
+  - Signing a lease for a 40 pod location, and building the pods and community
+  space.
+
+
+  - Seeking gift-in-kind sponsors for ongoing supplies.
+
+    — Signing partnership agreements with nonprofits regarding daily operations and staffing.
+
+  Long term success involves evaluating:
+
+
+  - The percentage of youth who transition from our program to longer term
+  housing.
+
+
+  - The number of individuals we can help find jobs at local hotels, motels, and
+  property management companies through our hospitality training. We will look
+  to existing organizations like the LA Kitchen and Homeboy Industries for key
+  metrics and milestones for job training and placement. 
+
+
+  - Our ability to secure additional and sustainable funding to lease, equip,
+  and staff this pilot location. 
+
+
+  - The location’s ability to foster communal living without conflict. The
+  strength of our screening process with be tested within the first few months
+  of the program, and we may need to reevaluate.
+
+
+  - Surveying clients and partners to identify which resources are most
+  beneficial, and how we can meet not only physical needs, but also encourage
+  creativity and growth.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - 'Education/training '
+  - Technical infrastructure (computers
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/building-a-co-living-community-for-las-homeless-youth/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7267442825741-team91.jpg
 organization_name: PodShare

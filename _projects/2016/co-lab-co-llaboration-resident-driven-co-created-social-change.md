@@ -15,54 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5174397094741-team88.jpg
 project_video: 'https://www.youtube.com/embed/VqJoQqVJkWg?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None.
-project_measure: >-
-  SBCC is partnered with the UCLA Luskin School of Public Affairs for
-  evaluation, utilizing a tool known as the Protective Factors Survey. This tool
-  measure gains in social and emotional support. SBCC will measure success
-  utilizing the metrics set forth by LA2050’s Connect. They are:
-
-  Government responsiveness to Residents’ Needs
-
-  Co/Lab will be able to measure and convene both online and in-person forums to
-  connect local political representatives with residents convening dialogues on
-  neighborhood issues. We will be able to measure connection through
-  participation and engagement in these dialogues. 
-
-
-
-
-
-  Rates of Volunteerism 
-
-  This metric will be measured through participation in NAC, CFSK and iHeart
-  projects (i.e. cleanup events, senior center visits and tutoring/mentoring)
-  and CFSK project. 
-
-
-  Social Media Friends and Connections
-
-  This metric will be measured utilizing Facebook and Twitter analytics that
-  allow SBCC to monitor and track gains in connections (i.e. friends/followers)
-  across LA County. Connections will also be measured through tracking
-  engagement on the CFSK and SBCC’s website. We will also administer surveys
-  online to track participants connection to their neighbors, resources and
-  elected officials.  
-
-
-  Voting Rates
-
-  This metric will be measured through number of voter registration forms iHeart
-  volunteers collect during voter registration drives.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Co/Lab is an innovative response to the prevalence of top-down,
   institutionally-led social service programs. 
 
@@ -72,12 +26,7 @@ project_description: >-
   strategies, Co/Lab will empower residents to work alongside institutions to
   create & implement a county-wide projects mirroring the success of SBCC’s CFSK
   & iHeart Models.
-project_impact: >-
-  ["Social & emotional support","Cultural events","Public/open streets
-  gatherings","Government responsiveness to residents’ needs","Participation in
-  neighborhood councils","Rates of volunteerism","Total number of local social
-  media friends and connections Angelenos have","Voting rates"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Public/open streets gatherings
@@ -86,17 +35,7 @@ project_proposal_impact:
   - Rates of volunteerism
   - Total number of local social media friends and connections Angelenos have
   - Voting rates
-project_proposal_description: >-
-  Co/Lab is an innovative response to the prevalence of top-down,
-  institutionally-led social service programs. 
-
-  As the first initiative of its kind in LA County, & perhaps the country,
-  Co/Lab is designed to put power back into the hands of residents. By
-  leveraging SBCC’s capacity to mobilize Relationship-Based Organizing
-  strategies, Co/Lab will empower residents to work alongside institutions to
-  create & implement a county-wide projects mirroring the success of SBCC’s CFSK
-  & iHeart Models.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -107,7 +46,7 @@ project_areas:
   - Antelope Valley
   - County of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Low-income LA County residents are marginalized by top-down, “expert”
   consultants & institutionally-led programs. Traditional approaches to social
   services do not authentically connect & engage residents. Social service
@@ -165,6 +104,51 @@ project_proposal_best_place: >-
   county to be effective change agents. By placing Angelenos at the center of
   the solution design process, Co/Lab’s  approach will make LA a premier place
   to connect & live.
+Please explain how you will define and measure success for your project.​: >-
+  SBCC is partnered with the UCLA Luskin School of Public Affairs for
+  evaluation, utilizing a tool known as the Protective Factors Survey. This tool
+  measure gains in social and emotional support. SBCC will measure success
+  utilizing the metrics set forth by LA2050’s Connect. They are:
+
+  Government responsiveness to Residents’ Needs
+
+  Co/Lab will be able to measure and convene both online and in-person forums to
+  connect local political representatives with residents convening dialogues on
+  neighborhood issues. We will be able to measure connection through
+  participation and engagement in these dialogues. 
+
+
+
+
+
+  Rates of Volunteerism 
+
+  This metric will be measured through participation in NAC, CFSK and iHeart
+  projects (i.e. cleanup events, senior center visits and tutoring/mentoring)
+  and CFSK project. 
+
+
+  Social Media Friends and Connections
+
+  This metric will be measured utilizing Facebook and Twitter analytics that
+  allow SBCC to monitor and track gains in connections (i.e. friends/followers)
+  across LA County. Connections will also be measured through tracking
+  engagement on the CFSK and SBCC’s website. We will also administer surveys
+  online to track participants connection to their neighbors, resources and
+  elected officials.  
+
+
+  Voting Rates
+
+  This metric will be measured through number of voter registration forms iHeart
+  volunteers collect during voter registration drives.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/co-lab-co-llaboration-resident-driven-co-created-social-change/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5174397094741-team88.jpg
 organization_name: South Bay Center for Counseling (SBCC)

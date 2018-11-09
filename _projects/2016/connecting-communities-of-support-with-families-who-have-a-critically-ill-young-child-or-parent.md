@@ -17,51 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6154785996741-team91.jpg
 project_video: 'https://www.youtube.com/embed/pMW7_cxOs1s?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: >-
-  We collaborate with Children's Hospital Los Angeles and UCLA Mattel Children's
-  Hospital serving their families who are referred to us by their social
-  workers.  However, they do not collaborate with other nonprofits on
-  fundraising activities.
-project_measure: >-
-  We define success in two ways:
-
-  1) The number of families we are able to serve and meet all their needs and
-
-  2) Each family's review of how Here to Serve met their needs via survey at the
-  end of treatment.
-
-  As one family we served put it: “Here to Serve does not count success by
-  providing a lot of people with band aid solutions. Here to Serve comes through
-  during the deepest, darkest, most stressful time that a parent can face. When
-  a child is gravely ill, Here to Serve is there to help families bridge the gap
-  from heart ache and catastrophe to a new life which sadly doesn't always
-  include their child.” Leilani O'Dell
-
-
-  We survey our families asking about the services we provided, and the tangible
-  support we were able to give. Here to Serve has been named by Great Nonprofits
-  (www.greatnonprofits.org) as a 2014 Top-Rated Nonprofit as it appears on
-  Guidestar and we have received no less than 5 stars on EVERY review submitted.
-  What demonstrates our success most is how many of our families come out of
-  these difficult journeys emotionally, physically and financially healthy,
-  keeping their jobs and 75% give back, often volunteering at Here to Serve and
-  other nonprofits!
-
-
-  If we are able to continue our 5-star rating by our clients, keep caregivers
-  (parents) healthy, physically, emotionally and financially, employed and able
-  to give back (to Here to Serve or other nonprofits) after their journey with
-  their critically ill child or parent is over, we count that a measurable
-  success!
-project_proposal_help:
-  - 'Money '
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Because caregivers face a 63% increase in illness and death, represent 62% of
   all bankruptcies, and lose 25% productivity at work, Here to Serve CONNECTS
   and organizes people, businesses and other charities with families in crisis
@@ -69,22 +26,11 @@ project_description: >-
   communication and assistance with critical needs: meals, child, pet home care,
   respite, housekeeping, fundraising, and medical updates to avoid physical
   collapse of family and caregiver.
-project_impact: >-
-  ["Social & emotional support","Rates of volunteerism","Total number of local
-  social media friends and connections Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Rates of volunteerism
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  Because caregivers face a 63% increase in illness and death, represent 62% of
-  all bankruptcies, and lose 25% productivity at work, Here to Serve CONNECTS
-  and organizes people, businesses and other charities with families in crisis
-  to provide non-medical assistance. Here to Serve stands in the gap to provide
-  communication and assistance with critical needs: meals, child, pet home care,
-  respite, housekeeping, fundraising, and medical updates to avoid physical
-  collapse of family and caregiver.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -96,7 +42,7 @@ project_areas:
   - Antelope Valley
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Here to Serve believes that young families who face the life-threatening
   health crisis of a child or spouse should not be left to collapse under the
   strain of a health care system that treats physical wounds, but inflicts
@@ -144,6 +90,44 @@ project_proposal_best_place: >-
   LA is the BEST place to CONNECT and Here to Serve offers the only program and
   platform to do that when you have a young child or parent in medical crisis
   and you do not qualify for government assistance!
+Please explain how you will define and measure success for your project.​: >-
+  We define success in two ways:
+
+  1) The number of families we are able to serve and meet all their needs and
+
+  2) Each family's review of how Here to Serve met their needs via survey at the
+  end of treatment.
+
+  As one family we served put it: “Here to Serve does not count success by
+  providing a lot of people with band aid solutions. Here to Serve comes through
+  during the deepest, darkest, most stressful time that a parent can face. When
+  a child is gravely ill, Here to Serve is there to help families bridge the gap
+  from heart ache and catastrophe to a new life which sadly doesn't always
+  include their child.” Leilani O'Dell
+
+
+  We survey our families asking about the services we provided, and the tangible
+  support we were able to give. Here to Serve has been named by Great Nonprofits
+  (www.greatnonprofits.org) as a 2014 Top-Rated Nonprofit as it appears on
+  Guidestar and we have received no less than 5 stars on EVERY review submitted.
+  What demonstrates our success most is how many of our families come out of
+  these difficult journeys emotionally, physically and financially healthy,
+  keeping their jobs and 75% give back, often volunteering at Here to Serve and
+  other nonprofits!
+
+
+  If we are able to continue our 5-star rating by our clients, keep caregivers
+  (parents) healthy, physically, emotionally and financially, employed and able
+  to give back (to Here to Serve or other nonprofits) after their journey with
+  their critically ill child or parent is over, we count that a measurable
+  success!
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/connecting-communities-of-support-with-families-who-have-a-critically-ill-young-child-or-parent/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6154785996741-team91.jpg
 organization_name: 'Here to Serve, Inc'

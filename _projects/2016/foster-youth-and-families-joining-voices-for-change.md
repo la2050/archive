@@ -14,53 +14,20 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6395409023741-team88.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: Community Coalition
-project_measure: >-
-  Success will be measured by meeting our goals for Leadership Corps recruitment
-  and engagement. In addition, success will be measured by the extent to which
-  the Leadership Corps is able to contribute toward the implementation of policy
-  reforms. For example, the LA County Blue Ribbon Commission on Child Protection
-  recommended many areas of reform, but currently there is no sustained outside
-  pressure to push for implementation of those reforms. Homelessness is a big
-  issue for foster youth, and NFYI is bringing their voices to the Los Angeles
-  City Council to make sure they include foster youth in their plans to address
-  homelessness in LA. On the State level, several positive policies have been
-  signed by Governor Brown, but have not been implemented. NFYI organizers and
-  activists will organize campaigns in Los Angeles County to push for
-  implementation of a variety of positive policies that are already on the
-  books. Additional funds will also enable NFYI to establish a consulting
-  contract to track project progress and assess overall program effectiveness.
-project_proposal_help:
-  - 'Money '
-  - 'Staff '
-  - Publicity/awareness
-  - 'Community outreach '
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: Community Coalition
+Please describe your project proposal.: >-
   The foster care system needs to change. Families need support to care for
   their children, and children need to know that they are safe and loved no
   matter where they live. The people who know what needs to change are the ones
   who know the system best. NFYI/LA will recruit and train 100 foster youth and
   50 family members to advocate with policy makers for new approaches to
   transform the child welfare system.
-project_impact: >-
-  ["Social & emotional support","Government responsiveness to residents’
-  needs","Rates of volunteerism","Total number of local social media friends and
-  connections Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Government responsiveness to residents’ needs
   - Rates of volunteerism
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  The foster care system needs to change. Families need support to care for
-  their children, and children need to know that they are safe and loved no
-  matter where they live. The people who know what needs to change are the ones
-  who know the system best. NFYI/LA will recruit and train 100 foster youth and
-  50 family members to advocate with policy makers for new approaches to
-  transform the child welfare system.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -71,7 +38,7 @@ project_areas:
   - Gateway Cities
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   One of the youth in our LA Leadership Corps told us what a difference it would
   have made to her life if she had known that there were places where she could
   connect with other foster youth and organizations that were working to make
@@ -108,6 +75,27 @@ project_proposal_best_place: >-
   foundation of our work. By building on this foundation to create a massive
   grassroots movement for change, we can make LA County a model of how to
   transform our country’s child welfare system.
+Please explain how you will define and measure success for your project.​: >-
+  Success will be measured by meeting our goals for Leadership Corps recruitment
+  and engagement. In addition, success will be measured by the extent to which
+  the Leadership Corps is able to contribute toward the implementation of policy
+  reforms. For example, the LA County Blue Ribbon Commission on Child Protection
+  recommended many areas of reform, but currently there is no sustained outside
+  pressure to push for implementation of those reforms. Homelessness is a big
+  issue for foster youth, and NFYI is bringing their voices to the Los Angeles
+  City Council to make sure they include foster youth in their plans to address
+  homelessness in LA. On the State level, several positive policies have been
+  signed by Governor Brown, but have not been implemented. NFYI organizers and
+  activists will organize campaigns in Los Angeles County to push for
+  implementation of a variety of positive policies that are already on the
+  books. Additional funds will also enable NFYI to establish a consulting
+  contract to track project progress and assess overall program effectiveness.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - 'Staff '
+  - Publicity/awareness
+  - 'Community outreach '
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/foster-youth-and-families-joining-voices-for-change/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6395409023741-team88.jpg
 organization_name: National Foster Youth Institute

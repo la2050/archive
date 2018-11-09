@@ -11,50 +11,21 @@ project_summary: Community Safety through Women's Empowerment
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9273888445741-team90.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: 'All Saints Episcopal Church of Pasadena, IMPACT Personal Safety'
-project_measure: >-
-  Hold one program each quarter with a minimum of 8 participants per class
-
-  A 95% completion rate
-
-  Reduction in number of assaults on women, including domestic violence
-
-  Decrease in reports of violence in homeless shelters
-
-  City, state and county allocate funds to provide solutions to violence in
-  homeless and domestic violence shelters, and in the areas surrounding them
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: 'All Saints Episcopal Church of Pasadena, IMPACT Personal Safety'
+Please describe your project proposal.: >-
   For a community to be safe, everyone in the community needs to feel safe. We
   have to change the statistic of one in three women being assaulted in their
   lifetime, so we train women, specifically women who grew up in the mostly
   unsafe environment of foster care, that they can prevent violence and how to
   defend themselves when necessary.
-project_impact: >-
-  ["Self-sufficiency","Resilient communities","Prevalence of adverse childhood
-  experiences","Homelessness"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Self-sufficiency
   - Resilient communities
   - Prevalence of adverse childhood experiences
   - Homelessness
-project_proposal_description: >-
-  For a community to be safe, everyone in the community needs to feel safe. We
-  have to change the statistic of one in three women being assaulted in their
-  lifetime, so we train women, specifically women who grew up in the mostly
-  unsafe environment of foster care, that they can prevent violence and how to
-  defend themselves when necessary.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - San Gabriel Valley
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   When girls are emancipated from the foster care system, they often have no
   support system and have few, if any resources to navigate life as an
   independent adult. Statistics show that as many as a third of them will have
@@ -89,6 +60,25 @@ project_proposal_best_place: >-
   * Continue to explore the needs of young women emancipating from the foster
   care system and meet with this population and the agencies to identify and
   create solutions for these women and the communities in which they reside
+Please explain how you will define and measure success for your project.​: >-
+  Hold one program each quarter with a minimum of 8 participants per class
+
+  A 95% completion rate
+
+  Reduction in number of assaults on women, including domestic violence
+
+  Decrease in reports of violence in homeless shelters
+
+  City, state and county allocate funds to provide solutions to violence in
+  homeless and domestic violence shelters, and in the areas surrounding them
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/fostering-safe-communities/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9273888445741-team90.jpg
 organization_name: 50/50 Leadership

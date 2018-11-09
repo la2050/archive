@@ -17,9 +17,62 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3953804915741-team90.png
 project_video: 'https://www.youtube.com/embed/Dh_mEDo9vD8?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: N/A
-project_measure: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
+  SportUp directly impacts kids in Los Angeles County by making the programs
+  that they participate in more sustainable. We work with afterschool,
+  community, and athletic programs to help build capacity and engagement by
+  giving them a tool to collect and interpreting attendance data. We will
+  outreach to local programs and provide them with a platform and advisory
+  services that will allow them to leverage their resources to impact more
+  children throughout Los Angeles.
+Which metrics will your proposal impact?​:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+In what areas of Los Angeles will you be directly working?:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
+Describe in greater detail how your proposal will make LA the best place.: >-
+  SportUp directly impacts children in Los Angeles County by making the programs
+  that they participate in more sustainable. We are an activity management
+  platform that aggregates  attendance, engagement and participant data for
+  community organizations. Administrators of these community programs are able
+  to view their program data and filter it by gender and grade, and soon to be
+  ethnicity and socio economic status. These categories are imperative when
+  approaching foundations and other philanthropic sources.  The Advisory team
+  then consults with the program administration and coaches them on how to use
+  their data, network with funding sources, and advises them on how to improve
+  their programs. 
+
+
+  In addition, we have been working with our community and school partners to
+  research and  correlate the data of their programs, to student performance
+  metrics: GPAs, attendance/truancy, graduation, and discipline data. By
+  utilizing this data, we are empowering schools to be able to identify what
+  programs are having the greatest impact on their students. What our initial
+  research shows is that afterschool and athletic programs have measurable
+  impacts on these key academic indicators. Through our data we can help direct
+  funding (and help programs highlight their impact) to the programs that are
+  having the greatest impact on children in Los Angeles. 
+
+
+  Finally, we are showcasing our community programs through published articles,
+  pictures and short features that highlight them for our audience, as well as
+  create free content that our partners can use to showcase themselves to
+  philanthropic sources.
+Please explain how you will define and measure success for your project.​: >-
   Success for this project will be measured in terms of expanding the number of
   programs that use the SportUp platform to organize, communicate, and learn
   from their data. 
@@ -55,77 +108,11 @@ project_measure: >-
   philanthropic dollars. We will distribute a survey at the end of the year
   polling our partners to see how much money they were able to raise this year
   with data via SportUp, and how many hours SportUp saved them in efficiency.
-project_proposal_help:
+How can the LA2050 community and other stakeholders help your proposal succeed?:
   - 'Money '
   - Infrastructure (building/space/vehicles etc.)
   - 'Community outreach '
   - Network/relationship support
-project_description: >-
-  SportUp directly impacts kids in Los Angeles County by making the programs
-  that they participate in more sustainable. We work with afterschool,
-  community, and athletic programs to help build capacity and engagement by
-  giving them a tool to collect and interpreting attendance data. We will
-  outreach to local programs and provide them with a platform and advisory
-  services that will allow them to leverage their resources to impact more
-  children throughout Los Angeles.
-project_impact: >-
-  ["District-wide graduation rates","Proficiency in English and Language Arts
-  and Math","Suspension and expulsion rates","Truancy rates in elementary and
-  middle schools"]
-project_proposal_impact:
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Suspension and expulsion rates
-  - Truancy rates in elementary and middle schools
-project_proposal_description: >-
-  SportUp directly impacts kids in Los Angeles County by making the programs
-  that they participate in more sustainable. We work with afterschool,
-  community, and athletic programs to help build capacity and engagement by
-  giving them a tool to collect and interpreting attendance data. We will
-  outreach to local programs and provide them with a platform and advisory
-  services that will allow them to leverage their resources to impact more
-  children throughout Los Angeles.
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
-project_proposal_best_place: >-
-  SportUp directly impacts children in Los Angeles County by making the programs
-  that they participate in more sustainable. We are an activity management
-  platform that aggregates  attendance, engagement and participant data for
-  community organizations. Administrators of these community programs are able
-  to view their program data and filter it by gender and grade, and soon to be
-  ethnicity and socio economic status. These categories are imperative when
-  approaching foundations and other philanthropic sources.  The Advisory team
-  then consults with the program administration and coaches them on how to use
-  their data, network with funding sources, and advises them on how to improve
-  their programs. 
-
-
-  In addition, we have been working with our community and school partners to
-  research and  correlate the data of their programs, to student performance
-  metrics: GPAs, attendance/truancy, graduation, and discipline data. By
-  utilizing this data, we are empowering schools to be able to identify what
-  programs are having the greatest impact on their students. What our initial
-  research shows is that afterschool and athletic programs have measurable
-  impacts on these key academic indicators. Through our data we can help direct
-  funding (and help programs highlight their impact) to the programs that are
-  having the greatest impact on children in Los Angeles. 
-
-
-  Finally, we are showcasing our community programs through published articles,
-  pictures and short features that highlight them for our audience, as well as
-  create free content that our partners can use to showcase themselves to
-  philanthropic sources.
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/empowering-community-organizations-to-grow-through-logistics-and-data-analytics/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3953804915741-team90.png
 organization_name: SportUp

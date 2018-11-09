@@ -15,73 +15,20 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4065764555741-team91.jpg
 project_video: 'https://www.youtube.com/embed/sMiWY0aFpkk?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Our goals for this program are:
-
-
-  1. To digitize our existing analog collection of vintage and contemporary
-  stereoscopic images and videos, and to format that content for presentation
-  via the internet and via 3-D virtual reality viewers.
-
-
-  2. To conduct a series of classes, workshops and presentations which will
-  utilize the digitized media to teach the history of 3-D image creation, the
-  science behind stereoscopic imaging, and the techniques and methods of 3-D
-  content creation.
-
-
-  3. To have our students successfully create their own 3-D content in various
-  media - still photography, video, and virtual reality, and to present that
-  content to the community via the internet and at public events.
-
-
-  Our work will be directly evaluated by the public who engage in our
-  activities. The people who attend our classes, workshops and presentations
-  will be given the opportunity to provide feedback that will be used to shape
-  future programs.
-
-
-  The many works and media created by our students will be exhibited in various
-  public venues including art galleries, film festivals, and online via 3-D and
-  VR video streaming, where the Los Angeles community at large will be able to
-  see, experience, and comment.
-
-
-  Our internal evaluation will be based on measuring levels of continuing
-  engagement with the public, growth of class and workshop sizes, attendance
-  numbers at our events, and public demand for increased activities.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   3-D SPACE will implement an ongoing program of public presentations, classes
   and workshops in stereoscopic 3-D history and content creation, from 3-D
   photography and filmmaking to immersive virtual reality. These programs will
   include outreach to LA's underserved communities, and also specialized
   educational initiatives for LA's creative youth and senior populations.
-project_impact: '["Arts establishments","Employment in the creative industries"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Employment in the creative industries
-project_proposal_description: >-
-  3-D SPACE will implement an ongoing program of public presentations, classes
-  and workshops in stereoscopic 3-D history and content creation, from 3-D
-  photography and filmmaking to immersive virtual reality. These programs will
-  include outreach to LA's underserved communities, and also specialized
-  educational initiatives for LA's creative youth and senior populations.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - San Fernando Valley
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Our goals are to celebrate the work of many talented artists, photographers
   and filmmakers who have used the medium of 3-D as their creative tool, and to
   educate the public on the art and science of stereography, from it's analog
@@ -134,6 +81,51 @@ project_proposal_best_place: >-
   the growing numbers of LA residents who will pursue careers in the numerous
   fields that are rapidly implementing 3-D imagery, including entertainment,
   medicine, design, and education.
+Please explain how you will define and measure success for your project.​: >-
+  Our goals for this program are:
+
+
+  1. To digitize our existing analog collection of vintage and contemporary
+  stereoscopic images and videos, and to format that content for presentation
+  via the internet and via 3-D virtual reality viewers.
+
+
+  2. To conduct a series of classes, workshops and presentations which will
+  utilize the digitized media to teach the history of 3-D image creation, the
+  science behind stereoscopic imaging, and the techniques and methods of 3-D
+  content creation.
+
+
+  3. To have our students successfully create their own 3-D content in various
+  media - still photography, video, and virtual reality, and to present that
+  content to the community via the internet and at public events.
+
+
+  Our work will be directly evaluated by the public who engage in our
+  activities. The people who attend our classes, workshops and presentations
+  will be given the opportunity to provide feedback that will be used to shape
+  future programs.
+
+
+  The many works and media created by our students will be exhibited in various
+  public venues including art galleries, film festivals, and online via 3-D and
+  VR video streaming, where the Los Angeles community at large will be able to
+  see, experience, and comment.
+
+
+  Our internal evaluation will be based on measuring levels of continuing
+  engagement with the public, growth of class and workshop sizes, attendance
+  numbers at our events, and public demand for increased activities.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/3-d-space-teaches-3-d-image-creation-from-analog-photography-to-digital-virtual-reality/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4065764555741-team91.jpg
 organization_name: '3-D SPACE, The Center For Stereoscopic Photography, Art, Cinema, and Education'

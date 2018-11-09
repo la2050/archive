@@ -16,42 +16,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1107194355741-team88.jpg
 project_video: 'https://www.youtube.com/embed/9fQj9v92GS4?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  A steady job is a key step to a person’s transition out of poverty and onto a
-  pathway to self-sufficiency. For this project, we define success as helping
-  our formerly incarcerated clients succeed by becoming ready for a job, getting
-  a job and retaining their job for at least 6 months. A 2010 Mathematica Policy
-  Research study showed that an adult with barriers to employment who can stay
-  employed or in a program for 6 months will have improved employment and social
-  outcomes. 
-
-
-  We will measure our success by collecting impact data about our programs and
-  clients, including the number of clients 1) completing our program, 2)
-  obtaining outside jobs or transitional jobs through CE, 3) retaining
-  employment for 1, 3, 6 and 12 months, and 4) wages earned. Data is collected
-  from a variety of sources, including reports generated through our
-  sophisticated, organization-wide data-base, case management notes and CE
-  timecards. We create a monthly dashboard, which tracks information about the
-  services each client has accessed and the time it takes for clients to
-  complete our program and find a job. This data is compared against the same
-  data recorded in the previous year.  Management uses this data to spot any
-  trends, and determine and address any issues that might impair our ability to
-  achieve our goals. We will continue to work closely with all of our partners
-  in the reentry community to track unemployment among formerly incarcerated
-  people, as reducing that is our ultimate goal.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Chrysalis is the leading organization in L.A. focused on helping formerly
   incarcerated individuals attain self-sufficiency through work.  Each year,
   through classes, supportive services, and our social enterprise “Chrysalis
@@ -59,24 +25,13 @@ project_description: >-
   employment for over 600 participants in transitional jobs. We offer these
   motivated individuals, 73% of whom have a criminal background, a second chance
   in life when they need it most.
-project_impact: >-
-  ["Gini coefficient","Jobs per capita","Unemployment (and opportunities) for
-  the formerly incarcerated"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Gini coefficient
   - Jobs per capita
   - Unemployment (and opportunities) for the formerly incarcerated
-project_proposal_description: >-
-  Chrysalis is the leading organization in L.A. focused on helping formerly
-  incarcerated individuals attain self-sufficiency through work.  Each year,
-  through classes, supportive services, and our social enterprise “Chrysalis
-  Enterprises” (CE), we provide comprehensive job readiness training and
-  employment for over 600 participants in transitional jobs. We offer these
-  motivated individuals, 73% of whom have a criminal background, a second chance
-  in life when they need it most.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Over 60% of formerly incarcerated individuals are unemployed one year after
   release. Through this project, Chrysalis will help CREATE opportunities for
   formerly incarcerated people to reenter society, find work and get on the path
@@ -124,6 +79,39 @@ project_proposal_best_place: >-
   dignity, and creates better physical and mental health, while also setting in
   motion changes that have positive ripple effects on families, communities, and
   society.
+Please explain how you will define and measure success for your project.​: >-
+  A steady job is a key step to a person’s transition out of poverty and onto a
+  pathway to self-sufficiency. For this project, we define success as helping
+  our formerly incarcerated clients succeed by becoming ready for a job, getting
+  a job and retaining their job for at least 6 months. A 2010 Mathematica Policy
+  Research study showed that an adult with barriers to employment who can stay
+  employed or in a program for 6 months will have improved employment and social
+  outcomes. 
+
+
+  We will measure our success by collecting impact data about our programs and
+  clients, including the number of clients 1) completing our program, 2)
+  obtaining outside jobs or transitional jobs through CE, 3) retaining
+  employment for 1, 3, 6 and 12 months, and 4) wages earned. Data is collected
+  from a variety of sources, including reports generated through our
+  sophisticated, organization-wide data-base, case management notes and CE
+  timecards. We create a monthly dashboard, which tracks information about the
+  services each client has accessed and the time it takes for clients to
+  complete our program and find a job. This data is compared against the same
+  data recorded in the previous year.  Management uses this data to spot any
+  trends, and determine and address any issues that might impair our ability to
+  achieve our goals. We will continue to work closely with all of our partners
+  in the reentry community to track unemployment among formerly incarcerated
+  people, as reducing that is our ultimate goal.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/changing-lives-through-jobs-create-a-secondchance-for-l-a-through-employment/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1107194355741-team88.jpg
 organization_name: Chrysalis

@@ -17,13 +17,29 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4845089986741-team90.JPG
 project_video: 'https://www.youtube.com/embed/Kep3gB10R3I?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Our South LA programs run in partnership with the Sheriff’s Foundation Youth
   Activities League, LAUSD, Beyond the Bell, Barbara Morrison Performing Arts
   Center, Foshay Learning Center, The Blazers, Vision Theater and the Exploring
   the Arts Foundation.
-project_measure: >-
+Please describe your project proposal.: >-
+  Our South LA programs will engage a minimum of 1,000 youth across the next 3
+  years within our transformative program. Students enroll in the closest
+  program site to their home and are provided an instrument, rigorous music
+  instruction (5 hr/wk), ensemble participation, community performances,
+  positive adult and peer mentors, family and social support services, field
+  trips, and a robust college prep program. We set high expectations and support
+  children with the resources needed to thrive.
+Which metrics will your proposal impact?​:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
+  - Truancy rates in elementary and middle schools
+In what areas of Los Angeles will you be directly working?:
+  - South LA
+Describe in greater detail how your proposal will make LA the best place.: "According to a Los Angeles County Arts Commission report “Only about a third of African American or Latino students graduate from high school having completed the courses required for entry into the University of California or California State University systems”[1]. Low-income teenagers and young adults who have a history of in-depth arts involvement earn better grades and demonstrate higher rates of college enrollment and attainment[2].\n\nHarmony Project provides these outcomes for children who have the greatest need and fewest resources in the poorest, most vulnerable communities by offering a safe space with supportive resources for students to grow emotionally, socially, artistically, and intellectually during afterschool and weekend hours. Our data-driven, research-based model started with only 36 students and now has an enrollment of 2,000, focused in LA’s most disadvantaged areas.\n\nThe program is provided at no cost to youth from families whose income is below 185% of federal poverty level or whose children attend schools in which at least 80% of students qualify– a guideline used by Head Start. Since 2008, of the kids who participate three or more years in the program, 97% graduated on time from high-school and went on to college. On average, our graduating seniors are with us for 7 years. \n\n2016’s graduates were accepted into colleges across the country, including Princeton, Georgetown, UCLA and USC. Our alumni continue to report successes that include post-graduate studies, a number of Posse Scholars, one Gates Millennium Scholar and two Fulbright Scholars. 25% of our alumni graduated from/are studying at top 50 nationally ranked schools; 36% have a 3.5 or higher college GPA.\t\t\nOur College Program informs students and their families on the reality of college costs and prepare them to arrive on campus armed with knowledge to succeed. Students who participate in the program for three years or more are eligible to apply for a College Scholarship. Through the Harmony Project Scholarship program we have awarded over $400,000 to 173 of our students – 62 additional scholarships have been awarded to 2016’s graduates. \nThe majority of our students are the first in their family to pursue and attend college (67% of 2016 seniors). Further, most of them attend large public schools that lack the resources to reach and acknowledge every student in the room, let alone every students’ individual needs[3]. We aim to fill that gap for our students, preparing them for the reality of college, adulthood, and the job market.\n\nOnce students leave for college, we have summer reunions and bi-annual check-ins with alumni, flagging issues that are disrupting students’ progress. When needed, we follow up closely with students and put them in contact with additional supportive resources.\n[1]How Arts Education Promotes Career Opportunities Beyond The Arts. LACAC, 2015. [2]The Arts and Achievement in At-Risk Youth. NEA, 2012. [3]Condition of Education. NCES"
+Please explain how you will define and measure success for your project.​: >-
   Project objectives include: 
 
   Cultivate safe spaces for students to create and learn.
@@ -69,39 +85,10 @@ project_measure: >-
   College matriculation via the collection of enrollment forms and transcripts
 
   Alumni activity
-project_proposal_help:
+How can the LA2050 community and other stakeholders help your proposal succeed?:
   - 'Money '
   - Publicity/awareness
   - Technical infrastructure (computers etc.)
-project_description: >-
-  Our South LA programs will engage a minimum of 1,000 youth across the next 3
-  years within our transformative program. Students enroll in the closest
-  program site to their home and are provided an instrument, rigorous music
-  instruction (5 hr/wk), ensemble participation, community performances,
-  positive adult and peer mentors, family and social support services, field
-  trips, and a robust college prep program. We set high expectations and support
-  children with the resources needed to thrive.
-project_impact: >-
-  ["College completion","College matriculation rates","District-wide graduation
-  rates","Student education pipeline","Truancy rates in elementary and middle
-  schools"]
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-  - Student education pipeline
-  - Truancy rates in elementary and middle schools
-project_proposal_description: >-
-  Our South LA programs will engage a minimum of 1,000 youth across the next 3
-  years within our transformative program. Students enroll in the closest
-  program site to their home and are provided an instrument, rigorous music
-  instruction (5 hr/wk), ensemble participation, community performances,
-  positive adult and peer mentors, family and social support services, field
-  trips, and a robust college prep program. We set high expectations and support
-  children with the resources needed to thrive.
-project_areas:
-  - South LA
-project_proposal_best_place: "According to a Los Angeles County Arts Commission report “Only about a third of African American or Latino students graduate from high school having completed the courses required for entry into the University of California or California State University systems”[1]. Low-income teenagers and young adults who have a history of in-depth arts involvement earn better grades and demonstrate higher rates of college enrollment and attainment[2].\n\nHarmony Project provides these outcomes for children who have the greatest need and fewest resources in the poorest, most vulnerable communities by offering a safe space with supportive resources for students to grow emotionally, socially, artistically, and intellectually during afterschool and weekend hours. Our data-driven, research-based model started with only 36 students and now has an enrollment of 2,000, focused in LA’s most disadvantaged areas.\n\nThe program is provided at no cost to youth from families whose income is below 185% of federal poverty level or whose children attend schools in which at least 80% of students qualify– a guideline used by Head Start. Since 2008, of the kids who participate three or more years in the program, 97% graduated on time from high-school and went on to college. On average, our graduating seniors are with us for 7 years. \n\n2016’s graduates were accepted into colleges across the country, including Princeton, Georgetown, UCLA and USC. Our alumni continue to report successes that include post-graduate studies, a number of Posse Scholars, one Gates Millennium Scholar and two Fulbright Scholars. 25% of our alumni graduated from/are studying at top 50 nationally ranked schools; 36% have a 3.5 or higher college GPA.\t\t\nOur College Program informs students and their families on the reality of college costs and prepare them to arrive on campus armed with knowledge to succeed. Students who participate in the program for three years or more are eligible to apply for a College Scholarship. Through the Harmony Project Scholarship program we have awarded over $400,000 to 173 of our students – 62 additional scholarships have been awarded to 2016’s graduates. \nThe majority of our students are the first in their family to pursue and attend college (67% of 2016 seniors). Further, most of them attend large public schools that lack the resources to reach and acknowledge every student in the room, let alone every students’ individual needs[3]. We aim to fill that gap for our students, preparing them for the reality of college, adulthood, and the job market.\n\nOnce students leave for college, we have summer reunions and bi-annual check-ins with alumni, flagging issues that are disrupting students’ progress. When needed, we follow up closely with students and put them in contact with additional supportive resources.\n[1]How Arts Education Promotes Career Opportunities Beyond The Arts. LACAC, 2015. [2]The Arts and Achievement in At-Risk Youth. NEA, 2012. [3]Condition of Education. NCES"
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/give-music-change-lives-the-expansion-of-harmony-projects-transformative-program-into-south-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4845089986741-team90.JPG
 organization_name: The Harmony Project

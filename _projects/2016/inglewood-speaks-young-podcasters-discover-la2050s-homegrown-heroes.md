@@ -15,53 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5493116165741-team88.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: Century Academy for Excellence
-project_measure: >-
-  This project aims to 1) Develop and pilot a citizen journalism curriculum that
-  is replicable and 2) Increase student knowledge, technical skills, and
-  confidence in communicating using a variety of mediums. We will measure
-  success based on the following: 
-
-
-  Percent of students who gain a thorough understanding of all the steps
-  involved in producing a podcast 
-
-  Percent of students who report increased skill and confidence using
-  technology 
-
-  Percent of students who improve their writing skills 
-
-  Percent of students who report a deeper understanding of how different
-  organizations are working to improve the lives of Angelenos and the importance
-  of civic responsibility
-
-  Percent of students who report a deeper understanding of how to find resources
-  to meet a variety of needs 
-
-  Production of 20 podcasts 
-
-  Development and implementation of a pilot curriculum that can be replicated in
-  classrooms across Los Angeles
-
-  Teacher satisfaction with rigor of lessons 
-
-  Interviewee satisfaction with experience 
-
-
-  We will administer pre and post surveys to students to assess skills,
-  knowledge, and understanding of issues.  We will use progress toward mastery
-  data from Mozi to understand the impact on their writing skills. We will
-  gather teacher and interviewee feedback through one-on-one discussions.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: Century Academy for Excellence
+Please describe your project proposal.: >-
   Core Innovate, Inc. will collaborate with Century Academy to develop and pilot
   citizen journalism curriculum that will result in middle school students
   producing a podcast about the work of LA2050 grantees. Students will research
@@ -69,27 +24,15 @@ project_description: >-
   Mozi, Core Innovate’s writing software. Students will strengthen their
   communication skills as they research and produce podcast episodes that will
   tell the story of LA’s agents of change.
-project_impact: >-
-  ["Proficiency in English and Language Arts and Math","Suspension and expulsion
-  rates","Truancy rates in elementary and middle schools","Youth unemployment
-  and underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Proficiency in English and Language Arts and Math
   - Suspension and expulsion rates
   - Truancy rates in elementary and middle schools
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  Core Innovate, Inc. will collaborate with Century Academy to develop and pilot
-  citizen journalism curriculum that will result in middle school students
-  producing a podcast about the work of LA2050 grantees. Students will research
-  the issues that LA2050 grantees are addressing and will write about them using
-  Mozi, Core Innovate’s writing software. Students will strengthen their
-  communication skills as they research and produce podcast episodes that will
-  tell the story of LA’s agents of change.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South LA
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Core Innovate and Century Academy for Excellence will make Los Angeles the
   best place to learn by equipping middle school students with the skills and
   knowledge to communicate with confidence. This project has two key components:
@@ -138,6 +81,50 @@ project_proposal_best_place: >-
   replicating across Los Angeles, we believe that this project will make LA the
   best place for youth to learn and become civically-engaged citizen
   journalists.
+Please explain how you will define and measure success for your project.​: >-
+  This project aims to 1) Develop and pilot a citizen journalism curriculum that
+  is replicable and 2) Increase student knowledge, technical skills, and
+  confidence in communicating using a variety of mediums. We will measure
+  success based on the following: 
+
+
+  Percent of students who gain a thorough understanding of all the steps
+  involved in producing a podcast 
+
+  Percent of students who report increased skill and confidence using
+  technology 
+
+  Percent of students who improve their writing skills 
+
+  Percent of students who report a deeper understanding of how different
+  organizations are working to improve the lives of Angelenos and the importance
+  of civic responsibility
+
+  Percent of students who report a deeper understanding of how to find resources
+  to meet a variety of needs 
+
+  Production of 20 podcasts 
+
+  Development and implementation of a pilot curriculum that can be replicated in
+  classrooms across Los Angeles
+
+  Teacher satisfaction with rigor of lessons 
+
+  Interviewee satisfaction with experience 
+
+
+  We will administer pre and post surveys to students to assess skills,
+  knowledge, and understanding of issues.  We will use progress toward mastery
+  data from Mozi to understand the impact on their writing skills. We will
+  gather teacher and interviewee feedback through one-on-one discussions.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/inglewood-speaks-young-podcasters-discover-la2050s-homegrown-heroes/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5493116165741-team88.jpg
 organization_name: 'Core Innovate, Inc. & Century Academy for Excellence'

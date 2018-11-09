@@ -12,34 +12,8 @@ project_summary: 'Get LA Squared Away: Community Resilience Project'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5594912265741-team90.jpg
 project_video: 'https://www.youtube.com/embed/5BOUm4PBeUc?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: >-
-  Team Rubicon's vision of making Los Angeles a community better prepared for
-  disasters will require working with city and county Emergency Response Teams.
-project_measure: >-
-  A BRU's volunteer numbers are driven by a set of ratios applied to a city's
-  population.  A city of any size is considered to have met its Basic Readiness
-  Standard if it has a single functional BRU.  One basic readiness unit consists
-  of 100 registered TR volunteers, 25 of which are deployable, 8 of which have
-  completed Tools, Tactics and Techniques Training, and 3 of which have
-  completed Command and General staff training.  The Basic Readiness Standard is
-  not intended to be able to meet the response needs of an overwhelming event in
-  LA, but rather contribute to small-scale operations and plan and execute
-  impactful projects. 
-
-
-  An Advanced Readiness Standard is achieved when TR's volunteer density in a
-  city regressively scales to approximately one BRU per 100K residents.  At an
-  Advanced Readiness Level, Team Rubicon is capable of delivering meaningful
-  assistance to the municipality during Type 1 and 2 level responses.  For Los
-  Angeles, that would require 22 BRUs.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Spending money on resiliency and readiness saves money.  An organized, trained
   and equipped Team Rubicon will help stabilize LA once disaster hits, allowing
   municipal and emergency services to perform core functions enabling them to
@@ -47,20 +21,11 @@ project_description: >-
   leveraging the skills of veterans, TR is preparing for and responding to
   disasters as well as providing purpose, community and identity to our nation's
   veteran's, easing their transition home.
-project_impact: '["Resilient communities"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Resilient communities
-project_proposal_description: >-
-  Spending money on resiliency and readiness saves money.  An organized, trained
-  and equipped Team Rubicon will help stabilize LA once disaster hits, allowing
-  municipal and emergency services to perform core functions enabling them to
-  focus on getting residents back to normal life as quickly as possible.  By
-  leveraging the skills of veterans, TR is preparing for and responding to
-  disasters as well as providing purpose, community and identity to our nation's
-  veteran's, easing their transition home.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Cities' ability to respond to our rapidly changing climate and the changing
   nature, magnitude and quantity of natural disasters in general is
   insufficient.  People, property and local economies are being disrupted and
@@ -110,6 +75,29 @@ project_proposal_best_place: >-
   level to ensure national relief resources are deployed most effectively and
   efficiently when available; and ensure the ability to monitor response,
   recovery and rebuilding efforts in ways external agencies simply cannot mimic.
+Please explain how you will define and measure success for your project.​: >-
+  A BRU's volunteer numbers are driven by a set of ratios applied to a city's
+  population.  A city of any size is considered to have met its Basic Readiness
+  Standard if it has a single functional BRU.  One basic readiness unit consists
+  of 100 registered TR volunteers, 25 of which are deployable, 8 of which have
+  completed Tools, Tactics and Techniques Training, and 3 of which have
+  completed Command and General staff training.  The Basic Readiness Standard is
+  not intended to be able to meet the response needs of an overwhelming event in
+  LA, but rather contribute to small-scale operations and plan and execute
+  impactful projects. 
+
+
+  An Advanced Readiness Standard is achieved when TR's volunteer density in a
+  city regressively scales to approximately one BRU per 100K residents.  At an
+  Advanced Readiness Level, Team Rubicon is capable of delivering meaningful
+  assistance to the municipality during Type 1 and 2 level responses.  For Los
+  Angeles, that would require 22 BRUs.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/localizing-disaster-response-to-meet-the-challenges-of-the-21st-century/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5594912265741-team90.jpg
 organization_name: Team Rubicon

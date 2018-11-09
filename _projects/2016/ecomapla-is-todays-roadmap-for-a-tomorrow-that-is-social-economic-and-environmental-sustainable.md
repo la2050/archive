@@ -17,39 +17,15 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6901550005741-team91.png
 project_video: 'https://myatlascms.com/map/?id=901?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Because EcoMapLA is a hosted site, we have the ability to document interface
-  analytics that track and report traffic both in counts and duration of visits
-  so as to gauge what works, what doesn’t and what needs improvement.  We also
-  have a feedback form where users can provide input and valuable insight into
-  what they wish to see.  We will have the ability to set stats for traffic,
-  goal completions, and other metrics to assure we are on target, such as
-  Location demographics of visitors to assure all communities are represented
-  and accurately display.  Through strong analytics we are able to establish
-  patterns and learn about what people are searching for on our site and assure
-  we meet the need.  We will also continue to log our Volunteers activities and
-  hours.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - Community outreach
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   We will make significant upgrades to our website, and enhance usability of
   EcoMapLA to provide the first real time interactive map of Iconic Los Angeles
   landmarks, sustainable buildings and businesses for all Los Angeles
   Communities. Information will be displayed in an intuitive way to navigate
   with on demand tools and layers to control what you see, including pictures,
   text, videos, external links, etc. for a fully customized experience.
-project_impact: >-
-  ["Travel time to work","Public transit riders","Rates of
-  volunteerism","Residential segregation","Transit-accessible housing and
-  employment (the share of housing units and percentage of jobs that are located
-  within a half-mile of transit)"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Travel time to work
   - Public transit riders
   - Rates of volunteerism
@@ -57,18 +33,11 @@ project_proposal_impact:
   - >-
     Transit-accessible housing and employment (the share of housing units and
     percentage of jobs that are located within a half-mile of transit)
-project_proposal_description: >-
-  We will make significant upgrades to our website, and enhance usability of
-  EcoMapLA to provide the first real time interactive map of Iconic Los Angeles
-  landmarks, sustainable buildings and businesses for all Los Angeles
-  Communities. Information will be displayed in an intuitive way to navigate
-  with on demand tools and layers to control what you see, including pictures,
-  text, videos, external links, etc. for a fully customized experience.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Bloomberg projects that Los Angeles will become America’s densest city by as
   early as 2025 with an estimated 38% population growth. Will our city’s
   infrastructure and services meet the demand, and sustain viability beyond
@@ -113,6 +82,24 @@ project_proposal_best_place: >-
   by providing pertinent information, at their fingertips in real time, on the
   sustainability of businesses, places and spaces along with transportation
   options in and around LA.
+Please explain how you will define and measure success for your project.​: >-
+  Because EcoMapLA is a hosted site, we have the ability to document interface
+  analytics that track and report traffic both in counts and duration of visits
+  so as to gauge what works, what doesn’t and what needs improvement.  We also
+  have a feedback form where users can provide input and valuable insight into
+  what they wish to see.  We will have the ability to set stats for traffic,
+  goal completions, and other metrics to assure we are on target, such as
+  Location demographics of visitors to assure all communities are represented
+  and accurately display.  Through strong analytics we are able to establish
+  patterns and learn about what people are searching for on our site and assure
+  we meet the need.  We will also continue to log our Volunteers activities and
+  hours.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/ecomapla-is-todays-roadmap-for-a-tomorrow-that-is-social-economic-and-environmental-sustainable/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6901550005741-team91.png
 organization_name: US Green Building Council-LA

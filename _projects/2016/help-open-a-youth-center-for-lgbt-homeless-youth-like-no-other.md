@@ -12,49 +12,8 @@ project_summary: '#LGBTHomelessYouth Need A Safe Place To Be Empowered In!'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4001387745741-team91.jpg
 project_video: 'https://www.youtube.com/embed/xrBYk1R2gXQ?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  We believe that listening to our Clients is always the best way to judge our
-  success, or lack thereof.
-
-
-  Methods such as surveys and feedback forms will be used as a way to evaluate
-  our work. Through a series of thorough questions about our events and
-  activities, we will give both our youth and adults the opportunity to freely
-  express themselves on the use of this Youth Center. Surveys will be made
-  available on-site and online as well. These can be submitted anonymously as a
-  way to comfort the author and not let them feel pressured.
-
-
-  The tracking of case progress would also be a key component of our success, as
-  we would follow up with local service providers to ensure that youth are
-  taking the next step in the rehabilitation process and reaching out for help.
-
-
-  Leaders of the Youth Center will also have to hold themselves accountable for
-  the goals they have collectively outlined for the facility. By meeting
-  regularly, giving each other feedback, and identifying any potential issues,
-  Staff can increase their chances of providing the best possible service for
-  all of its Clients. A majority satisfaction rate in performance would be the
-  target for both statistics and client satisfaction. A database of these
-  evaluations would be maintained regularly as a way to document the progress of
-  the Youth Center.
-
-
-  We would also solicit feedback from our local community as a way to maximize
-  the use of the Youth Center by discussing both its strengths and areas for
-  improvement.
-project_proposal_help:
-  - 'Money '
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   To open a unique Youth Center for LGBT Homeless & at-risk youth (ages 14-24)
   that offers fun, educational, and resourceful activities on a regular basis.
   At our signature dances, youth attendees would get an opportunity to escape
@@ -62,31 +21,18 @@ project_description: >-
   available to them locally via our community partners & agencies (i.e.
   transitional living, GED programs, emotional support, & other social
   services).
-project_impact: >-
-  ["Social & emotional support","Cultural events","Government responsiveness to
-  residents’ needs","Participation in neighborhood councils","Rates of
-  volunteerism","Total number of local social media friends and connections
-  Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Government responsiveness to residents’ needs
   - Participation in neighborhood councils
   - Rates of volunteerism
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  To open a unique Youth Center for LGBT Homeless & at-risk youth (ages 14-24)
-  that offers fun, educational, and resourceful activities on a regular basis.
-  At our signature dances, youth attendees would get an opportunity to escape
-  their day-to-day challenges while at the same time gaining access to services
-  available to them locally via our community partners & agencies (i.e.
-  transitional living, GED programs, emotional support, & other social
-  services).
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - City of Los Angeles
   - Hollywood
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   This new and unique Youth Center would serve as a hybrid of activities that
   are both fun and resourceful. We feel that the best way possible to make L.A.
   the best place to CONNECT is by using the same formula we have used for over
@@ -134,6 +80,46 @@ project_proposal_best_place: >-
   to bring something different to the table. Activities such as Open Houses and
   Community Fairs would give us a golden opportunity to educate residents on
   homelessness and what they can do to help solve the problem.
+Please explain how you will define and measure success for your project.​: >-
+  We believe that listening to our Clients is always the best way to judge our
+  success, or lack thereof.
+
+
+  Methods such as surveys and feedback forms will be used as a way to evaluate
+  our work. Through a series of thorough questions about our events and
+  activities, we will give both our youth and adults the opportunity to freely
+  express themselves on the use of this Youth Center. Surveys will be made
+  available on-site and online as well. These can be submitted anonymously as a
+  way to comfort the author and not let them feel pressured.
+
+
+  The tracking of case progress would also be a key component of our success, as
+  we would follow up with local service providers to ensure that youth are
+  taking the next step in the rehabilitation process and reaching out for help.
+
+
+  Leaders of the Youth Center will also have to hold themselves accountable for
+  the goals they have collectively outlined for the facility. By meeting
+  regularly, giving each other feedback, and identifying any potential issues,
+  Staff can increase their chances of providing the best possible service for
+  all of its Clients. A majority satisfaction rate in performance would be the
+  target for both statistics and client satisfaction. A database of these
+  evaluations would be maintained regularly as a way to document the progress of
+  the Youth Center.
+
+
+  We would also solicit feedback from our local community as a way to maximize
+  the use of the Youth Center by discussing both its strengths and areas for
+  improvement.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/help-open-a-youth-center-for-lgbt-homeless-youth-like-no-other/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4001387745741-team91.jpg
 organization_name: The C.I.T.Y. x1 Youth Group

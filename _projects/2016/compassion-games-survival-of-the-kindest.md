@@ -11,57 +11,15 @@ project_summary: 'Make your community safer, kinder, more just and a better plac
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5082856955741-team91.png
 project_video: 'https://www.youtube.com/embed/7bCjkM0o31Y?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: Charter for Compassion and Compassion Games International.
-project_measure: >-
-  Pick a compassionate action for you and/or your group:
-
-  Each hour of a community service project, per individual translates into 1
-  (one) Point”
-
-  Each act of compassion per individual translates into “1 (one) Point”
-
-  Every dollar raised for charity translates into “1 (one) Point”
-
-  Every item collected for charity translates into “1 (one) Point”
-
-  As an individual, your points are pooled with your organization and then your
-  county (we'll be playing as a county rather than a city). Then your actions,
-  projects, stories, etc. are added to the Compassion Map where the whole world
-  can witness the Compassion Games efforts. To learn more about finding a way to
-  participate in these games, go to CompassionGames.org.  Once you decide what
-  service you will participate in or organize, you publish it on the Compassion
-  Map: http://compassiongames.org
-
-
-  Once you’ve participated in a Compassion Games, report on the hours spent.
-  Every compassionate hour brings one point to the city. At the end of the games
-  all the data is published and we learn how we fare against other cities.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: Charter for Compassion and Compassion Games International.
+Please describe your project proposal.: >-
   No other initiative has struck a nerve, inspired the uninspired, raised the
   eyebrow of the skeptic, or gotten the attention of the weary and the tired as
   much as the Compassion movement.  And no idea to mobilize people into a new
   way of being compassionate has been more creative, effective and awe inspiring
   than the Compassion Games: Survival of the Kindest. Next year we want to
   transcend the geographical divide and include LA County in our efforts.
-project_impact: >-
-  ["Access to open space and park facilities","Attendance at major league
-  sporting events","Number (and quality) of informal spaces for play","Number of
-  children enrolled in afterschool programs","Number of parks with
-  intergenerational play opportunities","Number of residents with easy access to
-  a “vibrant” park","Perceived safety"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to open space and park facilities
   - Attendance at major league sporting events
   - Number (and quality) of informal spaces for play
@@ -69,18 +27,11 @@ project_proposal_impact:
   - Number of parks with intergenerational play opportunities
   - Number of residents with easy access to a “vibrant” park
   - Perceived safety
-project_proposal_description: >-
-  No other initiative has struck a nerve, inspired the uninspired, raised the
-  eyebrow of the skeptic, or gotten the attention of the weary and the tired as
-  much as the Compassion movement.  And no idea to mobilize people into a new
-  way of being compassionate has been more creative, effective and awe inspiring
-  than the Compassion Games: Survival of the Kindest. Next year we want to
-  transcend the geographical divide and include LA County in our efforts.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Westside
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The Compassion Games are designed to make our communities safer, kinder, more
   just, and better places to live, work and play. Touch somebody’s life! By
   participating, players are called upon to perform acts of service and kindness
@@ -122,6 +73,41 @@ project_proposal_best_place: >-
   2. Individual random acts of kindness
 
   3. Games that build personal and community resilience
+Please explain how you will define and measure success for your project.​: >-
+  Pick a compassionate action for you and/or your group:
+
+  Each hour of a community service project, per individual translates into 1
+  (one) Point”
+
+  Each act of compassion per individual translates into “1 (one) Point”
+
+  Every dollar raised for charity translates into “1 (one) Point”
+
+  Every item collected for charity translates into “1 (one) Point”
+
+  As an individual, your points are pooled with your organization and then your
+  county (we'll be playing as a county rather than a city). Then your actions,
+  projects, stories, etc. are added to the Compassion Map where the whole world
+  can witness the Compassion Games efforts. To learn more about finding a way to
+  participate in these games, go to CompassionGames.org.  Once you decide what
+  service you will participate in or organize, you publish it on the Compassion
+  Map: http://compassiongames.org
+
+
+  Once you’ve participated in a Compassion Games, report on the hours spent.
+  Every compassionate hour brings one point to the city. At the end of the games
+  all the data is published and we learn how we fare against other cities.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/compassion-games-survival-of-the-kindest/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5082856955741-team91.png
 organization_name: Compassionate Santa Monica

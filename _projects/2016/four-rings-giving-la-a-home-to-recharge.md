@@ -14,55 +14,21 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3092492065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/31Cl_cWYbgY?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Southern California United - SC United Men's Gymnastics is a unique program
   due to the contribution of the many people, gymnasts and supporters, who are
   giving much to keep men's collegiate gymnastics viable and competitive on a
   NCAA level.  The team is not affiliated with one college, however the team
   members attend different colleges throughout LA and Southern California. As
   such there is no support from any recreational college entities.
-project_measure: >-
-  Four Rings will measure success for this project based on:
-
-  -The number of business owners of color recruited to the Four Rings' network
-
-  -The number of business owners who are women recruited to the Four Rings'
-  network
-
-  -The number of connections formed between business owners
-
-  -The number of daily interactions on the online forum for fitness enthusiasts
-  and entrepreneurs
-
-  -The number of events held under each pillar per year
-
-  -Funding for facility development 
-
-
-  We will track these metrics through spreadsheets, and survey business owners
-  twice a year to gather data and determine how to improve our programs.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   Four Rings is a lifestyle brand dedicated to individual and collective growth
   through fitness, health, entertainment, and community.  Our Vision is to
   provide a premier space for vibrant and eclectic individuals to be galvanized
   by the realization of our human potential.  The ChallengeLA2050 grant will
   directly contribute to the vision of the company through funding for a 35,000
   sq. ft. LA facility to house our growing community.
-project_impact: >-
-  ["Arts establishments","Employment in the creative industries","Jobs per
-  capita","Measures of cultural and global economic influence (“soft
-  power”)","Minority- and women-owned firms","High growth startups","Venture
-  capital investment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Employment in the creative industries
   - Jobs per capita
@@ -70,19 +36,12 @@ project_proposal_impact:
   - Minority- and women-owned firms
   - High growth startups
   - Venture capital investment
-project_proposal_description: >-
-  Four Rings is a lifestyle brand dedicated to individual and collective growth
-  through fitness, health, entertainment, and community.  Our Vision is to
-  provide a premier space for vibrant and eclectic individuals to be galvanized
-  by the realization of our human potential.  The ChallengeLA2050 grant will
-  directly contribute to the vision of the company through funding for a 35,000
-  sq. ft. LA facility to house our growing community.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Westside
   - South Bay
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Four Rings will make LA the best place to create by cultivating growth for our
   vibrant and eclectic community. 
 
@@ -124,6 +83,34 @@ project_proposal_best_place: >-
   We look to stimulate growth in the entertainment industry by connecting
   motivated and inspired entrepreneurs. Four Rings values innovation, and sees
   this network as a unique and refreshing way to support business development.
+Please explain how you will define and measure success for your project.​: >-
+  Four Rings will measure success for this project based on:
+
+  -The number of business owners of color recruited to the Four Rings' network
+
+  -The number of business owners who are women recruited to the Four Rings'
+  network
+
+  -The number of connections formed between business owners
+
+  -The number of daily interactions on the online forum for fitness enthusiasts
+  and entrepreneurs
+
+  -The number of events held under each pillar per year
+
+  -Funding for facility development 
+
+
+  We will track these metrics through spreadsheets, and survey business owners
+  twice a year to gather data and determine how to improve our programs.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/four-rings-giving-la-a-home-to-recharge/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3092492065741-team90.jpg
 organization_name: Four Rings

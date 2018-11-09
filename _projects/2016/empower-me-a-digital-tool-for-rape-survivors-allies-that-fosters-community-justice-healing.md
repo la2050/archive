@@ -17,33 +17,11 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6138888165741-team90.png
 project_video: 'https://www.youtube.com/embed/17VrzStmqAs?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Light Sprout is collaborating with ProSocial, Take Back the Night and is under
   review with Community Partners, though we have a backup plan if they do not
   approve fiscal sponsorship.
-project_measure: >-
-  The application provides an ideal, tangible mechanism for measuring outcomes
-  and impact. Each visitor to the app will be registered, and through
-  storytelling, we can track usage and usefulness over time. 
-
-
-  We are building a clickable prototype that will be tested in the community
-  before testing an online version of the app, which will allow us to make the
-  necessary changes in time for the live launch. This will cost a few thousand
-  dollars extra up front, but allows us to save thousands later. 
-
-
-  We will combine quantitative data that can be obtained from the application
-  backend together with qualitative feedback from focus groups and assess the
-  effectiveness and reach of the application in the community and ways it can be
-  improved over time.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Community outreach
-project_description: >-
+Please describe your project proposal.: >-
   Light Sprout will develop “Empower Me”, a digital tool that provides
   important, immediate and ongoing resources to equip sexual assault victims and
   their allies from the moment it occurs, through the process of seeking justice
@@ -51,29 +29,17 @@ project_description: >-
   and empower them to make informed decisions and access vital support systems
   to accelerate the healing and justice seeking process. Empower Me is easily
   accessible and free of charge to all users.
-project_impact: >-
-  ["Healthcare access","Self-sufficiency","Resilient communities","Residents
-  receiving coordinated healthcare services","Prevalence of adverse childhood
-  experiences","Mental illness"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Healthcare access
   - Self-sufficiency
   - Resilient communities
   - Residents receiving coordinated healthcare services
   - Prevalence of adverse childhood experiences
   - Mental illness
-project_proposal_description: >-
-  Light Sprout will develop “Empower Me”, a digital tool that provides
-  important, immediate and ongoing resources to equip sexual assault victims and
-  their allies from the moment it occurs, through the process of seeking justice
-  and healing. This would take them, their family and allies out of isolation
-  and empower them to make informed decisions and access vital support systems
-  to accelerate the healing and justice seeking process. Empower Me is easily
-  accessible and free of charge to all users.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Empower Me will make LA the best place to live by creating a safer and more
   just city where a resilient and thriving community of sexual assault survivors
   and their allies take control of their healing and challenge rape culture. 
@@ -125,6 +91,27 @@ project_proposal_best_place: >-
   and emotional trauma from sexual assault, while providing outlets for support
   as it will be linked to Take Back the Night for free online counselling, legal
   advice and advocacy alternatives.
+Please explain how you will define and measure success for your project.​: >-
+  The application provides an ideal, tangible mechanism for measuring outcomes
+  and impact. Each visitor to the app will be registered, and through
+  storytelling, we can track usage and usefulness over time. 
+
+
+  We are building a clickable prototype that will be tested in the community
+  before testing an online version of the app, which will allow us to make the
+  necessary changes in time for the live launch. This will cost a few thousand
+  dollars extra up front, but allows us to save thousands later. 
+
+
+  We will combine quantitative data that can be obtained from the application
+  backend together with qualitative feedback from focus groups and assess the
+  effectiveness and reach of the application in the community and ways it can be
+  improved over time.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/empower-me-a-digital-tool-for-rape-survivors-allies-that-fosters-community-justice-healing/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6138888165741-team90.png
 organization_name: Light Sprout

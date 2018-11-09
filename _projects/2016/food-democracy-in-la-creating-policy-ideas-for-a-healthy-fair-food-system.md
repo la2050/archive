@@ -15,69 +15,22 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6804863875741-team90.jpg
 project_video: 'https://www.youtube.com/embed/YhYQSknRMu8?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  We will measure success through: 
-
-
-  (1) Reach - Develop a New Good Food for All Agenda that aggregates the policy
-  priorities of hundreds of organizations and community members. Our goal is to
-  release the Agenda at our annual Food Day event— the city’s largest civic
-  engagement event on food. The report will also be available through our
-  website. We will document the number of organizations and individuals who
-  contributed to the process, and use web analytics to determine the reach of
-  the report’s dissemination.
-
-
-  (2) Capacity Building – We want the process of developing the new Good Food
-  For All Agenda to be empowering for everyone involved. We will gather feedback
-  and input at 3 public Network meetings, approximately 20 Working Group
-  meetings, and 3 community workshops to ensure holistic policy recommendations
-  are grounded in the experience of communities. We will also offer 3 public
-  trainings on data we are collecting about the health, resiliency and fairness
-  of our regional food system. To measure the impact of the process itself, we
-  will survey participants at each convening to evaluate changes in knowledge,
-  skills and relationships. 
-
-
-  (3) Diversity – It's important we hear from the most impacted communities in
-  LA’s food system – youth, workers, low-income mothers, etc. We will conduct
-  robust outreach, collect appropriate demographic information, and ally
-  ourselves with community-based organizations representing diverse and
-  underrepresented communities.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles
-  - 'Education/training '
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   The Los Angeles Food Policy Council will catalyze, coordinate and connect over
   300 local organizations and hundreds more stakeholders to create a NEW Good
   Food For All Agenda – a visionary policy platform for health and resiliency in
   our local food system. Combining data and community perspectives, the new Good
   Food For All Agenda will translate community priorities to policy makers so
   that all Angelenos can enjoy healthy, sustainable food.
-project_impact: '["Access to healthy food","Obesity","Resilient communities"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to healthy food
   - Obesity
   - Resilient communities
-project_proposal_description: >-
-  The Los Angeles Food Policy Council will catalyze, coordinate and connect over
-  300 local organizations and hundreds more stakeholders to create a NEW Good
-  Food For All Agenda – a visionary policy platform for health and resiliency in
-  our local food system. Combining data and community perspectives, the new Good
-  Food For All Agenda will translate community priorities to policy makers so
-  that all Angelenos can enjoy healthy, sustainable food.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Los Angeles sits at the heart of the largest food producing region in the
   nation, yet many low-income communities in Los Angeles County lack access to
   affordable, nutritious food. Small and medium-sized local farmers struggle to
@@ -139,6 +92,44 @@ project_proposal_best_place: >-
   Using these three strategies- and your help- we will generate a new Good Food
   For All Agenda, which will offer concrete action steps to create a healthy and
   fair food system that makes LA the best place to LIVE.
+Please explain how you will define and measure success for your project.​: >-
+  We will measure success through: 
+
+
+  (1) Reach - Develop a New Good Food for All Agenda that aggregates the policy
+  priorities of hundreds of organizations and community members. Our goal is to
+  release the Agenda at our annual Food Day event— the city’s largest civic
+  engagement event on food. The report will also be available through our
+  website. We will document the number of organizations and individuals who
+  contributed to the process, and use web analytics to determine the reach of
+  the report’s dissemination.
+
+
+  (2) Capacity Building – We want the process of developing the new Good Food
+  For All Agenda to be empowering for everyone involved. We will gather feedback
+  and input at 3 public Network meetings, approximately 20 Working Group
+  meetings, and 3 community workshops to ensure holistic policy recommendations
+  are grounded in the experience of communities. We will also offer 3 public
+  trainings on data we are collecting about the health, resiliency and fairness
+  of our regional food system. To measure the impact of the process itself, we
+  will survey participants at each convening to evaluate changes in knowledge,
+  skills and relationships. 
+
+
+  (3) Diversity – It's important we hear from the most impacted communities in
+  LA’s food system – youth, workers, low-income mothers, etc. We will conduct
+  robust outreach, collect appropriate demographic information, and ally
+  ourselves with community-based organizations representing diverse and
+  underrepresented communities.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - 'Education/training '
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/food-democracy-in-la-creating-policy-ideas-for-a-healthy-fair-food-system/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6804863875741-team90.jpg
 organization_name: Los Angeles Food Policy Council

@@ -15,66 +15,24 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9146110265741-team88.jpg
 project_video: 'https://www.youtube.com/embed/QpfhY-eA-N8?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: NA
-project_measure: >-
-  Our ultimate goal is to improve LA kids’ lives by minimizing incidences of
-  trauma and reducing the impact when it occurs.  Our success will be measured
-  by the reduction in the number of children who have Adverse Childhood
-  Experiences and the increase in the number of children who have access to the
-  supports and services they need to prevent or heal from trauma, including
-  health coverage and access to mental health services. We will track
-  county-level data over time to see whether our efforts are successful. We
-  already regularly track this kind of data through our California Scorecard of
-  Children’s Wellbeing (http://scorecard.childrennow.org/2014/), and will
-  highlight LA County trauma related indicators.
-
-
-  In the short-term, we will measure success by the size and diversity of the
-  coordinated trauma advocacy network. We will track the number of groups and
-  individuals that join the network and participate in public support campaigns,
-  including sign on statements and communications to policy makers. To measure
-  the impact of the public support campaign, we will track the number of
-  targeted communications that are produced by the advocacy network and for
-  local policymakers, qualitative data on local policy decisions that are made
-  based on our efforts, and traditional and social media produced as well as the
-  reach of those communications.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Too many LA children experience frequent traumatic events that can be toxic
   and lead to a lifetime of physical and emotional challenges. Children Now will
   bring together thousands of voices in LA County to promote a comprehensive
   policy agenda to reduce childhood trauma and ensure the needed supports for
   kids who experience it. The power of these voices will be demonstrated through
   a public support campaign and advocacy around specific policy changes.
-project_impact: >-
-  ["Healthcare access","Resilient communities","Residents receiving coordinated
-  healthcare services","Prevalence of adverse childhood
-  experiences","Homelessness","Mental illness"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Healthcare access
   - Resilient communities
   - Residents receiving coordinated healthcare services
   - Prevalence of adverse childhood experiences
   - Homelessness
   - Mental illness
-project_proposal_description: >-
-  Too many LA children experience frequent traumatic events that can be toxic
-  and lead to a lifetime of physical and emotional challenges. Children Now will
-  bring together thousands of voices in LA County to promote a comprehensive
-  policy agenda to reduce childhood trauma and ensure the needed supports for
-  kids who experience it. The power of these voices will be demonstrated through
-  a public support campaign and advocacy around specific policy changes.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Traumatic events in a child's life such as abuse, neglect and neighborhood
   violence can be toxic and lead to a lifetime of health consequences such as
   heart disease, diabetes, and depression, as well as social consequences such
@@ -126,6 +84,36 @@ project_proposal_best_place: >-
   agenda. It will be used to urge the LA County Board of Supervisors, school
   districts, and other LA policymakers to take action on the agenda and make
   real change to make LA the Best Place to Live for kids.
+Please explain how you will define and measure success for your project.​: >-
+  Our ultimate goal is to improve LA kids’ lives by minimizing incidences of
+  trauma and reducing the impact when it occurs.  Our success will be measured
+  by the reduction in the number of children who have Adverse Childhood
+  Experiences and the increase in the number of children who have access to the
+  supports and services they need to prevent or heal from trauma, including
+  health coverage and access to mental health services. We will track
+  county-level data over time to see whether our efforts are successful. We
+  already regularly track this kind of data through our California Scorecard of
+  Children’s Wellbeing (http://scorecard.childrennow.org/2014/), and will
+  highlight LA County trauma related indicators.
+
+
+  In the short-term, we will measure success by the size and diversity of the
+  coordinated trauma advocacy network. We will track the number of groups and
+  individuals that join the network and participate in public support campaigns,
+  including sign on statements and communications to policy makers. To measure
+  the impact of the public support campaign, we will track the number of
+  targeted communications that are produced by the advocacy network and for
+  local policymakers, qualitative data on local policy decisions that are made
+  based on our efforts, and traditional and social media produced as well as the
+  reach of those communications.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/lifting-up-las-voice-for-kids-to-live-trauma-free-by-2050/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9146110265741-team88.jpg
 organization_name: Children Now

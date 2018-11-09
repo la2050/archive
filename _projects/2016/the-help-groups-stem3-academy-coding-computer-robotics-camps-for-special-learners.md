@@ -17,32 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1670488055741-team91.png
 project_video: 'https://www.youtube.com/embed/n9iSFsPt5ME?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: >-
-  None specifically, although The Help Group comprises a family of nonprofit
-  organizations working to improve the lives of individuals with special needs.
-  Our schools, including STEM3 Academy, accept students from more than 50 school
-  districts across Southern California.
-project_measure: >-
-  We will define success by offering STEM camps and afterschool programs at two
-  locations for special needs students across Los Angeles. We will measure
-  through data collected on recruitment and attendance rates; successful
-  completion of STEM projects including robotics challenges; rates of return
-  students. We will evaluate through questionnaires and stakeholder interviews
-  to collect detailed information about program success. Information will be
-  compiled and analyzed by senior staff members, who will use it to improve
-  quality of our programs on an ongoing basis and to determine optimum methods
-  for scaling the program to larger audiences across the autism and special
-  needs communities.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Many special learners are underserved in STEM education. Our project reduces
   barriers to STEM skills for students diagnosed with autism, ADHD and other
   special needs by offering afterschool and summer STEM camps designed
@@ -50,12 +26,7 @@ project_description: >-
   STEM3 Academy, the first K-12 school in the nation designed to build STEM
   competence in children with special needs, and will include programs in cyber
   security, robotics, coding and computers.
-project_impact: >-
-  ["College completion","College matriculation rates","District-wide graduation
-  rates","Proficiency in English and Language Arts and Math","Student education
-  pipeline","Suspension and expulsion rates","Youth unemployment and
-  underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - District-wide graduation rates
@@ -63,15 +34,7 @@ project_proposal_impact:
   - Student education pipeline
   - Suspension and expulsion rates
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  Many special learners are underserved in STEM education. Our project reduces
-  barriers to STEM skills for students diagnosed with autism, ADHD and other
-  special needs by offering afterschool and summer STEM camps designed
-  specifically for special learners. The engaging camps extend the reach of
-  STEM3 Academy, the first K-12 school in the nation designed to build STEM
-  competence in children with special needs, and will include programs in cyber
-  security, robotics, coding and computers.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -85,7 +48,7 @@ project_areas:
   - City of Los Angeles
   - LAUSD
   - We work with more than 50 school districts
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The Help Group is known for innovative approaches to educating young people
   with special needs & transitioning them to fulfilling lives. Each year we
   serve some 6,000 students & their families with a range of services, operating
@@ -134,6 +97,25 @@ project_proposal_best_place: >-
   are educated, but also in the way they think about themselves, their futures
   and their roles in society. We have been innovators on ways to improve the
   lives of our community. Please help us reach more students across Los Angeles.
+Please explain how you will define and measure success for your project.​: >-
+  We will define success by offering STEM camps and afterschool programs at two
+  locations for special needs students across Los Angeles. We will measure
+  through data collected on recruitment and attendance rates; successful
+  completion of STEM projects including robotics challenges; rates of return
+  students. We will evaluate through questionnaires and stakeholder interviews
+  to collect detailed information about program success. Information will be
+  compiled and analyzed by senior staff members, who will use it to improve
+  quality of our programs on an ongoing basis and to determine optimum methods
+  for scaling the program to larger audiences across the autism and special
+  needs communities.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/the-help-groups-stem3-academy-coding-computer-robotics-camps-for-special-learners/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1670488055741-team91.png
 organization_name: The Help Group's STEM3 Academy

@@ -17,30 +17,10 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5529285065741-team91.JPG
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
    No organizations confirmed at this time. We plan to collaborate with an array
   of local artists, civic leaders and community members.
-project_measure: >-
-  SIJCC’s campus being filled with local artists and creatives working,
-  rehearsing and sparking new work, audiences engaged in conversation about
-  relevant issues through an artistic lens, and community members seeing ideas
-  presented in new ways will all be indicators of this program’s success. We
-  will measure series attendance, track retention and attrition over the course
-  of the series and the number of new people coming to SIJCC. We’ll track
-  audience engagement both online through social media insights and in person to
-  learn what is and isn’t working, and to adjust accordingly. We will survey
-  participating artists, civic leaders and creatives to understand the value to
-  the series to them and their work.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Education/training '
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   We believe in the power of arts and culture to transform communities. Our
   pilot cultural series is built on the creative capital of LA’s east side
   neighborhoods and will highlight local artists from diverse disciplines,
@@ -48,26 +28,15 @@ project_description: >-
   creative work at reduced rates. Through five key focuses — talk, music,
   performance, movement and family — we will bring the community together to
   learn, create and discover together.
-project_impact: >-
-  ["Arts establishments","Employment in the creative industries","Jobs per
-  capita"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Employment in the creative industries
   - Jobs per capita
-project_proposal_description: >-
-  We believe in the power of arts and culture to transform communities. Our
-  pilot cultural series is built on the creative capital of LA’s east side
-  neighborhoods and will highlight local artists from diverse disciplines,
-  compensate them for their time and talents and offer space for rehearsal and
-  creative work at reduced rates. Through five key focuses — talk, music,
-  performance, movement and family — we will bring the community together to
-  learn, create and discover together.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   SIJCC’s new cultural series will value artists and creatives who live and work
   in Los Angeles and share our mission of redefining rituals, collaboration and
   experimentation. We hope to present 10 events in the next year across the
@@ -109,6 +78,25 @@ project_proposal_best_place: >-
   community members who are pursuing the arts. Space would be reserved on a
   first-come, first-serve basis, and participating artists would be encouraged
   to find ways to share their work back with the broader community.
+Please explain how you will define and measure success for your project.​: >-
+  SIJCC’s campus being filled with local artists and creatives working,
+  rehearsing and sparking new work, audiences engaged in conversation about
+  relevant issues through an artistic lens, and community members seeing ideas
+  presented in new ways will all be indicators of this program’s success. We
+  will measure series attendance, track retention and attrition over the course
+  of the series and the number of new people coming to SIJCC. We’ll track
+  audience engagement both online through social media insights and in person to
+  learn what is and isn’t working, and to adjust accordingly. We will survey
+  participating artists, civic leaders and creatives to understand the value to
+  the series to them and their work.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Education/training '
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/locally-grown-art-a-series-featuring-la-artists-in-performance-movement-talk-music-family-fun/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5529285065741-team91.JPG
 organization_name: SIJCC

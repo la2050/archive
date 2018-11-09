@@ -16,51 +16,11 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3772023193741-team89.jpg
 project_video: 'https://www.youtube.com/embed/7ku12q5dd4k?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   USC Dept. of Architecture and Spatial Sciences   Institute, USC Dept. of
   Occupational Therapy and Affiliates, Green Octopus Consulting, Richard Lerman,
   Sound Artist/Professor, Sound, Media & Digital Arts, Arizona State University
-project_measure: >-
-  The following metrics will be used:
-
-  • Number of visitors participating in the play-based experiments.
-
-  • Time spent by visitors simply playing for fun.
-
-  • Number of local residents attending the events.
-
-  • Number of schools participating.
-
-  • Number of visitors asking questions about the research or future green alley
-  proposal.
-
-  • Number of visitors interacting with the researchers and their level of
-  interest.
-
-  • Number of visitors from different generations interacting with each other.
-
-  • Usefulness of data collected by the researchers.
-
-
-  Success will be measured throughout the project using our four PLAYlab pop-ups
-  as benchmarks and using insights gained from one event to inform the next.
-  Success will be measured not only by how many visitors attend the pop-up
-  events but their level of engagement with the participatory research.
-
-
-  Our ultimate measurement of success for this project will be: community and
-  outside visitor attendance, active participation by attendees and solid
-  responsiveness by developers and City Agencies to take these projects to the
-  next level of permanence.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Please describe your project proposal.: >-
   Through the Green Alley PLAYlab we will temporarily transform a series of
   industrial alleys into playful public landscapes for the community. We
   envision these landscapes as labs for sensory driven experiments created by
@@ -68,27 +28,15 @@ project_description: >-
   development. This new model for community engagement builds momentum towards
   our ultimate goal of a green alley trail system that prioritizes human,
   ecological and economic health.
-project_impact: >-
-  ["Number (and quality) of informal spaces for play","Number of parks with
-  intergenerational play opportunities","Number of residents with easy access to
-  a “vibrant” park","Perceived safety"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Number (and quality) of informal spaces for play
   - Number of parks with intergenerational play opportunities
   - Number of residents with easy access to a “vibrant” park
   - Perceived safety
-project_proposal_description: >-
-  Through the Green Alley PLAYlab we will temporarily transform a series of
-  industrial alleys into playful public landscapes for the community. We
-  envision these landscapes as labs for sensory driven experiments created by
-  our collaborators who specialize in: healthcare, art, ecology and business
-  development. This new model for community engagement builds momentum towards
-  our ultimate goal of a green alley trail system that prioritizes human,
-  ecological and economic health.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Our proposal makes LA the best place to play because it recognizes the power
   of play to deepen our connection to the environment in which we live. This
   connection enriches the design potential for play in green alleys while
@@ -137,6 +85,45 @@ project_proposal_best_place: >-
   develop a full-blown pilot project intended to move IDG’s efforts to the next
   level by using the power of play as a strategy for invoking long awaited
   change.
+Please explain how you will define and measure success for your project.​: >-
+  The following metrics will be used:
+
+  • Number of visitors participating in the play-based experiments.
+
+  • Time spent by visitors simply playing for fun.
+
+  • Number of local residents attending the events.
+
+  • Number of schools participating.
+
+  • Number of visitors asking questions about the research or future green alley
+  proposal.
+
+  • Number of visitors interacting with the researchers and their level of
+  interest.
+
+  • Number of visitors from different generations interacting with each other.
+
+  • Usefulness of data collected by the researchers.
+
+
+  Success will be measured throughout the project using our four PLAYlab pop-ups
+  as benchmarks and using insights gained from one event to inform the next.
+  Success will be measured not only by how many visitors attend the pop-up
+  events but their level of engagement with the participatory research.
+
+
+  Our ultimate measurement of success for this project will be: community and
+  outside visitor attendance, active participation by attendees and solid
+  responsiveness by developers and City Agencies to take these projects to the
+  next level of permanence.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/the-green-alley-playlab-pop-up-playscapes-in-the-industrial-alleys-of-downtown-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3772023193741-team89.jpg
 organization_name: >-

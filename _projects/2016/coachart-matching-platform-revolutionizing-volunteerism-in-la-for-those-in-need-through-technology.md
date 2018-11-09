@@ -17,32 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3678478165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/dYGBRY6Ol30?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  For the project, we define success in how efficient and effective we recruit,
-  train, and engage volunteers. 
-
-
-  We will measure success in the following ways: 
-
-  - Recruit volunteers more efficiently and effectively. We will achieve a 50%
-  increase in the number of volunteers in our database
-
-  - Train volunteers more efficiently and effectively. We will achieve a 50%
-  decrease by moving trainings online with self-learner functionality
-
-  - Provide a volunteer community. We will increase volunteer engagement by 500
-  instances online in the first year of the creation of the volunteer forum
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   The founding concept of CoachArt was to create an Ebay-like marketplace for
   students with chronic illness to be matched with volunteer coaches. The
   CoachArt Matching Platform will bring this concept to life by implementing a
@@ -50,18 +26,9 @@ project_description: >-
   entire process of engaging, training, and on-boarding volunteers online to
   reduce excessive overhead and time needed to prepare them to be matched with a
   student.
-project_impact: '["Rates of volunteerism"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Rates of volunteerism
-project_proposal_description: >-
-  The founding concept of CoachArt was to create an Ebay-like marketplace for
-  students with chronic illness to be matched with volunteer coaches. The
-  CoachArt Matching Platform will bring this concept to life by implementing a
-  technological solution to our current volunteer program. We intend to move our
-  entire process of engaging, training, and on-boarding volunteers online to
-  reduce excessive overhead and time needed to prepare them to be matched with a
-  student.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -73,7 +40,7 @@ project_areas:
   - Antelope Valley
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Los Angeles is booming. From the re-emergence of a thriving downtown to having
   the third largest technological ecosystem in the nation, Los Angeles is a
   force to be reckoned with. Residents continue to find innovative ways to
@@ -117,6 +84,29 @@ project_proposal_best_place: >-
   Moreover, our “moonshot” includes the creation of a replicable tool that will
   empower any current and future organizations with a matching model in their
   organization helping increase volunteerism rates in LA.
+Please explain how you will define and measure success for your project.​: >-
+  For the project, we define success in how efficient and effective we recruit,
+  train, and engage volunteers. 
+
+
+  We will measure success in the following ways: 
+
+  - Recruit volunteers more efficiently and effectively. We will achieve a 50%
+  increase in the number of volunteers in our database
+
+  - Train volunteers more efficiently and effectively. We will achieve a 50%
+  decrease by moving trainings online with self-learner functionality
+
+  - Provide a volunteer community. We will increase volunteer engagement by 500
+  instances online in the first year of the creation of the volunteer forum
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/coachart-matching-platform-revolutionizing-volunteerism-in-la-for-those-in-need-through-technology/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3678478165741-team91.jpg
 organization_name: CoachArt

@@ -17,8 +17,7 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2749938065741-team91.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Prep for Art - College Coaching for creative students, based in Los Angeles.
   Prep for Art is spearheaded by Linda Pollack, a Los Angeles based artist and
   member of the National Association for College Admission Counseling (NACAC)
@@ -26,26 +25,7 @@ project_collaborators: >-
   gives presentations about supporting student creativity and college
   supplements in public libraries as well as events like College Day at Beverly
   Hills High School.
-project_measure: >-
-  The success of this project will be measured in terms of the number of 
-  students we will reach out to in general presentations, as well as the number
-  of students we ultimately work with in supporting them as they develop,
-  complete and submit their college application. This includes students who are
-  applying to arts programs with a required portfolio as part of the application
-  process, as well as students who receive our college counseling support and
-  create portfolios as a supplemental component of their application package to
-  broader college programs (ie, liberal arts, communications and other majors).
-  We will track students as they journey through college to provide support
-  during their college years and track and note their completion, transfer and
-  withdrawal rates.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   Cultivating Creative Students (CCS) broadens access to creative fields by
   supporting hs students as they prepare for life after high school. While most
   students have access to some form of college counseling, few high schools are
@@ -53,27 +33,16 @@ project_description: >-
   rigorous creative college prep resources, including college counseling,
   portfolio coaching, documentation and more, to students lacking the financial
   resources for such focussed support.
-project_impact: >-
-  ["College completion","College matriculation rates","Student education
-  pipeline"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - Student education pipeline
-project_proposal_description: >-
-  Cultivating Creative Students (CCS) broadens access to creative fields by
-  supporting hs students as they prepare for life after high school. While most
-  students have access to some form of college counseling, few high schools are
-  versed in supporting students for creative college programs. CCS will provide
-  rigorous creative college prep resources, including college counseling,
-  portfolio coaching, documentation and more, to students lacking the financial
-  resources for such focussed support.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
   - South LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Most schools in Los Angeles, including public schools, provide some form of
   basic college counseling for their students. Providing college counseling
   geared towards creative students pursuing arts and/or broader liberal arts
@@ -107,6 +76,25 @@ project_proposal_best_place: >-
 
   In this way CCS opens up creative fields and practices to a more inclusive Los
   Angeles.
+Please explain how you will define and measure success for your project.​: >-
+  The success of this project will be measured in terms of the number of 
+  students we will reach out to in general presentations, as well as the number
+  of students we ultimately work with in supporting them as they develop,
+  complete and submit their college application. This includes students who are
+  applying to arts programs with a required portfolio as part of the application
+  process, as well as students who receive our college counseling support and
+  create portfolios as a supplemental component of their application package to
+  broader college programs (ie, liberal arts, communications and other majors).
+  We will track students as they journey through college to provide support
+  during their college years and track and note their completion, transfer and
+  withdrawal rates.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/cultivating-creative-students-opens-up-creative-fields-to-los-angeles-high-school-students/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2749938065741-team91.jpg
 organization_name: Wisdom Arts Laboratory

@@ -17,46 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6403175774741-team90.jpg
 project_video: 'https://www.youtube.com/embed/xQ9wavSt_34?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Over the past 10 years, thousands of testimonials and an external evaluator
-  have confirmed Get Lit’s capacity to transform dismal statistics into a
-  literate, engaged community of youth who have reclaimed their lives by
-  claiming poems. 
-
-
-  Get Lit will measure the impacts and success of the Lit for Literacy Tour
-  using all key quantitative data elements – including how many schools
-  implement our curriculum, how many students graduate from our program, and how
-  many students attend performances – as well as qualitative data from student,
-  teacher, and principal surveys that assess changes individually, in the
-  classroom, and in the school culture. We will also collect and compare pre­
-  and post­English Language Arts test scores in the schools that we work with
-  and evaluate improvements in writing, reading, and memorization; increased
-  life skills as students apply their learning across curriculum and make
-  connections to future careers; and broadened horizons full of personal
-  relevancy, hope, and renewed enthusiasm for learning. 
-
-
-  Get Lit’s school curriculum promotes literacy and college readiness; develops
-  critical thinking, public speaking, and performance abilities; creates
-  leaders; and develops vital social skills that are rooted in self-awareness
-  and confidence, personal responsibility, collaboration, and compassion. A
-  successful Tour will achieve all this while increasing exposure to and
-  engagement in media literacy and the transformative power of poetic
-  expression.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - n/a
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Get Lit seeks funds to put the Get Lit Players on our brand new Poetry Bus for
   a “Lit for Literacy” Tour that will visit underserved middle schools, high
   schools, and community centers throughout Los Angeles County. The Tour will
@@ -64,25 +26,13 @@ project_description: >-
   and poems, to inspire teens to get involved and stay in school, cultivate a
   love of language and learning, and ignite community, connectedness, and social
   activism amongst the citizens of LA.
-project_impact: >-
-  ["Social & emotional support","Cultural events","Public/open streets
-  gatherings","Residential segregation","Total number of local social media
-  friends and connections Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Public/open streets gatherings
   - Residential segregation
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  Get Lit seeks funds to put the Get Lit Players on our brand new Poetry Bus for
-  a “Lit for Literacy” Tour that will visit underserved middle schools, high
-  schools, and community centers throughout Los Angeles County. The Tour will
-  use the Players’ new book “Get Lit Rising,” which includes personal stories
-  and poems, to inspire teens to get involved and stay in school, cultivate a
-  love of language and learning, and ignite community, connectedness, and social
-  activism amongst the citizens of LA.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -95,7 +45,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Beat poet Lenore Kendel once wrote she was “taking poetry out of the classroom
   and into the streets” and that’s just what she and her Beat contemporaries
   including Keroac, Ferlinghetti, and Ginsberg did. Their innovative poetry
@@ -148,6 +98,43 @@ project_proposal_best_place: >-
   reach many more people. By connecting Los Angeles youth from different areas
   and amplifying their voices to adults and policy makers, we can create a more
   engaged populace that betters the lives of all Angelinos to come.
+Please explain how you will define and measure success for your project.​: >-
+  Over the past 10 years, thousands of testimonials and an external evaluator
+  have confirmed Get Lit’s capacity to transform dismal statistics into a
+  literate, engaged community of youth who have reclaimed their lives by
+  claiming poems. 
+
+
+  Get Lit will measure the impacts and success of the Lit for Literacy Tour
+  using all key quantitative data elements – including how many schools
+  implement our curriculum, how many students graduate from our program, and how
+  many students attend performances – as well as qualitative data from student,
+  teacher, and principal surveys that assess changes individually, in the
+  classroom, and in the school culture. We will also collect and compare pre­
+  and post­English Language Arts test scores in the schools that we work with
+  and evaluate improvements in writing, reading, and memorization; increased
+  life skills as students apply their learning across curriculum and make
+  connections to future careers; and broadened horizons full of personal
+  relevancy, hope, and renewed enthusiasm for learning. 
+
+
+  Get Lit’s school curriculum promotes literacy and college readiness; develops
+  critical thinking, public speaking, and performance abilities; creates
+  leaders; and develops vital social skills that are rooted in self-awareness
+  and confidence, personal responsibility, collaboration, and compassion. A
+  successful Tour will achieve all this while increasing exposure to and
+  engagement in media literacy and the transformative power of poetic
+  expression.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - n/a
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/get-lit-players-go-on-a-lit-for-literacy-tour-in-los-angeles-first-poetry-bus/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6403175774741-team90.jpg
 organization_name: Get Lit-Words Ignite

@@ -15,71 +15,21 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2775648715741-team90.jpg
 project_video: 'https://www.youtube.com/embed/Y7hnhC54WqA?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Work will be evaluated on a number of levels. These include:
-
-
-  Participation
-
-
-  Attendees / artists, performers, vendors, etc.
-
-
-  Support: Number of behind the scenes individuals (external to RFP) working to
-  produce Da FUNction such as city officials working with us (vs for us) in-kind
-  donations, volunteers, etc. 
-
-
-  Notoriety
-
-
-  Press coverage, engagement metrics on social media channels (i.e. shares,
-  views, posts). 
-
-
-  Ultimately, we would like to export Da FUNction to other places outside of
-  South LA. Therefore the trajectory of the program is to scale it up in order
-  to scale it out. As such, evaluating the success of Da FUNction in the long
-  term will deal with building notoriety at the national level in order to build
-  a demand for Da FUNction (i.e. make people want to bring Da FUNction to their
-  neighborhood).
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   An annual community fun-fest  held at a public venue in South LA, Da FUNction
   offers residents and the larger LA community a day of play with a diverse menu
   of activities ranging from drumming, weaving, ceramics, woodworking,
   gardening, yoga and more. Da FUNction serves to transform unused, undervalued
   public spaces into beautiful places full of life, culture & art.
-project_impact: >-
-  ["Access to open space and park facilities","Number (and quality) of informal
-  spaces for play","Number of parks with intergenerational play
-  opportunities","Perceived safety"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to open space and park facilities
   - Number (and quality) of informal spaces for play
   - Number of parks with intergenerational play opportunities
   - Perceived safety
-project_proposal_description: >-
-  An annual community fun-fest  held at a public venue in South LA, Da FUNction
-  offers residents and the larger LA community a day of play with a diverse menu
-  of activities ranging from drumming, weaving, ceramics, woodworking,
-  gardening, yoga and more. Da FUNction serves to transform unused, undervalued
-  public spaces into beautiful places full of life, culture & art.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Da FUNction at Vermont Square is an interactive event where attendees are
   completely immersed in art and community from the moment they arrive. Whether
   they are getting their hands dirty in the garden; learning and practicing
@@ -112,6 +62,45 @@ project_proposal_best_place: >-
   pollution, Da FUNction can also deliver a wide range of social, economic and
   environmental benefits to make cities more attractive and healthier places to
   be.
+Please explain how you will define and measure success for your project.​: >-
+  Work will be evaluated on a number of levels. These include:
+
+
+  Participation
+
+
+  Attendees / artists, performers, vendors, etc.
+
+
+  Support: Number of behind the scenes individuals (external to RFP) working to
+  produce Da FUNction such as city officials working with us (vs for us) in-kind
+  donations, volunteers, etc. 
+
+
+  Notoriety
+
+
+  Press coverage, engagement metrics on social media channels (i.e. shares,
+  views, posts). 
+
+
+  Ultimately, we would like to export Da FUNction to other places outside of
+  South LA. Therefore the trajectory of the program is to scale it up in order
+  to scale it out. As such, evaluating the success of Da FUNction in the long
+  term will deal with building notoriety at the national level in order to build
+  a demand for Da FUNction (i.e. make people want to bring Da FUNction to their
+  neighborhood).
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/the-ron-finley-project-presents-da-function-a-community-fun-fest/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2775648715741-team90.jpg
 organization_name: The Ron Finley Project

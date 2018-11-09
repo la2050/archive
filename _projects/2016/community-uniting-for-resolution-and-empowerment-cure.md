@@ -15,41 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1299310265741-team90.jpg
 project_video: 'https://www.youtube.com/embed/oHWTV6mzQbg?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: "•\tCoalition for Responsible Community Development, •\tLA City Attorney Office, •\tLA County Public Defender"
-project_measure: >-
-  CRCD defines success as a participant who enrolls, completes the program, and
-  is successfully able to earn dismissal/reduction of gang-related misdemeanor
-  charges.
-
-
-  In addition, the LA City Attorney’s office and CRCD work collaboratively to
-  define and measure success for the CURE project. The City Attorney’s office
-  evaluates the success of the program by evaluating: 1)  The number of
-  defendants that choose to participate in the program, 2)  The number of
-  defendants that successfully complete the program, 3)  The time it takes
-  defendants to successfully complete the program, and 4)  The rate of
-  recidivism for program participants once they complete.
-
-
-  The City Attorney’s office gathers data on the progress of the program on a
-  monthly basis and submits to CRCD’s program manager on a monthly basis. The
-  program manager works with his or her team to establish a baseline and develop
-  benchmarks to create a continuous improvement plan.
-
-  CRCD also seeks to have third party evaluation of our programs to determine
-  success. The most recent third party evaluation of our CURE program was
-  conducted by California State University, Los Angeles. The evaluation revealed
-  that the CURE program shows promising outcomes among the targeted population.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - 'Staff '
-  - Publicity/awareness
-  - 'Education/training '
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: "•\tCoalition for Responsible Community Development, •\tLA City Attorney Office, •\tLA County Public Defender"
+Please describe your project proposal.: >-
   CURE focuses on cases prosecuted by the City Attorney’s Anti-Gang Section.
   CURE offers youth an opportunity to earn the dismissal of their case by
   engaging in 12-18 months of education, vocational training, and wrap-around
@@ -57,29 +24,17 @@ project_description: >-
   redirects youth to productive activities in order to prevent escalation of
   misdemeanor offenses to felony level violence and to increase community
   safety.
-project_impact: >-
-  ["College matriculation rates","District-wide graduation rates","Proficiency
-  in English and Language Arts and Math","Student education pipeline","Youth
-  unemployment and underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College matriculation rates
   - District-wide graduation rates
   - Proficiency in English and Language Arts and Math
   - Student education pipeline
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  CURE focuses on cases prosecuted by the City Attorney’s Anti-Gang Section.
-  CURE offers youth an opportunity to earn the dismissal of their case by
-  engaging in 12-18 months of education, vocational training, and wrap-around
-  services such as mental health care. CURE is a violence prevention effort that
-  redirects youth to productive activities in order to prevent escalation of
-  misdemeanor offenses to felony level violence and to increase community
-  safety.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South LA
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   South LA has the highest number of youth aged 18-25 on probation - 6,339 in
   2009 –among all LA County Supervisorial Districts (“County of LA Young
   Offender Blueprint”, 2011). Incarceration increases exposure to infectious
@@ -129,6 +84,38 @@ project_proposal_best_place: >-
   vision to prevent escalation of offenses. Since its launch in 2010, CRCD has
   engaged a total of 94 young people in diversion from incarceration and has
   catalyzed meaningful change in LA’s criminal justice system.
+Please explain how you will define and measure success for your project.​: >-
+  CRCD defines success as a participant who enrolls, completes the program, and
+  is successfully able to earn dismissal/reduction of gang-related misdemeanor
+  charges.
+
+
+  In addition, the LA City Attorney’s office and CRCD work collaboratively to
+  define and measure success for the CURE project. The City Attorney’s office
+  evaluates the success of the program by evaluating: 1)  The number of
+  defendants that choose to participate in the program, 2)  The number of
+  defendants that successfully complete the program, 3)  The time it takes
+  defendants to successfully complete the program, and 4)  The rate of
+  recidivism for program participants once they complete.
+
+
+  The City Attorney’s office gathers data on the progress of the program on a
+  monthly basis and submits to CRCD’s program manager on a monthly basis. The
+  program manager works with his or her team to establish a baseline and develop
+  benchmarks to create a continuous improvement plan.
+
+  CRCD also seeks to have third party evaluation of our programs to determine
+  success. The most recent third party evaluation of our CURE program was
+  conducted by California State University, Los Angeles. The evaluation revealed
+  that the CURE program shows promising outcomes among the targeted population.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - 'Staff '
+  - Publicity/awareness
+  - 'Education/training '
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/community-uniting-for-resolution-and-empowerment-cure/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1299310265741-team90.jpg
 organization_name: Coalition for Responsible Community Development

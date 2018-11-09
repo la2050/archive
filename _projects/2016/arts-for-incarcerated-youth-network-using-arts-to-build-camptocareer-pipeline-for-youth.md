@@ -17,19 +17,11 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1371941023741-team90.jpg
 project_video: 'https://www.youtube.com/embed/Wx27G6vdyF4?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Actors' Gang, Armory Center for the Arts, ArtWorx, Coalition for Engaged
   Education, InsideOut Writers, Jail Guitar Doors, Rhythm Arts Alliance, Street
   Poets, Unusual Suspects, Write Girl/Bold Ink
-project_measure: "We're thrilled that our success to date has solidified our partnership with public agencies.  Additionally, we will use evaluation surveys to gather information from students at the beginning and conclusion of each 12-week program cycle — in order to measure success for the project. Survey feedback will help us measure:\n-\tnumber of students enrolled in classes\n-\tincrease in student social-emotional skills, as measured by pre- and post- evaluation surveys\n-\tincrease in 21st Century creative economy job skills (communication, cooperation, compassion, critical thinking, creativity) as measured by pre- and post- evaluation surveys\n-\tnumber of students continuing a pathway to creative economy careers (as measured by enrollment in internships, jobs, etc.) \n-\tnumber of Probation staff who receive hands-on arts training (systems change)\n-\tNumber of youth engaged in defining advocacy and policy priorities\n-\tNumber of AIYN members and supporters who send letters, emails, and phone calls regarding advocacy opportunities\n\nAdditionally, we have a standard list of qualitative questions for the wrap-up class to gather more open-ended student feedback.  This feedback will also inform a collective platform for advocacy, as well as helping ongoing program improvement.  \n\nWe also implement pre- and post-surveys for Probation staff, as well as for our teaching artists, to ensure constant program evaluation and improvement."
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Technical infrastructure (computers etc.)
-project_description: >-
+Please describe your project proposal.: >-
   Under the coordination of AIYN, our ten member organizations will provide
   three 12-week cycles of multi-disciplinary arts in ten youth detention
   camps/halls and six Juvenile Day Reporting Centers across LA County in order
@@ -37,29 +29,16 @@ project_description: >-
   creative economies after release. Funds will leverage the current investment
   by LA County Probation and Arts Commission, enabling us to cover the full cost
   of our program.
-project_impact: >-
-  ["Employment in the creative industries","Jobs per capita","Percentage of
-  graduates from local higher education institutions that remain in LA County 5
-  years after graduating","Unemployment (and opportunities) for the formerly
-  incarcerated"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Employment in the creative industries
   - Jobs per capita
   - >-
     Percentage of graduates from local higher education institutions that remain
     in LA County 5 years after graduating
   - Unemployment (and opportunities) for the formerly incarcerated
-project_proposal_description: >-
-  Under the coordination of AIYN, our ten member organizations will provide
-  three 12-week cycles of multi-disciplinary arts in ten youth detention
-  camps/halls and six Juvenile Day Reporting Centers across LA County in order
-  to build youth resiliency, foster wellness and support career pathways to
-  creative economies after release. Funds will leverage the current investment
-  by LA County Probation and Arts Commission, enabling us to cover the full cost
-  of our program.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   AIYN is building a #camptocreativecareer pipeline through engagement,
   exposure, and connection to arts as a viable career option to youth in the
   justice system – youth who are also dramatically underrepresented in the
@@ -113,6 +92,13 @@ project_proposal_best_place: >-
   agencies, and between community agencies and public partners. With support,
   AIYN can become a valuable asset in strengthening and diversifying LA's
   creative economy.
+Please explain how you will define and measure success for your project.​: "We're thrilled that our success to date has solidified our partnership with public agencies.  Additionally, we will use evaluation surveys to gather information from students at the beginning and conclusion of each 12-week program cycle — in order to measure success for the project. Survey feedback will help us measure:\n-\tnumber of students enrolled in classes\n-\tincrease in student social-emotional skills, as measured by pre- and post- evaluation surveys\n-\tincrease in 21st Century creative economy job skills (communication, cooperation, compassion, critical thinking, creativity) as measured by pre- and post- evaluation surveys\n-\tnumber of students continuing a pathway to creative economy careers (as measured by enrollment in internships, jobs, etc.) \n-\tnumber of Probation staff who receive hands-on arts training (systems change)\n-\tNumber of youth engaged in defining advocacy and policy priorities\n-\tNumber of AIYN members and supporters who send letters, emails, and phone calls regarding advocacy opportunities\n\nAdditionally, we have a standard list of qualitative questions for the wrap-up class to gather more open-ended student feedback.  This feedback will also inform a collective platform for advocacy, as well as helping ongoing program improvement.  \n\nWe also implement pre- and post-surveys for Probation staff, as well as for our teaching artists, to ensure constant program evaluation and improvement."
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/arts-for-incarcerated-youth-network-using-arts-to-build-camptocareer-pipeline-for-youth/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1371941023741-team90.jpg
 organization_name: Arts For Incarcerated Youth Network

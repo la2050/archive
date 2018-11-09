@@ -14,55 +14,12 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2101126065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/xLSpVnV_dyk?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   State of California, , California Science Center, , California African
   American Museum, , Natural History Museum of Los Angeles, , City of Los
   Angeles Expo Center, , Los Angeles Memorial Coliseum Commission, , University
   of Southern California, , Los Angeles Football Club
-project_measure: >-
-  Success is defined as a strong Master Plan which incorporates a robust public
-  response from park stakeholders, including residents of the surrounding
-  community, park tenants and visitors, and transit riders. 
-
-
-  In order to measure our success, we will take a stakeholder inventory at the
-  outset of the project, including the population of surrounding neighborhoods,
-  annual park visitors, park tenants, and nearby transit riders. We will set
-  numerical goals based on our assessment of these populations, but our current
-  working assumption is that we will seek the following measurable input: 
-
-
-  • Launch of an Exposition Park oral history and storytelling website
-  soliciting input from the public, with promotion through social media and
-  public events. 
-
-
-  • 800 surveys of residents of adjacent neighborhoods
-
-
-  • 500 surveys of park visitors 
-
-
-  • 750 attendees at public meetings and events
-
-
-  • 5,000 unique visitors to project website
-
-
-  • 5,000 followers on Exposition Park Twitter and Instagram pages
-
-
-  • Engagement from a comprehensive list of museums and other park tenants,
-  nearby schools, and adjacent businesses.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   This is the first step in making Exposition Park a true transit crossroads
   linking South LA, Downtown, the Westside, and nearby communities. Our project
   is a participatory planning process, soliciting meaningful input from the
@@ -70,14 +27,7 @@ project_description: >-
   improve Exposition Park's contribution to surrounding neighborhoods by
   planning for additional amenities and better-marked links between public
   transit, pedestrian routes, and biking trails.
-project_impact: >-
-  ["Cultural events","Public/open streets gatherings","Government responsiveness
-  to residents’ needs","Travel time to work","Public transit
-  riders","Participation in neighborhood councils","Total number of local social
-  media friends and connections Angelenos have","Transit-accessible housing and
-  employment (the share of housing units and percentage of jobs that are located
-  within a half-mile of transit)"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Cultural events
   - Public/open streets gatherings
   - Government responsiveness to residents’ needs
@@ -88,17 +38,9 @@ project_proposal_impact:
   - >-
     Transit-accessible housing and employment (the share of housing units and
     percentage of jobs that are located within a half-mile of transit)
-project_proposal_description: >-
-  This is the first step in making Exposition Park a true transit crossroads
-  linking South LA, Downtown, the Westside, and nearby communities. Our project
-  is a participatory planning process, soliciting meaningful input from the
-  community to improve transit access, increase bike and pedestrian trips, and
-  improve Exposition Park's contribution to surrounding neighborhoods by
-  planning for additional amenities and better-marked links between public
-  transit, pedestrian routes, and biking trails.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Our project is a participatory neighborhood process for a much-needed
   Exposition Park Master Plan. The Master Plan will make the park both a
   destination and a gateway, bringing together South LA, Downtown, the Westside
@@ -168,6 +110,48 @@ project_proposal_best_place: >-
 
   • Interviews with park stakeholders, such as LA Metro, USC, and nearby
   businesses, schools, and the Neighborhood Council.
+Please explain how you will define and measure success for your project.​: >-
+  Success is defined as a strong Master Plan which incorporates a robust public
+  response from park stakeholders, including residents of the surrounding
+  community, park tenants and visitors, and transit riders. 
+
+
+  In order to measure our success, we will take a stakeholder inventory at the
+  outset of the project, including the population of surrounding neighborhoods,
+  annual park visitors, park tenants, and nearby transit riders. We will set
+  numerical goals based on our assessment of these populations, but our current
+  working assumption is that we will seek the following measurable input: 
+
+
+  • Launch of an Exposition Park oral history and storytelling website
+  soliciting input from the public, with promotion through social media and
+  public events. 
+
+
+  • 800 surveys of residents of adjacent neighborhoods
+
+
+  • 500 surveys of park visitors 
+
+
+  • 750 attendees at public meetings and events
+
+
+  • 5,000 unique visitors to project website
+
+
+  • 5,000 followers on Exposition Park Twitter and Instagram pages
+
+
+  • Engagement from a comprehensive list of museums and other park tenants,
+  nearby schools, and adjacent businesses.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/exposition-park-a-gateway-and-a-destination/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2101126065741-team90.jpg
 organization_name: Office of Exposition Park Management

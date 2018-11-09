@@ -17,95 +17,31 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4185192065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/v3ftc0qxlwI?rel=0?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Founding Partners of The Partnership for Los Angeles' Creative Education (The
   PLACE):, DSTL Arts, Emerging Arts Leaders/LA, , Affiliate
   Organizations/Programming Hosts:, Los Angeles Public Library–Junipero Serra
   (South LA) & Cypress Park branches, Los Angeles County Library–East LA
   Library, Trade School Los Angeles (nonprofit), Because China Arts (nonprofit),
   Poems and Petals (artist collective), ClusterFu (artist collective)
-project_measure: >-
-  Aside from establishing a permanent, sustainable workspace & infrastructure
-  being shared by members of The PLACE, we'll evaluate The Partnership for Los
-  Angeles' Creative Education annually based on the following goals:
-
-
-  DSTL Arts
-
-  -recruit & train 5 volunteer arts mentors for cohort of 20 total Arts
-  Mentorship Program students, ages 16–21
-
-  -provide 1,500 hours of mentorship to at-risk youth, ages 16–21
-
-  -60% of Arts Mentorship Program students will enroll in, or continue, post-HS
-  degree/certificate programs, 30% will continue HS, graduate, or enter
-  HS-equivalency programs
-
-  -fiscally sponsor 5 emerging women and/or minority artists
-
-  -75% of all program participants will indicate positive experience, artistic
-  growth, & improved self-esteem via our self-assessment tool
-
-
-  Emerging Arts Leaders/LA
-
-  -pair 16 emerging arts-professionals (age 22 & over) with 16 seasoned arts
-  admin through Protégé mentorship program
-
-  -offer 12 professional development workshops & mixers
-
-  -provide 20 professional development scholarships to emerging
-  arts-professionals serving on Leadership Council
-
-
-  Trade School LA
-
-  -recruit & train 75 volunteer instructors
-
-  -offer 120 barter-based educational classes, serving 1,000 participants
-
-
-  The PLACE
-
-  -host 16 internships in support of all programs
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   DSTL Arts & The PLACE, will establish & manage a centralized creative
   workspace that will act as a hub for training & resource development for
   volunteer mentors & teaching artists working within our respective mentorship
   programs for both at-risk youth (ages 16–24), & adult emerging artists & arts
   administrators, while also providing a fixed venue for our cultural events &
   arts programs in partnership with our affiliate organizations.
-project_impact: '["Social & emotional support","Cultural events","Rates of volunteerism"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Rates of volunteerism
-project_proposal_description: >-
-  DSTL Arts & The PLACE, will establish & manage a centralized creative
-  workspace that will act as a hub for training & resource development for
-  volunteer mentors & teaching artists working within our respective mentorship
-  programs for both at-risk youth (ages 16–24), & adult emerging artists & arts
-  administrators, while also providing a fixed venue for our cultural events &
-  arts programs in partnership with our affiliate organizations.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   We'll rent a commercial space & build infrastructure for The Partnership for
   Los Angeles’ Creative Education (PLACE), a collaboration between the
   nonprofits, DSTL Arts,  Emerging Arts Leaders/Los Angeles & our organizational
@@ -158,6 +94,61 @@ project_proposal_best_place: >-
   Council, “Protégé” emerging arts-professional mentorship program, &
   professional development workshops. Our shared infrastructure will match
   skills & interests of all volunteers with the appropriate programs.
+Please explain how you will define and measure success for your project.​: >-
+  Aside from establishing a permanent, sustainable workspace & infrastructure
+  being shared by members of The PLACE, we'll evaluate The Partnership for Los
+  Angeles' Creative Education annually based on the following goals:
+
+
+  DSTL Arts
+
+  -recruit & train 5 volunteer arts mentors for cohort of 20 total Arts
+  Mentorship Program students, ages 16–21
+
+  -provide 1,500 hours of mentorship to at-risk youth, ages 16–21
+
+  -60% of Arts Mentorship Program students will enroll in, or continue, post-HS
+  degree/certificate programs, 30% will continue HS, graduate, or enter
+  HS-equivalency programs
+
+  -fiscally sponsor 5 emerging women and/or minority artists
+
+  -75% of all program participants will indicate positive experience, artistic
+  growth, & improved self-esteem via our self-assessment tool
+
+
+  Emerging Arts Leaders/LA
+
+  -pair 16 emerging arts-professionals (age 22 & over) with 16 seasoned arts
+  admin through Protégé mentorship program
+
+  -offer 12 professional development workshops & mixers
+
+  -provide 20 professional development scholarships to emerging
+  arts-professionals serving on Leadership Council
+
+
+  Trade School LA
+
+  -recruit & train 75 volunteer instructors
+
+  -offer 120 barter-based educational classes, serving 1,000 participants
+
+
+  The PLACE
+
+  -host 16 internships in support of all programs
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/the-place-building-an-infrastructure-of-support-for-emerging-artists-and-their-mentors/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4185192065741-team91.jpg
 organization_name: DSTL Arts & The Partnership for Los Angeles' Creative Education (The PLACE)

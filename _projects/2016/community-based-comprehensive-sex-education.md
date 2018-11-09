@@ -14,22 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8267604165741-team90.jpg
 project_video: 'https://www.youtube.com/embed/wq7xVbwiQMA?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: N/A
-project_measure: >-
-  PPLA strives to increase knowledge related to sexual and reproductive health
-  and wellness, family planning, the key elements of healthy family
-  communication, and the importance of seeking health services. Longer term, our
-  goal is to make an impact on reducing the incidence of unintended pregnancy,
-  STIs, and reproductive system cancers. PPLA uses a data management system, the
-  Sex Education Knowledge System (SEKS), to track information on all of our
-  educational and outreach programs, including the number of presentations,
-  participants, educational contact hours, presenters, and presentation sites.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Our innovative, age-appropriate, and culturally competent sexuality and health
   education programs educate and empower youth, families, and communities
   throughout Los Angeles to make healthy choices. As the largest community
@@ -37,23 +23,12 @@ project_description: >-
   Los Angeles, our programs forge the critical link between underserved
   populations and our health centers, increasing awareness of the need for
   medical care and knowledge of how to access services.
-project_impact: >-
-  ["Healthcare access","Resilient communities","Residents receiving coordinated
-  healthcare services","Prevalence of adverse childhood experiences"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Healthcare access
   - Resilient communities
   - Residents receiving coordinated healthcare services
   - Prevalence of adverse childhood experiences
-project_proposal_description: >-
-  Our innovative, age-appropriate, and culturally competent sexuality and health
-  education programs educate and empower youth, families, and communities
-  throughout Los Angeles to make healthy choices. As the largest community
-  provider of classroom-based sex education and reproductive health services in
-  Los Angeles, our programs forge the critical link between underserved
-  populations and our health centers, increasing awareness of the need for
-  medical care and knowledge of how to access services.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -66,7 +41,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   PPLA sets the standard in sexual and reproductive health education. We deliver
   innovative, age-appropriate, and culturally competent sex education that
   empowers community members to make healthy choices. We partner with LAUSD to
@@ -113,6 +88,19 @@ project_proposal_best_place: >-
   communities, PPLA works to empower everyone in Los Angeles County to advocate
   for their own health, receive the medical services they need, and make
   positive decisions.
+Please explain how you will define and measure success for your project.​: >-
+  PPLA strives to increase knowledge related to sexual and reproductive health
+  and wellness, family planning, the key elements of healthy family
+  communication, and the importance of seeking health services. Longer term, our
+  goal is to make an impact on reducing the incidence of unintended pregnancy,
+  STIs, and reproductive system cancers. PPLA uses a data management system, the
+  Sex Education Knowledge System (SEKS), to track information on all of our
+  educational and outreach programs, including the number of presentations,
+  participants, educational contact hours, presenters, and presentation sites.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/community-based-comprehensive-sex-education/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8267604165741-team90.jpg
 organization_name: Planned Parenthood Los Angeles (PPLA)

@@ -15,53 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2726365725741-team91.jpg
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  We expect to see: 
-
-  •Increased student interest in reading
-
-  •Raised test scores 
-
-  •Increased student compassion 
-
-  •Teachers’ use of Jester teaching resources
-
-  •Hospital use of Jester therapeutic tools for patients
-
-  •Positive response from patients and families to “Jester” books & dolls 
-
-  We measure these outcomes by evaluating reading logs and questionnaires given
-  teachers and administrators observing student behaviors and parent
-  participation, including:
-
-  •The total pages read by the student body & individual classrooms
-
-  •The number of pages read by top readers 
-
-  •The number of students raising their grade-level reading
-
-  •The number of students reading more challenging books & increasing fluency
-
-  •Published standardized test-score results released after the program
-
-  •Anecdotal reports from teachers on increased acts of kindness by students
-
-  Teachers observe that an average of 72% of their students showed increased
-  concern for others during and after our program. A 4th grade teacher in
-  Central L.A. reported that students “became more aware of various causes and
-  thought of ways they could help in the world.” An East L.A. 5th grade teacher
-  noted that “My students became conscious about how they treat each other. They
-  refrained from teasing and calling each other funny names. They learned how to
-  respect people.”
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   We will bring our Reading Makes A Difference program to 5 low-income
   elementary schools to develop a love of reading and kindness through
   read-a-thons benefiting ill kids. Student reading results in “Jester” books &
@@ -69,32 +24,20 @@ project_description: >-
   inspiring Introductory Assemblies, all classrooms receive a “Jester” book &
   set of 3 educator enrichment manuals, with a final Recognition Assembly
   showcasing student reading achievements and compassion.
-project_impact: >-
-  ["District-wide graduation rates","Proficiency in English and Language Arts
-  and Math","Early education","Student education pipeline","Suspension and
-  expulsion rates","Truancy rates in elementary and middle schools"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - District-wide graduation rates
   - Proficiency in English and Language Arts and Math
   - Early education
   - Student education pipeline
   - Suspension and expulsion rates
   - Truancy rates in elementary and middle schools
-project_proposal_description: >-
-  We will bring our Reading Makes A Difference program to 5 low-income
-  elementary schools to develop a love of reading and kindness through
-  read-a-thons benefiting ill kids. Student reading results in “Jester” books &
-  dolls given to local hospitals in the name of the school & LA2050. Following
-  inspiring Introductory Assemblies, all classrooms receive a “Jester” book &
-  set of 3 educator enrichment manuals, with a final Recognition Assembly
-  showcasing student reading achievements and compassion.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South LA
   - South Bay
   - Gateway Cities
   - LAUSD
   - Inglewood
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   L.A. will become the best place to LEARN when more low-income elementary
   students discover the joy & importance of reading & giving. The RMD
   program–with “The Jester Has Lost His Jingle” as its inspiration–is the
@@ -141,6 +84,50 @@ project_proposal_best_place: >-
   to do. You have no idea how much you will be helping our young patients who
   have been injured in accidents and need smiles. Your thoughtfulness is beyond
   measure.'
+Please explain how you will define and measure success for your project.​: >-
+  We expect to see: 
+
+  •Increased student interest in reading
+
+  •Raised test scores 
+
+  •Increased student compassion 
+
+  •Teachers’ use of Jester teaching resources
+
+  •Hospital use of Jester therapeutic tools for patients
+
+  •Positive response from patients and families to “Jester” books & dolls 
+
+  We measure these outcomes by evaluating reading logs and questionnaires given
+  teachers and administrators observing student behaviors and parent
+  participation, including:
+
+  •The total pages read by the student body & individual classrooms
+
+  •The number of pages read by top readers 
+
+  •The number of students raising their grade-level reading
+
+  •The number of students reading more challenging books & increasing fluency
+
+  •Published standardized test-score results released after the program
+
+  •Anecdotal reports from teachers on increased acts of kindness by students
+
+  Teachers observe that an average of 72% of their students showed increased
+  concern for others during and after our program. A 4th grade teacher in
+  Central L.A. reported that students “became more aware of various causes and
+  thought of ways they could help in the world.” An East L.A. 5th grade teacher
+  noted that “My students became conscious about how they treat each other. They
+  refrained from teasing and calling each other funny names. They learned how to
+  respect people.”
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/reading-makes-a-difference-inspiring-kids-to-read-care-about-others/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2726365725741-team91.jpg
 organization_name: The Jester & Pharley Phund

@@ -15,42 +15,19 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7867733165741-team90.png
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: ''
-project_measure: >-
-  We will immediately produce a blueprint report, written by renewable energy
-  experts, for how Los Angeles can make this transition and use it as a tool to
-  educate the community, the Mayor, and the City Council. Through our advocacy
-  and community organizing we will work towards getting Mayor Garcetti and the
-  City Council to order DWP to invest our ratepayer dollars to renewable energy
-  and decommission the coastal gas power plants in the next few years. Our
-  success will be measured primarily by building a diverse, powerful, and
-  citywide movement towards achieving this historic goal.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Building on our work to ban fracking and end our dependence on dirty fossil
   fuels, Food & Water Watch is undertaking a strategic campaign to transition
   Los Angeles from oil, gas, and coal to 100% renewable energy by 2030.
-project_impact: '["Waterways","Exposure to air toxins","Local water","Resilient communities"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Waterways
   - Exposure to air toxins
   - Local water
   - Resilient communities
-project_proposal_description: >-
-  Building on our work to ban fracking and end our dependence on dirty fossil
-  fuels, Food & Water Watch is undertaking a strategic campaign to transition
-  Los Angeles from oil, gas, and coal to 100% renewable energy by 2030.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   In Los Angeles, residents struggle to live with some of the worst air quality
   in the nation. The oil we extract, refine and burn and our natural gas
   infrastructure are causing severe health consequences for our communities.
@@ -91,6 +68,23 @@ project_proposal_best_place: >-
   imperative for Los Angeles, a coastal city that is vulnerable to droughts,
   fires, sea-level rise and acidifying oceans to make a bold commitment and lead
   on the 100% renewable energy future our city deserves.
+Please explain how you will define and measure success for your project.​: >-
+  We will immediately produce a blueprint report, written by renewable energy
+  experts, for how Los Angeles can make this transition and use it as a tool to
+  educate the community, the Mayor, and the City Council. Through our advocacy
+  and community organizing we will work towards getting Mayor Garcetti and the
+  City Council to order DWP to invest our ratepayer dollars to renewable energy
+  and decommission the coastal gas power plants in the next few years. Our
+  success will be measured primarily by building a diverse, powerful, and
+  citywide movement towards achieving this historic goal.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/turning-los-angeles-into-a-renewable-energy-leader/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7867733165741-team90.png
 organization_name: Food & Water Watch

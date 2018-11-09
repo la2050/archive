@@ -13,9 +13,49 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3454622194741-team91.png
 project_video: 'https://player.vimeo.com/video/114298600?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none.
-project_measure: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
+  The objective of this proposal is for the Research and Development of a
+  drought-adaptive gardening hub, suitable for a city-gardener.
+  Over-fertilization can be a source of unnecessary harm, resulting in
+  environmental hazards in the cases of nutrient run off. The development of an
+  in-field, real-time, plant sensing system for a site-specific application can
+  protect the environment from excessive chemicals and save management cost
+  while controlling the productivity of watering systems.
+Which metrics will your proposal impact?​:
+  - Access to healthy food
+  - Waterways
+  - Self-sufficiency
+  - Local water
+  - Walk/bike/transit score
+In what areas of Los Angeles will you be directly working?:
+  - County of Los Angeles
+Describe in greater detail how your proposal will make LA the best place.: >-
+  The implementation of self sustained gardening sensors will create
+  opportunities for urban gardening, but could also help with water
+  conservation. Cutting back on water while being more efficient in deciphering
+  which areas need water more will help public spaces retain their appeal, as
+  well save money. From this project we hope to create programs regarding public
+  city-farming and agriculture. 
+
+
+  Our mission is to help the planet by providing a system that learns and
+  teaches its users. As a Southern California based company, we know firsthand
+  how severe a drought can be. The objective is producing a drought adaptive
+  product.
+
+
+  Market opportunity has become validated because of the rise in global
+  temperature. All across the nation crops are producing low yields and are
+  dying off. Now consumers can rely solely on themselves for agricultural
+  cultivation. 
+
+
+  The ability of a remote sensor to detect such subtle differences in vegetation
+  makes it an extremely useful tool for quantifying within-field variability,
+  evaluating crop growth, and managing soil based on current conditions that may
+  be overlooked using typical ground-based visual scouting methods.
+Please explain how you will define and measure success for your project.​: >-
   Multi-spectral imaging sensors have been introduced and widely used for
   in-field plant sensing but this technology is not commercialized, and the data
   is not formalized into meaningful information.
@@ -54,64 +94,12 @@ project_measure: >-
 
 
   This creates a vegetative index.
-project_proposal_help:
+How can the LA2050 community and other stakeholders help your proposal succeed?:
   - 'Money '
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
-project_description: >-
-  The objective of this proposal is for the Research and Development of a
-  drought-adaptive gardening hub, suitable for a city-gardener.
-  Over-fertilization can be a source of unnecessary harm, resulting in
-  environmental hazards in the cases of nutrient run off. The development of an
-  in-field, real-time, plant sensing system for a site-specific application can
-  protect the environment from excessive chemicals and save management cost
-  while controlling the productivity of watering systems.
-project_impact: >-
-  ["Access to healthy food","Waterways","Self-sufficiency","Local
-  water","Walk/bike/transit score"]
-project_proposal_impact:
-  - Access to healthy food
-  - Waterways
-  - Self-sufficiency
-  - Local water
-  - Walk/bike/transit score
-project_proposal_description: >-
-  The objective of this proposal is for the Research and Development of a
-  drought-adaptive gardening hub, suitable for a city-gardener.
-  Over-fertilization can be a source of unnecessary harm, resulting in
-  environmental hazards in the cases of nutrient run off. The development of an
-  in-field, real-time, plant sensing system for a site-specific application can
-  protect the environment from excessive chemicals and save management cost
-  while controlling the productivity of watering systems.
-project_areas:
-  - County of Los Angeles
-project_proposal_best_place: >-
-  The implementation of self sustained gardening sensors will create
-  opportunities for urban gardening, but could also help with water
-  conservation. Cutting back on water while being more efficient in deciphering
-  which areas need water more will help public spaces retain their appeal, as
-  well save money. From this project we hope to create programs regarding public
-  city-farming and agriculture. 
-
-
-  Our mission is to help the planet by providing a system that learns and
-  teaches its users. As a Southern California based company, we know firsthand
-  how severe a drought can be. The objective is producing a drought adaptive
-  product.
-
-
-  Market opportunity has become validated because of the rise in global
-  temperature. All across the nation crops are producing low yields and are
-  dying off. Now consumers can rely solely on themselves for agricultural
-  cultivation. 
-
-
-  The ability of a remote sensor to detect such subtle differences in vegetation
-  makes it an extremely useful tool for quantifying within-field variability,
-  evaluating crop growth, and managing soil based on current conditions that may
-  be overlooked using typical ground-based visual scouting methods.
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/self-sustaining-gardening-sensors/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3454622194741-team91.png
 organization_name: ANDesign Lab

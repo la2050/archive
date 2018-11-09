@@ -17,30 +17,8 @@ project_summary: >-
 project_image: >-
   https://scontent-sjc3-1.cdninstagram.com/vp/4a62f65538090842362663dad77db055/5C62A9F5/t51.2885-15/e35/20482077_1500261080035522_7220567506136596480_n.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: '5 Every Day, Tom Explores Los Angeles, Downtown Art Walk, Art Share LA'
-project_measure: >-
-  Our baseline measure for success will be the basic restoration of the
-  Triforium to its intended functionality: all 1,494 multicolored glass cubes
-  cleaned and the incandescent bulbs within them replaced by LED bulbs, the 40
-  year-old wiring updated to modern safety and efficiency standards, and the
-  room-sized machinery at its feet replaced by a programmable computer networked
-  to the bulbs and an updated instrument that aurally evokes the sculpture’s
-  original 79-note glass bell carillon. With the free app that will allow the
-  public to interface with this piece of public art, we can count downloads and
-  active users per month. These are the quantifiable indices. 
-
-
-  The real measure, however, will be on the ground in Fletcher-Bowron Square: if
-  Angelenos begin to gather in this vastly underutilized public space during the
-  day to play music together, and at night to see their music light up the heart
-  of the city, we will know we have succeeded.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Technical infrastructure (computers etc.)
-  - Community outreach
-project_description: >-
+Are any other organizations collaborating on this proposal?: '5 Every Day, Tom Explores Los Angeles, Downtown Art Walk, Art Share LA'
+Please describe your project proposal.: >-
   The Triforium is a six-story, 60-ton public artwork in Downtown Los Angeles.
   Its original design was for a polyphonoptic sculpture lighting up in synchrony
   to music and human movement. It was ahead of his time, and never worked as
@@ -48,24 +26,13 @@ project_description: >-
   incandescent bulbs with LEDs and a nimble computer system to achieve Joseph
   Young’s original goals. We want to create an app that'll allow people to
   create compositions for the Triforium to play.
-project_impact: >-
-  ["Access to open space and park facilities","Number (and quality) of informal
-  spaces for play","Perceived safety"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to open space and park facilities
   - Number (and quality) of informal spaces for play
   - Perceived safety
-project_proposal_description: >-
-  The Triforium is a six-story, 60-ton public artwork in Downtown Los Angeles.
-  Its original design was for a polyphonoptic sculpture lighting up in synchrony
-  to music and human movement. It was ahead of his time, and never worked as
-  intended. We want to retrofit and reimagine the Triforium, replacing its
-  incandescent bulbs with LEDs and a nimble computer system to achieve Joseph
-  Young’s original goals. We want to create an app that'll allow people to
-  create compositions for the Triforium to play.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Imagine if you could control the individual street lights in Chris Burden’s
   “Urban Light.” Imagine they made music. How would that artwork, already such a
   magnet, inspire new forms of play? That’s what the Triforium could be: a place
@@ -122,6 +89,27 @@ project_proposal_best_place: >-
 
   We see the Triforium as a beacon. It’s been there all along. We just need to
   turn it on.
+Please explain how you will define and measure success for your project.​: >-
+  Our baseline measure for success will be the basic restoration of the
+  Triforium to its intended functionality: all 1,494 multicolored glass cubes
+  cleaned and the incandescent bulbs within them replaced by LED bulbs, the 40
+  year-old wiring updated to modern safety and efficiency standards, and the
+  room-sized machinery at its feet replaced by a programmable computer networked
+  to the bulbs and an updated instrument that aurally evokes the sculpture’s
+  original 79-note glass bell carillon. With the free app that will allow the
+  public to interface with this piece of public art, we can count downloads and
+  active users per month. These are the quantifiable indices. 
+
+
+  The real measure, however, will be on the ground in Fletcher-Bowron Square: if
+  Angelenos begin to gather in this vastly underutilized public space during the
+  day to play music together, and at night to see their music light up the heart
+  of the city, we will know we have succeeded.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Technical infrastructure (computers etc.)
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/restoring-and-reimagining-the-worlds-first-polyphonoptic-sculpture-in-downtown-los-angeles/scontent-sjc3-1.cdninstagram.com/vp/4a62f65538090842362663dad77db055/5C62A9F5/t51.2885-15/e35/20482077_1500261080035522_7220567506136596480_n.jpg
 organization_name: The Triforium Project

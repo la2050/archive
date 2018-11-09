@@ -14,35 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8636309165741-team90.JPG
 project_video: 'https://www.youtube.com/embed/t9dVCR59w60?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: N/A
-project_measure: >-
-  FLLA LA has numerous measurable deliverable outcomes, the first being
-  recruiting a class of 15-20 Fellows for the next cycle of FLLA LA. PFAW
-  Foundation  will focus their recruitment on young people who are traditionally
-  marginalized from the political process and underrepresented in public
-  leadership –  including women, people of color, and LGBTQ youth. By recruiting
-  a diverse pool of candidates, FLLA LA aims to make the leadership in LA County
-  as diverse as the population they will represent. 
-
-
-  PFAW Foundation will then train the newest class of Fellows in the areas of
-  candidacy, field, finance, communications and campaign management. These
-  skills will equip Fellows to pursue careers in government, nonprofits,
-  campaign operations, or  elected office. FLLA LA will work with our network of
-  alumni and young elected officials to create a sustained community and
-  curriculum to equip the talented, ambitious and civically-minded young people
-  participating in the next fellowship class. The training will culminate with
-  each Fellow developing a mock individual, district-specific “campaign” plan.
-  PFAW Foundation will continue to provide support to Fellows after graduating
-  the program, via alumni networking opportunities and mentorship with elected
-  officials.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Building on a successful two-year pilot, Front Line Leaders Academy will
   recruit 15-20 young people who are seeking positive social change but are
   underrepresented in local leadership - such as women, people of color, and
@@ -50,25 +23,14 @@ project_description: >-
   course of the six months to cover a wide range of skills and tactics. By
   graduation Fellows will have developed a wide range of organizing skills that
   will help them to be effective local leaders.
-project_impact: >-
-  ["Government responsiveness to residents’ needs","Participation in
-  neighborhood councils","Rates of volunteerism","Voting rates"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Government responsiveness to residents’ needs
   - Participation in neighborhood councils
   - Rates of volunteerism
   - Voting rates
-project_proposal_description: >-
-  Building on a successful two-year pilot, Front Line Leaders Academy will
-  recruit 15-20 young people who are seeking positive social change but are
-  underrepresented in local leadership - such as women, people of color, and
-  LGBTQ youth. Fellows participate in four three-day weekend trainings over the
-  course of the six months to cover a wide range of skills and tactics. By
-  graduation Fellows will have developed a wide range of organizing skills that
-  will help them to be effective local leaders.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Front Line Leaders Academy  Los Angeles (FLLA LA) will train 15-20 young
   leaders dedicated to creating lasting change in their communities throughout
   Los Angeles County. FLLA LA covers a wide range of civic participation
@@ -129,6 +91,32 @@ project_proposal_best_place: >-
   - Huntington Park Health and Education Commission
 
   - City of Walnut Mount San Antonio College Development Task Force
+Please explain how you will define and measure success for your project.​: >-
+  FLLA LA has numerous measurable deliverable outcomes, the first being
+  recruiting a class of 15-20 Fellows for the next cycle of FLLA LA. PFAW
+  Foundation  will focus their recruitment on young people who are traditionally
+  marginalized from the political process and underrepresented in public
+  leadership –  including women, people of color, and LGBTQ youth. By recruiting
+  a diverse pool of candidates, FLLA LA aims to make the leadership in LA County
+  as diverse as the population they will represent. 
+
+
+  PFAW Foundation will then train the newest class of Fellows in the areas of
+  candidacy, field, finance, communications and campaign management. These
+  skills will equip Fellows to pursue careers in government, nonprofits,
+  campaign operations, or  elected office. FLLA LA will work with our network of
+  alumni and young elected officials to create a sustained community and
+  curriculum to equip the talented, ambitious and civically-minded young people
+  participating in the next fellowship class. The training will culminate with
+  each Fellow developing a mock individual, district-specific “campaign” plan.
+  PFAW Foundation will continue to provide support to Fellows after graduating
+  the program, via alumni networking opportunities and mentorship with elected
+  officials.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/front-line-leaders-academy-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8636309165741-team90.JPG
 organization_name: People For the American Way Foundation

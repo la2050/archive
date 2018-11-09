@@ -17,45 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4762549545741-team90.jpg
 project_video: 'https://www.youtube.com/embed/jzZRGNGG5LA?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  Social & emotional support- After each event we give participants practices to
-  do on their own to help them create and sustain their own methods for healing
-  and connection which supports the health and wellness of both the individual
-  and the community they are a part of. We will have surveys and online chat
-  rooms designed for people to engage and report on their feelings of support.  
-
-  Cultural events - We honor the diversity within our communities and our
-  gatherings offer creative, and innovative ways of bringing connection to
-  people from all walks of life. Success for these events are influenced by the
-  amount of attendees and the overall impact that the events are having on
-  attendees and their communities.  These impacts can be measured through
-  post-gathering surveys and interviews.
-
-  Public/open streets gatherings - We plan to create two large, communal music,
-  art, wellness, and cultural festivals that will bring together all the
-  communities we’ve worked with and others.  Each community will be able to
-  contribute in some way which will ultimately show the power of community in
-  co-creation. We will measure the success by how many communities decide to get
-  involved and their enthusiasm in helping. 
-
-  Rates of volunteerism- We intend for the large festivals to be volunteer
-  based, and will track the number of volunteers helping out with each event. 
-  As our other events become larger we will also have volunteers help with
-  setting up and breaking down spaces, and other tasks.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   The L.A.vation project will CONNECT communities (including schools,
   businesses, activist organizations, non-profits, and other spaces) by
   organizing and facilitating different events and gatherings uniquely tailored
@@ -63,32 +26,20 @@ project_description: >-
   for people to join together to heal and elevate their minds, bodies and
   spirits, while also promoting empowerment, engagement, and positive action
   within and between communities.
-project_impact: >-
-  ["Social & emotional support","Cultural events","Public/open streets
-  gatherings","Rates of volunteerism","Total number of local social media
-  friends and connections Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Public/open streets gatherings
   - Rates of volunteerism
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  The L.A.vation project will CONNECT communities (including schools,
-  businesses, activist organizations, non-profits, and other spaces) by
-  organizing and facilitating different events and gatherings uniquely tailored
-  to the community being served. The project creates unifying events designed
-  for people to join together to heal and elevate their minds, bodies and
-  spirits, while also promoting empowerment, engagement, and positive action
-  within and between communities.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
   - Westside
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   LA is one of the largest and most spread out cities in the country. It houses
   many diverse communities, but is also a place where many suffer from feeling
   lonely, isolated, and disconnected due to the vastness of the city. Recent
@@ -131,6 +82,42 @@ project_proposal_best_place: >-
   This is why the L.A.vation project is so crucial to Angelenos lives; it will
   help many people to connect to one another in ways that go far beyond the
   existing norms.
+Please explain how you will define and measure success for your project.​: >-
+  Social & emotional support- After each event we give participants practices to
+  do on their own to help them create and sustain their own methods for healing
+  and connection which supports the health and wellness of both the individual
+  and the community they are a part of. We will have surveys and online chat
+  rooms designed for people to engage and report on their feelings of support.  
+
+  Cultural events - We honor the diversity within our communities and our
+  gatherings offer creative, and innovative ways of bringing connection to
+  people from all walks of life. Success for these events are influenced by the
+  amount of attendees and the overall impact that the events are having on
+  attendees and their communities.  These impacts can be measured through
+  post-gathering surveys and interviews.
+
+  Public/open streets gatherings - We plan to create two large, communal music,
+  art, wellness, and cultural festivals that will bring together all the
+  communities we’ve worked with and others.  Each community will be able to
+  contribute in some way which will ultimately show the power of community in
+  co-creation. We will measure the success by how many communities decide to get
+  involved and their enthusiasm in helping. 
+
+  Rates of volunteerism- We intend for the large festivals to be volunteer
+  based, and will track the number of volunteers helping out with each event. 
+  As our other events become larger we will also have volunteers help with
+  setting up and breaking down spaces, and other tasks.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/nation-of-vibrations-l-a-vation-project-bringing-healing-and-connection-to-communities-across-l-a/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4762549545741-team90.jpg
 organization_name: Nation of Vibration

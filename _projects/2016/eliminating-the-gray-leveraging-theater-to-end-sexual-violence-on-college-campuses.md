@@ -17,36 +17,11 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4990464255741-team89.JPG
 project_video: 'https://www.youtube.com/embed/sGB-wEyY8Ic?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   At our current stage, we are collaborating as individuals and cultivating
   relationships with organizations.  Once we have a script, we plan to enlist
   organizations to help collaborate.
-project_measure: >-
-  After producing a free prototype of the play for the public at large, we plan
-  to offer the script and production for free to colleges in Los Angeles, work
-  with multiple entities within each college to personalize the script to their
-  specific campus, help guide the production element in order to involve as many
-  students and departments as possible, and facilitate post-show dialogues from
-  which specific actionable ideas can emerge.  Afterwards, we would love to help
-  the colleges implement individual and institutional change. The more colleges
-  and voices that are involved in this conversation, the more successful our
-  project will be.  We will calculate the number of people involved in making
-  this project come to life: the number of people interviewed, contributors to
-  the script, participating colleges, performances, audience members and
-  post-show dialogue participants serve as a measure of awareness created.  We
-  also want to count the number of potential solutions that emerge from the
-  post-show dialogue, and to then track how many of those ideas were realized. 
-  Although, if our work prevents even one sexual assault, that will solidify our
-  project as a success.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Community outreach
-project_description: >-
+Please describe your project proposal.: >-
   Inspired by interviews with the Los Angeles college community, The LadyParts
   Collective is writing an original play about consent, rape culture, and sexual
   violence on Los Angeles college campuses.  The play will be offered to local
@@ -54,14 +29,7 @@ project_description: >-
   violence, brainstorming actionable solutions, and enacting specific changes. 
   We plan to work with colleges to personalize the play to their specific campus
   needs.
-project_impact: >-
-  ["Arts establishments","Employment in the creative industries","Jobs per
-  capita","Measures of cultural and global economic influence (“soft
-  power”)","Minority- and women-owned firms","Percentage of graduates from local
-  higher education institutions that remain in LA County 5 years after
-  graduating","Recruiting and retention rates for local higher education
-  institutions"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Employment in the creative industries
   - Jobs per capita
@@ -71,18 +39,10 @@ project_proposal_impact:
     Percentage of graduates from local higher education institutions that remain
     in LA County 5 years after graduating
   - Recruiting and retention rates for local higher education institutions
-project_proposal_description: >-
-  Inspired by interviews with the Los Angeles college community, The LadyParts
-  Collective is writing an original play about consent, rape culture, and sexual
-  violence on Los Angeles college campuses.  The play will be offered to local
-  colleges as a tool for sparking a productive conversation about sexual
-  violence, brainstorming actionable solutions, and enacting specific changes. 
-  We plan to work with colleges to personalize the play to their specific campus
-  needs.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   In this bustling entertainment city saturated with talent but plagued by
   gender inequity and lack of diversity in the arts, The LadyParts Collective
   will make Los Angeles the best place to CREATE.  As an organization, The
@@ -118,6 +78,30 @@ project_proposal_best_place: >-
   with personal experiences, and writing this play serves as a cathartic and
   proactive way of healing and helping others. We all feel the urgency in fixing
   this problem and want to use our combined skills to make a positive impact.
+Please explain how you will define and measure success for your project.​: >-
+  After producing a free prototype of the play for the public at large, we plan
+  to offer the script and production for free to colleges in Los Angeles, work
+  with multiple entities within each college to personalize the script to their
+  specific campus, help guide the production element in order to involve as many
+  students and departments as possible, and facilitate post-show dialogues from
+  which specific actionable ideas can emerge.  Afterwards, we would love to help
+  the colleges implement individual and institutional change. The more colleges
+  and voices that are involved in this conversation, the more successful our
+  project will be.  We will calculate the number of people involved in making
+  this project come to life: the number of people interviewed, contributors to
+  the script, participating colleges, performances, audience members and
+  post-show dialogue participants serve as a measure of awareness created.  We
+  also want to count the number of potential solutions that emerge from the
+  post-show dialogue, and to then track how many of those ideas were realized. 
+  Although, if our work prevents even one sexual assault, that will solidify our
+  project as a success.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/eliminating-the-gray-leveraging-theater-to-end-sexual-violence-on-college-campuses/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4990464255741-team89.JPG
 organization_name: 'The LadyParts Collective, fiscally sponsored by Fractured Atlas'

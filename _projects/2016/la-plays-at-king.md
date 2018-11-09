@@ -14,49 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0761849894741-team91.jpg
 project_video: 'https://www.youtube.com/embed/LO-jFIvksfc?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Thomas Starr King Middle School has been educating students since 1926. Our
-  students speak over thirty languages and come from more than forty different
-  countries, representing a vibrant and diverse cross-section of cultures in Los
-  Angeles. Although we are not a Title I school, nearly 60% of our students
-  qualify for assisted lunch.
-
-
-  Until very recently, King was struggling with low test scores and poor student
-  engagement. Over the past several years, our parents, teachers, staff and
-  students have worked very hard together to address many of these concerns. In
-  2013, King converted into a full magnet school and has seen one of the highest
-  test score boosts in LAUSD’s history. We have also become one of the most
-  desirable Middle Schools in our area. King has performed phenomenally over the
-  last several years, but our play facilities have not progressed at the same
-  pace. Please help us give King students and our neighboring schools the
-  equipment and facilities necessary for sports, art, filming, performance and
-  play. 
-
-
-
-  Once upgrades are completed, we hope to see an increase in community events
-  planned at our school of 20%.
-
-
-  We hope to see an increase in King events of 25%.
-
-
-  We plan to open our facilities to even more neighboring elementary schools for
-  performances and other events.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - Network/relationship support
-  - Quality improvement research
-  - Advisors are always welcome!
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Our proposal is to upgrade T.S. King Middle School’s play spaces, embracing
   the ideals of all three of our magnet programs – Arts and Tech, Environmental
   STEAM, and Film & Media. This includes upgrading the sound in our film studio
@@ -64,32 +23,20 @@ project_description: >-
   our playing field. These changes will benefit the over 2,100 students
   attending King, while providing greater entertainment and recreational
   opportunities for our surrounding neighbors.
-project_impact: >-
-  ["Access to open space and park facilities","Number (and quality) of informal
-  spaces for play","Number of children enrolled in afterschool programs","Per
-  capita crime rates","Perceived safety"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to open space and park facilities
   - Number (and quality) of informal spaces for play
   - Number of children enrolled in afterschool programs
   - Per capita crime rates
   - Perceived safety
-project_proposal_description: >-
-  Our proposal is to upgrade T.S. King Middle School’s play spaces, embracing
-  the ideals of all three of our magnet programs – Arts and Tech, Environmental
-  STEAM, and Film & Media. This includes upgrading the sound in our film studio
-  and auditorium, refurbishing our outdoor amphitheater, as well as resurfacing
-  our playing field. These changes will benefit the over 2,100 students
-  attending King, while providing greater entertainment and recreational
-  opportunities for our surrounding neighbors.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
   - South LA
   - LAUSD
   - AYSO soccer plays on our field
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Thomas Starr King Middle School has long been a cultural and artistic hub for
   our local communities and beyond, and a place for community members to play
   and recreate. While we service students from the immediate area, we also pride
@@ -128,6 +75,46 @@ project_proposal_best_place: >-
   including embracing the importance of the arts for Arts & Technology,
   respecting sustainability concerns for Environmental STEAM and honoring the
   importance of Film and Media here in Los Angeles.
+Please explain how you will define and measure success for your project.​: >-
+  Thomas Starr King Middle School has been educating students since 1926. Our
+  students speak over thirty languages and come from more than forty different
+  countries, representing a vibrant and diverse cross-section of cultures in Los
+  Angeles. Although we are not a Title I school, nearly 60% of our students
+  qualify for assisted lunch.
+
+
+  Until very recently, King was struggling with low test scores and poor student
+  engagement. Over the past several years, our parents, teachers, staff and
+  students have worked very hard together to address many of these concerns. In
+  2013, King converted into a full magnet school and has seen one of the highest
+  test score boosts in LAUSD’s history. We have also become one of the most
+  desirable Middle Schools in our area. King has performed phenomenally over the
+  last several years, but our play facilities have not progressed at the same
+  pace. Please help us give King students and our neighboring schools the
+  equipment and facilities necessary for sports, art, filming, performance and
+  play. 
+
+
+
+  Once upgrades are completed, we hope to see an increase in community events
+  planned at our school of 20%.
+
+
+  We hope to see an increase in King events of 25%.
+
+
+  We plan to open our facilities to even more neighboring elementary schools for
+  performances and other events.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - Network/relationship support
+  - Quality improvement research
+  - Advisors are always welcome!
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/la-plays-at-king/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0761849894741-team91.jpg
 organization_name: Friends of King

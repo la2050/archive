@@ -14,59 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8698821265741-team88.jpg
 project_video: 'https://www.youtube.com/embed/vk1BgrHSmZ0?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  As classroom teachers are the most important in-school factor in student
-  achievement, our long-term goals are to elevate the quality and prestige of
-  the teaching profession and to increase student engagement, achievement and
-  college readiness. E4E-LA has established five intermediate-term goals that
-  guide our programming:
-
-
-  Build a movement of solutions-oriented teachers;
-
-  Identify and train teachers to lead change in their schools, districts and
-  union;
-
-  Create teacher-developed policy recommendations;
-
-  Advocate for teacher-developed recommendations; and
-
-  Scale the model with training, partnerships and resources.
-
-
-  We measure our success based on the following: 
-
-  Expanding our membership by serving hundreds of additional teachers each year;
-
-  Training dozens of additional teachers to take on leadership roles or actions
-  on behalf of LA students;
-
-  Elevating research and classroom expertise by publishing one teacher-created
-  policy paper per year; and
-
-  Making substantive policy changes by mobilizing our members to promote
-  meaningful changes in policy and practice.
-
-
-  We use the following mechanisms to measure progress:
-
-  Tracking membership and leadership data through a robust Salesforce CRM;
-
-  Surveying members, non-member teachers, partners, parents and students to
-  inform our policy positions and papers;
-
-  Tracking education policy issues, bills, resolutions and media; and
-
-  Tracking the outputs and performance of our team against goals to inform
-  training and course correction.
-project_proposal_help:
-  - 'Money '
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   E4E-LA is building a movement of teachers to take action on behalf of student
   success. As our district responds to decades of demand for better public
   schools by trying to implement higher standards, healthier school climates,
@@ -74,29 +23,16 @@ project_description: >-
   with opportunities to learn about education policy, network with policy
   makers, and participate in leadership development and advocacy campaigns to
   make LA a great place to learn and teach.
-project_impact: >-
-  ["College matriculation rates","District-wide graduation rates","Proficiency
-  in English and Language Arts and Math","Student education pipeline","Students’
-  perceived sense of safety at and on the way to school","Suspension and
-  expulsion rates"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College matriculation rates
   - District-wide graduation rates
   - Proficiency in English and Language Arts and Math
   - Student education pipeline
   - Students’ perceived sense of safety at and on the way to school
   - Suspension and expulsion rates
-project_proposal_description: >-
-  E4E-LA is building a movement of teachers to take action on behalf of student
-  success. As our district responds to decades of demand for better public
-  schools by trying to implement higher standards, healthier school climates,
-  and improved rates of entry to colleges and careers, E4E-LA provides teachers
-  with opportunities to learn about education policy, network with policy
-  makers, and participate in leadership development and advocacy campaigns to
-  make LA a great place to learn and teach.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   To help transform LAUSD into a great place to learn and teach, we are building
   a teacher-led movement for education equity. In doing so, we will continue
   training teachers to lead policy design, advocacy and implementation where
@@ -145,6 +81,56 @@ project_proposal_best_place: >-
   teachers have experienced improvements in the number of students we engage,
   graduate and send to college. While there is greater room for improvement in
   Los Angeles public education, our teachers are becoming part of the solution.
+Please explain how you will define and measure success for your project.​: >-
+  As classroom teachers are the most important in-school factor in student
+  achievement, our long-term goals are to elevate the quality and prestige of
+  the teaching profession and to increase student engagement, achievement and
+  college readiness. E4E-LA has established five intermediate-term goals that
+  guide our programming:
+
+
+  Build a movement of solutions-oriented teachers;
+
+  Identify and train teachers to lead change in their schools, districts and
+  union;
+
+  Create teacher-developed policy recommendations;
+
+  Advocate for teacher-developed recommendations; and
+
+  Scale the model with training, partnerships and resources.
+
+
+  We measure our success based on the following: 
+
+  Expanding our membership by serving hundreds of additional teachers each year;
+
+  Training dozens of additional teachers to take on leadership roles or actions
+  on behalf of LA students;
+
+  Elevating research and classroom expertise by publishing one teacher-created
+  policy paper per year; and
+
+  Making substantive policy changes by mobilizing our members to promote
+  meaningful changes in policy and practice.
+
+
+  We use the following mechanisms to measure progress:
+
+  Tracking membership and leadership data through a robust Salesforce CRM;
+
+  Surveying members, non-member teachers, partners, parents and students to
+  inform our policy positions and papers;
+
+  Tracking education policy issues, bills, resolutions and media; and
+
+  Tracking the outputs and performance of our team against goals to inform
+  training and course correction.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/those-who-can-teach-elevating-teacher-solutions-for-student-needs/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8698821265741-team88.jpg
 organization_name: Educators 4 Excellence-Los Angeles

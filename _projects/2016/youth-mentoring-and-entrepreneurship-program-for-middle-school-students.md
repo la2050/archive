@@ -15,21 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2610135955741-team91.JPG
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: "Because WeThrive works with a middle school student population, that does not graduate high school until 4 years later, our outcomes are more long-term. We have listed long-term outcomes, short-term preconditions and accompanying thresholds, which we measure success with.\nYouth obtain interpersonal skills for communicating and interacting effectively with others\nAchieved when:  \n* Program graduates achieve a successful score on interpersonal skills assessment tool \n* Program participants successfully communicate with various external participants in WeThrive (i.e. supplier, client, customer, etc.) each semester\nYouth obtain personal skills for developing personal agency, self-awareness, and the ability to self-manage\nAchieved when:  \n* Program graduates achieve a successful score on personal skills assessment tool(s)\n* Program participants complete at least 60% of their learning log assignments\nYouth have strong self-esteem\nAchieved when: \n* Program graduates achieve a successful score on a self-esteem assessment tool\nLong Term:\nCollege completion: 95% of WeThrive participants\n\LCollege attendance rates\L: 95% of WeThrive participants\nDistrict-wide graduation rates\L: 95% of WeThrive participants"
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - 'Education/training '
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-  - Capacity Building
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   42% of children born to parents in the bottom fifth of the economic
   distribution remain in the bottom as adults. To achieve upward mobility, we
   require education & life skills to succeed in today's career paths, as well as
@@ -37,12 +24,7 @@ project_description: >-
   Through real-world experience from venture creation, mentorship and habit
   adoption, WeThrive will train and equip more than 800 middle school students
   with the life skills & resources for upward mobility.
-project_impact: >-
-  ["College completion","College matriculation rates","District-wide graduation
-  rates","Student education pipeline","Suspension and expulsion rates","Truancy
-  rates in elementary and middle schools","Youth unemployment and
-  underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - District-wide graduation rates
@@ -50,22 +32,14 @@ project_proposal_impact:
   - Suspension and expulsion rates
   - Truancy rates in elementary and middle schools
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  42% of children born to parents in the bottom fifth of the economic
-  distribution remain in the bottom as adults. To achieve upward mobility, we
-  require education & life skills to succeed in today's career paths, as well as
-  the resources, networks and tools to achieve our definitions of success.
-  Through real-world experience from venture creation, mentorship and habit
-  adoption, WeThrive will train and equip more than 800 middle school students
-  with the life skills & resources for upward mobility.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
   - Westside
   - South Bay
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Imagine a world where we partner together as a community to teach young people
   the skills to break their own cycle of poverty and to become empowered to
   reach their potential. WeThrive combines mentorship with business creation to
@@ -106,6 +80,18 @@ project_proposal_best_place: >-
   actions aimed at achieving those goals. WeThrive is ultimately making LA the
   best place to learn by serving middle school students in Los Angeles who build
   companies within WeThrive while gaining mentors and a support system.
+Please explain how you will define and measure success for your project.​: "Because WeThrive works with a middle school student population, that does not graduate high school until 4 years later, our outcomes are more long-term. We have listed long-term outcomes, short-term preconditions and accompanying thresholds, which we measure success with.\nYouth obtain interpersonal skills for communicating and interacting effectively with others\nAchieved when:  \n* Program graduates achieve a successful score on interpersonal skills assessment tool \n* Program participants successfully communicate with various external participants in WeThrive (i.e. supplier, client, customer, etc.) each semester\nYouth obtain personal skills for developing personal agency, self-awareness, and the ability to self-manage\nAchieved when:  \n* Program graduates achieve a successful score on personal skills assessment tool(s)\n* Program participants complete at least 60% of their learning log assignments\nYouth have strong self-esteem\nAchieved when: \n* Program graduates achieve a successful score on a self-esteem assessment tool\nLong Term:\nCollege completion: 95% of WeThrive participants\n\LCollege attendance rates\L: 95% of WeThrive participants\nDistrict-wide graduation rates\L: 95% of WeThrive participants"
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - 'Education/training '
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
+  - Capacity Building
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/youth-mentoring-and-entrepreneurship-program-for-middle-school-students/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2610135955741-team91.JPG
 organization_name: WeThrive

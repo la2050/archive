@@ -13,43 +13,21 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4915432065741-team91.jpg
 project_video: 'https://youtu.be/HSe2pclx0MU?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  We monitor the progress of each member's report card to document their
-  improvement before and after they initiated in the SK8 4 Education program. 
-
-
-  Sk8 4 Educate will provide tutoring after school, to help and motivate our
-  members to achieve a 3.0 or higher GPA.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   SK8 4 Education is an after school program developed to motivate at-risk youth
   by combining skateboarding with education. Our mission is to inspire,
   motivate, and empower the youth through skateboarding and urban arts. We use
   art activities, art shows, skate competitions, and merchandise as incentives
   for kids to come after school and do their homework and exchange it for
   points.
-project_impact: '["Student education pipeline"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Student education pipeline
-project_proposal_description: >-
-  SK8 4 Education is an after school program developed to motivate at-risk youth
-  by combining skateboarding with education. Our mission is to inspire,
-  motivate, and empower the youth through skateboarding and urban arts. We use
-  art activities, art shows, skate competitions, and merchandise as incentives
-  for kids to come after school and do their homework and exchange it for
-  points.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - East LA
   - South LA
   - Boyle Heights
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The Garage Board Shop was created with the idea to bring the youth community a
   safe place where they can express their talents through different vehicles,
   like dance, music, arts and skateboarding. It was meant to be a safe space
@@ -77,6 +55,19 @@ project_proposal_best_place: >-
   kid with skating supplies so they can continue skating but create and motivate
   an interest for education in them and to encourage them to pursue education
   beyond K-12.
+Please explain how you will define and measure success for your project.​: >-
+  We monitor the progress of each member's report card to document their
+  improvement before and after they initiated in the SK8 4 Education program. 
+
+
+  Sk8 4 Educate will provide tutoring after school, to help and motivate our
+  members to achieve a 3.0 or higher GPA.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/sk8-4-education/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4915432065741-team91.jpg
 organization_name: The Garage Board Shop

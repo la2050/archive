@@ -17,31 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5148126005741-team91.png
 project_video: 'https://player.vimeo.com/video/123870044?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  The Lynne Cohen Foundation has regular meetings with the Directors of our
-  Preventive Care Clinics, including the clinic in Los Angeles at USC. We ask
-  USC to provide LCF with quarterly reports detailing:
-
-  -How many women have been seen.
-
-  -Background on each patient: religion, race, family cancer history.
-
-  -How many cancers have been found.
-
-  -How many women seen have a BRCA genetic mutation
-
-  -How many preventive surgeries have been performed on women in the clinic,
-  i.e. mastectomy, hysterectomy. 
-
-
-  We also ask for other pertinent details that allow LCF to track the clinic's
-  progress and outreach.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   This clinic provides an in-depth consultation to examine personal and family
   medical history. Our team collaborates to develop an individual risk
   assessment, educate each individual about their risks, and determine the best
@@ -49,20 +26,11 @@ project_description: >-
   and breast cancer have access to the following: screening services including
   mammography, MRI, pelvic ultrasounds, and serum-based screening tests;
   consultation with a genetic counselor.
-project_impact: '["Healthcare access"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Healthcare access
-project_proposal_description: >-
-  This clinic provides an in-depth consultation to examine personal and family
-  medical history. Our team collaborates to develop an individual risk
-  assessment, educate each individual about their risks, and determine the best
-  early detection and risk-reduction strategies. Women at high risk for ovarian
-  and breast cancer have access to the following: screening services including
-  mammography, MRI, pelvic ultrasounds, and serum-based screening tests;
-  consultation with a genetic counselor.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Established in 1998 by Lynne Cohen’s three daughters, the Lynne Cohen
   Foundation’s mission is to combat ovarian and breast cancer through preventive
   care, education, and community.
@@ -119,6 +87,28 @@ project_proposal_best_place: >-
   - Increasing screening and outreach, conducting risk analysis and assessment
   for women’s cancer, and providing prevention strategies for those at increased
   risk.
+Please explain how you will define and measure success for your project.​: >-
+  The Lynne Cohen Foundation has regular meetings with the Directors of our
+  Preventive Care Clinics, including the clinic in Los Angeles at USC. We ask
+  USC to provide LCF with quarterly reports detailing:
+
+  -How many women have been seen.
+
+  -Background on each patient: religion, race, family cancer history.
+
+  -How many cancers have been found.
+
+  -How many women seen have a BRCA genetic mutation
+
+  -How many preventive surgeries have been performed on women in the clinic,
+  i.e. mastectomy, hysterectomy. 
+
+
+  We also ask for other pertinent details that allow LCF to track the clinic's
+  progress and outreach.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/lynne-cohen-preventive-care-clinic-at-usc-norris-cancer-center-for-women-at-risk-for-cancer/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5148126005741-team91.png
 organization_name: Lynne Cohen Foundation

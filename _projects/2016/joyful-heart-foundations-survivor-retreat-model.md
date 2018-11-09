@@ -15,35 +15,10 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Peace Over Violence, Village Family Services, Homeboy Industries, Georgetown
   University
-project_measure: >-
-  The evaluation of the Retreat Model’s effectiveness will be led by Mary Ann
-  Dutton, Ph.D., a Professor of Psychiatry at Georgetown University. Dr. Dutton
-  is a well-respected clinical psychologist and researcher with over 20 years of
-  extensive experience in the areas of intimate partner violence and alternative
-  healing practices. The evaluation will include standardized quantitative
-  assessment measures (Patient Health Questionnaire--Somatic; Insomnia Severity
-  Index; PTSD Checklist; Perceived Stress Scales; Multidimensonal Fatigue
-  Symptom Inventory Short Form; and Satisfaction of Life Scale)that track levels
-  of PTSD symptoms, stress related outcomes, and the acquisition of healing and
-  wellness competencies: self-efficacy, positive self-concept, increased
-  self-compassion, healthy coping skills, decreased isolation, and increased
-  connectedness among program participants. Qualitative assessments will target
-  patterns of isolation and physical health factors that directly relate to
-  ability to access support within their families, friends and community.
-  Assessments will be captured in data collection periods: two weeks prior to
-  retreat, two weeks following retreat and at three and six months post retreat.
-project_proposal_help:
-  - 'Money '
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles
-  - Technical infrastructure (computers
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   The demand for our signature Survivor Retreat Program for survivors of
   domestic and sexual violence exceeds its availability and reach. In response,
   we have undertaken an ambitious research project in partnership with
@@ -51,23 +26,12 @@ project_description: >-
   used to create a replicable Retreat Model that organizations can implement and
   offer to survivors, the healing professionals who serve them, and communities
   beyond our current capacity and scope.
-project_impact: >-
-  ["Self-sufficiency","Resilient communities","Prevalence of adverse childhood
-  experiences","Mental illness"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Self-sufficiency
   - Resilient communities
   - Prevalence of adverse childhood experiences
   - Mental illness
-project_proposal_description: >-
-  The demand for our signature Survivor Retreat Program for survivors of
-  domestic and sexual violence exceeds its availability and reach. In response,
-  we have undertaken an ambitious research project in partnership with
-  Georgetown University to evaluate our retreats. Our research findings will
-  used to create a replicable Retreat Model that organizations can implement and
-  offer to survivors, the healing professionals who serve them, and communities
-  beyond our current capacity and scope.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -76,7 +40,7 @@ project_areas:
   - Westside
   - South Bay
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The domestic violence and sexual assault service provider community currently
   faces an unprecedented challenge in effectively helping survivors understand
   and heal from the trauma that they have endured. The challenge is twofold:
@@ -115,6 +79,30 @@ project_proposal_best_place: >-
   populations. This project will make LA a better place to LIVE by promoting
   positive mental health outcomes, community resiliency and increased support
   for advocates in this work.
+Please explain how you will define and measure success for your project.​: >-
+  The evaluation of the Retreat Model’s effectiveness will be led by Mary Ann
+  Dutton, Ph.D., a Professor of Psychiatry at Georgetown University. Dr. Dutton
+  is a well-respected clinical psychologist and researcher with over 20 years of
+  extensive experience in the areas of intimate partner violence and alternative
+  healing practices. The evaluation will include standardized quantitative
+  assessment measures (Patient Health Questionnaire--Somatic; Insomnia Severity
+  Index; PTSD Checklist; Perceived Stress Scales; Multidimensonal Fatigue
+  Symptom Inventory Short Form; and Satisfaction of Life Scale)that track levels
+  of PTSD symptoms, stress related outcomes, and the acquisition of healing and
+  wellness competencies: self-efficacy, positive self-concept, increased
+  self-compassion, healthy coping skills, decreased isolation, and increased
+  connectedness among program participants. Qualitative assessments will target
+  patterns of isolation and physical health factors that directly relate to
+  ability to access support within their families, friends and community.
+  Assessments will be captured in data collection periods: two weeks prior to
+  retreat, two weeks following retreat and at three and six months post retreat.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - Technical infrastructure (computers
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/joyful-heart-foundations-survivor-retreat-model/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
 organization_name: Joyful Heart Foundation

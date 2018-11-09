@@ -14,50 +14,8 @@ project_summary: BRANDNEW YOUth is a 6-week brand development program for male t
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733217165741-team91.jpg
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  We will measure the success of the program by looking at the following:
-
-
-  Overall understanding of brands and their role in the consumer marketplace: We
-  will compare the student's entry video with their exit videos. Observing any
-  changes in their perspectives, attitude, understanding of brands and awareness
-  of self.
-
-
-  Market Development:  Based on internal and external feedback, we will evaluate
-  students’ growth in brand design and development through the strength of their
-  website landing page.  
-
-
-  Adult participation: Engagement with adult entrepreneurs and founders is a
-  fundamental part of the program.  Strong participation rates as well as
-  feedback from adult participants will allow us to measure the strength of
-  program. 
-
-
-  Apprenticeships: The program will enable students to identify unique
-  internship and apprenticeship opportunities as the students will have
-  exclusive access to the business community within the WeWork environment. 
-  Students will be encouraged to be proactive in seeking opportunities and
-  career placements will be tracked for 2 years following the student’s
-  participation in the program.       
-
-
-  Graduation: Students will be asked to submit their graduation status post
-  completion of the summer program.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   BRANDNEW YOUth is a 6-week brand development program for male teens of color.
   In response to high levels of consumer marketing towards this specific
   demographic, Brandnew Youth will empower students to develop a healthy and
@@ -65,28 +23,17 @@ project_description: >-
   personal brand. The program will be concentrated on students from low income,
   high consumer communities within South Central Los Angeles and will be limited
   to 10 participants per cycle.
-project_impact: >-
-  ["College completion","College matriculation rates","District-wide graduation
-  rates","Student education pipeline","Youth unemployment and underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - District-wide graduation rates
   - Student education pipeline
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  BRANDNEW YOUth is a 6-week brand development program for male teens of color.
-  In response to high levels of consumer marketing towards this specific
-  demographic, Brandnew Youth will empower students to develop a healthy and
-  sustainable relationship with brands, by teaching them how to create their own
-  personal brand. The program will be concentrated on students from low income,
-  high consumer communities within South Central Los Angeles and will be limited
-  to 10 participants per cycle.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - City of Los Angeles
   - LAUSD
   - n/a
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   BRANDNEW YOUTH is a 6-week brand development program for male teens of color.
   In response to high levels of consumer marketing towards this specific
   demographic, Brandnew Youth will empower students to develop a healthy and
@@ -142,6 +89,47 @@ project_proposal_best_place: >-
   students. Students will participate in a video exit interview about their
   brand, the impact of the course and the application of the course  to their
   future endeavors.
+Please explain how you will define and measure success for your project.​: >-
+  We will measure the success of the program by looking at the following:
+
+
+  Overall understanding of brands and their role in the consumer marketplace: We
+  will compare the student's entry video with their exit videos. Observing any
+  changes in their perspectives, attitude, understanding of brands and awareness
+  of self.
+
+
+  Market Development:  Based on internal and external feedback, we will evaluate
+  students’ growth in brand design and development through the strength of their
+  website landing page.  
+
+
+  Adult participation: Engagement with adult entrepreneurs and founders is a
+  fundamental part of the program.  Strong participation rates as well as
+  feedback from adult participants will allow us to measure the strength of
+  program. 
+
+
+  Apprenticeships: The program will enable students to identify unique
+  internship and apprenticeship opportunities as the students will have
+  exclusive access to the business community within the WeWork environment. 
+  Students will be encouraged to be proactive in seeking opportunities and
+  career placements will be tracked for 2 years following the student’s
+  participation in the program.       
+
+
+  Graduation: Students will be asked to submit their graduation status post
+  completion of the summer program.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/branding-while-broke-presents-brandnew-youth-a-brand-development-program-for-male-teens-of-color/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733217165741-team91.jpg
 organization_name: Continuous Good

@@ -14,51 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5555652265741-team90.jpg
 project_video: 'https://www.youtube.com/embed/ueKmJQlz92o?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  Success for Spark means keeping students:
-
-  - engaged: motivated and invested in their education, seeing a clear path to
-  their future
-
-  - on track: attending school regularly, exhibiting positive behavior, and
-  succeeding in coursework
-
-  - ready: academically, socially, and emotionally prepared to navigate high
-  school
-
-
-  We’ve established a data-sharing agreement with our partner schools to monitor
-  the three warning signs of disengagement -- grades, attendance, and behavior
-  -- as well as graduation. Spark also tracks the development of key skills and
-  mindsets that set students up for success, including teamwork, positive
-  attitude, and other social/emotional competencies. We conduct pre-, mid-, and
-  post-program surveys of Spark students, mentors, and teachers to gauge student
-  gains in growth mindset (based on Carol Dweck’s research), grit (based on
-  Angela Duckworth’s research), classroom engagement (based on KIPP’s school
-  character report card), and 21st-century skills (based on the work of MHA
-  labs). Finally, we measure the quality of each student-mentor match through
-  surveys of both students and mentors.
-
-
-  Based on Spark’s latest impact report:
-
-  - 91% of students improve their grades, attendance, or classroom engagement
-  during our program
-
-  - 77% demonstrate positive academic mindsets (like self-efficacy)
-
-  - 83% meet or exceed expectations on social/emotional skills (like teamwork)
-
-  - 92% have graduated on time or are on track to do so (compared to only 68% of
-  their peers)
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   One out of every six LAUSD students drop out of high school -- and of those
   who drop out, two thirds either don’t complete or get held back in 9th grade.
   By 2050, Spark wants every LA student to be ready for 9th grade with the
@@ -66,27 +23,16 @@ project_description: >-
   investment from LA2050 will fuel Spark’s next step: matching 300 underserved
   middle schoolers with mentors from top companies for a year of career
   exploration, skill-building, and academic engagement.
-project_impact: >-
-  ["District-wide graduation rates","Student education pipeline","Suspension and
-  expulsion rates","Truancy rates in elementary and middle schools"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - District-wide graduation rates
   - Student education pipeline
   - Suspension and expulsion rates
   - Truancy rates in elementary and middle schools
-project_proposal_description: >-
-  One out of every six LAUSD students drop out of high school -- and of those
-  who drop out, two thirds either don’t complete or get held back in 9th grade.
-  By 2050, Spark wants every LA student to be ready for 9th grade with the
-  support they need to thrive in high school and beyond. Today, a $100,000
-  investment from LA2050 will fuel Spark’s next step: matching 300 underserved
-  middle schoolers with mentors from top companies for a year of career
-  exploration, skill-building, and academic engagement.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - South LA
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   In order to make LA the best place to learn, we have to engage students at the
   right moment. Every year, 1.2 million students drop out of high schools across
   the US. And two out of every three dropouts either don’t finish 9th grade or
@@ -138,6 +84,48 @@ project_proposal_best_place: >-
   partners with Spark. The impact goes beyond students and mentors to the
   company itself: “It’s energizing and it’s cool,” says Perry Wallack. “It will
   help your company hire. It will absolutely help you retain.'
+Please explain how you will define and measure success for your project.​: >-
+  Success for Spark means keeping students:
+
+  - engaged: motivated and invested in their education, seeing a clear path to
+  their future
+
+  - on track: attending school regularly, exhibiting positive behavior, and
+  succeeding in coursework
+
+  - ready: academically, socially, and emotionally prepared to navigate high
+  school
+
+
+  We’ve established a data-sharing agreement with our partner schools to monitor
+  the three warning signs of disengagement -- grades, attendance, and behavior
+  -- as well as graduation. Spark also tracks the development of key skills and
+  mindsets that set students up for success, including teamwork, positive
+  attitude, and other social/emotional competencies. We conduct pre-, mid-, and
+  post-program surveys of Spark students, mentors, and teachers to gauge student
+  gains in growth mindset (based on Carol Dweck’s research), grit (based on
+  Angela Duckworth’s research), classroom engagement (based on KIPP’s school
+  character report card), and 21st-century skills (based on the work of MHA
+  labs). Finally, we measure the quality of each student-mentor match through
+  surveys of both students and mentors.
+
+
+  Based on Spark’s latest impact report:
+
+  - 91% of students improve their grades, attendance, or classroom engagement
+  during our program
+
+  - 77% demonstrate positive academic mindsets (like self-efficacy)
+
+  - 83% meet or exceed expectations on social/emotional skills (like teamwork)
+
+  - 92% have graduated on time or are on track to do so (compared to only 68% of
+  their peers)
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/spark-la-youth-mentorships/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5555652265741-team90.jpg
 organization_name: Spark Los Angeles

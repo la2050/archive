@@ -11,19 +11,8 @@ project_summary: Building a network of smart city best practices for the 88 citi
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5488182355741-team91.jpg
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Success for the Open Sourced Smart City Collaborative will include
-  participation in the collaborative by at least 16 (20%) cities in LA County,
-  50 downloads of the toolkit, and 2 round table events.
-project_proposal_help:
-  - 'Money '
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   The City of West Hollywood will soon release an RFP for a Smart City Strategic
   Plan. The plan will aim to solve a number of questions regarding project
   priorities, funding options, implementation strategy, citizen privacy
@@ -31,27 +20,16 @@ project_description: >-
   strategic plan to be open-sourced and serve as a model for other cities,
   especially small cities, throughout the County, through development of an
   interactive website and toolkit for other cities.
-project_impact: >-
-  ["Access to free wifi","Government responsiveness to residents’ needs","Travel
-  time to work","Public transit riders"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to free wifi
   - Government responsiveness to residents’ needs
   - Travel time to work
   - Public transit riders
-project_proposal_description: >-
-  The City of West Hollywood will soon release an RFP for a Smart City Strategic
-  Plan. The plan will aim to solve a number of questions regarding project
-  priorities, funding options, implementation strategy, citizen privacy
-  concerns, and technology best practices. The LA2050 Grant would allow this
-  strategic plan to be open-sourced and serve as a model for other cities,
-  especially small cities, throughout the County, through development of an
-  interactive website and toolkit for other cities.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Westside
   - County of Los Angeles
   - City of West Hollywood
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The Open Sourced Smart City Collaborative, led by the City of West Hollywood,
   would build off the forthcoming West Hollywood Smart City Strategic Plan and
   create an open sourced toolkit of resources and best practices for all cities
@@ -89,6 +67,16 @@ project_proposal_best_place: >-
   collaboration and provide a digital toolkit for our fellow LA County Cities. 
   West Hollywood would convene quarterly regional meetings to build the Smart
   City network across LA County.
+Please explain how you will define and measure success for your project.​: >-
+  Success for the Open Sourced Smart City Collaborative will include
+  participation in the collaborative by at least 16 (20%) cities in LA County,
+  50 downloads of the toolkit, and 2 round table events.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/open-sourced-smart-city-collaborative/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5488182355741-team91.jpg
 organization_name: City of West Hollywood

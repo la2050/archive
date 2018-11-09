@@ -13,8 +13,7 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0178457155741-team91.jpg
 project_video: 'https://www.youtube.com/embed/yjPtx6xf7jI?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Collaboration takes place between KCSN and KPFK Radio and Able ARTS Work. The
   KCSN program producer, Jolie Mason, is also sight-impaired and is a strong
   advocate of using technology to overcome difficulties imposed by disabilities.
@@ -22,45 +21,23 @@ project_collaborators: >-
   the broadcast technology needed for the radio program. ARTBEAT RADIO is
   created and produced at the Able ARTS Work location and the podcast is
   available locally, nationally and internationally
-project_measure: "Our goal is to provide meaningful opportunities for people with and without disabilities to engage through the arts.\nOur measures of success:\n1.)\tResident artists with intellectual disabilities attending Able ARTS Work will have increased opportunities to create, host and produce Artbeat Radio content in various communities. \n2.)\tThe Artbeat Radio audience will grow through social media engagement, podcast subscriptions.\n3.)\tGrowing interest in providing inclusive opportunities at events, organizations, corporations, and institutions, as evidenced through connections we can make with community stakeholders."
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   Following 35 years of progress towards inclusion and access for people with
   intellectual disabilities, Able ARTS Work launched Artbeat Radio, an
   innovative community project presented through the lens of disability culture.
   As engagement has increased and content producers are demanding more access to
   share their voices, Artbeat Radio is prepared to go mobile.
-project_impact: >-
-  ["Social & emotional support","Cultural events","Public/open streets
-  gatherings","Government responsiveness to residents’ needs","Total number of
-  local social media friends and connections Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Public/open streets gatherings
   - Government responsiveness to residents’ needs
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  Following 35 years of progress towards inclusion and access for people with
-  intellectual disabilities, Able ARTS Work launched Artbeat Radio, an
-  innovative community project presented through the lens of disability culture.
-  As engagement has increased and content producers are demanding more access to
-  share their voices, Artbeat Radio is prepared to go mobile.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South Bay
   - County of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Following 35 years of progress towards inclusion and access for people with
   intellectual disabilities, Able ARTS Work launched Artbeat Radio, an
   innovative community project presented through the lens of disability culture.
@@ -111,6 +88,18 @@ project_proposal_best_place: >-
   and other targeted Los Angeles neighborhoods.  Through social media and
   leveraging partnerships with ACLB and the LACAC, a communications plan will
   include the sharing of strategic information to build  engagement.
+Please explain how you will define and measure success for your project.​: "Our goal is to provide meaningful opportunities for people with and without disabilities to engage through the arts.\nOur measures of success:\n1.)\tResident artists with intellectual disabilities attending Able ARTS Work will have increased opportunities to create, host and produce Artbeat Radio content in various communities. \n2.)\tThe Artbeat Radio audience will grow through social media engagement, podcast subscriptions.\n3.)\tGrowing interest in providing inclusive opportunities at events, organizations, corporations, and institutions, as evidenced through connections we can make with community stakeholders."
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/artbeat-radio/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0178457155741-team91.jpg
 organization_name: Able Arts Work

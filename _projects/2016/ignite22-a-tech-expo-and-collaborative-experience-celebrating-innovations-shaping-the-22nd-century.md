@@ -17,72 +17,21 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1008153355741-team91.jpg
 project_video: 'https://www.youtube.com/embed/XLWpDjYyDQI?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Through a collaboration with California State University Program for Education
   and Research in Biotechnology (CSUPERB), IGNITE22 will support CSUPERB's
   strategy to expand experiential biotechnology learning opportunities, innovate
   biotechnology education and partner with industry. By engaging area high
   school students involved in ITEP (International Trade Education Programs),
   IGNITE22 will inspire the next generation of STEM leaders.
-project_measure: >-
-  IGNITE22 aims to bring together a diverse group of entrepreneurs, investors
-  and industry leaders to foster the commercialization of transformative
-  technologies. By engaging creators, adopters and facilitators, we are
-  connecting all parts of the ecosystem critical to bringing new technology to
-  market. Our goal is to initiate meaningful partnerships between academic
-  institutions, technology startups and corporate partners that will lead to
-  accelerated commercialization of technology and employment opportunities for
-  the region’s graduates.
-
-
-  We will measure success based on the following:
-
-  - Number of tech startups exhibiting by industry
-
-  - Number of CSUPERB researchers presenting
-
-  - Number of corporate/industry influencers and investors attending
-
-
-  Through pre- and post-event surveys, we will measure the following:
-
-  - % of attendees interested in participating in collaborative opportunities
-
-  - % of students who express an interest in pursuing STEM-related careers or
-  entrepreneurial endeavors
-
-
-  While one event alone cannot impact the CREATE metrics such as federal
-  research grant funding or high-growth startups, we believe that offering a
-  platform for collaboration across the entrepreneurial ecosystem will, over the
-  long-term, result in more manufacturing activity, more STEM-related job
-  opportunities, more patents per capita, increased venture capital investment,
-  and an increase of minority- and women-owned tech startups reflecting the
-  diversity of Southern California’s residents.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   IGNITE22 brings together, in a collaborative environment, the entrepreneurial
   community, industry partners, academic institutions, and other stakeholders
   and supporting organizations, for an event that showcases technology that will
   impact our lives into the 22nd Century. IGNITE22 will inspire innovation and
   creativity in entrepreneurship and STEM programs while supporting the region’s
   technology hubs. With a single accord, we will celebrate the future.
-project_impact: >-
-  ["Manufacturing activity","Federal research grant funding","Gini
-  coefficient","Jobs per capita","Measures of cultural and global economic
-  influence (“soft power”)","Minority- and women-owned firms","High growth
-  startups","Patents per capita","Percentage of graduates from local higher
-  education institutions that remain in LA County 5 years after
-  graduating","Recruiting and retention rates for local higher education
-  institutions","Venture capital investment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Manufacturing activity
   - Federal research grant funding
   - Gini coefficient
@@ -96,17 +45,10 @@ project_proposal_impact:
     in LA County 5 years after graduating
   - Recruiting and retention rates for local higher education institutions
   - Venture capital investment
-project_proposal_description: >-
-  IGNITE22 brings together, in a collaborative environment, the entrepreneurial
-  community, industry partners, academic institutions, and other stakeholders
-  and supporting organizations, for an event that showcases technology that will
-  impact our lives into the 22nd Century. IGNITE22 will inspire innovation and
-  creativity in entrepreneurship and STEM programs while supporting the region’s
-  technology hubs. With a single accord, we will celebrate the future.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   IGNITE22 is a catalyst for collaboration. We chose an event over a program to
   generate the broadest reach of stakeholders across industries and across a
   wide variety of audience groups. The interaction between these stakeholders
@@ -146,6 +88,48 @@ project_proposal_best_place: >-
   hubs, particularly in biotech, aerospace, trade and transportation, and clean
   tech, thereby contributing to LA’s creative and entrepreneurial ecosystem with
   global economic influence.
+Please explain how you will define and measure success for your project.​: >-
+  IGNITE22 aims to bring together a diverse group of entrepreneurs, investors
+  and industry leaders to foster the commercialization of transformative
+  technologies. By engaging creators, adopters and facilitators, we are
+  connecting all parts of the ecosystem critical to bringing new technology to
+  market. Our goal is to initiate meaningful partnerships between academic
+  institutions, technology startups and corporate partners that will lead to
+  accelerated commercialization of technology and employment opportunities for
+  the region’s graduates.
+
+
+  We will measure success based on the following:
+
+  - Number of tech startups exhibiting by industry
+
+  - Number of CSUPERB researchers presenting
+
+  - Number of corporate/industry influencers and investors attending
+
+
+  Through pre- and post-event surveys, we will measure the following:
+
+  - % of attendees interested in participating in collaborative opportunities
+
+  - % of students who express an interest in pursuing STEM-related careers or
+  entrepreneurial endeavors
+
+
+  While one event alone cannot impact the CREATE metrics such as federal
+  research grant funding or high-growth startups, we believe that offering a
+  platform for collaboration across the entrepreneurial ecosystem will, over the
+  long-term, result in more manufacturing activity, more STEM-related job
+  opportunities, more patents per capita, increased venture capital investment,
+  and an increase of minority- and women-owned tech startups reflecting the
+  diversity of Southern California’s residents.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/ignite22-a-tech-expo-and-collaborative-experience-celebrating-innovations-shaping-the-22nd-century/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1008153355741-team91.jpg
 organization_name: 'Braid Theory, Inc.'

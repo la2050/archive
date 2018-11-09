@@ -12,71 +12,22 @@ project_summary: The first social networking service for nonprofit organizations
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4156024363741-team89.jpg
 project_video: 'https://www.youtube.com/embed/fTkbmu7_ywc?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Coligo will provide analytics tools for its users to measure success on the
-  web-based platform. Coligo Analytics is a featured plug-in embedded in every
-  user profile. Coligo Analytics provides detailed information about the user’s
-  performance and the social / environmental impact the user has achieved. This
-  analytics tool helps users measure how people are engaging with their profile
-  and view metrics about their performance.
-   
-  The following metrics are provided by Coligo Analytics:
-
-  Public Metrics: When users visit you on Coligo, they have access to data about
-  the organizations that interest them, and their growth and opportunity
-  listings by cause. This includes Coligo Likes –where users can view the growth
-  or decline of  their ‘likes’ over a weekly basis.
-   
-  Private Metrics:
-   
-  Audience Insights: Coligo Audience Insights provides users with a breakdown of
-  people who have engaged with their content. Audience Insights contains
-  valuable information about a user’s followers. Users can track their follower
-  growth over time and learn about their follower’s interests and demographics.
-   
-  Audience Engagement: Coligo Audience Engagement allows users to measure their
-  impressions based on likes, comments and shares.
-   
-  Nonprofit: Gives users high level statistics of social/environment impact
-  achieved based on donations received from donors
-   
-  Donor: Gives users high-level statistics of social/environmental impact based
-  on charitable giving
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Coligo is the first social networking service for non-profit and charitable
   organizations that facilitates a connection between non-profit organizations
   and donors, allowing matched users to exchange resources and funds to achieve
   social impact together.
-project_impact: >-
-  ["Social & emotional support","Cultural events","Public/open streets
-  gatherings","Rates of volunteerism","Total number of local social media
-  friends and connections Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Public/open streets gatherings
   - Rates of volunteerism
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  Coligo is the first social networking service for non-profit and charitable
-  organizations that facilitates a connection between non-profit organizations
-  and donors, allowing matched users to exchange resources and funds to achieve
-  social impact together.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Coligo will help make LA the best place to connect by hosting novel engagement
   opportunities for nonprofit organizations and donors in the Los Angeles
   region.  
@@ -127,6 +78,45 @@ project_proposal_best_place: >-
   creating engagement and strategic partnership opportunities for nonprofits and
   donors, Coligo will make Los Angeles the best place to make connections
   worthwhile.
+Please explain how you will define and measure success for your project.​: >-
+  Coligo will provide analytics tools for its users to measure success on the
+  web-based platform. Coligo Analytics is a featured plug-in embedded in every
+  user profile. Coligo Analytics provides detailed information about the user’s
+  performance and the social / environmental impact the user has achieved. This
+  analytics tool helps users measure how people are engaging with their profile
+  and view metrics about their performance.
+   
+  The following metrics are provided by Coligo Analytics:
+
+  Public Metrics: When users visit you on Coligo, they have access to data about
+  the organizations that interest them, and their growth and opportunity
+  listings by cause. This includes Coligo Likes –where users can view the growth
+  or decline of  their ‘likes’ over a weekly basis.
+   
+  Private Metrics:
+   
+  Audience Insights: Coligo Audience Insights provides users with a breakdown of
+  people who have engaged with their content. Audience Insights contains
+  valuable information about a user’s followers. Users can track their follower
+  growth over time and learn about their follower’s interests and demographics.
+   
+  Audience Engagement: Coligo Audience Engagement allows users to measure their
+  impressions based on likes, comments and shares.
+   
+  Nonprofit: Gives users high level statistics of social/environment impact
+  achieved based on donations received from donors
+   
+  Donor: Gives users high-level statistics of social/environmental impact based
+  on charitable giving
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/the-first-social-networking-service-for-nonprofit-organizations/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4156024363741-team89.jpg
 organization_name: 'Coligo, Inc.'

@@ -13,51 +13,15 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0700914165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/KA9t95cpVZs?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: 'Code Rodeo, Creative Capital, and Los Angeles State Historic Park'
-project_measure: >-
-  Fallen Fruit planted the first fruit park in Los Angeles in Jan 2013 at Del
-  Aire Park, the first public fruit park in CA. With the youth from HOLA, we
-  successfully completed a pilot of The Endless Orchard in the neighborhood
-  surrounding MacArthur park in 2014. Since then, the project has gained
-  incredible momentum, strong partnerships, and a creative and administrative
-  infrastructure. With this in place and with the support of the Goldhirsh
-  Foundation, Fallen Fruit anticipates the completion of the next phase of the
-  project before the end of Spring 2017.
-
-
-  This is our anticipated timeline for success: Winter/Spring 2017 (6 weeks) -
-  Call for participation to expand The Endless Orchard in LA City by targeting
-  existing at risk neighborhoods in food deserts and planting 200 Public Fruit
-  Trees in collaboration with the public! Website + app completed by Feb 2016:
-  Code Rodeo has been in partnership with Fallen Fruit to design and develop the
-  Endless Orchard website (endlessorchard.com) and mobile app. The website + app
-  will allow communities to map the public fruit trees and upload family and
-  neighborhood histories to the geo-tagged trees. Build and reclaim the
-  narrative of their community's history through their own words, photos and
-  memories. With community participation, continue to plant fruit trees in the
-  margins of public spaces, interstitial municipal spaces and in public
-  rights-of-way at community orgs. Fine tune the app with public participation.
-  Workshops on tree care.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - 'Staff '
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: 'Code Rodeo, Creative Capital, and Los Angeles State Historic Park'
+Please describe your project proposal.: >-
   The Endless Orchard project collaborates with the citizens of Los Angeles
   planting fruit trees on the margins of public and private space, in front of
   homes and businesses and spaces like parkways, bike paths and alleys. Tree
   tags placed at each fruit tree identify it as part of a network of sharing.
   Anyone can collaborate with the project by planting, mapping, sharing, and
   navigating the fruit trees via the free online website and app.
-project_impact: >-
-  ["Access to healthy food","Exposure to air
-  toxins","Self-sufficiency","Obesity","Resilient communities","Tree canopy
-  cover","Walk/bike/transit score"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to healthy food
   - Exposure to air toxins
   - Self-sufficiency
@@ -65,18 +29,11 @@ project_proposal_impact:
   - Resilient communities
   - Tree canopy cover
   - Walk/bike/transit score
-project_proposal_description: >-
-  The Endless Orchard project collaborates with the citizens of Los Angeles
-  planting fruit trees on the margins of public and private space, in front of
-  homes and businesses and spaces like parkways, bike paths and alleys. Tree
-  tags placed at each fruit tree identify it as part of a network of sharing.
-  Anyone can collaborate with the project by planting, mapping, sharing, and
-  navigating the fruit trees via the free online website and app.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   During a month long engagement at the new Los Angeles State Historic Park, we
   will host public fruit tree adoptions and planting days. We will provide fruit
   trees to Angeleno’s who want to collaborate on the project and who have an
@@ -127,6 +84,37 @@ project_proposal_best_place: >-
   and family histories to geo-tagged trees they have planted. In 50 years, the
   community will still be able to walk the Endless Orchard and the trees will
   still be bearing fruit.
+Please explain how you will define and measure success for your project.​: >-
+  Fallen Fruit planted the first fruit park in Los Angeles in Jan 2013 at Del
+  Aire Park, the first public fruit park in CA. With the youth from HOLA, we
+  successfully completed a pilot of The Endless Orchard in the neighborhood
+  surrounding MacArthur park in 2014. Since then, the project has gained
+  incredible momentum, strong partnerships, and a creative and administrative
+  infrastructure. With this in place and with the support of the Goldhirsh
+  Foundation, Fallen Fruit anticipates the completion of the next phase of the
+  project before the end of Spring 2017.
+
+
+  This is our anticipated timeline for success: Winter/Spring 2017 (6 weeks) -
+  Call for participation to expand The Endless Orchard in LA City by targeting
+  existing at risk neighborhoods in food deserts and planting 200 Public Fruit
+  Trees in collaboration with the public! Website + app completed by Feb 2016:
+  Code Rodeo has been in partnership with Fallen Fruit to design and develop the
+  Endless Orchard website (endlessorchard.com) and mobile app. The website + app
+  will allow communities to map the public fruit trees and upload family and
+  neighborhood histories to the geo-tagged trees. Build and reclaim the
+  narrative of their community's history through their own words, photos and
+  memories. With community participation, continue to plant fruit trees in the
+  margins of public spaces, interstitial municipal spaces and in public
+  rights-of-way at community orgs. Fine tune the app with public participation.
+  Workshops on tree care.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - 'Staff '
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/the-endless-orchard-phase-two/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0700914165741-team91.jpg
 organization_name: Fallen Fruit

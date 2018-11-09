@@ -14,64 +14,12 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3797480105741-team90.jpeg
 project_video: 'https://www.youtube.com/embed/LPu2w2BufhE?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Breastfeeding Task force of Greater Los Angeles: BreastfeedLA (BFLA), Soul
   Food for Your Baby (SFYB), Public Health Foundation Enterprises WIC (PHFE
   WIC), Northeast Valley Health Corporation WIC (NEVHC), County of Los Angeles,
   Department of Public Health, South Los Angeles Health Projects
-project_measure: >-
-  We aim to increase baseline exclusive breastfeeding rates by 3% over a
-  one-year period in South Los Angeles.  This measure along with process
-  evaluation will help measure and define the success of our program.
-
-
-  We plan to:
-
-
-  1.  Identify champions to participate in this project – 2 community clinics.
-  (Several clinics have already expressed interest in participating)
-
-
-  2.  Advocate for policy reform within community clinics to implement policy
-  revision.
-
-
-  3.  Educate and train health care providers at the chosen clinics.  This will
-  be tracked through sign-in sheets.
-
-
-  4.  Assist clinics with implementation of the State’s Guidelines and
-  Criteria.  This will be tracked through MOUs with the clinics.
-
-
-  5. Help facilities establish a follow-up support system for new mothers,
-  including referring them to SFYB education and support groups.
-
-
-  6. Assist SFYB to provide ongoing breastfeeding and education groups to
-  African American families in SPA 6 and 8. To assess breastfeeding knowledge
-  gained, a pre- and post-test survey will be administered at each session.
-  Based on results in other programs, we estimate that participants will score
-  an average of 5%-10% higher on the post-test compared to pre-test scores.
-
-
-  7.  We will evaluate baseline, midpoint and concluding breastfeeding rates in
-  South LA.
-
-
-  8.  Ensure financial sustainability of programs. This will be measured through
-  attendance of a financial sustainability workshop and pre/post surveys.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Technical infrastructure (computers
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Please describe your project proposal.: >-
   BreastfeedLA (BFLA) plans to increase its efforts to transform community
   clinics in South LA into Breastfeeding Friendly health centers affecting
   thousands of families. We will help implement comprehensive institutional
@@ -79,25 +27,14 @@ project_description: >-
   addition, BreastfeedLA and SFYB will work together to bring a dynamic
   culturally congruent breastfeeding education and support program to the
   underserved community of South LA.
-project_impact: >-
-  ["Access to healthy food","Healthcare access","Obesity","Residents receiving
-  coordinated healthcare services"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to healthy food
   - Healthcare access
   - Obesity
   - Residents receiving coordinated healthcare services
-project_proposal_description: >-
-  BreastfeedLA (BFLA) plans to increase its efforts to transform community
-  clinics in South LA into Breastfeeding Friendly health centers affecting
-  thousands of families. We will help implement comprehensive institutional
-  changes that allow mothers to turn their breastfeeding goals into reality. In
-  addition, BreastfeedLA and SFYB will work together to bring a dynamic
-  culturally congruent breastfeeding education and support program to the
-  underserved community of South LA.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   BFLA is positioned to effectively help address the immediate needs of the
   community with direct services, resources, and technical support that is
   beyond basic health care.  A significant root cause of poor health is food
@@ -149,6 +86,57 @@ project_proposal_best_place: >-
   support and care services to mothers and their families within clinics. BFLA
   will assist CHCs with establishing written procedures that ensure a
   breastfeeding-friendly clinic environment.
+Please explain how you will define and measure success for your project.​: >-
+  We aim to increase baseline exclusive breastfeeding rates by 3% over a
+  one-year period in South Los Angeles.  This measure along with process
+  evaluation will help measure and define the success of our program.
+
+
+  We plan to:
+
+
+  1.  Identify champions to participate in this project – 2 community clinics.
+  (Several clinics have already expressed interest in participating)
+
+
+  2.  Advocate for policy reform within community clinics to implement policy
+  revision.
+
+
+  3.  Educate and train health care providers at the chosen clinics.  This will
+  be tracked through sign-in sheets.
+
+
+  4.  Assist clinics with implementation of the State’s Guidelines and
+  Criteria.  This will be tracked through MOUs with the clinics.
+
+
+  5. Help facilities establish a follow-up support system for new mothers,
+  including referring them to SFYB education and support groups.
+
+
+  6. Assist SFYB to provide ongoing breastfeeding and education groups to
+  African American families in SPA 6 and 8. To assess breastfeeding knowledge
+  gained, a pre- and post-test survey will be administered at each session.
+  Based on results in other programs, we estimate that participants will score
+  an average of 5%-10% higher on the post-test compared to pre-test scores.
+
+
+  7.  We will evaluate baseline, midpoint and concluding breastfeeding rates in
+  South LA.
+
+
+  8.  Ensure financial sustainability of programs. This will be measured through
+  attendance of a financial sustainability workshop and pre/post surveys.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Technical infrastructure (computers
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/creating-a-first-food-friendly-south-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3797480105741-team90.jpeg
 organization_name: BreastfeedLA

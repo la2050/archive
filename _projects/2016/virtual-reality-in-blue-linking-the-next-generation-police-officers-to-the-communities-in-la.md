@@ -17,33 +17,10 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0296500655741-team91.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   1. City of Los Angeles Personnel Department (Public Safety), 2. Woodbury
   University, 3. FutureSculpt
-project_measure: >-
-  Currently, there are 16 recruitment officers in the Recruitment and Education
-  Division of the Los Angeles Police Department that work with the City of Los
-  Angeles Personnel Department. We intended to provide the recruitment officers
-  with the Virtual Reality modules so they can provide a wider base of
-  candidates and a glimpse of how they can help make their city a safer place. 
-
-
-  We will be providing the recruitment officers with a survey they can
-  administrator to prospects before they try the Virtual Reality module as well
-  as after the experience. Then, we will be tracking the police academy
-  graduation rates of the applicants who were exposed to the virtual reality
-  content. 
-
-
-  We will also be implementing a new head tracking technology that will give us
-  deeper insights and understanding for how users feel when they experience this
-  content. This will be done by partnering with a Canadian technology company
-  called Retinad
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-project_description: >-
+Please describe your project proposal.: >-
   Impact Hub Los Angeles is serving as a convener for a collaborative project
   between the City of Los Angeles Personnel Department, Woodbury University's
   Interdisciplinary Studies Department and immersive technologies consultancy,
@@ -51,25 +28,14 @@ project_description: >-
   in public safety. The intent of this project is to change public perception
   and help create law enforcement that is reflective of the community it
   protects.
-project_impact: >-
-  ["Arts establishments","Employment in the creative industries","Jobs per
-  capita","Measures of cultural and global economic influence (“soft power”)"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Employment in the creative industries
   - Jobs per capita
   - Measures of cultural and global economic influence (“soft power”)
-project_proposal_description: >-
-  Impact Hub Los Angeles is serving as a convener for a collaborative project
-  between the City of Los Angeles Personnel Department, Woodbury University's
-  Interdisciplinary Studies Department and immersive technologies consultancy,
-  FutureSculpt focused on activating a wider base of constituents to participate
-  in public safety. The intent of this project is to change public perception
-  and help create law enforcement that is reflective of the community it
-  protects.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Today, Los Angeles is one of the most ethnically and geographically diverse
   cities in the country. Its residents speak 224 languages and live in diverse
   communities. Los Angeles Police Department Officers are sworn to protect and
@@ -108,6 +74,28 @@ project_proposal_best_place: >-
   FutureSculpt are set to explore how we can recruit the next generation of
   police officers who reflect the value of their communities and can become an
   advocate for all Angelenos.
+Please explain how you will define and measure success for your project.​: >-
+  Currently, there are 16 recruitment officers in the Recruitment and Education
+  Division of the Los Angeles Police Department that work with the City of Los
+  Angeles Personnel Department. We intended to provide the recruitment officers
+  with the Virtual Reality modules so they can provide a wider base of
+  candidates and a glimpse of how they can help make their city a safer place. 
+
+
+  We will be providing the recruitment officers with a survey they can
+  administrator to prospects before they try the Virtual Reality module as well
+  as after the experience. Then, we will be tracking the police academy
+  graduation rates of the applicants who were exposed to the virtual reality
+  content. 
+
+
+  We will also be implementing a new head tracking technology that will give us
+  deeper insights and understanding for how users feel when they experience this
+  content. This will be done by partnering with a Canadian technology company
+  called Retinad
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/virtual-reality-in-blue-linking-the-next-generation-police-officers-to-the-communities-in-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0296500655741-team91.jpg
 organization_name: Impact Hub Los Angeles

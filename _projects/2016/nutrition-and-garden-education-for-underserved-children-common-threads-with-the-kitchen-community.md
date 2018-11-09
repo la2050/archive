@@ -17,8 +17,7 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9369505955741-team90.jpeg
 project_video: 'https://www.youtube.com/embed/teuTGnS3vkM?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Common Threads will collaborate with The Kitchen Community (TKC) to train
   teachers in Los Angeles to lead experiential, school-based nutrition and
   garden education curricula for their students. TKC aims to improve the health
@@ -26,42 +25,7 @@ project_collaborators: >-
   education opportunities in low-income schools. TKC’s Learning Gardens are
   engaging outdoor classrooms that connect kids to real food, and increase
   academic achievement.
-project_measure: >-
-  CTs’ and TKC’s combined goals are to: 1) provide at least 1,886 students,
-  grades preK-8, with 8-16 hours each of interactive nutrition and/or garden
-  education; 2) increase student nutrition knowledge, vegetable liking, and
-  communication to the family about healthy eating; and 3) increase use of
-  school gardens by providing a STEM-aligned curriculum, training, and support
-  to teachers. CT also seeks to roll out our Common Bytes platform in at least
-  six schools with 80 teachers and 480 youth.
-
-
-  Evaluations consistently prove CTs’ Small Bites nutrition education improves
-  student nutrition knowledge, attitudes, and behaviors. During the 2016-17 and
-  2017-18 school years, we will measure the impact of Small Bites through our
-  internal pre- and post-survey of a national random sample of student
-  participants. We specifically expect to achieve the following outcomes:
-
-  - 92% of students will have medium or high scores for vegetable liking;
-
-  - 76% of students will agree or strongly agree that they tell their families
-  about healthy eating; and
-
-  - Students will be almost twice as likely to answer nutrition knowledge
-  questions correctly.
-
-
-  We will also work with TKC during SY16-17 on a process evaluation of the pilot
-  implementation of Garden Bites and during SY17-18 to evaluate student
-  knowledge and behavior. We expect Garden Bites to achieve at least similar
-  outcomes to those we achieved in the past through Small Bites, but hypothesize
-  that impacts on student would be compounded.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   Common Threads (CT) and The Kitchen Community will train teachers at 15 LA
   schools to deliver experiential, classroom- and garden-based nutrition
   education to 1,886 underserved students, grades preK-8. Each student will
@@ -69,22 +33,13 @@ project_description: >-
   food choices and connects them to fresh food. CT will also train teachers at
   six schools to utilize our new digital nutrition education platform Common
   Bytes, reaching an additional 480 kids.
-project_impact: '["Access to healthy food","Obesity"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to healthy food
   - Obesity
-project_proposal_description: >-
-  Common Threads (CT) and The Kitchen Community will train teachers at 15 LA
-  schools to deliver experiential, classroom- and garden-based nutrition
-  education to 1,886 underserved students, grades preK-8. Each student will
-  receive 8-16 hours of hands-on education that empowers them to make healthier
-  food choices and connects them to fresh food. CT will also train teachers at
-  six schools to utilize our new digital nutrition education platform Common
-  Bytes, reaching an additional 480 kids.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Common Threads (CT), in partnership with The Kitchen Community (TKC), will
   deliver hands-on nutrition and garden education programs to 2,366 underserved
   children (grades preK-8) throughout Los Angeles, providing these students with
@@ -133,6 +88,41 @@ project_proposal_best_place: >-
   teaches children nutrition and cooking skills and knowledge through recipes
   and interactive games. We will provide Common Bytes demo lessons in these
   teachers’ classrooms as well as ongoing technical assistance.
+Please explain how you will define and measure success for your project.​: >-
+  CTs’ and TKC’s combined goals are to: 1) provide at least 1,886 students,
+  grades preK-8, with 8-16 hours each of interactive nutrition and/or garden
+  education; 2) increase student nutrition knowledge, vegetable liking, and
+  communication to the family about healthy eating; and 3) increase use of
+  school gardens by providing a STEM-aligned curriculum, training, and support
+  to teachers. CT also seeks to roll out our Common Bytes platform in at least
+  six schools with 80 teachers and 480 youth.
+
+
+  Evaluations consistently prove CTs’ Small Bites nutrition education improves
+  student nutrition knowledge, attitudes, and behaviors. During the 2016-17 and
+  2017-18 school years, we will measure the impact of Small Bites through our
+  internal pre- and post-survey of a national random sample of student
+  participants. We specifically expect to achieve the following outcomes:
+
+  - 92% of students will have medium or high scores for vegetable liking;
+
+  - 76% of students will agree or strongly agree that they tell their families
+  about healthy eating; and
+
+  - Students will be almost twice as likely to answer nutrition knowledge
+  questions correctly.
+
+
+  We will also work with TKC during SY16-17 on a process evaluation of the pilot
+  implementation of Garden Bites and during SY17-18 to evaluate student
+  knowledge and behavior. We expect Garden Bites to achieve at least similar
+  outcomes to those we achieved in the past through Small Bites, but hypothesize
+  that impacts on student would be compounded.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/nutrition-and-garden-education-for-underserved-children-common-threads-with-the-kitchen-community/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9369505955741-team90.jpeg
 organization_name: Common Threads

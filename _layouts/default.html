@@ -73,11 +73,18 @@
   <link rel="canonical" href="{{ canonical_url }}" />
   <meta property="og:url" content="{{ canonical_url }}" />
 
-  {% if page.project_description and page.project_description != '' %}
-    {% assign description = page.project_description %}
-  {% elsif layout.use_default_meta_description == true %}
-    {% assign description = site.description %}
+  {% if page.project_summary and page.project_summary != '' %}
+    {% unless page.project_summary contains "<p>" or page.year_submitted == 2013 %}
+      {% assign description = page.project_summary %}
+    {% endunless %}
   {% endif %}
+
+  {% unless descripion %}
+    {% if layout.use_default_meta_description == true %}
+      {% assign description = site.description %}
+    {% endif %}
+  {% endunless %}
+
   {% if description and description != '' %}
     <meta name="description" content="{{ description }}" />
     <meta property="og:description" content="{{ description }}" />

@@ -17,55 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8697450355741-team90.jpg
 project_video: 'https://www.youtube.com/embed/BumIt2pIRuw?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  GDIGM aims to:
-
-  1) Provide scholarships for 50 girls to attend its quarterly salon series
-
-  2) Educate and empower the scholarship recipients around issues of gender in
-  media
-
-  3) Inspire the recipients to pursue jobs in the entertainment industry and to
-  lead their own creative endeavors, businesses, and arts establishments
-
-
-  It will measure the success of the program based on: 
-
-  - Total number of scholarship recipients 
-
-  - Total number of industry partner mentorship opportunities offered
-
-  - Percent of recipients who report gaining knowledge about issues of gender
-  equality in media 
-
-  - Percent of recipients interested in pursuing a career in the industry 
-
-  - Number of recipients who go on to attain internships and jobs in the
-  industry 
-
-  - Number of recipients who go on to lead their own creative endeavors,
-  businesses, and arts establishments
-
-
-  The Institute will survey scholarship recipients before and after the program,
-  and will conduct a follow-up survey two and five years after the program
-  ends.  
-
-
-  In 2017, the Institute also plans to survey leading entertainment companies to
-  illustrate specific examples of how the Institute’s work has influenced a more
-  gender-balanced media landscape in LA. This will include assessing changes in
-  the number of females employed in the creative industries and the number of
-  minority and women-owned arts businesses and arts establishments.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   The Institute’s quarterly See Jane Salon Series engages industry professionals
   and corporate influencers in discussions on achieving gender equity in media.
   This project will expand and enhance the 2017 series with scholarships for 50
@@ -73,24 +26,13 @@ project_description: >-
   mentors in the industry. The program will empower girls around issues of
   gender in media, foster future female entertainment leaders, and help create a
   more gender-balanced media landscape.
-project_impact: >-
-  ["Arts establishments","Employment in the creative industries","Minority- and
-  women-owned firms"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Employment in the creative industries
   - Minority- and women-owned firms
-project_proposal_description: >-
-  The Institute’s quarterly See Jane Salon Series engages industry professionals
-  and corporate influencers in discussions on achieving gender equity in media.
-  This project will expand and enhance the 2017 series with scholarships for 50
-  girls, ages 13-18, from across LA to join the conversation and connect with
-  mentors in the industry. The program will empower girls around issues of
-  gender in media, foster future female entertainment leaders, and help create a
-  more gender-balanced media landscape.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   In LA County, the entertainment industry creates approximately 239,000 jobs
   yielding over $20 billion in labor income annually. However, for women in the
   industry, opportunities continue to be limited. 
@@ -142,6 +84,52 @@ project_proposal_best_place: >-
   equality in media and inspire their participation in the field, enriching the
   Institute’s efforts to create more opportunities for female employment in the
   industry, as well as female-led projects, businesses, and arts establishments.
+Please explain how you will define and measure success for your project.​: >-
+  GDIGM aims to:
+
+  1) Provide scholarships for 50 girls to attend its quarterly salon series
+
+  2) Educate and empower the scholarship recipients around issues of gender in
+  media
+
+  3) Inspire the recipients to pursue jobs in the entertainment industry and to
+  lead their own creative endeavors, businesses, and arts establishments
+
+
+  It will measure the success of the program based on: 
+
+  - Total number of scholarship recipients 
+
+  - Total number of industry partner mentorship opportunities offered
+
+  - Percent of recipients who report gaining knowledge about issues of gender
+  equality in media 
+
+  - Percent of recipients interested in pursuing a career in the industry 
+
+  - Number of recipients who go on to attain internships and jobs in the
+  industry 
+
+  - Number of recipients who go on to lead their own creative endeavors,
+  businesses, and arts establishments
+
+
+  The Institute will survey scholarship recipients before and after the program,
+  and will conduct a follow-up survey two and five years after the program
+  ends.  
+
+
+  In 2017, the Institute also plans to survey leading entertainment companies to
+  illustrate specific examples of how the Institute’s work has influenced a more
+  gender-balanced media landscape in LA. This will include assessing changes in
+  the number of females employed in the creative industries and the number of
+  minority and women-owned arts businesses and arts establishments.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/if-she-can-see-it-she-can-be-it-empowering-girls-creating-a-gender-balanced-media-landscape/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8697450355741-team90.jpg
 organization_name: Geena Davis Institute on Gender in Media at Mount Saint Mary’s University

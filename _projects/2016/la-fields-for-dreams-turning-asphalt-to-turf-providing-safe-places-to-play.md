@@ -14,61 +14,15 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1149750813741-team90.png
 project_video: 'https://www.youtube.com/embed/1WcN6j5lVCc?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  Evaluation plans: 
-
-  ASLA plans to work with current partner, LAUSD, to devise an appropriate
-  evaluation plan. Proposed measurements include: school enrollment and school
-  choice data, playground injury frequency, ASLA program enrollment and
-  waitlist, and key informant interviews pre and post field creation. ASLA also
-  plans to partner with local universities to recruit interns to assist with
-  data collection. Anecdotal observations from staff at ASBA’s Field of Dreams
-  school sites suggest that there is an association between improved aesthetics
-  and reduced crime. For example, the staff has observed that by repairing a
-  decrepit blacktop and replacing it with a brand new turf field embossed with
-  the school logos has resulted in a decrease in graffiti and a reduction in
-  equipment theft. This suggests that it is worth exploring appropriate
-  measurements to examine the relationship between the installation of fields
-  and decreased vandalism and petty theft at both the sites and environs.
-
-
-  Long term outcomes:
-
-  The Fields for Dreams initiative links community development with youth
-  development. The creation of green spaces for the entire school and
-  neighborhood promotes physical activity, sports programs, and community
-  gatherings. These 3 new fields will provide ASLA with dedicated and safe
-  spaces to operate camps and other youth development activities for years to
-  come, while also providing a gathering place for community members of all
-  ages.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   The sad reality is that children in low-income public schools spend most of
   their recreation time on unsafe and unsightly asphalt playgrounds. Skinned
   knees and injuries are all too common. And many children, particularly girls,
   rarely participate at all. ASLA's vision for Los Angeles is for all children
   to have access to high-quality sports and enrichment programs and safe places
   to play regardless of families’ income levels.
-project_impact: >-
-  ["Access to open space and park facilities","Attendance at major league
-  sporting events","Number (and quality) of informal spaces for play","Number of
-  children enrolled in afterschool programs","Number of parks with
-  intergenerational play opportunities","Number of residents with easy access to
-  a “vibrant” park","Per capita crime rates","Perceived safety"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to open space and park facilities
   - Attendance at major league sporting events
   - Number (and quality) of informal spaces for play
@@ -77,16 +31,9 @@ project_proposal_impact:
   - Number of residents with easy access to a “vibrant” park
   - Per capita crime rates
   - Perceived safety
-project_proposal_description: >-
-  The sad reality is that children in low-income public schools spend most of
-  their recreation time on unsafe and unsightly asphalt playgrounds. Skinned
-  knees and injuries are all too common. And many children, particularly girls,
-  rarely participate at all. ASLA's vision for Los Angeles is for all children
-  to have access to high-quality sports and enrichment programs and safe places
-  to play regardless of families’ income levels.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   We would like to replicate the successful model created by America SCORES Bay
   Area (ASBA) and bring the Fields for Dreams initiative to Los Angeles.
 
@@ -121,6 +68,45 @@ project_proposal_best_place: >-
   2 Leyden, K. Social capital and the built environment: The importance of
   walkable neighborhoods. American Journal of Public Health. 2003; 93 (9),
   1546-1551.
+Please explain how you will define and measure success for your project.​: >-
+  Evaluation plans: 
+
+  ASLA plans to work with current partner, LAUSD, to devise an appropriate
+  evaluation plan. Proposed measurements include: school enrollment and school
+  choice data, playground injury frequency, ASLA program enrollment and
+  waitlist, and key informant interviews pre and post field creation. ASLA also
+  plans to partner with local universities to recruit interns to assist with
+  data collection. Anecdotal observations from staff at ASBA’s Field of Dreams
+  school sites suggest that there is an association between improved aesthetics
+  and reduced crime. For example, the staff has observed that by repairing a
+  decrepit blacktop and replacing it with a brand new turf field embossed with
+  the school logos has resulted in a decrease in graffiti and a reduction in
+  equipment theft. This suggests that it is worth exploring appropriate
+  measurements to examine the relationship between the installation of fields
+  and decreased vandalism and petty theft at both the sites and environs.
+
+
+  Long term outcomes:
+
+  The Fields for Dreams initiative links community development with youth
+  development. The creation of green spaces for the entire school and
+  neighborhood promotes physical activity, sports programs, and community
+  gatherings. These 3 new fields will provide ASLA with dedicated and safe
+  spaces to operate camps and other youth development activities for years to
+  come, while also providing a gathering place for community members of all
+  ages.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/la-fields-for-dreams-turning-asphalt-to-turf-providing-safe-places-to-play/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1149750813741-team90.png
 organization_name: America Scores LA

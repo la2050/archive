@@ -16,61 +16,20 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9165635165741-team90.JPG
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: "•\tHopscotch & Doodles: http://www.hopscotchanddoodles.com/, •\tPatrick Henry Foundation: http://www.patrickhenryfoundation.org/, •\tLong Beach Unified School District: http://www.lbusd.k12.ca.us/, •\tPatrick Henry Elementary School: https://henry-lbusd-ca.schoolloop.com/, •\tPatrick Henry PTA: http://patrickhenrypta.com/, •\tCalifornia State University Long Beach: https://www.csulb.edu/"
-project_measure: >-
-  The SEMI program aims to provide 1) a bilingual learning environment for all
-  students to learn STEM in a culturally relevant manner in English and Spanish;
-  2) train all teachers on best practices for teaching bilingual STEM material,
-  3) provide technology to enhance student learning and teaching practices; and
-  4) to provide the next generation of global thinkers by incorporating STEM in
-  a culturally relevant atmosphere beginning in elementary school. 
-
-
-  PHF will partner with CSULB to provide formal evaluation of the program.
-
-
-  * Number of students participating in the program.
-
-  * Student gains (i.e., science interest, non-stereotypical images of
-  scientists).
-
-  * Number of teachers trained on culturally-relevant STEM curriculum.
-
-  * Student test scores before and after program participation.
-
-  * Teacher and parent qualitative analysis of the program effectiveness.
-
-  * SEMI Program Tool Kit (to be replicated at other schools).
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: "•\tHopscotch & Doodles: http://www.hopscotchanddoodles.com/, •\tPatrick Henry Foundation: http://www.patrickhenryfoundation.org/, •\tLong Beach Unified School District: http://www.lbusd.k12.ca.us/, •\tPatrick Henry Elementary School: https://henry-lbusd-ca.schoolloop.com/, •\tPatrick Henry PTA: http://patrickhenrypta.com/, •\tCalifornia State University Long Beach: https://www.csulb.edu/"
+Please describe your project proposal.: >-
   The Patrick Henry Foundation, in collaboration with California State
   University Long Beach, will develop and incubate the Scientists, Engineers,
   Mathematicians and Innovators (SEMI) program, a new bilingual (Spanish and
   English) curriculum that introduces 5th grade elementary school students to
   STEM in a culturally-relevant manner.
-project_impact: >-
-  ["Proficiency in English and Language Arts and Math","Early
-  education","Student education pipeline"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Proficiency in English and Language Arts and Math
   - Early education
   - Student education pipeline
-project_proposal_description: >-
-  The Patrick Henry Foundation, in collaboration with California State
-  University Long Beach, will develop and incubate the Scientists, Engineers,
-  Mathematicians and Innovators (SEMI) program, a new bilingual (Spanish and
-  English) curriculum that introduces 5th grade elementary school students to
-  STEM in a culturally-relevant manner.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South Bay
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The Scientists, Engineers, Mathematicians and Innovators (SEMI) is a bilingual
   program that will help make LA the best place to learn by incubating a
   culturally relevant Science, Engineering, and Math (STEM) educational program
@@ -117,6 +76,37 @@ project_proposal_best_place: >-
   coaching and technical assistance on how to conduct projects and experiments
   in the classroom setting. The program is unique in that is designed to dispel
   negative stereotypes about scientists (e.g., eccentric, isolated).
+Please explain how you will define and measure success for your project.​: >-
+  The SEMI program aims to provide 1) a bilingual learning environment for all
+  students to learn STEM in a culturally relevant manner in English and Spanish;
+  2) train all teachers on best practices for teaching bilingual STEM material,
+  3) provide technology to enhance student learning and teaching practices; and
+  4) to provide the next generation of global thinkers by incorporating STEM in
+  a culturally relevant atmosphere beginning in elementary school. 
+
+
+  PHF will partner with CSULB to provide formal evaluation of the program.
+
+
+  * Number of students participating in the program.
+
+  * Student gains (i.e., science interest, non-stereotypical images of
+  scientists).
+
+  * Number of teachers trained on culturally-relevant STEM curriculum.
+
+  * Student test scores before and after program participation.
+
+  * Teacher and parent qualitative analysis of the program effectiveness.
+
+  * SEMI Program Tool Kit (to be replicated at other schools).
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/the-bilingual-scientists-engineers-mathematicians-and-innovators-semi-program/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9165635165741-team90.JPG
 organization_name: Patrick Henry Foundation

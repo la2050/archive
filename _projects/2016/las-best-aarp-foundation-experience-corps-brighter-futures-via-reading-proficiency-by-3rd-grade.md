@@ -17,40 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3583609165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/Q7i_qCu5ttQ?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: AARP Foundation Experience Corps & LA’s BEST
-project_measure: >-
-  In the pilot year of the proposed project, LA’s BEST will recruit 34 AARP
-  Foundation Experience Corps (EC) volunteers to tutor and mentor 100
-  kindergarten through 3rd grade students who are in need of additional support
-  in language arts and literacy, as identified by teachers, parents or LA’s BEST
-  program staff. Tutoring sessions will take place three times per week, and
-  will be offered in small group settings, including one EC volunteer and up to
-  three LA’s BEST students. 
-
-
-  Over a single academic year, success will be defined by the number of LA’s
-  BEST students who are tutored by EC volunteers and make at least 60% more
-  progress in learning two particular reading skills – sounding out new words
-  and reading comprehension – than their non-participant peers. Another measure
-  of success will be the percentage of students targeted by the proposed project
-  who achieve reading proficiency by the end of the third grade. 
-
-
-  LA’s BEST will employ more than 2,000 young adults who reside in economically
-  distressed neighborhoods to teach, coach and mentor the 25,000 children who
-  attend the LA’s BEST After School Enrichment Program every day. At least 85%
-  of children served will report feelings of safety while participating in LA’s
-  BEST, and all LA’s BEST participants will have daily opportunities to take
-  part in at least 30 minutes of physical activity and programs that promote
-  proper nutrition.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - 'Education/training '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: AARP Foundation Experience Corps & LA’s BEST
+Please describe your project proposal.: >-
   Highly trained AARP Foundation Experience Corps (EC) volunteers – retired
   Americans ages 50+ – will tutor and mentor LA’s BEST kindergarten through 3rd
   grade students to cultivate reading proficiency by the end of the 3rd grade.
@@ -58,31 +26,19 @@ project_description: >-
   – will work alongside EC volunteers and receive training and tools to expand
   and sustain the project, while growing personally and professionally through
   invaluable intergenerational exchange.
-project_impact: >-
-  ["District-wide graduation rates","Proficiency in English and Language Arts
-  and Math","Students’ perceived sense of safety at and on the way to
-  school","Youth unemployment and underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - District-wide graduation rates
   - Proficiency in English and Language Arts and Math
   - Students’ perceived sense of safety at and on the way to school
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  Highly trained AARP Foundation Experience Corps (EC) volunteers – retired
-  Americans ages 50+ – will tutor and mentor LA’s BEST kindergarten through 3rd
-  grade students to cultivate reading proficiency by the end of the 3rd grade.
-  LA’s BEST program staff – teachers, mentors and coaches to the children served
-  – will work alongside EC volunteers and receive training and tools to expand
-  and sustain the project, while growing personally and professionally through
-  invaluable intergenerational exchange.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Fernando Valley
   - South LA
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Through the proposed project and AARP Foundation Experience Corps (EC)
   evidence-based intervention using Reading A – Z curriculum, LA’s BEST will
   promote reading proficiency by the end of 3rd grade among struggling students.
@@ -132,6 +88,37 @@ project_proposal_best_place: >-
   LA’s BEST intentionally infuses into enrichment activities. Finally, the
   organization is effective in helping children develop social and emotional
   skills through a pro-social approach to programming.
+Please explain how you will define and measure success for your project.​: >-
+  In the pilot year of the proposed project, LA’s BEST will recruit 34 AARP
+  Foundation Experience Corps (EC) volunteers to tutor and mentor 100
+  kindergarten through 3rd grade students who are in need of additional support
+  in language arts and literacy, as identified by teachers, parents or LA’s BEST
+  program staff. Tutoring sessions will take place three times per week, and
+  will be offered in small group settings, including one EC volunteer and up to
+  three LA’s BEST students. 
+
+
+  Over a single academic year, success will be defined by the number of LA’s
+  BEST students who are tutored by EC volunteers and make at least 60% more
+  progress in learning two particular reading skills – sounding out new words
+  and reading comprehension – than their non-participant peers. Another measure
+  of success will be the percentage of students targeted by the proposed project
+  who achieve reading proficiency by the end of the third grade. 
+
+
+  LA’s BEST will employ more than 2,000 young adults who reside in economically
+  distressed neighborhoods to teach, coach and mentor the 25,000 children who
+  attend the LA’s BEST After School Enrichment Program every day. At least 85%
+  of children served will report feelings of safety while participating in LA’s
+  BEST, and all LA’s BEST participants will have daily opportunities to take
+  part in at least 30 minutes of physical activity and programs that promote
+  proper nutrition.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - 'Education/training '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/las-best-aarp-foundation-experience-corps-brighter-futures-via-reading-proficiency-by-3rd-grade/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3583609165741-team91.jpg
 organization_name: LA's BEST

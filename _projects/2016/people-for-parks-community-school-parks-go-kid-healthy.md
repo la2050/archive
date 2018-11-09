@@ -15,55 +15,12 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5359541815741-team91.jpg
 project_video: 'https://www.youtube.com/embed/ydbOMK-5HPM?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   We are collaborating with Kid Healthy, a community based organization, on
   parent empowerment at our Community School Parks. The Los Angeles County
   Department of Public Health will assist us with data collection and review so
   that we may evaluate our progress.
-project_measure: >-
-  Aided by the Los Angeles County Department of Public Health, PFP will evaluate
-  the following outcomes. Results will contribute to program improvement and
-  demonstrate success on LA2050 dream metrics.
-
-
-  Goal1--Expand community use of CSPs: 
-
-
-  We will use geographic mapping to examine each CSP to understand how many and
-  what types of people we are creating access for (eg, age groups, income,
-  access to resources). We will use a systematic observation tool to measure how
-  many and what types of people use the parks. We aim to serve 300-500 parkgoers
-  per month and 4500+ for special events.
-
-
-  Goal 2--Empower individuals to access parks and take community leadership
-  roles: We will systematically collect data from parents, children, and
-  community members in outreach activities (e.g., trainings) to understand
-  barriers and facilitators to parks access, tools/resources we can provide, and
-  needed changes in community capacity. Outreach and park attendance data will
-  be linked to understand what activities increase park use.
-
-
-  Goal 3--Improve individual and community wellbeing:  
-
-  We will examine annual scores from LAUSD’s Physical Fitness 5th grade testing
-  to describe youth activity levels and obesity rates. We will also conduct
-  interviews with school staff to understand the impacts of CSP use on student
-  health, parent involvement, and neighborhood quality (e.g., park quality,
-  crime and safety).
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Please describe your project proposal.: >-
   In 2016, People for Parks (PFP) opened 9 new Community School Parks (CSPs) for
   use during non-school hours, providing a park within walking distance of
   45,000 Angelenos. In 2017, PFP will operate 11 CSPs and through a strategic
@@ -71,12 +28,7 @@ project_description: >-
   engagement, recruiting, playground management and physical activities.
   Community mobilization by PFP and Kid Healthy will keep these play spaces open
   and sustainable.
-project_impact: >-
-  ["Access to open space and park facilities","Number (and quality) of informal
-  spaces for play","Number of children enrolled in afterschool programs","Number
-  of parks with intergenerational play opportunities","Number of residents with
-  easy access to a “vibrant” park","Per capita crime rates","Perceived safety"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to open space and park facilities
   - Number (and quality) of informal spaces for play
   - Number of children enrolled in afterschool programs
@@ -84,22 +36,14 @@ project_proposal_impact:
   - Number of residents with easy access to a “vibrant” park
   - Per capita crime rates
   - Perceived safety
-project_proposal_description: >-
-  In 2016, People for Parks (PFP) opened 9 new Community School Parks (CSPs) for
-  use during non-school hours, providing a park within walking distance of
-  45,000 Angelenos. In 2017, PFP will operate 11 CSPs and through a strategic
-  partnership with Kid Healthy, train parents and residents in neighborhood
-  engagement, recruiting, playground management and physical activities.
-  Community mobilization by PFP and Kid Healthy will keep these play spaces open
-  and sustainable.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   People for Parks (PFP) will make LA the best place to PLAY in 2017 in two
   ways. First, we will continue operating our 11 Community School Parks (CSPs).
   Second, in collaboration with community based organization Kid Healthy, we
@@ -155,6 +99,48 @@ project_proposal_best_place: >-
   This grant will help keep our CSPs thriving, and allow us to take our
   community empowerment to the next level through a strategic partnership with
   Kid Healthy, helping make LA the best place to PLAY for generations to come.
+Please explain how you will define and measure success for your project.​: >-
+  Aided by the Los Angeles County Department of Public Health, PFP will evaluate
+  the following outcomes. Results will contribute to program improvement and
+  demonstrate success on LA2050 dream metrics.
+
+
+  Goal1--Expand community use of CSPs: 
+
+
+  We will use geographic mapping to examine each CSP to understand how many and
+  what types of people we are creating access for (eg, age groups, income,
+  access to resources). We will use a systematic observation tool to measure how
+  many and what types of people use the parks. We aim to serve 300-500 parkgoers
+  per month and 4500+ for special events.
+
+
+  Goal 2--Empower individuals to access parks and take community leadership
+  roles: We will systematically collect data from parents, children, and
+  community members in outreach activities (e.g., trainings) to understand
+  barriers and facilitators to parks access, tools/resources we can provide, and
+  needed changes in community capacity. Outreach and park attendance data will
+  be linked to understand what activities increase park use.
+
+
+  Goal 3--Improve individual and community wellbeing:  
+
+  We will examine annual scores from LAUSD’s Physical Fitness 5th grade testing
+  to describe youth activity levels and obesity rates. We will also conduct
+  interviews with school staff to understand the impacts of CSP use on student
+  health, parent involvement, and neighborhood quality (e.g., park quality,
+  crime and safety).
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/people-for-parks-community-school-parks-go-kid-healthy/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5359541815741-team91.jpg
 organization_name: People for Parks

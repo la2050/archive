@@ -13,33 +13,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3396502194741-team91.jpg
 project_video: 'https://www.youtube.com/embed/7q-meY3ysT4?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: LA City Councilmember Jose Huizar
-project_measure: >-
-  Success for this project means a better connected Downtown. It means more
-  face-to-face interactions between community members, more individuals
-  accessing their friends, family, and information through technology, and
-  faster safer travel connections for pedestrians, bicyclists, and vehicles
-  through Downtown.
-
-
-  • We will document and photograph special events happening at parklets.
-
-  - We will survey parklet users regarding the reasons and frequency of their
-  parklet usage.
-
-  - We will survey locals on the “DTLA” Facebook group (over 14k resident
-  members). 
-
-  - We will track the number of unique users accessing the public wifi.
-
-  - We will work with CD14 and LADOT to compare traffic, public transportation
-  ridership, and pedestrian safety data from before and after the Spring Street
-  reconfiguration.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-project_description: >-
+Are any other organizations collaborating on this proposal?: LA City Councilmember Jose Huizar
+Please describe your project proposal.: >-
   Our proposal is to build new technology-equipped public parklets on Spring
   Street, and enhance the two original pilot parklets. Strategically located
   adjacent to DTLA hotspots like Guisados and The Last Bookstore, the parklets
@@ -47,11 +22,7 @@ project_description: >-
   spaces for arts and culture programming. With a pledge of matching funds from
   Councilmember Jose Huizar, the parklets will be designed, built, and
   maintained by the HCBID and the City of Los Angeles.
-project_impact: >-
-  ["Access to free wifi","Cultural events","Public/open streets
-  gatherings","Government responsiveness to residents’ needs","Travel time to
-  work","Public transit riders","Residential segregation"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to free wifi
   - Cultural events
   - Public/open streets gatherings
@@ -59,17 +30,9 @@ project_proposal_impact:
   - Travel time to work
   - Public transit riders
   - Residential segregation
-project_proposal_description: >-
-  Our proposal is to build new technology-equipped public parklets on Spring
-  Street, and enhance the two original pilot parklets. Strategically located
-  adjacent to DTLA hotspots like Guisados and The Last Bookstore, the parklets
-  will feature planters, shaded seating, free wifi, charging stations, and
-  spaces for arts and culture programming. With a pledge of matching funds from
-  Councilmember Jose Huizar, the parklets will be designed, built, and
-  maintained by the HCBID and the City of Los Angeles.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The Historic Core is Downtown LA’s residential hub, cultural center, and
   creative crossroads. It is one of the most dense and diverse neighborhoods in
   the City of Los Angeles with nearly 1:1 market rate and low income housing.
@@ -110,6 +73,30 @@ project_proposal_best_place: >-
   Jose Huizar’s Spring Street Redesign that will significantly improve traffic
   flow, relocate public transit stops, create protected bike lanes, and make
   DTLA overall more pedestrian, bike, and transit friendly.
+Please explain how you will define and measure success for your project.​: >-
+  Success for this project means a better connected Downtown. It means more
+  face-to-face interactions between community members, more individuals
+  accessing their friends, family, and information through technology, and
+  faster safer travel connections for pedestrians, bicyclists, and vehicles
+  through Downtown.
+
+
+  • We will document and photograph special events happening at parklets.
+
+  - We will survey parklet users regarding the reasons and frequency of their
+  parklet usage.
+
+  - We will survey locals on the “DTLA” Facebook group (over 14k resident
+  members). 
+
+  - We will track the number of unique users accessing the public wifi.
+
+  - We will work with CD14 and LADOT to compare traffic, public transportation
+  ridership, and pedestrian safety data from before and after the Spring Street
+  reconfiguration.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/spring-street-parklets/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3396502194741-team91.jpg
 organization_name: Historic Core BID

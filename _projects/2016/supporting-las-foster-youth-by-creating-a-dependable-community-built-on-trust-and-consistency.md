@@ -17,58 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0815848445741-team90.jpg
 project_video: 'https://www.youtube.com/embed/xbatmQQi_e4?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: 'A HOME WITHIN, AdaptED, UCLA UNICAMP'
-project_measure: >-
-  TAP aims to improve outcomes for both the individual foster youth and the
-  foster youth community.  Although that can take many different forms, we will
-  evaluate and monitor our progress by tracking the following metrics:
-
-  Individual: 
-   Number of youth participating in TAP
-  Number of youth applying to TAP
-
-  Daily Attendance 
-
-  Baseline metrics established via evaluations (academic, physical, mental)
-  given upon joining The Co-Op and monitored throughout
-
-  Academic proficiency and general well being
-
-  We will conduct monthly review interviews and survey our youth and staff
-  before, during and after selected milestones to measure satisfaction with
-  program.  As an example:  With the guidance of The Department of Social
-  Welfare at  UCLA we evaluated the success of Camp Xavier 2016 with surveys
-  given to campers on the first & last day of day camp & the last day of
-  sleep-away camp. 
-
-  Community: Several studies (The Invisible Achievement Gap) have provided
-  baseline metrics for LA’s foster youth. TAP will work with Partner Schools to
-  establish & track key performance indicators like:  
-
-  Student attendance
-
-  Transfer rates to alternative schools
-   Suspension & expulsion rates
-  CST scores and participation
-
-  Drop-out rates
-
-  High school graduation rates
-
-  College attendance rates   
-
-  We intend to continue to work with UCLA to create and execute a thorough and
-  detailed evaluation of TAP.  We intend to continue to track life outcomes (
-  housing, addiction, employment) as our youth leave the system
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: 'A HOME WITHIN, AdaptED, UCLA UNICAMP'
+Please describe your project proposal.: >-
   50% of  the 28,000 foster youth in LA end up homeless, in gangs,
   institutionalized or in jail.  Over 42% of foster youth drop out of high
   school and  only 3% graduate from college.  Starting in Grade 7, TAP will
@@ -76,33 +26,20 @@ project_description: >-
   on the success of our summer program to include an afterschool program to
   launch in April providing the necessary support & motivation needed
   year-round.
-project_impact: >-
-  ["College matriculation rates","District-wide graduation rates","Proficiency
-  in English and Language Arts and Math","Student education
-  pipeline","Suspension and expulsion rates","Truancy rates in elementary and
-  middle schools"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College matriculation rates
   - District-wide graduation rates
   - Proficiency in English and Language Arts and Math
   - Student education pipeline
   - Suspension and expulsion rates
   - Truancy rates in elementary and middle schools
-project_proposal_description: >-
-  50% of  the 28,000 foster youth in LA end up homeless, in gangs,
-  institutionalized or in jail.  Over 42% of foster youth drop out of high
-  school and  only 3% graduate from college.  Starting in Grade 7, TAP will
-  build an exclusive & consistent community for at-risk foster youth, building
-  on the success of our summer program to include an afterschool program to
-  launch in April providing the necessary support & motivation needed
-  year-round.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - South LA
   - County of Los Angeles
   - LAUSD
   - South & Central LA have largest population of FY
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   TAP will make LA the best place to learn by supporting foster youth so they
   have the foundation needed to succeed in and  graduate from high school,
   college & career ready.  Many foster youth fail during middle school and
@@ -148,6 +85,55 @@ project_proposal_best_place: >-
   matriculation rates will rise. The Academy Project will provide the necessary
   support & motivation to give our youth the chance to own their own narratives
   & future successes.
+Please explain how you will define and measure success for your project.​: >-
+  TAP aims to improve outcomes for both the individual foster youth and the
+  foster youth community.  Although that can take many different forms, we will
+  evaluate and monitor our progress by tracking the following metrics:
+
+  Individual: 
+   Number of youth participating in TAP
+  Number of youth applying to TAP
+
+  Daily Attendance 
+
+  Baseline metrics established via evaluations (academic, physical, mental)
+  given upon joining The Co-Op and monitored throughout
+
+  Academic proficiency and general well being
+
+  We will conduct monthly review interviews and survey our youth and staff
+  before, during and after selected milestones to measure satisfaction with
+  program.  As an example:  With the guidance of The Department of Social
+  Welfare at  UCLA we evaluated the success of Camp Xavier 2016 with surveys
+  given to campers on the first & last day of day camp & the last day of
+  sleep-away camp. 
+
+  Community: Several studies (The Invisible Achievement Gap) have provided
+  baseline metrics for LA’s foster youth. TAP will work with Partner Schools to
+  establish & track key performance indicators like:  
+
+  Student attendance
+
+  Transfer rates to alternative schools
+   Suspension & expulsion rates
+  CST scores and participation
+
+  Drop-out rates
+
+  High school graduation rates
+
+  College attendance rates   
+
+  We intend to continue to work with UCLA to create and execute a thorough and
+  detailed evaluation of TAP.  We intend to continue to track life outcomes (
+  housing, addiction, employment) as our youth leave the system
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/supporting-las-foster-youth-by-creating-a-dependable-community-built-on-trust-and-consistency/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0815848445741-team90.jpg
 organization_name: The Academy Project

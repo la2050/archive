@@ -17,8 +17,7 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5654638165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/I-2Ao80yxyQ?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   We will form collaborative partnerships with groups to elevate diverse voices,
   broaden outreach, strengthen training capacity, and provide social service and
   community organizing expertise.  These partners include various organizations
@@ -26,39 +25,7 @@ project_collaborators: >-
   the Community College system,  Families in Schools, Californians for Safety
   and Justice, NDLON, Presente.org, CHIRLA, Community Coalition, and other
   possible partners
-project_measure: >-
-  Success will be defined and measured through how the program achieves key
-  milestones in the areas of A) Quality Outreach and Level of Participation, B)
-  Program Completion and Content Generation, C) Training Delivery and
-  Programmatic Efficiency, D) Strategic Partnerships, and E) Community and
-  Regional Impact.    
-
-
-  Measuring the success of milestone A and B will be highly quantitative
-  ensuring good recruitment numbers and monitoring performance of content in
-  order to achieve a highly engaged audience.  The qualitative piece will be
-  ensuring that we attract the highest caliber students and provide them with
-  the opportunity to hone in on their craft     
-
-
-  Measuring the success of milestone C will be measured by the continual
-  improvement and overall quality of our curriculum and the delivery of the
-  curriculum by our staff.  We will implement program evaluations involving
-  students and strategic partners to each of the sessions as well as an overall
-  program evaluation that measure the overall skill development of the students
-  as a result.
-
-
-  Finally, measuring success of milestone D and E will consist of measurably
-  reviewing our success in both developing and building strong fruitful
-  partnerships as well as measuring community impact.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Technical infrastructure (computers etc.)
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   mitú Accelerate LA not only discovers aspiring Latino digital filmmakers, but
   connects them with key community organizations, educational institutions, and
   industry partners, with the goal of training them on how to successfully
@@ -66,31 +33,19 @@ project_description: >-
   Latino millennial audience. As leaders in this field, mitú is focused on
   giving back by teaching Latino filmmakers to authentically tell their own
   stories in a way that speaks directly and effective
-project_impact: >-
-  ["Arts establishments","Employment in the creative industries","Measures of
-  cultural and global economic influence (“soft power”)","Minority- and
-  women-owned firms"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Employment in the creative industries
   - Measures of cultural and global economic influence (“soft power”)
   - Minority- and women-owned firms
-project_proposal_description: >-
-  mitú Accelerate LA not only discovers aspiring Latino digital filmmakers, but
-  connects them with key community organizations, educational institutions, and
-  industry partners, with the goal of training them on how to successfully
-  create digital content that speaks to the often overlooked, yet massive,
-  Latino millennial audience. As leaders in this field, mitú is focused on
-  giving back by teaching Latino filmmakers to authentically tell their own
-  stories in a way that speaks directly and effective
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
   - San Fernando Valley
   - South LA
   - Gateway Cities
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Latinos are the fastest growing demographic in the US, but only represent a
   fraction of the filmmaking community. As a result, they are underrepresented
   in all forms of media. mitú Accelerate LA’s main focus is to bring
@@ -138,6 +93,38 @@ project_proposal_best_place: >-
   opportunity to, taking into account the changing regional and national media
   consumption landscape, proactively work at expanding diverse digital creator
   talent and build opportunities for multicultural communities.
+Please explain how you will define and measure success for your project.​: >-
+  Success will be defined and measured through how the program achieves key
+  milestones in the areas of A) Quality Outreach and Level of Participation, B)
+  Program Completion and Content Generation, C) Training Delivery and
+  Programmatic Efficiency, D) Strategic Partnerships, and E) Community and
+  Regional Impact.    
+
+
+  Measuring the success of milestone A and B will be highly quantitative
+  ensuring good recruitment numbers and monitoring performance of content in
+  order to achieve a highly engaged audience.  The qualitative piece will be
+  ensuring that we attract the highest caliber students and provide them with
+  the opportunity to hone in on their craft     
+
+
+  Measuring the success of milestone C will be measured by the continual
+  improvement and overall quality of our curriculum and the delivery of the
+  curriculum by our staff.  We will implement program evaluations involving
+  students and strategic partners to each of the sessions as well as an overall
+  program evaluation that measure the overall skill development of the students
+  as a result.
+
+
+  Finally, measuring success of milestone D and E will consist of measurably
+  reviewing our success in both developing and building strong fruitful
+  partnerships as well as measuring community impact.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/mitú-accelerate-la-diversifying-digital-content-creation-for-regional-social-impact/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5654638165741-team91.jpg
 organization_name: mitu

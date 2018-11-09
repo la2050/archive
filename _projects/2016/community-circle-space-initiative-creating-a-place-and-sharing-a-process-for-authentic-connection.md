@@ -17,49 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3746850165741-team90.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: Southeast Rio Vista YMCA
-project_measure: >-
-  The Community Circle Space Initiative's objective is to increase connection
-  among residents of Southeast LA. We will use the following metrics to measure
-  our success:
-
-  - Number of elders who participate in and complete training to facilitate
-  councils and restorative circles
-
-  - Number of elders who are facilitating councils and restorative circles at
-  end of year
-
-  - Number of community members who participate in circles
-
-  - Effect on level of participation at neighborhood council meetings
-
-  - Rate of volunteerism
-
-  - Crime rate
-
-  - Number of cultural and street events and level of participation
-
-  - Effect on attendance, academic performance, and suspension rates at local
-  schools
-
-  - Voting rates
-
-
-  We will survey elders and community members at the start of the initiative,
-  during the year, and at end of one year. We will also gather quantitative and
-  qualitative feedback from participants after community circles, as well as
-  from the community at large and from grass roots and city leaders.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: Southeast Rio Vista YMCA
+Please describe your project proposal.: >-
   Collaborating with the local YMCA, community leaders and residents, artists
   and builders, we will design and build a public circle meeting space and train
   and support community elders to facilitate circle dialogs for the community in
@@ -67,12 +26,7 @@ project_description: >-
   provide the community a place and a process for sharing stories, discussing
   matters of importance, resolving differences, determining action steps, and
   making authentic connections.
-project_impact: >-
-  ["Social & emotional support","Cultural events","Public/open streets
-  gatherings","Government responsiveness to residents’ needs","Participation in
-  neighborhood councils","Rates of volunteerism","Residential
-  segregation","Voting rates"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Public/open streets gatherings
@@ -81,17 +35,9 @@ project_proposal_impact:
   - Rates of volunteerism
   - Residential segregation
   - Voting rates
-project_proposal_description: >-
-  Collaborating with the local YMCA, community leaders and residents, artists
-  and builders, we will design and build a public circle meeting space and train
-  and support community elders to facilitate circle dialogs for the community in
-  the space we co-create. The project will give elders renewed purpose and
-  provide the community a place and a process for sharing stories, discussing
-  matters of importance, resolving differences, determining action steps, and
-  making authentic connections.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Community Circle Space Initiative (CCSI) will make LA the best place to
   connect by bringing the power of the circle into the Southeast LA City of
   Maywood. The most densely populated city in LA County, with the highest
@@ -138,6 +84,46 @@ project_proposal_best_place: >-
   exemplifying the profound social impact of meeting in circles, CCSI will
   inspire the creation of community circle spaces in neighborhoods throughout LA
   and this will truly make LA the best place to connect.
+Please explain how you will define and measure success for your project.​: >-
+  The Community Circle Space Initiative's objective is to increase connection
+  among residents of Southeast LA. We will use the following metrics to measure
+  our success:
+
+  - Number of elders who participate in and complete training to facilitate
+  councils and restorative circles
+
+  - Number of elders who are facilitating councils and restorative circles at
+  end of year
+
+  - Number of community members who participate in circles
+
+  - Effect on level of participation at neighborhood council meetings
+
+  - Rate of volunteerism
+
+  - Crime rate
+
+  - Number of cultural and street events and level of participation
+
+  - Effect on attendance, academic performance, and suspension rates at local
+  schools
+
+  - Voting rates
+
+
+  We will survey elders and community members at the start of the initiative,
+  during the year, and at end of one year. We will also gather quantitative and
+  qualitative feedback from participants after community circles, as well as
+  from the community at large and from grass roots and city leaders.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/community-circle-space-initiative-creating-a-place-and-sharing-a-process-for-authentic-connection/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3746850165741-team90.jpg
 organization_name: The Ojai Foundation

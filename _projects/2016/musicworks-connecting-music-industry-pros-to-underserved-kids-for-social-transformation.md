@@ -16,51 +16,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1369152355741-team90.png
 project_video: 'https://www.youtube.com/embed/rDnYXMVy1xo?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  character limit)
-
-  L.A. Works has designed the following program goals and outcomes to guide our
-  evaluation. These ensure we meet our overarching goal of connecting music
-  industry professionals to after-school music program opportunities in order to
-  (1) raise the profile of service in the community to increase the rate of
-  volunteerism, and (2) strengthen music education for underserved youth.
-
-
-  For the volunteers, volunteer leaders, and nonprofits, L.A. Works will conduct
-  post-project surveys to collect the relevant data in order to track and
-  measure our success in achieving the desired outcomes. We will ask that the
-  nonprofits provide us with quantitative data on the impact the volunteers have
-  had on their mission and clients served.
-
-
-  We will track the following outcomes in order to measure the success of this
-  program:
-
-  • Number of masterclasses or collaborative concert between
-  renowned/professional mentors and students from selected nonprofit
-  organization. 
-
-  • Percentage of volunteers that continue to volunteer at ongoing opportunities
-  after participation at masterclass. 
-
-  • Number of non-professional teaching artists serving as teaching assistants
-  to classes, rehearsals and concerts. 
-
-  • Funds provided by new donors to the program. 
-
-  • Academic and social gains of youth who participate in extracurricular music
-  program with a mentor.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   To leverage our prime location in the capital of the entertainment and music
   industries, L.A. Works has launched MusicWorks to harness the excitement
   garnered by music-industry professionals in order to significantly increase
@@ -68,26 +25,14 @@ project_description: >-
   by bringing together music industry pros with after-school music programs to
   excite youth participants; inspire a new cadre of skilled-volunteers; and
   raise the profiles of the programs served.
-project_impact: >-
-  ["Social & emotional support","Rates of volunteerism","Residential
-  segregation","Total number of local social media friends and connections
-  Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Rates of volunteerism
   - Residential segregation
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  To leverage our prime location in the capital of the entertainment and music
-  industries, L.A. Works has launched MusicWorks to harness the excitement
-  garnered by music-industry professionals in order to significantly increase
-  volunteerism in L.A.. This project will make L.A. the “best place to connect”
-  by bringing together music industry pros with after-school music programs to
-  excite youth participants; inspire a new cadre of skilled-volunteers; and
-  raise the profiles of the programs served.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Through volunteer mobilization and management, as well as some creative
   marketing, L.A. Works will address the challenges facing music education
   programs. We have launched the pilot MusicWorks program to connect volunteers
@@ -138,6 +83,48 @@ project_proposal_best_place: >-
   inspires further action to bring about change. With the help of this award, we
   hope that in the near future, L.A. will be thought of as a model for service
   as much as we are known for entertainment, sports, and our weather.
+Please explain how you will define and measure success for your project.​: >-
+  character limit)
+
+  L.A. Works has designed the following program goals and outcomes to guide our
+  evaluation. These ensure we meet our overarching goal of connecting music
+  industry professionals to after-school music program opportunities in order to
+  (1) raise the profile of service in the community to increase the rate of
+  volunteerism, and (2) strengthen music education for underserved youth.
+
+
+  For the volunteers, volunteer leaders, and nonprofits, L.A. Works will conduct
+  post-project surveys to collect the relevant data in order to track and
+  measure our success in achieving the desired outcomes. We will ask that the
+  nonprofits provide us with quantitative data on the impact the volunteers have
+  had on their mission and clients served.
+
+
+  We will track the following outcomes in order to measure the success of this
+  program:
+
+  • Number of masterclasses or collaborative concert between
+  renowned/professional mentors and students from selected nonprofit
+  organization. 
+
+  • Percentage of volunteers that continue to volunteer at ongoing opportunities
+  after participation at masterclass. 
+
+  • Number of non-professional teaching artists serving as teaching assistants
+  to classes, rehearsals and concerts. 
+
+  • Funds provided by new donors to the program. 
+
+  • Academic and social gains of youth who participate in extracurricular music
+  program with a mentor.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/musicworks-connecting-music-industry-pros-to-underserved-kids-for-social-transformation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1369152355741-team90.png
 organization_name: L.A. Works

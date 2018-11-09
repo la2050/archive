@@ -17,40 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1467124065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/3wrDCMSLScc?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  The Pedagogical Institute’s evaluation tools for this Collaborative Teacher
-  Project measure the shift away from the traditional academic pedagogy used now
-  by K-12 teachers and towards developmentally appropriate practice and
-  play-based learning more appropriate for younger children. We measure: 1)
-  children’s intellectual, social and critical thinking skills; 2) development
-  of teachers’ reflective skills to assess learning; and 3) Principals’
-  perspectives.
-
-
-  The Teachers are asked to complete a scaled survey of 26 questions and 3
-  open-ended questions every month to capture change over time. The questions
-  are designed to evaluate elements of the Pianta et al. CLASS evaluation
-  system, e.g., around children’s independence in the learning environment,
-  critical thinking, and opportunities for extended conversation with teacher
-  and peers. 
-
-
-  The teachers also complete a 60 page portfolio of photographs, video footage,
-  dialogue, and examples of children’s theory development.  These portfolios
-  document both the teacher’s and the children’s learning over time. The
-  finished product is a multi-media record of the teacher’s journey in
-  implementing new teaching practices. It highlights the teacher’s role in
-  nurturing children’s independence, curiosity, and development.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   High quality education starts with teachers who have specialized training in
   early education and access to engaging and thought provoking learning
   materials. Our goal is to bring these resources to underprivileged communities
@@ -58,23 +26,14 @@ project_description: >-
   to extend our support of these classrooms through May 2017, as well as expand
   our mentoring project to 4 more at-risk LA schools by the end of the 2017-18
   school year.
-project_impact: '["Early education"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Early education
-project_proposal_description: >-
-  High quality education starts with teachers who have specialized training in
-  early education and access to engaging and thought provoking learning
-  materials. Our goal is to bring these resources to underprivileged communities
-  who lack both. We are piloting our program at 4 LAUSD Title 1 sites and hope
-  to extend our support of these classrooms through May 2017, as well as expand
-  our mentoring project to 4 more at-risk LA schools by the end of the 2017-18
-  school year.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   While LA is rich in diversity, a great disparity exists between the early
   education offered in middle and upper-socio-economic communities and those in
   less advantaged communities. Compounding the problem, the State’s new mandate
@@ -117,6 +76,37 @@ project_proposal_best_place: >-
   level of quality it takes to really make a difference! With the help of 2050,
   LA can lead the way in ensuring that young children are curious, engaged
   learners.
+Please explain how you will define and measure success for your project.​: >-
+  The Pedagogical Institute’s evaluation tools for this Collaborative Teacher
+  Project measure the shift away from the traditional academic pedagogy used now
+  by K-12 teachers and towards developmentally appropriate practice and
+  play-based learning more appropriate for younger children. We measure: 1)
+  children’s intellectual, social and critical thinking skills; 2) development
+  of teachers’ reflective skills to assess learning; and 3) Principals’
+  perspectives.
+
+
+  The Teachers are asked to complete a scaled survey of 26 questions and 3
+  open-ended questions every month to capture change over time. The questions
+  are designed to evaluate elements of the Pianta et al. CLASS evaluation
+  system, e.g., around children’s independence in the learning environment,
+  critical thinking, and opportunities for extended conversation with teacher
+  and peers. 
+
+
+  The teachers also complete a 60 page portfolio of photographs, video footage,
+  dialogue, and examples of children’s theory development.  These portfolios
+  document both the teacher’s and the children’s learning over time. The
+  finished product is a multi-media record of the teacher’s journey in
+  implementing new teaching practices. It highlights the teacher’s role in
+  nurturing children’s independence, curiosity, and development.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/collaborative-teacher-project-igniting-curiosity-through-innovative-classrooms-teacher-mentoring/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1467124065741-team91.jpg
 organization_name: The Pedagogical Institute of Los Angeles

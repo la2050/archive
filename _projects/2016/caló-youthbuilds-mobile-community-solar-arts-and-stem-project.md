@@ -15,29 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3912790265741-team91.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: YouthBuild Charter School of California
-project_measure: >-
-  Using the metrics provided by LA2050, the project will provide between 10-15
-  informal places of quality play; enroll a minimum of 200 children in
-  after-school programming; provide at least 6 local parks with
-  intergenerational play; show a decrease in per capita crime rates by
-  decreasing the amount of youth ages 14 -24 who are active gang members, reduce
-  the amount of drug use among participants by 75%, and commit to a 5% rate of
-  recidivism; and reduce the amount of incidents of violence and drug use by 75%
-  at the participants schools, parks, housing projects, and community centers.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: YouthBuild Charter School of California
+Please describe your project proposal.: >-
   CALO YouthBuild's Mobile Community Arts and STEM project will allow its
   students the opportunity to design and create mobile solar powered generators
   to bring arts and STEM programming to underserved communities affected by
@@ -45,29 +24,17 @@ project_description: >-
   parks, housing projects and schools to identify young people who are at risk
   of engaging in drug use or violent/gang activity. Mobile programs will include
   music instruction/production and recording.
-project_impact: >-
-  ["Number (and quality) of informal spaces for play","Number of children
-  enrolled in afterschool programs","Number of parks with intergenerational play
-  opportunities","Per capita crime rates","Perceived safety"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Number (and quality) of informal spaces for play
   - Number of children enrolled in afterschool programs
   - Number of parks with intergenerational play opportunities
   - Per capita crime rates
   - Perceived safety
-project_proposal_description: >-
-  CALO YouthBuild's Mobile Community Arts and STEM project will allow its
-  students the opportunity to design and create mobile solar powered generators
-  to bring arts and STEM programming to underserved communities affected by
-  youth violence, drug use, and academic apathy. The project will target local
-  parks, housing projects and schools to identify young people who are at risk
-  of engaging in drug use or violent/gang activity. Mobile programs will include
-  music instruction/production and recording.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - East LA
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   East Los Angeles and Boyle Heights are communities with a history rich in
   culture, art, and activism. Unfortunately, these contributions are often
   overlooked because of the communities' reputation for low academic achievement
@@ -96,6 +63,26 @@ project_proposal_best_place: >-
   best place to play by using youth driven solutions to address serious
   community issues in an innovative way, integrating the arts, culture, and
   technology into programming that fosters community and promotes healing.
+Please explain how you will define and measure success for your project.​: >-
+  Using the metrics provided by LA2050, the project will provide between 10-15
+  informal places of quality play; enroll a minimum of 200 children in
+  after-school programming; provide at least 6 local parks with
+  intergenerational play; show a decrease in per capita crime rates by
+  decreasing the amount of youth ages 14 -24 who are active gang members, reduce
+  the amount of drug use among participants by 75%, and commit to a 5% rate of
+  recidivism; and reduce the amount of incidents of violence and drug use by 75%
+  at the participants schools, parks, housing projects, and community centers.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/caló-youthbuilds-mobile-community-solar-arts-and-stem-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3912790265741-team91.jpg
 organization_name: CALO YouthBuild

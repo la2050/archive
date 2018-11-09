@@ -15,46 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5378393065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/m_s4N2esUKk?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  I’m A Movement Not A Monument monitors the success of our tutoring service
-  from the time we interview each student and create an academic profile for
-  them. We implement weekly progress reports for every student to track their
-  performance and exhibit increase or decrease per subject.  Finally, we create
-  monthly timed assessment tests to allow each student to show us how they are
-  advancing. This hands-on approach allows us to determine where the student is
-  having problems, enabling our team to catch the mistakes and gradually and
-  consistently improve their performance.
-
-
-  We ultimately measure our success by having every student show up to each
-  session prepared to learn. In the past, we have assessed a ninth grader at a
-  fourth grade reading level and fifth grade math level. This is one of many
-  similar cases we have encountered in our program. 
-
-
-  As mentioned in item #11, the performance of our students is strongly related
-  to their everyday environments. Many of these at-risk youth end up in jail or
-  pregnant at an early age. In 2014, out of 86,823 California juveniles, more
-  than 60% are Black and Hispanic, and ¼ of these juveniles are eventually
-  detained with a 2nd offense (www.aog.ca.gov). Also, a total of 249,078 babies
-  were born to women aged 15–19 years, for a birth rate of 24.2 (www.cdc.gov).
-  Being aware of such statistics will help enhance the measure of the No Mind
-  Left Behind program’s success.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   No Mind Left Behind Tutoring Service provides mentorship and multi-level
   tutoring services for FREE to students throughout the greater Los Angeles
   area, allowing them to accelerate academically and socially through our
@@ -62,13 +24,7 @@ project_description: >-
   currently servicing over 350 students to thousands of students in LAUSD, ISD,
   ICEF, and so on. We have seen how our services have helped strengthen and
   maintain students’ mentality and self-esteem.
-project_impact: >-
-  ["Manufacturing activity","Jobs per capita","Measures of cultural and global
-  economic influence (“soft power”)","Minority- and women-owned
-  firms","Percentage of graduates from local higher education institutions that
-  remain in LA County 5 years after graduating","Recruiting and retention rates
-  for local higher education institutions"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Manufacturing activity
   - Jobs per capita
   - Measures of cultural and global economic influence (“soft power”)
@@ -77,22 +33,14 @@ project_proposal_impact:
     Percentage of graduates from local higher education institutions that remain
     in LA County 5 years after graduating
   - Recruiting and retention rates for local higher education institutions
-project_proposal_description: >-
-  No Mind Left Behind Tutoring Service provides mentorship and multi-level
-  tutoring services for FREE to students throughout the greater Los Angeles
-  area, allowing them to accelerate academically and socially through our
-  distinguished services. With the help of the LA2050 Grant, we can grow from
-  currently servicing over 350 students to thousands of students in LAUSD, ISD,
-  ICEF, and so on. We have seen how our services have helped strengthen and
-  maintain students’ mentality and self-esteem.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - East LA
   - South LA
   - Westside
   - City of Los Angeles
   - LAUSD
   - 'Inglewood and Compton, California'
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   With the help of LA2050, No Mind Left Behind Tutoring Services will make Los
   Angeles the place to CREATE because we will open the doors to growth in the
   educational system throughout the nation with our proven successful program. 
@@ -144,6 +92,43 @@ project_proposal_best_place: >-
   programs that improve our children’s lives by working hand in hand with
   teachers on a consistent basis, with ultimate efforts to build a solidly
   structured team focused on uplifting our youth.
+Please explain how you will define and measure success for your project.​: >-
+  I’m A Movement Not A Monument monitors the success of our tutoring service
+  from the time we interview each student and create an academic profile for
+  them. We implement weekly progress reports for every student to track their
+  performance and exhibit increase or decrease per subject.  Finally, we create
+  monthly timed assessment tests to allow each student to show us how they are
+  advancing. This hands-on approach allows us to determine where the student is
+  having problems, enabling our team to catch the mistakes and gradually and
+  consistently improve their performance.
+
+
+  We ultimately measure our success by having every student show up to each
+  session prepared to learn. In the past, we have assessed a ninth grader at a
+  fourth grade reading level and fifth grade math level. This is one of many
+  similar cases we have encountered in our program. 
+
+
+  As mentioned in item #11, the performance of our students is strongly related
+  to their everyday environments. Many of these at-risk youth end up in jail or
+  pregnant at an early age. In 2014, out of 86,823 California juveniles, more
+  than 60% are Black and Hispanic, and ¼ of these juveniles are eventually
+  detained with a 2nd offense (www.aog.ca.gov). Also, a total of 249,078 babies
+  were born to women aged 15–19 years, for a birth rate of 24.2 (www.cdc.gov).
+  Being aware of such statistics will help enhance the measure of the No Mind
+  Left Behind program’s success.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/no-mind-left-behind-free-tutoring-services-for-pre-k-to-12th-graders/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5378393065741-team90.jpg
 organization_name: I'm A Movement Not A Monument

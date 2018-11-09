@@ -17,57 +17,21 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8207349525741-team91.jpg
 project_video: 'https://www.youtube.com/embed/JHgZ6ApAYVQ?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  We will define success by observing and documenting the process by which
-  children are engaging in the Connecting Children to Art and Nature Program. 
-
-  Evidence can include:
-
-  1. Children's ability to use nature as a form of expression 
-
-  2. Children's ability to manipulate materials within nature to represent an
-  idea or plan
-
-  3. Children's ability to follow-through with a concept from start to finish
-
-  4. Children's excitement in engaging with the CCAN program and teacher
-
-  5. Parents response to arts program based on feedback and documentation of the
-  children's experience
-
-  6. Children's ability to use vocabulary learned from CCAN to explain concepts
-  and ideas
-
-  7. Teachers use of natural materials to expand learning within the framework
-  for the existing program
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   To be able to provide a nature based arts program for the children of the Anna
   Bing Arnold Children's Center utilizing the non-profit arts program,
   Connecting Children to Art and Nature (CCAN). CCAN is a comprehensive
   multi-disciplinary arts program which uses art and nature as a mode of
   learning to facilitate the development of the whole child.
-project_impact: '["Proficiency in English and Language Arts and Math","Early education"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Proficiency in English and Language Arts and Math
   - Early education
-project_proposal_description: >-
-  To be able to provide a nature based arts program for the children of the Anna
-  Bing Arnold Children's Center utilizing the non-profit arts program,
-  Connecting Children to Art and Nature (CCAN). CCAN is a comprehensive
-  multi-disciplinary arts program which uses art and nature as a mode of
-  learning to facilitate the development of the whole child.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - East LA
   - San Gabriel Valley
   - 'California State University, Los Angeles'
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Overview:
 
 
@@ -140,6 +104,34 @@ project_proposal_best_place: >-
   Lastly, our project will help children develop higher self-esteem, cope with
   stress more effectively, increase communication skills, be creative and act in
   pro-social ways
+Please explain how you will define and measure success for your project.​: >-
+  We will define success by observing and documenting the process by which
+  children are engaging in the Connecting Children to Art and Nature Program. 
+
+  Evidence can include:
+
+  1. Children's ability to use nature as a form of expression 
+
+  2. Children's ability to manipulate materials within nature to represent an
+  idea or plan
+
+  3. Children's ability to follow-through with a concept from start to finish
+
+  4. Children's excitement in engaging with the CCAN program and teacher
+
+  5. Parents response to arts program based on feedback and documentation of the
+  children's experience
+
+  6. Children's ability to use vocabulary learned from CCAN to explain concepts
+  and ideas
+
+  7. Teachers use of natural materials to expand learning within the framework
+  for the existing program
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/connecting-children-to-art-in-nature-provide-a-meaningful-holistic-link-between-art-and-nature/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8207349525741-team91.jpg
 organization_name: Anna Bing Arnold Children's Center

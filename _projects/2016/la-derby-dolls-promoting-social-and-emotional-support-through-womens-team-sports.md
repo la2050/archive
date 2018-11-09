@@ -17,70 +17,21 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9914449755741-team91.jpg
 project_video: 'https://www.youtube.com/embed/DLg3R9NTcNc?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  In order to be successful in its contribution to LA2050's CONNECT goal, the
-  Derby Dolls will need to demonstrate (1) increased program participation by
-  adults and juniors, and (2) continuing social and emotional support benefits
-  of our current and future members.
-   
-  To assess achievement of these measures, we will track the following:
-
-  - Number of new members joining the adult and juniors programs annually
-
-  - Number of retiring members from the adult and juniors programs annually
-
-  - Number of members from the immediately surrounding neighborhoods
-
-  - Annual survey of members assessing the quality of social-connectedness and
-  emotional benefit received from league involvement.
-
-  - 'Exit' surveys of retiring members which assess:
-       - reason for retirement from the league
-       - benefit received from social and emotional support during their time with the Derby Dolls
-       - likelihood that social and emotional support network will continue following retirement
-   
-  Successful results will demonstrate that:
-
-  (1) the Derby Dolls consistently grow new membership at a greater rate than
-  attrition,
-
-  (2) members continue to benefit socially and emotionally from participation,
-
-  (3) departing members are not leaving without having gained the benefit of
-  social and emotional support, and
-
-  (4) established support networks tend to persist following participation.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   The LA2050 grant will allow the LA Derby Dolls to make infrastructure
   improvements to its training and events facility, and increase outreach,
   ensuring that the organization can continue to offer adult and young women
   programs that promote social and emotional support inherent in team sports and
   from a women-focused organization.
-project_impact: '["Social & emotional support","Rates of volunteerism"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Rates of volunteerism
-project_proposal_description: >-
-  The LA2050 grant will allow the LA Derby Dolls to make infrastructure
-  improvements to its training and events facility, and increase outreach,
-  ensuring that the organization can continue to offer adult and young women
-  programs that promote social and emotional support inherent in team sports and
-  from a women-focused organization.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - East LA
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The LA Derby Dolls is an all-volunteer organization that reflects the
   diversity of women throughout Los Angeles. Within the organization,
   league-members find the fellowship and camaraderie that come with team sports,
@@ -119,6 +70,47 @@ project_proposal_best_place: >-
   from. We plan to grow the program's reach to women who do not know that the
   Derby Dolls is available to them and make our space available to a greater
   number of LA women and juniors through the availability of scholarships.
+Please explain how you will define and measure success for your project.​: >-
+  In order to be successful in its contribution to LA2050's CONNECT goal, the
+  Derby Dolls will need to demonstrate (1) increased program participation by
+  adults and juniors, and (2) continuing social and emotional support benefits
+  of our current and future members.
+   
+  To assess achievement of these measures, we will track the following:
+
+  - Number of new members joining the adult and juniors programs annually
+
+  - Number of retiring members from the adult and juniors programs annually
+
+  - Number of members from the immediately surrounding neighborhoods
+
+  - Annual survey of members assessing the quality of social-connectedness and
+  emotional benefit received from league involvement.
+
+  - 'Exit' surveys of retiring members which assess:
+       - reason for retirement from the league
+       - benefit received from social and emotional support during their time with the Derby Dolls
+       - likelihood that social and emotional support network will continue following retirement
+   
+  Successful results will demonstrate that:
+
+  (1) the Derby Dolls consistently grow new membership at a greater rate than
+  attrition,
+
+  (2) members continue to benefit socially and emotionally from participation,
+
+  (3) departing members are not leaving without having gained the benefit of
+  social and emotional support, and
+
+  (4) established support networks tend to persist following participation.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/la-derby-dolls-promoting-social-and-emotional-support-through-womens-team-sports/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9914449755741-team91.jpg
 organization_name: LA Derby Dolls

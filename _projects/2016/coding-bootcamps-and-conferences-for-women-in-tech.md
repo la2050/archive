@@ -15,8 +15,7 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6190449915741-team91.png
 project_video: 'https://www.youtube.com/embed/BZXFTqAIG8U?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   For Girls in Tech to achieve its objectivesensure that more women get access
   and opportunities in the tech industry, we need partners. As we are currently
   based in 60 cities around the world we have a strong relationship with
@@ -24,63 +23,22 @@ project_collaborators: >-
   record of working with partners, sponsors and collaborators. Previous sponsors
   include Facebook and Jim McCarthy for bootcamps; for the Catalyst Conference,
   partners include Intel and GoDaddy.
-project_measure: >-
-  To maintain quality as we grow, we’d like to increase our focus on program
-  reporting. This would include eSurveys, a program analytics platform, a
-  program out comes report that covers KPIs (submitted by mentors to report on
-  entrepreneurs’ progress), as well as a post-program review with our board,
-  including a detailed budget review. We would also offer participants access to
-  quarterly, free webinars. These webinars will focus on topics related to the
-  entrepreneurship journey, such as pitching, negotiation, business model
-  development and more. We’ll be able to measure the engagement and
-  participation of each attendee at these webinars, as well as the progress each
-  entrepreneur is making with their startup.
-
-
-  To capture a comprehensive analysis of the impact the Catalyst Conference has
-  on attendees, Girls in Tech will be asking each attendee to make a pledge.
-  Their pledge must relate to entrepreneurship, a problem they wish to solve,
-  and we will follow up with attendees monthly. 
-
-
-  These programs all provide tremendous access and support to women in tech, at
-  all levels of their careers. Not only do they gain access to our proprietary
-  curriculum, they also gain access to possible board member introductions,
-  high-quality speakers and a global support system. This puts them in the
-  position to gain access to an all-inclusive tech “ecosystem” - other women,
-  partners, intrapreneurs, technorati, and more. For women in tech, a support
-  system such as this can be career changing.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   GIT aims to eradicate gender disparities in STEM (science, technology,
   engineering, mathematics) fields by educating, preparing and empowering women
   to pursue technology careers and persevere within technology fields. We
   achieve this through the creation of proprietary, innovative programming and
   strategic global partnerships. We provide mentorship and boot camp programs as
   well as the Catalyst Conference, an annual conference for women in tech.
-project_impact: >-
-  ["Jobs per capita","Measures of cultural and global economic influence (“soft
-  power”)","Minority- and women-owned firms","High growth startups"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Jobs per capita
   - Measures of cultural and global economic influence (“soft power”)
   - Minority- and women-owned firms
   - High growth startups
-project_proposal_description: >-
-  GIT aims to eradicate gender disparities in STEM (science, technology,
-  engineering, mathematics) fields by educating, preparing and empowering women
-  to pursue technology careers and persevere within technology fields. We
-  achieve this through the creation of proprietary, innovative programming and
-  strategic global partnerships. We provide mentorship and boot camp programs as
-  well as the Catalyst Conference, an annual conference for women in tech.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Girls in Tech has a chapter in LA which already focuses on bringing innovation
   and entrepreneurship to the area as well as encouraging diversity within the
   local community. We plan to expand on this and make LA the best place to
@@ -120,6 +78,37 @@ project_proposal_best_place: >-
   scene, and help it attract a diverse community of thinkers, leaders, investors
   and entrepreneurs whilst working with local communities to create a
   sustainable tech workforce with gender parity as the key focus.
+Please explain how you will define and measure success for your project.​: >-
+  To maintain quality as we grow, we’d like to increase our focus on program
+  reporting. This would include eSurveys, a program analytics platform, a
+  program out comes report that covers KPIs (submitted by mentors to report on
+  entrepreneurs’ progress), as well as a post-program review with our board,
+  including a detailed budget review. We would also offer participants access to
+  quarterly, free webinars. These webinars will focus on topics related to the
+  entrepreneurship journey, such as pitching, negotiation, business model
+  development and more. We’ll be able to measure the engagement and
+  participation of each attendee at these webinars, as well as the progress each
+  entrepreneur is making with their startup.
+
+
+  To capture a comprehensive analysis of the impact the Catalyst Conference has
+  on attendees, Girls in Tech will be asking each attendee to make a pledge.
+  Their pledge must relate to entrepreneurship, a problem they wish to solve,
+  and we will follow up with attendees monthly. 
+
+
+  These programs all provide tremendous access and support to women in tech, at
+  all levels of their careers. Not only do they gain access to our proprietary
+  curriculum, they also gain access to possible board member introductions,
+  high-quality speakers and a global support system. This puts them in the
+  position to gain access to an all-inclusive tech “ecosystem” - other women,
+  partners, intrapreneurs, technorati, and more. For women in tech, a support
+  system such as this can be career changing.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/coding-bootcamps-and-conferences-for-women-in-tech/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6190449915741-team91.png
 organization_name: Girls in Tech

@@ -15,27 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8496394265741-team91.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: Forged by Fire Foundation.
-project_measure: >-
-  We define and measure success for SAFE Support based on two statistics. First,
-  the number of traffic victims who recover such that they can return to their
-  lives, families, and workplaces as productive members of Los Angeles society.
-  Second, the number of advocates for safer streets created as a result of SAFE
-  Support. These could include victims themselves, as well as their friends and
-  family members who support our aims to improve government responsiveness and
-  make meaningful changes to policy.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: Forged by Fire Foundation.
+Please describe your project proposal.: >-
   There is a traffic collision every ten minutes in Los Angeles; these
   physically, mentally, and emotionally traumatic experiences impact 52,000
   survivors and their loved ones every year. SAFE Support provides a support
@@ -43,25 +24,14 @@ project_description: >-
   traffic.” Our experts help survivors heal from injuries, navigate the legal
   process, manage their daily lives, repair their mental health, and use their
   experiences to affect meaningful change.
-project_impact: >-
-  ["Social & emotional support","Government responsiveness to residents’
-  needs","Rates of volunteerism"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Government responsiveness to residents’ needs
   - Rates of volunteerism
-project_proposal_description: >-
-  There is a traffic collision every ten minutes in Los Angeles; these
-  physically, mentally, and emotionally traumatic experiences impact 52,000
-  survivors and their loved ones every year. SAFE Support provides a support
-  group, practical resources, and important advocacy for these “victims of
-  traffic.” Our experts help survivors heal from injuries, navigate the legal
-  process, manage their daily lives, repair their mental health, and use their
-  experiences to affect meaningful change.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   LA is a sprawling city; roads, sidewalks, crosswalks, and pathways link
   communities together, both literally and figuratively. Unfortunately, these
   routes are often perilous, limiting Angelenos’ transportation options. SAFE
@@ -96,6 +66,24 @@ project_proposal_best_place: >-
   survivors. In addition, our network will collaborate with civic leaders to
   ensure that local and state governments make broad changes that help all
   Angelenos walk, bike, drive, and connect safely.
+Please explain how you will define and measure success for your project.​: >-
+  We define and measure success for SAFE Support based on two statistics. First,
+  the number of traffic victims who recover such that they can return to their
+  lives, families, and workplaces as productive members of Los Angeles society.
+  Second, the number of advocates for safer streets created as a result of SAFE
+  Support. These could include victims themselves, as well as their friends and
+  family members who support our aims to improve government responsiveness and
+  make meaningful changes to policy.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/safe-support-helping-for-those-affected-by-traumatic-traffic-collisions/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8496394265741-team91.jpg
 organization_name: SAFE (Streets Are For Everyone)

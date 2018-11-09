@@ -14,37 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3933038065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/1lv9lN3FZUw?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: 'Los Angeles Unified School District, Mia Lehrer + Associates'
-project_measure: >-
-  Success will be defined by our ability to positively impact Los Angeles' green
-  spaces, wildlife and avenues for citizens to engage with nature.  Success will
-  measured by: 
-
-  Increased sustainable green space for wildlife and people living in Los
-  Angeles;
-
-  The number of Schoolyard Habitats installed;
-
-  The number students, teachers and schools engaged in the Schoolyard Habitat
-  installation process; 
-
-  The number of students, teachers and citizens each completed Schoolyard
-  Habitat has the potential to engage annually;
-
-  The number and types of urban wildlife species that benefit from increased
-  habitat.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles
-  - 'Education/training '
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: 'Los Angeles Unified School District, Mia Lehrer + Associates'
+Please describe your project proposal.: >-
   Working in partnership with LAUSD and Mia Lehrer + Associates, the National
   Wildlife Federation's California team will provide seed funding, expertise and
   curriculum to 1 school in each of the 6 LAUSD districts to transform their
@@ -52,11 +23,7 @@ project_description: >-
   healthy ecosystem for the community by increasing habitat for native animals
   like butterflies, bees, birds and also provide a living laboratory that
   enhances STEM learning for students in the city
-project_impact: >-
-  ["Waterways","Exposure to air toxins","Self-sufficiency","Local
-  water","Resilient communities","Prevalence of adverse childhood
-  experiences","Walk/bike/transit score"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Waterways
   - Exposure to air toxins
   - Self-sufficiency
@@ -64,17 +31,9 @@ project_proposal_impact:
   - Resilient communities
   - Prevalence of adverse childhood experiences
   - Walk/bike/transit score
-project_proposal_description: >-
-  Working in partnership with LAUSD and Mia Lehrer + Associates, the National
-  Wildlife Federation's California team will provide seed funding, expertise and
-  curriculum to 1 school in each of the 6 LAUSD districts to transform their
-  current grounds into a urban wildlife habitat.  This space will support a
-  healthy ecosystem for the community by increasing habitat for native animals
-  like butterflies, bees, birds and also provide a living laboratory that
-  enhances STEM learning for students in the city
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Schoolyard Habitats projects will help make LA the best place to live because
   the Federation and our partners will provide direct, on the ground support to
   participating schools who are interested in expanding wildlife habitats,
@@ -120,6 +79,34 @@ project_proposal_best_place: >-
   environmentally literate citizen contributors through hands-on, experiential,
   and project based learning that turns the school buildings and grounds into
   true learning laboratories.
+Please explain how you will define and measure success for your project.​: >-
+  Success will be defined by our ability to positively impact Los Angeles' green
+  spaces, wildlife and avenues for citizens to engage with nature.  Success will
+  measured by: 
+
+  Increased sustainable green space for wildlife and people living in Los
+  Angeles;
+
+  The number of Schoolyard Habitats installed;
+
+  The number students, teachers and schools engaged in the Schoolyard Habitat
+  installation process; 
+
+  The number of students, teachers and citizens each completed Schoolyard
+  Habitat has the potential to engage annually;
+
+  The number and types of urban wildlife species that benefit from increased
+  habitat.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - 'Education/training '
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/help-create-schoolyard-habitats-for-people-and-wildlife-in-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3933038065741-team90.jpg
 organization_name: The National Wildlife Federation

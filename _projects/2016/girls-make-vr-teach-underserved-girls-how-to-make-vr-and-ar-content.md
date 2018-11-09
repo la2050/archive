@@ -15,45 +15,11 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6368104854741-team91.jpg
 project_video: 'https://www.youtube.com/embed/9rIjGtZLljo?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   VRLA School: the education arm of the largest VR/AR expo in the world, VRLA.,
   SH//FT: an organization that partners w/ industry leaders in emerging tech
   such as AR/VR to sponsor opportunities for minority groups.
-project_measure: >-
-  We will base our success of three areas with specific metrics
-
-  1. Adoption of skills and learning
-
-  With the assistance of the class teachers we will set specific metrics that
-  the girls will work towards - with a focus on mastery not grades.
-
-  - Our goal is to have 90% of girls enrolled in the class advance three levels
-  each year that they are in the program.
-
-  2. Academic results and graduation rate
-
-  We believe this class will positively affect the academic success of the girls
-  enrolled. -- - Our goal is to have 90% of girls enrolled increase their
-  academic results by 1 letter grade in each year they are enrolled. Further
-  more we see success as 100% of our girls graduating high school and continuing
-  on to further education.
-
-  3. Sense of purpose for their education and excitement for their future
-
-  We will be using the Hollywood Hope Index to measure girls sense of excitement
-  and purpose for their future. 
-
-  - Our goal is that 100% of girls see a bright future and wish to succeed in
-  their future after 6 months attending classes.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   We are creating an educational platform to give underserved girls resources to
   empower them as valuable creators in this new tech and media landscape. 
   Recently, VRLA School, Arts Bridging the Gap, SH//FT and other organizations
@@ -61,26 +27,15 @@ project_description: >-
   girls interested in learning how to make interactive Virtual Reality (VR)
   content.  It proved to be a hugely valuable experience for the girls -
   immersing them in a new world and potential future.
-project_impact: >-
-  ["College completion","College matriculation rates","District-wide graduation
-  rates","Youth unemployment and underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - District-wide graduation rates
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  We are creating an educational platform to give underserved girls resources to
-  empower them as valuable creators in this new tech and media landscape. 
-  Recently, VRLA School, Arts Bridging the Gap, SH//FT and other organizations
-  collaborated to put on the first Girls Make VR hands-on workshop for young
-  girls interested in learning how to make interactive Virtual Reality (VR)
-  content.  It proved to be a hugely valuable experience for the girls -
-  immersing them in a new world and potential future.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Los Angeles is one of the great technology centers of the world -  with the
   confluence of its renowned entertainment industry and bustling tech scene, LA
   is a natural setting for the VR/AR industry to flourish and VRLA School,
@@ -130,6 +85,39 @@ project_proposal_best_place: >-
   Our classes will open girls' hearts and minds to the importance of learning by
   igniting their abilities in this forward thinking industry, making LA the
   leading city for change.
+Please explain how you will define and measure success for your project.​: >-
+  We will base our success of three areas with specific metrics
+
+  1. Adoption of skills and learning
+
+  With the assistance of the class teachers we will set specific metrics that
+  the girls will work towards - with a focus on mastery not grades.
+
+  - Our goal is to have 90% of girls enrolled in the class advance three levels
+  each year that they are in the program.
+
+  2. Academic results and graduation rate
+
+  We believe this class will positively affect the academic success of the girls
+  enrolled. -- - Our goal is to have 90% of girls enrolled increase their
+  academic results by 1 letter grade in each year they are enrolled. Further
+  more we see success as 100% of our girls graduating high school and continuing
+  on to further education.
+
+  3. Sense of purpose for their education and excitement for their future
+
+  We will be using the Hollywood Hope Index to measure girls sense of excitement
+  and purpose for their future. 
+
+  - Our goal is that 100% of girls see a bright future and wish to succeed in
+  their future after 6 months attending classes.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/girls-make-vr-teach-underserved-girls-how-to-make-vr-and-ar-content/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6368104854741-team91.jpg
 organization_name: Arts Bridging the Gap

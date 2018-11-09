@@ -17,62 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4898814105741-team90.jpg
 project_video: 'https://www.youtube.com/embed/wA3zYsq4f3I?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Goal 1) Design, build, and open state-of-the-art fitness centers at selected
-  LAUSD schools
-
-
-  Expected Outcome 1) Students and community members will have daily access to
-  the state-of-the-art SBSM fitness centers
-
-  Measurement of 1) # of students with access to fitness center on a daily basis
-
-
-
-  Goal 2) Perform professional development training for the entire P.E. staff at
-  selected schools
-
-
-  Expected Outcome 2) P.E. staff will improve their content knowledge and
-  comprehension of the most current P.E. research and theories
-
-  Measurement of 2) % of P.E. staff members trained on the Curriculum
-
-
-
-  Goal 3) Implement an eight-week course on the Curriculum and analyze the
-  impact of fitness with FITNESSGRAM testing ( California State proficiency test
-  for student physical fitness) at selected LAUSD schools
-
-
-  Expected Outcome 3) Students will improve their fitness levels achieving a 25%
-  increase in FITNESSGRAM passing rates after an eight-week implementation of
-  the Curriculum
-
-  Measurement of 3) % of students achieving an increase in FITNESSGRAM passing
-  rates
-
-
-
-  Goal 4) Implement an eight week course on the Curriculum and analyze the
-  impact on students' attitudes towards P.E. with behavioral surveys at selected
-  LAUSD schools 
-
-
-  Expected Outcome 4) Students will report a measurable improvement in their
-  perceptions of fitness and exercise after an eight week implementation of the
-  Curriculum
-
-  Measurement of 4) % of students reporting improved perception of fitness and
-  exercise
-project_proposal_help:
-  - 'Money '
-  - Advisors/board members
-  - Publicity/awareness
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Los Angeles is in dire need of quality physical education resources and
   training within its schools. Sound Body Sound Mind (SBSM) plans to fill this
   void by providing recipient schools within LAUSD a state-of-the-art fitness
@@ -80,25 +26,14 @@ project_description: >-
   comprehensive package gives underserved students a space to transform their
   physical education experience, and P.E. educators new and inventive resources
   to implement within their class.
-project_impact: >-
-  ["Self-sufficiency","Obesity","Resilient communities","Prevalence of adverse
-  childhood experiences"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Self-sufficiency
   - Obesity
   - Resilient communities
   - Prevalence of adverse childhood experiences
-project_proposal_description: >-
-  Los Angeles is in dire need of quality physical education resources and
-  training within its schools. Sound Body Sound Mind (SBSM) plans to fill this
-  void by providing recipient schools within LAUSD a state-of-the-art fitness
-  center, SBSM Curriculum, and professional development training. This
-  comprehensive package gives underserved students a space to transform their
-  physical education experience, and P.E. educators new and inventive resources
-  to implement within their class.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   SBSM commits its services to an array of student populations and needs that
   would otherwise go unnoticed in many communities. The lack of fitness
   resources is particularly acute in low-income and minority communities where
@@ -158,6 +93,59 @@ project_proposal_best_place: >-
   LAUSD schools are rarely able to compensate for recreational and fitness
   resources their neighborhoods lack. With implementation of our program model,
   SBSM can provide LAUSD with an impactful solution.
+Please explain how you will define and measure success for your project.​: >-
+  Goal 1) Design, build, and open state-of-the-art fitness centers at selected
+  LAUSD schools
+
+
+  Expected Outcome 1) Students and community members will have daily access to
+  the state-of-the-art SBSM fitness centers
+
+  Measurement of 1) # of students with access to fitness center on a daily basis
+
+
+
+  Goal 2) Perform professional development training for the entire P.E. staff at
+  selected schools
+
+
+  Expected Outcome 2) P.E. staff will improve their content knowledge and
+  comprehension of the most current P.E. research and theories
+
+  Measurement of 2) % of P.E. staff members trained on the Curriculum
+
+
+
+  Goal 3) Implement an eight-week course on the Curriculum and analyze the
+  impact of fitness with FITNESSGRAM testing ( California State proficiency test
+  for student physical fitness) at selected LAUSD schools
+
+
+  Expected Outcome 3) Students will improve their fitness levels achieving a 25%
+  increase in FITNESSGRAM passing rates after an eight-week implementation of
+  the Curriculum
+
+  Measurement of 3) % of students achieving an increase in FITNESSGRAM passing
+  rates
+
+
+
+  Goal 4) Implement an eight week course on the Curriculum and analyze the
+  impact on students' attitudes towards P.E. with behavioral surveys at selected
+  LAUSD schools 
+
+
+  Expected Outcome 4) Students will report a measurable improvement in their
+  perceptions of fitness and exercise after an eight week implementation of the
+  Curriculum
+
+  Measurement of 4) % of students reporting improved perception of fitness and
+  exercise
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Advisors/board members
+  - Publicity/awareness
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/fighting-child-obesity-through-the-transformation-of-physical-education-in-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4898814105741-team90.jpg
 organization_name: Sound Body Sound Mind Foundation

@@ -14,35 +14,15 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2545821265741-team91.png
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: The Glue
-project_measure: >-
-  Our project is about building and reinforcing the Angeleno story. From a
-  quantitative perspective, we will measure our success by the number of times
-  the podcast is downloaded, the number of times it is listened to, direct or
-  media related responses to the podcast, and community engagement with the
-  development of future episodes. However, our true success is intangible. As
-  such, we will define our success as helping to remind our fellow Angelenos of
-  our urban story, and helping them to explore the variety of ways we move
-  around our great region.
-project_proposal_help:
-  - 'Money '
-  - 'Community outreach '
-  - Network/relationship support
-  - 'Story Ideas, Interviewees'
-project_description: >-
+Are any other organizations collaborating on this proposal?: The Glue
+Please describe your project proposal.: >-
   LA Metro aims to connect Los Angeles residents to our community through the
   use of the podcasting medium to tell our collective urban story. We seek to
   unearth the iconic story of how the people of Los Angeles learn, create, play,
   connect, and live in our vibrant community. The podcast celebrates the past,
   present and future of mobility in Los Angeles through narrative content by
   creating story-driven podcasts that educate, inspire and entertain people.
-project_impact: >-
-  ["Social & emotional support","Cultural events","Public/open streets
-  gatherings","Government responsiveness to residents’ needs","Travel time to
-  work","Public transit riders","Total number of local social media friends and
-  connections Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Public/open streets gatherings
@@ -50,16 +30,9 @@ project_proposal_impact:
   - Travel time to work
   - Public transit riders
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  LA Metro aims to connect Los Angeles residents to our community through the
-  use of the podcasting medium to tell our collective urban story. We seek to
-  unearth the iconic story of how the people of Los Angeles learn, create, play,
-  connect, and live in our vibrant community. The podcast celebrates the past,
-  present and future of mobility in Los Angeles through narrative content by
-  creating story-driven podcasts that educate, inspire and entertain people.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   LA has reputation for being a region of missed connections and traffic jams.
   We are challenging that assertion & telling the story of LA County through a
   podcast series that is intended to spark conversations and generate enthusiasm
@@ -115,6 +88,20 @@ project_proposal_best_place: >-
   and expand this project with an additional 12 episodes to continue to grow and
   expand our communal story, reminding our community how Los Angeles is truly
   the best place in the world to connect with our fellow citizens.
+Please explain how you will define and measure success for your project.​: >-
+  Our project is about building and reinforcing the Angeleno story. From a
+  quantitative perspective, we will measure our success by the number of times
+  the podcast is downloaded, the number of times it is listened to, direct or
+  media related responses to the podcast, and community engagement with the
+  development of future episodes. However, our true success is intangible. As
+  such, we will define our success as helping to remind our fellow Angelenos of
+  our urban story, and helping them to explore the variety of ways we move
+  around our great region.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - 'Community outreach '
+  - Network/relationship support
+  - 'Story Ideas, Interviewees'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/off-peak-podcast/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2545821265741-team91.png
 organization_name: LA Metro

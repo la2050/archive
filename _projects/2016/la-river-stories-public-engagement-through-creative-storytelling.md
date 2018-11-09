@@ -15,8 +15,7 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2365322355741-team90.jpg
 project_video: 'https://www.youtube.com/embed/9ADs2v7U-Ro?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   72andSunny is a highly respected and awarded international creative agency
   with an impressive global client list and a proven track record of creating
   cultural impact for clients, and delivering ideas people talk about.
@@ -24,28 +23,7 @@ project_collaborators: >-
   plan to recruit emerging creative talent from along the River to help concept
   and shoot content, bringing authenticity, insight, and built-in community
   engagement to their creative product.
-project_measure: >-
-  Primary outcomes include the following: 
-
-  1. Recruitment of the community, including direct engagement with members of
-  5+ LA River communities through workshops with Gehry team. This will be
-  measured throughout pre-and production phases by the number of meetings and
-  the number of potential content creators, the number of stories created, and
-  the number of insights.
-
-  2. A range of content to include in video shorts. This will take place
-  throughout the production and post-production process, measured by the
-  quantity of content.
-
-  3. Media impressions among the diverse audience. This will take place through
-  the content distribution process to influencers and paid media. This will be
-  measured by the quantity of impressions, as well as social media engagement
-  rates.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - Community outreach
-project_description: >-
+Please describe your project proposal.: >-
   River LA, in partnership with 72andSunny, is creating a human-centered public
   engagement project to generate inspiring, human stories from the people who
   know the LA River the best  - environmentalists, cyclists, equestrians, young
@@ -53,20 +31,11 @@ project_description: >-
   immerses the viewer in the lives of real people, fosters an understanding of
   their needs, and elevates the narrative to inspire transformative ideas to
   shape equitable planning and design.
-project_impact: '["Waterways","Local water","Resilient communities"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Waterways
   - Local water
   - Resilient communities
-project_proposal_description: >-
-  River LA, in partnership with 72andSunny, is creating a human-centered public
-  engagement project to generate inspiring, human stories from the people who
-  know the LA River the best  - environmentalists, cyclists, equestrians, young
-  families, recreational enthusiasts, artists, among others. LA River Stories
-  immerses the viewer in the lives of real people, fosters an understanding of
-  their needs, and elevates the narrative to inspire transformative ideas to
-  shape equitable planning and design.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Fernando Valley
@@ -74,7 +43,7 @@ project_areas:
   - Gateway Cities
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   For many Angelenos, the LA River is not just a concrete flood channel, it’s a
   way of life. The LA River is where people meet up to ride bicycles or horses.
   It’s where they create art and music. It’s where they connect with nature and
@@ -110,6 +79,27 @@ project_proposal_best_place: >-
   sign of hope for transformation will spread and create a new movement, a new
   relationship. Our shared story will recognize the River as central to our
   health, well-being, and sense of place.
+Please explain how you will define and measure success for your project.​: >-
+  Primary outcomes include the following: 
+
+  1. Recruitment of the community, including direct engagement with members of
+  5+ LA River communities through workshops with Gehry team. This will be
+  measured throughout pre-and production phases by the number of meetings and
+  the number of potential content creators, the number of stories created, and
+  the number of insights.
+
+  2. A range of content to include in video shorts. This will take place
+  throughout the production and post-production process, measured by the
+  quantity of content.
+
+  3. Media impressions among the diverse audience. This will take place through
+  the content distribution process to influencers and paid media. This will be
+  measured by the quantity of impressions, as well as social media engagement
+  rates.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/la-river-stories-public-engagement-through-creative-storytelling/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2365322355741-team90.jpg
 organization_name: River LA (formerly LA River Revitalization Corporation)

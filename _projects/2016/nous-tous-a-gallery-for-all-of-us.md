@@ -13,40 +13,13 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2520459835741-team91.JPG
 project_video: 'https://www.youtube.com/embed/I_DjRnUczmc?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Our success will be measure by the number of artists we are able to create
-  programs for, the depth and duration of the program run, and the sales revenue
-  we help them generate through customer engagement and wholesale distribution.
-
-  The first part of our platform requires that we constantly meet with and
-  appraise talented creatives in a variety of fields. Then we must select who to
-  collaborate with based on shared vision and goals. After creating programs
-  that we have confidence in and executing them we will have to measure our
-  investment against real business metrics to determine success resulting not
-  only a profit and loss statement but an appraisal of accountability to the
-  values and objectives we began with.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - 'Staff '
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Citizens Of Culture uses engaging events to highlight and create deeper
   context for artist's work. With the LA2050 we will expand our gallery 
   showroom programs beyond the walls of our space to engage with a wider network
   of creators.
-project_impact: >-
-  ["Arts establishments","Manufacturing activity","Employment in the creative
-  industries","Gini coefficient","Jobs per capita","Measures of cultural and
-  global economic influence (“soft power”)","Minority- and women-owned
-  firms","Percentage of graduates from local higher education institutions that
-  remain in LA County 5 years after graduating","Unemployment (and
-  opportunities) for the formerly incarcerated","Venture capital investment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Manufacturing activity
   - Employment in the creative industries
@@ -59,15 +32,10 @@ project_proposal_impact:
     in LA County 5 years after graduating
   - Unemployment (and opportunities) for the formerly incarcerated
   - Venture capital investment
-project_proposal_description: >-
-  Citizens Of Culture uses engaging events to highlight and create deeper
-  context for artist's work. With the LA2050 we will expand our gallery 
-  showroom programs beyond the walls of our space to engage with a wider network
-  of creators.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Citizens Of Culture exists at the intersection of creativity, commerce, and
   community. Because of this we interact with hundreds of artists per year who
   have great work that needs marketing, and development support. This might be
@@ -100,6 +68,25 @@ project_proposal_best_place: >-
   production samples. The LA2050 grant will be put to great use in allowing us
   to focus more directly on concept and execution by removing some of the
   financial barriers to campaign success.
+Please explain how you will define and measure success for your project.​: >-
+  Our success will be measure by the number of artists we are able to create
+  programs for, the depth and duration of the program run, and the sales revenue
+  we help them generate through customer engagement and wholesale distribution.
+
+  The first part of our platform requires that we constantly meet with and
+  appraise talented creatives in a variety of fields. Then we must select who to
+  collaborate with based on shared vision and goals. After creating programs
+  that we have confidence in and executing them we will have to measure our
+  investment against real business metrics to determine success resulting not
+  only a profit and loss statement but an appraisal of accountability to the
+  values and objectives we began with.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - 'Staff '
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/nous-tous-a-gallery-for-all-of-us/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2520459835741-team91.JPG
 organization_name: Citizens Of Culture

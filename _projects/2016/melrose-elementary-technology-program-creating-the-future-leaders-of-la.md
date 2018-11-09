@@ -14,39 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3845012265741-team90.jpg
 project_video: 'https://www.youtube.com/embed/8nHD7qZG4S8?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Melrose Elementary PTO supports a culturally supportive, technologically-rich
-  environment where a diverse student population can work collaboratively with
-  creativity and innovation. Ensuring that our students do not miss learning
-  opportunities due to lack of access to technology is vital to fulfilling our
-  mission of providing a quality education in the STEAM disciplines. We define
-  success for this project as full implementation of our self-sustaining tech
-  renewal initiative. Operating our 1-1 tech program free from district funding
-  is a key component of our ability to keep pace with changing technology
-  regardless of current funding models for public schools and ongoing district
-  budget cuts. We measure success based on the following:
-
-
-  - Percent of students that have access to fully functioning technology
-  equipment: Goal=100%  
-
-  - Percent of the cost for maintaining that equipment that is covered by our
-  organization’s existing fundraising activities: Goal=100%  
-
-  - Percent of students who complete Digital Citizenship training: Goal=100% 
-
-  - Percent of teachers who receive ongoing professional development to fully
-  utilize our technology:Goal=100%
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - Community outreach
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Melrose Magnet seeks to close the digital divide by ensuring all students,
   regardless of income or ethnicity, have access to 21st century skills and
   technology. Our 1-to-1 integrated computing program engages students to use
@@ -54,12 +23,7 @@ project_description: >-
   life. Completing the final phase of a self-sustaining tech renewal project
   will support our mission for students to become self-sufficient learners and
   creators in all aspects of their work.
-project_impact: >-
-  ["College completion","College matriculation rates","District-wide graduation
-  rates","Proficiency in English and Language Arts and Math","Student education
-  pipeline","Suspension and expulsion rates","Truancy rates in elementary and
-  middle schools","Youth unemployment and underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - District-wide graduation rates
@@ -68,17 +32,9 @@ project_proposal_impact:
   - Suspension and expulsion rates
   - Truancy rates in elementary and middle schools
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  Melrose Magnet seeks to close the digital divide by ensuring all students,
-  regardless of income or ethnicity, have access to 21st century skills and
-  technology. Our 1-to-1 integrated computing program engages students to use
-  technology as a powerful tool to investigate, collaborate, and bring ideas to
-  life. Completing the final phase of a self-sustaining tech renewal project
-  will support our mission for students to become self-sufficient learners and
-  creators in all aspects of their work.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The importance of quality primary education has proven time and again to be a
   crucial stepping stone in allowing students to continue on to college and
   beyond. Our young students have so much potential, but we must invest in them,
@@ -118,6 +74,36 @@ project_proposal_best_place: >-
   incredibly successful tech integration program that could become a model for
   other schools struggling to meet the needs of their students in our ever more
   tech-centered world.
+Please explain how you will define and measure success for your project.​: >-
+  Melrose Elementary PTO supports a culturally supportive, technologically-rich
+  environment where a diverse student population can work collaboratively with
+  creativity and innovation. Ensuring that our students do not miss learning
+  opportunities due to lack of access to technology is vital to fulfilling our
+  mission of providing a quality education in the STEAM disciplines. We define
+  success for this project as full implementation of our self-sustaining tech
+  renewal initiative. Operating our 1-1 tech program free from district funding
+  is a key component of our ability to keep pace with changing technology
+  regardless of current funding models for public schools and ongoing district
+  budget cuts. We measure success based on the following:
+
+
+  - Percent of students that have access to fully functioning technology
+  equipment: Goal=100%  
+
+  - Percent of the cost for maintaining that equipment that is covered by our
+  organization’s existing fundraising activities: Goal=100%  
+
+  - Percent of students who complete Digital Citizenship training: Goal=100% 
+
+  - Percent of teachers who receive ongoing professional development to fully
+  utilize our technology:Goal=100%
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/melrose-elementary-technology-program-creating-the-future-leaders-of-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3845012265741-team90.jpg
 organization_name: Melrose Elementary PTO

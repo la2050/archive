@@ -17,41 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4893873855741-team90.jpg
 project_video: 'https://www.youtube.com/embed/QgGAt5V-g8k?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  The success of L.A. Compost will be measured by pounds of organics diverted
-  from landfills, community involvement, attendance at workshops, finished
-  compost/seedlings given back to the local community, and community feedback.
-
-  Organics diverted from landfill: Scales, journals, and visual trackers have
-  been placed at all our hubs and residents will continue to weigh and track the
-  organics they deposit in our compost systems. 
-
-  Community involvement and attendance at workshop: Our current diversion logs
-  show how many people are visiting our hubs and using the compost bins weekly.
-  By taking attendance at our monthly workshops, we will be able to measure the
-  overall interest from the local community surrounding each hub.
-
-  Distribute finished compost and seedlings to local community: The compost
-  created at each hub will be weighed, recorded, and distributed to local
-  growers. By providing this compost to local growers, individuals will have the
-  starting block to grow their own healthy food. Along with distributing
-  finished compost, seedling starters are made using old newspaper and finished
-  compost. We will continue to keep track of how many seedlings are made and
-  given away each month using the same method as our diversion tracking system. 
-
-  Community Feedback: Community message boards will be used at specific hubs to
-  address specific needs. Quarterly surveys will be emailed to all those engaged
-  with the compost hubs and surveys will be given out at all workshops and
-  workdays.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   LA Compost is working to create an entirely local solution to food waste
   through composting. Our community supported compost hubs will keep organics
   within the same community in which they were consumed, and provide finished
@@ -59,27 +26,18 @@ project_description: >-
   network, we will continue to divert thousands of pounds of organics from
   reaching landfills monthly, while also providing residents with the tools and
   education needed to compost on their own.
-project_impact: '["Access to healthy food","Self-sufficiency","Resilient communities"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to healthy food
   - Self-sufficiency
   - Resilient communities
-project_proposal_description: >-
-  LA Compost is working to create an entirely local solution to food waste
-  through composting. Our community supported compost hubs will keep organics
-  within the same community in which they were consumed, and provide finished
-  compost for local growers. By expanding our current countywide compost hub
-  network, we will continue to divert thousands of pounds of organics from
-  reaching landfills monthly, while also providing residents with the tools and
-  education needed to compost on their own.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - East LA
   - San Gabriel Valley
   - San Fernando Valley
   - South LA
   - Westside
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   LA Compost will help make LA be the best place to LIVE by reconnecting
   communities across LA County with their food, their soil, and their neighbors.
 
@@ -125,6 +83,38 @@ project_proposal_best_place: >-
   empowering and healing, and that Los Angeles needs just this. Composting is a
   beautiful, regenerative process that is collaborative, self-giving, and
   exemplifies the type of city we want to embody.
+Please explain how you will define and measure success for your project.​: >-
+  The success of L.A. Compost will be measured by pounds of organics diverted
+  from landfills, community involvement, attendance at workshops, finished
+  compost/seedlings given back to the local community, and community feedback.
+
+  Organics diverted from landfill: Scales, journals, and visual trackers have
+  been placed at all our hubs and residents will continue to weigh and track the
+  organics they deposit in our compost systems. 
+
+  Community involvement and attendance at workshop: Our current diversion logs
+  show how many people are visiting our hubs and using the compost bins weekly.
+  By taking attendance at our monthly workshops, we will be able to measure the
+  overall interest from the local community surrounding each hub.
+
+  Distribute finished compost and seedlings to local community: The compost
+  created at each hub will be weighed, recorded, and distributed to local
+  growers. By providing this compost to local growers, individuals will have the
+  starting block to grow their own healthy food. Along with distributing
+  finished compost, seedling starters are made using old newspaper and finished
+  compost. We will continue to keep track of how many seedlings are made and
+  given away each month using the same method as our diversion tracking system. 
+
+  Community Feedback: Community message boards will be used at specific hubs to
+  address specific needs. Quarterly surveys will be emailed to all those engaged
+  with the compost hubs and surveys will be given out at all workshops and
+  workdays.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/building-community-and-reducing-organic-waste-via-community-compost-hubs-throughout-la-county/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4893873855741-team90.jpg
 organization_name: LA Compost

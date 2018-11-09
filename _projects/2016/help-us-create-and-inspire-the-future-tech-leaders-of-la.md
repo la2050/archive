@@ -12,33 +12,10 @@ project_summary: Help Us Create the Future Tech Leaders of LA!
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1698840075741-team91.PNG
 project_video: 'https://www.youtube.com/embed/FGTFKKha0-Q?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   TrueCar, Inc. Pending conformation with: Yahoo, Google, Snapchat, Activation,
   Electronic Arts
-project_measure: >-
-  Program Evaluation will be conducted by both our instructors, and in-house,
-  and also using a two-fold approach: By anonymously surveying the students,
-  and, in addition, asking their parents different questions, also anonymously.
-  We intend to get an in-depth, honest portrayal of how well the #CodingisCool
-  workshops will have resonated within the students’ lives and day-to-day
-  activities. We will also be carefully assessing their math and science grades
-  during this period, in particular, to note any upswing or surge in interest. 
-
-  Internally, our staff will sit in on all Coding is Cool Workshops, and survey
-  the students monthly as to overall participation and engagement. We will also
-  be rating their specific skill levels with monthly exams, which will be built
-  into the workshop curriculum. We will also be getting intensive feedback from
-  the Guest Hosts at the tech companies we will be collaborating with, as well.
-  Also, anecdotal research and how often the students express interest in
-  reaching out and interning/keeping in touch with employees at these companies
-  will be applied.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Infrastructure (building/space/vehicles etc.)
-  - Technical infrastructure (computers etc.)
-project_description: >-
+Please describe your project proposal.: >-
   #CodingisCool will be expanding to host workshops at actual tech companies in
   and around West Los Angeles-what lately has become known as 'Silicone Beach.'
   We'll be hosting coding and programming workshops with actual programmers
@@ -46,12 +23,7 @@ project_description: >-
   students we serve will be able to tour the space, learn about jobs available
   to them in the future, and understand how exciting and accessible a job in
   computer programming can truly be for them!
-project_impact: >-
-  ["College completion","College matriculation rates","District-wide graduation
-  rates","Student education pipeline","Suspension and expulsion rates","Truancy
-  rates in elementary and middle schools","Youth unemployment and
-  underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - District-wide graduation rates
@@ -59,18 +31,10 @@ project_proposal_impact:
   - Suspension and expulsion rates
   - Truancy rates in elementary and middle schools
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  #CodingisCool will be expanding to host workshops at actual tech companies in
-  and around West Los Angeles-what lately has become known as 'Silicone Beach.'
-  We'll be hosting coding and programming workshops with actual programmers
-  employed at places such as TrueCar and other huge tech workplaces. The
-  students we serve will be able to tour the space, learn about jobs available
-  to them in the future, and understand how exciting and accessible a job in
-  computer programming can truly be for them!
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South LA
   - Westside
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   By creating an amazing opportunity for very underserved, low-income and
   at-risk youth in LA to have actual access to a tech companies day-to-day,
   while receiving a two hour coding and programming overview on the company's
@@ -112,6 +76,28 @@ project_proposal_best_place: >-
    -Youth unemployment and underemployment: Computer Science and programming, being able to build and create a killer app or computer game- this is the future career for young adults, and will impact any job or career in a positive way. (And did you know that skilled high school coders and computer engineer interns have earned over $5,000 per month?) Coding is Cool will not help them get “a” job, but get “the” job of the future in LA, if they want it. CIC will  offer them an unparalled and very competitive edge. 
 
    -District-wide graduation rates: Coding is Cool will exponentially amp up our students’ creativity, specific CS curiosity and STEM-based, academic skills.
+Please explain how you will define and measure success for your project.​: >-
+  Program Evaluation will be conducted by both our instructors, and in-house,
+  and also using a two-fold approach: By anonymously surveying the students,
+  and, in addition, asking their parents different questions, also anonymously.
+  We intend to get an in-depth, honest portrayal of how well the #CodingisCool
+  workshops will have resonated within the students’ lives and day-to-day
+  activities. We will also be carefully assessing their math and science grades
+  during this period, in particular, to note any upswing or surge in interest. 
+
+  Internally, our staff will sit in on all Coding is Cool Workshops, and survey
+  the students monthly as to overall participation and engagement. We will also
+  be rating their specific skill levels with monthly exams, which will be built
+  into the workshop curriculum. We will also be getting intensive feedback from
+  the Guest Hosts at the tech companies we will be collaborating with, as well.
+  Also, anecdotal research and how often the students express interest in
+  reaching out and interning/keeping in touch with employees at these companies
+  will be applied.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/help-us-create-and-inspire-the-future-tech-leaders-of-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1698840075741-team91.PNG
 organization_name: The Children's Lifesaving Foundation

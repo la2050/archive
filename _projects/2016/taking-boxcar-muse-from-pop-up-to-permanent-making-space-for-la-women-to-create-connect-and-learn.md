@@ -17,25 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2216202144741-team91.jpg
 project_video: 'https://youtube.com/embed/200FWNYbCNw?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: >-
-  None*, , *While we have not collaborated on this particular proposal we
-  regularly collaborate and barter with arts organizations, women’s charities,
-  artisans, and entrepreneurs.
-project_measure: "Success is significant and ongoing progress in the direction of our vision: to provide every woman with the inspiration, tools, space, and comradery she needs to live her fullest life. We measure it using an expanded form of the following dashboard:\n\nQuantitative\no\tMembers, participants\no\tMember retention\no\tReferrals\no\tActive sponsorships (20% min.)\no\tWomen we employ/contract\no\tWeb site visits converted to live visits\no\tVolunteer hours\no\tMembers within 5, 10, and 25 miles\n\nQualitative\no\tTestimonials\no\tMember-driven clubs\no\tProjects, businesses, collaborations, and hires “born in the boxcar”\no\tComparison of diversity index to local demographics\no\tPartnerships with local orgs\no\tRelationships formed\n\nWe use interview, survey, discussion, observation, and web analytics to collect data, allowing us to measure numbers but also to capture the relationships, emotion, and stories that are such strong indicators of our success.\n\nTake the bookkeeper who visits two or three times a month: she reads or builds something; she has easy conversation unrelated to work or family and even tells someone her middle name, unused since marriage; she leaves feeling healthy-minded and joyful. She doesn’t start a company or singing lessons, or write a memoir. She isn’t on a dashboard. But she’s also a success story. Because the process of creating or having a hobby “for its own sake” has healthy and transformative results, and ripple effects from a healthy community can spread across a city and beyond…"
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   boxcar+muse will go from pop-up to permanent, providing its growing community
   with a year-round creative camp and learning lab, doubling its workshop series
   and club programming, and offering 130 new sponsorships for women. 
@@ -45,12 +28,7 @@ project_description: >-
   regular creative exercise and experiences, boxcar+muse hopes to democratize
   the process, making innovation and self-discovery outside of work or family a
   vital habit for Los Angeles women.
-project_impact: >-
-  ["Arts establishments","Manufacturing activity","Employment in the creative
-  industries","Jobs per capita","Minority- and women-owned firms","Patents per
-  capita","Percentage of graduates from local higher education institutions that
-  remain in LA County 5 years after graduating"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Manufacturing activity
   - Employment in the creative industries
@@ -60,21 +38,11 @@ project_proposal_impact:
   - >-
     Percentage of graduates from local higher education institutions that remain
     in LA County 5 years after graduating
-project_proposal_description: >-
-  boxcar+muse will go from pop-up to permanent, providing its growing community
-  with a year-round creative camp and learning lab, doubling its workshop series
-  and club programming, and offering 130 new sponsorships for women. 
-
-
-  By providing women with the inspiration, tools, space, and comradery for
-  regular creative exercise and experiences, boxcar+muse hopes to democratize
-  the process, making innovation and self-discovery outside of work or family a
-  vital habit for Los Angeles women.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - East LA
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Once our basic needs are met we graduate to deep and driving needs for
   belonging, challenge, accomplishment, and self-actualization. boxcar+muse
   exists to meet those needs by providing women with the inspiration, tools,
@@ -131,6 +99,19 @@ project_proposal_best_place: >-
   We believe Los Angeles, and the world, will be a safer and even more
   magnificent place when women are continuously engaged in the joy of exercising
   their genius.
+Please explain how you will define and measure success for your project.​: "Success is significant and ongoing progress in the direction of our vision: to provide every woman with the inspiration, tools, space, and comradery she needs to live her fullest life. We measure it using an expanded form of the following dashboard:\n\nQuantitative\no\tMembers, participants\no\tMember retention\no\tReferrals\no\tActive sponsorships (20% min.)\no\tWomen we employ/contract\no\tWeb site visits converted to live visits\no\tVolunteer hours\no\tMembers within 5, 10, and 25 miles\n\nQualitative\no\tTestimonials\no\tMember-driven clubs\no\tProjects, businesses, collaborations, and hires “born in the boxcar”\no\tComparison of diversity index to local demographics\no\tPartnerships with local orgs\no\tRelationships formed\n\nWe use interview, survey, discussion, observation, and web analytics to collect data, allowing us to measure numbers but also to capture the relationships, emotion, and stories that are such strong indicators of our success.\n\nTake the bookkeeper who visits two or three times a month: she reads or builds something; she has easy conversation unrelated to work or family and even tells someone her middle name, unused since marriage; she leaves feeling healthy-minded and joyful. She doesn’t start a company or singing lessons, or write a memoir. She isn’t on a dashboard. But she’s also a success story. Because the process of creating or having a hobby “for its own sake” has healthy and transformative results, and ripple effects from a healthy community can spread across a city and beyond…"
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/taking-boxcar-muse-from-pop-up-to-permanent-making-space-for-la-women-to-create-connect-and-learn/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2216202144741-team91.jpg
 organization_name: boxcar+muse

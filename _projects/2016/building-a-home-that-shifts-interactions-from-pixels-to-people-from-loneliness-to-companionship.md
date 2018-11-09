@@ -17,44 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1265013144741-team90.png
 project_video: 'https://www.youtube.com/embed/VIFv2XHX_l8?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  thecool will increase Arts Establishments per Capita by inviting concepts,
-  groups, and individuals to host events within the space.  This type of
-  collaboration will cultivate a network of concepts that will either transform
-  our space into an art establishment or transition externally to build a space
-  of their own accessible to all.  As a result, our relationships with local
-  community establishments will allow us to guide similar concepts to fruition
-  throughout the city.  We will measure the progress of this metric by counting
-  the number of new art spaces that develop out of events hosted at thecool.
-
-
-  We will increase Employment in the Creative Industries by celebrating every
-  individual’s innate creativity.  Our platform for all people to share and
-  explore their passion will lead to new businesses in the creative field. 
-  Picture this, a local resident is encouraged to put on a photo series, and
-  because it is well received by the community, he or she realizes their gift
-  and makes a career transition.  Monitoring these type of transitions or
-  passions that turn into some form of creative employment will be our measure
-  of this metric’s progress.
-
-
-  We will expand LA’s Global and Cultural Economic Influence as it becomes the
-  unofficial community research and development studio for side projects,
-  passions, and thought.  We believe organization’s and individual’s testimonies
-  of their experience and inspiration leading to new paths will become a model
-  for other cities globally.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   thecool will disrupt the standard cafe experience by serving and engaging the
   community in an interactive space, with a culturally adventurous menu that
   integrates popular food and drink from various cuisines while elevating them
@@ -62,24 +26,13 @@ project_description: >-
   hidden talents, act as a catalyst for the brainstorming and exchange of
   innovative ideas, and provide all Angelenos an outlet to build community in an
   increasingly isolated and digital world.
-project_impact: >-
-  ["Arts establishments","Employment in the creative industries","Measures of
-  cultural and global economic influence (“soft power”)"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Employment in the creative industries
   - Measures of cultural and global economic influence (“soft power”)
-project_proposal_description: >-
-  thecool will disrupt the standard cafe experience by serving and engaging the
-  community in an interactive space, with a culturally adventurous menu that
-  integrates popular food and drink from various cuisines while elevating them
-  in preparation, aesthetics, and taste.  Guests are encouraged to surface their
-  hidden talents, act as a catalyst for the brainstorming and exchange of
-  innovative ideas, and provide all Angelenos an outlet to build community in an
-  increasingly isolated and digital world.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Los Angeles is one of the premier cities in the world, the mecca of
   entertainment, art, fashion, and ideas.  While LA is set apart by its creative
   heartbeat and passion to innovate, it still battles with issues such as,
@@ -129,6 +82,41 @@ project_proposal_best_place: >-
   catalyst for ideas, movements, dreams. Through our welcoming interactive
   space, game changing menu, and talent sharing, we’ll nurture authentic
   community to address a pressing need in an otherwise lonely city.
+Please explain how you will define and measure success for your project.​: >-
+  thecool will increase Arts Establishments per Capita by inviting concepts,
+  groups, and individuals to host events within the space.  This type of
+  collaboration will cultivate a network of concepts that will either transform
+  our space into an art establishment or transition externally to build a space
+  of their own accessible to all.  As a result, our relationships with local
+  community establishments will allow us to guide similar concepts to fruition
+  throughout the city.  We will measure the progress of this metric by counting
+  the number of new art spaces that develop out of events hosted at thecool.
+
+
+  We will increase Employment in the Creative Industries by celebrating every
+  individual’s innate creativity.  Our platform for all people to share and
+  explore their passion will lead to new businesses in the creative field. 
+  Picture this, a local resident is encouraged to put on a photo series, and
+  because it is well received by the community, he or she realizes their gift
+  and makes a career transition.  Monitoring these type of transitions or
+  passions that turn into some form of creative employment will be our measure
+  of this metric’s progress.
+
+
+  We will expand LA’s Global and Cultural Economic Influence as it becomes the
+  unofficial community research and development studio for side projects,
+  passions, and thought.  We believe organization’s and individual’s testimonies
+  of their experience and inspiration leading to new paths will become a model
+  for other cities globally.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/building-a-home-that-shifts-interactions-from-pixels-to-people-from-loneliness-to-companionship/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1265013144741-team90.png
 organization_name: thecool

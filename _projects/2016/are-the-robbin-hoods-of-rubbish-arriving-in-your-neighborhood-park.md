@@ -15,49 +15,19 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4439940265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/8fx_LFJr4lc?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: na
-project_measure: >-
-  We will conduct pre-then-post surveys with everyone who participates. Parents,
-  young inventors, anyone who takes part will be asked to answer a few basic
-  questions when they arrive. Questions about their level of interest in STEAM
-  activities. And, when they complete their project they will answer the same
-  questions. These findings will be compared to similar surveys we do in schools
-  that have T4T.org inspired project based learning. The combined data will be
-  available to schools, press and the educational community at large through
-  open source data banks and research servers.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   T4T.org’s Pop-Up Makers’ Space will arrive in some of LA’s most underserved
   communities on a Saturday or Sunday. Our truck will pull up, drop down the
   sides, and set up the tables. Then, future inventors, scientists and
   researchers, from the local community go to work. These children are welcome
   to create, build and experiment. We will bring Laser cutters, 3D Printers and
   all the tools these young inventors need to realize whatever they can imagine.
-project_impact: >-
-  ["Arts establishments","Manufacturing activity","Employment in the creative
-  industries"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Manufacturing activity
   - Employment in the creative industries
-project_proposal_description: >-
-  T4T.org’s Pop-Up Makers’ Space will arrive in some of LA’s most underserved
-  communities on a Saturday or Sunday. Our truck will pull up, drop down the
-  sides, and set up the tables. Then, future inventors, scientists and
-  researchers, from the local community go to work. These children are welcome
-  to create, build and experiment. We will bring Laser cutters, 3D Printers and
-  all the tools these young inventors need to realize whatever they can imagine.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -67,7 +37,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Our T4T.org traveling Makers Space will be filled with ReImagined Resources
   that will fill the truck and the imaginations of the young inventors who show
   up! The items we carry are colorful, open-ended materials being discarded by
@@ -80,6 +50,25 @@ project_proposal_best_place: >-
   on school-yards exclusively, it will simply be the way we identify the
   communities on our calendar. We will have Saturday and Sunday pop-up Makers
   Spaces in some of the most unlikely spots around town!
+Please explain how you will define and measure success for your project.​: >-
+  We will conduct pre-then-post surveys with everyone who participates. Parents,
+  young inventors, anyone who takes part will be asked to answer a few basic
+  questions when they arrive. Questions about their level of interest in STEAM
+  activities. And, when they complete their project they will answer the same
+  questions. These findings will be compared to similar surveys we do in schools
+  that have T4T.org inspired project based learning. The combined data will be
+  available to schools, press and the educational community at large through
+  open source data banks and research servers.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/are-the-robbin-hoods-of-rubbish-arriving-in-your-neighborhood-park/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4439940265741-team91.jpg
 organization_name: T4T.org

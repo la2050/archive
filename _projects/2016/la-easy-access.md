@@ -11,23 +11,8 @@ project_summary: Open data-driven analysis of public transport accessibility in 
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8010774165741-team91.png
 project_video: 'https://player.vimeo.com/video/183623434?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  Expected impacts
-
-  The strategic goal of our work is to increase the flexibility, dynamism and
-  responsiveness of urban governance and planning, to enhance the efficiency of
-  investments, to unveil cities’ time resources and to improve the quality of
-  life through timely and adequate response to communities’ needs, values and
-  attitudes. The proposed project will strongly support the public transport
-  development in Los Angeles urban area and will transform the way people move
-  and feel in the city.
-project_proposal_help:
-  - 'Money '
-  - Advisors/board members
-  - Publicity/awareness
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   By using Habidatum Platform we help identify the priority public transport
   development areas. We highlight places where public transport is unavailable,
   and people have to wait or walk longer than in other locations.
@@ -37,27 +22,14 @@ project_description: >-
 
   Automated spatio-temporal analysis performed in our platform supports
   improvement of public transit’s reputation and quality of life in the city.
-project_impact: >-
-  ["Government responsiveness to residents’ needs","Travel time to work","Public
-  transit riders"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Government responsiveness to residents’ needs
   - Travel time to work
   - Public transit riders
-project_proposal_description: >-
-  By using Habidatum Platform we help identify the priority public transport
-  development areas. We highlight places where public transport is unavailable,
-  and people have to wait or walk longer than in other locations.
-
-  We also analyze where public transport is inefficient. In some cases, getting
-  somewhere by foot is faster than using public transport. 
-
-  Automated spatio-temporal analysis performed in our platform supports
-  improvement of public transit’s reputation and quality of life in the city.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Rationale
 
   LA is multifaceted megapolis which function like archipelago. To be a place to
@@ -125,6 +97,20 @@ project_proposal_best_place: >-
   The public transport application of the platform has been used in 5+ cities.
   Among them is the city of Pune, India, which serves to showcase the
   feasibility of the current proposal (see the video).
+Please explain how you will define and measure success for your project.​: >-
+  Expected impacts
+
+  The strategic goal of our work is to increase the flexibility, dynamism and
+  responsiveness of urban governance and planning, to enhance the efficiency of
+  investments, to unveil cities’ time resources and to improve the quality of
+  life through timely and adequate response to communities’ needs, values and
+  attitudes. The proposed project will strongly support the public transport
+  development in Los Angeles urban area and will transform the way people move
+  and feel in the city.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Advisors/board members
+  - Publicity/awareness
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/la-easy-access/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8010774165741-team91.png
 organization_name: Habidatum

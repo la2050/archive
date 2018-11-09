@@ -17,57 +17,23 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5620032535741-team91.jpg
 project_video: 'https://www.youtube.com/embed/Xt3t96JpHBc?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: Santa Monica College
-project_measure: >-
-  As a public media service, we measure success in expanding our audience by
-  tracking growth in listening loyalty and membership support. We evaluate the
-  impact of our programs through qualitative and quantitative metrics that
-  examine listenership/viewership data, community feedback, participation via
-  digital platforms, and attendance at live events. We measure our success in
-  advancing access to arts and culture through feedback from the artists,
-  storytellers, and public and private cultural institutions with whom we
-  partner. We measure our success in educating and engaging the public by
-  measuring the impact of our original journalism and special reporting
-  projects. We measure success in building and engaging communities through the
-  attendance and feedback received at our original live event programming. 
-  These metrics inform KCRW’s leadership of the public response to our work and
-  guide strategic decision-making and investment in new opportunities.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: Santa Monica College
+Please describe your project proposal.: >-
   In 2017, KCRW will open the KCRW Media Center—a 35,000-square-foot
   multipurpose facility that will be a vibrant, publicly-accessible performance
   and community gathering space for Southern California.  Already an influential
   source of news, music, and cultural discovery, we will expand our
   programming—on air, online and in person—to engage our devoted audiences here
   in Los Angeles and around the world.
-project_impact: >-
-  ["Social & emotional support","Cultural events","Public/open streets
-  gatherings","Public transit riders","Total number of local social media
-  friends and connections Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Public/open streets gatherings
   - Public transit riders
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  In 2017, KCRW will open the KCRW Media Center—a 35,000-square-foot
-  multipurpose facility that will be a vibrant, publicly-accessible performance
-  and community gathering space for Southern California.  Already an influential
-  source of news, music, and cultural discovery, we will expand our
-  programming—on air, online and in person—to engage our devoted audiences here
-  in Los Angeles and around the world.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   In 2017 KCRW will move into the state-of-the-art KCRW Media Center,
   custom-designed to allow us to expand our music and cultural programming,
   enhance our journalism, and build community among our devoted audiences in
@@ -113,6 +79,28 @@ project_proposal_best_place: >-
   Building the KCRW Media Center is only the beginning. KCRW will host free,
   public concerts, live talks, and cultural events in its new facility for all
   Angelenos to attend!
+Please explain how you will define and measure success for your project.​: >-
+  As a public media service, we measure success in expanding our audience by
+  tracking growth in listening loyalty and membership support. We evaluate the
+  impact of our programs through qualitative and quantitative metrics that
+  examine listenership/viewership data, community feedback, participation via
+  digital platforms, and attendance at live events. We measure our success in
+  advancing access to arts and culture through feedback from the artists,
+  storytellers, and public and private cultural institutions with whom we
+  partner. We measure our success in educating and engaging the public by
+  measuring the impact of our original journalism and special reporting
+  projects. We measure success in building and engaging communities through the
+  attendance and feedback received at our original live event programming. 
+  These metrics inform KCRW’s leadership of the public response to our work and
+  guide strategic decision-making and investment in new opportunities.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/help-build-the-kcrw-media-center-designed-for-you-to-connect-with-public-radio-in-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5620032535741-team91.jpg
 organization_name: KCRW

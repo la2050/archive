@@ -17,90 +17,26 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Housing Authority of the City of Los Angeles and Boys & Girls Clubs of the Los
   Angeles Harbor – POLA
-project_measure: >-
-  Objective: Train Rancho San Pedro staff 
-
-  •  Success: attendance of all staff at 32 hours of hands-on training (192
-  hours of contact time)
-
-  •  Success: final garden design produced by staff within one month
-
-
-  Objective: Establish 20,000 square feet of native plant landscape at Rancho
-  San Pedro
-
-  •  Success: installation of gardens by March 1
-
-  •  Success: 80% plant survival rate by end of grant period
-
-
-  Objective: Engage youth at Rancho San Pedro 
-
-  •  Success: attendance 8 youth at 63 hours of programming (504 hours of
-  contact time)
-
-  •  Success: attendance 12 youth and 16 adults at four field trips (448 hours
-  of contact time)
-
-  •  Success: identification of 45 different species in native plant gardens
-
-  •  Success: contribution of 45 species observations to iNaturalist.org 
-
-  •  Success: 40% improvement of knowledge of local ecology as demonstrated on
-  pre- and post-tests
-
-
-  Objective: Increase public housing residents’ awareness in native plant
-  landscapes
-
-  •  Success: distribution of 1,200 4” plants to public housing residents,
-  propagated by youth
-
-  •  Success: # followers of social media campaign 
-
-  •  Success: observation of increased outdoor leisure-time activity by
-  residents
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles
-  - 'Education/training '
-  - Technical infrastructure (computers
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   By bringing beautiful and sustainable native plant landscapes to Los Angeles
   public housing, Grow Local: Plant Native will engage residents and staff in
   making long-term decisions about the future of LA and their own lives. Public
   housing staff will design and install native plant gardens. Youth will be
   hired to learn about native plant horticulture and communications strategies
   in order to create a marketing campaign to shape their communities future.
-project_impact: >-
-  ["Waterways","Exposure to air toxins","Local water","Resilient
-  communities","Tree canopy cover","Walk/bike/transit score"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Waterways
   - Exposure to air toxins
   - Local water
   - Resilient communities
   - Tree canopy cover
   - Walk/bike/transit score
-project_proposal_description: >-
-  By bringing beautiful and sustainable native plant landscapes to Los Angeles
-  public housing, Grow Local: Plant Native will engage residents and staff in
-  making long-term decisions about the future of LA and their own lives. Public
-  housing staff will design and install native plant gardens. Youth will be
-  hired to learn about native plant horticulture and communications strategies
-  in order to create a marketing campaign to shape their communities future.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South Bay
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   It all starts with water. In this fifth year of drought, the urgent need to
   save water is on everyone’s mind. From local utilities to state government,
   from brown lawns to dry fountains, it’s impossible to escape signs of the
@@ -184,6 +120,59 @@ project_proposal_best_place: >-
   invite people to go outside or take a walk. In the face of climate change and
   an uncertain economic outlook, converting turf to resilient native plant
   landscapes will allow public housing resources to be used on other priorities.
+Please explain how you will define and measure success for your project.​: >-
+  Objective: Train Rancho San Pedro staff 
+
+  •  Success: attendance of all staff at 32 hours of hands-on training (192
+  hours of contact time)
+
+  •  Success: final garden design produced by staff within one month
+
+
+  Objective: Establish 20,000 square feet of native plant landscape at Rancho
+  San Pedro
+
+  •  Success: installation of gardens by March 1
+
+  •  Success: 80% plant survival rate by end of grant period
+
+
+  Objective: Engage youth at Rancho San Pedro 
+
+  •  Success: attendance 8 youth at 63 hours of programming (504 hours of
+  contact time)
+
+  •  Success: attendance 12 youth and 16 adults at four field trips (448 hours
+  of contact time)
+
+  •  Success: identification of 45 different species in native plant gardens
+
+  •  Success: contribution of 45 species observations to iNaturalist.org 
+
+  •  Success: 40% improvement of knowledge of local ecology as demonstrated on
+  pre- and post-tests
+
+
+  Objective: Increase public housing residents’ awareness in native plant
+  landscapes
+
+  •  Success: distribution of 1,200 4” plants to public housing residents,
+  propagated by youth
+
+  •  Success: # followers of social media campaign 
+
+  •  Success: observation of increased outdoor leisure-time activity by
+  residents
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - 'Education/training '
+  - Technical infrastructure (computers
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/grow-local-plant-native-youth-advocacy-for-sustainable-landscapes-at-la-public-housing/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
 organization_name: Theodore Payne Foundation for Wild Flower and Native Plants

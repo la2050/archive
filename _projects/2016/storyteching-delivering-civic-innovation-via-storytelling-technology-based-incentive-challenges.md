@@ -17,42 +17,12 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4852245265741-team91.png
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   1 - 5: The Cities of: Los Angeles West Hollywood, Santa Monica, & Long Beach,
   6 - LADWP, 7 - USC Institute for Creative Technologies, 8 - UpToGood, 9 -
   YouTube, 10 - WeWork, 11 - General Assembly, 12 - Howling Wolf Productions, 13
   - Propper Daley
-project_measure: >-
-  Having mastered & streamlined the process for facilitating skills-based
-  volunteer teams towards delivering high-quality, low-cost digital stories and
-  communication strategies in the social impact space, we have: (1) put over
-  3,500 hours of skills-based pro bono hours into equipping non-profits with
-  stories, marketing campaigns, & videos that push forward their civic missions
-  (2) delivered over $450,000 of pro bono value to non-profits, enabling them to
-  re-invest those dollars directly back into supporting their cause & (3)
-  mobilized over 300 creatives and industry thought leaders towards active
-  participation in initiatives through our Storytelling-themed ProduceAthon
-  events. 
-
-
-  Additional metrics of success are defined as follows:
-
-  (1) NPO Impact: Visibility & engagement resulting from digital content
-  distribution, # Volunteers resulting from digital content production &
-  distribution, $ raised from digital content usage & execution of communication
-  strategy
-
-  (2) Private / Public Sector Impact: total venture capital raised to bring
-  prototypes to market, # successful pilot programs launched, total jobs created
-  through launch of pilot programs, $ saved in delivering more effective &
-  efficient government solutions
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   ProduceAthon, in collaboration with the Cities of Los Angeles, West Hollywood,
   Long Beach, & Santa Monica will create a new program that catalyzes local
   talent – developers, designers, entrepreneurs, storytellers, and makers – to
@@ -60,13 +30,7 @@ project_description: >-
   city-identified challenge sets. We will match talent teams with subject matter
   experts, business accelerators, & investors to ensure their concepts are
   scalable, sustainable, & deliver measurable impact
-project_impact: >-
-  ["Arts establishments","Manufacturing activity","Employment in the creative
-  industries","Gini coefficient","Jobs per capita","Measures of cultural and
-  global economic influence (“soft power”)","Minority- and women-owned
-  firms","High growth startups","Patents per capita","Venture capital
-  investment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Manufacturing activity
   - Employment in the creative industries
@@ -77,20 +41,12 @@ project_proposal_impact:
   - High growth startups
   - Patents per capita
   - Venture capital investment
-project_proposal_description: >-
-  ProduceAthon, in collaboration with the Cities of Los Angeles, West Hollywood,
-  Long Beach, & Santa Monica will create a new program that catalyzes local
-  talent – developers, designers, entrepreneurs, storytellers, and makers – to
-  build marketing solutions & innovative tech-based prototypes around
-  city-identified challenge sets. We will match talent teams with subject matter
-  experts, business accelerators, & investors to ensure their concepts are
-  scalable, sustainable, & deliver measurable impact
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Westside
   - South Bay
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   ProduceAthon will help make LA the best place to create by fostering civic
   innovation & entrepreneurship in our region. 
 
@@ -145,6 +101,35 @@ project_proposal_best_place: >-
   develop a more inclusive and creative local economy that unites the
   non-profit, private, & public sectors through intentional collaboration & help
   make LA the best place to CREATE.
+Please explain how you will define and measure success for your project.​: >-
+  Having mastered & streamlined the process for facilitating skills-based
+  volunteer teams towards delivering high-quality, low-cost digital stories and
+  communication strategies in the social impact space, we have: (1) put over
+  3,500 hours of skills-based pro bono hours into equipping non-profits with
+  stories, marketing campaigns, & videos that push forward their civic missions
+  (2) delivered over $450,000 of pro bono value to non-profits, enabling them to
+  re-invest those dollars directly back into supporting their cause & (3)
+  mobilized over 300 creatives and industry thought leaders towards active
+  participation in initiatives through our Storytelling-themed ProduceAthon
+  events. 
+
+
+  Additional metrics of success are defined as follows:
+
+  (1) NPO Impact: Visibility & engagement resulting from digital content
+  distribution, # Volunteers resulting from digital content production &
+  distribution, $ raised from digital content usage & execution of communication
+  strategy
+
+  (2) Private / Public Sector Impact: total venture capital raised to bring
+  prototypes to market, # successful pilot programs launched, total jobs created
+  through launch of pilot programs, $ saved in delivering more effective &
+  efficient government solutions
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/storyteching-delivering-civic-innovation-via-storytelling-technology-based-incentive-challenges/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4852245265741-team91.png
 organization_name: ProduceAthon

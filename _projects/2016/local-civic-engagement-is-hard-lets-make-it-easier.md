@@ -15,47 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0402902265741-team89.jpg
 project_video: 'https://www.youtube.com/embed/oaYNAjDLsxk?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  We will consider The Burg a success if we accomplish the following:
-
-
-  1. Expand the number of people who play an active part in their community and
-  local politics
-
-
-  2. Improve communication between residents as well as between community
-  leaders, elected officials, and civic organizations
-
-
-  3. Increase voter registration and turnout
-
-
-  As a nonpartisan platform, our goal is not to push a particular political
-  agenda. Rather, we aim to get as many people involved in their community as
-  possible and give them the tools to improve their city. Although it is
-  difficult to measure civic engagement on the local level, there are a number
-  of reliable indicators we will consult, such as voter turnout, the instances
-  of locally driven campaigns and petitions, and the prevalence of community
-  oriented discussions around public issues. These metrics, along with direct
-  feedback from elected officials, organizations, and community leaders will
-  give us a measure of the success of The Burg.   Furthermore, by requiring
-  users to register to vote or verify their status to access The Burg, we aim to
-  directly increase voter registration.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   The Burg is an online platform that will make it easy for individuals to
   address the local issues of their community in real time. The Burg will
   connect members of a district and allow them to communicate directly through
@@ -63,29 +24,16 @@ project_description: >-
   creating a private space dedicated to informing and organizing members of a
   community, the Burg will connect LA residents and cultivate civic engagement
   in a truly innovative way.
-project_impact: >-
-  ["Public/open streets gatherings","Government responsiveness to residents’
-  needs","Participation in neighborhood councils","Rates of volunteerism","Total
-  number of local social media friends and connections Angelenos have","Voting
-  rates"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Public/open streets gatherings
   - Government responsiveness to residents’ needs
   - Participation in neighborhood councils
   - Rates of volunteerism
   - Total number of local social media friends and connections Angelenos have
   - Voting rates
-project_proposal_description: >-
-  The Burg is an online platform that will make it easy for individuals to
-  address the local issues of their community in real time. The Burg will
-  connect members of a district and allow them to communicate directly through
-  collective expression (i.e. petitions, campaigns, public service projects). By
-  creating a private space dedicated to informing and organizing members of a
-  community, the Burg will connect LA residents and cultivate civic engagement
-  in a truly innovative way.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   We built the Burg in response to the lack of local civic engagement and
   community involvement we noticed in our city.  After meeting with dozens of
   local organizations, neighborhood councils, and community leaders, we realized
@@ -136,6 +84,44 @@ project_proposal_best_place: >-
   unlock some of that potential. We believe through the use of technology, we
   can make LA the best place to connect by lowering some of the barriers that
   inhibit civic engagement.
+Please explain how you will define and measure success for your project.​: >-
+  We will consider The Burg a success if we accomplish the following:
+
+
+  1. Expand the number of people who play an active part in their community and
+  local politics
+
+
+  2. Improve communication between residents as well as between community
+  leaders, elected officials, and civic organizations
+
+
+  3. Increase voter registration and turnout
+
+
+  As a nonpartisan platform, our goal is not to push a particular political
+  agenda. Rather, we aim to get as many people involved in their community as
+  possible and give them the tools to improve their city. Although it is
+  difficult to measure civic engagement on the local level, there are a number
+  of reliable indicators we will consult, such as voter turnout, the instances
+  of locally driven campaigns and petitions, and the prevalence of community
+  oriented discussions around public issues. These metrics, along with direct
+  feedback from elected officials, organizations, and community leaders will
+  give us a measure of the success of The Burg.   Furthermore, by requiring
+  users to register to vote or verify their status to access The Burg, we aim to
+  directly increase voter registration.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/local-civic-engagement-is-hard-lets-make-it-easier/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0402902265741-team89.jpg
 organization_name: The Burg

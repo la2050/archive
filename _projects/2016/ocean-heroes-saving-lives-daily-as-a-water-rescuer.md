@@ -15,34 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852179754741-team91.jpg
 project_video: 'https://www.youtube.com/embed/3HIz022aUd4?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  Our work will be evaluated based on the success of the participants. RAP
-  Aquatic instructors create a curriculum prior to the beginning of the program
-  based on the United States Lifesaving Association, which is the governing body
-  for all open water programs/agencies. RAP's program is divided into four age
-  groups:  9-11/12-13/14-15/16-17.  Staff set the same goals for all the
-  different age groups. For instance, during the first year, the goals set for
-  the younger group is to ensure water confidence in the surf and open water
-  environment. By the end of the summer, all junior guards are to be confident
-  in the following: Open water swim in ocean/lakes, Long distance swim and run,
-  Run/swim/run time trials, Basic CPR-First Aid-swim rescues, and
-  Competitiveness at meets with other open water agencies. Although each of our
-  participants attend the California Surf Lifesaving Association regional event
-  at the end of the summer, RAP identifies the strongest youth from our program
-  to compete with over 40 Junior Lifeguard Agencies. The top five winners of
-  each event move on to represent California and their respective agency at the
-  United States Lifesaving Association - National Lifeguard competition. RAP has
-  success stories of our participants winning Nationals. On the heels of these
-  success stories, one of the outcomes of our Program besides life skills and
-  conditioning is to also be a feeder into RAP's Lifeguard program. Many
-  generations of our lifeguards began as Junior Lifeguards.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - Community outreach
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Geared for youth ages 9-17, the Open Water Junior Lifeguard Program operates
   during the summer at two open water locations within the City. Taught by
   certified lifeguards, our Program is competitive and rigorous providing
@@ -50,30 +24,17 @@ project_description: >-
   professional lifesaving equipment. Our Program is designed to educate and
   impassion youth to appreciate and respect the marine environment and introduce
   youth to a potential career choice in water safety.
-project_impact: >-
-  ["Access to open space and park facilities","Attendance at major league
-  sporting events","Number (and quality) of informal spaces for play","Number of
-  parks with intergenerational play opportunities","Number of residents with
-  easy access to a “vibrant” park","Perceived safety"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to open space and park facilities
   - Attendance at major league sporting events
   - Number (and quality) of informal spaces for play
   - Number of parks with intergenerational play opportunities
   - Number of residents with easy access to a “vibrant” park
   - Perceived safety
-project_proposal_description: >-
-  Geared for youth ages 9-17, the Open Water Junior Lifeguard Program operates
-  during the summer at two open water locations within the City. Taught by
-  certified lifeguards, our Program is competitive and rigorous providing
-  instruction in physical conditioning, competition skills and the use of
-  professional lifesaving equipment. Our Program is designed to educate and
-  impassion youth to appreciate and respect the marine environment and introduce
-  youth to a potential career choice in water safety.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - San Fernando Valley
   - South Bay
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Southern California has a reputation for offering easy beach getaways all
   summer long.  In fact, thousands of youth within Los Angeles never see the
   beach at all, and a few who are lucky enough to make a trip may actually be
@@ -114,6 +75,31 @@ project_proposal_best_place: >-
   any beach or body of water safer for all in Los Angeles just by their
   presence. The Open Water Junior Lifeguard Program makes LA the best place to
   Play.
+Please explain how you will define and measure success for your project.​: >-
+  Our work will be evaluated based on the success of the participants. RAP
+  Aquatic instructors create a curriculum prior to the beginning of the program
+  based on the United States Lifesaving Association, which is the governing body
+  for all open water programs/agencies. RAP's program is divided into four age
+  groups:  9-11/12-13/14-15/16-17.  Staff set the same goals for all the
+  different age groups. For instance, during the first year, the goals set for
+  the younger group is to ensure water confidence in the surf and open water
+  environment. By the end of the summer, all junior guards are to be confident
+  in the following: Open water swim in ocean/lakes, Long distance swim and run,
+  Run/swim/run time trials, Basic CPR-First Aid-swim rescues, and
+  Competitiveness at meets with other open water agencies. Although each of our
+  participants attend the California Surf Lifesaving Association regional event
+  at the end of the summer, RAP identifies the strongest youth from our program
+  to compete with over 40 Junior Lifeguard Agencies. The top five winners of
+  each event move on to represent California and their respective agency at the
+  United States Lifesaving Association - National Lifeguard competition. RAP has
+  success stories of our participants winning Nationals. On the heels of these
+  success stories, one of the outcomes of our Program besides life skills and
+  conditioning is to also be a feeder into RAP's Lifeguard program. Many
+  generations of our lifeguards began as Junior Lifeguards.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/ocean-heroes-saving-lives-daily-as-a-water-rescuer/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852179754741-team91.jpg
 organization_name: City of Los Angeles Department of Recreation and Parks

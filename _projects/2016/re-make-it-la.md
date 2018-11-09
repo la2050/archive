@@ -13,80 +13,31 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8716427165741-team91.png
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   We are teaming up with Crowdfund Better (crowdfundbetter.com) on this
   proposal.  Founded in 2012 by Kathleen Minogue, Crowdfund Better provides
   crowdfunding strategy and education to entrepreneurs, creatives, nonprofits,
   and small businesses.
-project_measure: >-
-  It is our expectation that only 2-3 businesses will be viable candidates for
-  successful crowdfunding campaigns, but all 10 businesses will reimagine their
-  businesses through participation in our program.
-
-
-  They will receive guidance on how to better identify their target customer,
-  how to locate their target customer online, and how to engage with existing
-  and potential customers via digital communications including email, social
-  media and advertising. 
-
-
-  We will use crowdfunding frameworks to help businesses use these new
-  communications channels with the crowd to build brand awareness, develop new
-  products, conduct market research, generate customer feedback, and increase
-  sales. Large established companies use a similar model called “enterprise
-  crowdfunding” (i.e. Indiegogo Enterprise Crowdfunding division), but until now
-  this framework has not been available to smaller established companies. 
-
-
-  Baseline data on existing marketing assets will be collected during the
-  initial business assessment. Data will be tracked and measured over the life
-  of the project.
-
-
-
-  We will explore the impact the marketing data and direct communications with
-  their target customers has on a business’s ability to reinvent via an ability
-  to customize their products through user feedback, as well as what impact the
-  growth of their marketing footprint may have on sales.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   Our proposal will identify 10 manufacturing companies in Los Angeles County
   that are ‘at risk’ for relocation. We seek to ‘re-tool’ these companies
   through new digital communications, enterprise crowdfunding, and/or management
   capacity so they can better understand their marketplace, increase sales and
   re-position the company to avert relocation and loss of manufacturing jobs in
   LA County.
-project_impact: >-
-  ["Manufacturing activity","Employment in the creative industries","Jobs per
-  capita","Minority- and women-owned firms","Venture capital investment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Manufacturing activity
   - Employment in the creative industries
   - Jobs per capita
   - Minority- and women-owned firms
   - Venture capital investment
-project_proposal_description: >-
-  Our proposal will identify 10 manufacturing companies in Los Angeles County
-  that are ‘at risk’ for relocation. We seek to ‘re-tool’ these companies
-  through new digital communications, enterprise crowdfunding, and/or management
-  capacity so they can better understand their marketplace, increase sales and
-  re-position the company to avert relocation and loss of manufacturing jobs in
-  LA County.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Fernando Valley
   - South LA
   - Gateway Cities
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Manufacturing Activity: LA County has hemorrhaged manufacturing jobs in the
   last decade, losing 20% of these jobs. 
 
@@ -156,6 +107,44 @@ project_proposal_best_place: >-
   crowdfunding success and an ability for a business to obtain outside
   financing. Crowdfunding success also “increases the probability of business
   partnerships and stronger customer base.
+Please explain how you will define and measure success for your project.​: >-
+  It is our expectation that only 2-3 businesses will be viable candidates for
+  successful crowdfunding campaigns, but all 10 businesses will reimagine their
+  businesses through participation in our program.
+
+
+  They will receive guidance on how to better identify their target customer,
+  how to locate their target customer online, and how to engage with existing
+  and potential customers via digital communications including email, social
+  media and advertising. 
+
+
+  We will use crowdfunding frameworks to help businesses use these new
+  communications channels with the crowd to build brand awareness, develop new
+  products, conduct market research, generate customer feedback, and increase
+  sales. Large established companies use a similar model called “enterprise
+  crowdfunding” (i.e. Indiegogo Enterprise Crowdfunding division), but until now
+  this framework has not been available to smaller established companies. 
+
+
+  Baseline data on existing marketing assets will be collected during the
+  initial business assessment. Data will be tracked and measured over the life
+  of the project.
+
+
+
+  We will explore the impact the marketing data and direct communications with
+  their target customers has on a business’s ability to reinvent via an ability
+  to customize their products through user feedback, as well as what impact the
+  growth of their marketing footprint may have on sales.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/re-make-it-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8716427165741-team91.png
 organization_name: Concerned Capital/Crowdfund Better

@@ -15,62 +15,33 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5085632065741-team91.jpg
 project_video: 'https://youtu.be/4ciuYTMpjdE?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Elysian Heights Elementary, Hillery T. Broadous Elementary, San Pascual Avenue
   Elementary School, Bancroft Middle School, Luther Burbank Middle School,
   Castelar ES, Young Oak Kim Academy, Eastman Avenue, Hooper Avenue ES, STEAM
   High School, Pinewood Elementary, Monterey High School, Newcastle Elementary,
   Vernon City School, Griffith Middle School, Stephen M. White Middle School,
   Newmark High School, Sharp Elementary, Atwater Avenue ES, Bertrand Elementary
-project_measure: >-
-  The teachers and students who work in the our STEAM Labs will evaluate the
-  process and outcomes through feedback forms. This will be done through
-  pre-then-post surveys (designed with the assistance of LAUSD Science
-  educators)will be completed by the teachers, parents and participating young
-  inventors. We will measure attitudes toward learning the STEAM disciplines
-  prior to engaging in our STEAM Labs and again at the end of the year with
-  access to the STEAM Lab.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Quality improvement research
-project_description: >-
+Please describe your project proposal.: >-
   We inspire creative and critical thinking by allowing the students to create
   working head-sets, model homes with complex circuitry, robots, simple engines
   and more - out of clean, colorful items captured from manufacturers waste
   streams (that’s where the Rubbish comes in). Using this material rather than
   allowing it to head to landfill will also advance the notion of environmental
   stewardship in a generation of Los Angeles’ children.
-project_impact: >-
-  ["College matriculation rates","District-wide graduation rates","Proficiency
-  in English and Language Arts and Math","Student education pipeline"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College matriculation rates
   - District-wide graduation rates
   - Proficiency in English and Language Arts and Math
   - Student education pipeline
-project_proposal_description: >-
-  We inspire creative and critical thinking by allowing the students to create
-  working head-sets, model homes with complex circuitry, robots, simple engines
-  and more - out of clean, colorful items captured from manufacturers waste
-  streams (that’s where the Rubbish comes in). Using this material rather than
-  allowing it to head to landfill will also advance the notion of environmental
-  stewardship in a generation of Los Angeles’ children.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   We inspire creative and critical thinking by allowing the students to create
   working head-sets, model homes with complex circuitry, robots, simple engines
   and more - out of clean, colorful items captured from manufacturers waste
@@ -94,6 +65,24 @@ project_proposal_best_place: >-
   LAUSD has among the highest concentration of low-income students in the state,
   with more than 80% living at or below the poverty line. We want to teach these
   students to invent out of clean, rescued, rubbish.
+Please explain how you will define and measure success for your project.​: >-
+  The teachers and students who work in the our STEAM Labs will evaluate the
+  process and outcomes through feedback forms. This will be done through
+  pre-then-post surveys (designed with the assistance of LAUSD Science
+  educators)will be completed by the teachers, parents and participating young
+  inventors. We will measure attitudes toward learning the STEAM disciplines
+  prior to engaging in our STEAM Labs and again at the end of the year with
+  access to the STEAM Lab.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/the-robin-hoods-of-rubbish-are-building-steam-labs/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5085632065741-team91.jpg
 organization_name: T4T.org

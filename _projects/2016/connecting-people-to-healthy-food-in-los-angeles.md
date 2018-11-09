@@ -15,29 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4873052265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/31P5WKMZjqg?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Our definition of success is primarily founded in the success of our cause. We
-  hope to reach at least 50,000 residents through marketing and to get testing
-  feedback from at least 10,000 LA residents to better understand the landscape.
-  In addition to this, we would define success by partnering in 2 local advocacy
-  efforts (with at least 1 policymaker) to further reduce the effects of
-  food-deserts by the end of 2017. A few other metrics of success include:
-  incorporation, earning 501(c)(3) status, and recruiting a pro-bono staff
-  accountant to oversee the financial aspects of our project.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles
-  - Technical infrastructure (computers
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Now that Food Oasis LA has created a minimum viable product, we desire to get
   this into the hands of Los Angeles residents from all walks of life. Being an
   entirely volunteer-run and non-profit organization, we are understandably
@@ -45,26 +24,15 @@ project_description: >-
   real-world usability testing, marketing and promoting our product to the Los
   Angeles landscape, and ultimately improving our product's UI/UX and back-end
   to maximize our effectiveness in LA.
-project_impact: >-
-  ["Access to healthy food","Self-sufficiency","Obesity","Resilient
-  communities","Walk/bike/transit score"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to healthy food
   - Self-sufficiency
   - Obesity
   - Resilient communities
   - Walk/bike/transit score
-project_proposal_description: >-
-  Now that Food Oasis LA has created a minimum viable product, we desire to get
-  this into the hands of Los Angeles residents from all walks of life. Being an
-  entirely volunteer-run and non-profit organization, we are understandably
-  seeking funding in order to assist with our goals. These goals involve heavy
-  real-world usability testing, marketing and promoting our product to the Los
-  Angeles landscape, and ultimately improving our product's UI/UX and back-end
-  to maximize our effectiveness in LA.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   By performing usability research and testing to improve our product offering,
   we will be conducting research within the city/county and engaging residents
   and stakeholders at the same time. This will also give us a great amount of
@@ -82,6 +50,26 @@ project_proposal_best_place: >-
   rentals to further promote our desire to develop a solution to this
   food-desert obstacle. This spending would also give us the opportunity to
   advocate with policymakers and leaders in the community.
+Please explain how you will define and measure success for your project.​: >-
+  Our definition of success is primarily founded in the success of our cause. We
+  hope to reach at least 50,000 residents through marketing and to get testing
+  feedback from at least 10,000 LA residents to better understand the landscape.
+  In addition to this, we would define success by partnering in 2 local advocacy
+  efforts (with at least 1 policymaker) to further reduce the effects of
+  food-deserts by the end of 2017. A few other metrics of success include:
+  incorporation, earning 501(c)(3) status, and recruiting a pro-bono staff
+  accountant to oversee the financial aspects of our project.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - Technical infrastructure (computers
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/connecting-people-to-healthy-food-in-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4873052265741-team91.jpg
 organization_name: Food Oasis Los Angeles

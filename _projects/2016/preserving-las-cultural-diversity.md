@@ -14,44 +14,11 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2540983165741-team91.png
 project_video: 'https://www.youtube.com/embed/xJxjON6kbbU?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Coalition for Responsible Community Development; Little Tokyo Service Center;
   East Los Angeles Community Corporation; LP Village 2020 Vision Initiative, LA
   Commons
-project_measure: >-
-  LA LISC is seeking to engage stakeholders in a coordinated effort to develop
-  cultural economic strategies. It is our hope to inspire the need for
-  neighborhood and historic preservation of culture in demanding economic
-  conditions. Success will be evaluated by the following metrics: 
-
-
-  • 10 participant communities/commercial districts and neighborhoods in the
-  Cultural Economic Development Summit (40-50 participants); 
-
-
-  • Four project partners implement an iconic cultural economic development idea
-  from among their strategy during the grant period; 
-
-
-  • Four project partners complete inventory of small businesses that contribute
-  to the cultural economy; 
-
-
-  • At least 20 businesses receive technical assistance to nurture their growth
-  and development; and 
-
-
-  • At least 4 businesses receive financial assistance.
-project_proposal_help:
-  - 'Money '
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   Over the last 10 years, LA neighborhoods have undergone unprecedented change.
   Expanding public transit options and the blossoming of dynamic art centers,
   have transformed neighborhoods that once had limited desirability into
@@ -59,28 +26,16 @@ project_description: >-
   diverse neighborhoods to negotiate the change process and develop a robust
   approach for leveraging culture as a tool for promoting sustainable
   neighborhood identities and economic development.
-project_impact: >-
-  ["Arts establishments","Employment in the creative industries","Measures of
-  cultural and global economic influence (“soft power”)","Minority- and
-  women-owned firms"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Employment in the creative industries
   - Measures of cultural and global economic influence (“soft power”)
   - Minority- and women-owned firms
-project_proposal_description: >-
-  Over the last 10 years, LA neighborhoods have undergone unprecedented change.
-  Expanding public transit options and the blossoming of dynamic art centers,
-  have transformed neighborhoods that once had limited desirability into
-  attractive places to live and work. LA LISC seeks to empower four culturally
-  diverse neighborhoods to negotiate the change process and develop a robust
-  approach for leveraging culture as a tool for promoting sustainable
-  neighborhood identities and economic development.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Preserving LA’s diverse commercial hubs will support cultural entrepreneurship
   and the creation of jobs to ensure a sustainable future for LA's creative
   communities.
@@ -133,6 +88,38 @@ project_proposal_best_place: >-
   (3) Support and grow entrepreneurial enterprises contributing to neighborhood
   cultural vibrancy. The goal will be to assist these businesses with access to
   capital, information, larger markets and technical assistance.
+Please explain how you will define and measure success for your project.​: >-
+  LA LISC is seeking to engage stakeholders in a coordinated effort to develop
+  cultural economic strategies. It is our hope to inspire the need for
+  neighborhood and historic preservation of culture in demanding economic
+  conditions. Success will be evaluated by the following metrics: 
+
+
+  • 10 participant communities/commercial districts and neighborhoods in the
+  Cultural Economic Development Summit (40-50 participants); 
+
+
+  • Four project partners implement an iconic cultural economic development idea
+  from among their strategy during the grant period; 
+
+
+  • Four project partners complete inventory of small businesses that contribute
+  to the cultural economy; 
+
+
+  • At least 20 businesses receive technical assistance to nurture their growth
+  and development; and 
+
+
+  • At least 4 businesses receive financial assistance.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/preserving-las-cultural-diversity/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2540983165741-team91.png
 organization_name: Los Angeles LISC

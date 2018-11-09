@@ -17,44 +17,10 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4396755265741-team90.JPG
 project_video: 'https://www.youtube.com/embed/zVjUr0gjKDE?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   We are collaborating with the Los Angeles Unified School District and Loyola
   Marymount University schools of Education and Engineering.
-project_measure: >-
-  Several times a month the Principal will facilitate data chats with teachers
-  to open dialogue, reflection and planning based on student achievement data. 
-  In order to support this process, the school will systematically collect and
-  analyze student data on key demographic, behavioral and proficiency
-  indicators.  We will collect data through the implementation of a robust set
-  of diagnostic and benchmark assessments that compliment the state standardized
-  test data (SBAC, CELDT, etc.) and provide continuous information about student
-  progress towards standards.  We will use a variety of assessment tools to
-  allow us to measure the depth of learning and competencies.  We will consider
-  what defines the growth of a student's learning, and ensure that data
-  collection remains an ongoing process throughout the academic year, using both
-  qualitative and quantitative measures.  Systems to measure the growth of our
-  scholars will include:  Mastery Based Digital Portfolios with goal setting at
-  the outset, clear learning outcomes and evidence that demonstrates the mastery
-  of content, Presentations of Learning - individual service based project
-  connected to an internship and a student researched community identified
-  problem, Exhibitions - Gold Standard PBL projects culminating each quarter
-  that allows students to demonstrate their depth of knowledge, critical
-  thinking and problem-solving skills and ability to collaborate with peers on
-  real-world issues and Curriculum based formative assessments.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Please describe your project proposal.: >-
   As many of our children are about to graduate eighth grade, they will once
   again be faced with the challenge of no inclusive school options.  WISH
   Academy is designed to build on the unique and successful model of WISH
@@ -62,18 +28,9 @@ project_description: >-
   curriculum for ALL students - inclusive populations of students including
   those with mild, moderate and severe disabilities, as well as students who are
   designated as being high achieving and highly gifted.
-project_impact: '["Student education pipeline"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Student education pipeline
-project_proposal_description: >-
-  As many of our children are about to graduate eighth grade, they will once
-  again be faced with the challenge of no inclusive school options.  WISH
-  Academy is designed to build on the unique and successful model of WISH
-  Charter elementary and middle school, offering a rigorous, meaningful
-  curriculum for ALL students - inclusive populations of students including
-  those with mild, moderate and severe disabilities, as well as students who are
-  designated as being high achieving and highly gifted.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -86,7 +43,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   WISH Academy will serve as a small, high-performing 9th-12th grade school that
   will model best practices for inclusive education, university partnerships and
   a constructivist, interdisciplinary approach to instruction that leverages
@@ -117,6 +74,39 @@ project_proposal_best_place: >-
   increase due to the proliferation of new families moving to the area employed
   by the Silicon Beach corporations in Playa Vista.  More importantly, there are
   no inclusive high school education options. Period.
+Please explain how you will define and measure success for your project.​: >-
+  Several times a month the Principal will facilitate data chats with teachers
+  to open dialogue, reflection and planning based on student achievement data. 
+  In order to support this process, the school will systematically collect and
+  analyze student data on key demographic, behavioral and proficiency
+  indicators.  We will collect data through the implementation of a robust set
+  of diagnostic and benchmark assessments that compliment the state standardized
+  test data (SBAC, CELDT, etc.) and provide continuous information about student
+  progress towards standards.  We will use a variety of assessment tools to
+  allow us to measure the depth of learning and competencies.  We will consider
+  what defines the growth of a student's learning, and ensure that data
+  collection remains an ongoing process throughout the academic year, using both
+  qualitative and quantitative measures.  Systems to measure the growth of our
+  scholars will include:  Mastery Based Digital Portfolios with goal setting at
+  the outset, clear learning outcomes and evidence that demonstrates the mastery
+  of content, Presentations of Learning - individual service based project
+  connected to an internship and a student researched community identified
+  problem, Exhibitions - Gold Standard PBL projects culminating each quarter
+  that allows students to demonstrate their depth of knowledge, critical
+  thinking and problem-solving skills and ability to collaborate with peers on
+  real-world issues and Curriculum based formative assessments.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/wish-academy-the-first-high-school-in-the-los-angeles-area-to-provide-inclusive-education/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4396755265741-team90.JPG
 organization_name: WISH Academy High School

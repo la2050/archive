@@ -15,24 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9940469155741-team90.jpg
 project_video: 'https://www.youtube.com/embed/Rols-6I43HE?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  Jenesse collects qualitative and quantitative data on project implementation
-  and outcomes. Jenesse tracks the number of volunteers and project participants
-  on a monthly basis. Evaluation measurements include: interviews with
-  volunteers, staff, and participants, as well as pre-and post-surveys. Results
-  from the surveys are documented upon event completion. Jenesse staff compiles
-  the data for review by Jenesse's Board of Directors, supervisors and staff,
-  and to improve upcoming events.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - 'Education/training '
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Jenesse Center’s youth advocacy leadership and education program, Jeneration
   J, is a developing program to include young people in the campaign to prevent
   domestic violence and violent intimate partner relationships. Lined up with
@@ -40,25 +24,14 @@ project_description: >-
   with the knowledge, skills and awareness to navigate healthy relationship
   behaviors and actively stand against dating violence in their respective
   communities.
-project_impact: >-
-  ["Social & emotional support","Cultural events","Public/open streets
-  gatherings","Rates of volunteerism"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Public/open streets gatherings
   - Rates of volunteerism
-project_proposal_description: >-
-  Jenesse Center’s youth advocacy leadership and education program, Jeneration
-  J, is a developing program to include young people in the campaign to prevent
-  domestic violence and violent intimate partner relationships. Lined up with
-  fun-filled activities and events, Jeneration J seeks to equip young people
-  with the knowledge, skills and awareness to navigate healthy relationship
-  behaviors and actively stand against dating violence in their respective
-  communities.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Jeneration J will help make LA the best place to connect through its
   centralized support system that provides a comprehensive dating violence
   intervention and prevention resource center exclusively for young people. 
@@ -89,6 +62,21 @@ project_proposal_best_place: >-
   Jeneration J reflects an intervention and advocacy model that educates youth
   and young adults on healthy relationships and trains them to be the next
   generation of anti-violence advocates.
+Please explain how you will define and measure success for your project.​: >-
+  Jenesse collects qualitative and quantitative data on project implementation
+  and outcomes. Jenesse tracks the number of volunteers and project participants
+  on a monthly basis. Evaluation measurements include: interviews with
+  volunteers, staff, and participants, as well as pre-and post-surveys. Results
+  from the surveys are documented upon event completion. Jenesse staff compiles
+  the data for review by Jenesse's Board of Directors, supervisors and staff,
+  and to improve upcoming events.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - 'Education/training '
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/jeneration-j-a-new-generation-of-healthy-relationships/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9940469155741-team90.jpg
 organization_name: 'Jenesse Center, Inc.'

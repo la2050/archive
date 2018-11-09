@@ -17,26 +17,12 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0271131194741-team91.JPG
 project_video: 'https://www.youtube.com/embed/R1IuTSQQ9PY?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   The City of Hope, Methodist Hospital of Southern California, Torrance Memorial
   Medical Center, The University of Southern California, UCLA, Senior Concerns
   of the Conejo Valley, The American Red Cross, The Barbara Davis Center for
   Diabetes, The Race to Erase MS, Congress Medical, The Arcadia Fire Department
-project_measure: >-
-  The first measure of success is to complete the 13-episode series and
-  distribute it.  We hope to get a broadcast contract with PBS so that funding
-  is in place for the second group of episodes.  Our real success will be the
-  distribution into the county health departments of the greater Los Angeles
-  area so that it can be seen throughout the next year.  Feedback from patients,
-  doctors and organizations will help us to evaluate and expand our shows to fit
-  the needs of the community.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Infrastructure (building/space/vehicles
-project_description: >-
+Please describe your project proposal.: >-
   Doctors' Orders is an innovative video series that features physicians,
   patients and researchers educating on health conditions including obesity,
   heart disease and mental illness.  We have completed the first four half-hour
@@ -44,22 +30,11 @@ project_description: >-
   in Los Angeles so that while patients are in waiting rooms they can learn
   about the link between obesity and cancer, how to spot depression in a loved
   one, and what to do for a diabetic relative.
-project_impact: >-
-  ["Obesity","Residents receiving coordinated healthcare services","Mental
-  illness"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Obesity
   - Residents receiving coordinated healthcare services
   - Mental illness
-project_proposal_description: >-
-  Doctors' Orders is an innovative video series that features physicians,
-  patients and researchers educating on health conditions including obesity,
-  heart disease and mental illness.  We have completed the first four half-hour
-  episodes and will make the series available to the county health departments
-  in Los Angeles so that while patients are in waiting rooms they can learn
-  about the link between obesity and cancer, how to spot depression in a loved
-  one, and what to do for a diabetic relative.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -69,7 +44,7 @@ project_areas:
   - South Bay
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Doctors’ Orders has the ability to impact millions who LIVE in LA by
   encouraging and teaching them to live healthier lives.  
 
@@ -101,6 +76,19 @@ project_proposal_best_place: >-
   each field so that our citizens have the knowledge and the courage to be
   proactive about their health and less afraid.  Once the series is completed,
   we hope to get a spot on PBS to expand its reach and impact.
+Please explain how you will define and measure success for your project.​: >-
+  The first measure of success is to complete the 13-episode series and
+  distribute it.  We hope to get a broadcast contract with PBS so that funding
+  is in place for the second group of episodes.  Our real success will be the
+  distribution into the county health departments of the greater Los Angeles
+  area so that it can be seen throughout the next year.  Feedback from patients,
+  doctors and organizations will help us to evaluate and expand our shows to fit
+  the needs of the community.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Infrastructure (building/space/vehicles
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/were-creating-doctors-orders-a-video-series-to-help-la-become-proactive-about-health-and-wellness/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0271131194741-team91.JPG
 organization_name: Healthy Living Productions
