@@ -9,7 +9,6 @@ title: 'LA Riverworks: A Vision to Engage LA Communities in River Revitalization
 project_summary: "Plans to revitalize the LA River promise to deliver over 18,000 jobs, billions in private development, and tremendous environmental benefits. But a fundamental question remains: who will access these benefits?\r\n\r\nLA Riverworks wants to engage local residents to help existing neighborhoods thrive alongside a revitalized LA River. "
 project_image: 'https://img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/fMyc7c0Ylc4'
-project_areas: []
 'In one sentence, please describe what your organization does': >-
   SEACA connects youth with advocates to create policies for a more economically
   and environmentally sustainable LA; Public Counsel provides free legal

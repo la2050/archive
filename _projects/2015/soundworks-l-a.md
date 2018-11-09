@@ -15,9 +15,6 @@ project_summary: >-
   further their studies through our strategic partners in higher learning.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23245%252Fdisplay%252FSlide1.JPG=c570x385
-project_areas:
-  - South LA
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   We are proposing SoundWorks L.A., a workforce development program that will
   train youth for positions in sound and lighting.  In addition to helping youth

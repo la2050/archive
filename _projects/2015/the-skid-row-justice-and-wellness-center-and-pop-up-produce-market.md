@@ -16,9 +16,6 @@ project_summary: >-
   micro-enterprise center.
 project_image: 'https://img.youtube.com/vi/d7u6LPKVtv4/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/d7u6LPKVtv4'
-project_areas:
-  - Central LA
-  - South LA
 'In one to three sentences, please describe your proposal.': >-
   Located in the Skid Row community, but serving low-income communities of color
   across Downtown and South LA, the LA CAN Justice and Wellness Center will

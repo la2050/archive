@@ -15,11 +15,6 @@ project_summary: >-
   sexual assault, gang violence and bullying. 
 project_image: 'https://img.youtube.com/vi/2EuVrQnBaFE/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/2EuVrQnBaFE'
-project_areas:
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   The  Consolidated Youth Project (CYP)  was created to reduce the impact of
   violence on youth in South Los Angeles through the creation of a Coordinated

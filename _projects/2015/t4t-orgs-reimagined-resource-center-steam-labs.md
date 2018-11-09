@@ -16,8 +16,6 @@ project_summary: >-
   objects.
 project_image: 'https://img.youtube.com/vi/1GUzOIci_7Q/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/1GUzOIci_7Q'
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   We want to build STEAM Labs in 20 Title 1 Schools in Los Angeles. LAUSD has
   among the highest concentration of low-income students in the state, with more

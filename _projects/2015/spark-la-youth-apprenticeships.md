@@ -9,12 +9,6 @@ title: Spark LA Youth Apprenticeships
 project_summary: "What if everyday professionals could help improve LA’s dropout rate, right from their desks? By pairing students with mentors in exciting workplaces like Google and Hulu, Spark connects the dots between school and a future career. \r\n\r\n69% of LA students drop out in 9th grade, but if mentors can ignite a spark in them—in 7th and 8th grade—students would be motivated to stay in school. With less than 1% of the LA workforce serving as a mentor, Spark could reach every off-track 7th and 8th grader."
 project_image: 'https://img.youtube.com/vi/ueKmJQlz92o/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/ueKmJQlz92o'
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - Westside
-  - LAUSD
 'In one to three sentences, please describe your proposal.': "What if everyday professionals could help improve LA’s dropout rate, right from their desks? By pairing students with mentors in exciting workplaces like Google and Hulu, Spark connects the dots between school and a future career. \r\n\r\n69% of LA students drop out in 9th grade, but if mentors can ignite a spark in them—in 7th and 8th grade—students would be motivated to stay in school. With less than 1% of the LA workforce serving as a mentor, Spark could reach every off-track 7th and 8th grader."
 Where will you be working?:
   - Central LA

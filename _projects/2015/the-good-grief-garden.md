@@ -9,9 +9,6 @@ title: The Good Grief Garden
 project_summary: "We envision a pilot community garden whose central purpose is to do what food has done for millennia: To satisfy not just empty stomachs and our need for physical health, but our social and emotional needs and our hunger for community. \r\n\r\nThe garden will serve as a center of healing for those navigating grief, where individuals of all ages can get their hands dirty with others walking the same paths, discovering over shared meals and shared experience that they are not alone. \r\n"
 project_image: 'https://img.youtube.com/vi/YijVi1ZG5EM/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/YijVi1ZG5EM'
-project_areas:
-  - East LA
-  - South LA
 'In one to three sentences, please describe your proposal.': "We envision a pilot community garden whose central purpose is to do what food has done for millennia: To satisfy not just empty stomachs and our need for physical health, but our social and emotional needs and our hunger for community. \r\n\r\nThe garden will serve as a center of healing for those navigating grief, where individuals of all ages can get their hands dirty with others walking the same paths, discovering over shared meals and shared experience that they are not alone. \r\n"
 Where will you be working?:
   - East LA

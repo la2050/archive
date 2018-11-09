@@ -16,11 +16,6 @@ project_summary: >-
   act & create a more just community.
 project_image: 'https://img.youtube.com/vi/S4rpsBWmEw4/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/S4rpsBWmEw4'
-project_areas:
-  - East LA
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   It takes a village to nurture a child’s success. A thriving student is the
   result of more than a good school. It is also a thriving community with jobs,

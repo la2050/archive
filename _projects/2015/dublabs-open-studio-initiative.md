@@ -9,8 +9,6 @@ title: DUBLABs Open Studio Initiative
 project_summary: "DUBLAB proposes to relocate our studio to a storefront location along a busy thoroughfare, and reimagine our radio station’s role in engaging with the public.  By making our studio visible and our broadcast audible from the sidewalk, as well as providing seating and free wifi, we hope to give a community members a unique space to meet, connect and engage with the arts. \r\n"
 project_image: 'https://img.youtube.com/vi/xXMkk_S-UnU/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/xXMkk_S-UnU'
-project_areas:
-  - Central LA
 'In one sentence, please describe what your organization does': "DUBLAB is a non-profit internet radio station and community arts collective that has been broadcasting from Los Angeles, California since 1999.\r\n"
 'In one to three sentences, please describe your proposal.': "DUBLAB proposes to relocate our studio to a storefront location along a busy thoroughfare, and reimagine our radio station’s role in engaging with the public.  By making our studio visible and our broadcast audible from the sidewalk, as well as providing seating and free wifi, we hope to give a community members a unique space to meet, connect and engage with the arts. \r\n"
 Where will you be working?:

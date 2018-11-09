@@ -15,9 +15,6 @@ project_summary: >-
   opportunities for students to transition from college to the workforce. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23390%252Fdisplay%252Ffair.jpg=c570x385
-project_areas:
-  - San Gabriel Valley
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   This organization maps the transitional process of students’ from college to
   the workforce by considering factors of college preparation, volunteerism,

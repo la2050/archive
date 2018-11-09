@@ -9,10 +9,6 @@ title: Adventure Education Aboard L.A.s Official Tall Ships
 project_summary: "Since 1992, our at-sea programs have proven the effectiveness of adventure learning experiences for at-risk youth in Los Angeles, making a direct impact on educational, economic, and social outcomes for more than 60,000 young people. \r\n\r\nWith this grant, we will provide 40 at-sea programs for middle schools who cannot afford to pay and are already on our waiting list, and \"free\" community programs (Sail LA!) where Angelenos can sail with their families and become part of a real working crew."
 project_image: 'https://img.youtube.com/vi/m_0WUOFanyM/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/m_0WUOFanyM'
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': "Since 1992, our at-sea programs have proven the effectiveness of adventure learning experiences for at-risk youth in Los Angeles, making a direct impact on educational, economic, and social outcomes for more than 60,000 young people. \r\n\r\nWith this grant, we will provide 40 at-sea programs for middle schools who cannot afford to pay and are already on our waiting list, and \"free\" community programs (Sail LA!) where Angelenos can sail with their families and become part of a real working crew."
 Where will you be working?:
   - County of Los Angeles

@@ -16,13 +16,6 @@ project_summary: >-
   dedicated high school student advocates. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23806%252Fdisplay%252FUSE_THIS_ONE.jpg=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   Now more than ever, PPLA is working to empower students to advocate for their
   own health by giving them the knowledge and skills to make positive decisions

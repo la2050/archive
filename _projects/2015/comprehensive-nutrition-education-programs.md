@@ -15,8 +15,6 @@ project_summary: >-
   to healthy produce for 300 families living in South LA. 
 project_image: 'https://img.youtube.com/vi/7GOyC2VCNOk/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/7GOyC2VCNOk'
-project_areas:
-  - South LA
 'In one to three sentences, please describe your proposal.': >-
   Groceryships pilot programs achieved profound physical and emotional health
   results for the low-income families struggling with diabetes and obesity. Now,

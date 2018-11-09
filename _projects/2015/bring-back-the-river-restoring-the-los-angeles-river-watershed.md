@@ -9,8 +9,6 @@ title: 'Bring Back the River: Restoring the Los Angeles River Watershed'
 project_summary: "The Arroyo River Parks Program (ARPP) will build community support for re-imagining our watershed from a sterile concrete channel to a vibrant river ecosystem.\r\n\r\nThe ARPP program will educate citizens about the river revitalization planned by the Army Core of Engineers on the Arroyo Seco Stream in Los Angeles County.\r\n\r\nTo reach out to the community we want to establish a native plant nursery that will be the central location of our effort to reconnect the community to the LA River Watershed."
 project_image: 'https://img.youtube.com/vi/ffK1mzyzUPE/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/ffK1mzyzUPE'
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Our Foundation is committed to restoring the Arroyo Seco Stream to a living
   river that provides habitat for fish, wildlife, and conservation and provides

@@ -16,15 +16,6 @@ project_summary: >-
   beyond our current capacity and scope. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23670%252Fdisplay%252F2050pic.jpg=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - County of Los Angeles
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   The demand for our signature Survivor Retreat Program for survivors of
   domestic and sexual violence exceeds its availability and reach. In response,

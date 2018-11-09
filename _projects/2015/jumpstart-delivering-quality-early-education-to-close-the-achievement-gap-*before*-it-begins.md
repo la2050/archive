@@ -18,15 +18,6 @@ project_summary: >-
   academic outcomes of low-income children.
 project_image: 'https://img.youtube.com/vi/a-3Yo_Yz5Vc/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/a-3Yo_Yz5Vc'
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   Jumpstart recruits and trains college students and older adults (ages 55+) to
   implement a data-driven preschool curriculum in low-income communities,

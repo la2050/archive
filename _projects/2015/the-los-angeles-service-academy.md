@@ -16,17 +16,6 @@ project_summary: >-
   LA River, the harbor, law enforcement, food/housing, etc.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23401%252Fdisplay%252FLASA_LARiver2015.jpg=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': >-
   The Los Angeles Service Academy provides an intensive introduction to the
   infrastructure and institutions of greater Los Angeles for high school juniors

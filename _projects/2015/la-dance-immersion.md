@@ -16,8 +16,6 @@ project_summary: >-
   after the grant period is complete.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23865%252Fdisplay%252Fballerinas_image.jpg=c570x385
-project_areas:
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   LA Dance Immersion connects the arts, specifically dance, with communities
   through an intensive program that increases youth opportunity for fundamental

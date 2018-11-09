@@ -16,10 +16,6 @@ project_summary: >-
   reading books relevant to their students.
 project_image: 'https://img.youtube.com/vi/0EQnXawnCQk/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/0EQnXawnCQk'
-project_areas:
-  - Westside
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   The world looks toward Los Angeles as the mecca of creativity and imagination,
   making it the perfect anchor city to pilot LitRemix. We are proposing a

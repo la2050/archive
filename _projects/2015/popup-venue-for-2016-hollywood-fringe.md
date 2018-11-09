@@ -15,7 +15,6 @@ project_summary: >-
   additional theatrical spaces to grow in the community. 
 project_image: 'https://img.youtube.com/vi/jqxMSN_U1Pk/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/jqxMSN_U1Pk'
-project_areas: []
 'In one sentence, please describe what your organization does': >-
   The Hollywood Fringe Festival (HFF) is an annual, open-access,
   community-derived event celebrating freedom of expression and collaboration in

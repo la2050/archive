@@ -16,8 +16,6 @@ project_summary: >-
   capturing, treating polluted stormwater and trash. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23990%252Fdisplay%252FLA2050_EDP_Stormwater_Improvements_Final_2015-10-6-01.png=c570x385
-project_areas:
-  - San Fernando Valley
 'In one to three sentences, please describe your proposal.': >-
   El Dorado Park project will create a 1-acre innovative multiple-benefit park
   adjacent to Pacoima Wash in a disadvantaged community. The park will feature

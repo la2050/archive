@@ -16,15 +16,6 @@ project_summary: >-
   redefines the meaning of connection.
 project_image: 'https://img.youtube.com/vi/1oq_kmWPaYk/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/1oq_kmWPaYk'
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': >-
   CicLAvia catalyzes vibrant public spaces, active transportation and good
   health through car-free streets in Los Angeles County and engages people to

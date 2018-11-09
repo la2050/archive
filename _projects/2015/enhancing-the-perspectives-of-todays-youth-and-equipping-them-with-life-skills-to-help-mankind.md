@@ -11,10 +11,6 @@ title: >-
 project_summary: "o educate at risk youth about the risks and consequences of distracted and impaired driving.\r\n\r\nTo educate youth about high risk behavior and habits, and then provide beneficial instruction on how to make quality life choices in the alternate.\r\n\r\nTo educate youth about drugs, alcohol, bullying, aberrant sexual practices, and other harmful/anti-social behavior.\r\n\r\nTo educate youth about the inherent dignity and human rights of other races, ethnicities, and religions, around the world."
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23179%252Fdisplay%252FWeb_New_Com.jpg=c570x385
-project_areas:
-  - Westside
-  - County of Los Angeles
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': "o educate at risk youth about the risks and consequences of distracted and impaired driving.\r\n\r\nTo educate youth about high risk behavior and habits, and then provide beneficial instruction on how to make quality life choices in the alternate.\r\n\r\nTo educate youth about drugs, alcohol, bullying, aberrant sexual practices, and other harmful/anti-social behavior.\r\n\r\nTo educate youth about the inherent dignity and human rights of other races, ethnicities, and religions, around the world."
 Where will you be working?:
   - Westside

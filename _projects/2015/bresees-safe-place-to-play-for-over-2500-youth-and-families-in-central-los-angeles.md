@@ -17,8 +17,6 @@ project_summary: >-
   development experiences. 
 project_image: 'https://img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/yeyzmCpYfFk'
-project_areas:
-  - Central LA
 'In one to three sentences, please describe your proposal.': >-
   Bresee is seeking to transform its underutilized parking lot into a
   state-of-the-art multi-sport court and a hub for safe family-based community

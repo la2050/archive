@@ -11,12 +11,6 @@ project_summary: >-
   workspace, office space and a store front. 
 project_image: 'https://img.youtube.com/vi/0qhd1kRJ698/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/0qhd1kRJ698'
-project_areas:
-  - Central LA
-  - San Fernando Valley
-  - Westside
-  - County of Los Angeles
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   We help homeless (and extremely low-income) individuals start small
   businesses. 

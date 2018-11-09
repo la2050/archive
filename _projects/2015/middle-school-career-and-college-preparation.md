@@ -12,8 +12,6 @@ project_summary: >-
   2018-19 academic years. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23182%252Fdisplay%252FCCC_pic17_small.jpg=c570x385
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   We want to expand Career & College Clubs to 20 middle schools in LA County
   that qualify for Title I funding (FRPM% > 40%) for the 2016-17, 2017-18, and

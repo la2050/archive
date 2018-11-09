@@ -16,9 +16,6 @@ project_summary: >-
   with volunteer contributions.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23859%252Fdisplay%252FGood_Image_Change_the_World.jpg=c570x385
-project_areas:
-  - South LA
-  - South Bay
 'In one to three sentences, please describe your proposal.': >-
   For LA2050, ECS proposes change the way both students and teachers learn in LA
   by leveraging the reach of its award-winning service learning model in the

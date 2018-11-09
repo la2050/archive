@@ -16,7 +16,6 @@ project_summary: >-
   students from all over the world. 
 project_image: 'https://img.youtube.com/vi/XUlv1Zd4JZU/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/XUlv1Zd4JZU'
-project_areas: []
 'In one to three sentences, please describe your proposal.': >-
   The Career Services Center will provide students with the tools needed for
   success in college and the workforce by establishing a model career services

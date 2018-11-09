@@ -15,8 +15,6 @@ project_summary: >-
   participants are better able to connect to others in their community.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23929%252Fdisplay%252Flogo3.jpg=c570x385
-project_areas:
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   The Silverlake Independent Jewish Community Center (SIJCC) is a leading center
   for arts, culture and Jewish education on the east side of Los Angeles, and

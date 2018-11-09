@@ -18,8 +18,6 @@ project_summary: >-
   is a brilliant solution. 
 project_image: 'https://img.youtube.com/vi/fi31RJKyr4I/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/fi31RJKyr4I'
-project_areas:
-  - South LA
 'In one to three sentences, please describe your proposal.': >-
   SoLA  seeks to provide better access to natural, organic and non GMO foods in
   South LA in the form of a full service grocery cooperative. We envision our

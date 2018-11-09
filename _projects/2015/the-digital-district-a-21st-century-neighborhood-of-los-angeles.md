@@ -14,7 +14,6 @@ project_summary: >-
   initiatives. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23504%252Fdisplay%252FLA2050WIFIGRANTIMAGE.jpg=c570x385
-project_areas: []
 'In one sentence, please describe what your organization does': >-
   Impact Hub Los Angeles is a local incubator/community center part of a global
   network of 11,000 social entrepreneurs in 82 Impact Hubs spread across five

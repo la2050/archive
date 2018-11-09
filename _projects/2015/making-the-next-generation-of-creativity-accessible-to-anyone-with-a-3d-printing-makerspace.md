@@ -18,8 +18,6 @@ project_summary: >-
   investment, but can buy a printer if from our showrooom.
 project_image: 'https://img.youtube.com/vi/uVgrIU_Bl9g/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/uVgrIU_Bl9g'
-project_areas:
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   EEZITEC is an eCommerce platform & ecosystem where people can discover & learn
   about 3D printing, purchase 3D printers, 3D scanners, & 3D printed models.

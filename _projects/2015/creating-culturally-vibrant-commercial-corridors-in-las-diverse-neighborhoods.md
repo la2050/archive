@@ -16,10 +16,6 @@ project_summary: >-
   part of the local creative economy.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23259%252Fdisplay%252Fpicture_1.jpg=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
 'In one sentence, please describe what your organization does': >-
   LISC equips struggling communities with the capital, strategy and know-how to
   become places where people and businesses can thrive.

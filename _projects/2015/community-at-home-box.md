@@ -16,10 +16,6 @@ project_summary: >-
   networks, one household at a time.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23942%252Fdisplay%252FData_Roads_Foundation.png=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Data Roads Foundation expands access to interconnected networks (or Internets
   for short) by promoting community network ownership, free as in liberty

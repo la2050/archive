@@ -16,8 +16,6 @@ project_summary: >-
   identity throughout the world at large.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23596%252Fdisplay%252FSky_Pic.png=c570x385
-project_areas:
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Los Angeles Flag is a non-profit organization dedicated to uniting our city by
   establishing a strong civic identity and fostering a sense of civic pride

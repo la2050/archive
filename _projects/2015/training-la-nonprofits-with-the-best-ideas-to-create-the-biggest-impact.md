@@ -16,9 +16,6 @@ project_summary: >-
   LA the best place to create change.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23690%252Fdisplay%252FChange_Better_Profile.jpg=c570x385
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Change Better trains nonprofits in data, business, and collaboration
   strategies to turn big ideas into big impact.

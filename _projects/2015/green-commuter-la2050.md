@@ -16,17 +16,6 @@ project_summary: >-
   congestion, all while reducing commuting costs.
 project_image: 'https://img.youtube.com/vi/TjRq-S_gY9U/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/TjRq-S_gY9U'
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   With the goal of helping to alleviate traffic, mitigate air pollution, and
   reduce commuting costs, Green Commuter will utilize a fleet of electric

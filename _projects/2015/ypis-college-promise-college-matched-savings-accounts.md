@@ -16,9 +16,6 @@ project_summary: >-
   for L.A. now and in 2050.
 project_image: 'https://img.youtube.com/vi/8EU-FnJm4xE/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/8EU-FnJm4xE'
-project_areas:
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   YPI’s COLLEGE PROMISE helps low-income students prepare for and go to college
   through financial education and a unique 3:1 match that puts $981 into special

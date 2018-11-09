@@ -16,9 +16,6 @@ project_summary: >-
   speakers, and another for Spanish speakers.
 project_image: 'https://img.youtube.com/vi/gX3uzlinkXc/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/gX3uzlinkXc'
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Tia Chucha’s cultural center and bookstore supports and promotes the growth,
   healing and holistic learning of our community through the arts and literacy,

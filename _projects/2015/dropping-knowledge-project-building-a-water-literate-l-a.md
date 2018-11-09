@@ -9,14 +9,6 @@ title: Dropping Knowledge Project – Building a Water-Literate L.A.
 project_summary: "Heal the Bay wants a resilient, self-sustaining water future for the great people of Los Angeles!\r\n\r\nBuilding on the success of the organization’s high-impact outreach efforts, Heal the Bay’s Dropping Knowledge Project – Building a Water Literate L.A. – will bring meaningful, streamlined water-focused messages to the masses. \r\n"
 project_image: 'https://img.youtube.com/vi/SC6HYm8Zp7M/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/SC6HYm8Zp7M'
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - Westside
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': "Heal the Bay wants a resilient, self-sustaining water future for the great people of Los Angeles!\r\n\r\nBuilding on the success of the organization’s high-impact outreach efforts, Heal the Bay’s Dropping Knowledge Project – Building a Water Literate L.A. – will bring meaningful, streamlined water-focused messages to the masses. \r\n"
 Where will you be working?:
   - Central LA

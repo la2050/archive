@@ -16,8 +16,6 @@ project_summary: >-
   mental health and psychiatry services.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23741%252Fdisplay%252F2013_Pomona_0649.JPG=c570x385
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   To address the skyrocketing rates of incarceration for women who suffer from
   substance use disorders, LA County developed the Second Chance Women’s

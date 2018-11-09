@@ -18,9 +18,6 @@ project_summary: >-
   pathways of creating a biotech startup.
 project_image: 'https://img.youtube.com/vi/UNbHPa1n2g4/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/UNbHPa1n2g4'
-project_areas:
-  - East LA
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   LA Bioscience Hub (LABH) facilitates the creation of a thriving bioscience
   cluster that fosters innovation, nurtures local talent, and creates

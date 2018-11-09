@@ -16,12 +16,6 @@ project_summary: >-
   for an estimated 97,000 children in LA.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23553%252Fdisplay%252F97_000_Children.jpg=c570x385
-project_areas:
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   The “Caregiver and Me: Get Healthy with Sesame Street” pilot project is an
   innovative learning experience addressing the childhood obesity epidemic in

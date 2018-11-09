@@ -16,8 +16,6 @@ project_summary: >-
   serve as foster parents. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23745%252Fdisplay%252FUCLA_Connect.jpg=c570x385
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Social Welfare at UCLA Luskin School of Public Affairs identifies and develops
   emerging areas of research and teaching and cultivates leaders and change

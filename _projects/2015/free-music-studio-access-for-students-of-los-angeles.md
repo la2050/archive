@@ -15,8 +15,6 @@ project_summary: >-
   safe creative environment in which to practice music and let their ideas flow.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23180%252Fdisplay%252FESRLogo.jpg=c570x385
-project_areas:
-  - East LA
 'In one sentence, please describe what your organization does': "Our fully back lined studios will be available to students as an after school program so they can learn to play on professional equipment, hone their music skills, and experience the camaraderie and confidence that this environment will foster. \r\n"
 'In one to three sentences, please describe your proposal.': >-
   ESR wishes to play a part of Boyle Heights' musical history, and by opening

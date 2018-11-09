@@ -16,8 +16,6 @@ project_summary: >-
   Los Angeles.
 project_image: 'https://img.youtube.com/vi/4Kt14HIJyiU/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/4Kt14HIJyiU'
-project_areas:
-  - East LA
 'In one sentence, please describe what your organization does': >-
   Angel City Lumber intercepts felled city trees designated as “green waste”
   before they can be destroyed - mills and dries them into usable dimensions -

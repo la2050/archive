@@ -18,8 +18,6 @@ project_summary: >-
   educational advocacy/civic engagement. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24040%252Fdisplay%252Fconnect_SLATEZsigners.jpg=c570x385
-project_areas:
-  - South LA
 'In one sentence, please describe what your organization does': >-
   LATTC’s SLATE-Z is a partnership among community organizations, education
   institutions & government that centers on transit, education, enterprise, &

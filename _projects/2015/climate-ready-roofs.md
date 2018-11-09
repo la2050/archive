@@ -15,9 +15,6 @@ project_summary: >-
   program can become a model for the nation.
 project_image: 'https://img.youtube.com/vi/jRPfyjiCjwg/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/jRPfyjiCjwg'
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   California’s climate is changing and it’s vital that the people of Los Angeles
   are prepared. Three local organizations – Habitat for Humanity Greater Los

@@ -1642,40 +1642,44 @@ function processFile(filename) {
   // }
 
 
-  let projectAnswerMap2018 = {
-   'project_collaborators': "Are any other organizations collaborating on this proposal?",
-   'project_proposal_description': "Please describe the activation your organization seeks to launch.",
-   'category_metrics': "Which metrics will your activation impact?​",
-   'project_proposal_impact': "Which metrics will your activation impact?​",
-   'category_other': "Will your proposal impact any other LA2050 goal categories?",
-   'project_areas': "In what areas of Los Angeles will you be directly working?",
-   'project_proposal_mobilize': "How will your activation mobilize Angelenos?",
-   'project_proposal_best_place': "Describe in greater detail how your activation will make LA the best place?",
-   'project_proposal_engage': "How will your activation engage Angelenos to make LA the best place?",
-   'project_measure': "Please explain how you will define and measure success for your activation.​",
-   'project_five_years': "Where do you hope this activation or your organization will be in five years?",
-   'project_proposal_help': "How can the LA2050 community and other stakeholders help your proposal succeed?",
+
+  // let projectAnswerMap2018 = {
+  //  'project_collaborators': "Are any other organizations collaborating on this proposal?",
+  //  'project_proposal_description': "Please describe the activation your organization seeks to launch.",
+  //  'category_metrics': "Which metrics will your activation impact?​",
+  //  'project_proposal_impact': "Which metrics will your activation impact?​",
+  //  'category_other': "Will your proposal impact any other LA2050 goal categories?",
+  //  'project_areas': "In what areas of Los Angeles will you be directly working?",
+  //  'project_proposal_mobilize': "How will your activation mobilize Angelenos?",
+  //  'project_proposal_best_place': "Describe in greater detail how your activation will make LA the best place?",
+  //  'project_proposal_engage': "How will your activation engage Angelenos to make LA the best place?",
+  //  'project_measure': "Please explain how you will define and measure success for your activation.​",
+  //  'project_five_years': "Where do you hope this activation or your organization will be in five years?",
+  //  'project_proposal_help': "How can the LA2050 community and other stakeholders help your proposal succeed?",
+  // }
+
+  // if (data.yaml.year_submitted == 2018) {
+
+  //   if (data.yaml["project_is_collaboration"] == "No") {
+  //     data.yaml["project_collaborators"] = ""
+  //   }
+  //   delete data.yaml["project_is_collaboration"]
+  //   delete data.yaml.make_la_great
+  //   delete data.yaml.impact_metrics
+
+  //   for (let prop in projectAnswerMap2018) {
+  //     if (projectAnswerMap2018.hasOwnProperty(prop)) {
+  //       if (data.yaml[prop]) {
+  //         data.yaml[projectAnswerMap2018[prop]] = data.yaml[prop]
+  //         delete data.yaml[prop]
+  //       }
+  //     }
+  //   }
+  // }
+
+  if (data.yaml.year_submitted == 2015) {
+    delete data.yaml.project_areas
   }
-
-  if (data.yaml.year_submitted == 2018) {
-
-    if (data.yaml["project_is_collaboration"] == "No") {
-      data.yaml["project_collaborators"] = ""
-    }
-    delete data.yaml["project_is_collaboration"]
-    delete data.yaml.make_la_great
-    delete data.yaml.impact_metrics
-
-    for (let prop in projectAnswerMap2018) {
-      if (projectAnswerMap2018.hasOwnProperty(prop)) {
-        if (data.yaml[prop]) {
-          data.yaml[projectAnswerMap2018[prop]] = data.yaml[prop]
-          delete data.yaml[prop]
-        }
-      }
-    }
-  }
-
 
 
   saveMarkdown(filename, data)

@@ -16,8 +16,6 @@ project_summary: >-
   big difference.
 project_image: 'https://img.youtube.com/vi/nu53ttV7jQI/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/nu53ttV7jQI'
-project_areas:
-  - Westside
 'In one sentence, please describe what your organization does': >-
   Tiny Rebellion is a Santa Monica-based agency that exists to accelerate
   business as the most powerful force for positive change; we believe that

@@ -17,13 +17,6 @@ project_summary: >-
   children in Los Angeles area Title I schools. 
 project_image: 'https://img.youtube.com/vi/sKN2PQLjrps/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/sKN2PQLjrps'
-project_areas:
-  - San Gabriel Valley
-  - Westside
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   Reading Partners plans to expand our core program in LA County and deepen
   local impact on fourth grade literacy achievement. In 2015-16, we have already

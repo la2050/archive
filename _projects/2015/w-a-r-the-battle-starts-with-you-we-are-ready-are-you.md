@@ -16,13 +16,6 @@ project_summary: >-
   community members in the city of Los Angeles.
 project_image: 'https://img.youtube.com/vi/t3QQPi2pnEU/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/t3QQPi2pnEU'
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - County of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   After-School All-Stars, Los Angeles wants to support our youth as they move
   through the toughest transition, middle school to high school, and make

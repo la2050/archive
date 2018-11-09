@@ -15,14 +15,6 @@ project_summary: >-
   through a textbook.
 project_image: 'https://img.youtube.com/vi/5tvdNOJ7fCw/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/5tvdNOJ7fCw'
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   The CREATE Project is helping math teachers design lessons that are both
   intuitive and engaging for their students. Using a new app developed at CSUN,

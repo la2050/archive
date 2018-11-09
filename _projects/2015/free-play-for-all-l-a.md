@@ -16,18 +16,6 @@ project_summary: >-
   engage the greater community in hours of free play!
 project_image: 'https://img.youtube.com/vi/FAirDH4ROp0/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/FAirDH4ROp0'
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   We want to create a traveling play program in communities across L.A.
   utilizing parks, community centers and other public spaces to increase

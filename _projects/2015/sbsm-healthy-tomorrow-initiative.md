@@ -16,8 +16,6 @@ project_summary: >-
   perception of fitness and exercise at these high schools.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23214%252Fdisplay%252FIMG_0438.JPG=c570x385
-project_areas:
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   $100,000 will supply two LAUSD high schools with state-of-the-art fitness
   centers, the SBSM curriculum and professional development training for the

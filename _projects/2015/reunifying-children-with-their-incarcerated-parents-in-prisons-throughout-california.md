@@ -17,8 +17,6 @@ project_summary: >-
   of children and add a much-needed art therapy component.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23562%252Fdisplay%252FCRJW_Goodmaker.jpg=c570x385
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Get On The Bus, a program of the Center for Restorative Justice Works,
   reunifies children throughout the Greater Los Angeles area with their

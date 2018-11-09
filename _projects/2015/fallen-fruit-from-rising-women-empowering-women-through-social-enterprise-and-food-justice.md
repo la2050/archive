@@ -18,8 +18,6 @@ project_summary: >-
   offering economic opportunities for graduates.
 project_image: 'https://img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Ht0-3dSjCew'
-project_areas:
-  - San Gabriel Valley
 'In one to three sentences, please describe your proposal.': >-
   Picking local fruit that would otherwise go to waste, Crossroads residents and
   Claremont college students produce jams from seasonal fruit and use the

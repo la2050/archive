@@ -16,8 +16,6 @@ project_summary: >-
   action plans.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23820%252Fdisplay%252FTIER.jpg=c570x385
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   The TIER Project is designed to transform public school districts in Los
   Angeles County into trauma informed educational systems. Eighty school

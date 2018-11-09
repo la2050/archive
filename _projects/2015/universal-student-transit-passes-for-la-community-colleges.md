@@ -16,8 +16,6 @@ project_summary: >-
   ridership, and 5) make it easier to learn! 
 project_image: 'https://img.youtube.com/vi/uiAFCgZ6YRw/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/uiAFCgZ6YRw'
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   With the cost of education going up and the economic fortunes of families
   going down, students need a break. We’re working with LA Metro and community

@@ -16,14 +16,6 @@ project_summary: >-
   locally sourced food. 
 project_image: 'https://img.youtube.com/vi/USaJI1-Ab8E/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/USaJI1-Ab8E'
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   Tickleberry Place is looking for support with opening a healthy play space for
   kids and families of South LA that fosters creativity, encourages independent

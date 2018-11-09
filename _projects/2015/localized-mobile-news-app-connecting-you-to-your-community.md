@@ -14,8 +14,6 @@ project_summary: >-
   it's time to view the news like never before!
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23547%252Fdisplay%252FLeif_Community_Engagement_App.jpg=c570x385
-project_areas:
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Ruckus projects is a community of future makers coming together to launch
   projects that matter.

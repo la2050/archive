@@ -16,8 +16,6 @@ project_summary: >-
   benchmark ACT (Attitude, Commitment, Teamwork).
 project_image: 'https://img.youtube.com/vi/MIn1VBaIlrQ/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/MIn1VBaIlrQ'
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   CHIME levels the playing field by ensuring that students excel as productive
   world citizens through a futuristic oriented program characterized by dynamic

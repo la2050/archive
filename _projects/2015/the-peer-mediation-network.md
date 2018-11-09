@@ -16,9 +16,6 @@ project_summary: >-
   communication will be de rigueur for citizens of 2050.
 project_image: 'https://img.youtube.com/vi/69OXVYZ15kU/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/69OXVYZ15kU'
-project_areas:
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   Students will lead the conflict resolution revolution and be agents of
   peaceful change in LA and via the internet. Young people who have received

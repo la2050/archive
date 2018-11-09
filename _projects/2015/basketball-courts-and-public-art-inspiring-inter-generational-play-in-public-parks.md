@@ -18,8 +18,6 @@ project_summary: >-
   appropriate.  
 project_image: 'https://img.youtube.com/vi/phXK2cX3WEk/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/phXK2cX3WEk'
-project_areas:
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   Public park basketball courts are the “heart-beat” of many communities. 
   Leveraging the energy and creativity created by outdoor basketball, Project

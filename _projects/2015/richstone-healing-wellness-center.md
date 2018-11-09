@@ -16,8 +16,6 @@ project_summary: >-
   health, and productivity. 
 project_image: 'https://img.youtube.com/vi/gRaTc3pZvug/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/gRaTc3pZvug'
-project_areas:
-  - South Bay
 'In one to three sentences, please describe your proposal.': >-
   Richstone's Healing and Wellness Center will address the consequences of abuse
   and trauma through a broad range of services for families exposed to, or

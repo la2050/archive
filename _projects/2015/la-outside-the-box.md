@@ -13,17 +13,6 @@ project_summary: >-
   new public space! Pop-up plazas at 10 libraries.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23558%252Fdisplay%252FIMG_0112.JPG=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
-  - City of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': We create environments people enjoy
 'In one to three sentences, please describe your proposal.': >-
   Outside The Box creates temporary pop-up plazas at Los Angeles library parking

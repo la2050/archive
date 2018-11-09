@@ -16,8 +16,6 @@ project_summary: >-
   friends to take action and maximize your impact.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23638%252Fdisplay%252Fnew_site3.png=c570x385
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   In a divided, distracted, disconnected city, Climate Cents brings people
   together by showcasing local environmental initiatives, and making it easy to

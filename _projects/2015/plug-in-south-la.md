@@ -16,8 +16,6 @@ project_summary: >-
   the more our local community will th
 project_image: 'https://img.youtube.com/vi/qooMUYecd1s/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/qooMUYecd1s'
-project_areas:
-  - South LA
 'In one sentence, please describe what your organization does': >-
   Plug In South LA  will be opening a co-working space in South Los Angeles
   early 2016 and curates various programming series (Digital and Beyond in LA) 

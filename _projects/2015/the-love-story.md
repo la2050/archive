@@ -9,10 +9,6 @@ title: The Love Story
 project_summary: "The Love Story runs workshops on multimedia storytelling for those interested in applying the craft of narrative journalism, photojournalism, and documentary filmmaking to their personal stories and produce, in a documentary interview, stories of those who have already transformed their loss into creative expression.\r\n\r\nAs creatives, they will relate to themselves as courageous, compassionate, and powerful storytellers rather than people who need to be “helped” or “fixed.” \r\n"
 project_image: 'https://img.youtube.com/vi/2U1i7uKpy8Y/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/2U1i7uKpy8Y'
-project_areas:
-  - East LA
-  - Westside
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Through multimedia production and storytelling workshops, our organization
   connects people who are dealing with love loss with those who have been

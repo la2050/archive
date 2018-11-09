@@ -16,7 +16,6 @@ project_summary: >-
   change-makers: kids.
 project_image: 'https://img.youtube.com/vi/mvOTPkbwJJU/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/mvOTPkbwJJU'
-project_areas: []
 'In one to three sentences, please describe your proposal.': >-
   This transformative public education campaign will make California friendly
   plants hotter than pokemon circa 1995.  How?  We're going to take existing

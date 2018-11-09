@@ -16,13 +16,6 @@ project_summary: >-
   scholarship from us upon completing high school.
 project_image: 'https://img.youtube.com/vi/QV1lB2SqWos/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/QV1lB2SqWos'
-project_areas:
-  - East LA
-  - South LA
-  - Westside
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   Working in Boyle Heights, Watts, & Inglewood, IHADLA strives to break the
   cycle of poverty by sponsoring entire grade levels of 3rd graders from

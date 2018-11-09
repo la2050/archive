@@ -14,8 +14,6 @@ project_summary: >-
   surviving the first year in business.
 project_image: 'https://img.youtube.com/vi/ENJ15Tkyiqw/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/ENJ15Tkyiqw'
-project_areas:
-  - South LA
 'In one sentence, please describe what your organization does': >-
   Citizens Of Culture uses an experience design and “culture hacking” to
   educate, inspire, and motivate people to think critically and put their

@@ -15,13 +15,6 @@ project_summary: >-
   self and others, promotes empathy, understanding and cooperation. 
 project_image: 'https://img.youtube.com/vi/Nry74LO2c0I/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Nry74LO2c0I'
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
 'In one sentence, please describe what your organization does': >-
   Center for Council delivers council-based programs that foster collective
   wisdom, greater resilience and a deeper sense of community.

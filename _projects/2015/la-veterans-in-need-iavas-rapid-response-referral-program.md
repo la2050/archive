@@ -16,8 +16,6 @@ project_summary: >-
   its holistic, integrated partner services. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23674%252Fdisplay%252FImage.jpg=c570x385
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   This grant will support IAVA’s Rapid Response Referral Program (RRRP),
   providing LA’s more than 320,000 veterans and their families with support as

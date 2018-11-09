@@ -16,12 +16,6 @@ project_summary: >-
   support to treat the whole child and the entire family.
 project_image: 'https://img.youtube.com/vi/3AOHXhfJeho/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/3AOHXhfJeho'
-project_areas:
-  - Central LA
-  - South LA
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   The more Adverse Childhood Experiences (ACEs) to which a child is exposed,
   including: abuse, incarceration of parents, and exposure to family and

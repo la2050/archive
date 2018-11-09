@@ -18,16 +18,6 @@ project_summary: >-
   negotiate lower screening fees, cross promotion.
 project_image: 'https://img.youtube.com/vi/W6D_g6EB-QY/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/W6D_g6EB-QY'
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Generate dialogue, cultural exchange and revitalize public spaces through a
   mobile, curated documentary series, which travels directly into communities to

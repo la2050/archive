@@ -16,10 +16,6 @@ project_summary: >-
   developed into a public awareness campaign.
 project_image: 'https://img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/kQnTJYkpO4A'
-project_areas:
-  - Central LA
-  - San Gabriel Valley
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   The Healthy Streams for Angelenos project as an important first step to make
   important linkages between human health, resource management, and water

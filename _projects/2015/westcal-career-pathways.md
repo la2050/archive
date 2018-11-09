@@ -16,18 +16,6 @@ project_summary: >-
   in their field of major.
 project_image: 'https://img.youtube.com/vi/f_x1AGOuR7A/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/f_x1AGOuR7A'
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   WestCal Academy identifies student success in three ways: identifying a career
   pathway; completing high school, college, and/or vocational training; and

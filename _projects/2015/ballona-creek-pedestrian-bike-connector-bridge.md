@@ -16,8 +16,6 @@ project_summary: >-
   Bridges at Lincoln and Centinela.  
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23805%252Fdisplay%252FLA2050_Cover_image_flattened2.jpg=c570x385
-project_areas:
-  - Westside
 'In one sentence, please describe what your organization does': >-
   THarchitecture is a community minded Architecture firm seeking projects to
   provide a positive meaningful impact within our built environment in Los

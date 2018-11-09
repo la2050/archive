@@ -9,18 +9,6 @@ title: Learning Through Dual Language Immersion
 project_summary: "As Los Angeles has become increasingly more diverse, the Patrick Henry Foundation was established to obtain funds to increase dual immersion education throughout Los Angeles beginning at the elementary school level.\r\n\r\nPatrick Henry Foundation was established by parents of Patrick Henry Elementary, one of Long Beach's most established and well-recognized Spanish/English dual immersion education programs in order to raise funds to provide increased educational opportunities to students in LA.\r\n"
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23186%252Fdisplay%252Fd48c0ef901b441899955a9ebf656288f.jpg=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': "As Los Angeles has become increasingly more diverse, the Patrick Henry Foundation was established to obtain funds to increase dual immersion education throughout Los Angeles beginning at the elementary school level.\r\n\r\nPatrick Henry Foundation was established by parents of Patrick Henry Elementary, one of Long Beach's most established and well-recognized Spanish/English dual immersion education programs in order to raise funds to provide increased educational opportunities to students in LA.\r\n"
 Where will you be working?:
   - Central LA

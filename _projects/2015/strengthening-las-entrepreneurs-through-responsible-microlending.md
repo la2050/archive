@@ -15,8 +15,6 @@ project_summary: >-
   region’s most underserved communities.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24110%252Fdisplay%252Fsouthern_girl_desserts.jpg=c570x385
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Opportunity Fund helps close the opportunity gap for working families by
   offering affordable, responsible financial products that enable underserved

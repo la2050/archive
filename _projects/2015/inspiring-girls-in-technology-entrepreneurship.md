@@ -12,8 +12,6 @@ project_summary: >-
   professional mentorship. 
 project_image: 'https://img.youtube.com/vi/NTnzCDQ335U/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/NTnzCDQ335U'
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Inspire & educate girls and women to solve problems in their community using
   technology.

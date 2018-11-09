@@ -16,8 +16,6 @@ project_summary: >-
   an expectation for all students across LA.
 project_image: 'https://img.youtube.com/vi/vTrYQcYICQQ/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/vTrYQcYICQQ'
-project_areas:
-  - East LA
 'In one to three sentences, please describe your proposal.': >-
   A $100,000 LA2050 grant will provide college scholarship funds to up to 46
   i.am College Track Boyle Heights 12th graders graduating from Roosevelt High

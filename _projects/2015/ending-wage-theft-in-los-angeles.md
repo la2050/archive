@@ -16,8 +16,6 @@ project_summary: >-
   create quality employment.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23889%252Fdisplay%252F12000148473_482ef012b5_k.jpg=c570x385
-project_areas:
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   We seek to increase the resilience of low wage workers and their industries in
   LA by improving the enforcement of basic labor protections. We will design and

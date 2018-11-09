@@ -18,8 +18,6 @@ project_summary: >-
   cyber threat perceptions and actual vulnerabilities.
 project_image: 'https://img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/NNetdspYB4M'
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   Nearly all of LA’s hospitals use electronic health records.  We have
   identified a mismatch between perceived versus actual vulnerabilities, and

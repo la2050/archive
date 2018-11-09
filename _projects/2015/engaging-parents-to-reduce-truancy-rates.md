@@ -16,10 +16,6 @@ project_summary: >-
   enrolled families.
 project_image: 'https://img.youtube.com/vi/0MYV-P-oK80/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/0MYV-P-oK80'
-project_areas:
-  - East LA
-  - South LA
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   Truancy is defined as a student being absent or tardy by more than 30 minutes
   without a valid excuse on 3 occasions in a school year, and we intend to

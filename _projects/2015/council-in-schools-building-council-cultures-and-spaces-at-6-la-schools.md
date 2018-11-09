@@ -15,11 +15,6 @@ project_summary: >-
   construction of a dedicated council space at one of those schools. 
 project_image: 'https://img.youtube.com/vi/fKSh73dO49s/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/fKSh73dO49s'
-project_areas:
-  - Central LA
-  - San Fernando Valley
-  - South LA
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   We are Council in Schools. "Council" is a circle form of dialogue that builds
   trust, understanding, and awareness, and that fosters engaged, compassionate

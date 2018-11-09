@@ -18,10 +18,6 @@ project_summary: >-
   prize at the annual SET Awards Ceremony.
 project_image: 'https://img.youtube.com/vi/5paOc34oG84/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/5paOc34oG84'
-project_areas:
-  - San Fernando Valley
-  - Westside
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   Generation Next will bring seminars into high school classrooms to build
   writing skills and a love of writing by teaching screenwriting basics using

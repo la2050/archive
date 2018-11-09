@@ -14,8 +14,6 @@ project_summary: >-
   artists in the area. 
 project_image: 'https://img.youtube.com/vi/pnwgZVtiDAA/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/pnwgZVtiDAA'
-project_areas:
-  - Central LA
 'In one sentence, please describe what your organization does': >-
   It produces, funds, and develops art events and projects for and with the
   diverse communities in Los Angeles.

@@ -14,7 +14,6 @@ project_summary: >-
   which once completed we send to villages in Africa. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23250%252Fdisplay%252FWheels_graduation_ceremony.jpg=c570x385
-project_areas: []
 'In one to three sentences, please describe your proposal.': >-
   Wheels of Hope LA trains and certifies hard to employ people in Los Angeles
   and then certifies them through the American Welding Society. The AWS

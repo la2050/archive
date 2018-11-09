@@ -18,8 +18,6 @@ project_summary: >-
   environmental change within Los Angeles County.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24128%252Fdisplay%252F_MG_8193.JPG=c570x385
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Since 1960, the Theodore Payne Foundation has been LA's native plant
   authority, promoting the understanding and use of California native plants

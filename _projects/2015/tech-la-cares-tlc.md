@@ -9,8 +9,6 @@ title: Tech LA Cares (TLC)
 project_summary: "The Los Angeles tech space is growing at a rapid pace -- so much so, that it is difficult for tech companies to devote time, resources, and energy into being a strong partner within their own communities.\r\n\r\nTech LA Cares (TLC) aims to bridge that gap by matching companies with organizations and events, both by in-person needs assessments, as well as online volunteer signup mechanisms.\r\n\r\nWe believe in the efficiency of online tools, but also believe that human contact is key to success.\r\n"
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23167%252Fdisplay%252Ftlc.jpg=c570x385
-project_areas:
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Tech LA Cares (TLC) connects LA's growing technology companies with volunteer
   opportunities within their communities.

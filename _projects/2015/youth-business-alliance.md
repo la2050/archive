@@ -15,10 +15,6 @@ project_summary: >-
   complete the course will received a full high school course credit.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23273%252Fdisplay%252FSantee_High_School_Elisha_Hall.jpg=c570x385
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   The YBA runs an after school program for disadvantaged high school juniors
   called "Introduction to Business & Careers." The year-long course is highly

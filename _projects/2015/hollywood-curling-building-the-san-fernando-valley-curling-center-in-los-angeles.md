@@ -18,11 +18,6 @@ project_summary: >-
   social connections in the community.
 project_image: 'https://img.youtube.com/vi/3ceZFpvVVU0/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/3ceZFpvVVU0'
-project_areas:
-  - San Fernando Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': >-
   We are the only place in Los Angeles to participate in the Olympic sport of
   curling, with a goal to offer the game to the local community, to foster the

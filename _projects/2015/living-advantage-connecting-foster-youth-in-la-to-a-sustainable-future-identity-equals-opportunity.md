@@ -17,14 +17,6 @@ project_summary: >-
   prepared and receive social and emotional support for higher self-esteem. 
 project_image: 'https://img.youtube.com/vi/1_UXQ2fFeSU/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/1_UXQ2fFeSU'
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - Westside
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': >-
   LA, Inc. brings a more innovative approach by utilizing a technological and
   media platform in servicing at risk youth targeting the foster care/probation

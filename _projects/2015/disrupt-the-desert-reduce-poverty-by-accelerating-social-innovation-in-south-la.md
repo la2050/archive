@@ -18,8 +18,6 @@ project_summary: >-
   symposium on how to amplify the impact of So. LA nonprofits. 
 project_image: 'https://img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/iHlwRhoV_78'
-project_areas:
-  - South LA
 'In one to three sentences, please describe your proposal.': >-
   We propose a social innovation accelerator where design thinking meets social
   justice, on its home turf, to disrupt the patterns of disinvestment that have

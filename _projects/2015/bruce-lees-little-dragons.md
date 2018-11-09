@@ -15,8 +15,6 @@ project_summary: >-
   do so, the opportunity to participate.
 project_image: 'https://img.youtube.com/vi/YufCYg-BYaY/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/YufCYg-BYaY'
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   The Bruce Lee’s Little Dragons program will provide life confidence skills and
   martial arts training to at-risk and underprivileged youth in the Los Angeles

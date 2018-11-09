@@ -16,8 +16,6 @@ project_summary: >-
   to increase aid students secure.
 project_image: 'https://img.youtube.com/vi/q4McatdcN78/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/q4McatdcN78'
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   Los Angeles Cash for College is the region's largest financial aid awareness
   and college access campaign, informing, assisting and rewarding students, who

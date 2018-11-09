@@ -16,8 +16,6 @@ project_summary: >-
   communities through innovative design.
 project_image: 'https://img.youtube.com/vi/t_fQo1Z6VSg/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/t_fQo1Z6VSg'
-project_areas:
-  - Central LA
 'In one to three sentences, please describe your proposal.': >-
   Our proposal is to hold a design competition for LA-based architects and
   landscape designers to create an iconic design for the Hollywood Central Park.

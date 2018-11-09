@@ -16,12 +16,6 @@ project_summary: >-
   project-based learning.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23346%252Fdisplay%252F73168.jpg=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   JSA will partner with Alliance College-Ready Public Schools to provide a civic
   leadership program that prepares low-income students to become engaged

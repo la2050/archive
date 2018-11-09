@@ -16,9 +16,6 @@ project_summary: >-
   educational opportunities are major program goals.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23519%252Fdisplay%252FEKIPkidswithwalkingsticks.png=c570x385
-project_areas:
-  - County of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   Every Kid in a Park Los Angeles will provide transportation grants to local
   partners to bring at least 8,000 fourth-grade students from Los Angeles to

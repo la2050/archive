@@ -16,10 +16,6 @@ project_summary: >-
   (currently at 75) to 150 during 2016. 
 project_image: 'https://img.youtube.com/vi/uIeSYK3uGbU/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/uIeSYK3uGbU'
-project_areas:
-  - Central LA
-  - East LA
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Union Rescue Mission provides a pathway to life transformation, jobs and
   housing for men, women and families experiencing homelessness on the streets

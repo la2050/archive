@@ -15,8 +15,6 @@ project_summary: >-
   to 100 youth and launch our high school program with 75 youth.
 project_image: 'https://img.youtube.com/vi/W8wBA--Vo8o/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/W8wBA--Vo8o'
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   We are a little league for civic action, uniting middle school and high school
   youth from across L.A. to address pressing social issues while gaining

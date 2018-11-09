@@ -9,15 +9,6 @@ title: Manufacturing Opportunities for Modern Day Rosies
 project_summary: "Rosie the Riveter illustrated how women factory workers could fill manufacturing jobs during WW II. Today women workers have few opportunities in the US transit manufacturing industry.  The Modern Rosies Project aims to recruit women to factory jobs and influence manufacturers to hire women. Our travelling exhibit of modern day Rosie the Riveters raises awareness of the hardworking and capable women who are building America’s 21st century transportation and reminds people that women CAN build\r\n"
 project_image: 'https://img.youtube.com/vi/XYSInTxuZyU/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/XYSInTxuZyU'
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': "Modern Rosies aims to attract women—Rosie the Riveters—to the manufacturing jobs created by the work of Jobs to Move America, a project of LAANE that uses public procurement of equipment, such as buses and trains, to jump start manufacturing in LA.\r\n"
 'In one to three sentences, please describe your proposal.': "Rosie the Riveter illustrated how women factory workers could fill manufacturing jobs during WW II. Today women workers have few opportunities in the US transit manufacturing industry.  The Modern Rosies Project aims to recruit women to factory jobs and influence manufacturers to hire women. Our travelling exhibit of modern day Rosie the Riveters raises awareness of the hardworking and capable women who are building America’s 21st century transportation and reminds people that women CAN build\r\n"
 Where will you be working?:

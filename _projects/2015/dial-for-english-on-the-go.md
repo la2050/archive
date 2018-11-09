@@ -15,9 +15,6 @@ project_summary: >-
   hands. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24155%252Fdisplay%252FScreen_Shot_2015-10-15_at_5.32.07_PM.png=c570x385
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   Cell-Ed aims to narrow educational divides in LA County by offering over 1000
   households with low literacy levels 24/7 mobile learning access to English

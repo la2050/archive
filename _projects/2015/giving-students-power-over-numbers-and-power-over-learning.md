@@ -16,8 +16,6 @@ project_summary: >-
   system designed by Dr. Randy Palisoc.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23622%252Fdisplay%252FironboxeducationLA2050.jpg=c570x385
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   Chronic low achievement in math has been a major barrier that has prevented
   Los Angeles from being considered the best place to learn. Struggling students

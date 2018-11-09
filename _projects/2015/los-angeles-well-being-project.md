@@ -16,16 +16,6 @@ project_summary: >-
   practices that make Vision 80 a reality. 
 project_image: 'https://img.youtube.com/vi/EJWQ6cYZBCk/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/EJWQ6cYZBCk'
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   The Los Angeles Well-being Project is a collaborative campaign aimed at
   building the momentum and advancing a shift toward resilience, healthy, and

@@ -16,8 +16,6 @@ project_summary: >-
   and then demand permanent change. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24129%252Fdisplay%252FScreen_Shot_2015-10-07_at_4.00.20_PM.png=c570x385
-project_areas:
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   The Great Streets Challenge will temporarily transform five main streets into
   vibrant, healthy, playful public spaces. Community based organizations will

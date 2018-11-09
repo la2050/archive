@@ -16,8 +16,6 @@ project_summary: >-
   the support and tools needed to thrive.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23931%252Fdisplay%252Fwordcloud-thrivecenter.png=c570x385
-project_areas:
-  - Westside
 'In one to three sentences, please describe your proposal.': >-
   Teens are facing a mental health crisis due to a complex interplay of factors
   that takes many forms, including substance abuse, social isolation,

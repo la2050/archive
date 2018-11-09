@@ -16,17 +16,6 @@ project_summary: >-
   vulnerable, low-income communities.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23719%252Fdisplay%252F18603358223_2be7ae4ace_b.jpg=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   The Red Cross prevents and alleviates human suffering in the face of
   emergencies by mobilizing the power of volunteers and the generosity of

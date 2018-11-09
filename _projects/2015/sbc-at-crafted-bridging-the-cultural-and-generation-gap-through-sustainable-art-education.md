@@ -18,10 +18,6 @@ project_summary: >-
   between people of all backgrounds and ages.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24146%252Fdisplay%252FCulture_gaps_for_la2050xsmall_copy.jpg=c570x385
-project_areas:
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   South Bay Contemporary (SBC) bridges art, science and humanities through
   exhibitions and experimental projects serving the South Bay and engages the

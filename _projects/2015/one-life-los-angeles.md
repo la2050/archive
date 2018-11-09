@@ -13,9 +13,6 @@ project_summary: >-
   FILMING THIER LIFE IN LOS ANGELES COUNTY
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23763%252Fdisplay%252FOWW_logo_and_logline.jpg=c570x385
-project_areas:
-  - County of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': >-
   Melrose World Cinema Center (MWCC) is a non-profit film studio, the major
   components of MWCC are to seek and cultivate creative talent, supplement film

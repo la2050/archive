@@ -15,18 +15,6 @@ project_summary: >-
   tools and education needed to compost locally.
 project_image: 'https://img.youtube.com/vi/oPkjhNbvFTw/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/oPkjhNbvFTw'
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   L.A. Compost and Kiss the Ground are partnering to create a local solution to
   composting in Los Angeles.  We are currently composting over 2,000lbs of food

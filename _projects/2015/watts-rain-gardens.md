@@ -13,8 +13,6 @@ project_summary: >-
   needed tree shade, but will create beautiful green parkways in Watts.  
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24100%252Fdisplay%252FIMG_4644.JPG=c570x385
-project_areas:
-  - South LA
 'In one to three sentences, please describe your proposal.': >-
   The Watts Rain Gardens project is a multi-benefit environmental and
   revitalization project that will create 10000 sq ft of pervious surface that

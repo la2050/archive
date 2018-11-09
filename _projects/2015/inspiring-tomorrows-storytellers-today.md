@@ -16,13 +16,6 @@ project_summary: >-
   storytellers.
 project_image: 'https://img.youtube.com/vi/9pqXAYBOKLo/maxresdefault.jpg'
 project_video: 'https://youtu.be/o-kSyggO5n0'
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   826LA and Young Storytellers will partner to inspire students to discover the
   power of their voice by helping them share their stories with the world. To

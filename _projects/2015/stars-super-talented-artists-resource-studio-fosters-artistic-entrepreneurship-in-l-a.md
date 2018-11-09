@@ -16,8 +16,6 @@ project_summary: >-
   mid-level artists to collaborate and showcase their diverse talents.
 project_image: 'https://img.youtube.com/vi/GLojtCpWaz4/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/GLojtCpWaz4'
-project_areas:
-  - San Fernando Valley
 'In one sentence, please describe what your organization does': >-
   Founded in 2005, BReaKiNG iNTo HoLLyooD (BiH) helps creative and business
   professionals in the entertainment industry pursue their careers by hosting

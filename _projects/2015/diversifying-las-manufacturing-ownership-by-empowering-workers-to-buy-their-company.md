@@ -14,8 +14,6 @@ project_summary: >-
   into growth mode.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23949%252Fdisplay%252FRecycle_Piece_labj11102014.jpg=c570x385
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Concerned Capital creates business ownership opportunities for long-term blue
   collar workers in privately held Southern California companies in order to

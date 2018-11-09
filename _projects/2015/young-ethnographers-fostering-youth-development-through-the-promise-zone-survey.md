@@ -18,8 +18,6 @@ project_summary: >-
   improving lives.
 project_image: 'https://img.youtube.com/vi/MbjQABq5iTI/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/MbjQABq5iTI'
-project_areas:
-  - Central LA
 'In one sentence, please describe what your organization does': >-
   The Promise Zone Partnership is building healthy neighborhoods by connecting
   our efforts and resources to empower families.

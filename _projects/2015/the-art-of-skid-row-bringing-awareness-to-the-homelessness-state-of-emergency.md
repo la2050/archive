@@ -18,11 +18,6 @@ project_summary: >-
   crisis. 
 project_image: 'https://img.youtube.com/vi/5-66_Xqn0Cw/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/5-66_Xqn0Cw'
-project_areas:
-  - Central LA
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   The Art of Skid Row’s goal is to bring awareness to the homelessness state of
   emergency through digital and print photojournalism. The AoSR is an print and

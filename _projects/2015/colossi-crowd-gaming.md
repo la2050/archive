@@ -14,7 +14,6 @@ project_summary: >-
   others.  
 project_image: 'https://img.youtube.com/vi/CAz_mkuDRno/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/CAz_mkuDRno'
-project_areas: []
 'In one to three sentences, please describe your proposal.': >-
   We will increase attendance to major league sporting events by bringing in our
   technology which allows everyone old and young to come together and play a

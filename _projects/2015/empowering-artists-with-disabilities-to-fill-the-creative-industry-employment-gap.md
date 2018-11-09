@@ -18,8 +18,6 @@ project_summary: >-
   such as animation, ceramics, and commercial art.
 project_image: 'https://img.youtube.com/vi/duMAZ5TXBMg/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/duMAZ5TXBMg'
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Tierra del Sol Foundation enables adults with moderate to severe developmental
   disabilities to realize their greatest human potential, become as independent

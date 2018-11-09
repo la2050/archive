@@ -16,8 +16,6 @@ project_summary: >-
   realize what their imagination can inspire.
 project_image: 'https://img.youtube.com/vi/XPYx9Zb6q6c/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/XPYx9Zb6q6c'
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   T4T.org’s Pop-Up Makers’ Spaces using ReImagined Resources will arrive in some
   of LA’s most underserved communities. On a Saturday or Sunday morning a truck

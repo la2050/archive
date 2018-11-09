@@ -14,10 +14,6 @@ project_summary: >-
   policing from the perspective of the youth in our communities.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24149%252Fdisplay%252FScreen_Shot_2015-10-15_at_12.10.38_PM.png=c570x385
-project_areas:
-  - South LA
-  - City of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': >-
   The Southwest Area Police Youth Board is comprised of Board-elected community
   youth, and elected youth and adult advisers, with the goal of increasing youth

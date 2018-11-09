@@ -16,8 +16,6 @@ project_summary: >-
   beyond 2050 in high-growth industries. 
 project_image: 'https://img.youtube.com/vi/iQpQqqot8AQ/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/iQpQqqot8AQ'
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   JVS Los Angeles offers hope and opportunity to our diverse community through
   job training, mentoring and education, combined with expert career guidance

@@ -15,8 +15,6 @@ project_summary: >-
   them, and create a powerful resource for the creative economy in Los Angeles.
 project_image: 'https://img.youtube.com/vi/Wx27G6vdyF4/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Wx27G6vdyF4'
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   The Arts for Incarcerated Youth Network (AIYN) is an interdisciplinary
   collaborative that provides exceptional arts programming in order to build

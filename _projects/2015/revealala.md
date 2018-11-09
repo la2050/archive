@@ -9,9 +9,6 @@ title: ReveaLALA
 project_summary: "ReveaLALA is a series of interventions that highlight and reframe important visual depictions of Latino culture in Los Angeles.\r\n\r\nFrom public sculptures and iconic buildings to road signs and street vendors, each element will literally be‘reframed’ with a simple color panel placed behind it – momentarily taking the piece out of its surroundings and allowing the viewer see it afresh and to rethink its meaning."
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23861%252Fdisplay%252FAplusD-ReveaLALA.jpg=c570x385
-project_areas:
-  - City of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': >-
   The mission of The Architecture and Design Museum is to celebrate and promote
   an awareness of progressive architecture and design in everyday life through

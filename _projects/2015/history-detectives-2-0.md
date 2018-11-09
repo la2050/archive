@@ -14,8 +14,6 @@ project_summary: >-
   "prompts" that will then become projects. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23966%252Fdisplay%252FRobey_Brochure_Front1_(1).jpg=c570x385
-project_areas:
-  - South LA
 'In one to three sentences, please describe your proposal.': >-
   History Detectives 2.0 offers K-12 LA students a chance to discover history,
   art, architecture themselves. Our retro-fitted school bus/truck will simulate

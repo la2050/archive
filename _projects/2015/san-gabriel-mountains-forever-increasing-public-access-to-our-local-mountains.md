@@ -14,9 +14,6 @@ project_summary: >-
   mountains via public transit. 
 project_image: 'https://img.youtube.com/vi/SVzSpv8Dj74/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/SVzSpv8Dj74'
-project_areas:
-  - San Gabriel Valley
-  - Antelope Valley
 'In one to three sentences, please describe your proposal.': >-
   The San Gabriel Mountains make up 70% of LA County’s open space. We want
   people from park-poor communities to have access to the mountains. We will

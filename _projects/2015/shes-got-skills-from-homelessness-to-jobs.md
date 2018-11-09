@@ -14,7 +14,6 @@ project_summary: >-
   drink making, inventory management, and retail. 
 project_image: 'https://img.youtube.com/vi/13dwU_7eCrQ/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/13dwU_7eCrQ'
-project_areas: []
 'In one sentence, please describe what your organization does': >-
   DWC aims to end homelessness for women in Los Angeles; to achieve this, we
   provide gender-responsive services including access to basic needs and

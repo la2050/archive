@@ -16,9 +16,6 @@ project_summary: >-
   engaging in civic dialog about new development.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23815%252Fdisplay%252FIsWasWillBe_SmartGals.jpg=c570x385
-project_areas:
-  - City of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': >-
   Dedicated to building community and supporting dialog throughout Los Angeles,
   Smart Gals seeks to connect those who would otherwise not meet, by taking

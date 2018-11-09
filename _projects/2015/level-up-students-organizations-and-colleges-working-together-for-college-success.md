@@ -16,16 +16,6 @@ project_summary: >-
   efficient supports are available for all students. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23240%252Fdisplay%252F_MG_9694.JPG=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   Students, community-based organizations, and colleges all are working toward
   the same goal: students graduating from college. Since their goals are

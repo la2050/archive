@@ -16,8 +16,6 @@ project_summary: >-
   economy by increasing the profits of local businesses.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23775%252Fdisplay%252FCB_Logo.jpg=c570x385
-project_areas:
-  - South LA
 'In one to three sentences, please describe your proposal.': >-
   South Los Angeles Healthy Corner Store Conversion Program is a proposal to
   help prevent childhood obesity through an innovative approach of converting

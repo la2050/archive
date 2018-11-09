@@ -16,8 +16,6 @@ project_summary: >-
   by foster youth. That novel concept alone connects
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24082%252Fdisplay%252FPage_6_Behind_the_scenes.JPG=c570x385
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Since 1992, the Alliance for Children's Rights has protected the rights of
   L.A. County’s impoverished, neglected, and abused children and foster youth,

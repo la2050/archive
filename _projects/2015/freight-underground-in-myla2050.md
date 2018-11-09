@@ -16,8 +16,6 @@ project_summary: >-
   four counties, and 3)last mile truck feeder terminals.
 project_image: 'https://img.youtube.com/vi/Z8CUwycoaCc/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Z8CUwycoaCc'
-project_areas:
-  - East LA
 'In one to three sentences, please describe your proposal.': >-
   GRID proposes a Demand-Risk Public Private Partnership whereby private
   investment replaces traditional tax-payer backed securities to build large

@@ -16,10 +16,6 @@ project_summary: >-
   every neighborhood of Greater Los Angeles. 
 project_image: 'https://img.youtube.com/vi/-6JhSNkIbso/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/-6JhSNkIbso'
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': "L.A. Works\_empowers Angelenos to\_address pressing social issues through\_volunteerism and community\_collaborations."
 'In one to three sentences, please describe your proposal.': >-
   Connect to your community through volunteer service with L.A. Works! We are

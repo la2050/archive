@@ -14,12 +14,6 @@ project_summary: >-
   school year, and career development opportunities for older participants. 
 project_image: 'https://img.youtube.com/vi/Dcwg2GZofvo/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Dcwg2GZofvo'
-project_areas:
-  - East LA
-  - South LA
-  - Westside
-  - County of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': >-
   Girls Inc. delivers innovative, research-based programs to address the
   strengths & needs of girls to face life's challenges. Through project based

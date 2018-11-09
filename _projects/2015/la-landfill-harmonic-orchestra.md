@@ -16,8 +16,6 @@ project_summary: >-
   found objects.
 project_image: 'https://img.youtube.com/vi/MkTQQ0m8Ys8/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/MkTQQ0m8Ys8'
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   T4T.org inspires the next generation of Scientists, Technology experts,
   Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean waste

@@ -9,10 +9,6 @@ title: The Academy Project--Helping Foster Youth THRIVE!!
 project_summary: "50% of the 21,000 kids in foster care in LA end up homeless, in gangs, institutionalized or in jail, with 8% having dropped out of school (3 x the statewide rate), due to frequent school changes. Starting in Grade 7, TAP is building a year-round, in-school solution that integrates individual needs & guarantees youth a consistent placement through high school. Within a community of peers, TAP provides a safe place where youth thrive & discover otherwise ignored talents and wasted potential.  \r\n"
 project_image: 'https://img.youtube.com/vi/xbatmQQi_e4/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/xbatmQQi_e4'
-project_areas:
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': "50% of the 21,000 kids in foster care in LA end up homeless, in gangs, institutionalized or in jail, with 8% having dropped out of school (3 x the statewide rate), due to frequent school changes. Starting in Grade 7, TAP is building a year-round, in-school solution that integrates individual needs & guarantees youth a consistent placement through high school. Within a community of peers, TAP provides a safe place where youth thrive & discover otherwise ignored talents and wasted potential.  \r\n"
 Where will you be working?:
   - South LA

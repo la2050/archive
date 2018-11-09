@@ -16,8 +16,6 @@ project_summary: >-
   city and neighborhood council meetings.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23482%252Fdisplay%252FSynergize_LA.png=c570x385
-project_areas:
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   We are building the online platform that engages everyone in finding solutions
   that unite us while keeping it fair, balanced and civil and distilling it down

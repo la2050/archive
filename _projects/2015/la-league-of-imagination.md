@@ -13,10 +13,6 @@ project_summary: >-
   anywhere, with anyone, and require few resources to ignite child imagination.
 project_image: 'https://img.youtube.com/vi/VtA2ubRDvAs/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/VtA2ubRDvAs'
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   We will launch 20 Imagination Chapters throughout Los Angeles to form the "LA
   League of Imagination." Imagination Chapters are pop-up learning spaces that

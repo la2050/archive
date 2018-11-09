@@ -16,11 +16,6 @@ project_summary: >-
   educational initiatives for LA's creative youth and senior populations.
 project_image: 'https://img.youtube.com/vi/sMiWY0aFpkk/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/sMiWY0aFpkk'
-project_areas:
-  - Central LA
-  - San Fernando Valley
-  - County of Los Angeles
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   3-D SPACE, The Center For Stereoscopic Photography, Art, Cinema, and Education
   is a Los Angeles based nonprofit dedicated to the preservation of the history

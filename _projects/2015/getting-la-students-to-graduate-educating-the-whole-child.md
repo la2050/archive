@@ -16,12 +16,6 @@ project_summary: >-
   referrals services that address those needs.
 project_image: 'https://img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/8RfGcPRl--8'
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - Westside
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   CISLA’s goal is to improve educational outcomes for underserved students at 12
   schools in Los Angeles Unified School District, leading to an increase in

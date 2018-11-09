@@ -16,8 +16,6 @@ project_summary: >-
   profitable herbs and vegetables. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23569%252Fdisplay%252Ftowergarden.jpg=c570x385
-project_areas:
-  - Central LA
 'In one to three sentences, please describe your proposal.': >-
   We seek to establish a solar-powered water conservation and urban vertical
   community farm pilot project and job training program at Union Church in

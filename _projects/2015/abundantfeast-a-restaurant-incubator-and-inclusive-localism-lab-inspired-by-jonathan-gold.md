@@ -18,8 +18,6 @@ project_summary: >-
   of conflict and inclusion.
 project_image: 'https://img.youtube.com/vi/qyZQR5_KCEM/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/qyZQR5_KCEM'
-project_areas:
-  - East LA
 'In one sentence, please describe what your organization does': >-
   civ.LA is an agile civic innovation laboratory (or "think-do tank"). We're
   passionate about launching new ventures that connect conflicted stakeholder

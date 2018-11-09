@@ -12,12 +12,6 @@ project_summary: >-
   interests at heart, and have a track record to back it up.
 project_image: 'https://img.youtube.com/vi/cljP5pJVVbE/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/cljP5pJVVbE'
-project_areas:
-  - Central LA
-  - San Fernando Valley
-  - Westside
-  - County of Los Angeles
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   We’re building an app that makes it fast, fun, and easy to become informed in
   any election - Essentially, it’s tinder for politics.

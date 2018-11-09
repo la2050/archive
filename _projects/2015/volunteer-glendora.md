@@ -16,8 +16,6 @@ project_summary: >-
   the goal of the City to get the community excited about
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23980%252Fdisplay%252FLA2015_1.jpg=c570x385
-project_areas:
-  - San Gabriel Valley
 'In one sentence, please describe what your organization does': >-
   The City of Glendora provides the citizens and business community with a full
   range of effective municipal services while maintaining our historical sense

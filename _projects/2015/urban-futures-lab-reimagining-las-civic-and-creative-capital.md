@@ -16,15 +16,6 @@ project_summary: >-
   development, community health, and neighborhood identity. 
 project_image: 'https://img.youtube.com/vi/1HVZ3rX86M4/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/1HVZ3rX86M4'
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': >-
   Public Matters is a social enterprise—made up of artists, educators, media
   experts, cultural planners and Fellows—that designs and implements long-term,

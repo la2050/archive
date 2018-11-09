@@ -16,8 +16,6 @@ project_summary: >-
   more just education systems.
 project_image: 'https://img.youtube.com/vi/31zyNJHGmig/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/31zyNJHGmig'
-project_areas:
-  - South LA
 'In one to three sentences, please describe your proposal.': >-
   FREE LA High School is a unique education program in South Los Angeles that
   supports system-involved youth in obtaining high school diplomas. Our students

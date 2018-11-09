@@ -16,8 +16,6 @@ project_summary: >-
   business-to-business data and offer a new Metro LAACE Art discount 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23739%252Fdisplay%252FLAACE.jpg=c570x385
-project_areas:
-  - San Fernando Valley
 'In one sentence, please describe what your organization does': >-
   The San Fernando Valley Arts & Cultural Center advocates the arts through
   exhibitions, education, music and theater by promoting visual and performing

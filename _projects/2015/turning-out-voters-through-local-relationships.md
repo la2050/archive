@@ -16,13 +16,6 @@ project_summary: >-
   more representative, inclusive county. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23660%252Fdisplay%252FLA_2050_collage.jpg=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
 'In one sentence, please describe what your organization does': >-
   LA Voice is an interfaith, multi-racial community organization that awakens
   people to their own power, training them to speak, act and work together to

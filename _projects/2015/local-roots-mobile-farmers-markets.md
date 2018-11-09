@@ -15,14 +15,6 @@ project_summary: >-
   and providing increased healthy food access in low-income neighborhoods.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23707%252Fdisplay%252FMobile_Market_Mock-Up.png=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   We will use a mobile trailer to encase a solar powered controlled environment
   farm to create a “Mobile Market” capable of growing and distributing

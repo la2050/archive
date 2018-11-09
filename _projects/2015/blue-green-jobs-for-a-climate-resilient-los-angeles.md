@@ -16,8 +16,6 @@ project_summary: >-
   conserve, and reuse precious water resources.
 project_image: 'https://img.youtube.com/vi/fvo26NJM3JM/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/fvo26NJM3JM'
-project_areas:
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   The Water LA job training and certification program will build our city’s
   water-smart workforce. Local NGOs and green businesses will partner with LA

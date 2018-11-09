@@ -12,9 +12,6 @@ project_summary: >-
   students will be prepared to save lives with CPR.
 project_image: 'https://img.youtube.com/vi/lilCVZW2Ggk/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/lilCVZW2Ggk'
-project_areas:
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   During each academic year hands-only CPR (cardio-pulmonary resuscitation) will
   be taught in high school health classes throughout LAUSD. Each year 50,000

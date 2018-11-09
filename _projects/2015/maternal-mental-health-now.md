@@ -16,8 +16,6 @@ project_summary: >-
   workshops in the communities surrounding the sites.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23910%252Fdisplay%252FMMH-NOW_Final_Logo_9.1.15_(8.5_x_3_5).jpg=c570x385
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   The overall goal of our project is to improve recognition and response to
   perinatal mood and anxiety disorders in medical settings in the safety net. We

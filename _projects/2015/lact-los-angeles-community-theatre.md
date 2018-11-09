@@ -13,8 +13,6 @@ project_summary: >-
   generation of artists, and inspire the next generation of audiences. 
 project_image: 'https://img.youtube.com/vi/fRmzSDzuoRA/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/fRmzSDzuoRA'
-project_areas:
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   Use existing parks and venues, like Ramona Hall in Sycamore Grove Park, to
   create a community theatre program for all ages. Develop new works by Los

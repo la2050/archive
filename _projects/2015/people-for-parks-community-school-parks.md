@@ -16,13 +16,6 @@ project_summary: >-
   participation will keep these spaces sustainable.
 project_image: 'https://img.youtube.com/vi/3nATZG2br34/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/3nATZG2br34'
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   People for Parks (PFP) will open six new LA Community School Parks for public
   use during non-school hours. LAUSD youth enrichment specialists will offer

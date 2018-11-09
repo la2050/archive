@@ -14,17 +14,6 @@ project_summary: >-
   compete.
 project_image: 'https://img.youtube.com/vi/dZQ4_RgpSno/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/dZQ4_RgpSno'
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   LA Review of Books (LARB) is dedicated, on all its platforms (web, radio,
   print, events), to expanding the reach of LA literature, art, and culture, and

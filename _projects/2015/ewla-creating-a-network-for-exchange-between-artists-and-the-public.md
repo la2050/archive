@@ -13,8 +13,6 @@ project_summary: >-
   environmental, personal and cultural impact.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23594%252Fdisplay%252FEW_Molly_EWLA_sm.jpg=c570x385
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   ExchangeWorks creates new opportunities for artists and the public through the
   exchange of art and resources.

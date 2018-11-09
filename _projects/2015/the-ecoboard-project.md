@@ -16,9 +16,6 @@ project_summary: >-
   we will show how this transformative process works. 
 project_image: 'https://img.youtube.com/vi/5-OvAiMBAFc/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/5-OvAiMBAFc'
-project_areas:
-  - Westside
-  - South Bay
 'In one sentence, please describe what your organization does': >-
   Continue to be the catalyst that transforms global surf culture into a
   powerful force for protecting the ocean environment, through science,

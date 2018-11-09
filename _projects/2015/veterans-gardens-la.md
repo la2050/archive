@@ -9,8 +9,6 @@ title: Veterans Gardens LA
 project_summary: "What if homeless veterans were the solution, not the problem?\r\n\r\nWhat if we helped the most capable homeless veterans become leaders with a mission to leave no one else behind, in exchange for accelerating their ability to earn, to save, and to purchase a home.\r\n \r\nLike a homelessness peace corps."
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24052%252Fdisplay%252Fhomelessstreetscene.jpg=c570x385
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': "What if homeless veterans were the solution, not the problem?\r\n\r\nWhat if we helped the most capable homeless veterans become leaders with a mission to leave no one else behind, in exchange for accelerating their ability to earn, to save, and to purchase a home.\r\n \r\nLike a homelessness peace corps."
 Where will you be working?:
   - County of Los Angeles

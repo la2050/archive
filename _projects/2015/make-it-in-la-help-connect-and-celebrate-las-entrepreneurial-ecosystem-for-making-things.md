@@ -18,17 +18,6 @@ project_summary: >-
   in the design and manufacturing ecosystem of LA.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24018%252Fdisplay%252Fmakeitinla_logo.jpg=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Make it in LA connects and celebrates the entrepreneurial ecosystem for making
   things in LA.

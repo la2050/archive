@@ -16,8 +16,6 @@ project_summary: >-
   spaces and attend free events in downtown LA.
 project_image: 'https://img.youtube.com/vi/BhO5jmXKosA/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/BhO5jmXKosA'
-project_areas:
-  - Central LA
 'In one to three sentences, please describe your proposal.': >-
   Our proposal supports the design/installation of shade structures in highly
   trafficked central gathering spaces for park events & weekly food truck events

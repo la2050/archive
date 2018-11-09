@@ -9,8 +9,6 @@ title: The Alternative Travel Project
 project_summary: "We're here to be of service to Los Angeles' public transit systems, and to start a dialogue about what we can all do to help create safer & more accessible alternative transit. \r\n\r\nWe genuinely believe support for car-free transportation infrastructure will create a better Los Angeles.\r\n\r\nThrough our efforts we aim to increase public usage of ATP infrastructure & we will work with lawmakers to create a more expansive & even safer system.\r\n"
 project_image: 'https://img.youtube.com/vi/_D5ZYrmwF6Y/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/_D5ZYrmwF6Y'
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': "We're here to be of service to Los Angeles' public transit systems, and to start a dialogue about what we can all do to help create safer & more accessible alternative transit. \r\n\r\nWe genuinely believe support for car-free transportation infrastructure will create a better Los Angeles.\r\n\r\nThrough our efforts we aim to increase public usage of ATP infrastructure & we will work with lawmakers to create a more expansive & even safer system.\r\n"
 Where will you be working?:
   - County of Los Angeles

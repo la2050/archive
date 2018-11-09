@@ -15,8 +15,6 @@ project_summary: >-
   stuck on technology can come and play and run around like kids used to.
 project_image: 'https://img.youtube.com/vi/JrkPrBnN4UI/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/JrkPrBnN4UI'
-project_areas:
-  - San Fernando Valley
 'In one to three sentences, please describe your proposal.': >-
   We want to create a place that kids can play and learn all in the same
   environment. Parents can feel confident that their children will exercise and

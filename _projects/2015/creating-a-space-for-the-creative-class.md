@@ -15,9 +15,6 @@ project_summary: >-
   our city and to create a toolkit for building LA's creative economy.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23544%252Fdisplay%252FIMG_8112_web.jpg=c570x385
-project_areas:
-  - Central LA
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Off The Saw creates community around furniture making by offering bench space,
   workshops, maker talks, and apprenticeships to furniture makers in Los

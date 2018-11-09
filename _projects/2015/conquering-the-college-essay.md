@@ -15,9 +15,6 @@ project_summary: >-
   ApplicantLab can level the playing field!
 project_image: 'https://img.youtube.com/vi/IRXVbzVLXls/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/IRXVbzVLXls'
-project_areas:
-  - Westside
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   The ApplicantLab essay-writing software tool is currently live for MBA
   candidates, but my dream is to expand it for college applications also. This

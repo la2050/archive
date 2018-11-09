@@ -16,11 +16,6 @@ project_summary: >-
   bullying and exclusion.  
 project_image: 'https://img.youtube.com/vi/44E5ezgbzHg/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/44E5ezgbzHg'
-project_areas:
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   Shane's Inspiration will help eliminate bullying by designing/developing 2
   fully inclusive playgrounds in South Central Los Angeles, uniting children of

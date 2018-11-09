@@ -15,11 +15,6 @@ project_summary: >-
   where there are not enough places to PLAY. 
 project_image: 'https://img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/KQnPSzqeZRk'
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   Free Lots Angeles (FLA), a project of six organizations, works with
   communities to transform vacant lots into health-promoting neighborhood

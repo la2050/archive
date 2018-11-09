@@ -16,7 +16,6 @@ project_summary: >-
   and their teachers.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23700%252Fdisplay%252F12113284_1058676700830263_4818412174925935968_o.jpg=c570x385
-project_areas: []
 'In one sentence, please describe what your organization does': >-
   AOA transforms lives and communities through the arts by creating an
   environment that nurtures theatre artists who value humanity as their first

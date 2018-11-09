@@ -16,8 +16,6 @@ project_summary: >-
   resiliency.  
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23843%252Fdisplay%252FCool_block_9.png=c570x385
-project_areas:
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   The “Cool Blocks LA” program will build planet-friendly, disaster resilient,
   socially connected neighborhoods in LA, block by block. By the end of the Cool

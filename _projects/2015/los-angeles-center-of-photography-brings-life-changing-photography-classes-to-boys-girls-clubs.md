@@ -18,9 +18,6 @@ project_summary: >-
   mount the show. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23374%252Fdisplay%252FJulia_Dean_at_Boyle_Heights_B_B_Club.jpg=c570x385
-project_areas:
-  - East LA
-  - Westside
 'In one sentence, please describe what your organization does': >-
   The Los Angeles Center of Photography is a community for new and seasoned
   photographers to come for artistic growth, discussion and inspiration--with

@@ -15,9 +15,6 @@ project_summary: >-
   and by sponsoring a My Vote Matters mural.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23344%252Fdisplay%252FArtWalk_Final_Full_Color_logo.jpg=c570x385
-project_areas:
-  - Central LA
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   We foster community economic development through programs like the 2nd
   Thursday of every month Art Walk  Our daily Mission is to improve the local

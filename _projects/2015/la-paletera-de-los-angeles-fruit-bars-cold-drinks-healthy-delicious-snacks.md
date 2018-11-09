@@ -16,13 +16,6 @@ project_summary: >-
   workforce for women.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23623%252Fdisplay%252FMarsh_Park_Launch_Denice_Bike_.jpg=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   La Paletera is up scaling the current “paleta” vendor model by selling healthy
   frozen fruit bars produced with sustainable business practices. The fruit bars

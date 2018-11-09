@@ -9,9 +9,6 @@ title: My Bucket List LA
 project_summary: "My Bucketlist LA Recipe: Serving the city + Learning the city + Connecting to the people of the city. Now repeat [you’ll have too much fun not to]. \r\n\r\nMy Bucketlist LA uses an interactive platform/map interface in order for targeted audieinces (e.g., new residents, college students, community leaders (neighborhood council members)) to easily navigate and connect with each other through curated community and cultural events focused around volunteerism, play/fun, and food.\r\n"
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23304%252Fdisplay%252FMyBucketlistLA.png=c570x385
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   We design community solutions using human-centered design through IDEO.org and
   Acumen.

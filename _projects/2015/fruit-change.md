@@ -15,7 +15,6 @@ project_summary: >-
   picking, sorting, preserving and delivering fruit with their neighbors.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23782%252Fdisplay%252FIMG_7734.jpeg=c570x385
-project_areas: []
 'In one sentence, please describe what your organization does': >-
   Fruit Change is an organization founded with the intent to develop a system
   for San Pedro neighbors to connect with each other by sharing the bounty from

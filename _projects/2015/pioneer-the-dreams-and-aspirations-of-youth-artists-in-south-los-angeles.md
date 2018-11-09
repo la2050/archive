@@ -16,10 +16,6 @@ project_summary: >-
   established community engaged art house. 
 project_image: 'https://img.youtube.com/vi/yy9nnTHABlE/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/yy9nnTHABlE'
-project_areas:
-  - South LA
-  - City of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': >-
   Dreamhaus is both an educational and economic catalyst for urban youth in
   South Los Angeles to creatively empower themselves through art and amplify the

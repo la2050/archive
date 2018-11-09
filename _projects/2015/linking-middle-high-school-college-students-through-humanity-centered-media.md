@@ -9,15 +9,6 @@ title: Linking Middle High School & College Students through Humanity Centered M
 project_summary: "The goal is to follow the progress of our teens throughout high school, into college, and into their careers, providing middle and high school students with college role models, and providing college students with internship opportunities and professional skill development. \r\n\r\nOur proposal is to launch a 9-month Common Core aligned media education curriculum with local schools, giving their students an opportunity to work with our university media students to produce PSAs, short films, commercial"
 project_image: 'https://img.youtube.com/vi/H107Gy4bTFs/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/H107Gy4bTFs'
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': "The goal is to follow the progress of our teens throughout high school, into college, and into their careers, providing middle and high school students with college role models, and providing college students with internship opportunities and professional skill development. \r\n\r\nOur proposal is to launch a 9-month Common Core aligned media education curriculum with local schools, giving their students an opportunity to work with our university media students to produce PSAs, short films, commercial"
 Where will you be working?:
   - Central LA

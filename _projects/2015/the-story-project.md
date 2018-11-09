@@ -13,9 +13,6 @@ project_summary: >-
   stories. 
 project_image: 'https://img.youtube.com/vi/BnbLK2sxsXI/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/BnbLK2sxsXI'
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   The Story Project encourages at-risk youth in underserved communities to
   improve communication skills and personal identity through storytelling rooted

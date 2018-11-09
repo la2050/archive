@@ -14,9 +14,6 @@ project_summary: >-
   build our next year-round play here in LA. 
 project_image: 'https://img.youtube.com/vi/wGHuWyQEQIU/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/wGHuWyQEQIU'
-project_areas:
-  - South LA
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   For the last 4 years, Delusion has been the premiere live theatre event in the
   nation. We create eerie "moving plays" in existing structures (such as old

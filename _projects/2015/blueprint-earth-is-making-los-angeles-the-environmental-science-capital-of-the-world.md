@@ -17,18 +17,6 @@ project_summary: >-
   world what "Hollywood" is to the film world by 2050.
 project_image: 'https://img.youtube.com/vi/H-S2LiQcO00/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/H-S2LiQcO00'
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': >-
   Blueprint Earth’s mission is to preserve Earth's environments through
   scientific research and education.

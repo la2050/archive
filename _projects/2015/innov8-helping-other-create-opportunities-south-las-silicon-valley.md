@@ -16,12 +16,6 @@ project_summary: >-
   Ecosystem” that will encourage indigenous creativity.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24010%252Fdisplay%252Fcodetechiq.jpg=c570x385
-project_areas:
-  - South LA
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': >-
   LA Southwest College Foundation's mission is to improve community success by
   supporting indigenous innovation, providing access to quality education and

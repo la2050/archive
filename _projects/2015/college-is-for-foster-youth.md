@@ -16,8 +16,6 @@ project_summary: >-
   our College Sponsorship program earn a Bachelors within 5 years. 
 project_image: 'https://img.youtube.com/vi/adLZ6eeMc2w/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/adLZ6eeMc2w'
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   Believing that college access and success is the best path to
   self-sufficiency, United Friends of the Children has created an 11-year

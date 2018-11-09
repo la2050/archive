@@ -15,8 +15,6 @@ project_summary: >-
   0-5 living in LA County have access to quality early childhood programs. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23900%252Fdisplay%252FTCM_ProKid.jpg=c570x385
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   Children Now will help make LA County the best place to learn by recruiting,
   connecting and building the advocacy capacity of a diverse range of LA groups,

@@ -15,8 +15,6 @@ project_summary: >-
   to get resources directly into their hands. 
 project_image: 'https://img.youtube.com/vi/0kAkWtDm2X0/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/0kAkWtDm2X0'
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   LIFT-LA’s model is predicated on the belief that poverty is complicated,
   getting help should not be-- more connected families are more likely to manage

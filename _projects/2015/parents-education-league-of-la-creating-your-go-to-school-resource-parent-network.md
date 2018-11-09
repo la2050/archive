@@ -11,13 +11,6 @@ title: >-
 project_summary: "Imagine a city with informed and confident parents who understand the school landscape, are actively involved and can make the best possible educational choices for their children. \r\n\r\nTo serve the greatest number of families possible, PEL proposes to expand our website to \r\n1) offer comprehensive and robust access to school and educational resources via live streaming, mobile application, webinars, an interactive map; &\r\n2) develop and activate a City-Wide Network of parents and educational leaders"
 project_image: 'https://img.youtube.com/vi/mtWPecaYPCQ/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/mtWPecaYPCQ'
-project_areas:
-  - Central LA
-  - San Fernando Valley
-  - Westside
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': "Imagine a city with informed and confident parents who understand the school landscape, are actively involved and can make the best possible educational choices for their children. \r\n\r\nTo serve the greatest number of families possible, PEL proposes to expand our website to \r\n1) offer comprehensive and robust access to school and educational resources via live streaming, mobile application, webinars, an interactive map; &\r\n2) develop and activate a City-Wide Network of parents and educational leaders"
 Where will you be working?:
   - Central LA

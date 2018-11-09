@@ -9,17 +9,6 @@ title: 'Implementing LA County’s Strategic Plan for Economic Development: 2016
 project_summary: "LAEDC proposes to leverage its past success in leading collaborative economic development efforts to ramp up the 2016-2020 Strategic Plan’s implementation program around seven aspirational goals: \r\n1. Invest in Human Capital\r\n2. Strengthen Leading Traded Industries\r\n3. Catalyze Innovation Capacities\r\n4. Fix Infrastructure Development, Financing and Delivery Processes\r\n5. Create a More Business Friendly Environment\r\n6. Increase Global Connectedness\r\n7. Build More Livable Communities "
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23271%252Fdisplay%252FStratPlanProg_Cover.jpg=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   As LA County’s designated economic development leadership organization for
   over 34 years, the LAEDC’s purpose is to improve standards of living for LA

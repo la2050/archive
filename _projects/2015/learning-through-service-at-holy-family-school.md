@@ -16,8 +16,6 @@ project_summary: >-
   enriched through community connections.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23605%252Fdisplay%252FFullSizeRender-2.jpg=c570x385
-project_areas:
-  - San Gabriel Valley
 'In one to three sentences, please describe your proposal.': >-
   HFS hopes to transform the way education integrates learning through service
   by transforming our service-learning initiative into a model program and

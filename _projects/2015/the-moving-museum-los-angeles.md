@@ -16,8 +16,6 @@ project_summary: >-
   performances initiated by participating artists.
 project_image: 'https://img.youtube.com/vi/X9EpK48pYtY/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/X9EpK48pYtY'
-project_areas:
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   The Moving Museum runs a nomadic contemporary art program in significant
   locations across the world.

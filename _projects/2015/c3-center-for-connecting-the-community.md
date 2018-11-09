@@ -16,11 +16,6 @@ project_summary: >-
   Los Angeles. 
 project_image: 'https://img.youtube.com/vi/wmExJ7xdKYc/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/wmExJ7xdKYc'
-project_areas:
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': "Culture Shock LA utilizes urban dance, art, and culture to cultivate meaningful education, enrichment and entertainment programs\r\nin diverse communities."
 'In one to three sentences, please describe your proposal.': >-
   The Center for Connecting the Community (C3) is an arts-based community center

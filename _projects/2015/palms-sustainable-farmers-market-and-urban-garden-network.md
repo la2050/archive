@@ -16,9 +16,6 @@ project_summary: >-
   address the lack of stable school garden programs
 project_image: 'https://img.youtube.com/vi/g0KxazcQnVA/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/g0KxazcQnVA'
-project_areas:
-  - Westside
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   The Farmers Market and Urban Garden Network in Palms, one of the densest areas
   in L.A. instills environmental stewardship in our youth and the final bit of

@@ -16,8 +16,6 @@ project_summary: >-
   repeatable for diverse communities. 
 project_image: 'https://img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/TNz5Q0G-KAs'
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Localism Inc. fosters independent entrepreneurship to promote a more
   sustainable, self-reliant local economy.

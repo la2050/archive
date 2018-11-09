@@ -15,8 +15,6 @@ project_summary: >-
   overall ecosystem.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23862%252Fdisplay%252FScreen_Shot_2015-10-06_at_11.01.25_AM.png=c570x385
-project_areas:
-  - East LA
 'In one sentence, please describe what your organization does': >-
   We’re stimulating economic development and building a community that supports
   startups during the most critical stage of their growth cycle, by connecting

@@ -14,10 +14,6 @@ project_summary: >-
   online elections in LA that become a model for cities around the country.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23887%252Fdisplay%252Fcivictechusc_neighborhood_LA2050.png=c570x385
-project_areas:
-  - Central LA
-  - South LA
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Based at the USC Annenberg School for Communication and Journalism, Civic Tech
   USC is an initiative exploring how new technologies can help to reimagine

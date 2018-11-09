@@ -15,10 +15,6 @@ project_summary: >-
   goals.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24078%252Fdisplay%252FCollege_Access_Initiative.jpg=c570x385
-project_areas:
-  - South LA
-  - South Bay
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   We will expand and enhance our College Access Initiative in Carson and South
   Los Angeles. Students (6th to 12th grade) will receive a wide range of college

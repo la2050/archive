@@ -14,11 +14,6 @@ project_summary: >-
   obstacles. Find your path and take action!
 project_image: 'https://img.youtube.com/vi/k-SpD948tJc/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/k-SpD948tJc'
-project_areas:
-  - San Fernando Valley
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   TMPST Action Parks are uniquely designed to bring creative movement to
   communities everywhere through play, fitness, and overcoming obstacles. Our

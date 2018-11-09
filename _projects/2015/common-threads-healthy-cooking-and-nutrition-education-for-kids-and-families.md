@@ -16,9 +16,6 @@ project_summary: >-
   of 3,649 individuals. 
 project_image: 'https://img.youtube.com/vi/teuTGnS3vkM/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/teuTGnS3vkM'
-project_areas:
-  - County of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   We are seeking $100,000 in support of our hands-on, in- and out-of-school
   healthy cooking and nutrition education for underserved kids, their families,

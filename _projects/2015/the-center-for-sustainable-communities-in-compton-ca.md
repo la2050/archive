@@ -16,9 +16,6 @@ project_summary: >-
   stronger and more resilient.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23300%252Fdisplay%252FCSC_1.JPG=c570x385
-project_areas:
-  - South LA
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   Utilizing the model of "What Makes Community?" as our focus, NHS is working
   with the City of Compton, Pacific Coast Regional, and Metro CDC to create the

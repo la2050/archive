@@ -14,8 +14,6 @@ project_summary: >-
   industries. 
 project_image: 'https://img.youtube.com/vi/ByhCcHjp3FQ/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/ByhCcHjp3FQ'
-project_areas:
-  - East LA
 'In one sentence, please describe what your organization does': >-
   We publish BUNCH Magazine which equips creative professionals and those who
   are curious about careers in creative fields with tools, tips, and inspiration

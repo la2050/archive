@@ -16,7 +16,6 @@ project_summary: >-
   employ Shelter residents, many of whom are veterans. 
 project_image: 'https://img.youtube.com/vi/zqrk27Md2Bo/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/zqrk27Md2Bo'
-project_areas: []
 'In one to three sentences, please describe your proposal.': >-
   GrowGood, Inc., a non-profit organization, has worked since 2011 in
   partnership with the Salvation Army's Bell Homeless Shelter to transform the

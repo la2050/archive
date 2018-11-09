@@ -16,9 +16,6 @@ project_summary: >-
   technologies and connect with innovators.
 project_image: 'https://img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/zmZJYC2WFVk'
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   PortTech connects entrepreneurs, industry and community to advance innovation,
   solve port/global environmental challenges, and create jobs.

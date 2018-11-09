@@ -16,8 +16,6 @@ project_summary: >-
 project_image: >-
   https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/1381760_10150328123069943_1196124285_n.jpg?_nc_cat=105&oh=21b20fd87ee11f0bcb82e4d354982088&oe=5C62EAA3
 project_video: ''
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   CASA recruits and trains Court Appointed Special Advocates (CASAs) to advocate
   for and support an abused or neglected foster care child in the courtroom and

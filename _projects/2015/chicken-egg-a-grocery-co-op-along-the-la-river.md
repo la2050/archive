@@ -9,10 +9,6 @@ title: 'Chicken & Egg: A Grocery Co-op along the LA RIver'
 project_summary: "River Wild LLC propose to re-boot a beloved local grocery store and create a Co-op sourcing neighborhood goods, creating local jobs and educating local schools.\r\n\r\nLacking healthy food access, missing basic amenities and the real estate gold rush along the LA River have left modest neighborhoods without economic development drivers. As our LA River Cafe project proved, pop-up to permanent cottage businesses can meet the needs for jobs, healthy alternatives and locally operated small businesses. "
 project_image: 'https://img.youtube.com/vi/CTFt7gFp6BY/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/CTFt7gFp6BY'
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
 'In one to three sentences, please describe your proposal.': "River Wild LLC propose to re-boot a beloved local grocery store and create a Co-op sourcing neighborhood goods, creating local jobs and educating local schools.\r\n\r\nLacking healthy food access, missing basic amenities and the real estate gold rush along the LA River have left modest neighborhoods without economic development drivers. As our LA River Cafe project proved, pop-up to permanent cottage businesses can meet the needs for jobs, healthy alternatives and locally operated small businesses. "
 Where will you be working?:
   - Central LA

@@ -16,8 +16,6 @@ project_summary: >-
   projected 3,000 more students in Los Angeles. 
 project_image: 'https://img.youtube.com/vi/dYGBRY6Ol30/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/dYGBRY6Ol30'
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   CoachArt creates a transformative arts and athletics community for families
   impacted by childhood chronic illness. 

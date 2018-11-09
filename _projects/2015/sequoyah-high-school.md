@@ -15,11 +15,6 @@ project_summary: >-
   success can make a difference for their communities.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23515%252Fdisplay%252FDSC_0342.jpg=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
 'In one to three sentences, please describe your proposal.': >-
   Sequoyah school is establishing a new high school that will challenge the
   prevalent model for high school education in both public and private schools

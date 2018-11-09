@@ -17,10 +17,6 @@ project_summary: >-
   mental, emotional and life-philosophy health. 
 project_image: 'https://img.youtube.com/vi/yP9QgOVBaYA/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/yP9QgOVBaYA'
-project_areas:
-  - Westside
-  - South Bay
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   Our Institute proposes to offer integrative and holistic health and wellbeing
   prevention and intervention practices to individuals that may not have access

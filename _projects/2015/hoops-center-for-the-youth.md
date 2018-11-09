@@ -15,9 +15,6 @@ project_summary: >-
   obtaining a college athletic scholarship. 
 project_image: 'https://img.youtube.com/vi/IscZOss0am8/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/IscZOss0am8'
-project_areas:
-  - San Fernando Valley
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   By keeping the youth focused and occupied on sports, mainly basketball and
   education, will lead to less crime, less obesity, less high school drop outs,

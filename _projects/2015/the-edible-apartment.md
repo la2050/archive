@@ -16,8 +16,6 @@ project_summary: >-
   their health and community.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23185%252Fdisplay%252Fthumb_IMG_2442_1024_2.jpg=c570x385
-project_areas:
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   We will oversee the creation of 15 new Edible Apartments around the city of
   Los Angeles.  We will meet with building owners and residents to do a needs

@@ -9,18 +9,6 @@ title: Sustainable Future LA
 project_summary: "We propose to develop and implement a sustainability curriculum targeted to elementary school students. The fun and engaging educational content and related activities will provide a broad overview of sustainability, and emphasize how everyone is connected and how personal actions can have global effects. Our objective is to personalize climate change, and help develop an aware generation with the skill set to make and advocate for environmentally friendly choices.\r\n"
 project_image: 'https://img.youtube.com/vi/-cj1vPWlAdo/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/-cj1vPWlAdo'
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': "We propose to develop and implement a sustainability curriculum targeted to elementary school students. The fun and engaging educational content and related activities will provide a broad overview of sustainability, and emphasize how everyone is connected and how personal actions can have global effects. Our objective is to personalize climate change, and help develop an aware generation with the skill set to make and advocate for environmentally friendly choices.\r\n"
 Where will you be working?:
   - Central LA

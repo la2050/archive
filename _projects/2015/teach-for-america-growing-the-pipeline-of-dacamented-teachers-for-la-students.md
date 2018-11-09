@@ -15,13 +15,6 @@ project_summary: >-
   students who share the same background.
 project_image: 'https://img.youtube.com/vi/Iih_C_KRHL0/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Iih_C_KRHL0'
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   Given the issues facing our immigrant students in Los Angeles and with the
   announcement of Deferred Action for Childhood Arrivals (DACA) in 2012, we are

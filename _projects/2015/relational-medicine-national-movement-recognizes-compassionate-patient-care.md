@@ -15,8 +15,6 @@ project_summary: >-
   community.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24159%252Fdisplay%252FHeart_mid.jpg=c570x385
-project_areas:
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   The Foundation empowers patients and improves the humanism of patient care
   through its dedication to the “relationally present” person-to-person

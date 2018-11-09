@@ -9,8 +9,6 @@ title: FEAL.LA - A sanctuary for the arts.
 project_summary: "FEAL.LA was created to build a support system for musicians. Creating a program that empowers and educates musicians on the ever changing landscape, while drawing in the community around them.  \r\n\r\nFEAL.LA highlights L.A. musicians, and industry leaders through shareable content, unique experiences, and intimate gatherings. \r\n\r\nAll building towards our vision of creating a sanctuary for the arts. A one-stop-shop for independent artists, offering recording studios, accommodation, event space. \r\n\r\n "
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23967%252Fdisplay%252FLOGO.png=c570x385
-project_areas:
-  - East LA
 'In one sentence, please describe what your organization does': "FEAL.LA is an artist development platfrom for independent musicians, providing resources to connect to a broader community, with the vision to create a physical space where L.A. artists can come to collaborate. \r\n"
 'In one to three sentences, please describe your proposal.': "FEAL.LA was created to build a support system for musicians. Creating a program that empowers and educates musicians on the ever changing landscape, while drawing in the community around them.  \r\n\r\nFEAL.LA highlights L.A. musicians, and industry leaders through shareable content, unique experiences, and intimate gatherings. \r\n\r\nAll building towards our vision of creating a sanctuary for the arts. A one-stop-shop for independent artists, offering recording studios, accommodation, event space. \r\n\r\n "
 Where will you be working?:

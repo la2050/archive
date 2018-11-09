@@ -16,8 +16,6 @@ project_summary: >-
   discover a career & opportunities to succeed.
 project_image: 'https://img.youtube.com/vi/9l0UWGhKU-U/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/9l0UWGhKU-U'
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   JobCouch is a mobile enhanced platform to match hourly jobseekers with
   employers in the services industry.

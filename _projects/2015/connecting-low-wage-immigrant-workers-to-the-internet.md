@@ -16,9 +16,6 @@ project_summary: >-
   neighborhood councils. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23511%252Fdisplay%252F3014224447_e908044cf3_o.jpg=c570x385
-project_areas:
-  - San Fernando Valley
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   IDEPSCA organizes and educates low immigrant workers concerned with solving
   problems in their own communities in the areas of workforce and economic

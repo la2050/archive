@@ -18,10 +18,6 @@ project_summary: >-
   the next hub for K-12 education innovation.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23338%252Fdisplay%252FScreen_Shot_2015-10-03_at_3.51.42_PM.png=c570x385
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   Reframe engages frontline educators in collaborative school design, rethinking
   the factory school model in favor of designs that personalize learning for

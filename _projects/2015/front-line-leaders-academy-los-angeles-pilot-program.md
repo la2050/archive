@@ -16,8 +16,6 @@ project_summary: >-
   community service.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23751%252Fdisplay%252F2014_FLLA_2.JPG=c570x385
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   People For the American Way Foundation protects constitutional values under
   attack from the Right and defends the values that honor free speech, religious

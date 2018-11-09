@@ -12,7 +12,6 @@ project_summary: >-
   to healthier lifestyles. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24096%252Fdisplay%252Fexercise.jpg=c570x385
-project_areas: []
 'In one to three sentences, please describe your proposal.': >-
   Clinica Romero is a community health clinic dedicated to improve the health
   and lives of patients and community at large that proposes a holistic approach

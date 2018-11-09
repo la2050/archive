@@ -9,10 +9,6 @@ title: LOS ANGELES AUDUBON - Urban Nature Explored and Expressed
 project_summary: "Urban Nature Explored - To engage urban youth and their communities in the great outdoors through environmental stewardship via our on-going nature programs that are improving acres of parkland and re-imagining schoolyards as nature-filled learning centers. \r\nUrban Nature Expressed - To provide an artistic platform and Pop-Up gallery for under-served youth to showcase their interpretations of urban nature in LA, where students interact with the public."
 project_image: 'https://img.youtube.com/vi/gxmDmbwknC0/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/gxmDmbwknC0'
-project_areas:
-  - Central LA
-  - South LA
-  - Westside
 'In one to three sentences, please describe your proposal.': "Urban Nature Explored - To engage urban youth and their communities in the great outdoors through environmental stewardship via our on-going nature programs that are improving acres of parkland and re-imagining schoolyards as nature-filled learning centers. \r\nUrban Nature Expressed - To provide an artistic platform and Pop-Up gallery for under-served youth to showcase their interpretations of urban nature in LA, where students interact with the public."
 Where will you be working?:
   - Central LA

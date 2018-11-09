@@ -9,14 +9,6 @@ title: The Community Engagement Initiative
 project_summary: "The Community Engagement Initiative is a comprehensive Community Engagement Program with the vision that local government is responsive to the needs of the residents and Angelenos are contributing members to their community.\r\n\r\nIt is an \"evidence based practice\" that examines existing evidence based community engagement strategies and assesses how existing community resources, services and programs are being utilized to coordinate these services in an effective and efficient manner.\r\n"
 project_image: 'https://img.youtube.com/vi/aH5tvjvjOYE/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/aH5tvjvjOYE'
-project_areas:
-  - Central LA
-  - South LA
-  - Westside
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': >-
   Operations-South Bureau Community Stakeholder Collaboration is a community
   partnership connecting the community and local city government to make LA the

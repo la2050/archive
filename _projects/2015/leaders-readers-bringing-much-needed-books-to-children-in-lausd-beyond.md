@@ -16,10 +16,6 @@ project_summary: >-
   to fill the budget gap that LAUSD faces.
 project_image: 'https://img.youtube.com/vi/OKuHAUhFKxk/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/OKuHAUhFKxk'
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   M+B’s LEADERS+READERS program is designed to encourage student volunteers in
   the Los Angeles community to organize book drives benefiting another Los

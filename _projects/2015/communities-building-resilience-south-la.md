@@ -16,8 +16,6 @@ project_summary: >-
   communities. 
 project_image: 'https://img.youtube.com/vi/ERxmCic5y3o/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/ERxmCic5y3o'
-project_areas:
-  - South LA
 'In one to three sentences, please describe your proposal.': >-
   Low-income communities are most vulnerable to the threats of disaster. SCOPE
   has partnered with USGBC-LA and USGBC National on a long-term vision to

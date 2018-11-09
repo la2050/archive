@@ -18,7 +18,6 @@ project_summary: >-
   setting in the heart of the city. 
 project_image: 'https://img.youtube.com/vi/v-5UnN1CD0E/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/v-5UnN1CD0E'
-project_areas: []
 'In one to three sentences, please describe your proposal.': >-
   In close partnership with the California State Parks Department, we’ll
   continue the evolution of Kensington Presents from our front porch in Angeleno

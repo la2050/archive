@@ -16,12 +16,6 @@ project_summary: >-
   creating change in their communities.
 project_image: 'https://img.youtube.com/vi/2EbK6sblpo0/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/2EbK6sblpo0'
-project_areas:
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   Facing History will engage its LA Partnership Schools Network in a year-long
   journey to create compassionate school communities and build a stronger, more

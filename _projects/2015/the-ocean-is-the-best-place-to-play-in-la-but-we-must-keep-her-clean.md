@@ -16,8 +16,6 @@ project_summary: >-
   happening in the ocean.
 project_image: 'https://img.youtube.com/vi/laadW_CUhSY/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/laadW_CUhSY'
-project_areas:
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   At least once a month, we go to various shipwrecks and reefs that are covered
   in ghost nets, which will wreak havoc on fragile marine ecosystems for decades

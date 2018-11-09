@@ -18,9 +18,6 @@ project_summary: >-
   training ground for future play-workers. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24111%252Fdisplay%252FSCV_ADvplay_table_logo.png=c570x385
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   SCV Adventure Play is teaming up with Pop-up Adventure Play of the UK who will
   send an official play-worker to expand our pop-up adventure playgrounds into

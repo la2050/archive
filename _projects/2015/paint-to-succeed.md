@@ -14,8 +14,6 @@ project_summary: >-
   murals that will give pride to their local communities. 
 project_image: 'https://img.youtube.com/vi/s-SSOCwgWEs/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/s-SSOCwgWEs'
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   To promote peace and good will in the world by helping those in need through
   the arts. 

@@ -17,8 +17,6 @@ project_summary: >-
   socioeconomically disadvantaged, to become scientific scholars. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23564%252Fdisplay%252FIMG_9595_(5).jpg=c570x385
-project_areas:
-  - South LA
 'In one to three sentences, please describe your proposal.': >-
   Great Minds will be a hands-on, research-based initiative set to improve the
   STEM skills of boys and girls in Grades K-12, which will include sustained

@@ -15,7 +15,6 @@ project_summary: >-
   pursue their educational goals. 
 project_image: 'https://img.youtube.com/vi/20ErlmkuIfQ/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/20ErlmkuIfQ'
-project_areas: []
 'In one to three sentences, please describe your proposal.': >-
   Casa Libre is located in Westlake, Los Angeles, one of the densest immigrant
   communities and in the nation and also one of it's most underserved. Most

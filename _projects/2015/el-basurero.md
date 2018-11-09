@@ -16,10 +16,6 @@ project_summary: >-
   City, South LA and East LA swept clean.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23242%252Fdisplay%252F20150904_101442.jpg=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
 'In one to three sentences, please describe your proposal.': >-
   MyLA311 (http://lacity.org/myla-311/myla-311-service-request) is an excellent
   service that allows city residents who know about it get bulky items and

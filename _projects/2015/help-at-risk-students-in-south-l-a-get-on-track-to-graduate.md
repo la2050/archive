@@ -16,7 +16,6 @@ project_summary: >-
   implement their vision at the school.
 project_image: 'https://img.youtube.com/vi/_P0ljapOsHo/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/_P0ljapOsHo'
-project_areas: []
 'In one to three sentences, please describe your proposal.': >-
   The high school dropout crisis is enormous in scope, yet highly concentrated
   in just a few neighborhoods, like South L.A.  City Year LA and the Partnership

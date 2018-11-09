@@ -16,8 +16,6 @@ project_summary: >-
   and allowing for easy clean-up. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23235%252Fdisplay%252Fplay.jpg=c570x385
-project_areas:
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   I would like to see indoor play parks at various parks throughout the City of
   LA.  The play parks would be designed for children that are baby, infant, and

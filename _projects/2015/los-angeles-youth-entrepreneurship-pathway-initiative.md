@@ -16,15 +16,6 @@ project_summary: >-
   business, career and education goals.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24049%252Fdisplay%252FCrystal_Cropped_Big_Check.jpg=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - San Fernando Valley
-  - South LA
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   NFTE Greater LA proposes to expand our program enrollment to reach additional
   youth in the Los Angeles community. We also propose to build a pathway and

@@ -16,8 +16,6 @@ project_summary: >-
   (middle/elementary students) about effective leadership.
 project_image: 'https://img.youtube.com/vi/c9y0Bp8kgT4/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/c9y0Bp8kgT4'
-project_areas:
-  - South LA
 'In one to three sentences, please describe your proposal.': >-
   Second Chances Leadership Program builds and develops the self-confidence,
   life & leadership skills of youth through: Education, Financial Literacy,

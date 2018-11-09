@@ -17,9 +17,6 @@ project_summary: >-
   common sense of ownership of and pride in their neighborhood.
 project_image: 'https://img.youtube.com/vi/KHtt2okRChU/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/KHtt2okRChU'
-project_areas:
-  - Central LA
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   We want to create safer neighborhoods and stronger communities by giving
   locals the opportunity to use art to “repair” public intersections in their

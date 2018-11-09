@@ -16,10 +16,6 @@ project_summary: >-
   as our Ambassador Initiatives.
 project_image: 'https://img.youtube.com/vi/WendT0Sm-Tk/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/WendT0Sm-Tk'
-project_areas:
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': >-
   Urban Word LA provided diverse platforms for youth to cultivate and share
   their powerful voices.

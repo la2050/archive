@@ -16,11 +16,6 @@ project_summary: >-
   portion of the LA River to 20 locations alon
 project_image: 'https://img.youtube.com/vi/NlnlvjCu_AE/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/NlnlvjCu_AE'
-project_areas:
-  - Central LA
-  - East LA
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   TEN FEET 2016 will be a temporary arts and culture exhibition and a series of
   after school intergenerational workshops featuring local artists engaging

@@ -16,8 +16,6 @@ project_summary: >-
   complex, diverse, and ever-changing world. 
 project_image: 'https://img.youtube.com/vi/RVA2N6tX2cg/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/RVA2N6tX2cg'
-project_areas:
-  - City of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   In order to fulfill our mission, Citizens of the World seeks to construct a
   rich, comprehensive social-emotional learning (SEL) program, as we believe

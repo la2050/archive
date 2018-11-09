@@ -13,16 +13,6 @@ project_summary: >-
   employment and achieve their career goals.
 project_image: 'https://img.youtube.com/vi/myUKgR-PO4c/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/myUKgR-PO4c'
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - South Bay
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   The Employment Enhancement Project will provide business attire and
   pre-employment training to low-income residents of Los Angeles.  The resources

@@ -14,7 +14,6 @@ project_summary: >-
   replicated in additional juvenile facilities in the next three years.
 project_image: 'https://img.youtube.com/vi/jxDLaDNSLjo/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/jxDLaDNSLjo'
-project_areas: []
 'In one to three sentences, please describe your proposal.': >-
   To make Los Angeles a healthier place to live for some of the city’s most
   vulnerable young people, ARC will expand and enhance its unique mentorship

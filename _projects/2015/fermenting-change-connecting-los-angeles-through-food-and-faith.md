@@ -16,12 +16,6 @@ project_summary: >-
   interconnected and resilient Los Angeles.
 project_image: 'https://img.youtube.com/vi/z7nrpaONjUI/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/z7nrpaONjUI'
-project_areas:
-  - Central LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - Westside
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   Netiya is a food justice and interfaith network that fosters self-reliance and
   land stewardship to lead Angelenos of all faiths toward greater access to food

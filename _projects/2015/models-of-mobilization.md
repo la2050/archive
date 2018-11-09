@@ -16,12 +16,6 @@ project_summary: >-
   40% and increase tree canopy to an equitable 25%.   
 project_image: 'https://img.youtube.com/vi/r9LtyQwYAks/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/r9LtyQwYAks'
-project_areas:
-  - San Fernando Valley
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one to three sentences, please describe your proposal.': >-
   TreePeople will conduct a pilot-to-scale project in two communities that will
   determine what inhibits and motivates people to take specific environmental

@@ -18,13 +18,6 @@ project_summary: >-
   co-working space where members can connect & create.
 project_image: 'https://img.youtube.com/vi/LLupKVdXbLI/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/LLupKVdXbLI'
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - County of Los Angeles
-  - City of Los Angeles
-  - LAUSD
 'In one sentence, please describe what your organization does': >-
   DSTL Arts, Emerging Arts Leaders/LA & Trade School LA unite as The Partnership
   for Los Angeles' Creative Education, supporting at-risk youth, their families

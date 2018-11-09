@@ -16,9 +16,6 @@ project_summary: >-
   that more and more of  our young artists find success.
 project_image: 'https://img.youtube.com/vi/-_7F7nxyZ1Y/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/-_7F7nxyZ1Y'
-project_areas:
-  - Westside
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': >-
   For the past three years, PIECES has been empowering young L.A. artists to
   pursue their dreams by providing valuable creative tools including mentorship,

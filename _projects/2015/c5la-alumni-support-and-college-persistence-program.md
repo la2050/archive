@@ -16,8 +16,6 @@ project_summary: >-
   population to persist and succeed in college.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24065%252Fdisplay%252Fclass_of_2016_selfie.jpg=c570x385
-project_areas:
-  - County of Los Angeles
 'In one to three sentences, please describe your proposal.': >-
   C5LA serves kids at high risk for school dropout due to poverty, precarious
   living circumstances, and prevalence of gangs in their neighborhoods. Our

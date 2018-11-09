@@ -16,8 +16,6 @@ project_summary: >-
   media landscape.
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24006%252Fdisplay%252FCWA_SMC_KCRW_121010.jpg=c570x385
-project_areas:
-  - County of Los Angeles
 'In one sentence, please describe what your organization does': >-
   A service of Santa Monica College and a flagship NPR affiliate, KCRW is a
   public radio station that features an eclectic mix of news, music, and

@@ -14,12 +14,6 @@ project_summary: >-
   residents can co-create the future. 
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23743%252Fdisplay%252FScreen_Shot_2015-10-06_at_10.04.00_AM.png=c570x385
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - County of Los Angeles
-  - City of Los Angeles
 'In one sentence, please describe what your organization does': "The Urban & Environmental Policy Institute (UEPI) is a research, policy, and advocacy, organization at Occidental College committed to bringing about social change and a more just, livable and green society.\r\n"
 'In one to three sentences, please describe your proposal.': >-
   LA Mobilized is an initiative to showcase how LA can change how we move, and
