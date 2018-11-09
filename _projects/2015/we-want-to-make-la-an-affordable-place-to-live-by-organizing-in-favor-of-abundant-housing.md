@@ -19,8 +19,6 @@ project_summary: >-
 project_image: >-
   http://maker.good.is//s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23752%252Fdisplay%252FBuild_It!_Abundant_Housing_LA.jpg=c570x385
 project_video: ''
-project_areas: []
-maker_answers: {}
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/we-want-to-make-la-an-affordable-place-to-live-by-organizing-in-favor-of-abundant-housing/from_maker__abundanthousingla_2015_live.jpg
 

@@ -14,41 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1483407105741-team91.jpg
 project_video: 'https://player.vimeo.com/video/169895416?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  UFC measures success for our programs in the ultimate success of the youth we
-  serve.  For our education programs, the ultimate impact we seek is attainment
-  of a bachelors degree.  Along the way, key metrics include high school
-  graduation, college readiness as measured by successful completion of A-G
-  classes, application to post-secondary institutions, college admission and
-  receipt of all available financial aid.
-
-
-  Thanks to the generous support of the William & Flora Hewlett Foundation, UFC
-  is is working towards an impact evaluation of our programs by an independent
-  party. The overarching aim of this evaluation is to assess the effectiveness
-  of UFC’s programs in improving outcomes for both current and former foster
-  youth. In addition, we plan to study the impact of UFC’s relationship-based
-  approach to serving youth.  
-
-
-  UFC has been utilizing Social Solutions’ Efforts to Outcomes (ETO) database
-  since 2009. As of January 2015, we have implemented redesigned “Touchpoints” –
-  the interfaces that program staff uses to input data – for all UFC programs,
-  and we are currently refining the process of data collection and reporting.
-  UFC Counselors are responsible for entering data on all their interactions
-  with the youth they serve.  Review of the data is the role of our Outcomes &
-  Evaluation Director.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Believing that college access and success is the best path to
   self-sufficiency, United Friends of the Children has created an 11-year
   educational support continuum that helps foster youth graduate from high
@@ -56,21 +23,12 @@ project_description: >-
   degree.  100% of those in our Readiness program 4 years or more graduate HS,
   with more than 50% matriculating directly to 4-yr. schools;  70% of those in
   our College Sponsorship program earn a Bachelors within 5 years.
-project_impact: '["College completion","College matriculation rates"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
-project_proposal_description: >-
-  Believing that college access and success is the best path to
-  self-sufficiency, United Friends of the Children has created an 11-year
-  educational support continuum that helps foster youth graduate from high
-  school, aspire to and attain college acceptance, and earn their Bachelors
-  degree.  100% of those in our Readiness program 4 years or more graduate HS,
-  with more than 50% matriculating directly to 4-yr. schools;  70% of those in
-  our College Sponsorship program earn a Bachelors within 5 years.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   UFC has created an 11-year education support continuum that follows foster
   youth from the seventh grade through the completion of a Bachelor’s degree.
   UFC’s College Readiness (CRP) and College Sponsorship (CSP) programs work
@@ -114,6 +72,38 @@ project_proposal_best_place: >-
   CRP and attending universities through the CSP.  In 2016, 18 seniors
   participating in the CRP joined the latest cohort in the CSP.  In total, more
   than 200 students will participate in the CSP.
+Please explain how you will define and measure success for your project.​: >-
+  UFC measures success for our programs in the ultimate success of the youth we
+  serve.  For our education programs, the ultimate impact we seek is attainment
+  of a bachelors degree.  Along the way, key metrics include high school
+  graduation, college readiness as measured by successful completion of A-G
+  classes, application to post-secondary institutions, college admission and
+  receipt of all available financial aid.
+
+
+  Thanks to the generous support of the William & Flora Hewlett Foundation, UFC
+  is is working towards an impact evaluation of our programs by an independent
+  party. The overarching aim of this evaluation is to assess the effectiveness
+  of UFC’s programs in improving outcomes for both current and former foster
+  youth. In addition, we plan to study the impact of UFC’s relationship-based
+  approach to serving youth.  
+
+
+  UFC has been utilizing Social Solutions’ Efforts to Outcomes (ETO) database
+  since 2009. As of January 2015, we have implemented redesigned “Touchpoints” –
+  the interfaces that program staff uses to input data – for all UFC programs,
+  and we are currently refining the process of data collection and reporting.
+  UFC Counselors are responsible for entering data on all their interactions
+  with the youth they serve.  Review of the data is the role of our Outcomes &
+  Evaluation Director.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/college-is-for-foster-youth/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1483407105741-team91.jpg
 organization_name: United Friends of the Children

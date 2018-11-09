@@ -15,45 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0674973265741-team91.png
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: none - we will work with consultants who may be organizations
-project_measure: >-
-  We define success as expanding awareness of the need for more housing of all
-  types in LA County and for policy change and innovation to allow more housing
-  to be built. 
-
-
-
-  We will measure awareness of the need for more housing by 
-
-  - distribution, hits and engagement of project posts, visuals, memes and
-  report 
-
-
-
-  We will measure awareness of the need for housing policy changes by
-
-  - mentions of need for more housing by decision makers and influencers
-
-  - upzones in any new general plans, community plans or specific plans in
-  jurisdictions in LA county
-
-
-
-  We will measure awareness of the need for innovation in housing production by
-
-  - formation and activities of housing innovation start up companies in LA 
-
-  - lower cost housing prototypes and projects proposed, tested or permitted in
-  LA
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Open House LA encourages residents and policy makers to be more open to adding
   more housing of all types in Los Angeles County. it is urgent -- and
   possible-- to build more housing in LA county more rapidly.  Our project will
@@ -61,20 +24,11 @@ project_description: >-
   the housing we live in today was built, why housing production slowed in
   recent decades, and how we can accelerate adding housing of all types so that
   LA can have homes for all types of people.
-project_impact: '["Housing affordability","Resilient communities","Homelessness"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Housing affordability
   - Resilient communities
   - Homelessness
-project_proposal_description: >-
-  Open House LA encourages residents and policy makers to be more open to adding
-  more housing of all types in Los Angeles County. it is urgent -- and
-  possible-- to build more housing in LA county more rapidly.  Our project will
-  produce engaging and easy to understand visuals and a report explaining how
-  the housing we live in today was built, why housing production slowed in
-  recent decades, and how we can accelerate adding housing of all types so that
-  LA can have homes for all types of people.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -85,7 +39,7 @@ project_areas:
   - Gateway Cities
   - Antelope Valley
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   We cannot live better in LA unless there are enough homes so people can afford
   to stay in and move to Los Angeles. 
 
@@ -159,6 +113,42 @@ project_proposal_best_place: >-
   We will distribute them via social media and other channels. Once the report
   is complete, we will share it online and via a panel discussion / launch event
   and social media event.
+Please explain how you will define and measure success for your project.​: >-
+  We define success as expanding awareness of the need for more housing of all
+  types in LA County and for policy change and innovation to allow more housing
+  to be built. 
+
+
+
+  We will measure awareness of the need for more housing by 
+
+  - distribution, hits and engagement of project posts, visuals, memes and
+  report 
+
+
+
+  We will measure awareness of the need for housing policy changes by
+
+  - mentions of need for more housing by decision makers and influencers
+
+  - upzones in any new general plans, community plans or specific plans in
+  jurisdictions in LA county
+
+
+
+  We will measure awareness of the need for innovation in housing production by
+
+  - formation and activities of housing innovation start up companies in LA 
+
+  - lower cost housing prototypes and projects proposed, tested or permitted in
+  LA
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/open-house-la-making-los-angeles-more-open-to-more-housing/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0674973265741-team91.png
 organization_name: Evolve LA (project of LA-Más)

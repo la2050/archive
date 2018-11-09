@@ -17,9 +17,43 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3013757055741-team88.JPG
 project_video: 'https://www.youtube.com/embed/RLWhGmroxoM?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None.
-project_measure: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
+  Lost Angels Children's Project provides an engaging after-school program
+  serving local at-risk and foster youth. Twice a week, 10-13 youth attend the
+  LACP facility to participate in workshops for two-hours. Youth, ages 11-19,
+  learn classic car restoration and customizing techniques, which provide job
+  and life skills training, character building, and enforces academic subjects
+  of science, technology, engineering, arts, and mathematics (STEAM).
+Which metrics will your proposal impact?​:
+  - Youth unemployment and underemployment
+In what areas of Los Angeles will you be directly working?:
+  - Antelope Valley
+Describe in greater detail how your proposal will make LA the best place.: >-
+  LACP is committed to providing a safe after-school environment where the youth
+  can develop skills necessary to take with them and elevate them beyond their
+  present condition and become positive participants in their community, while
+  learning a trade. 
+
+
+  Along with learning how to work on cars, workshops foster and stimulate
+  student creativity, critical independent thinking and personal responsibility.
+  Each week the students are encouraged to challenge themselves and take the
+  skills learned in the car restoration process to
+
+  create a work of art of their own design which opens inner self creative
+  discovery and knowledge that everything learned in class can be applied to
+  other fields. LACP gives our students a guide in which to develop practical
+  skills they can take into the real world, and learn how these useful skills
+  can be turned into a pathway to finding jobs and gratifying work in a field
+  they enjoy -- without turning to the streets.
+
+
+  The overarching goal of LACP is to provide a minimum of 50 unduplicated
+  at-risk, disadvantaged and foster youth with hands-on vocational skills
+  training, mentorship, and development activities that can prevent anti-social
+  behaviors, break the cycle of poverty, and promote a successful future.
+Please explain how you will define and measure success for your project.​: >-
   Over a one-year period, LACP will achieve the following objectives:
 
   1)Support the healthy development of approximately 50 unduplicated, at-risk,
@@ -48,56 +82,13 @@ project_measure: >-
   at additional ways of capturing program outcomes. Quantifiably, we track the
   number of students at each workshop session and the number of times they
   return to continue participating in LACP programming.
-project_proposal_help:
+How can the LA2050 community and other stakeholders help your proposal succeed?:
   - 'Money '
   - Volunteers
   - Advisors/board members
   - 'Staff '
   - Publicity/awareness
   - Infrastructure (building/space/vehicles etc.)
-project_description: >-
-  Lost Angels Children's Project provides an engaging after-school program
-  serving local at-risk and foster youth. Twice a week, 10-13 youth attend the
-  LACP facility to participate in workshops for two-hours. Youth, ages 11-19,
-  learn classic car restoration and customizing techniques, which provide job
-  and life skills training, character building, and enforces academic subjects
-  of science, technology, engineering, arts, and mathematics (STEAM).
-project_impact: '["Youth unemployment and underemployment"]'
-project_proposal_impact:
-  - Youth unemployment and underemployment
-project_proposal_description: >-
-  Lost Angels Children's Project provides an engaging after-school program
-  serving local at-risk and foster youth. Twice a week, 10-13 youth attend the
-  LACP facility to participate in workshops for two-hours. Youth, ages 11-19,
-  learn classic car restoration and customizing techniques, which provide job
-  and life skills training, character building, and enforces academic subjects
-  of science, technology, engineering, arts, and mathematics (STEAM).
-project_areas:
-  - Antelope Valley
-project_proposal_best_place: >-
-  LACP is committed to providing a safe after-school environment where the youth
-  can develop skills necessary to take with them and elevate them beyond their
-  present condition and become positive participants in their community, while
-  learning a trade. 
-
-
-  Along with learning how to work on cars, workshops foster and stimulate
-  student creativity, critical independent thinking and personal responsibility.
-  Each week the students are encouraged to challenge themselves and take the
-  skills learned in the car restoration process to
-
-  create a work of art of their own design which opens inner self creative
-  discovery and knowledge that everything learned in class can be applied to
-  other fields. LACP gives our students a guide in which to develop practical
-  skills they can take into the real world, and learn how these useful skills
-  can be turned into a pathway to finding jobs and gratifying work in a field
-  they enjoy -- without turning to the streets.
-
-
-  The overarching goal of LACP is to provide a minimum of 50 unduplicated
-  at-risk, disadvantaged and foster youth with hands-on vocational skills
-  training, mentorship, and development activities that can prevent anti-social
-  behaviors, break the cycle of poverty, and promote a successful future.
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/skills-development-creative-expression-and-team-building-through-classic-car-restoration/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3013757055741-team88.JPG
 organization_name: Lost Angels Children's Project

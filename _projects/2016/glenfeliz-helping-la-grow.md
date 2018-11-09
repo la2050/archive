@@ -11,48 +11,8 @@ project_summary: 'Glenfeliz: Helping LA Grow'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9449291893741-team90.jpg
 project_video: 'https://www.youtube.com/embed/UOyRvF_8T3s?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: none.
-project_measure: >-
-  Numerous studies have proven a connection between good nutrition and
-  performance in school. J. Michael Murphy, an associate professor of psychology
-  at Harvard Medical School, noted that 'when students in large urban
-  communities are given the opportunity to learn about ecology in a real-world
-  context, they are more enthusiastic about attending school, make better
-  grades, eat healthier food due to wiser food choices, and become more
-  knowledgeable about natural processes.' 
-
-  We have access to several key metrics which can help measure the effectiveness
-  of our program:
-
-
-  1) We anticipate an increase on our standardized test scores of five
-  percentage points per year over the next five years.
-
-
-  2) Fitnessgram results. Each year, fifth graders go through a set of physical
-  fitness tests. In spring of 2016, [averages data from the most recent
-  fitnessgram results]. In Los Angeles City Council District 13, where Glenfeliz
-  is located, the Los Angeles County Department of Public Health estimates that
-  27.6% of children are obese, compared to 22.4% across the County and with
-  rates under 10% in many more affluent communities. We expect that over the
-  next five years, Glenfeliz's average performance on fitness tests will improve
-  by 25%.   In five years, the fifth graders who are being tested will have
-  mostly been enrolled in the SAS program since Kindergarten.
-
-
-  3) We administer two different health and nutrition awareness surveys to our
-  students each year, at the beginning of the year and again a
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Education/training '
-  - Technical infrastructure (computers
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: none.
+Please describe your project proposal.: >-
   This year, Glenfeliz Elementary School became the first LAUSD School for
   Advanced Studies (SAS) focused on Farm-to-Table Garden and Culinary Arts. Our
   program integrates gardening and cooking into the Common Core curriculum,
@@ -60,27 +20,16 @@ project_description: >-
   the first of our program is complete, our goal is to expand our cooking
   program and to grow into the model elementary school in Los Angeles for
   health, nutrition and sustainability.
-project_impact: >-
-  ["Access to healthy food","Self-sufficiency","Obesity","Resilient
-  communities","Prevalence of adverse childhood experiences"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to healthy food
   - Self-sufficiency
   - Obesity
   - Resilient communities
   - Prevalence of adverse childhood experiences
-project_proposal_description: >-
-  This year, Glenfeliz Elementary School became the first LAUSD School for
-  Advanced Studies (SAS) focused on Farm-to-Table Garden and Culinary Arts. Our
-  program integrates gardening and cooking into the Common Core curriculum,
-  stimulating student interest in learning while promoting good health. Now that
-  the first of our program is complete, our goal is to expand our cooking
-  program and to grow into the model elementary school in Los Angeles for
-  health, nutrition and sustainability.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - East LA
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Obesity, access to healthy food and the environment are all major concerns in
   Los Angeles. Several years ago, Glenfeliz Elementary  School began a
   multi-year collaborative process to help address these concerns within our
@@ -124,6 +73,45 @@ project_proposal_best_place: >-
   more cooking classes for both our students and parents through Common Threads,
   as well as providing us opportunities to share our gardening and culinary
   expertise through more nutrition-oriented community programs.
+Please explain how you will define and measure success for your project.​: >-
+  Numerous studies have proven a connection between good nutrition and
+  performance in school. J. Michael Murphy, an associate professor of psychology
+  at Harvard Medical School, noted that 'when students in large urban
+  communities are given the opportunity to learn about ecology in a real-world
+  context, they are more enthusiastic about attending school, make better
+  grades, eat healthier food due to wiser food choices, and become more
+  knowledgeable about natural processes.' 
+
+  We have access to several key metrics which can help measure the effectiveness
+  of our program:
+
+
+  1) We anticipate an increase on our standardized test scores of five
+  percentage points per year over the next five years.
+
+
+  2) Fitnessgram results. Each year, fifth graders go through a set of physical
+  fitness tests. In spring of 2016, [averages data from the most recent
+  fitnessgram results]. In Los Angeles City Council District 13, where Glenfeliz
+  is located, the Los Angeles County Department of Public Health estimates that
+  27.6% of children are obese, compared to 22.4% across the County and with
+  rates under 10% in many more affluent communities. We expect that over the
+  next five years, Glenfeliz's average performance on fitness tests will improve
+  by 25%.   In five years, the fifth graders who are being tested will have
+  mostly been enrolled in the SAS program since Kindergarten.
+
+
+  3) We administer two different health and nutrition awareness surveys to our
+  students each year, at the beginning of the year and again a
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Education/training '
+  - Technical infrastructure (computers
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/glenfeliz-helping-la-grow/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9449291893741-team90.jpg
 organization_name: Friends of Glenfeliz

@@ -17,50 +17,8 @@ project_summary: >-
 project_image: >-
   https://scontent-lax3-1.cdninstagram.com/vp/8eeee6963e780259dfd6477d6f2e86b6/5C55FCEF/t51.2885-15/e35/21984637_244426656081944_7828350230864068608_n.jpg
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  The proposed activities for the Man2Man Project are designed to give at-risk
-  young males hope, goals, purpose, a positive attitude, and the knowledge and
-  skills to become responsible adults and successful parents.  Objectives
-  include:
-
-  * Recruit, train, and involve at least 150 participants (15 Young Dads, 15
-  Adult Mentors, 120 middle and high school youths) over a one year period
-
-  * Increase social and emotional connections to positive male mentors and peers
-
-  * Increase the rate of volunteerism in our community
-
-  * Increase knowledge of male responsibility in pregnancy prevention
-
-  * Increase respect for importance of parenting responsibilities and skills
-
-  * Increase goal setting skills
-
-  * Increase leadership, organization, and presentation skills
-
-  * Increase respect for women and girls, especially parenting partners
-
-  * Decrease incidence of unplanned pregnancies
-
-  Friends of the Family (FOF) will develop and administer validated evaluation
-  surveys to measure progress toward these objectives before, during, and after
-  activities and will gather qualitative data via group and one-to-one
-  discussions throughout the project. The surveys will measure changes in
-  perceptions, attitudes, knowledge, and behavior. The domains of social and
-  emotional competence, connectedness, and rates of volunteerism will be
-  prominent measureable components of the evaluation.
-
-  FOF utilizes a web-based data system called Efforts to Outcomes (ETO) to
-  organize and track program information
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   The Man2Man Project will expand the lauded Young Dads program at Friends of
   the Family in two ways.  Adult male volunteers will be recruited and trained
   to provide one-to-one mentorship for Young Dads participants, a majority of
@@ -68,21 +26,12 @@ project_description: >-
   will simultaneously train the Young Dads participants to work with middle and
   high school at-risk boys in an effort to prevent them from also becoming
   fathers too soon.
-project_impact: '["Social & emotional support","Rates of volunteerism"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Rates of volunteerism
-project_proposal_description: >-
-  The Man2Man Project will expand the lauded Young Dads program at Friends of
-  the Family in two ways.  Adult male volunteers will be recruited and trained
-  to provide one-to-one mentorship for Young Dads participants, a majority of
-  whom did not have a father or male role model as they grew up.  The Project
-  will simultaneously train the Young Dads participants to work with middle and
-  high school at-risk boys in an effort to prevent them from also becoming
-  fathers too soon.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - San Fernando Valley
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The Man2Man Project (M2M) will help make LA the best place to connect by
   creating a network of support for boys and young men from disadvantaged
   neighborhoods who struggle to break the cycles of teen pregnancy and single
@@ -131,6 +80,47 @@ project_proposal_best_place: >-
   each other “man to man” around the importance of responsible fatherhood, the
   M2M Project will impact future generations and help make LA the best place to
   connect.
+Please explain how you will define and measure success for your project.​: >-
+  The proposed activities for the Man2Man Project are designed to give at-risk
+  young males hope, goals, purpose, a positive attitude, and the knowledge and
+  skills to become responsible adults and successful parents.  Objectives
+  include:
+
+  * Recruit, train, and involve at least 150 participants (15 Young Dads, 15
+  Adult Mentors, 120 middle and high school youths) over a one year period
+
+  * Increase social and emotional connections to positive male mentors and peers
+
+  * Increase the rate of volunteerism in our community
+
+  * Increase knowledge of male responsibility in pregnancy prevention
+
+  * Increase respect for importance of parenting responsibilities and skills
+
+  * Increase goal setting skills
+
+  * Increase leadership, organization, and presentation skills
+
+  * Increase respect for women and girls, especially parenting partners
+
+  * Decrease incidence of unplanned pregnancies
+
+  Friends of the Family (FOF) will develop and administer validated evaluation
+  surveys to measure progress toward these objectives before, during, and after
+  activities and will gather qualitative data via group and one-to-one
+  discussions throughout the project. The surveys will measure changes in
+  perceptions, attitudes, knowledge, and behavior. The domains of social and
+  emotional competence, connectedness, and rates of volunteerism will be
+  prominent measureable components of the evaluation.
+
+  FOF utilizes a web-based data system called Efforts to Outcomes (ETO) to
+  organize and track program information
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/the-man2man-project-preventing-boys-from-becoming-dads-too-early-and-helping-teen-dads-to-step-up/scontent-lax3-1.cdninstagram.com/vp/8eeee6963e780259dfd6477d6f2e86b6/5C55FCEF/t51.2885-15/e35/21984637_244426656081944_7828350230864068608_n.jpg
 organization_name: Friends of the Family

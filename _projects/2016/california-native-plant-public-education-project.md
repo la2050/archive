@@ -15,29 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5030775394741-team91.jpg
 project_video: 'https://www.youtube.com/embed/LxJHEQHCP5c?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: Arroyo Seco Foundation
-project_measure: >-
-  LIFE’s YouTube channel analytics measure our playback locations, traffic
-  sources, subscribers and distribution partners. A dramatic increase in our
-  audience size will be a direct measure of the success of our project. Indirect
-  measures of success will be increased native plant availability and sales at
-  nurseries, more native plant landscapes in public and private spaces, growing
-  interest in native plant gardening, a healthier watershed, and more
-  butterflies and birds (not just generalist species such as crows and pigeons,
-  but specialist species such as cedar waxwings, scrub jays and Square-Spotted
-  Blue butterflies.) All these, along with water bills that reflect a reduction
-  in water consumption, will provide visible evidence that the films are driving
-  change for a healthy, resilient and beautiful Los Angeles by 2050.
-project_proposal_help:
-  - 'Money '
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Education/training '
-  - Technical infrastructure (computers
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: Arroyo Seco Foundation
+Please describe your project proposal.: >-
   The 2050 Challenge grant will fully support one series of short-content films.
   Our proposed series is “Mixing California Native with Non-Native Plants”.
   These short films show people how to retrofit their non-native gardens with
@@ -45,21 +24,12 @@ project_description: >-
   our butterflies, birds and other animals can’t live without. Use these films
   to retrofit with native plants for creating a beautiful resilient LA where
   nature and urban agriculture can thrive!
-project_impact: '["Waterways","Local water","Resilient communities","Tree canopy cover"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Waterways
   - Local water
   - Resilient communities
   - Tree canopy cover
-project_proposal_description: >-
-  The 2050 Challenge grant will fully support one series of short-content films.
-  Our proposed series is “Mixing California Native with Non-Native Plants”.
-  These short films show people how to retrofit their non-native gardens with
-  native plants adapted to our rainfall, climate, and soil – plants that most of
-  our butterflies, birds and other animals can’t live without. Use these films
-  to retrofit with native plants for creating a beautiful resilient LA where
-  nature and urban agriculture can thrive!
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -72,7 +42,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Through the content of these films and the action they inspire, the LA2050
   landscape can be one of beauty with ecological function and decreased reliance
   on aquifers and imported water. For LA to become this environmentally
@@ -126,6 +96,26 @@ project_proposal_best_place: >-
 
   Our proposed films will help inform the public about how to use LA’s rich
   natural heritage for making LA the best place to live in 2050.
+Please explain how you will define and measure success for your project.​: >-
+  LIFE’s YouTube channel analytics measure our playback locations, traffic
+  sources, subscribers and distribution partners. A dramatic increase in our
+  audience size will be a direct measure of the success of our project. Indirect
+  measures of success will be increased native plant availability and sales at
+  nurseries, more native plant landscapes in public and private spaces, growing
+  interest in native plant gardening, a healthier watershed, and more
+  butterflies and birds (not just generalist species such as crows and pigeons,
+  but specialist species such as cedar waxwings, scrub jays and Square-Spotted
+  Blue butterflies.) All these, along with water bills that reflect a reduction
+  in water consumption, will provide visible evidence that the films are driving
+  change for a healthy, resilient and beautiful Los Angeles by 2050.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Education/training '
+  - Technical infrastructure (computers
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/california-native-plant-public-education-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5030775394741-team91.jpg
 organization_name: Landscape Integrity Films and Education (LIFE)

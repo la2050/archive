@@ -14,32 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7522135096741-team90.jpg
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  MDA is a very reputable organization, founded in 1950. Through societal
-  changes, research and funding changes, as well as the annual differences made
-  in those 66 years, MDA remains a strong organization, helping over 4,000
-  families in the Greater Los Angeles area. As for MDA Summer Camp, each year,
-  our goal is to increase the number of campers, volunteers and sponsorship
-  support. We feel that we have reached our sustainable goals in a few different
-  ways. When campers and counselors provide feedback to the camp staff stating
-  how much they love camp and how great their experience is, we know we have
-  succeeded in setting forth our goal of meeting and exceeding campers and their
-  family’s expectations. Additionally, each year we set a goal for our number of
-  campers and volunteers. This number consistently increases annually. This
-  gives us the quantitative results which correlate with success in our MDA
-  Summer Camp goals.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - 'Education/training '
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Kids with muscular dystrophy, spinal muscular atrophy and related
   life-threatening diseases face daily challenges that often make “just being a
   kid” difficult. MDA Summer Camp gives kids ages 6-17 the freedom to be kids
@@ -47,22 +23,11 @@ project_description: >-
   friendship. Through the magic of summer camp, MDA offers a world of
   possibilities to campers — from swimming and horseback riding to zip-lining,
   adaptive sports and camp dances.
-project_impact: >-
-  ["Healthcare access","Residents receiving coordinated healthcare
-  services","Prevalence of adverse childhood experiences"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Healthcare access
   - Residents receiving coordinated healthcare services
   - Prevalence of adverse childhood experiences
-project_proposal_description: >-
-  Kids with muscular dystrophy, spinal muscular atrophy and related
-  life-threatening diseases face daily challenges that often make “just being a
-  kid” difficult. MDA Summer Camp gives kids ages 6-17 the freedom to be kids
-  with others who are just like them during a life-changing week of fun and
-  friendship. Through the magic of summer camp, MDA offers a world of
-  possibilities to campers — from swimming and horseback riding to zip-lining,
-  adaptive sports and camp dances.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -75,7 +40,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   MDA summer camp is the only camp of its kind, supporting and giving the
   opportunity to children ages 6-17 to join their peers, also facing similar
   struggles in life. Children living with muscular dystrophy and related
@@ -119,6 +84,29 @@ project_proposal_best_place: >-
   these kids are the only one at their school in a wheelchair or with braces for
   their legs. At summer camp, this is the norm. All of our kids are able to feel
   the support of their peers and build friendships that last a lifetime.
+Please explain how you will define and measure success for your project.​: >-
+  MDA is a very reputable organization, founded in 1950. Through societal
+  changes, research and funding changes, as well as the annual differences made
+  in those 66 years, MDA remains a strong organization, helping over 4,000
+  families in the Greater Los Angeles area. As for MDA Summer Camp, each year,
+  our goal is to increase the number of campers, volunteers and sponsorship
+  support. We feel that we have reached our sustainable goals in a few different
+  ways. When campers and counselors provide feedback to the camp staff stating
+  how much they love camp and how great their experience is, we know we have
+  succeeded in setting forth our goal of meeting and exceeding campers and their
+  family’s expectations. Additionally, each year we set a goal for our number of
+  campers and volunteers. This number consistently increases annually. This
+  gives us the quantitative results which correlate with success in our MDA
+  Summer Camp goals.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - 'Education/training '
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/live-unlimited-with-mdas-summer-camp/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7522135096741-team90.jpg
 organization_name: Muscular Dystrophy Association

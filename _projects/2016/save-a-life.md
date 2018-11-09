@@ -14,49 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9035316643741-team90.jpg
 project_video: 'https://www.youtube.com/embed/vJZsFAP-f-E?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Because of HHCLA, Los Angeles region’s most vulnerable population has the
-  resources and linkages to care to lead healthier, informed lives. And everyone
-  in the community benefits when they do.
-
-
-  HHCLA's plan for defining and measuring success is designed to create and
-  sustain a culture of continuous quality improvement, and client involvement in
-  the operations of the program and commitment to provide the highest quality
-  services. The agency’s comprehensive plan ensures that resources are
-  consistently available to conduct Quality Control, Assurance, and Improvement
-  processes and activities within the agency. Essential strategies HHCLA uses to
-  solicit feedback include: 1) conducting needs assessments to identify gaps in
-  services or program needs; 2) administering client satisfaction surveys on a
-  quarterly basis; 3) staff surveys/input; 4) conducting program evaluations to
-  assess the effectiveness of the services being provided; 5) staff trainings;
-  6) productivity standards; and 7) performance evaluations. Examples of
-  utilization review activities include: number of overdose prevention trainings
-  provided to clients and local agencies, number of naloxone/overdose prevention
-  kits distributed, review of access to services; and program participation
-  rates.
-
-
-  While these efforts support the overall goal of the plan to define and measure
-  success, true success is every time an overdose is reversed via HHCLA and the
-  community’s efforts. Success means saving lives.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles
-  - ' etc.)'
-  - 'Education/training '
-  - Technical infrastructure (computers
-  - ' etc.)'
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Los Angeles and the rest of the country are experiencing an opioid epidemic,
   and drug overdose deaths are now the leading cause of unintended death in the
   US, over car accidents. Help HHCLA save lives via its naloxone distribution
@@ -64,11 +23,7 @@ project_description: >-
   epidemic. HHCLA clients have reported over 1,000 overdose reversals to date
   and this number will only continue to grow with the proper training and
   resources.
-project_impact: >-
-  ["Access to healthy food","Housing affordability","Healthcare
-  access","Self-sufficiency","Resilient communities","Residents receiving
-  coordinated healthcare services","Homelessness","Mental illness"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to healthy food
   - Housing affordability
   - Healthcare access
@@ -77,17 +32,9 @@ project_proposal_impact:
   - Residents receiving coordinated healthcare services
   - Homelessness
   - Mental illness
-project_proposal_description: >-
-  Los Angeles and the rest of the country are experiencing an opioid epidemic,
-  and drug overdose deaths are now the leading cause of unintended death in the
-  US, over car accidents. Help HHCLA save lives via its naloxone distribution
-  program that empowers people to make a real impact in this increasing
-  epidemic. HHCLA clients have reported over 1,000 overdose reversals to date
-  and this number will only continue to grow with the proper training and
-  resources.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   HHCLA is dedicated to responding to the increasingly complicated health care
   issues of the Los Angeles area homeless and vulnerable populations. HHCLA does
   whatever is necessary to help unhoused individuals secure housing and to stay
@@ -147,6 +94,46 @@ project_proposal_best_place: >-
 
   According to LA County, 1 death could be prevented for every 227 naloxone kits
   distributed. Be part of curbing this epidemic!
+Please explain how you will define and measure success for your project.​: >-
+  Because of HHCLA, Los Angeles region’s most vulnerable population has the
+  resources and linkages to care to lead healthier, informed lives. And everyone
+  in the community benefits when they do.
+
+
+  HHCLA's plan for defining and measuring success is designed to create and
+  sustain a culture of continuous quality improvement, and client involvement in
+  the operations of the program and commitment to provide the highest quality
+  services. The agency’s comprehensive plan ensures that resources are
+  consistently available to conduct Quality Control, Assurance, and Improvement
+  processes and activities within the agency. Essential strategies HHCLA uses to
+  solicit feedback include: 1) conducting needs assessments to identify gaps in
+  services or program needs; 2) administering client satisfaction surveys on a
+  quarterly basis; 3) staff surveys/input; 4) conducting program evaluations to
+  assess the effectiveness of the services being provided; 5) staff trainings;
+  6) productivity standards; and 7) performance evaluations. Examples of
+  utilization review activities include: number of overdose prevention trainings
+  provided to clients and local agencies, number of naloxone/overdose prevention
+  kits distributed, review of access to services; and program participation
+  rates.
+
+
+  While these efforts support the overall goal of the plan to define and measure
+  success, true success is every time an overdose is reversed via HHCLA and the
+  community’s efforts. Success means saving lives.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - ' etc.)'
+  - 'Education/training '
+  - Technical infrastructure (computers
+  - ' etc.)'
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/save-a-life/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9035316643741-team90.jpg
 organization_name: Homeless Health Care Los Angeles

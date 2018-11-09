@@ -17,52 +17,10 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7432986155741-team90.jpg
 project_video: 'https://www.youtube.com/embed/IgcIdSHSnMc?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   UCLA MESA, The Girl Scouts of Greater Los Angeles, Los Angeles Southwest
   College Urban Teacher Fellowship
-project_measure: >-
-  Engineer Factory will use the following SMART Objectives to measure project
-  success:
-
-
-  Objective 1: By December 31, 2017, the Engineer Factory will conduct at least
-  twelve Pop-Up Community workshops with at least with at least 450 4th-8th
-  grade participants.  Via pre- and post-tests, at least 70% of the participants
-  will demonstrate increased engineer knowledge.
-
-
-  Objective 2: By December 31, 2017 at least five EF supported teams of at least
-  10 members each will successfully design, build and enter projects into local
-  regional engineer-related competitions.
-
-
-  Objective 3: By December 31, 2017 Engineer Factory will successfully execute
-  an agreement with the UCLA MESA program to be its first non-school-based MESA
-  program based in South Los Angeles.  EF will conduct due diligence to meet
-  program training and requirements, partner wih LASC UTF to hire at least two
-  student instructors and recruit at least 30 students to enroll in the EF MESA
-  program.  The program will be fully operational in 2017-18 school year.
-
-
-  Objective 4: By December 31, 2017 the Engineer Factory will have strengthened
-  internal capacity by achieving the following: hired at least 1.0 FTE staff;
-  complete comprehensive strategic and fund development plan; secured Network
-  for Good Donor Management software to support fund development activities; and
-  completed the EF Resource website that will link students and educators to
-  various resources.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   The Engineer Factory, in collaboration with the UCLA MESA Program, Los Angeles
   Southwest College Urban Teachers Fellowship (LASC UTF) and the Girl Scouts of
   Greater Los Angeles seek to spark the interest of 4th- 8th grade females and
@@ -70,22 +28,13 @@ project_description: >-
   hands-on, project-based learning through one-day Pop-Up community workshops;
   participating in MESA & engineer-based competitions; and providing practical
   training and resources for teachers.
-project_impact: '["Student education pipeline"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Student education pipeline
-project_proposal_description: >-
-  The Engineer Factory, in collaboration with the UCLA MESA Program, Los Angeles
-  Southwest College Urban Teachers Fellowship (LASC UTF) and the Girl Scouts of
-  Greater Los Angeles seek to spark the interest of 4th- 8th grade females and
-  students of color in being engineers. The program includes: consistent fun,
-  hands-on, project-based learning through one-day Pop-Up community workshops;
-  participating in MESA & engineer-based competitions; and providing practical
-  training and resources for teachers.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South LA
   - South Bay
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The Engineer Factory (EF) will help make LA the best place to learn by
   supporting and strengthening the engineering education pipeline for
   populations traditionally underrepresented in STEM fields, particularly
@@ -136,6 +85,47 @@ project_proposal_best_place: >-
   teachers-in-training in LASC’s Urban Teacher Fellowship, a program with the
   goal of increasing the number of teachers of color.  EF’s goal is to enroll at
   least 30 students in its MESA program.
+Please explain how you will define and measure success for your project.​: >-
+  Engineer Factory will use the following SMART Objectives to measure project
+  success:
+
+
+  Objective 1: By December 31, 2017, the Engineer Factory will conduct at least
+  twelve Pop-Up Community workshops with at least with at least 450 4th-8th
+  grade participants.  Via pre- and post-tests, at least 70% of the participants
+  will demonstrate increased engineer knowledge.
+
+
+  Objective 2: By December 31, 2017 at least five EF supported teams of at least
+  10 members each will successfully design, build and enter projects into local
+  regional engineer-related competitions.
+
+
+  Objective 3: By December 31, 2017 Engineer Factory will successfully execute
+  an agreement with the UCLA MESA program to be its first non-school-based MESA
+  program based in South Los Angeles.  EF will conduct due diligence to meet
+  program training and requirements, partner wih LASC UTF to hire at least two
+  student instructors and recruit at least 30 students to enroll in the EF MESA
+  program.  The program will be fully operational in 2017-18 school year.
+
+
+  Objective 4: By December 31, 2017 the Engineer Factory will have strengthened
+  internal capacity by achieving the following: hired at least 1.0 FTE staff;
+  complete comprehensive strategic and fund development plan; secured Network
+  for Good Donor Management software to support fund development activities; and
+  completed the EF Resource website that will link students and educators to
+  various resources.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/the-engineer-factory-producing-engineers-in-south-los-angeles-one-student-at-a-time/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7432986155741-team90.jpg
 organization_name: 'The Engineer Factory, a project of Community Partners'

@@ -14,50 +14,14 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4435758065741-team91.png
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Alliance Patti & Peter Neuwirth Leadership Academy, Animo Pat Brown HS, Animo
   Inglewood HS, Oscar De La Hoya Animo HS, Alliance Collins Family HS, Animo
   Venice HS, Animo South Los Angeles HS, Santee HS, Alliance Burton Technology
   HS, Animo Jackie Robinson HS, Animo Leadership HS, Alliance Susan & Eric Smidt
   Tech HS, Alliance Tennenbaum Family Technology HS, Alliance For Community
   Empowerment YouthBuild, Felicitas & Gonzalo Mendez HS, Valor Academy HS
-project_measure: >-
-  We will evaluate our work through:
-
-  1. Student Surveys. YBA students will take a survey at the beginning of the
-  program and at the conclusion to measure the program's effectiveness.
-
-  2. Teacher/Couselor Feedback
-
-  3. Guest Speaker Feedback
-
-  4. Attendance and Persistence Rates
-
-  5. Student GPA's
-
-  6. Disciplinary and Suspension Rates
-
-  7. High School Graduation Rates
-
-  8. College Acceptance Rates
-
-  9. College Attendance Rates
-
-  10. Job Shadow/Internship Rates
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Please describe your project proposal.: >-
   We believe that every child deserves exposure to life skills education and
   connection with local business professionals. Our mission is to help at risk
   and disadvantaged youth break out of the poverty cycle. We currently serve
@@ -65,12 +29,7 @@ project_description: >-
   Trip Partners and 1,000 registered Guest Speakers. There are approximately 30
   schools on our waiting list and we would like to expand to support more
   schools and students.
-project_impact: >-
-  ["College completion","College matriculation rates","District-wide graduation
-  rates","Proficiency in English and Language Arts and Math","Student education
-  pipeline","Suspension and expulsion rates","Youth unemployment and
-  underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - District-wide graduation rates
@@ -78,15 +37,7 @@ project_proposal_impact:
   - Student education pipeline
   - Suspension and expulsion rates
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  We believe that every child deserves exposure to life skills education and
-  connection with local business professionals. Our mission is to help at risk
-  and disadvantaged youth break out of the poverty cycle. We currently serve
-  about 400 students in 16 LA-area high schools and have approximately 25 Field
-  Trip Partners and 1,000 registered Guest Speakers. There are approximately 30
-  schools on our waiting list and we would like to expand to support more
-  schools and students.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Fernando Valley
@@ -95,7 +46,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The Youth Business Alliance (YBA) is a 501(c)(3) nonprofit organization that
   focuses on bringing critical 21st century business skills and perspectives
   into the classroom by leveraging business partnerships and resources from the
@@ -151,6 +102,41 @@ project_proposal_best_place: >-
 
   We invite you to join us as we continue in our mission to support and inspire
   the future leaders of tomorrow!
+Please explain how you will define and measure success for your project.​: >-
+  We will evaluate our work through:
+
+  1. Student Surveys. YBA students will take a survey at the beginning of the
+  program and at the conclusion to measure the program's effectiveness.
+
+  2. Teacher/Couselor Feedback
+
+  3. Guest Speaker Feedback
+
+  4. Attendance and Persistence Rates
+
+  5. Student GPA's
+
+  6. Disciplinary and Suspension Rates
+
+  7. High School Graduation Rates
+
+  8. College Acceptance Rates
+
+  9. College Attendance Rates
+
+  10. Job Shadow/Internship Rates
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/empower-low-income-youth-to-break-out-of-the-poverty-cycle/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4435758065741-team91.png
 organization_name: Youth Business Alliance

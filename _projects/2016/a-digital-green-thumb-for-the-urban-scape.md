@@ -11,60 +11,8 @@ project_summary: Plantaware helps people grow food at home
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9685194155741-team91.png
 project_video: 'https://www.youtube.com/embed/Mze22CqlIlE?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  3 metric categories will be used over the next 12 months to evaluate our work
-  and progress:
-
-
-  People: Community Engagement
-
-  Community engagement is the number of people that join, be a part of, and
-  contribute to our community.  We will also track organic growth in membership
-  outside our targeted LA communities.
-
-  Measurements include: number of registered users, number of active users on a
-  daily/weekly/monthly basis, the variety of GrowCycles used, and the number of
-  farm/garden locations in the community, etc.
-
-
-  Plants: GrowCycles (GC)
-
-  We will begin the community with 10 initial GCs, and measure the use and
-  comments we receive on each. We will also engage the community in the
-  modification of existing GCs and in the creation of new ones.
-
-  Key measurements will include: the number of GCs, comments on GCs, number of
-  GCs completed or abandoned, etc.
-
-
-  Product: Plantaware online and mobile community
-
-  Online community will begin with a minimal product, containing limited
-  features that will grow over time through dialog with users. Use of agile
-  development will allow us to prioritize community needs. Initial features
-  include: membership, GC activation, and comment threads.
-
-  Measurements used on product development are use-case growth, backlog
-  expansion, and the ability to integrate new features to address community
-  needs.
-
-
-  These 3 metrics categories, will give us a quantitative and qualitative
-  picture of Plantaware’s progress and impact in the communities we serve.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles
-  - ' etc.)'
-  - Technical infrastructure (computers
-  - ' etc.)'
-  - 'Community outreach '
-  - Network/relationship support
-  - n/a
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Plantaware will support the growth of fresh local food, beautify life with
   living plants, and provide better connection to the urban environment we live
   in. 
@@ -76,27 +24,12 @@ project_description: >-
 
   Our community will provide a place to connect, get location specific and
   obtain specific instructions related to any crop of interest.
-project_impact: >-
-  ["Access to healthy food","Self-sufficiency","Resilient communities","Tree
-  canopy cover"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to healthy food
   - Self-sufficiency
   - Resilient communities
   - Tree canopy cover
-project_proposal_description: >-
-  Plantaware will support the growth of fresh local food, beautify life with
-  living plants, and provide better connection to the urban environment we live
-  in. 
-
-
-  We’ll make LA a garden of food and beauty,  while offering Angelenos
-  personalized knowledge and tools to grow plants, any plants, successfully. 
-
-
-  Our community will provide a place to connect, get location specific and
-  obtain specific instructions related to any crop of interest.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -104,7 +37,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - n/a
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   LA brings together people of diverse social and cultural backgrounds. Many, no
   matter where they come from, are interested in urban farming as a way to make
   LA more self sufficient, sustainable, beautiful, and connected.
@@ -164,6 +97,57 @@ project_proposal_best_place: >-
 
   Plantaware will bring together and aggregates all people who are interested in
   urban gardening and farming in Los Angeles, its neighborhoods and communities.
+Please explain how you will define and measure success for your project.​: >-
+  3 metric categories will be used over the next 12 months to evaluate our work
+  and progress:
+
+
+  People: Community Engagement
+
+  Community engagement is the number of people that join, be a part of, and
+  contribute to our community.  We will also track organic growth in membership
+  outside our targeted LA communities.
+
+  Measurements include: number of registered users, number of active users on a
+  daily/weekly/monthly basis, the variety of GrowCycles used, and the number of
+  farm/garden locations in the community, etc.
+
+
+  Plants: GrowCycles (GC)
+
+  We will begin the community with 10 initial GCs, and measure the use and
+  comments we receive on each. We will also engage the community in the
+  modification of existing GCs and in the creation of new ones.
+
+  Key measurements will include: the number of GCs, comments on GCs, number of
+  GCs completed or abandoned, etc.
+
+
+  Product: Plantaware online and mobile community
+
+  Online community will begin with a minimal product, containing limited
+  features that will grow over time through dialog with users. Use of agile
+  development will allow us to prioritize community needs. Initial features
+  include: membership, GC activation, and comment threads.
+
+  Measurements used on product development are use-case growth, backlog
+  expansion, and the ability to integrate new features to address community
+  needs.
+
+
+  These 3 metrics categories, will give us a quantitative and qualitative
+  picture of Plantaware’s progress and impact in the communities we serve.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - ' etc.)'
+  - Technical infrastructure (computers
+  - ' etc.)'
+  - 'Community outreach '
+  - Network/relationship support
+  - n/a
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/a-digital-green-thumb-for-the-urban-scape/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9685194155741-team91.png
 organization_name: Plantaware

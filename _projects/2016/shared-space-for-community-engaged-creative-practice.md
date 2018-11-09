@@ -15,48 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9548964265741-team89.jpg
 project_video: 'https://www.youtube.com/embed/I7lk13h9nJE?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  Cornerstone has a culture of rigorous evaluation.
-
-
-  We are participating in a national study on the intrinsic impact of our
-  audiences. We have begun working to develop tools that are an accumulation of
-  the metrics of engagement: the number of interactions, length of activities,
-  and demographics related to ethnicity and income. 
-
-
-  To collect data we make paper questionnaires available to our audiences
-  immediately after our performances, and follow up with email invitations to
-  electronic surveys, which collect our audiences’ experiences, emotional
-  impact, demographics, and identification with the play and subject matter of
-  the production.
-
-
-  The pilot phase of the Community Space will include community focus groups and
-  engagement activities. For these programmatic activities we will create a
-  system for community input. We will measure and track participant responses. 
-
-
-  The goal of the pilot phase of the project is to brainstorm and collect ideas
-  on the potential of what the community space could be; therefore Cornerstone
-  will be open to any and all feedback from all community stakeholders and
-  leaders. 
-
-
-  With this phase of the project, Cornerstone looks to identify organizational
-  partners. A measurement of success will be 4 to 5 partners in mutual alignment
-  for a community-engaged art making space.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Building a coalition of practitioners from different fields, Cornerstone
   proposes the development of a Shared Space for Community Engaged Creative
   Practice. This shared space will serve as a public space for practitioners to
@@ -64,22 +24,11 @@ project_description: >-
   vibrant and diverse community-based approaches and projects that cultivates
   platforms from which communities of LA from all backgrounds can come together
   and engage in civic discourse and art-making.
-project_impact: >-
-  ["Arts establishments","Employment in the creative industries","Measures of
-  cultural and global economic influence (“soft power”)"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Employment in the creative industries
   - Measures of cultural and global economic influence (“soft power”)
-project_proposal_description: >-
-  Building a coalition of practitioners from different fields, Cornerstone
-  proposes the development of a Shared Space for Community Engaged Creative
-  Practice. This shared space will serve as a public space for practitioners to
-  create a cross-disciplinary 'engagement commons;' an open space filled with
-  vibrant and diverse community-based approaches and projects that cultivates
-  platforms from which communities of LA from all backgrounds can come together
-  and engage in civic discourse and art-making.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -87,7 +36,7 @@ project_areas:
   - South LA
   - Westside
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   We envision a home that provides a shared space embedded in a neighborhood
   community for Angelenos to come together to create, collaborate and engage in
   dialogue bridging communities and acting as a site for civic engagement and
@@ -135,6 +84,45 @@ project_proposal_best_place: >-
   ownership of their community leads to collective impact. Catalyzing this
   dialogue connects local leaders; bringing them to the table creates a common
   agenda, while striving towards systemic change.
+Please explain how you will define and measure success for your project.​: >-
+  Cornerstone has a culture of rigorous evaluation.
+
+
+  We are participating in a national study on the intrinsic impact of our
+  audiences. We have begun working to develop tools that are an accumulation of
+  the metrics of engagement: the number of interactions, length of activities,
+  and demographics related to ethnicity and income. 
+
+
+  To collect data we make paper questionnaires available to our audiences
+  immediately after our performances, and follow up with email invitations to
+  electronic surveys, which collect our audiences’ experiences, emotional
+  impact, demographics, and identification with the play and subject matter of
+  the production.
+
+
+  The pilot phase of the Community Space will include community focus groups and
+  engagement activities. For these programmatic activities we will create a
+  system for community input. We will measure and track participant responses. 
+
+
+  The goal of the pilot phase of the project is to brainstorm and collect ideas
+  on the potential of what the community space could be; therefore Cornerstone
+  will be open to any and all feedback from all community stakeholders and
+  leaders. 
+
+
+  With this phase of the project, Cornerstone looks to identify organizational
+  partners. A measurement of success will be 4 to 5 partners in mutual alignment
+  for a community-engaged art making space.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/shared-space-for-community-engaged-creative-practice/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9548964265741-team89.jpg
 organization_name: Cornerstone Theater Company

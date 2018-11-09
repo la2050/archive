@@ -17,19 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4076350854741-team90.jpg
 project_video: 'https://www.youtube.com/embed/d0EPG2F9qzk?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: Island Sky
-project_measure: >-
-  Our measure of success is simply if the urban well is put to good use. Our
-  mission will be complete if the community uses this pure drinking water to
-  enrich themselves and also reduce demand on municipal supplies. We also hope
-  that this installation inspires people of the community to ask questions, and
-  become educated about the drought and the potential technological solutions.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - Community outreach
-project_description: >-
+Are any other organizations collaborating on this proposal?: Island Sky
+Please describe your project proposal.: >-
   Our goal is to use the prize money in order to help facilitate the creation of
   urban wells in communities with limited or compromised water supply. We plan
   to create an art installation surrounding the well in order to inspire the
@@ -37,21 +26,12 @@ project_description: >-
   how atmospheric water generation could be a possible solution. The art
   installation could range from a billboard attracting people to the well or a
   mural on the side of a building.
-project_impact: '["Arts establishments","Manufacturing activity"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Manufacturing activity
-project_proposal_description: >-
-  Our goal is to use the prize money in order to help facilitate the creation of
-  urban wells in communities with limited or compromised water supply. We plan
-  to create an art installation surrounding the well in order to inspire the
-  community to learn about the issues we are facing in the current drought, and
-  how atmospheric water generation could be a possible solution. The art
-  installation could range from a billboard attracting people to the well or a
-  mural on the side of a building.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   SkySource will make LA the best place to create by facilitating community
   interaction around a very relevant and pressing issue in Los Angeles: water
   scarcity. Atmospheric water generation is an innovative technology that
@@ -76,6 +56,16 @@ project_proposal_best_place: >-
   creating a sense of hope in the community. Hope that education, technology,
   and conservation can help bring us out of these dry times. It will inspire
   innovation, and a desire for the community to come together and take action.
+Please explain how you will define and measure success for your project.​: >-
+  Our measure of success is simply if the urban well is put to good use. Our
+  mission will be complete if the community uses this pure drinking water to
+  enrich themselves and also reduce demand on municipal supplies. We also hope
+  that this installation inspires people of the community to ask questions, and
+  become educated about the drought and the potential technological solutions.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/tap-the-source-using-art-and-atmospheric-water-generation-to-supply-free-water-to-the-community/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4076350854741-team90.jpg
 organization_name: Sky Source

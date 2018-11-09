@@ -17,36 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7806062065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/Qukugb-h7xI?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  CYLA will implement two assessments in order to evaluate the success of its
-  STEM Pilot. The first is the Deveraux Student Strengths Assessment, or DESSA,
-  which evaluates students’ growth in several areas of social emotional
-  development. The DESSA measures such attributes as Personal Responsibility,
-  Optimistic Thinking, and Goal-Oriented Behavior. All students attending the
-  CYLA STEM pilot program will take a pre and post DESSA exam. We believe that
-  growth in the DESSA metrics will indicate students’ increased confidence and
-  sense of efficacy in STEM subjects.
-
-
-  The second method of evaluation is the Math Inventory. This exam assesses a
-  student’s academic knowledge and skill in math at the beginning of the year,
-  and generates growth goals that are tailored towards each individual student.
-  Implementation of the Math Inventory has been so successful in the past, that
-  many LAUSD schools are now using it to assess their students at the
-  school-wide level. We believe the work that students will complete in the STEM
-  pilot program will significantly impact students’ ability to achieve the
-  academic goals set for them through the Math Inventory. The real world
-  application of fundamental math skills will help inspire students to continue
-  their studies. CYLA will measure its success based on the number of students
-  who are able to meet and/or exceed their growth goals by the end of the year.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   City Year’s pilot Science, Technology, Engineering and Math (STEM) program
   will empower students to write code, create video games, and pursue their
   technology interests in our after-school programs, deepening their
@@ -54,28 +26,16 @@ project_description: >-
   high school, while building relevant skills for some of California’s most
   competitive future careers. This grant will enable City Year to pilot this
   program at three high-needs high schools in Los Angeles.
-project_impact: >-
-  ["District-wide graduation rates","Proficiency in English and Language Arts
-  and Math","Student education pipeline","Youth unemployment and
-  underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - District-wide graduation rates
   - Proficiency in English and Language Arts and Math
   - Student education pipeline
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  City Year’s pilot Science, Technology, Engineering and Math (STEM) program
-  will empower students to write code, create video games, and pursue their
-  technology interests in our after-school programs, deepening their
-  understanding of key academic fundamentals that will help them graduate from
-  high school, while building relevant skills for some of California’s most
-  competitive future careers. This grant will enable City Year to pilot this
-  program at three high-needs high schools in Los Angeles.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Economic projections indicate that by 2018 there could be as many as 2.4
   million unfilled STEM jobs in the United States (Stem Depiction
   Opportunities). California, and specifically the city of Los Angeles,
@@ -127,6 +87,33 @@ project_proposal_best_place: >-
   towards closing the opportunity gap amongst LA’s high school students. Help
   CYLA prepare the students of Los Angeles for the demands and opportunities of
   their future.
+Please explain how you will define and measure success for your project.​: >-
+  CYLA will implement two assessments in order to evaluate the success of its
+  STEM Pilot. The first is the Deveraux Student Strengths Assessment, or DESSA,
+  which evaluates students’ growth in several areas of social emotional
+  development. The DESSA measures such attributes as Personal Responsibility,
+  Optimistic Thinking, and Goal-Oriented Behavior. All students attending the
+  CYLA STEM pilot program will take a pre and post DESSA exam. We believe that
+  growth in the DESSA metrics will indicate students’ increased confidence and
+  sense of efficacy in STEM subjects.
+
+
+  The second method of evaluation is the Math Inventory. This exam assesses a
+  student’s academic knowledge and skill in math at the beginning of the year,
+  and generates growth goals that are tailored towards each individual student.
+  Implementation of the Math Inventory has been so successful in the past, that
+  many LAUSD schools are now using it to assess their students at the
+  school-wide level. We believe the work that students will complete in the STEM
+  pilot program will significantly impact students’ ability to achieve the
+  academic goals set for them through the Math Inventory. The real world
+  application of fundamental math skills will help inspire students to continue
+  their studies. CYLA will measure its success based on the number of students
+  who are able to meet and/or exceed their growth goals by the end of the year.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/bringing-stem-to-city-year-after-school-programs-in-boyle-heights-and-pico-union/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7806062065741-team91.jpg
 organization_name: City Year Los Angeles

@@ -14,48 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1824656555741-team91.jpg
 project_video: 'https://www.youtube.com/embed/f1NWhlN60zE?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: 'Internet-In-A-Box.org, Friends of the Library, LAUSD, LACC, LA Museums'
-project_measure: >-
-  Schools, libraries, and museums currently use WiFi access points (AP) that get
-  worse as more patrons connect to them, and they don't help at all with
-  distributing learning resources in local caches. This means each additional
-  patron connection puts more strain on the local network and its E-Rate
-  subsidized Internet connection, so that it slows to a crawl or even breaks
-  very often. 
-
-
-  MIMO WiFi technologies use more than one antenna to beam connections to each
-  new patron, which means net performance should actually increase as patrons
-  are added. Mega-MIMO 2.0, as defined by MIT researchers, coordinates multiple
-  AP's to make one big virtual MIMO AP, with more antenna and beam diversity as
-  each AP is added. Combined with mesh routing methods, this allows existing
-  WiFi antennae resources to connect with patrons much faster and farther out.
-  These improvements are from better software, not expensive hardware. Our tests
-  of WiFi speed, range, reliability, and costs should all improve accordingly.
-
-
-  Once any Mega-Mesh extends beyond a host institution's walls, patrons who run
-  Mega-Mesh software on their devices can also join in to grow the net even
-  wider. As it grows into entire communities, local library and e-media
-  resources hosted on the Mega-Mesh can be spread around these communities
-  faster at lower costs. Event calendars and other locally sourced data can all
-  stay local, including during emergencies. Speed and reliability of tested
-  services should all improve as well.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-  - Start your own community network co-ops!
-project_description: >-
+Are any other organizations collaborating on this proposal?: 'Internet-In-A-Box.org, Friends of the Library, LAUSD, LACC, LA Museums'
+Please describe your project proposal.: >-
   Mega-MIMO 2.0 WiFi coordination can take place over multi-medium Mesh networks
   including WiGig, fiber, beam antennas, ethernet, and broadband over
   powerlines. This allows a Mega-Mesh to start with a small number of public
@@ -63,13 +23,7 @@ project_description: >-
   encyclopedias and coursework. Rather than depending on far away cloud
   providers, e-media or courseware owned by any library can be shared directly
   over its local Mega-Mesh.
-project_impact: >-
-  ["Access to free wifi","Cultural events","Public/open streets
-  gatherings","Government responsiveness to residents’ needs","Public transit
-  riders","Participation in neighborhood councils","Rates of
-  volunteerism","Residential segregation","Total number of local social media
-  friends and connections Angelenos have","Voting rates"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to free wifi
   - Cultural events
   - Public/open streets gatherings
@@ -80,15 +34,7 @@ project_proposal_impact:
   - Residential segregation
   - Total number of local social media friends and connections Angelenos have
   - Voting rates
-project_proposal_description: >-
-  Mega-MIMO 2.0 WiFi coordination can take place over multi-medium Mesh networks
-  including WiGig, fiber, beam antennas, ethernet, and broadband over
-  powerlines. This allows a Mega-Mesh to start with a small number of public
-  institutions, with distributed local hosting of teaching tools such as online
-  encyclopedias and coursework. Rather than depending on far away cloud
-  providers, e-media or courseware owned by any library can be shared directly
-  over its local Mega-Mesh.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
@@ -96,7 +42,7 @@ project_areas:
   - City of Los Angeles
   - LAUSD
   - Northeast LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Too often, the Internet is seen as this big cloud of stuff very far away,
   where the only way to access it all is via the incumbent Big Telco or Big
   Cable gatekeeper, at whatever high prices they want. In reality, 'Internet' is
@@ -125,6 +71,45 @@ project_proposal_best_place: >-
   prototype test phase. Distributed mesh services can replace centralized or
   cloud library and e-media services on these Mega-Meshes, to directly serve
   community members, and depend less on remote gatekeepers.
+Please explain how you will define and measure success for your project.​: >-
+  Schools, libraries, and museums currently use WiFi access points (AP) that get
+  worse as more patrons connect to them, and they don't help at all with
+  distributing learning resources in local caches. This means each additional
+  patron connection puts more strain on the local network and its E-Rate
+  subsidized Internet connection, so that it slows to a crawl or even breaks
+  very often. 
+
+
+  MIMO WiFi technologies use more than one antenna to beam connections to each
+  new patron, which means net performance should actually increase as patrons
+  are added. Mega-MIMO 2.0, as defined by MIT researchers, coordinates multiple
+  AP's to make one big virtual MIMO AP, with more antenna and beam diversity as
+  each AP is added. Combined with mesh routing methods, this allows existing
+  WiFi antennae resources to connect with patrons much faster and farther out.
+  These improvements are from better software, not expensive hardware. Our tests
+  of WiFi speed, range, reliability, and costs should all improve accordingly.
+
+
+  Once any Mega-Mesh extends beyond a host institution's walls, patrons who run
+  Mega-Mesh software on their devices can also join in to grow the net even
+  wider. As it grows into entire communities, local library and e-media
+  resources hosted on the Mega-Mesh can be spread around these communities
+  faster at lower costs. Event calendars and other locally sourced data can all
+  stay local, including during emergencies. Speed and reliability of tested
+  services should all improve as well.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
+  - Start your own community network co-ops!
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/la-on-the-l-a-m-m-learning-angels-mega-mesh/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1824656555741-team91.jpg
 organization_name: Data Roads Foundation

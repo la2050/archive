@@ -15,47 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7186712265741-team91.JPG
 project_video: 'https://www.youtube.com/embed/x07ncVd8hWY?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None.
-project_measure: >-
-  Success means offering nPEP/PrEP services at our four health centers in a
-  manner that is sustainable, efficient, culturally competent, and serves and
-  educates the most patients, especially those who are out of the healthcare
-  system, especially difficult to reach, and/or HIV at-risk.  
-
-
-  We will measure this success as follows: 
-
-
-  At PPPSGV, every department tracks and reviews indicators in each area of our
-  strategic plan. This is done quarterly and then shared with the Board of
-  Directors. Additionally, each month, our Leadership Team reviews 51 metrics
-  pertaining to: Health Center Access; Revenue; Service and Quality; Compliance;
-  Outreach and Marketing; and Finance. Every month, we track whether we are
-  on-target or within 5% of our goal, and if we are not, we respond
-  intelligently. Health center managers undergo a similar monthly performance
-  evaluation on 40 metrics pertaining to: appointment access, quality
-  indicators, patient satisfaction, and financial performance. 
-
-
-  At the start of the grant, PPPSGV will generate additional metrics pertaining
-  to PrEP patient services and outreach and integrate these into our existing
-  performance measurement plan, so that the program’s quarterly and monthly
-  results are not reviewed in a vacuum. This will be especially important since
-  the activities of this project will be undertaken by staff in both our Patient
-  Services and External Affairs Departments and implemented at all our health
-  centers as well as in the community at large.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - 'Education/training '
-  - 'Community outreach '
-  - Network/relationship support
-  - Advocacy to elected officials
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   PrEP protects and empowers men who have sex with men and dismantles the sexual
   stigma and shame that still lingers today. But for many Angelenos, PrEP costs
   at least $1,500/year and can be hard to access beyond metro LA. We believe
@@ -63,22 +24,13 @@ project_description: >-
   to be the first health centers in northeast LA and the San Gabriel Valley to
   offer sliding-scale PrEP, with the end-goal being to help 960 new patients per
   year stay healthy and HIV-free.
-project_impact: '["Healthcare access"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Healthcare access
-project_proposal_description: >-
-  PrEP protects and empowers men who have sex with men and dismantles the sexual
-  stigma and shame that still lingers today. But for many Angelenos, PrEP costs
-  at least $1,500/year and can be hard to access beyond metro LA. We believe
-  everybody deserves first-rate sexual health care--no matter what. PPPSGV aims
-  to be the first health centers in northeast LA and the San Gabriel Valley to
-  offer sliding-scale PrEP, with the end-goal being to help 960 new patients per
-  year stay healthy and HIV-free.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - East LA
   - San Gabriel Valley
   - N/A
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   This proposal will make LA the best place to LIVE because we envision a place
   where honest and proud sexuality is the norm and health equity is a reality—no
   matter who you are or where you live or who you love. PPPSGV was founded over
@@ -126,6 +78,44 @@ project_proposal_best_place: >-
   and at the close of the grant, we will have rolled out nPEP/PReP services at
   all of our health centers and will be seeing at least 40 patients/month or
   480/year.
+Please explain how you will define and measure success for your project.​: >-
+  Success means offering nPEP/PrEP services at our four health centers in a
+  manner that is sustainable, efficient, culturally competent, and serves and
+  educates the most patients, especially those who are out of the healthcare
+  system, especially difficult to reach, and/or HIV at-risk.  
+
+
+  We will measure this success as follows: 
+
+
+  At PPPSGV, every department tracks and reviews indicators in each area of our
+  strategic plan. This is done quarterly and then shared with the Board of
+  Directors. Additionally, each month, our Leadership Team reviews 51 metrics
+  pertaining to: Health Center Access; Revenue; Service and Quality; Compliance;
+  Outreach and Marketing; and Finance. Every month, we track whether we are
+  on-target or within 5% of our goal, and if we are not, we respond
+  intelligently. Health center managers undergo a similar monthly performance
+  evaluation on 40 metrics pertaining to: appointment access, quality
+  indicators, patient satisfaction, and financial performance. 
+
+
+  At the start of the grant, PPPSGV will generate additional metrics pertaining
+  to PrEP patient services and outreach and integrate these into our existing
+  performance measurement plan, so that the program’s quarterly and monthly
+  results are not reviewed in a vacuum. This will be especially important since
+  the activities of this project will be undertaken by staff in both our Patient
+  Services and External Affairs Departments and implemented at all our health
+  centers as well as in the community at large.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - 'Education/training '
+  - 'Community outreach '
+  - Network/relationship support
+  - Advocacy to elected officials
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/northeast-los-angeles-and-the-san-gabriel-valley-get-prepd-and-pepd/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7186712265741-team91.JPG
 organization_name: Planned Parenthood Pasadena and San Gabriel Valley (PPPSGV)

@@ -14,46 +14,11 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7081548543741-team89.jpg
 project_video: 'https://youtube.com/embed/gxmDmbwknC0?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Ballona Creek Renaissance, Baldwin Hills Scenic Overlook State Park, Kenneth
   Hahn State Recreation Area, Ballona Wetlands, Esperanza Elementary School,
   Politi Elementary School
-project_measure: >-
-  We will define our success by the number of people we connect to nature in LA.
-
-
-  We will measure our success based on:
-
-  Number of high school students engaged in after-school program
-
-  Number of students participating in field trips
-
-  Feedback from students and teachers surveyed re: their nature experience
-
-  Number of college interns assisting with program management
-
-  Number of people who attend our public nature programs
-
-  Number of employees who participate in Silicon Beach nature awareness program
-
-  Number of people participating in restoration at beach, creek, park and
-  schoolyard events
-
-  Number of acres of restored parklands and beaches (amount of trash and weeds
-  removed and the number of native plants planted.)
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   LA Audubon Urban Nature Explored connects people of all ages to outdoor
   experiences at parks, beaches and open spaces. We provide thousands of public
   school students from under-served communities with nature-based field trips
@@ -61,32 +26,19 @@ project_description: >-
   stewardship training as part of paid internship programs, leading habitat
   restoration events that engage their communities and improve the quality of
   open space for people and wildlife.
-project_impact: >-
-  ["Access to open space and park facilities","Number (and quality) of informal
-  spaces for play","Number of children enrolled in afterschool programs","Number
-  of parks with intergenerational play opportunities","Number of residents with
-  easy access to a “vibrant” park"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to open space and park facilities
   - Number (and quality) of informal spaces for play
   - Number of children enrolled in afterschool programs
   - Number of parks with intergenerational play opportunities
   - Number of residents with easy access to a “vibrant” park
-project_proposal_description: >-
-  LA Audubon Urban Nature Explored connects people of all ages to outdoor
-  experiences at parks, beaches and open spaces. We provide thousands of public
-  school students from under-served communities with nature-based field trips
-  and after-school programs. High school and college students receive
-  stewardship training as part of paid internship programs, leading habitat
-  restoration events that engage their communities and improve the quality of
-  open space for people and wildlife.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - South LA
   - Westside
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Urban Nature Explored will help make LA the best place to play through
   educational nature walks, park and schoolyard restorations, school field
   trips, and after-school programs at parks, beaches and open spaces.
@@ -157,6 +109,40 @@ project_proposal_best_place: >-
   secured separate grant funding for design work and curricula development. The
   Esperanza Habitat will serve 800+ students and is modeled on our successful
   Habitat at Politi Elementary.
+Please explain how you will define and measure success for your project.​: >-
+  We will define our success by the number of people we connect to nature in LA.
+
+
+  We will measure our success based on:
+
+  Number of high school students engaged in after-school program
+
+  Number of students participating in field trips
+
+  Feedback from students and teachers surveyed re: their nature experience
+
+  Number of college interns assisting with program management
+
+  Number of people who attend our public nature programs
+
+  Number of employees who participate in Silicon Beach nature awareness program
+
+  Number of people participating in restoration at beach, creek, park and
+  schoolyard events
+
+  Number of acres of restored parklands and beaches (amount of trash and weeds
+  removed and the number of native plants planted.)
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/la-audubon-urban-nature-explored/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7081548543741-team89.jpg
 organization_name: Los Angeles Audubon Society (LAAS)

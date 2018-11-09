@@ -14,34 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7385254065741-team90.JPG
 project_video: 'https://www.youtube.com/embed/aL8WA_hgTNo?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: We will partner with 12 different local environmental nonprofit organizations.
-project_measure: >-
-  SeedLA defines the success of our project based on the tangible environmental
-  impacts our work has on Los Angeles. We will measure our success by tracking
-  the number of hours donated and establishing custom metrics for each of our 12
-  partner projects. The process outlined below is how the impact of our partner
-  projects is tracked and measured.
-   
-  Prior to starting a project we will establish a statement of work with our
-  partners outlining their expectations and goals. Each project manager is
-  responsible for tracking the week to week progress towards these goal. An
-  experienced senior advisor is dedicated to each team to provide advice and
-  oversee quality control.
-   
-  After the completion of the midterm and final deliverables, the SeedLA chapter
-  president will check in with each partner to ensure projects are on track and
-  exceeding expectations. Once the project has ended the president will follow
-  up 4-6 months later to determine the tangible impact resulting from the
-  project. This is how we ultimately define the success of our project. At
-  SeedLA we serve to make an impact, not a report.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Network/relationship support
-  - Quality improvement research
-  - Meeting spaces
-project_description: >-
+Are any other organizations collaborating on this proposal?: We will partner with 12 different local environmental nonprofit organizations.
+Please describe your project proposal.: >-
   We will partner with 12 local environmental nonprofits and provide free
   support with marketing strategy, data analytics or new program development.
   Each organization will be paired with a dedicated team of five skilled
@@ -49,26 +23,15 @@ project_description: >-
   work and accelerate their impact on Los Angeles. Our project will bring a
   total of 4,800 hours of high quality analytical support to further empower
   LA’s extraordinary environmental nonprofit organizations
-project_impact: >-
-  ["Waterways","Exposure to air toxins","Healthcare access","Local
-  water","Resilient communities"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Waterways
   - Exposure to air toxins
   - Healthcare access
   - Local water
   - Resilient communities
-project_proposal_description: >-
-  We will partner with 12 local environmental nonprofits and provide free
-  support with marketing strategy, data analytics or new program development.
-  Each organization will be paired with a dedicated team of five skilled
-  Angelenos. Over the course of a 10-week project we will help catalyze their
-  work and accelerate their impact on Los Angeles. Our project will bring a
-  total of 4,800 hours of high quality analytical support to further empower
-  LA’s extraordinary environmental nonprofit organizations
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   SeedLA will make Los Angeles the best place to LIVE by enhancing the impact of
   local environmental nonprofits and fostering the next generation of
   sustainable leaders.
@@ -131,6 +94,31 @@ project_proposal_best_place: >-
   environmentally conscious leaders. Ultimately, SeedLA makes LA the best place
   to live by fostering a stronger culture of sustainability and strengthening
   our environmental organizations.
+Please explain how you will define and measure success for your project.​: >-
+  SeedLA defines the success of our project based on the tangible environmental
+  impacts our work has on Los Angeles. We will measure our success by tracking
+  the number of hours donated and establishing custom metrics for each of our 12
+  partner projects. The process outlined below is how the impact of our partner
+  projects is tracked and measured.
+   
+  Prior to starting a project we will establish a statement of work with our
+  partners outlining their expectations and goals. Each project manager is
+  responsible for tracking the week to week progress towards these goal. An
+  experienced senior advisor is dedicated to each team to provide advice and
+  oversee quality control.
+   
+  After the completion of the midterm and final deliverables, the SeedLA chapter
+  president will check in with each partner to ensure projects are on track and
+  exceeding expectations. Once the project has ended the president will follow
+  up 4-6 months later to determine the tangible impact resulting from the
+  project. This is how we ultimately define the success of our project. At
+  SeedLA we serve to make an impact, not a report.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Network/relationship support
+  - Quality improvement research
+  - Meeting spaces
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/seedla-empowering-environmental-nonprofits/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7385254065741-team90.JPG
 organization_name: SeedLA

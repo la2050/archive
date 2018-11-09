@@ -14,36 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2236943265741-team89.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: 'Cheremoya Elementary, Grant Elementary, and Melrose Elementary'
-project_measure: >-
-  Knowing that each child is given the art supplies and teachers for every
-  program will ensure our success as well as keeping them out of trouble.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-project_description: >-
-  In the same city celebrated as the epicenter for film and music — where a
-  gilded entertainment industry churns and draws talent from around the world —
-  a vast majority of schools don't have adequate arts programs.' (LA Times) This
-  grant will ensure the students at three local elementary schools experience
-  the joy of creative movement, photography or visual arts workshops provided
-  free of charge by the Hollywood Arts Council. We will also be able to expand
-  this program in other schools.
-project_impact: >-
-  ["District-wide graduation rates","Proficiency in English and Language Arts
-  and Math","Early education","Students’ perceived sense of safety at and on the
-  way to school","Suspension and expulsion rates","Truancy rates in elementary
-  and middle schools","Youth unemployment and underemployment"]
-project_proposal_impact:
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Early education
-  - Students’ perceived sense of safety at and on the way to school
-  - Suspension and expulsion rates
-  - Truancy rates in elementary and middle schools
-  - Youth unemployment and underemployment
-project_proposal_description: >-
+Are any other organizations collaborating on this proposal?: 'Cheremoya Elementary, Grant Elementary, and Melrose Elementary'
+Please describe your project proposal.: >-
   'In the same city celebrated as the epicenter for film and music — where a
   gilded entertainment industry churns and draws talent from around the world —
   a vast majority of schools don't have adequate arts programs.' (LA Times) This
@@ -51,9 +23,17 @@ project_proposal_description: >-
   the joy of creative movement, photography or visual arts workshops provided
   free of charge by the Hollywood Arts Council. We will also be able to expand
   this program in other schools.
-project_areas:
+Which metrics will your proposal impact?​:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Students’ perceived sense of safety at and on the way to school
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+  - Youth unemployment and underemployment
+In what areas of Los Angeles will you be directly working?:
   - Central LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Project S.O.A.R. (Students Overcoming All Risks) is the Hollywood Arts
   Council’s program providing inclass arts workshops. The Hollywood Arts Council
   provides these workshops at no cost to students in Hollywood’s public
@@ -77,6 +57,12 @@ project_proposal_best_place: >-
   charities that expands each child's creativity with these programs. These
   programs pinpoint the future of LA's creators and collaborators and help them
   flourish in their craft.
+Please explain how you will define and measure success for your project.​: >-
+  Knowing that each child is given the art supplies and teachers for every
+  program will ensure our success as well as keeping them out of trouble.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/save-the-art-programs-in-the-art-capitals-schools/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2236943265741-team89.jpg
 organization_name: Hollywood Arts Council

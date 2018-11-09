@@ -15,38 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6235226615741-team90.jpg
 project_video: 'https://www.youtube.com/embed/T7BYSC7XXLk?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: N/A
-project_measure: >-
-  By being trained in trauma-informed practices in the classroom, teachers are
-  better able to be effective and highly effective teachers. We rate corps
-  members as 'effective' or 'highly effective' when they lead students to 1 and
-  1.5 years of growth, respectively. Growth is determined holistically and based
-  on academic achievement, personal growth, access to opportunities, and social,
-  political, and cultural consciousness. This year, our goal is for 90% of corps
-  members to be rated as effective and 57% as highly effective.
-
-
-  We also expect to see our initiative positively affect the strength of our
-  movement, which is internally measured as CSI (Corps Strength Index) and CALI
-  (Corps and Alumni Learning Index). CSI is a survey that holistically measures
-  different aspects of our corps culture. This data is a key indicator of our
-  teachers’ likelihood to remain engaged as leaders in educational reform as
-  alumni. On the other hand, CALI is a metric that measures mindsets/beliefs
-  that are critical for our teachers and alumni to acquire and/or strengthen in
-  order to maximize their impact as leaders in our movement. For the 2016-17
-  school year, our CSI goal is 30% and CALI is 67%.
-
-
-  Lastly, another critical component is surveying our students to better
-  understand student-teacher relationships and teacher effectiveness in the
-  classroom. In our most recent fall 2016 survey, 77% of students responded
-  favorably when asked questions pertaining to their connection to their
-  teacher.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Teach For America operates in schools in low-income communities where
   students, who are more prone to trauma and high stress environments, have
   increased barriers to an excellent education. It is a central part of our
@@ -54,27 +24,14 @@ project_description: >-
   can address educational inequity from all angles, including from a
   trauma-informed framework to transform classrooms, schools and entire school
   systems.
-project_impact: >-
-  ["College matriculation rates","District-wide graduation rates","Proficiency
-  in English and Language Arts and Math","Student education pipeline","Students’
-  perceived sense of safety at and on the way to school","Truancy rates in
-  elementary and middle schools"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College matriculation rates
   - District-wide graduation rates
   - Proficiency in English and Language Arts and Math
   - Student education pipeline
   - Students’ perceived sense of safety at and on the way to school
   - Truancy rates in elementary and middle schools
-project_proposal_description: >-
-  Teach For America operates in schools in low-income communities where
-  students, who are more prone to trauma and high stress environments, have
-  increased barriers to an excellent education. It is a central part of our
-  mission to develop and mobilize quality teachers and leaders in education that
-  can address educational inequity from all angles, including from a
-  trauma-informed framework to transform classrooms, schools and entire school
-  systems.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -84,7 +41,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   There is an urgent need for trauma-informed professional development for
   teachers so they can be responsive to the needs of students in high-need
   communities. Teach For America-Los Angeles supports our teachers through
@@ -136,6 +93,35 @@ project_proposal_best_place: >-
   teachers and positive results in the classroom. Lastly, our trauma-informed
   work encourages teachers to persist and grow their craft in teaching in
   low-income communities.
+Please explain how you will define and measure success for your project.​: >-
+  By being trained in trauma-informed practices in the classroom, teachers are
+  better able to be effective and highly effective teachers. We rate corps
+  members as 'effective' or 'highly effective' when they lead students to 1 and
+  1.5 years of growth, respectively. Growth is determined holistically and based
+  on academic achievement, personal growth, access to opportunities, and social,
+  political, and cultural consciousness. This year, our goal is for 90% of corps
+  members to be rated as effective and 57% as highly effective.
+
+
+  We also expect to see our initiative positively affect the strength of our
+  movement, which is internally measured as CSI (Corps Strength Index) and CALI
+  (Corps and Alumni Learning Index). CSI is a survey that holistically measures
+  different aspects of our corps culture. This data is a key indicator of our
+  teachers’ likelihood to remain engaged as leaders in educational reform as
+  alumni. On the other hand, CALI is a metric that measures mindsets/beliefs
+  that are critical for our teachers and alumni to acquire and/or strengthen in
+  order to maximize their impact as leaders in our movement. For the 2016-17
+  school year, our CSI goal is 30% and CALI is 67%.
+
+
+  Lastly, another critical component is surveying our students to better
+  understand student-teacher relationships and teacher effectiveness in the
+  classroom. In our most recent fall 2016 survey, 77% of students responded
+  favorably when asked questions pertaining to their connection to their
+  teacher.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/trauma-informed-teaching-initiative-a-win-for-teachers-and-students/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6235226615741-team90.jpg
 organization_name: Teach For America-Los Angeles

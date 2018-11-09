@@ -17,35 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0439357476741-team91.png
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Our goal is to measurably improve coParenting for over 12,000 individual
-  children in Los Angeles County.  In addition to utilizing powerful digital
-  measurement tools that account for access and engagement, we will also measure
-  quantifiable change in coParenting knowledge and active behavior achieved
-  through utilization of the platform. To this end, we have three primary impact
-  outcomes and measurement strategies. First, our coParenting curriculum is
-  designed to increase awareness of the importance of coParenting and introduce
-  coParenting best practices which will be measured by pre- and post- surveys of
-  workshop participants. Second, the coParenting app will directly lead to more
-  effective coParenting behaviors and reduced conflict measured by our
-  proprietary coParenting scoring algorithm. This score draws from real time
-  user data to measure collaboration, conflict levels, and coParenting
-  optimization. Lastly, #coParenterProject is designed to build a community of
-  young people from coParenting families to mitigate stigma, social isolation,
-  and to share information. Measurements will include total number of community
-  members, total number of questions asked, average user time on platform, and
-  user surveys.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Education/training '
-  - 'Community outreach '
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   coParenter Project targets nearly 3M separated, divorced and never-married
   Angelino parents, empowering them to save money, stay out of court and make
   better decisions for their children. The initiative offers high-quality
@@ -53,25 +26,14 @@ project_description: >-
   management and mediation platform. #coParenterProject, a moderated twitter
   initiative, helps kids exposed to parents’ separation find answers, get help
   and build community.
-project_impact: >-
-  ["Self-sufficiency","Resilient communities","Prevalence of adverse childhood
-  experiences"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Self-sufficiency
   - Resilient communities
   - Prevalence of adverse childhood experiences
-project_proposal_description: >-
-  coParenter Project targets nearly 3M separated, divorced and never-married
-  Angelino parents, empowering them to save money, stay out of court and make
-  better decisions for their children. The initiative offers high-quality
-  education, personalized coaching and access to a state-of-the-art coParenting
-  management and mediation platform. #coParenterProject, a moderated twitter
-  initiative, helps kids exposed to parents’ separation find answers, get help
-  and build community.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   There are almost 3 million Angelinos in an active coParenting relationship
   with an additional 200,000 Los Angeles residents joining that community every
   year.  And as the exponentially larger millennial generation- many of whom opt
@@ -106,6 +68,32 @@ project_proposal_best_place: >-
   innovative, first-of-its-kind network. These three activities will directly
   address the LA2050 live metric of disrupting adverse childhood events and have
   wide impact on child and family well-being across LA County.
+Please explain how you will define and measure success for your project.​: >-
+  Our goal is to measurably improve coParenting for over 12,000 individual
+  children in Los Angeles County.  In addition to utilizing powerful digital
+  measurement tools that account for access and engagement, we will also measure
+  quantifiable change in coParenting knowledge and active behavior achieved
+  through utilization of the platform. To this end, we have three primary impact
+  outcomes and measurement strategies. First, our coParenting curriculum is
+  designed to increase awareness of the importance of coParenting and introduce
+  coParenting best practices which will be measured by pre- and post- surveys of
+  workshop participants. Second, the coParenting app will directly lead to more
+  effective coParenting behaviors and reduced conflict measured by our
+  proprietary coParenting scoring algorithm. This score draws from real time
+  user data to measure collaboration, conflict levels, and coParenting
+  optimization. Lastly, #coParenterProject is designed to build a community of
+  young people from coParenting families to mitigate stigma, social isolation,
+  and to share information. Measurements will include total number of community
+  members, total number of questions asked, average user time on platform, and
+  user surveys.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Education/training '
+  - 'Community outreach '
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/the-coparenter-project-building-a-healthier-los-angeles-two-coparents-at-a-time/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0439357476741-team91.png
 organization_name: 'HyphenUs, Inc.'

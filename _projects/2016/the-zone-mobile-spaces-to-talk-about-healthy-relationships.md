@@ -14,78 +14,23 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1639271165741-team90.JPG
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  The benefit of this project for the entire community is threefold:  Young
-  people will have an opportunity to take REALationships to the streets...They
-  can actively participate in the most current dating abuse campaign and work to
-  mobilize and spread the word through their community.  And they can connect
-  for more enhanced dialogs through the Let’s Be Real high school chapters. 
-  Secondarily, families can use the information for youth organizations, local
-  churches, community centers and schools. Collectively Los Angeles will Break
-  the Cycle taking the new mobilized energy to work with community leaders to
-  create additional permanent spaces where youth are empowered to take action
-  and change their norms of relationships.  The following metrics will be used
-  to measure success:
-
-
-  * # of visits to the mobile technology hubs
-
-  * # of sign ups for Let’s Be Real
-
-  * # of sign ups for Love Is Not Abuse
-
-  * Time connected to Wi-Fi
-
-  * 75% of participants will identify healthy relationships behaviors
-
-  * 75% of care takers will feel comfortable speaking to their teens about 
-  healthy relationships
-
-  * 80% of young people will feel comfortable speaking to their friends about
-  healthy relationships
-
-  * 5 community partners will be engaged to take action and prevent dating abuse
-  (host a mobile technology hub, host a Let’s Be Real or Love Is Not Abuse
-  chapter) 
-
-  * 2 stores will be engaged to take action and prevent dating abuse (host a
-  mobile technology hub, host a chapter)
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   The Zone will bring dating prevention education to young people in Los Angeles
   in casual spaces, removing obstacles to real talk about the factors that
   restrict healthy relationships.  The Zone will bring together various parts of
   specific neighborhoods: young people, caring adults, retail community members,
   community volunteers to ignite connectivity, inspire action and community
   pride for healthy relationships and healthy spaces for all.
-project_impact: >-
-  ["Access to free wifi","Social & emotional support","Public/open streets
-  gatherings","Rates of volunteerism","Total number of local social media
-  friends and connections Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to free wifi
   - Social & emotional support
   - Public/open streets gatherings
   - Rates of volunteerism
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  The Zone will bring dating prevention education to young people in Los Angeles
-  in casual spaces, removing obstacles to real talk about the factors that
-  restrict healthy relationships.  The Zone will bring together various parts of
-  specific neighborhoods: young people, caring adults, retail community members,
-  community volunteers to ignite connectivity, inspire action and community
-  pride for healthy relationships and healthy spaces for all.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - East LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Break the Cycle (BTC) is moving outside of traditional school systems.  BTC
   was fortunate enough to hear the needs of the young people of Los Angeles at a
   recent Los Angeles for Youth Rally.  During the rally a young woman about 18
@@ -130,6 +75,49 @@ project_proposal_best_place: >-
   open street gatherings, would provide access to free Wi-Fi and through the
   participation of a peer to peer educator and volunteers would encourage
   volunteerism and a connection point for social and emotional support.
+Please explain how you will define and measure success for your project.​: >-
+  The benefit of this project for the entire community is threefold:  Young
+  people will have an opportunity to take REALationships to the streets...They
+  can actively participate in the most current dating abuse campaign and work to
+  mobilize and spread the word through their community.  And they can connect
+  for more enhanced dialogs through the Let’s Be Real high school chapters. 
+  Secondarily, families can use the information for youth organizations, local
+  churches, community centers and schools. Collectively Los Angeles will Break
+  the Cycle taking the new mobilized energy to work with community leaders to
+  create additional permanent spaces where youth are empowered to take action
+  and change their norms of relationships.  The following metrics will be used
+  to measure success:
+
+
+  * # of visits to the mobile technology hubs
+
+  * # of sign ups for Let’s Be Real
+
+  * # of sign ups for Love Is Not Abuse
+
+  * Time connected to Wi-Fi
+
+  * 75% of participants will identify healthy relationships behaviors
+
+  * 75% of care takers will feel comfortable speaking to their teens about 
+  healthy relationships
+
+  * 80% of young people will feel comfortable speaking to their friends about
+  healthy relationships
+
+  * 5 community partners will be engaged to take action and prevent dating abuse
+  (host a mobile technology hub, host a Let’s Be Real or Love Is Not Abuse
+  chapter) 
+
+  * 2 stores will be engaged to take action and prevent dating abuse (host a
+  mobile technology hub, host a chapter)
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/the-zone-mobile-spaces-to-talk-about-healthy-relationships/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1639271165741-team90.JPG
 organization_name: Break the Cycle

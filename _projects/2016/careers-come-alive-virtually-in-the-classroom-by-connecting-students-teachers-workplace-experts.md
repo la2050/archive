@@ -17,39 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7618226615741-team90.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: 'Nepris, Los Angeles Unified School District'
-project_measure: >-
-  For many students, the 9th grade is a really challenging year with new
-  classmates, harder courses, more complex schedules, and higher teacher
-  expectations. No wonder many students who don’t see themselves as successful
-  learners think seriously about dropping out.  For LA to have a pipeline of
-  well-prepared high school students who transition successfully into
-  postsecondary education and 21st century careers, 9th grade students must
-  stick it out. They must start by making it over the first hurdles: completing
-  9th grade, not being held back, and showing up in the 10th grade. A critical
-  part of 9th grade success hinges on students seeing the importance of school
-  for their futures and having decent attendance. Why? We know that students who
-  miss too much school also miss lots of important content, don’t turn in
-  homework, and don’t complete in-class assignments.
-
-  In this project, we define success in terms of how much students in these
-  technology-enabled career exposure activities engage in school, how they
-  connect school success to their future lives, and their belief that they will
-  complete high school. We will use two information sources to measure these
-  outcomes: student attendance and responses to in-class survey questions. Our
-  specific success measures will be (1) numbers of days absent from school; and
-  (2) answers to survey questions about completing high school, readiness to be
-  successful in grade 10, and enthusiasm about preparing for postsecondary
-  education and a career.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: 'Nepris, Los Angeles Unified School District'
+Please describe your project proposal.: >-
   This project creates an integrated technology solution between ConnectEd and
   Nepris that supports the LAUSD vision and goals of college, career, and
   community readiness for all students. It combines real-world, relevant career
@@ -57,20 +26,11 @@ project_description: >-
   media-rich, technology-based platform. Content is designed by a collaborative
   community of educators and experts from local and global for-profit,
   non-profit, and labor organizations and associations.
-project_impact: '["Student education pipeline"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Student education pipeline
-project_proposal_description: >-
-  This project creates an integrated technology solution between ConnectEd and
-  Nepris that supports the LAUSD vision and goals of college, career, and
-  community readiness for all students. It combines real-world, relevant career
-  exposure and mentoring based on student interest and goals,through a
-  media-rich, technology-based platform. Content is designed by a collaborative
-  community of educators and experts from local and global for-profit,
-  non-profit, and labor organizations and associations.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Dropping out of school is a life-altering decision process that can start in
   middle school but picks up steam in grade 9. When students are not engaged in
   learning and cannot envision themselves in an exciting career, they see little
@@ -114,6 +74,36 @@ project_proposal_best_place: >-
   Students from every corner of the region and background will have
   opportunities to learn about careers that have always been so near, and
   frequently so far.
+Please explain how you will define and measure success for your project.​: >-
+  For many students, the 9th grade is a really challenging year with new
+  classmates, harder courses, more complex schedules, and higher teacher
+  expectations. No wonder many students who don’t see themselves as successful
+  learners think seriously about dropping out.  For LA to have a pipeline of
+  well-prepared high school students who transition successfully into
+  postsecondary education and 21st century careers, 9th grade students must
+  stick it out. They must start by making it over the first hurdles: completing
+  9th grade, not being held back, and showing up in the 10th grade. A critical
+  part of 9th grade success hinges on students seeing the importance of school
+  for their futures and having decent attendance. Why? We know that students who
+  miss too much school also miss lots of important content, don’t turn in
+  homework, and don’t complete in-class assignments.
+
+  In this project, we define success in terms of how much students in these
+  technology-enabled career exposure activities engage in school, how they
+  connect school success to their future lives, and their belief that they will
+  complete high school. We will use two information sources to measure these
+  outcomes: student attendance and responses to in-class survey questions. Our
+  specific success measures will be (1) numbers of days absent from school; and
+  (2) answers to survey questions about completing high school, readiness to be
+  successful in grade 10, and enthusiasm about preparing for postsecondary
+  education and a career.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/careers-come-alive-virtually-in-the-classroom-by-connecting-students-teachers-workplace-experts/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7618226615741-team90.jpg
 organization_name: ConnectEd

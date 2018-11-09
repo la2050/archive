@@ -13,35 +13,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4405823065741-team91.JPG
 project_video: 'https://www.youtube.com/embed/mZrJcqrvSsM?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  One of our goals is to introduce children to the impact that color and imagery
-  has on their environment and their life. Also, how important murals and civic
-  engagement are in our society. We see our measure of success gauged daily by
-  the pride the students, faculty and community develop after their school is
-  transformed through color. When cool and warm colors replace drab tones and
-  imagery that has a social or environmental message becomes a part of the
-  students surroundings they become engaged and excited to be in a place where
-  creativity is encouraged. We see this as an integral part of their education. 
-
-
-  Success will also be measured by: 1) increase in the arts at school, 2) other
-  civic engagement projects at the school, whether art-related or other, 3)
-  increased engagement among parents, 4) increased engagement among faculty, 4)
-  increased engagement among neighbors, 5) increase in attendance of children,
-  6) harder to measure, but still important, anecdotal evidence that children
-  are happy to be at school.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - 'Community outreach '
-  - Network/relationship support
-  - Personal outreach in local communities
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   We want to change the face of schools by bringing a massive burst of color.
   We'll bring students, faculty, parents and neighbors together to transform
   blank structures to ones filled with vibrancy and lively characters while
@@ -49,25 +22,13 @@ project_description: >-
   environment, kids of any age will be more engaged and committed to their
   educational journey, schools will be more welcoming, and every community can
   enjoy and appreciate beautiful art.
-project_impact: >-
-  ["Social & emotional support","Cultural events","Public/open streets
-  gatherings","Rates of volunteerism","Total number of local social media
-  friends and connections Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Public/open streets gatherings
   - Rates of volunteerism
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  We want to change the face of schools by bringing a massive burst of color.
-  We'll bring students, faculty, parents and neighbors together to transform
-  blank structures to ones filled with vibrancy and lively characters while
-  learning the fundamentals of color therapy. We believe that by enhancing their
-  environment, kids of any age will be more engaged and committed to their
-  educational journey, schools will be more welcoming, and every community can
-  enjoy and appreciate beautiful art.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -81,7 +42,7 @@ project_areas:
   - City of Los Angeles
   - LAUSD
   - We are open to working anywhere in greater L.A.
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Big Sunday has been bringing people of all ages and backgrounds together for
   nearly twenty years. Our mission statement embodies the spirit of
   'connecting.' As our mission statement says, 'We connect people through
@@ -139,6 +100,32 @@ project_proposal_best_place: >-
 
   Creating these murals will connect people in a classic Big Sunday way:
   impactful and fun.
+Please explain how you will define and measure success for your project.​: >-
+  One of our goals is to introduce children to the impact that color and imagery
+  has on their environment and their life. Also, how important murals and civic
+  engagement are in our society. We see our measure of success gauged daily by
+  the pride the students, faculty and community develop after their school is
+  transformed through color. When cool and warm colors replace drab tones and
+  imagery that has a social or environmental message becomes a part of the
+  students surroundings they become engaged and excited to be in a place where
+  creativity is encouraged. We see this as an integral part of their education. 
+
+
+  Success will also be measured by: 1) increase in the arts at school, 2) other
+  civic engagement projects at the school, whether art-related or other, 3)
+  increased engagement among parents, 4) increased engagement among faculty, 4)
+  increased engagement among neighbors, 5) increase in attendance of children,
+  6) harder to measure, but still important, anecdotal evidence that children
+  are happy to be at school.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - 'Community outreach '
+  - Network/relationship support
+  - Personal outreach in local communities
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/connecting-community-through-color/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4405823065741-team91.JPG
 organization_name: Big Sunday

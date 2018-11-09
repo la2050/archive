@@ -17,45 +17,21 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7295760875741-team91.jpeg
 project_video: 'https://www.youtube.com/embed/rFJckDRj_3A?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Beats and Pieces LA, California State University, Northridge, Collective
   Lifestyle, Devonshire Police Activity League Supporters (PALS), L.A. Great
   Streets Studio, Light Riders, Museum of the San Fernando Valley, Northridge
   Chamber of Commerce, Northridge South Neighborhood Council, Northridge Sparkle
   Campaign, Office of Los Angeles City Councilmember Mitchell Englander, Reload
   LA, Strife TV, San Fernando Valley Rescue Mission, Valley Relics
-project_measure: |-
-  · Number of students learning tangible coding and light production skills
-  · Number of people attending event
-  · Number of volunteers participating 
-  · Increase in social media activities and connections
-  · Use of active/alternative/multi-modal transportation to and from the event
-  ·Data capture for future community-driven events and amenities
-  ·Integration of the diverse CSUN University community
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Please describe your project proposal.: >-
   LIT is a community block party under the stars, with an integrated,
   interactive audiovisual experience. Local students will learn how to build,
   program and install specially curated light installations to accompany a
   series of live DJ sets at a community block party on Reseda Boulevard. LIT
   will also feature local artists, performers and businesses from the San
   Fernando Valley in a fun, night market atmosphere.
-project_impact: >-
-  ["Social & emotional support","Cultural events","Public/open streets
-  gatherings","Government responsiveness to residents’ needs","Public transit
-  riders","Participation in neighborhood councils","Rates of
-  volunteerism","Residential segregation","Total number of local social media
-  friends and connections Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Public/open streets gatherings
@@ -65,16 +41,9 @@ project_proposal_impact:
   - Rates of volunteerism
   - Residential segregation
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  LIT is a community block party under the stars, with an integrated,
-  interactive audiovisual experience. Local students will learn how to build,
-  program and install specially curated light installations to accompany a
-  series of live DJ sets at a community block party on Reseda Boulevard. LIT
-  will also feature local artists, performers and businesses from the San
-  Fernando Valley in a fun, night market atmosphere.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - San Fernando Valley
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   LIT will be a block party celebration of San Fernando Valley history, art and
   culture in the heart of the San Fernando Valley - on the Reseda Blvd Great
   Street. The event will capitalize on the momentum of the [RE]visit [RE]seda
@@ -118,6 +87,23 @@ project_proposal_best_place: >-
   Valley, giving the diverse residents, businesses and visitors an opportunity
   to proudly celebrate a unique past, in the present, while building the
   community of their future.
+Please explain how you will define and measure success for your project.​: |-
+  · Number of students learning tangible coding and light production skills
+  · Number of people attending event
+  · Number of volunteers participating 
+  · Increase in social media activities and connections
+  · Use of active/alternative/multi-modal transportation to and from the event
+  ·Data capture for future community-driven events and amenities
+  ·Integration of the diverse CSUN University community
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/lit-is-a-community-block-party-with-curated-lights-and-music-featuring-local-sfv-talent/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7295760875741-team91.jpeg
 organization_name: Valley Relics

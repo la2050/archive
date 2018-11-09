@@ -17,39 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6990906684741-team91.jpg
 project_video: 'https://www.youtube.com/embed/AW4FRTnLfzw?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: ''
-project_measure: >-
-  The success of the project will be measured using three methods. The first
-  method will take place at the five-week point of the intensive. We will host a
-  meeting for all of the parents and students in which they can provide verbal
-  and written feedback to the Artistic Directors regarding the progress of the
-  program. Progress will be determined by the students’ increased interest in
-  the performing arts, physical abilities, and sense of community at ZPA.
-
-
-  The second method will take place at the final performance. We will provide a
-  survey to all students and audience members asking for them to evaluate their
-  experience, the quality of the instructors and performance, and whether or not
-  they would continue to participate in the performing arts. 
-
-
-  The final method will be determined by student retention. We will count the
-  number of students that continue to take class with Zeneith Performing Arts
-  after the summer intensive. Considering the financial cost of class, despite
-  the 80% subsidized tuition, might prevent some students from continuing to
-  train with ZPA, a successful program would be measured by a retention of at
-  least 65% of the students.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   The Inner City Dance Project will bring professional dance training to
   students who other wise would not be able to access this training due to
   financial and geographic difficulties. We will identify 40 middle school and
@@ -57,29 +26,17 @@ project_description: >-
   students to participate in a ten-week dance and theater intensive that will
   conclude with a performance. The project will also subsidize class tuition for
   students who train with ZPA after the project.
-project_impact: >-
-  ["Arts establishments","Employment in the creative industries","Measures of
-  cultural and global economic influence (“soft power”)","Minority- and
-  women-owned firms"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Employment in the creative industries
   - Measures of cultural and global economic influence (“soft power”)
   - Minority- and women-owned firms
-project_proposal_description: >-
-  The Inner City Dance Project will bring professional dance training to
-  students who other wise would not be able to access this training due to
-  financial and geographic difficulties. We will identify 40 middle school and
-  high school students, 5 foster youth, and 5 Zeneith Performing Arts (ZPA)
-  students to participate in a ten-week dance and theater intensive that will
-  conclude with a performance. The project will also subsidize class tuition for
-  students who train with ZPA after the project.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - South LA
   - South Bay
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   With more than 28,000 performing arts jobs, Los Angeles has the nation’s best
   market for performing artists. However, young performing artists within Los
   Angeles’ low-income communities face poverty, crime, and other economic risk
@@ -134,6 +91,36 @@ project_proposal_best_place: >-
   Inner City Dance Project is to inspire all participants to believe that, in
   spite of their circumstances, Los Angeles is a place where they too can create
   and thrive.
+Please explain how you will define and measure success for your project.​: >-
+  The success of the project will be measured using three methods. The first
+  method will take place at the five-week point of the intensive. We will host a
+  meeting for all of the parents and students in which they can provide verbal
+  and written feedback to the Artistic Directors regarding the progress of the
+  program. Progress will be determined by the students’ increased interest in
+  the performing arts, physical abilities, and sense of community at ZPA.
+
+
+  The second method will take place at the final performance. We will provide a
+  survey to all students and audience members asking for them to evaluate their
+  experience, the quality of the instructors and performance, and whether or not
+  they would continue to participate in the performing arts. 
+
+
+  The final method will be determined by student retention. We will count the
+  number of students that continue to take class with Zeneith Performing Arts
+  after the summer intensive. Considering the financial cost of class, despite
+  the 80% subsidized tuition, might prevent some students from continuing to
+  train with ZPA, a successful program would be measured by a retention of at
+  least 65% of the students.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/the-inner-city-dance-project-teaching-professional-dance-and-theater-to-las-inner-city-youth/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6990906684741-team91.jpg
 organization_name: Zeneith Performing Arts

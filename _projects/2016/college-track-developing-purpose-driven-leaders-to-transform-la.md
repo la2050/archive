@@ -15,68 +15,26 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4013598065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/3R34MzY6_dM?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  College Track’s Dream LA project aims to 1) help students identify their
-  dreams and passions, and 2) connect those interests in service to the LA
-  community
-
-
-  Success of the project will be measured by:
-
-  -Number of students who participate in the Dream LA project (Goal is 400)
-
-  -Percent of students who complete at least 25 hours of community service by
-  the end of the 2016-17 school year (Goal is 90%)
-
-  -Percent of students who report that they understand how a college degree will
-  allow them to pursue their passions and purpose (Goal is 90%)
-
-
-  Progress against these metrics is logged and evaluated via our Salesforce
-  database. We also plan to gather qualitative data around the Dream LA project
-  through surveys and one-on-one conversations with students and partner
-  organizations.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   College Track’s Dream LA project will transform high school students from
   Boyle Heights and Watts into leaders of change by helping them identify their
   dreams, turn their passions into actions, and make a positive impact in the LA
   community. Purpose-driven service projects will allow students to explore
   leadership, activism, community development and entrepreneurship – creating
   networks and developing interests that propel them through college and beyond.
-project_impact: >-
-  ["College completion","College matriculation rates","District-wide graduation
-  rates","Proficiency in English and Language Arts and Math","Student education
-  pipeline","Youth unemployment and underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - District-wide graduation rates
   - Proficiency in English and Language Arts and Math
   - Student education pipeline
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  College Track’s Dream LA project will transform high school students from
-  Boyle Heights and Watts into leaders of change by helping them identify their
-  dreams, turn their passions into actions, and make a positive impact in the LA
-  community. Purpose-driven service projects will allow students to explore
-  leadership, activism, community development and entrepreneurship – creating
-  networks and developing interests that propel them through college and beyond.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - East LA
   - South LA
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   College Track will make LA the best place to learn by developing
   purpose-driven leaders of change through our Dream LA project, which provides
   students from low-income neighborhoods the opportunity to turn their passions
@@ -127,6 +85,36 @@ project_proposal_best_place: >-
   Club and Project DAD, as well as a campaign around food sovereignty. This
   year, we anticipate that students will partner with at least 15 organizations
   across LA to transform their passions into positive impact
+Please explain how you will define and measure success for your project.​: >-
+  College Track’s Dream LA project aims to 1) help students identify their
+  dreams and passions, and 2) connect those interests in service to the LA
+  community
+
+
+  Success of the project will be measured by:
+
+  -Number of students who participate in the Dream LA project (Goal is 400)
+
+  -Percent of students who complete at least 25 hours of community service by
+  the end of the 2016-17 school year (Goal is 90%)
+
+  -Percent of students who report that they understand how a college degree will
+  allow them to pursue their passions and purpose (Goal is 90%)
+
+
+  Progress against these metrics is logged and evaluated via our Salesforce
+  database. We also plan to gather qualitative data around the Dream LA project
+  through surveys and one-on-one conversations with students and partner
+  organizations.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/college-track-developing-purpose-driven-leaders-to-transform-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4013598065741-team90.jpg
 organization_name: College Track

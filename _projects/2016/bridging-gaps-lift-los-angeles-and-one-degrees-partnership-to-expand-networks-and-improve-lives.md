@@ -17,64 +17,24 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4037609065741-team91.png
 project_video: 'https://www.youtube.com/embed/0kAkWtDm2X0?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: 'LIFT, Inc. (a.k.a LIFT-Los Angeles) and One Degree (www.1deg.org)'
-project_measure: >-
-  By some measures, low-income families spend as many as twenty hours/week
-  researching, finding, and traveling to multiple agencies to attain the
-  services they need. LIFT and One Degree are working together to connect
-  overstretched parents to the resources their families need to get ahead. Both
-  are data-driven organizations, measurement is built into their systems. 
-
-  We will define our collective impact along the following measures:
-
-  (1)Program uptake: 200 LIFT members will utilize One Degree, as tracked via
-  LIFT’s management system, Link. Changes in access can be measured via One
-  Degree’s 'Get Started' tracking system, which allows users to tell us that
-  they used a service. This puts the power in the hands of those accessing
-  resources - the overworked mom, the school teacher, the care provider - and
-  ultimately builds a community of advocates.
-
-  (2)Program retention: 75% of LIFT members who use One Degree will utilize the
-  resource at least once a month. Tracking and measurement capabilities are
-  built directly into One Degree’s system, Mixpanel, and a proprietary dashboard
-  to keep track of metrics. 
-
-  (3) Increase in linkages and referrals: of LIFT members who utilize One
-  Degree, at least half will have successful completion of a referral towards
-  achieving a goal.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - Technical infrastructure (computers
-  - Community outreach
-project_description: >-
+Are any other organizations collaborating on this proposal?: 'LIFT, Inc. (a.k.a LIFT-Los Angeles) and One Degree (www.1deg.org)'
+Please describe your project proposal.: >-
   At LIFT-Los Angeles and One Degree, we know that poverty is complex but
   believe that getting help does not have to be. We are combining our respective
   strengths to provide historically marginalized communities with supports to
   address short- and long-term needs and goals. Both in-person and via an online
   tool, LIFT and One Degree are working hand-in-hand with families on their
   journeys out of poverty.
-project_impact: >-
-  ["Access to healthy food","Healthcare access","Self-sufficiency","Resilient
-  communities","Prevalence of adverse childhood experiences","Homelessness"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to healthy food
   - Healthcare access
   - Self-sufficiency
   - Resilient communities
   - Prevalence of adverse childhood experiences
   - Homelessness
-project_proposal_description: >-
-  At LIFT-Los Angeles and One Degree, we know that poverty is complex but
-  believe that getting help does not have to be. We are combining our respective
-  strengths to provide historically marginalized communities with supports to
-  address short- and long-term needs and goals. Both in-person and via an online
-  tool, LIFT and One Degree are working hand-in-hand with families on their
-  journeys out of poverty.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   We know that our city is at its best when the families and networks that make
   up our community are vibrant and resilient – yet far too many of our members
   struggle just to stay afloat. Low-income parents want what all parents do – to
@@ -121,6 +81,35 @@ project_proposal_best_place: >-
   tech solution represent the future of poverty alleviation: together, we create
   new avenues for greater coordination among diverse stakeholders and empower
   people to access resources efficiently.
+Please explain how you will define and measure success for your project.​: >-
+  By some measures, low-income families spend as many as twenty hours/week
+  researching, finding, and traveling to multiple agencies to attain the
+  services they need. LIFT and One Degree are working together to connect
+  overstretched parents to the resources their families need to get ahead. Both
+  are data-driven organizations, measurement is built into their systems. 
+
+  We will define our collective impact along the following measures:
+
+  (1)Program uptake: 200 LIFT members will utilize One Degree, as tracked via
+  LIFT’s management system, Link. Changes in access can be measured via One
+  Degree’s 'Get Started' tracking system, which allows users to tell us that
+  they used a service. This puts the power in the hands of those accessing
+  resources - the overworked mom, the school teacher, the care provider - and
+  ultimately builds a community of advocates.
+
+  (2)Program retention: 75% of LIFT members who use One Degree will utilize the
+  resource at least once a month. Tracking and measurement capabilities are
+  built directly into One Degree’s system, Mixpanel, and a proprietary dashboard
+  to keep track of metrics. 
+
+  (3) Increase in linkages and referrals: of LIFT members who utilize One
+  Degree, at least half will have successful completion of a referral towards
+  achieving a goal.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - Technical infrastructure (computers
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/bridging-gaps-lift-los-angeles-and-one-degrees-partnership-to-expand-networks-and-improve-lives/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4037609065741-team91.png
 organization_name: LIFT Inc.

@@ -13,25 +13,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5004868715741-team91.jpg
 project_video: 'https://www.youtube.com/embed/dtKGgHD0VHE?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: >-
-  URM collaborates with numerous social service, health and community-based
-  partners to help end homelessness. They include the Los Angeles Central
-  Providers Collaborative (LACPC) and more than 40 other partner agencies.
-project_measure: >-
-  This project will be evaluated as an on-going part of Union Rescue Mission's
-  commitment to measuring and tracking progress and impact. Outcome measurements
-  tracked will include: number of women, children and families enrolling in our
-  program each night; number of families moving to Hope Gardens and other
-  transitional housing programs; number of women participating in comprehensive
-  recovery programs or utilizing the medical clinic.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - 'Education/training '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   As part this Grants Challenge, Union Rescue Mission will help 15 mothers and
   their children get into permanent housing over the next year. The project
   connects women and children experiencing homelessness with food, supportive
@@ -39,11 +22,7 @@ project_description: >-
   and local communities with opportunities for service. And it gives all of us
   the chance to work together to transform Los Angeles into a place where
   everyone deserves to thrive.
-project_impact: >-
-  ["Access to healthy food","Housing affordability","Healthcare
-  access","Self-sufficiency","Resilient communities","Residents receiving
-  coordinated healthcare services","Homelessness","Mental illness"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to healthy food
   - Housing affordability
   - Healthcare access
@@ -52,21 +31,13 @@ project_proposal_impact:
   - Residents receiving coordinated healthcare services
   - Homelessness
   - Mental illness
-project_proposal_description: >-
-  As part this Grants Challenge, Union Rescue Mission will help 15 mothers and
-  their children get into permanent housing over the next year. The project
-  connects women and children experiencing homelessness with food, supportive
-  services and a healthy place to LIVE. It engages and connects caring citizens
-  and local communities with opportunities for service. And it gives all of us
-  the chance to work together to transform Los Angeles into a place where
-  everyone deserves to thrive.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Fernando Valley
   - South LA
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   At Union Rescue Mission, we believe that providing a way home for women and
   children is just the right thing to do. What better way to transform Los
   Angeles than to provide a tangible pathway from the streets, and from under
@@ -108,6 +79,19 @@ project_proposal_best_place: >-
   health, jobs and housing. We are a group of people who believe that every
   person deserves to LIVE with a roof over their heads, and want to do something
   about it. Please join us. Together, we CAN end homelessness.
+Please explain how you will define and measure success for your project.​: >-
+  This project will be evaluated as an on-going part of Union Rescue Mission's
+  commitment to measuring and tracking progress and impact. Outcome measurements
+  tracked will include: number of women, children and families enrolling in our
+  program each night; number of families moving to Hope Gardens and other
+  transitional housing programs; number of women participating in comprehensive
+  recovery programs or utilizing the medical clinic.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - 'Education/training '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/a-way-home-for-women-children/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5004868715741-team91.jpg
 organization_name: Union Rescue Mission

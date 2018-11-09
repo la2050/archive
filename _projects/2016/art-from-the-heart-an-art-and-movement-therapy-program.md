@@ -15,55 +15,19 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1734618955741-team91.png
 project_video: 'https://www.youtube.com/embed/F0jAU8oFZyQ?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Ava Kaufman, founder of Ava's Heart, who was in the first graduating class in
   Dance Therapy at New York University, will assist in launching this art and
   movement therapy program for heart transplant patients, as she is a patient
   herself, at UCLA.
-project_measure: >-
-  Dr. Federica Raia, a complexity scientist and assistant professor in the UCLA
-  Graduate School of Education and Information Studies and the UCLA David Geffen
-  School of Medicine, has extensive experience evaluating the impact of
-  ethnographic work and the analysis of recorded medical encounters following
-  patients with their doctor encounters for two years, and she has provided a
-  comprehensive framework for understanding the practice of the patient-doctor
-  collaboration in high-tech modern medicine. With Dr. Mario Deng, Professor
-  Raia has established the Relational Medicine Foundation. 
-
-  To measure community level impact of using the arts to aid patients in their
-  journey of healing and to educate patients about preventative measures, we
-  will work with the UCLA Fielding School of Public Health to develop
-  questionnaires further distributed to the community electronically. The
-  questionnaires could be distributed to community members through an app
-  developed to display the patients’ work.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Please describe your project proposal.: >-
   Based on Dr. Federica Raia's ethnographic and participatory research, the
   Relational Medicine Foundation's key activities include: patient and student
   involvement in the artistic integration of Art and Medicine to aid the process
   of healing through collaboration with innovative and well-respected arts and
   cultural institutions, and the dissemination of research results to the
   community.
-project_impact: >-
-  ["Arts establishments","Employment in the creative industries","Federal
-  research grant funding","Jobs per capita","Measures of cultural and global
-  economic influence (“soft power”)","Minority- and women-owned firms","High
-  growth startups","Percentage of graduates from local higher education
-  institutions that remain in LA County 5 years after graduating","Recruiting
-  and retention rates for local higher education institutions","Venture capital
-  investment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Employment in the creative industries
   - Federal research grant funding
@@ -76,21 +40,14 @@ project_proposal_impact:
     in LA County 5 years after graduating
   - Recruiting and retention rates for local higher education institutions
   - Venture capital investment
-project_proposal_description: >-
-  Based on Dr. Federica Raia's ethnographic and participatory research, the
-  Relational Medicine Foundation's key activities include: patient and student
-  involvement in the artistic integration of Art and Medicine to aid the process
-  of healing through collaboration with innovative and well-respected arts and
-  cultural institutions, and the dissemination of research results to the
-  community.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
   - Westside
   - South Bay
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Forty years ago, it was unthinkable to live a life with an artificial heart,
   with somebody else’s heart, or with an assist heart pump. The unfathomable
   experiences of a person in interaction with the scientific and technological
@@ -125,6 +82,33 @@ project_proposal_best_place: >-
   hope that our project will serve as a model to other medical centers. It is in
   our vision to support future research that will advance Heart Failure
   knowledge and care.
+Please explain how you will define and measure success for your project.​: >-
+  Dr. Federica Raia, a complexity scientist and assistant professor in the UCLA
+  Graduate School of Education and Information Studies and the UCLA David Geffen
+  School of Medicine, has extensive experience evaluating the impact of
+  ethnographic work and the analysis of recorded medical encounters following
+  patients with their doctor encounters for two years, and she has provided a
+  comprehensive framework for understanding the practice of the patient-doctor
+  collaboration in high-tech modern medicine. With Dr. Mario Deng, Professor
+  Raia has established the Relational Medicine Foundation. 
+
+  To measure community level impact of using the arts to aid patients in their
+  journey of healing and to educate patients about preventative measures, we
+  will work with the UCLA Fielding School of Public Health to develop
+  questionnaires further distributed to the community electronically. The
+  questionnaires could be distributed to community members through an app
+  developed to display the patients’ work.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/art-from-the-heart-an-art-and-movement-therapy-program/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1734618955741-team91.png
 organization_name: Relational Medicine Foundation

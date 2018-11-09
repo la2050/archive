@@ -15,42 +15,20 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6377992175741-team91.jpg
 project_video: 'https://www.youtube.com/embed/yYikBEjX8p0?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: ''
-project_measure: "Effectiveness is measured in an ongoing evaluation. In May 2016, NCJW|LA published the first evaluation of The Talk Project which found it to be effective and engaging.\n\n NCJW|LA believes that in order to change behavior students need knowledge and a feeling of empowerment. Therefore, The Talk Project strives to educate students on the causes of sexual violence and the laws of consent, and empower them to speak out against sexual violence, engage in healthy sexual relationships, and make informed decisions about seeking legal justice if necessary.\n \nThe students at each school or group we visit participate in a survey before and after the presentation. Students who see the workshop take a pre- and post-survey, which are then compared. In addition, NCJW|LA conducts interviews with students who have seen the workshop for their feedback.\n  \t\nNCJW|LA's first evaluation found that students from the first three schools who saw The Talk Project reported being significantly less likely to adhere to rape myths, and significantly more likely to practice consent behaviors and intervene as a bystander. Students reported that they found The Talk Project to be understandable and engaging, and said they would recommend The Talk Project to a friend.\n\nThe evaluation can be read in full here:  http://ncjwla.org/wp-content/uploads/2015/12/Evaluation_TheTalkProject.pdf and in summary here: http://ncjwla.org/wp-content/uploads/2015/12/OneSheet_TheTalkProject.pdf."
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   The Talk Project is an exciting, brand-new peer-to-peer sexual assault
   awareness program by and for high school students. In The Talk Project, teams
   of teen Peer Educators visit LA high schools to lead a workshop on sexual
   violence, speaking out against harmful behavior, engaging in healthy and
   consensual relationships, making informed decisions about seeking legal
   justice if necessary, and creating cultural change.
-project_impact: >-
-  ["College completion","College matriculation rates","District-wide graduation
-  rates","Students’ perceived sense of safety at and on the way to school"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - District-wide graduation rates
   - Students’ perceived sense of safety at and on the way to school
-project_proposal_description: >-
-  The Talk Project is an exciting, brand-new peer-to-peer sexual assault
-  awareness program by and for high school students. In The Talk Project, teams
-  of teen Peer Educators visit LA high schools to lead a workshop on sexual
-  violence, speaking out against harmful behavior, engaging in healthy and
-  consensual relationships, making informed decisions about seeking legal
-  justice if necessary, and creating cultural change.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -60,7 +38,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   To be the best place to learn, Los Angeles must be a city where all students
   are safe, respected, and empowered. We need to give students equal access to
   education. Right now students across the country are reporting that they are
@@ -117,6 +95,17 @@ project_proposal_best_place: >-
   With resources and strong support this program can truly take off, and LA
   teens can continue to use their voices to make Los Angeles a safer, more
   inclusive, more empowering place to learn.
+Please explain how you will define and measure success for your project.​: "Effectiveness is measured in an ongoing evaluation. In May 2016, NCJW|LA published the first evaluation of The Talk Project which found it to be effective and engaging.\n\n NCJW|LA believes that in order to change behavior students need knowledge and a feeling of empowerment. Therefore, The Talk Project strives to educate students on the causes of sexual violence and the laws of consent, and empower them to speak out against sexual violence, engage in healthy sexual relationships, and make informed decisions about seeking legal justice if necessary.\n \nThe students at each school or group we visit participate in a survey before and after the presentation. Students who see the workshop take a pre- and post-survey, which are then compared. In addition, NCJW|LA conducts interviews with students who have seen the workshop for their feedback.\n  \t\nNCJW|LA's first evaluation found that students from the first three schools who saw The Talk Project reported being significantly less likely to adhere to rape myths, and significantly more likely to practice consent behaviors and intervene as a bystander. Students reported that they found The Talk Project to be understandable and engaging, and said they would recommend The Talk Project to a friend.\n\nThe evaluation can be read in full here:  http://ncjwla.org/wp-content/uploads/2015/12/Evaluation_TheTalkProject.pdf and in summary here: http://ncjwla.org/wp-content/uploads/2015/12/OneSheet_TheTalkProject.pdf."
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/the-talk-project-teens-leading-workshops-on-sexual-violence-culture-change/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6377992175741-team91.jpg
 organization_name: National Council of Jewish Women | Los Angeles

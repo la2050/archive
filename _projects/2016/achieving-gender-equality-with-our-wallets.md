@@ -14,60 +14,19 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371696026741-team91.jpg
 project_video: 'https://www.youtube.com/embed/8nHQbGQ-t-E?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Collecting and analyzing data is at the core of our business.  
-
-
-  In the short term, Equallet's success is defined by the number of women-owned
-  businesses that register and utilize our marketing tools, and by the number of
-  active users that use Equallet to search for and engage with the businesses.
-
-
-  In the long term, success will be defined by the increase in sales and
-  investments our WOBs have realized through the Equallet platform, the number
-  of new jobs those WOBs create for women and the positive impacts those WOBs
-  have on our local communities.
-
-
-  We will be measuring all of this through a combination of digital analytical
-  tools, direct interaction with our registered WOB community and regular
-  surveys.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   There is no easy way to find and support women owned businesses (WOBs) in LA.
   Equallet was built to fill this void by providing an online and mobile search
   platform (think Yelp or Google) that connects consumers and investors with
   LA-based WOBs. In this way, we will contribute to small business growth, the
   creation of new jobs for women and increased in investments into our
   community.
-project_impact: >-
-  ["Jobs per capita","Minority- and women-owned firms","Venture capital
-  investment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Jobs per capita
   - Minority- and women-owned firms
   - Venture capital investment
-project_proposal_description: >-
-  There is no easy way to find and support women owned businesses (WOBs) in LA.
-  Equallet was built to fill this void by providing an online and mobile search
-  platform (think Yelp or Google) that connects consumers and investors with
-  LA-based WOBs. In this way, we will contribute to small business growth, the
-  creation of new jobs for women and increased in investments into our
-  community.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -79,7 +38,7 @@ project_areas:
   - Antelope Valley
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Our platform serves as a beacon for potential customers, clients and investors
   to find and assess women-owned businesses (WOBs). We will provide
   unprecedented rich content and information on each business owner in addition
@@ -122,6 +81,36 @@ project_proposal_best_place: >-
   purposes of driving policy and community decisions in order to help these
   businesses thrive. We will become the trusted source of information on our
   great city’s women-owned business community.
+Please explain how you will define and measure success for your project.​: >-
+  Collecting and analyzing data is at the core of our business.  
+
+
+  In the short term, Equallet's success is defined by the number of women-owned
+  businesses that register and utilize our marketing tools, and by the number of
+  active users that use Equallet to search for and engage with the businesses.
+
+
+  In the long term, success will be defined by the increase in sales and
+  investments our WOBs have realized through the Equallet platform, the number
+  of new jobs those WOBs create for women and the positive impacts those WOBs
+  have on our local communities.
+
+
+  We will be measuring all of this through a combination of digital analytical
+  tools, direct interaction with our registered WOB community and regular
+  surveys.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/achieving-gender-equality-with-our-wallets/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371696026741-team91.jpg
 organization_name: Equallet

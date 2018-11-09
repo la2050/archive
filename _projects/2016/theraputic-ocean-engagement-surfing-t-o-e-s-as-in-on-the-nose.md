@@ -12,48 +12,8 @@ project_summary: 'Therapeutic Ocean Engagement: Surfing (T.O.E.S)'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8758171455741-team90.jpg
 project_video: 'https://www.youtube.com/embed/mTtQd9ZOG1E?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: Surf Academy (for surf equipment rentals)
-project_measure: >-
-  We like to say the best surfer in the water is the one having the most fun!  
-
-
-  We define our success by what our students retain of their ocean literacy
-  curriculum over a two week period of immersion in surfing: TOES.  We are
-  studying the impact of TOES on Self-Esteem, Motivation, Endurance, and Trust
-  (in self).
-
-
-  We measure the success with anonymous surveys given to students before their
-  two weeks of immersion in TOES and then a follow up survey upon culmination of
-  the second week.  We will also employ participant observation, staff and
-  student interviews, and daily surf journals kept by the surf teachers.
-
-
-  The surveys will have questions asking the children to rate their perceived
-  levels of self-esteem, motivation, endurance, and trust.  The questions will
-  relate to school, sports, and life at home.  
-
-
-  The interviews with staff and students will be video-taped and their content
-  assessed by the executive director.  The questions will relate to our ocean
-  literacy curriculum, their experience of the beach, and their experience in
-  the water.
-
-
-  The surf logs will be kept by the staff.  Every day they will record the
-  weather and water conditions, adherence to timeline, and receptiveness by
-  students of lessons.  These logs will be assessed for any positive/negative
-  correlations with the perceived success of the program (interviews) with the
-  actual success (surveys).
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Community outreach
-project_description: >-
+Are any other organizations collaborating on this proposal?: Surf Academy (for surf equipment rentals)
+Please describe your project proposal.: >-
   TOES programming breaks down barriers of access to LA County beaches.  Surf
   Bus invites LA City Park and Recreation Departments out to the beaches of Los
   Angeles to become 'ocean literate' and we provide the transportation, bathing
@@ -61,27 +21,14 @@ project_description: >-
   and education needed to surfvive and thrive in Los Angeles!  Our program has a
   measurable positive impact on the self-esteem, motivation, endurance, and
   trust (in self) of our participants.
-project_impact: >-
-  ["Access to open space and park facilities","Number (and quality) of informal
-  spaces for play","Number of children enrolled in afterschool programs","Number
-  of parks with intergenerational play opportunities","Per capita crime
-  rates","Perceived safety"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to open space and park facilities
   - Number (and quality) of informal spaces for play
   - Number of children enrolled in afterschool programs
   - Number of parks with intergenerational play opportunities
   - Per capita crime rates
   - Perceived safety
-project_proposal_description: >-
-  TOES programming breaks down barriers of access to LA County beaches.  Surf
-  Bus invites LA City Park and Recreation Departments out to the beaches of Los
-  Angeles to become 'ocean literate' and we provide the transportation, bathing
-  suits, wetsuits, surf boards, boogie boards, munchies, and the ocean safety
-  and education needed to surfvive and thrive in Los Angeles!  Our program has a
-  measurable positive impact on the self-esteem, motivation, endurance, and
-  trust (in self) of our participants.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
@@ -90,7 +37,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   We are a social justice organization working to connect at-risk youth with the
   wonder and healing power of the sea. We believe that the ocean, a healing
   resource, should be accessible to all. Unfortunately, most low-income
@@ -138,6 +85,45 @@ project_proposal_best_place: >-
   environments. Our ocean safety education is empowering. We teach youth how
   they can make a difference by becoming ocean stewards, starting in their own
   communities, and thereby protecting the Santa Monica Bay for all to enjoy.
+Please explain how you will define and measure success for your project.​: >-
+  We like to say the best surfer in the water is the one having the most fun!  
+
+
+  We define our success by what our students retain of their ocean literacy
+  curriculum over a two week period of immersion in surfing: TOES.  We are
+  studying the impact of TOES on Self-Esteem, Motivation, Endurance, and Trust
+  (in self).
+
+
+  We measure the success with anonymous surveys given to students before their
+  two weeks of immersion in TOES and then a follow up survey upon culmination of
+  the second week.  We will also employ participant observation, staff and
+  student interviews, and daily surf journals kept by the surf teachers.
+
+
+  The surveys will have questions asking the children to rate their perceived
+  levels of self-esteem, motivation, endurance, and trust.  The questions will
+  relate to school, sports, and life at home.  
+
+
+  The interviews with staff and students will be video-taped and their content
+  assessed by the executive director.  The questions will relate to our ocean
+  literacy curriculum, their experience of the beach, and their experience in
+  the water.
+
+
+  The surf logs will be kept by the staff.  Every day they will record the
+  weather and water conditions, adherence to timeline, and receptiveness by
+  students of lessons.  These logs will be assessed for any positive/negative
+  correlations with the perceived success of the program (interviews) with the
+  actual success (surveys).
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/theraputic-ocean-engagement-surfing-t-o-e-s-as-in-on-the-nose/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8758171455741-team90.jpg
 organization_name: Surf Bus Foundation

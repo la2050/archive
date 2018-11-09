@@ -16,7 +16,84 @@ project_summary: >-
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/united-parents-and-students.jpg
 project_video: 'https://vimeo.com/205438757'
-project_measure: >-
+Will your proposal impact any other LA2050 goal categories?:
+  - LA is the best place to LEARN
+  - LA is the best place to CREATE
+  - LA is the healthiest place to LIVE
+In what areas of Los Angeles will you be directly working?:
+  - Central LA
+  - East LA
+  - South LA
+  - Westside
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+Please describe the activation your organization seeks to launch.: >-
+  UPAS envisions Los Angeles as a city where political power accurately reflects
+  the population’s diversity. UPAS will continue to train and empower low-income
+  community members to voice their concerns, engage city officials, and mobilize
+  1000s of students and families to vote. It will also launch a broader
+  activation strategy to raise awareness among Angelenos of the scale and impact
+  of poverty, homelessness, underemployment, violence, and lack of access to
+  healthcare.
+Which metrics will your activation impact?​:
+  - Attendance at public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Voting rates
+How will your activation mobilize Angelenos?:
+  - Advocate for policy
+  - Digital organizing or activism
+  - Trainings and/or in-person engagements
+  - Create new tools or technologies for greater civic/political engagement
+  - >-
+    Increase participation in political processes (e.g. voting, running for
+    office, community problem solving)
+  - Connect Angelenos with impactful volunteer opportunities
+Describe in greater detail how your activation will make LA the best place?: >-
+  Los Angeles has the the most rapidly rising rents in America, the highest
+  rates of homelessness, and the fourth highest rate of income inequality among
+  the country’s largest metropolitan areas. These issues hit low-income
+  communities of color the hardest. But while 84% of the county’s eligible
+  voters are registered, turnout in the city’s municipal elections is
+  notoriously low, resulting in measures getting passed with fewer than 200,000
+  votes in a city with a population of almost four million.
+   
+   
+   
+   Democracy grants power to individuals. It affords every American the opportunity to be heard and to hold elected officials accountable. But democracy only has power when it’s active. Many Americans, particularly those Americans who have historically been ignored or marginalized, are disengaged from the political process, their power to improve their lives and their communities untapped. UPAS seeks to address the glaring inequity apparent in the city’s civic life and engagement.
+   
+   
+   
+   Too often, grassroots advocacy groups approach organizing as a part-time or volunteer endeavour; built on a belief that if you can get enough people out onto the streets then things will change. But that’s not how power transitions. Organizing individuals with little personal history of civic engagement is a full-time job that requires professional experience and knowledge of the formal skills necessary to mobilize diverse groups of people around a common cause. It then requires that those same professionals relinquish their own power, step aside, and allow the individual to take the reins and lead. 
+   
+   
+   
+   United Parents and Students (UPAS) fundamentally believes that in order to secure long-lasting community progress and revitalization, community organizing must be recognized as a profession requiring vital and identifiable knowledge and strategic skills. UPAS uses a training model successfully used by the Industrial Areas Foundation since the 1970s, built on the iron rule of organizing: “Never do for others what they can do for themselves.” Nowhere is this mindset more important than in activism; UPAS organizers ground training on an understanding that systemic change must be pursued by the community itself rather than through the efforts of others.
+   
+   
+   
+   UPAS builds the capacity of grassroots coalitions by fostering vibrant community hubs in many of Los Angeles’s traditionally politically silent neighborhoods. In these hubs, individuals identify the root causes and socio-political context of the challenges they face, persuasively communicate on a wide range of issues, and organize friends and neighbors to take collaborative action. Schools are a natural partner for such work; they are multi-generational centers of learning with a built-in, responsive audience of families acutely aware of community challenges. UPAS is a 501(c)(3) non-profit that partners with existing organizations to leverage their communities to civic action.
+How will your activation engage Angelenos to make LA the best place?: >-
+  UPAS’s activation will develop the social and political capital of individuals
+  in the communities we currently serve through three main strategies that tier
+  engagement: 
+   
+   
+   
+   Educating & Supporting Parents: UPAS’s Parent Academy offers free adult education workshops at partner school sites to enable parents to act with core understanding of issues that most affect their communities.
+   
+   
+   
+   Organizing: UPAS offers a structured training in the theory and practice of leadership and political engagement. The Leadership Institute trains leaders in how to prioritize issues, draft solutions, and develop strategies to engage representatives in meaningful and informed dialogue. Leaders organize public actions where community members surface issues to local representatives and officials.
+   
+   
+   
+   Registering & Mobilizing: UPAS leaders, school-based parent outreach workers, and canvassers continually work to register eligible voters through an ambitious schedule of door-to-door visits, non-partisan voter registration events, and phone banking. UPAS also holds events to mobilize voters to the ballot box.
+   
+   
+   
+   An integral part of UPAS’s work is to garner maximum community buy-in. UPAS maintains an active online presence that: 1) provides additional touchpoints for community members to connect, learn from and support each other online; and 2) allows UPAS to expand the scope of its work regardless of geographic boundaries to demand a rebalance of power in Los Angeles and attract potential partner organizations.
+Please explain how you will define and measure success for your activation.​: >-
   Over the next two years, UPAS will successfully activate 102,755 Angelenos by
   engaging in a four-pronged strategy of structured organizing:
    
@@ -61,80 +138,7 @@ project_measure: >-
    Register 6,342 community members to vote.
    
    Activate 5,588 new registrants to vote.
-impact_metrics: >-
-  ["Attendance at public/open streets gatherings","Government responsiveness to
-  residents’ needs","Voting rates"]
-make_la_great: "Los Angeles has the the most rapidly rising rents in America, the highest rates of homelessness, and the fourth highest rate of income inequality among the country’s largest metropolitan areas. These issues hit low-income communities of color the hardest. But while 84% of the county’s eligible voters are registered, turnout in the city’s municipal elections is notoriously low, resulting in measures getting passed with fewer than 200,000 votes in a city with a population of almost four million.\r\n \r\n \r\n \r\n Democracy grants power to individuals. It affords every American the opportunity to be heard and to hold elected officials accountable. But democracy only has power when it’s active. Many Americans, particularly those Americans who have historically been ignored or marginalized, are disengaged from the political process, their power to improve their lives and their communities untapped. UPAS seeks to address the glaring inequity apparent in the city’s civic life and engagement.\r\n \r\n \r\n \r\n Too often, grassroots advocacy groups approach organizing as a part-time or volunteer endeavour; built on a belief that if you can get enough people out onto the streets then things will change. But that’s not how power transitions. Organizing individuals with little personal history of civic engagement is a full-time job that requires professional experience and knowledge of the formal skills necessary to mobilize diverse groups of people around a common cause. It then requires that those same professionals relinquish their own power, step aside, and allow the individual to take the reins and lead. \r\n \r\n \r\n \r\n United Parents and Students (UPAS) fundamentally believes that in order to secure long-lasting community progress and revitalization, community organizing must be recognized as a profession requiring vital and identifiable knowledge and strategic skills. UPAS uses a training model successfully used by the Industrial Areas Foundation since the 1970s, built on the iron rule of organizing: “Never do for others what they can do for themselves.” Nowhere is this mindset more important than in activism; UPAS organizers ground training on an understanding that systemic change must be pursued by the community itself rather than through the efforts of others.\r\n \r\n \r\n \r\n UPAS builds the capacity of grassroots coalitions by fostering vibrant community hubs in many of Los Angeles’s traditionally politically silent neighborhoods. In these hubs, individuals identify the root causes and socio-political context of the challenges they face, persuasively communicate on a wide range of issues, and organize friends and neighbors to take collaborative action. Schools are a natural partner for such work; they are multi-generational centers of learning with a built-in, responsive audience of families acutely aware of community challenges. UPAS is a 501(c)(3) non-profit that partners with existing organizations to leverage their communities to civic action."
-project_proposal_description: >-
-  UPAS envisions Los Angeles as a city where political power accurately reflects
-  the population’s diversity. UPAS will continue to train and empower low-income
-  community members to voice their concerns, engage city officials, and mobilize
-  1000s of students and families to vote. It will also launch a broader
-  activation strategy to raise awareness among Angelenos of the scale and impact
-  of poverty, homelessness, underemployment, violence, and lack of access to
-  healthcare.
-project_areas:
-  - Central LA
-  - East LA
-  - South LA
-  - Westside
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-project_proposal_mobilize:
-  - Advocate for policy
-  - Digital organizing or activism
-  - Trainings and/or in-person engagements
-  - Create new tools or technologies for greater civic/political engagement
-  - >-
-    Increase participation in political processes (e.g. voting, running for
-    office, community problem solving)
-  - Connect Angelenos with impactful volunteer opportunities
-project_proposal_best_place: >-
-  Los Angeles has the the most rapidly rising rents in America, the highest
-  rates of homelessness, and the fourth highest rate of income inequality among
-  the country’s largest metropolitan areas. These issues hit low-income
-  communities of color the hardest. But while 84% of the county’s eligible
-  voters are registered, turnout in the city’s municipal elections is
-  notoriously low, resulting in measures getting passed with fewer than 200,000
-  votes in a city with a population of almost four million.
-   
-   
-   
-   Democracy grants power to individuals. It affords every American the opportunity to be heard and to hold elected officials accountable. But democracy only has power when it’s active. Many Americans, particularly those Americans who have historically been ignored or marginalized, are disengaged from the political process, their power to improve their lives and their communities untapped. UPAS seeks to address the glaring inequity apparent in the city’s civic life and engagement.
-   
-   
-   
-   Too often, grassroots advocacy groups approach organizing as a part-time or volunteer endeavour; built on a belief that if you can get enough people out onto the streets then things will change. But that’s not how power transitions. Organizing individuals with little personal history of civic engagement is a full-time job that requires professional experience and knowledge of the formal skills necessary to mobilize diverse groups of people around a common cause. It then requires that those same professionals relinquish their own power, step aside, and allow the individual to take the reins and lead. 
-   
-   
-   
-   United Parents and Students (UPAS) fundamentally believes that in order to secure long-lasting community progress and revitalization, community organizing must be recognized as a profession requiring vital and identifiable knowledge and strategic skills. UPAS uses a training model successfully used by the Industrial Areas Foundation since the 1970s, built on the iron rule of organizing: “Never do for others what they can do for themselves.” Nowhere is this mindset more important than in activism; UPAS organizers ground training on an understanding that systemic change must be pursued by the community itself rather than through the efforts of others.
-   
-   
-   
-   UPAS builds the capacity of grassroots coalitions by fostering vibrant community hubs in many of Los Angeles’s traditionally politically silent neighborhoods. In these hubs, individuals identify the root causes and socio-political context of the challenges they face, persuasively communicate on a wide range of issues, and organize friends and neighbors to take collaborative action. Schools are a natural partner for such work; they are multi-generational centers of learning with a built-in, responsive audience of families acutely aware of community challenges. UPAS is a 501(c)(3) non-profit that partners with existing organizations to leverage their communities to civic action.
-project_proposal_engage: >-
-  UPAS’s activation will develop the social and political capital of individuals
-  in the communities we currently serve through three main strategies that tier
-  engagement: 
-   
-   
-   
-   Educating & Supporting Parents: UPAS’s Parent Academy offers free adult education workshops at partner school sites to enable parents to act with core understanding of issues that most affect their communities.
-   
-   
-   
-   Organizing: UPAS offers a structured training in the theory and practice of leadership and political engagement. The Leadership Institute trains leaders in how to prioritize issues, draft solutions, and develop strategies to engage representatives in meaningful and informed dialogue. Leaders organize public actions where community members surface issues to local representatives and officials.
-   
-   
-   
-   Registering & Mobilizing: UPAS leaders, school-based parent outreach workers, and canvassers continually work to register eligible voters through an ambitious schedule of door-to-door visits, non-partisan voter registration events, and phone banking. UPAS also holds events to mobilize voters to the ballot box.
-   
-   
-   
-   An integral part of UPAS’s work is to garner maximum community buy-in. UPAS maintains an active online presence that: 1) provides additional touchpoints for community members to connect, learn from and support each other online; and 2) allows UPAS to expand the scope of its work regardless of geographic boundaries to demand a rebalance of power in Los Angeles and attract potential partner organizations.
-project_five_years: >-
+Where do you hope this activation or your organization will be in five years?: >-
   Over the next five years, UPAS will help drive a massive redistribution of
   political, social, and intellectual power across Los Angeles so that
   low-income communities have greater representation in the conversations and
@@ -159,26 +163,8 @@ project_five_years: >-
    
    
    Over the past 7 years, the team that leads UPAS has built a highly professional foundation and process for the activation of thousands of students and their parents in communities across Los Angeles, where very little such organized action previously existed. Given the distributed leadership model UPAS directs, and the collaborative nature of its work with many local CBOs, the next five years will see a massive acceleration of this activation across LA County. A My LA2050 Activation Challenge grant will help catalyze this vision over the next two years by driving a far greater collaboration between UPAS, the comms resources at Green Dot, and within the LA2050 community. 100,000 people engaged is a deeply ambitious and exciting number for UPAS to embrace and our hope is that this becomes a new framework for reaching the millions of people who seek empowered and successful participation in the future of Los Angeles.
-category_metrics:
-  - Attendance at public/open streets gatherings
-  - Government responsiveness to residents’ needs
-  - Voting rates
-category_other:
-  - LA is the best place to LEARN
-  - LA is the best place to CREATE
-  - LA is the healthiest place to LIVE
-Please describe the activation your organization seeks to launch.: >-
-  UPAS envisions Los Angeles as a city where political power accurately reflects
-  the population’s diversity. UPAS will continue to train and empower low-income
-  community members to voice their concerns, engage city officials, and mobilize
-  1000s of students and families to vote. It will also launch a broader
-  activation strategy to raise awareness among Angelenos of the scale and impact
-  of poverty, homelessness, underemployment, violence, and lack of access to
-  healthcare.
-Describe in greater detail how your activation will make LA the best place?: "Los Angeles has the the most rapidly rising rents in America, the highest rates of homelessness, and the fourth highest rate of income inequality among the country’s largest metropolitan areas. These issues hit low-income communities of color the hardest. But while 84% of the county’s eligible voters are registered, turnout in the city’s municipal elections is notoriously low, resulting in measures getting passed with fewer than 200,000 votes in a city with a population of almost four million.\r\n\r\nDemocracy grants power to individuals. It affords every American the opportunity to be heard and to hold elected officials accountable. But democracy only has power when it’s active. Many Americans, particularly those Americans who have historically been ignored or marginalized, are disengaged from the political process, their power to improve their lives and their communities untapped. UPAS seeks to address the glaring inequity apparent in the city’s civic life and engagement.\r\n\r\nToo often, grassroots advocacy groups approach organizing as a part-time or volunteer endeavour; built on a belief that if you can get enough people out onto the streets then things will change. But that’s not how power transitions. Organizing individuals with little personal history of civic engagement is a full-time job that requires professional experience and knowledge of the formal skills necessary to mobilize diverse groups of people around a common cause. It then requires that those same professionals relinquish their own power, step aside, and allow the individual to take the reins and lead. \r\n\r\nUnited Parents and Students (UPAS) fundamentally believes that in order to secure long-lasting community progress and revitalization, community organizing must be recognized as a profession requiring vital and identifiable knowledge and strategic skills. UPAS uses a training model successfully used by the Industrial Areas Foundation since the 1970s, built on the iron rule of organizing: “Never do for others what they can do for themselves.” Nowhere is this mindset more important than in activism; UPAS organizers ground training on an understanding that systemic change must be pursued by the community itself rather than through the efforts of others.\r\n\r\nUPAS builds the capacity of grassroots coalitions by fostering vibrant community hubs in many of Los Angeles’s traditionally politically silent neighborhoods. In these hubs, individuals identify the root causes and socio-political context of the challenges they face, persuasively communicate on a wide range of issues, and organize friends and neighbors to take collaborative action. Schools are a natural partner for such work; they are multi-generational centers of learning with a built-in, responsive audience of families acutely aware of community challenges. UPAS is a 501(c)(3) non-profit that partners with existing organizations to leverage their communities to civic action."
 How will your activation engage Angelenos to make LA the best place: "UPAS’s activation will develop the social and political capital of individuals in the communities we currently serve through three main strategies that tier engagement: \r\n\r\nEducating & Supporting Parents: UPAS’s Parent Academy offers free adult education workshops at partner school sites to enable parents to act with core understanding of issues that most affect their communities.\r\n\r\nOrganizing: UPAS offers a structured training in the theory and practice of leadership and political engagement. The Leadership Institute trains leaders in how to prioritize issues, draft solutions, and develop strategies to engage representatives in meaningful and informed dialogue. Leaders organize public actions where community members surface issues to local representatives and officials.\r\n\r\nRegistering & Mobilizing: UPAS leaders, school-based parent outreach workers, and canvassers continually work to register eligible voters through an ambitious schedule of door-to-door visits, non-partisan voter registration events, and phone banking. UPAS also holds events to mobilize voters to the ballot box.\r\n\r\nAn integral part of UPAS’s work is to garner maximum community buy-in. UPAS maintains an active online presence that: 1) provides additional touchpoints for community members to connect, learn from and support each other online; and 2) allows UPAS to expand the scope of its work regardless of geographic boundaries to demand a rebalance of power in Los Angeles and attract potential partner organizations."
 Please explain how you will define and measure success for your activation.: "Over the next two years, UPAS will successfully activate 102,755 Angelenos by engaging in a four-pronged strategy of structured organizing:\r\n\r\n1. Digital Engagement\r\nReach 30,000 people with compelling content on social media with the goal of 5% engagement (liking, commenting, sharing, or clicking) with each post to grow the number of people who interact with UPAS on social media.\r\nMove 8,400 people to read stories about UPAS successes on Green Dot’s blog.\r\nAttract 20,000 people to UPAS’s website. \r\nInspire 1,000 people to regularly read UPAS emails each month. \r\nAchieve 5-10 press mentions over two years.\r\n\r\n2. Education and Collaboration\r\nEducate 13,000 parents through Parent Academy Workshops or other courses.\r\nFacilitate service and community organizations’ meetings and events attended by 7,000 people.\r\n\r\n3. Organizing and Mobilization\r\nTrain 1,400 participants in the foundational skills of professional organizing through the Leadership Institute and 30 students in the Young Organizers Institute.\r\nTrain 95 Parent Leaders to become community leaders and organize 80 public actions attended by a total of 3,000 people.\r\nBuild attendance of 3,700 people at UPAS’s annual ForwardLA Assembly.\r\nEducate 3,200 people in UPAS’s mission through door knocking visits conducted by UPAS organizers.\r\n\r\n4. Voting\r\nRegister 6,342 community members to vote.\r\nActivate 5,588 new registrants to vote."
-Where do you hope this activation or your organization will be in five years?: "Over the next five years, UPAS will help drive a massive redistribution of political, social, and intellectual power across Los Angeles so that low-income communities have greater representation in the conversations and decisions that directly impact them. UPAS will facilitate the empowerment of local communities to raise concerns and drive action related to the issues they believe are most critical to their success and well-being, including job creation, quality schools, public safety, and access to healthcare and affordable housing. UPAS, and those who graduate from its training program, will host forums for open and authentic discussions that lead to effective collaborative action on racial and economic disparities, bringing people from historically underserved neighborhoods together with elected and public officials. In the long-term, UPAS activations will generate more elected officials from places like Watts and West Athens, officials that will bring a genuinely deeper understanding of their communities’ needs and vision to institutional centers of power. These voices, supported by informed community action, will redistribute power and resources to frequently marginalized neighborhoods, eventually attracting good businesses with high paying jobs into these communities, strengthening Los Angeles by diversifying local economies and tapping into the enormous intellectual capital and drive that exists in low-income communities.\r\n\r\nOver the past 7 years, the team that leads UPAS has built a highly professional foundation and process for the activation of thousands of students and their parents in communities across Los Angeles, where very little such organized action previously existed. Given the distributed leadership model UPAS directs, and the collaborative nature of its work with many local CBOs, the next five years will see a massive acceleration of this activation across LA County. A My LA2050 Activation Challenge grant will help catalyze this vision over the next two years by driving a far greater collaboration between UPAS, the comms resources at Green Dot, and within the LA2050 community. 100,000 people engaged is a deeply ambitious and exciting number for UPAS to embrace and our hope is that this becomes a new framework for reaching the millions of people who seek empowered and successful participation in the future of Los Angeles."
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2018/united-parents-and-students-developing-cultures-of-civic-engagement-across-los-angeles/activation.la2050.org/assets/images/connect/2048-wide/united-parents-and-students.jpg
 organization_name: United Parents and Students

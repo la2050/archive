@@ -17,8 +17,7 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4297890165741-team90.jpg
 project_video: 'https://www.youtube.com/embed/5fPP7vcVjlM?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   County of Los Angeles, The Orchard Dale Water District, Water Replenishment
   District of Southern California (WRD), , This project will educate students in
   the following school districts:, - ABC Unified, - Bellflower Adult Education,
@@ -26,72 +25,22 @@ project_collaborators: >-
   Beach Unified, - LA County Office of Education, - Lynwood Unified, -
   Norwalk-La Mirada Unified, - Paramount Unified, - South Whittier, - Whittier
   City, - Whittier Union High
-project_measure: >-
-  HYC will measure our success based on:
-
-
-  - Number of classes conducted
-
-  - Number of individuals in attendance 
-
-  - Program participants’ familiarity with California ecosystems 
-
-  - Program participants’ familiarity with conservation strategies
-
-  - Number of linkages to eco-friendly companies
-
-  - Percent of program participants with increased knowledge of and interest in
-  eco-friendly jobs
-
-
-  HYC will evaluate the above indicators through pre- and post- surveys
-  completed immediately before and after participation in on-site conservation
-  classes and events. Using the surveys, we will measure improvement in
-  conservation knowledge resulting from a class or workshop and steps
-  participants plan to take to conserve in their own lives. We will collect
-  e-mail addresses and survey randomly selected participants 90 days, 6 months,
-  and 1 year after participation regarding their home water and energy usage to
-  track learning.  Program participants from throughout the year will be invited
-  to take part in a Conservation Pathways Learning Event at LCP where they will
-  share conservation progress they have made in their daily lives.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   HYC’s Conservation Pathways Project will advance the Southeast Los Angeles
   community’s understanding of water and energy conservation by providing
   education regarding drought-tolerant plants, agricultural practices,
   irrigation basics and garden design; present practical information to the
   public on ways to lessen resource consumption; and connect residents to career
   prospects in the expanding environmental industry.
-project_impact: >-
-  ["Access to open space and park facilities","Number (and quality) of informal
-  spaces for play","Number of children enrolled in afterschool programs","Number
-  of parks with intergenerational play opportunities","Number of residents with
-  easy access to a “vibrant” park"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to open space and park facilities
   - Number (and quality) of informal spaces for play
   - Number of children enrolled in afterschool programs
   - Number of parks with intergenerational play opportunities
   - Number of residents with easy access to a “vibrant” park
-project_proposal_description: >-
-  HYC’s Conservation Pathways Project will advance the Southeast Los Angeles
-  community’s understanding of water and energy conservation by providing
-  education regarding drought-tolerant plants, agricultural practices,
-  irrigation basics and garden design; present practical information to the
-  public on ways to lessen resource consumption; and connect residents to career
-  prospects in the expanding environmental industry.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Gateway Cities
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   HYC will help make LA the best place to PLAY by uniting government, community,
   and individual efforts to create quality spaces for individuals of all ages to
   play, including a campus and park with eco-friendly technologies. HYC serves
@@ -137,6 +86,44 @@ project_proposal_best_place: >-
   California Conservation mobile app that youth and families can install on
   their telephones to deepen their environmental and conservation learning. A
   10-passenger van will provide increased access to Conservation Pathways.
+Please explain how you will define and measure success for your project.​: >-
+  HYC will measure our success based on:
+
+
+  - Number of classes conducted
+
+  - Number of individuals in attendance 
+
+  - Program participants’ familiarity with California ecosystems 
+
+  - Program participants’ familiarity with conservation strategies
+
+  - Number of linkages to eco-friendly companies
+
+  - Percent of program participants with increased knowledge of and interest in
+  eco-friendly jobs
+
+
+  HYC will evaluate the above indicators through pre- and post- surveys
+  completed immediately before and after participation in on-site conservation
+  classes and events. Using the surveys, we will measure improvement in
+  conservation knowledge resulting from a class or workshop and steps
+  participants plan to take to conserve in their own lives. We will collect
+  e-mail addresses and survey randomly selected participants 90 days, 6 months,
+  and 1 year after participation regarding their home water and energy usage to
+  track learning.  Program participants from throughout the year will be invited
+  to take part in a Conservation Pathways Learning Event at LCP where they will
+  share conservation progress they have made in their daily lives.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/conservation-pathways-environmental-education-and-careers-for-tomorrows-leaders/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4297890165741-team90.jpg
 organization_name: Helpline Youth Counseling (HYC)

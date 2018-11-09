@@ -15,43 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4308721265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/gzso3MPN5og?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: '1. Pasadena Unified School District, 2. Pasadena Chamber of Commerce'
-project_measure: >-
-  Success is measured by the number of students engaged and the quality of their
-  experience. For example, following the graduation of the first class of 17
-  seniors in 2016, there are currently 297 students enrolled in the APP Academy
-  in grades 9 through 12. We also strive for cultural, economic, and gender
-  diversity among the students.
-
-
-  As the project graduates more students in the future, we will also quantify
-  achievement using college matriculation and completion rates, and success of
-  APP Academy alumni in their chosen fields.
-
-
-  We define success by what the students are able to achieve. Students are
-  assessed formally (i.e,. through project reviews, grades, and scores on AP
-  Computer Science exams) and informally (i.e., through observation and
-  one-on-one meetings) throughout the year by the teachers. Students and parents
-  also complete surveys and feedback forms that have been used to assess and
-  improve the instructional methods, curriculum, course sequence and
-  assignments. 
-
-
-  The quality of teaching and learning in the APP Academy classrooms is also
-  reviewed by PUSD and Pasadena Educational Foundation leadership and by
-  observations by visiting industry leaders.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: '1. Pasadena Unified School District, 2. Pasadena Chamber of Commerce'
+Please describe your project proposal.: >-
   The APP Academy is a collaboration of the Pasadena Educational Foundation and
   the Pasadena Unified School District, designed to teach computer science to
   high school students from diverse backgrounds and prepare them for success in
@@ -59,24 +24,13 @@ project_description: >-
   experience where students learn programming by creating their own websites,
   games and mobile apps. Started in 2012, it graduated its first class of
   students in 2016, who are now all in college.
-project_impact: >-
-  ["College completion","College matriculation rates","Student education
-  pipeline"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - Student education pipeline
-project_proposal_description: >-
-  The APP Academy is a collaboration of the Pasadena Educational Foundation and
-  the Pasadena Unified School District, designed to teach computer science to
-  high school students from diverse backgrounds and prepare them for success in
-  college and career. The 4-year program delivers a project-based learning
-  experience where students learn programming by creating their own websites,
-  games and mobile apps. Started in 2012, it graduated its first class of
-  students in 2016, who are now all in college.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - San Gabriel Valley
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Technology is creating new opportunities for youth to reach their full
   potential and to lead fulfilling and successful lives. By the year 2020 it has
   been estimated that 1.4 million computing jobs will be created in the US, but
@@ -130,6 +84,40 @@ project_proposal_best_place: >-
   African-American youth; and Star Gazers, a wearable product that allows users
   to locate constellations in the night sky (see the uploaded image for details
   about the student and her project.)
+Please explain how you will define and measure success for your project.​: >-
+  Success is measured by the number of students engaged and the quality of their
+  experience. For example, following the graduation of the first class of 17
+  seniors in 2016, there are currently 297 students enrolled in the APP Academy
+  in grades 9 through 12. We also strive for cultural, economic, and gender
+  diversity among the students.
+
+
+  As the project graduates more students in the future, we will also quantify
+  achievement using college matriculation and completion rates, and success of
+  APP Academy alumni in their chosen fields.
+
+
+  We define success by what the students are able to achieve. Students are
+  assessed formally (i.e,. through project reviews, grades, and scores on AP
+  Computer Science exams) and informally (i.e., through observation and
+  one-on-one meetings) throughout the year by the teachers. Students and parents
+  also complete surveys and feedback forms that have been used to assess and
+  improve the instructional methods, curriculum, course sequence and
+  assignments. 
+
+
+  The quality of teaching and learning in the APP Academy classrooms is also
+  reviewed by PUSD and Pasadena Educational Foundation leadership and by
+  observations by visiting industry leaders.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/app-academy-mobile-web-and-game-development-for-high-school-students/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4308721265741-team91.jpg
 organization_name: Pasadena Educational Foundation

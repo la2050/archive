@@ -15,22 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9861487393741-team89.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: FilmLit™ and Job Corps Los Angeles are collaborating.
-project_measure: >-
-  Job Corps LA will conduct the TABE® assessment on our pupils to determine
-  increase in literacy comprehension and application. The
-  enrollment/attendance/completion ratio will determine pupil acceptance of the
-  program. Completion of marketable, commercial filmlits will determine course
-  efficiency and impact. Residuals from prospective sales of commercial filmlits
-  produced will help address youth unemployment, in addition to prospective
-  employment with FilmLit™.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: FilmLit™ and Job Corps Los Angeles are collaborating.
+Please describe your project proposal.: >-
   Job Corps Los Angeles located in the heart of downtown has agreed to
   collaborate by yielding their pupils and facilities to host the expansion of
   the Filmlit Barter Skills Curriculum™. Our organization proposes to utilize
@@ -38,23 +24,12 @@ project_description: >-
   training in the bartering of developed production skills to collaborate on
   filmlit projects. Pupils will own stock in the projects they bring forth to
   fruition.
-project_impact: >-
-  ["Proficiency in English and Language Arts and Math","Youth unemployment and
-  underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Proficiency in English and Language Arts and Math
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  Job Corps Los Angeles located in the heart of downtown has agreed to
-  collaborate by yielding their pupils and facilities to host the expansion of
-  the Filmlit Barter Skills Curriculum™. Our organization proposes to utilize
-  the grant to guide the pupils of Job Corps LA through a 36-week course,
-  training in the bartering of developed production skills to collaborate on
-  filmlit projects. Pupils will own stock in the projects they bring forth to
-  fruition.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The significance of this proposal is the associated methodology. The FilmLit™
   technology is a utility patented design and brand conceived to convert
   scripted works with storyboard images into commercial, literary products. The
@@ -70,6 +45,19 @@ project_proposal_best_place: >-
   this initiative seizes the opportunity to build a pioneer class of producers
   utilizing this paradigm shifting concept here in Los Angeles, unequivocally
   proving LA to be the best place to learn!
+Please explain how you will define and measure success for your project.​: >-
+  Job Corps LA will conduct the TABE® assessment on our pupils to determine
+  increase in literacy comprehension and application. The
+  enrollment/attendance/completion ratio will determine pupil acceptance of the
+  program. Completion of marketable, commercial filmlits will determine course
+  efficiency and impact. Residuals from prospective sales of commercial filmlits
+  produced will help address youth unemployment, in addition to prospective
+  employment with FilmLit™.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/filmlit-barter-skills-curriculum™-w-job-corps-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9861487393741-team89.jpg
 organization_name: FILMLIT MISSION

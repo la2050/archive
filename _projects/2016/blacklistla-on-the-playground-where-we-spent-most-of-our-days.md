@@ -15,45 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733468065741-team91.JPG
 project_video: 'https://www.youtube.com/embed/YcJFmTnHOeE?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  The success of our work will be measured by our ability to make progress
-  toward our expected outcomes. Included below are our two desired outcomes: 
-
-
-  (1) More Angelenos will be moving, playing, and connecting through BlacklistLA
-  programs and offerings.
-
-  Number of Angelenos who attend BlacklistLA runs to 300+ every week, number of
-  runners in BlacklistLA training groups to 500 participants, number of runners
-  who participate in BlacklistLA’s 5K to 1000 registered runners, diversity of
-  communities represented among BlacklistLA runners, and presence of BlacklistLA
-  community members at major league races e.g Dodger 5K.
-
-
-  (2) More Angelenos will be informed on how to run safely which will contribute
-  to the city’s vision zero goal of eliminating traffic deaths by 2025.
-
-  Number of Angelenos who are trained in runner safety to 50, number of runners
-  who report running more defensively as a result of the training, number of
-  runners using reflective gear to make themselves visible, and number of
-  Angelenos who are aware of Vision Zero L.A.
-
-
-  We will conduct surveys and interviews with runners, parents, and community
-  members to help grade the effectiveness of our Project 4242, Happy Birthday
-  L.A. 5K, weekly runs, and safety
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   PLAY doesn’t end with childhood; adults need recess, too! In 2017, BlacklistLA
   will provide 100+ opportunities for Angelenos get active and play in their
   city with diverse programming on physical fitness, runner safety, local
@@ -61,32 +24,19 @@ project_description: >-
   offer unique running experiences that integrate landmarks, public art, parks,
   Metro stations and Los Angeles’ Great Streets as vital spaces for movement,
   connection and community building.
-project_impact: >-
-  ["Access to open space and park facilities","Attendance at major league
-  sporting events","Number (and quality) of informal spaces for play","Number of
-  parks with intergenerational play opportunities","Per capita crime
-  rates","Perceived safety"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to open space and park facilities
   - Attendance at major league sporting events
   - Number (and quality) of informal spaces for play
   - Number of parks with intergenerational play opportunities
   - Per capita crime rates
   - Perceived safety
-project_proposal_description: >-
-  PLAY doesn’t end with childhood; adults need recess, too! In 2017, BlacklistLA
-  will provide 100+ opportunities for Angelenos get active and play in their
-  city with diverse programming on physical fitness, runner safety, local
-  running events, public art and community building. Our team of volunteers will
-  offer unique running experiences that integrate landmarks, public art, parks,
-  Metro stations and Los Angeles’ Great Streets as vital spaces for movement,
-  connection and community building.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
   - Westside
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   BlacklistLA is committed to transforming Los Angeles into the country’s most
   vibrant urban playground by creating unique opportunities for Angelenos to
   engage with it. We use running as our platform given the low-cost of entry,
@@ -146,6 +96,42 @@ project_proposal_best_place: >-
 
 
   The hashtag #BlacklistLA explains it best!
+Please explain how you will define and measure success for your project.​: >-
+  The success of our work will be measured by our ability to make progress
+  toward our expected outcomes. Included below are our two desired outcomes: 
+
+
+  (1) More Angelenos will be moving, playing, and connecting through BlacklistLA
+  programs and offerings.
+
+  Number of Angelenos who attend BlacklistLA runs to 300+ every week, number of
+  runners in BlacklistLA training groups to 500 participants, number of runners
+  who participate in BlacklistLA’s 5K to 1000 registered runners, diversity of
+  communities represented among BlacklistLA runners, and presence of BlacklistLA
+  community members at major league races e.g Dodger 5K.
+
+
+  (2) More Angelenos will be informed on how to run safely which will contribute
+  to the city’s vision zero goal of eliminating traffic deaths by 2025.
+
+  Number of Angelenos who are trained in runner safety to 50, number of runners
+  who report running more defensively as a result of the training, number of
+  runners using reflective gear to make themselves visible, and number of
+  Angelenos who are aware of Vision Zero L.A.
+
+
+  We will conduct surveys and interviews with runners, parents, and community
+  members to help grade the effectiveness of our Project 4242, Happy Birthday
+  L.A. 5K, weekly runs, and safety
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/blacklistla-on-the-playground-where-we-spent-most-of-our-days/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733468065741-team91.JPG
 organization_name: BlacklistLA Run Organization

@@ -17,47 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4367473165741-team90.png
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: 'Techstars, COX Enterprises'
-project_measure: >-
-  Our primary long-term goal is to increase the percentage of low-income
-  households in LA who have mobile phone service and high-speed internet at
-  home. In doing so, we aim to improve access to jobs, education, healthcare,
-  political activity, and social interaction for low-income families in LA.
-
-
-  We will measure the success of our platform by the following metrics:
-
-  - the number of internet providers and retailers who partner with us
-
-  - the number of families who receive internet and or phone service on our
-  platform
-
-  - our overall area of coverage across LA county (and eventually across CA and
-  the U.S.)
-
-
-  By surveying users on our platform, we will also measure our success by:
-
-  - the number of individuals on our platform who start taking online courses or
-  seeking higher education
-
-  - the number of individuals on our platform who apply for jobs online
-
-  - the number of families on our platform who start receiving affordable
-  healthcare (e.g. by registering with CoveredCA)
-
-  - the number of individuals on our platform who register online to vote
-
-  - the number of individuals on our platform who join or increase activity on
-  social media (Facebook, Twitter, Instagram, Snapchat)
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Technical infrastructure (computers etc.)
-  - Community outreach
-project_description: >-
+Are any other organizations collaborating on this proposal?: 'Techstars, COX Enterprises'
+Please describe your project proposal.: >-
   Over 650,000 households in LA earning less than $50K/year do not have internet
   at home (based on 2013 estimates). Drizzle will build an online platform to
   deliver free internet and phone service to these lower-income families.
@@ -65,25 +26,14 @@ project_description: >-
   local providers who subsidize prices (e.g. COX, AT&T, Sprint). Remaining costs
   are paid by retailers on our platform who give cash-back rewards on families'
   everyday purchases (gas, food, clothes).
-project_impact: >-
-  ["Access to free wifi","Total number of local social media friends and
-  connections Angelenos have","Voting rates"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to free wifi
   - Total number of local social media friends and connections Angelenos have
   - Voting rates
-project_proposal_description: >-
-  Over 650,000 households in LA earning less than $50K/year do not have internet
-  at home (based on 2013 estimates). Drizzle will build an online platform to
-  deliver free internet and phone service to these lower-income families.
-  Qualifying families use our platform to get phone and internet service from
-  local providers who subsidize prices (e.g. COX, AT&T, Sprint). Remaining costs
-  are paid by retailers on our platform who give cash-back rewards on families'
-  everyday purchases (gas, food, clothes).
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - San Gabriel Valley
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Drizzle will make LA the best place to connect by bringing high-speed internet
   (at least 5Mbps download) and phone service to all Angelenos.
 
@@ -143,6 +93,44 @@ project_proposal_best_place: >-
 
   Data for Los Angeles county here:
   http://digitalequality.net/wp-content/uploads/2013/06/LA-from-CA-Connects-Demographic-and-Connectedness-Profiles.pdf
+Please explain how you will define and measure success for your project.​: >-
+  Our primary long-term goal is to increase the percentage of low-income
+  households in LA who have mobile phone service and high-speed internet at
+  home. In doing so, we aim to improve access to jobs, education, healthcare,
+  political activity, and social interaction for low-income families in LA.
+
+
+  We will measure the success of our platform by the following metrics:
+
+  - the number of internet providers and retailers who partner with us
+
+  - the number of families who receive internet and or phone service on our
+  platform
+
+  - our overall area of coverage across LA county (and eventually across CA and
+  the U.S.)
+
+
+  By surveying users on our platform, we will also measure our success by:
+
+  - the number of individuals on our platform who start taking online courses or
+  seeking higher education
+
+  - the number of individuals on our platform who apply for jobs online
+
+  - the number of families on our platform who start receiving affordable
+  healthcare (e.g. by registering with CoveredCA)
+
+  - the number of individuals on our platform who register online to vote
+
+  - the number of individuals on our platform who join or increase activity on
+  social media (Facebook, Twitter, Instagram, Snapchat)
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/bringing-free-high-speed-internet-and-mobile-phone-service-to-low-income-families-in-los-angeles/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4367473165741-team90.png
 organization_name: Drizzle Connect

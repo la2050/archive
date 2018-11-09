@@ -17,44 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9065217005741-team88.jpg
 project_video: 'https://www.youtube.com/embed/XaTMp9Bu1AY?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  The success of the Net Zero Conference held at IBEW Local 11's Net Zero Plus
-  building will be measured by attendee numbers, participants that are engaged
-  and inspired to work on net zero buildings, and feedback given from IBEW Local
-  11.
-
-
-  Specifically, success will be measured based on the following:
-
-
-  - Number of participants who attended (totals will be tallied from sign-in
-  sheets at event)
-
-  - Responses from attendees who filled out survey questions (see below)
-
-  - People who contacted IBEW Local 11 post-event that were interested in
-  training or wanted additional information
-
-  - Newsletter outreach metrics tracking number of recipients of targeted email
-  marketing blasts
-
-
-  We will have physical sign-in sheets for all attendees at the event to
-  calculate total number of participants. Additionally, there will be an
-  easy-to-use real-time survey given to attendees during the last hour of the
-  conference, with survey questions that can be answered via live texting. These
-  questions will ask attendees to rank on a scale of 1-5 how much they learned
-  at the event, whether it impacted their motivation to work on net zero
-  projects, and other related questions.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - 'Education/training '
-  - Community outreach
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Verdical Group has been hosting L.A.'s annual Net Zero Conference for three
   years with the help of gratuitous venue sponsors. While this has been great,
   and has helped to garner interest, we would like to host the conference with
@@ -62,23 +26,14 @@ project_description: >-
   Electrical Training Institute is the perfect venue for this conference to
   inspire L.A.'s building professionals into action and prepare for California's
   net zero code changes together.
-project_impact: '["Self-sufficiency","Resilient communities"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Self-sufficiency
   - Resilient communities
-project_proposal_description: >-
-  Verdical Group has been hosting L.A.'s annual Net Zero Conference for three
-  years with the help of gratuitous venue sponsors. While this has been great,
-  and has helped to garner interest, we would like to host the conference with
-  IBEW Local 11, L.A.'s electrical construction union. IBEW's Net Zero Plus
-  Electrical Training Institute is the perfect venue for this conference to
-  inspire L.A.'s building professionals into action and prepare for California's
-  net zero code changes together.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - East LA
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The California Public Utilities Commission (CPUC) and the California Energy
   Commission (CEC) launched a Zero Net Energy Action Plan that states all new
   homes must be net-zero energy by 2020 and commercial buildings by 2030.  A
@@ -117,6 +72,41 @@ project_proposal_best_place: >-
   in one location. This collaboration will inspire and jump-start the much
   needed push towards a net zero future, one in which L.A.'s communities will be
   run by clean, renewable energy.
+Please explain how you will define and measure success for your project.​: >-
+  The success of the Net Zero Conference held at IBEW Local 11's Net Zero Plus
+  building will be measured by attendee numbers, participants that are engaged
+  and inspired to work on net zero buildings, and feedback given from IBEW Local
+  11.
+
+
+  Specifically, success will be measured based on the following:
+
+
+  - Number of participants who attended (totals will be tallied from sign-in
+  sheets at event)
+
+  - Responses from attendees who filled out survey questions (see below)
+
+  - People who contacted IBEW Local 11 post-event that were interested in
+  training or wanted additional information
+
+  - Newsletter outreach metrics tracking number of recipients of targeted email
+  marketing blasts
+
+
+  We will have physical sign-in sheets for all attendees at the event to
+  calculate total number of participants. Additionally, there will be an
+  easy-to-use real-time survey given to attendees during the last hour of the
+  conference, with survey questions that can be answered via live texting. These
+  questions will ask attendees to rank on a scale of 1-5 how much they learned
+  at the event, whether it impacted their motivation to work on net zero
+  projects, and other related questions.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - 'Education/training '
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/a-conference-inspiring-la-professionals-toward-a-net-zero-future-hosted-at-a-nonprofit-facility/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9065217005741-team88.jpg
 organization_name: Verdical Group

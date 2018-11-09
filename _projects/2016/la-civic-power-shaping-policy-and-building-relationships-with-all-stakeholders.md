@@ -17,76 +17,17 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5745794855741-team90.jpg
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  1) We define success as the creation of meaningful and sustained relationships
-  among community members, organizations, and government officials. 
-
-
-  -Establish multiple one on one meetings and increased communication between
-  electeds and stakeholders strengthens the communities voice far beyond simply
-  voting. 
-
-  -Have 8-12 elected officials and their staffers attend our LA Poverty Hearing
-  in 2017.
-
-  -Have at least 10 core partners and their members participate and attend our
-  Poverty Hearing, lobby days, and actions.
-
-  -Collect 2-3 personal testimonies of partners on their experience working as a
-  collective.
-
-
-  2) We define success as sustaining our relationship with current partners,
-  adding more partners to our coalition, and engaging them in county level
-  work. 
-
-
-  -Sustain relationships with 10-15 current core partners. 
-
-  -Invite 5-7 new organizations to become core partners in our LA chapter.
-
-  -Identify 2-3 county priorities and create community strategies with CAP LA
-  partners.
-
-
-  3) We define success providing trainings and resources to community members on
-  how to effectively advocate for policy changes they seek. We can support
-  groups, identify their strengths, and how to leverage their existing
-  relationships and build new ones to amplify their voice. 
-
-
-  -Create multilingual presentations and resources for partners and community
-  members.
-
-  -Host 5-8 budget trainings in various locations across LA county
-
-  -Host 5 community organizing trainings in various locations across LA
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Our proposal looks to increase LA's civic engagement through building
   relationships with community partners, organizations, and elected officials,
   implementing community education and outreach strategies, and creating change
   in local politics.
-project_impact: '["Government responsiveness to residents’ needs"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Government responsiveness to residents’ needs
-project_proposal_description: >-
-  Our proposal looks to increase LA's civic engagement through building
-  relationships with community partners, organizations, and elected officials,
-  implementing community education and outreach strategies, and creating change
-  in local politics.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   California Partnership’s (CAP) goal, as a statewide economic justice
   organization, is to sustain the safety net and ensure low income folks and
   communities of color have access to adequate health and human service
@@ -144,6 +85,58 @@ project_proposal_best_place: >-
   further delve into countywide policy advocacy and implementation by engaging
   both core and new partners in identifying local issues, expanding our tools
   and trainings, and tracking county policy.
+Please explain how you will define and measure success for your project.​: >-
+  1) We define success as the creation of meaningful and sustained relationships
+  among community members, organizations, and government officials. 
+
+
+  -Establish multiple one on one meetings and increased communication between
+  electeds and stakeholders strengthens the communities voice far beyond simply
+  voting. 
+
+  -Have 8-12 elected officials and their staffers attend our LA Poverty Hearing
+  in 2017.
+
+  -Have at least 10 core partners and their members participate and attend our
+  Poverty Hearing, lobby days, and actions.
+
+  -Collect 2-3 personal testimonies of partners on their experience working as a
+  collective.
+
+
+  2) We define success as sustaining our relationship with current partners,
+  adding more partners to our coalition, and engaging them in county level
+  work. 
+
+
+  -Sustain relationships with 10-15 current core partners. 
+
+  -Invite 5-7 new organizations to become core partners in our LA chapter.
+
+  -Identify 2-3 county priorities and create community strategies with CAP LA
+  partners.
+
+
+  3) We define success providing trainings and resources to community members on
+  how to effectively advocate for policy changes they seek. We can support
+  groups, identify their strengths, and how to leverage their existing
+  relationships and build new ones to amplify their voice. 
+
+
+  -Create multilingual presentations and resources for partners and community
+  members.
+
+  -Host 5-8 budget trainings in various locations across LA county
+
+  -Host 5 community organizing trainings in various locations across LA
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/la-civic-power-shaping-policy-and-building-relationships-with-all-stakeholders/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5745794855741-team90.jpg
 organization_name: California Partnership

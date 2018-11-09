@@ -13,34 +13,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7070315265741-team91.png
 project_video: 'https://www.youtube.com/embed/622Zh36LYZ0?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: >-
-  The Now Institute will be the sole beneficiary of the grant. However, it
-  benefits from a network of collaborators and institutional connections
-  including:, , ESRI - World’s largest GIS (geographic information systems)
-  mapping software, , UCLA Grand Challenge - Including associated faculty,
-  researchers, students, partner institutions, , Morphosis Architects - The Now
-  Institute is led by Pritzker Prize winner Thom Mayne and Director Eui-Sung Yi
-  of Morphosis
-project_measure: >-
-  The success of the project is dependant on creating an intuitive, interactive
-  tool that allows for a shared understanding and discovery of what LA could
-  look like in 2050. It should be used by multiple organizations, researchers,
-  journalists, and policymakers to understand and map out solutions for a
-  sustainable LA.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Founded on comprehensive UCLA research on LA County’s patterns in energy,
   water, and ecosystem health, our proposal creates an online portal that
   geospatially collects, connects, and conveys planning scenarios, working
@@ -48,14 +22,7 @@ project_description: >-
   This planning tool will 1) collect isolated data from its disparate sources,
   2) connect data into comprehensive, dynamic visual scenarios, and 3) convey
   the impact of various planning solutions.
-project_impact: >-
-  ["Cultural events","Public/open streets gatherings","Government responsiveness
-  to residents’ needs","Travel time to work","Public transit
-  riders","Participation in neighborhood councils","Rates of
-  volunteerism","Residential segregation","Transit-accessible housing and
-  employment (the share of housing units and percentage of jobs that are located
-  within a half-mile of transit)","Voting rates"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Cultural events
   - Public/open streets gatherings
   - Government responsiveness to residents’ needs
@@ -68,17 +35,9 @@ project_proposal_impact:
     Transit-accessible housing and employment (the share of housing units and
     percentage of jobs that are located within a half-mile of transit)
   - Voting rates
-project_proposal_description: >-
-  Founded on comprehensive UCLA research on LA County’s patterns in energy,
-  water, and ecosystem health, our proposal creates an online portal that
-  geospatially collects, connects, and conveys planning scenarios, working
-  toward a fully built-out implementation strategy for a sustainable LA by 2050.
-  This planning tool will 1) collect isolated data from its disparate sources,
-  2) connect data into comprehensive, dynamic visual scenarios, and 3) convey
-  the impact of various planning solutions.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   LEARN: Los Angeles already has some of the world’s most talented researchers
   working on solutions for climate change, rapid urbanization, and social
   inequality. Yet these solutions are frequently conceived of in isolation—there
@@ -137,6 +96,24 @@ project_proposal_best_place: >-
   The initial pilot project for this proposal (shown in part in the demo video)
   has already been developed and will be presented on October 19th, 2016 as part
   of the EARTH NOW: EARTH 2050 UCLA Luskin Symposium - http://arcg.is/2d7rm5K
+Please explain how you will define and measure success for your project.​: >-
+  The success of the project is dependant on creating an intuitive, interactive
+  tool that allows for a shared understanding and discovery of what LA could
+  look like in 2050. It should be used by multiple organizations, researchers,
+  journalists, and policymakers to understand and map out solutions for a
+  sustainable LA.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/sustainable-la-2050-gis-portal/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7070315265741-team91.png
 organization_name: The NOW Institute/UCLA

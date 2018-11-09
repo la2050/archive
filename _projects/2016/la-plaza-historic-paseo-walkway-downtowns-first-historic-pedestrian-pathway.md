@@ -17,37 +17,11 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6510837105741-team89.jpg
 project_video: 'https://www.youtube.com/embed/KlbjX6GafyI?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Los Angeles Conservancy, Our Lady Queen of Angels Church, El Pueblo Historic
   Monument, County of Los Angeles, Los Pobladores, City of Los Angeles, Los
   Angeles Art Commission
-project_measure: >-
-  Visitor statistics from LA Plaza Paseo will provide a generalized measurement
-  of its penetration. A more targeted measurement will be the number of adults
-  and children participating in LA Plaza’s ongoing community engagement
-  programming. The Walkway will also serve to draw more visitors into the
-  adjoining museum, and is expected to spike visitor attendance as well as
-  participation in LA Plaza’s educational and public programming offerings.
-
-
-  LA Plaza will also conduct user-experience surveys examining the programming
-  during the installation and engagement phases. The surveys will focus on
-  several themes:
-
-  1. Users’ accessibility to park/recreation without LA Plaza Paseo.
-
-  2. Extent to which LA Plaza Paseo increases their park/recreation
-  opportunities.
-
-  3. Feedback on experience of interacting with each element in LA Plaza's
-  social media.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   The Historic Paseo Walkway is the City’s first pedestrian pathway exploring
   and celebrating the rich, multicultural history of L.A.  The pathway will
   include a mural, historical markers and monuments, street pavings, and other
@@ -55,30 +29,18 @@ project_description: >-
   Union Station, El Pueblo, LA Plaza and Fort Moore.  The Walkway will serve as
   a new gathering place for Angelenos and visitors to explore, experience and
   appreciate the city’s historical roots.
-project_impact: >-
-  ["Cultural events","Public/open streets gatherings","Public transit
-  riders","Transit-accessible housing and employment (the share of housing units
-  and percentage of jobs that are located within a half-mile of transit)"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Cultural events
   - Public/open streets gatherings
   - Public transit riders
   - >-
     Transit-accessible housing and employment (the share of housing units and
     percentage of jobs that are located within a half-mile of transit)
-project_proposal_description: >-
-  The Historic Paseo Walkway is the City’s first pedestrian pathway exploring
-  and celebrating the rich, multicultural history of L.A.  The pathway will
-  include a mural, historical markers and monuments, street pavings, and other
-  artistic interpretive elements leading visitors on a historic journey through
-  Union Station, El Pueblo, LA Plaza and Fort Moore.  The Walkway will serve as
-  a new gathering place for Angelenos and visitors to explore, experience and
-  appreciate the city’s historical roots.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Cultural events:  The Walkway will help direct visitors into the LA Plaza
   museum and six other museums in Olvera Street that tell the story of Los
   Angeles.  It will also expand the capacity of LA Plaza’s existing performance
@@ -126,6 +88,31 @@ project_proposal_best_place: >-
   space.  More than 500 people will be part of this dynamic new residential
   community in the northern section of downtown and will have direct access to
   our museum, Olvera Street and Union Station.
+Please explain how you will define and measure success for your project.​: >-
+  Visitor statistics from LA Plaza Paseo will provide a generalized measurement
+  of its penetration. A more targeted measurement will be the number of adults
+  and children participating in LA Plaza’s ongoing community engagement
+  programming. The Walkway will also serve to draw more visitors into the
+  adjoining museum, and is expected to spike visitor attendance as well as
+  participation in LA Plaza’s educational and public programming offerings.
+
+
+  LA Plaza will also conduct user-experience surveys examining the programming
+  during the installation and engagement phases. The surveys will focus on
+  several themes:
+
+  1. Users’ accessibility to park/recreation without LA Plaza Paseo.
+
+  2. Extent to which LA Plaza Paseo increases their park/recreation
+  opportunities.
+
+  3. Feedback on experience of interacting with each element in LA Plaza's
+  social media.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/la-plaza-historic-paseo-walkway-downtowns-first-historic-pedestrian-pathway/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6510837105741-team89.jpg
 organization_name: LA Plaza de Cultura y Artes

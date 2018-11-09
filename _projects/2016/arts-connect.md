@@ -14,38 +14,12 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0529159945741-team91.png
 project_video: 'https://www.youtube.com/embed/UpeLWXJL0JI?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Metta World Peace (center) at Los Angeles High School and College Summit. 1763
   Columbia Road, NW, Second Floor, Washington, DC 20009; College Summit
   transforms the lives of low-income youth by connecting them to college and
   career, in collaboration with ARTS CONNECT.
-project_measure: >-
-  Arts Connect aspires to be the answer to most of the existing issues facing
-  today’s educational system. This program has the ability to enrich, enlighten
-  and excite youngsters about learning, and will go a long way towards that
-  goal. 
-
-
-  Arts Connect will define success through measurable: decreases in absenteeism;
-  diminish drop-out rates; decrease school violence created by bored, baffled,
-  and disinterested students; increased graduation rates, increased college
-  acceptance rates, quantifiable success in college, advanced skills training,
-  or workforce development; self-confidence gains and reduced incidents of
-  bullying. . 
-
-
-  Arts Connect is holistic in its approach to cultivating and nurturing students
-  to become healthy, productive, and contributing citizens in their community!
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Please describe your project proposal.: >-
   Arts Connect displays the real-life achievement of well-respected and highly
   regarded individuals, both historical and contemporary, through a digital
   multi-media format specifically to enhance student learning experiences. The
@@ -53,31 +27,18 @@ project_description: >-
   all children. This is a complimentary learning management system that offers
   real world examples and the cosmopolitan language of Art in all its forms as
   an all-important tool for joyful learning
-project_impact: >-
-  ["College matriculation rates","District-wide graduation rates","Proficiency
-  in English and Language Arts and Math","Student education
-  pipeline","Suspension and expulsion rates","Truancy rates in elementary and
-  middle schools"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College matriculation rates
   - District-wide graduation rates
   - Proficiency in English and Language Arts and Math
   - Student education pipeline
   - Suspension and expulsion rates
   - Truancy rates in elementary and middle schools
-project_proposal_description: >-
-  Arts Connect displays the real-life achievement of well-respected and highly
-  regarded individuals, both historical and contemporary, through a digital
-  multi-media format specifically to enhance student learning experiences. The
-  format follows learning mandates and promotes the broad-ranging potential in
-  all children. This is a complimentary learning management system that offers
-  real world examples and the cosmopolitan language of Art in all its forms as
-  an all-important tool for joyful learning
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Around the world Los Angeles epitomizes glamour and is regarded as the
   international epicenter of creative industry and its foremost hub for
   innovation. In spite of the city’s progressive reputation for trendsetting and
@@ -124,6 +85,31 @@ project_proposal_best_place: >-
   for learning, connect students with contemporary icons whose accomplishments
   can be seen as “relevant” for young scholars, and energize student interest
   and a desire to continue and succeed in school.
+Please explain how you will define and measure success for your project.​: >-
+  Arts Connect aspires to be the answer to most of the existing issues facing
+  today’s educational system. This program has the ability to enrich, enlighten
+  and excite youngsters about learning, and will go a long way towards that
+  goal. 
+
+
+  Arts Connect will define success through measurable: decreases in absenteeism;
+  diminish drop-out rates; decrease school violence created by bored, baffled,
+  and disinterested students; increased graduation rates, increased college
+  acceptance rates, quantifiable success in college, advanced skills training,
+  or workforce development; self-confidence gains and reduced incidents of
+  bullying. . 
+
+
+  Arts Connect is holistic in its approach to cultivating and nurturing students
+  to become healthy, productive, and contributing citizens in their community!
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/arts-connect/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0529159945741-team91.png
 organization_name: Arts and Living Charitable Foundation

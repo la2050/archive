@@ -15,43 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2875239905741-team91.jpg
 project_video: 'https://www.youtube.com/embed/PV_FxBFP2hA?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  One of the Art & Global Health Center’s key roles at UCLA is to facilitate
-  research concerning arts-based methods for health communication. We strongly
-  believe in evaluating our programmatic efforts to be able to measure reach and
-  impact.
-
-
-  For evaluating the proposed digital platform and community-level activities we
-  will design an evaluation survey that centers around quantitative evaluation
-  of numbers served, user demographic information, frequency of use, and
-  components used. We will create a targeted qualitative evaluation using
-  surveys and focus groups to explore how the platform impacts, enhances and
-  improves sexual health education information synthesis and retention.
-
-
-  Through surveys, focus groups and social media-based feedback we will design
-  ways to measure the following indicators of success: 
-
-  * We will gauge interest in users to participate in a future  comprehensive
-  training program for AMP! facilitators to prepare them to mentor, lead, and
-  open up vital conversations concerning sexual health. 
-
-  * We will seek evidence of a growing recognition for AMP! as a model program
-  for arts-based HIV/AIDS prevention, stigma reduction, and comprehensive sexual
-  health education for youth in Los Angeles, California and beyond. 
-
-  * We will work with community-based partners and school clinics to promote
-  HIV/STI testing and reduce number of HIV and other sexually transmitted
-  infections in Los Angeles communities.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - 'Education/training '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   AMP! simultaneously educates and inspires young people to make responsible
   health decisions by harnessing the transformative power of humor and
   courageous storytelling to create performances for teens that are memorable,
@@ -59,25 +24,14 @@ project_description: >-
   education. There are approximately 60,000 ninth graders in LAUSD. An AMP!
   digital platform would allow us to reach them by providing an accessible,
   updated resource to all LAUSD health teachers.
-project_impact: >-
-  ["Healthcare access","Self-sufficiency","Resilient communities","Prevalence of
-  adverse childhood experiences"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Healthcare access
   - Self-sufficiency
   - Resilient communities
   - Prevalence of adverse childhood experiences
-project_proposal_description: >-
-  AMP! simultaneously educates and inspires young people to make responsible
-  health decisions by harnessing the transformative power of humor and
-  courageous storytelling to create performances for teens that are memorable,
-  inclusive, and FUN. Ninth grade is the last year LAUSD delivers sexual health
-  education. There are approximately 60,000 ninth graders in LAUSD. An AMP!
-  digital platform would allow us to reach them by providing an accessible,
-  updated resource to all LAUSD health teachers.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   With more new cases of HIV diagnosed among teens and young adults than any
   other age group, the need for youth-focused sexual health education, including
   HIV/AIDS education, has been recognized by LAUSD and the U.S. CDC. Through a
@@ -125,6 +79,40 @@ project_proposal_best_place: >-
   expanded and updated every other year as the UCLA Sex Squad continues to
   create more content. An investment in our young people is an investment in the
   future health of our entire city.
+Please explain how you will define and measure success for your project.​: >-
+  One of the Art & Global Health Center’s key roles at UCLA is to facilitate
+  research concerning arts-based methods for health communication. We strongly
+  believe in evaluating our programmatic efforts to be able to measure reach and
+  impact.
+
+
+  For evaluating the proposed digital platform and community-level activities we
+  will design an evaluation survey that centers around quantitative evaluation
+  of numbers served, user demographic information, frequency of use, and
+  components used. We will create a targeted qualitative evaluation using
+  surveys and focus groups to explore how the platform impacts, enhances and
+  improves sexual health education information synthesis and retention.
+
+
+  Through surveys, focus groups and social media-based feedback we will design
+  ways to measure the following indicators of success: 
+
+  * We will gauge interest in users to participate in a future  comprehensive
+  training program for AMP! facilitators to prepare them to mentor, lead, and
+  open up vital conversations concerning sexual health. 
+
+  * We will seek evidence of a growing recognition for AMP! as a model program
+  for arts-based HIV/AIDS prevention, stigma reduction, and comprehensive sexual
+  health education for youth in Los Angeles, California and beyond. 
+
+  * We will work with community-based partners and school clinics to promote
+  HIV/STI testing and reduce number of HIV and other sexually transmitted
+  infections in Los Angeles communities.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - 'Education/training '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/amp-virtual-sexual-health-education-for-a-digital-generation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2875239905741-team91.jpg
 organization_name: Regents of the University of California

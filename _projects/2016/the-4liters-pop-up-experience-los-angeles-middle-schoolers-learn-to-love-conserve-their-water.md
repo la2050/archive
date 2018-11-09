@@ -17,26 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5522525955741-team91.png
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: 'Girls Athletic Leadership School (G.A.L.S.), LAUSD Beyond The Bell'
-project_measure: >-
-  We will define and measure the success of this project through the following
-  metrics:
-
-
-  1) Event press coverage (number of outlets that cover the exhibit)
-
-  2) Number of students that take water-savings pledge from pop-up experience
-
-  3) Number of educators that pledge to run our 4Liters curriculum in their
-  classrooms beyond the experience
-
-  4) Surveys that will measure both student and educator feedback
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-project_description: >-
+Are any other organizations collaborating on this proposal?: 'Girls Athletic Leadership School (G.A.L.S.), LAUSD Beyond The Bell'
+Please describe your project proposal.: >-
   DIGDEEP Water would like to create a temporary exhibit, coined the '4Liters
   Pop-Up Experience' for a hands-on-learning experience with middle school
   students in Los Angeles. 
@@ -45,25 +27,15 @@ project_description: >-
   The 4Liters Pop-Up Experience includes several interactive displays that will
   help students explore fundamental concepts about water conservation both
   locally and beyond their communities.
-project_impact: '["Student education pipeline"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Student education pipeline
-project_proposal_description: >-
-  DIGDEEP Water would like to create a temporary exhibit, coined the '4Liters
-  Pop-Up Experience' for a hands-on-learning experience with middle school
-  students in Los Angeles. 
-
-
-  The 4Liters Pop-Up Experience includes several interactive displays that will
-  help students explore fundamental concepts about water conservation both
-  locally and beyond their communities.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Fernando Valley
   - County of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   In 2010, Xylem (a water technology company) released its Value of Water Index
   examining American attitudes toward water. The survey revealed that 69% of
   Americans take clean water completely for granted (“Value of Water Survey.'
@@ -87,6 +59,23 @@ project_proposal_best_place: >-
   leader in conservation, technology and entertainment. Taken together, these
   strengths and weaknesses make Los Angeles an ideal place for innovation in
   water education.
+Please explain how you will define and measure success for your project.​: >-
+  We will define and measure the success of this project through the following
+  metrics:
+
+
+  1) Event press coverage (number of outlets that cover the exhibit)
+
+  2) Number of students that take water-savings pledge from pop-up experience
+
+  3) Number of educators that pledge to run our 4Liters curriculum in their
+  classrooms beyond the experience
+
+  4) Surveys that will measure both student and educator feedback
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/the-4liters-pop-up-experience-los-angeles-middle-schoolers-learn-to-love-conserve-their-water/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5522525955741-team91.png
 organization_name: DIGDEEP Water

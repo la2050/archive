@@ -13,33 +13,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5056172635741-team91.JPG
 project_video: 'https://www.youtube.com/embed/_7_25X6aAm4?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  Some quantifiable measurements that will be used to measure success of the art
-  incubator will include the number of artists and students participating in
-  programs, public event attendance, artworks created, cultural tourism growth,
-  economic revenue to businesses, and increased creative placemaking.  These can
-  be measured through qualitative surveys and interviews to students and local
-  businesses assessing knowledge gained and capture economic data. 
-
-  Metadata extraction from the Art Incubators social media accounts including
-  Facebook, Instagram, and Twitter, will also provide sentiment analytics:
-  number of likes, shares, and visual visitors.  This real time community
-  feedback and data from social media outlets is how success for our project
-  will be measured.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Celebrate Pacoima proposes to develop an all-inclusive intergenerational arts
   incubator to harness the local cultural-arts tradition of Pacoima. Pacoima
   Beautiful will provide access to artist training, technical assistance,
@@ -47,27 +22,16 @@ project_description: >-
   creative placemaking and economic growth. The funding from LA2050 will enable
   Pacoima Beautiful to purchase equipment, tools and provide instructors with
   stipends to deliver high quality resources.
-project_impact: >-
-  ["Arts establishments","Manufacturing activity","Employment in the creative
-  industries","Federal research grant funding","Jobs per capita"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Manufacturing activity
   - Employment in the creative industries
   - Federal research grant funding
   - Jobs per capita
-project_proposal_description: >-
-  Celebrate Pacoima proposes to develop an all-inclusive intergenerational arts
-  incubator to harness the local cultural-arts tradition of Pacoima. Pacoima
-  Beautiful will provide access to artist training, technical assistance,
-  workspace, artist in residence programs, workshops and opportunities for
-  creative placemaking and economic growth. The funding from LA2050 will enable
-  Pacoima Beautiful to purchase equipment, tools and provide instructors with
-  stipends to deliver high quality resources.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - San Fernando Valley
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   In the community of Pacoima, there is a growing momentum for arts & artistic
   expression with the development of the Celebrate Pacoima arts initiative. 
   This initiative will develop arts infrastructure, in the form of an arts
@@ -113,6 +77,30 @@ project_proposal_best_place: >-
   To advocate for & serve our monolingual Spanish population, programming will
   also be provided in Spanish, promoting multi-generational cross cultural
   connections & access to a creative dialogue.
+Please explain how you will define and measure success for your project.​: >-
+  Some quantifiable measurements that will be used to measure success of the art
+  incubator will include the number of artists and students participating in
+  programs, public event attendance, artworks created, cultural tourism growth,
+  economic revenue to businesses, and increased creative placemaking.  These can
+  be measured through qualitative surveys and interviews to students and local
+  businesses assessing knowledge gained and capture economic data. 
+
+  Metadata extraction from the Art Incubators social media accounts including
+  Facebook, Instagram, and Twitter, will also provide sentiment analytics:
+  number of likes, shares, and visual visitors.  This real time community
+  feedback and data from social media outlets is how success for our project
+  will be measured.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/celebrate-pacoima/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5056172635741-team91.JPG
 organization_name: Pacoima Beautiful

@@ -14,29 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4270387955741-team88.png
 project_video: 'https://www.youtube.com/embed/nowgVpDsUNE?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Success as a high growth start up will be defined by a measurable increase in
-  our public education newsletter database (goal: 1200% increase); validation of
-  our forecast model as proven by acceptance in the local scientific community
-  (goal: model to be used as beta test by 3 local universities - targeting USC,
-  UCLA, and CSULB); and federal government grant funding (goal: National
-  Oceanographic & Atmospheric Committee and National Marine Fisheries Service
-  grants for 2017/18).
-
-
-  There are few women-owned tech startups - especially where a woman is the
-  technical cofounder.  By reaching our milestones we will epitomize the CREATE
-  goals that the program has defined..
-project_proposal_help:
-  - 'Money '
-  - Advisors/board members
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Wholly women-owned business that gathers shark sighting data from citizen
   scientists, fisheries, media, and more in order to create a machine learning
   forecast of future populations.  Not only do we inform fisheries and
@@ -44,24 +23,15 @@ project_description: >-
   local water and how to become citizen scientists.  Sharks populations are
   correlated to other ocean species and not only sequester carbon in their
   bodies, but are apex predators vital to the ocean.
-project_impact: '["Minority- and women-owned firms","High growth startups"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Minority- and women-owned firms
   - High growth startups
-project_proposal_description: >-
-  Wholly women-owned business that gathers shark sighting data from citizen
-  scientists, fisheries, media, and more in order to create a machine learning
-  forecast of future populations.  Not only do we inform fisheries and
-  policymakers, but we educate the public on the importance of sharks in our
-  local water and how to become citizen scientists.  Sharks populations are
-  correlated to other ocean species and not only sequester carbon in their
-  bodies, but are apex predators vital to the ocean.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Westside
   - South Bay
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Our proposal will show the world that LA is the best place for a women-owned
   big data startup to succeed and contribute to our unmatched city.  We are
   pioneers in the way oceanography/fisheries data is collected and used.
@@ -114,6 +84,26 @@ project_proposal_best_place: >-
   before taking our project national and then global.  We’ve already identified
   worldwide partners and started showing the world that Los Angeles is indeed
   the best city to CREATE!
+Please explain how you will define and measure success for your project.​: >-
+  Success as a high growth start up will be defined by a measurable increase in
+  our public education newsletter database (goal: 1200% increase); validation of
+  our forecast model as proven by acceptance in the local scientific community
+  (goal: model to be used as beta test by 3 local universities - targeting USC,
+  UCLA, and CSULB); and federal government grant funding (goal: National
+  Oceanographic & Atmospheric Committee and National Marine Fisheries Service
+  grants for 2017/18).
+
+
+  There are few women-owned tech startups - especially where a woman is the
+  technical cofounder.  By reaching our milestones we will epitomize the CREATE
+  goals that the program has defined..
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Advisors/board members
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/save-sharks-fisheries-and-keep-l-a-weather-nice/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4270387955741-team88.png
 organization_name: El Porto Shark

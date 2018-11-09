@@ -17,60 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1054585155741-team89.jpg
 project_video: 'https://www.youtube.com/embed/UclMuVfefwA?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: Los Angeles Maritime Institute
-project_measure: >-
-  POLAHS established a CTE Advisory Board to guide the program’s growth and
-  development; measure student progress; and maintain program accountability.
-  The Advisory Board consists of administrators; POLAHS’ CTE Career Counselor;
-  CTE Department Chair; instructors; and postsecondary and industry
-  representatives. The Advisory Board meets regularly to assess the following
-  goals and outcomes.
-
-
-  Program Goals (defining success):
-
-
-  - All students will have access to a high quality CTE program 
-
-  - Students will graduate high school in four years 
-
-  - CTE students will be college ready: prepared for post-secondary education in
-  the related pathways
-
-  - CTE students will be career ready: graduating with the technical skills
-  necessary to enter the workforce in the related pathways
-
-
-  Program Outcomes (measuring success):
-
-
-  - A full sequence of courses will be available in three CTE pathways, serving
-  a minimum of 350 students each year
-
-  - 100% of 9th graders (250 students) will participate in POLAHS’ Introduction
-  to CTE course
-
-  - 98% of students in the Program will pass CTE courses with a grade of 'C' or
-  better
-
-  - Students in POLAHS’ CTE courses will maintain an average attendance rate of
-  97%
-
-  - 100% of CTE students will graduate high school in four years 
-
-  - 100% of CTE students will earn certifications and participate in industry
-  apprenticeships
-
-  - 100% of CTE students will enroll in college or pursue CTE related employment
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: Los Angeles Maritime Institute
+Please describe your project proposal.: >-
   POLAHS prepares 950 students to be college and career ready through our Career
   Technical Education (CTE) program. POLAHS offers a college preparatory
   curriculum with CTE pathways in the high-skill, high-wage, high-demand
@@ -78,12 +26,7 @@ project_description: >-
   Postsecondary and industry partnerships are integral to the program, allowing
   students to graduate with core academic skills, employability skills, and
   technical, job-specific skills.
-project_impact: >-
-  ["College completion","College matriculation rates","District-wide graduation
-  rates","Proficiency in English and Language Arts and Math","Student education
-  pipeline","Suspension and expulsion rates","Youth unemployment and
-  underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - District-wide graduation rates
@@ -91,20 +34,12 @@ project_proposal_impact:
   - Student education pipeline
   - Suspension and expulsion rates
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  POLAHS prepares 950 students to be college and career ready through our Career
-  Technical Education (CTE) program. POLAHS offers a college preparatory
-  curriculum with CTE pathways in the high-skill, high-wage, high-demand
-  industries of Digital Media; Boat Operations; and Construction Technology.
-  Postsecondary and industry partnerships are integral to the program, allowing
-  students to graduate with core academic skills, employability skills, and
-  technical, job-specific skills.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South Bay
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Port of Los Angeles High School (POLAHS) will make LA the best place to learn
   by preparing all students to graduate and be college and career ready through
   our Career Technical Education (CTE) program. POLAHS offers a college
@@ -163,6 +98,57 @@ project_proposal_best_place: >-
   postsecondary education in the residential and commercial construction
   industry. Students earn college credit and certifications by completing an
   advanced Construction Technology class through El Camino College.
+Please explain how you will define and measure success for your project.​: >-
+  POLAHS established a CTE Advisory Board to guide the program’s growth and
+  development; measure student progress; and maintain program accountability.
+  The Advisory Board consists of administrators; POLAHS’ CTE Career Counselor;
+  CTE Department Chair; instructors; and postsecondary and industry
+  representatives. The Advisory Board meets regularly to assess the following
+  goals and outcomes.
+
+
+  Program Goals (defining success):
+
+
+  - All students will have access to a high quality CTE program 
+
+  - Students will graduate high school in four years 
+
+  - CTE students will be college ready: prepared for post-secondary education in
+  the related pathways
+
+  - CTE students will be career ready: graduating with the technical skills
+  necessary to enter the workforce in the related pathways
+
+
+  Program Outcomes (measuring success):
+
+
+  - A full sequence of courses will be available in three CTE pathways, serving
+  a minimum of 350 students each year
+
+  - 100% of 9th graders (250 students) will participate in POLAHS’ Introduction
+  to CTE course
+
+  - 98% of students in the Program will pass CTE courses with a grade of 'C' or
+  better
+
+  - Students in POLAHS’ CTE courses will maintain an average attendance rate of
+  97%
+
+  - 100% of CTE students will graduate high school in four years 
+
+  - 100% of CTE students will earn certifications and participate in industry
+  apprenticeships
+
+  - 100% of CTE students will enroll in college or pursue CTE related employment
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/college-career-and-community-polahs-career-technical-education-cte-program/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1054585155741-team89.jpg
 organization_name: Port of Los Angeles High School

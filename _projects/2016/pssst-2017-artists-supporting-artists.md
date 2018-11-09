@@ -14,55 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4400390065741-team91.jpg
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  PSSST will consider our project successful if we:
-
-
-  -Compensate our all-artist staff and interns
-
-
-  -Host 9 artists-in-residence (6 from outside LA, 3 from LA)
-
-
-  -Present 50 public programs to at least 5000 audience members
-
-
-  -Pay $35,000 in artist fees
-
-
-  -Provide 2,000 sq ft in in-kind studio space
-
-
-  -Attract audiences that are predominantly artists, LGBTQ communities, women,
-  and people of color
-
-
-  -Receive financial support from at least 2 public funding sources
-
-
-  -Provide artists with opportunities and professional development through
-  PSSST’s holistic support which includes professionally-equipped facility,
-  comprehensive social media marketing, financial support, administrative
-  assistance, and connections to key curators and programmers across Los Angeles
-
-
-  -Establish our non-profit organization as a key stakeholder in Los Angeles’
-  contemporary arts landscape that is known for supporting underserved artists
-
-
-  -Attract critical coverage by at least 5 local and 5 national art news sources
-
-
-  -Grow our Board of Directors by 30%
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   PSSST will cultivate and amplify Los Angeles’ role as an international arts
   center by expanding our 2017 interdisciplinary programming that includes: LA
   Artist Residency, Inter/National Residency, Young Artist Fellowship, Community
@@ -70,12 +23,7 @@ project_description: >-
   lectures, and live music. Our 2017 programming, driven by the concept of
   artists supporting artists, will present 80 underrepresented artists at 50
   events for more than 5000 audiences.
-project_impact: >-
-  ["Arts establishments","Employment in the creative industries","Measures of
-  cultural and global economic influence (“soft power”)","Minority- and
-  women-owned firms","Percentage of graduates from local higher education
-  institutions that remain in LA County 5 years after graduating"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Employment in the creative industries
   - Measures of cultural and global economic influence (“soft power”)
@@ -83,17 +31,9 @@ project_proposal_impact:
   - >-
     Percentage of graduates from local higher education institutions that remain
     in LA County 5 years after graduating
-project_proposal_description: >-
-  PSSST will cultivate and amplify Los Angeles’ role as an international arts
-  center by expanding our 2017 interdisciplinary programming that includes: LA
-  Artist Residency, Inter/National Residency, Young Artist Fellowship, Community
-  Conversations, Crit Club, exhibitions and performances, film screenings,
-  lectures, and live music. Our 2017 programming, driven by the concept of
-  artists supporting artists, will present 80 underrepresented artists at 50
-  events for more than 5000 audiences.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   LA is becoming the US capital for contemporary art, attracting artists through
   cheaper rents and ample space. In an inscrutable and hierarchical art world,
   where few artists live off of sales of their work, PSSST is committed to
@@ -148,6 +88,52 @@ project_proposal_best_place: >-
   Coordinator Pilar Gallego is a transgender Latinx artist. Young Artist Fellow,
   Brenzy Solorzano, is an undocumented Chicana developing a long-term exhibition
   project.
+Please explain how you will define and measure success for your project.​: >-
+  PSSST will consider our project successful if we:
+
+
+  -Compensate our all-artist staff and interns
+
+
+  -Host 9 artists-in-residence (6 from outside LA, 3 from LA)
+
+
+  -Present 50 public programs to at least 5000 audience members
+
+
+  -Pay $35,000 in artist fees
+
+
+  -Provide 2,000 sq ft in in-kind studio space
+
+
+  -Attract audiences that are predominantly artists, LGBTQ communities, women,
+  and people of color
+
+
+  -Receive financial support from at least 2 public funding sources
+
+
+  -Provide artists with opportunities and professional development through
+  PSSST’s holistic support which includes professionally-equipped facility,
+  comprehensive social media marketing, financial support, administrative
+  assistance, and connections to key curators and programmers across Los Angeles
+
+
+  -Establish our non-profit organization as a key stakeholder in Los Angeles’
+  contemporary arts landscape that is known for supporting underserved artists
+
+
+  -Attract critical coverage by at least 5 local and 5 national art news sources
+
+
+  -Grow our Board of Directors by 30%
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/pssst-2017-artists-supporting-artists/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4400390065741-team91.jpg
 organization_name: PSSST

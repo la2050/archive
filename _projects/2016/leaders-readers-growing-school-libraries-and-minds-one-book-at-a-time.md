@@ -15,18 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0517807355741-team90.jpg
 project_video: 'https://www.youtube.com/embed/OKuHAUhFKxk?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None.
-project_measure: "We will measure our programs success based on the following: \n \n1)\tNumber of schools within the Lynwood Unified School District that receive a book delivery\n2)\tNumber of books provided in total and by school\n3)\tNumber of students impacted\n4)\tSuccess in engaging school administration and teachers to allow book deliveries and allocating resources to ensure books are incorporated into the school library and classroom libraries.\n5)\tNumber of students to participate in Choose + Keep Book Fairs\n\nTeacher survey findings are expected to be consistent with the following historical data:\n·      95% of teachers report an increase in student reading after receiving donated books\n·      Students with access to a variety of reading material have higher than average test scores\n \n·      Narrowing the “achievement gap” leads to lower truancy rates and increases in confidence and academic achievement."
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Leaders+Readers will flood approximately 50,000 titles, as part of its book
   drive program, to the 12 elementary schools that make up the Lynwood Unified
   School District to support learning and academic excellence. At each school,
@@ -34,29 +24,18 @@ project_description: >-
   “Choose + Keep” Book Fair for students to start their own home libraries
   giving these students access to the reading materials needed to inspire and
   engage.
-project_impact: >-
-  ["District-wide graduation rates","Proficiency in English and Language Arts
-  and Math","Early education","Student education pipeline"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - District-wide graduation rates
   - Proficiency in English and Language Arts and Math
   - Early education
   - Student education pipeline
-project_proposal_description: >-
-  Leaders+Readers will flood approximately 50,000 titles, as part of its book
-  drive program, to the 12 elementary schools that make up the Lynwood Unified
-  School District to support learning and academic excellence. At each school,
-  we will restock the school library and classroom libraries, as well as hold a
-  “Choose + Keep” Book Fair for students to start their own home libraries
-  giving these students access to the reading materials needed to inspire and
-  engage.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - East LA
   - South LA
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   In 2014, Milk + Bookies absorbed the book drive program previously operated by
   BookEnds and transformed it into the full service learning curriculum, Leaders
   + Readers. At its core, this program is founded on the belief that a
@@ -99,6 +78,15 @@ project_proposal_best_place: >-
   Our goals grow exponentially each year with our Los Angeles-based program and
   we hope to accelerate our impact on Title I students year after year and make
   LA the best place to LEARN.
+Please explain how you will define and measure success for your project.​: "We will measure our programs success based on the following: \n \n1)\tNumber of schools within the Lynwood Unified School District that receive a book delivery\n2)\tNumber of books provided in total and by school\n3)\tNumber of students impacted\n4)\tSuccess in engaging school administration and teachers to allow book deliveries and allocating resources to ensure books are incorporated into the school library and classroom libraries.\n5)\tNumber of students to participate in Choose + Keep Book Fairs\n\nTeacher survey findings are expected to be consistent with the following historical data:\n·      95% of teachers report an increase in student reading after receiving donated books\n·      Students with access to a variety of reading material have higher than average test scores\n \n·      Narrowing the “achievement gap” leads to lower truancy rates and increases in confidence and academic achievement."
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/leaders-readers-growing-school-libraries-and-minds-one-book-at-a-time/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0517807355741-team90.jpg
 organization_name: Milk + Bookies

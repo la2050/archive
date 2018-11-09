@@ -15,75 +15,18 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4696118255741-team90.png
 project_video: 'https://www.youtube.com/embed/opdLZ7mHMqw?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   USC World Building Institute, HexLab Makerspace, C:/DAGS (Critical Design And
   Gaming School) @ Hawkins High School (South LA), Touchstone Climbing - Cliffs
   of Id (Culver City), Navel Co-working, Oblong Industries, Two Bit Circus,
   Variable, Inc.
-project_measure: >-
-  There are various quantitative metrics we use to measure success from an
-  operational perspective:
-
-
-  Full enrollment in our programs (serve 150 LA youth & families thru 2017).
-
-  Diverse community served across various LA neighborhoods.
-
-  Returning youth from our 2016 pilot and other events during the year.
-
-  Sociable outputs - guides, processes, CC-published curriculum and resources.
-
-  Placed youth in internships in the creative industries.
-
-  Sponsorships and donations
-
-  Volunteers and partnerships
-
-   We collect surveys and exit interviews with participants that provide us first-hand with qualitative data on the outcomes of our program. Some snippets from 2016:
-
-  'I learned how I can rely on other people to work on a team instead of working
-  by myself.' - Harper, 14
-
-  'It helped me move faster with my creative processing, when i would sit down
-  for about a day and i would write something, but for this I would have to do
-  something in a few hours...I'll take home with me much better work ethic,
-  discipline, for sure, trust, in myself, and other people.' - Miles, 16
-
-  'Soak everything in, because you can learn so much from just observing the
-  systems around us.' - Nina, 15
-
-  'There's so much you could learn, and its not the boring school learning, its
-  the fun, but still educational, real learning.' Rama, 13
-
-  'The future isn't something that other people control, its what you create'. -
-  Michael, 16
-
-  'I wanna meet all these people again later, everybody's so great.' - Eli, 13
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Please describe your project proposal.: >-
   Future Scouts ran a crowd-funded pilot program in July 2016 with 12 teens from
   across LA for a two weeks, culminating in a Future Worlds Fair: LA 2036! We
   propose to run two summer sessions in Los Angeles in 2017 for teens aged
   13-18, on a by-donation basis, as well fund an after-school program with
   C:/DAGS @ Hawkins HS for Spring 2017.
-project_impact: >-
-  ["College completion","College matriculation rates","District-wide graduation
-  rates","Proficiency in English and Language Arts and Math","Early
-  education","Student education pipeline","Students’ perceived sense of safety
-  at and on the way to school","Youth unemployment and underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - District-wide graduation rates
@@ -92,20 +35,14 @@ project_proposal_impact:
   - Student education pipeline
   - Students’ perceived sense of safety at and on the way to school
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  Future Scouts ran a crowd-funded pilot program in July 2016 with 12 teens from
-  across LA for a two weeks, culminating in a Future Worlds Fair: LA 2036! We
-  propose to run two summer sessions in Los Angeles in 2017 for teens aged
-  13-18, on a by-donation basis, as well fund an after-school program with
-  C:/DAGS @ Hawkins HS for Spring 2017.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Fernando Valley
   - South LA
   - Westside
   - South Bay
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Our children are growing up in a world with a rate of accelerated change. With
   each passing generation, the minds of youth evolve and adapt to new behaviors,
   cultural mores, new interfaces and technologies, ways of learning and
@@ -178,6 +115,57 @@ project_proposal_best_place: >-
   evaluate knowledge, and create their own narratives. We do this through
   providing knowledge, experiences and tools that help them become authors of
   their own futures.
+Please explain how you will define and measure success for your project.​: >-
+  There are various quantitative metrics we use to measure success from an
+  operational perspective:
+
+
+  Full enrollment in our programs (serve 150 LA youth & families thru 2017).
+
+  Diverse community served across various LA neighborhoods.
+
+  Returning youth from our 2016 pilot and other events during the year.
+
+  Sociable outputs - guides, processes, CC-published curriculum and resources.
+
+  Placed youth in internships in the creative industries.
+
+  Sponsorships and donations
+
+  Volunteers and partnerships
+
+   We collect surveys and exit interviews with participants that provide us first-hand with qualitative data on the outcomes of our program. Some snippets from 2016:
+
+  'I learned how I can rely on other people to work on a team instead of working
+  by myself.' - Harper, 14
+
+  'It helped me move faster with my creative processing, when i would sit down
+  for about a day and i would write something, but for this I would have to do
+  something in a few hours...I'll take home with me much better work ethic,
+  discipline, for sure, trust, in myself, and other people.' - Miles, 16
+
+  'Soak everything in, because you can learn so much from just observing the
+  systems around us.' - Nina, 15
+
+  'There's so much you could learn, and its not the boring school learning, its
+  the fun, but still educational, real learning.' Rama, 13
+
+  'The future isn't something that other people control, its what you create'. -
+  Michael, 16
+
+  'I wanna meet all these people again later, everybody's so great.' - Eli, 13
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/future-scouts-21st-century-survival-skills-for-21st-century-humans/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4696118255741-team90.png
 organization_name: Future Fields

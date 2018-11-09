@@ -11,46 +11,12 @@ project_summary: Let your voice be heard-- with I Am LA the whole city is ready 
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9122157445741-team91.JPG
 project_video: 'https://www.youtube.com/embed/l9WIsFvpdpU?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Success for us is about who we engage, motivate, and inspire.  
-
-
-  The number of people we engage will be measured by how many page views we have
-  on our project website, our movies, the number of attendees at our events, and
-  the projected numbers for how many see our physical ads.  Our goal will be to
-  engage 500,000 to 1,000,000 Los Angeles residents.
-
-
-  The number of people we motivate will be measured by the number of contest
-  entries we receive. Our goal is to have between 100 and 500 entries.
-
-
-  The number of people we inspire will be measured by how many people vote on
-  entries. Our goal is to have 5,000 to 40,000 votes.
-
-
-  I Am LA's strategy is to keep running totals of all three of these numbers
-  throughout the process.  If any of these numbers is falling short of our
-  goals, we will adapt and find a solution.
-project_proposal_help:
-  - Volunteers
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   We can do better together. I Am LA is a city-wide campaign to care for the
   place we call home. And we want your help. We are offering $1,000 prizes for
   1-minute films that inspire us to care for our neighbors and our environment.
-project_impact: >-
-  ["Social & emotional support","Cultural events","Public transit
-  riders","Participation in neighborhood councils","Rates of
-  volunteerism","Residential segregation","Total number of local social media
-  friends and connections Angelenos have","Voting rates"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Public transit riders
@@ -59,13 +25,9 @@ project_proposal_impact:
   - Residential segregation
   - Total number of local social media friends and connections Angelenos have
   - Voting rates
-project_proposal_description: >-
-  We can do better together. I Am LA is a city-wide campaign to care for the
-  place we call home. And we want your help. We are offering $1,000 prizes for
-  1-minute films that inspire us to care for our neighbors and our environment.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   LA is not made of land, buildings, or streets. LA is made of people. It's time
   to bring them together.
 
@@ -119,6 +81,34 @@ project_proposal_best_place: >-
   Join the movement. 
 
   Vote for I Am LA.
+Please explain how you will define and measure success for your project.​: >-
+  Success for us is about who we engage, motivate, and inspire.  
+
+
+  The number of people we engage will be measured by how many page views we have
+  on our project website, our movies, the number of attendees at our events, and
+  the projected numbers for how many see our physical ads.  Our goal will be to
+  engage 500,000 to 1,000,000 Los Angeles residents.
+
+
+  The number of people we motivate will be measured by the number of contest
+  entries we receive. Our goal is to have between 100 and 500 entries.
+
+
+  The number of people we inspire will be measured by how many people vote on
+  entries. Our goal is to have 5,000 to 40,000 votes.
+
+
+  I Am LA's strategy is to keep running totals of all three of these numbers
+  throughout the process.  If any of these numbers is falling short of our
+  goals, we will adapt and find a solution.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - Volunteers
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/i-am-la-one-minute-can-change-the-world/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9122157445741-team91.JPG
 organization_name: Peaceworks International

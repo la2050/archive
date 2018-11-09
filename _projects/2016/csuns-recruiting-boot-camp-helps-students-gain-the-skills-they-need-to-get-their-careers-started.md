@@ -16,23 +16,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7272231265741-team91.jpg
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  We will define success by increasing the number of traditionally underserved
-  students who participate in career center activities, including the Recruiting
-  Boot Camps, and the number of underserved students who are placed in jobs in
-  accounting and information systems industry positions. Students in the
-  Department of Accounting and Information Systems will be required to complete
-  a survey immediately prior to graduation to determine career center programs
-  in which they participated and their perceived impact on job placement,
-  post-graduation employment status, starting salary, etc. The results from the
-  survey will provide the metrics by which we will analyze our success.
-project_proposal_help:
-  - 'Money '
-  - 'Staff '
-  - Technical infrastructure (computers etc.)
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   CSUN’s Accounting Career Center offers advisement/coaching, resume writing,
   interviewing, job search training, and job and internship placement help. 
 
@@ -44,26 +29,13 @@ project_description: >-
 
   This grant will allow CSUN to include more students, add a one-day spring
   program and extend orientation to CSUN freshmen and sophomores.
-project_impact: '["Youth unemployment and underemployment"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  CSUN’s Accounting Career Center offers advisement/coaching, resume writing,
-  interviewing, job search training, and job and internship placement help. 
-
-
-  Our annual two-day Recruiting Boot Camp is held each summer for accounting
-  juniors/seniors. Industry professionals offer classes on interviewing,
-  business ethics, proper working attire, networking and more.
-
-
-  This grant will allow CSUN to include more students, add a one-day spring
-  program and extend orientation to CSUN freshmen and sophomores.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - San Fernando Valley
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   CSUN’s business education extends throughout the San Fernando Valley and well
   into the Los Angeles region and beyond. Since its founding in 1958, CSUN has
   made a significant and long-term economic impact on the region and the state
@@ -107,6 +79,20 @@ project_proposal_best_place: >-
   nation for its impact on the improved earning power and economic prospects of
   its graduates. With additional resources, the Career Center will be able to
   provide services to all those students who deserve them.
+Please explain how you will define and measure success for your project.​: >-
+  We will define success by increasing the number of traditionally underserved
+  students who participate in career center activities, including the Recruiting
+  Boot Camps, and the number of underserved students who are placed in jobs in
+  accounting and information systems industry positions. Students in the
+  Department of Accounting and Information Systems will be required to complete
+  a survey immediately prior to graduation to determine career center programs
+  in which they participated and their perceived impact on job placement,
+  post-graduation employment status, starting salary, etc. The results from the
+  survey will provide the metrics by which we will analyze our success.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - 'Staff '
+  - Technical infrastructure (computers etc.)
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/csuns-recruiting-boot-camp-helps-students-gain-the-skills-they-need-to-get-their-careers-started/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7272231265741-team91.jpg
 organization_name: 'California State University, Northridge (CSUN)'

@@ -13,8 +13,7 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5007408255741-team91.png
 project_video: 'https://www.youtube.com/embed/QGACEG8td6g?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   FosterMore is a coalition of nonprofits and foundations united to increase
   opportunities for foster youth.  Funding partners include Disney ABC
   Television Group, Conrad N. Hilton Foundation, Casey Family Programs, Pritzker
@@ -22,31 +21,7 @@ project_collaborators: >-
   and Ralph M. Parsons Foundation. Nonprofit partners include First Star,
   StoryCorps, The Jewish Board, Foster Care 2 Success and Raise a Child. 
   Managing the effort is CAN and Propper Daley.
-project_measure: >-
-  It is important to look at the impact of the ads through three different
-  lenses, aligned with FosterMore’s goals.  Each of the three goals has a metric
-  to measure success.
-
-  * Recruitment of Foster Parents: The number of referrals made to LA County
-  Foster Family Agencies is a clear metric for success and evaluation.  The
-  cost/referral allows for comparison with the efforts of other organizations to
-  reach the same demographic.
-
-  * Reintroducing Foster Youth to the Public—The overall number of individuals
-  who see the ads and watched the films is a strong metric for success because
-  the ads are purchased to reach a specific demographic of potential foster
-  parents.
-
-  * Long Term Culture Shift: Based on previous research of our partner
-  organizations that states that the average foster parent spends two years in
-  the prospecting pipeline, we may be able to project interest starting in 18-24
-  months, assuming appropriate follow up is conducted.  It is our belief that a
-  periodic investment of advertising (targeting the same demographic) could
-  yield a conversion rate of 0.005% from those who view the ad.
-project_proposal_help:
-  - Publicity/awareness
-  - Community outreach
-project_description: >-
+Please describe your project proposal.: >-
   To fill LA County’s urgent need for foster parents, our team of communications
   and marketing experts conducted research and focus groups to develop an online
   recruitment effort.  The initial effort used micro-targeting digital messages
@@ -54,24 +29,13 @@ project_description: >-
   with a proven message to move them through the prospective foster parent
   funnel.  We would like to expand our online effort to meet the pressing need
   for foster parents in the county.
-project_impact: >-
-  ["Social & emotional support","Government responsiveness to residents’
-  needs","Rates of volunteerism"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Government responsiveness to residents’ needs
   - Rates of volunteerism
-project_proposal_description: >-
-  To fill LA County’s urgent need for foster parents, our team of communications
-  and marketing experts conducted research and focus groups to develop an online
-  recruitment effort.  The initial effort used micro-targeting digital messages
-  to potential foster parents and mentors reaching millions of county residents
-  with a proven message to move them through the prospective foster parent
-  funnel.  We would like to expand our online effort to meet the pressing need
-  for foster parents in the county.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The need for foster parents is profound in Los Angeles County.  With this in
   mind, our team of communications experts conducted research and focus groups
   to develop a campaign to recruit foster parents and mentors, while at the same
@@ -119,6 +83,30 @@ project_proposal_best_place: >-
   over a 6-8 week effort.  Further the long-term impact could yield an estimated
   5,700-7,000 additional foster parents starting 18 months from the date of
   execution.
+Please explain how you will define and measure success for your project.​: >-
+  It is important to look at the impact of the ads through three different
+  lenses, aligned with FosterMore’s goals.  Each of the three goals has a metric
+  to measure success.
+
+  * Recruitment of Foster Parents: The number of referrals made to LA County
+  Foster Family Agencies is a clear metric for success and evaluation.  The
+  cost/referral allows for comparison with the efforts of other organizations to
+  reach the same demographic.
+
+  * Reintroducing Foster Youth to the Public—The overall number of individuals
+  who see the ads and watched the films is a strong metric for success because
+  the ads are purchased to reach a specific demographic of potential foster
+  parents.
+
+  * Long Term Culture Shift: Based on previous research of our partner
+  organizations that states that the average foster parent spends two years in
+  the prospecting pipeline, we may be able to project interest starting in 18-24
+  months, assuming appropriate follow up is conducted.  It is our belief that a
+  periodic investment of advertising (targeting the same demographic) could
+  yield a conversion rate of 0.005% from those who view the ad.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - Publicity/awareness
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/fostermore-because-no-child-makes-it-alone/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5007408255741-team91.png
 organization_name: Children's Action Network (CAN)

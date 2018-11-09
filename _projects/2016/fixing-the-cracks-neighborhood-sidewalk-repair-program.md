@@ -15,29 +15,10 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3701902165741-team91.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   City of Los Angeles, Urban Forestry Division, Los Angeles Neighborhood
   Initiative (LANI)
-project_measure: >-
-  The success of this project will be measured by the number of community
-  members participating in the program. Direct metrics of success will be the
-  number of individuals attending the six community workshops; the number of
-  toolkits distributed; the number of permits pulled by residents; the number of
-  trees removed or pruned; and finally the number of sidewalks repaired or
-  replaced. Immeasurable project outcomes include community empowerment as
-  residents learn how to work with local government to initiate and complete
-  improvement projects; improved safety for pedestrian, cyclists, transit users,
-  the disabled community, as well as parents with strollers; increased quality
-  of life and public health as people are encouraged to walk or cycle outdoors;
-  and long-term revitalization benefits as communities improve.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   Cracked and broken, unattractive and dangerous, far too many sidewalks in Los
   Angeles are in severe disrepair. LANI, in collaboration with the City of Los
   Angeles Urban Forestry Division, will develop and distribute a comprehensive
@@ -45,12 +26,7 @@ project_description: >-
   replacing their own sidewalks. LANI will conduct extensive outreach,
   facilitate six neighborhood workshops, and work hands-on with local residents
   to make streets safer for all!
-project_impact: >-
-  ["Public/open streets gatherings","Government responsiveness to residents’
-  needs","Public transit riders","Rates of volunteerism","Transit-accessible
-  housing and employment (the share of housing units and percentage of jobs that
-  are located within a half-mile of transit)"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Public/open streets gatherings
   - Government responsiveness to residents’ needs
   - Public transit riders
@@ -58,21 +34,13 @@ project_proposal_impact:
   - >-
     Transit-accessible housing and employment (the share of housing units and
     percentage of jobs that are located within a half-mile of transit)
-project_proposal_description: >-
-  Cracked and broken, unattractive and dangerous, far too many sidewalks in Los
-  Angeles are in severe disrepair. LANI, in collaboration with the City of Los
-  Angeles Urban Forestry Division, will develop and distribute a comprehensive
-  tool-kit to assist residents in navigating the process of repairing or
-  replacing their own sidewalks. LANI will conduct extensive outreach,
-  facilitate six neighborhood workshops, and work hands-on with local residents
-  to make streets safer for all!
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Fernando Valley
   - South LA
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The City of Los Angeles has over 11,000 linear miles of sidewalk with much of
   it in disrepair. Invasive tree roots have uplifted concrete creating cracks
   and large fissures that impede mobility and cause tremendous safety hazards.
@@ -111,6 +79,24 @@ project_proposal_best_place: >-
   renewed commitment to seeing their neighborhood improve. They will become
   active and empowered civic leaders with the tools necessary to affect local
   change.
+Please explain how you will define and measure success for your project.​: >-
+  The success of this project will be measured by the number of community
+  members participating in the program. Direct metrics of success will be the
+  number of individuals attending the six community workshops; the number of
+  toolkits distributed; the number of permits pulled by residents; the number of
+  trees removed or pruned; and finally the number of sidewalks repaired or
+  replaced. Immeasurable project outcomes include community empowerment as
+  residents learn how to work with local government to initiate and complete
+  improvement projects; improved safety for pedestrian, cyclists, transit users,
+  the disabled community, as well as parents with strollers; increased quality
+  of life and public health as people are encouraged to walk or cycle outdoors;
+  and long-term revitalization benefits as communities improve.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/fixing-the-cracks-neighborhood-sidewalk-repair-program/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3701902165741-team91.jpg
 organization_name: Los Angeles Neighborhood Initiative (LANI)

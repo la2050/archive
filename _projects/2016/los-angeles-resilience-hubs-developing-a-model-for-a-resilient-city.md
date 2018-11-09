@@ -15,42 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8832997725741-team90.jpg
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: None.
-project_measure: >-
-  Success to us is a city properly equipped to face the realities of climate
-  change, natural disasters, and infrastructure interruptions. As such, we
-  define success with two key indicators: 1) the development of a robust,
-  replicable model for Resilience Hubs in Los Angeles, and 2) working local
-  community development corporations to identify sites and structures in
-  disadvantaged communities that can become the city’s first Resilience Hubs. 
-
-
-  We will measure success by:
-
-  The number of disadvantaged communities in Los Angeles with access to
-  Resilience Hubs
-
-  The percentage of disadvantaged community members served by Resilience Hubs
-  during natural disasters and infrastructure interruptions 
-
-  The number of local community development corporations collaborating with our
-  team to identify suitable pilot project locations 
-
-  The duration between disruptive event [black out, fire, earthquake…] and
-  neighborhood bounce back 
-
-
-  We plan to conduct interviews with residents, community development
-  corporation staff, and government leaders throughout the duration of the
-  program to inform the design, development, and implementation of the Los
-  Angeles Resilience Hubs program.
-project_proposal_help:
-  - 'Money '
-  - Infrastructure (building/space/vehicles
-  - Technical infrastructure (computers
-  - Community outreach
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   As the effects of climate change manifest in Los Angeles, prolonged heat
   waves, dry spells and fires threaten to disrupt power grids, force families
   from their homes, and underscore the need for off-grid centers where residents
@@ -58,26 +24,15 @@ project_description: >-
   updates from emergency personnel. We will work with local communities,
   designers, and government organizations to develop a model for Resilience Hubs
   in neighborhoods throughout the County.
-project_impact: >-
-  ["Self-sufficiency","Resilient communities","Prevalence of adverse childhood
-  experiences"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Self-sufficiency
   - Resilient communities
   - Prevalence of adverse childhood experiences
-project_proposal_description: >-
-  As the effects of climate change manifest in Los Angeles, prolonged heat
-  waves, dry spells and fires threaten to disrupt power grids, force families
-  from their homes, and underscore the need for off-grid centers where residents
-  can gather, cool down, charge phones, contact family, and receive critical
-  updates from emergency personnel. We will work with local communities,
-  designers, and government organizations to develop a model for Resilience Hubs
-  in neighborhoods throughout the County.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Los Angeles Resilience Hubs will help make LA the best place to live by
   providing secure off-grid shelter for residents during severe weather events
   and natural disasters. 
@@ -119,6 +74,39 @@ project_proposal_best_place: >-
   Green will develop a Resilience Hub model specifically suited for our
   increasingly hot, arid climate, and work with local community development
   corporations to identify sites for building pilot hubs.
+Please explain how you will define and measure success for your project.​: >-
+  Success to us is a city properly equipped to face the realities of climate
+  change, natural disasters, and infrastructure interruptions. As such, we
+  define success with two key indicators: 1) the development of a robust,
+  replicable model for Resilience Hubs in Los Angeles, and 2) working local
+  community development corporations to identify sites and structures in
+  disadvantaged communities that can become the city’s first Resilience Hubs. 
+
+
+  We will measure success by:
+
+  The number of disadvantaged communities in Los Angeles with access to
+  Resilience Hubs
+
+  The percentage of disadvantaged community members served by Resilience Hubs
+  during natural disasters and infrastructure interruptions 
+
+  The number of local community development corporations collaborating with our
+  team to identify suitable pilot project locations 
+
+  The duration between disruptive event [black out, fire, earthquake…] and
+  neighborhood bounce back 
+
+
+  We plan to conduct interviews with residents, community development
+  corporation staff, and government leaders throughout the duration of the
+  program to inform the design, development, and implementation of the Los
+  Angeles Resilience Hubs program.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Infrastructure (building/space/vehicles
+  - Technical infrastructure (computers
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/los-angeles-resilience-hubs-developing-a-model-for-a-resilient-city/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8832997725741-team90.jpg
 organization_name: Global Green USA

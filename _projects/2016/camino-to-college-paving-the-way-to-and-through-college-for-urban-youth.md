@@ -15,60 +15,18 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7012460625741-team89.jpg
 project_video: 'https://www.youtube.com/embed/iDCnFxfgu1o?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Camino Through College aims to provide our students and families the support
-  they need to succeed in college and beyond, and to ensure that by 2022, 90% of
-  our students are accepted into, 80% enroll in, and 60% complete college within
-  six years of graduating from high school.
-
-
-  We will measure our success based on the following:
-
-  -Number of college trips provided
-
-  -Number of students who attended college trips
-
-  -Number of students provided ACT/SAT Prep
-
-  -Number of students enrolled in a 2 or 4 year college
-
-  -Percent of students graduating from college
-
-  -Percent of employers interested in providing internships to our students
-
-  -Number of peer mentor matches
-
-
-  We will continue to survey students, internship employers, staff, and parents
-  before, throughout and after going through our program. Additionally, we will
-  gather feedback through our alumni focus groups and one-on-one conversations
-  with program participants.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Camino Nuevo Charter Academy, will expand upon our Camino Through College
   (CTC) program, which focuses on preparing students for success through
   exposure to different colleges and careers, skill-building, parent engagement,
   and support throughout the college-application process, enrollment and beyond.
-project_impact: '["College completion","College matriculation rates"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
-project_proposal_description: >-
-  Camino Nuevo Charter Academy, will expand upon our Camino Through College
-  (CTC) program, which focuses on preparing students for success through
-  exposure to different colleges and careers, skill-building, parent engagement,
-  and support throughout the college-application process, enrollment and beyond.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Camino Through College (CTC) will help make LA the best place to learn by
   helping more students get to and through college.
 
@@ -123,6 +81,41 @@ project_proposal_best_place: >-
   with students to help address barriers by providing personal and academic
   support and connecting students to resources on campus. Our staff provides
   individualized support to high-risk students.
+Please explain how you will define and measure success for your project.​: >-
+  Camino Through College aims to provide our students and families the support
+  they need to succeed in college and beyond, and to ensure that by 2022, 90% of
+  our students are accepted into, 80% enroll in, and 60% complete college within
+  six years of graduating from high school.
+
+
+  We will measure our success based on the following:
+
+  -Number of college trips provided
+
+  -Number of students who attended college trips
+
+  -Number of students provided ACT/SAT Prep
+
+  -Number of students enrolled in a 2 or 4 year college
+
+  -Percent of students graduating from college
+
+  -Percent of employers interested in providing internships to our students
+
+  -Number of peer mentor matches
+
+
+  We will continue to survey students, internship employers, staff, and parents
+  before, throughout and after going through our program. Additionally, we will
+  gather feedback through our alumni focus groups and one-on-one conversations
+  with program participants.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/camino-to-college-paving-the-way-to-and-through-college-for-urban-youth/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7012460625741-team89.jpg
 organization_name: Camino Nuevo Charter Academy

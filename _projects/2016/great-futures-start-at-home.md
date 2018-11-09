@@ -13,30 +13,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0265060265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/cPfsZdgBbDk?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: 'Boys and Girls Clubs of Santa Monica, Community Corporation of Santa Monica'
-project_measure: >-
-  Number of young people 6-18 years of age served by Boys & Girls Clubs of Santa
-  Monica programs.
-
-  Number of families served by community resource activities and projects.
-
-  Number of young people who do not engage in delinquent activities.
-
-  Number of young people advancing on time in grade level, graduating from high
-  school, and continuing to post-secondary education. 
-
-  Community family events and workshop logs containing participation and
-  outcomes. 
-
-  Outreach opportunities for young people to explore opportunities outside their
-  neighborhood via Boys & Girls Clubs of Santa Monica field trips and
-  excursions.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Staff
-project_description: >-
+Are any other organizations collaborating on this proposal?: 'Boys and Girls Clubs of Santa Monica, Community Corporation of Santa Monica'
+Please describe your project proposal.: >-
   Our project is a model that can be duplicated in other communities and help
   others, too. We offer proven Boys & Girls Club youth-development activities in
   affordable housing communities to kids 6-18 years of age. Programs yield
@@ -44,20 +22,11 @@ project_description: >-
   special here is that we are bringing the Club to the home community so that
   kids are directly served with programs they need, and the whole family
   benefits from using the family-centered space.
-project_impact: '["Number of children enrolled in afterschool programs"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Number of children enrolled in afterschool programs
-project_proposal_description: >-
-  Our project is a model that can be duplicated in other communities and help
-  others, too. We offer proven Boys & Girls Club youth-development activities in
-  affordable housing communities to kids 6-18 years of age. Programs yield
-  academic success, good character & citizenship, and healthy lifestyles. What’s
-  special here is that we are bringing the Club to the home community so that
-  kids are directly served with programs they need, and the whole family
-  benefits from using the family-centered space.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Westside
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Remember when you were a kid – some of your best friends were from your
   neighborhood. Families today tend to be scattered and busy with life, work,
   and school, with little time to connect. Our community centers provide a place
@@ -101,6 +70,27 @@ project_proposal_best_place: >-
   professionals who serve as positive role models to the Club members, with
   important information for families at their fingertips as a valuable,
   accessible resource.
+Please explain how you will define and measure success for your project.​: >-
+  Number of young people 6-18 years of age served by Boys & Girls Clubs of Santa
+  Monica programs.
+
+  Number of families served by community resource activities and projects.
+
+  Number of young people who do not engage in delinquent activities.
+
+  Number of young people advancing on time in grade level, graduating from high
+  school, and continuing to post-secondary education. 
+
+  Community family events and workshop logs containing participation and
+  outcomes. 
+
+  Outreach opportunities for young people to explore opportunities outside their
+  neighborhood via Boys & Girls Clubs of Santa Monica field trips and
+  excursions.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Staff
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/great-futures-start-at-home/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0265060265741-team91.jpg
 organization_name: Community Corporation of Santa Monica

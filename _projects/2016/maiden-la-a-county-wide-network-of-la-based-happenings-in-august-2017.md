@@ -15,55 +15,14 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5228131725741-team91.jpg
 project_video: 'https://www.youtube.com/embed/Qy7qio56M78?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: none
-project_measure: >-
-  Success for Maiden LA is defined and measured by the public's engagement and
-  participation. We were thrilled to have had 160 participants in the first
-  iteration of Maiden LA, and were amazed by the range of events that
-  materialized, from artists hosting web-based projects, including a biennial
-  that only exists on Instagram and a blog that addressed an artist's permanent
-  ban from the US, to a collection of Noah Purifoy works at Tara's Hall, a
-  survey of works by 80s L.A. punk rock scene artist Mary Woronov at the Lodge,
-  a Post-It installation at an artist-run children’s museum in San Gabriel
-  Valley, and a talk with Jackie Winsor at Hauser Wirth and Schimmel. 
-
-
-  Success for the 2017 iteration of Maiden LA will involve greater artist
-  participation, events well-attended by the community, more social media
-  followers and engagement, more newsletter subscribers, a wider promotional
-  campaign, and greater press exposure.
-
-
-  We foresee 300 participants in Maiden LA 2017, with more artists and their
-  respective communities being connected and represented. We plan to send out a
-  feedback survey to all participants in order to glean various pertinent
-  information, such as how they heard about the project, how many guests
-  attended, and if they attended any other Maiden LA events.
-
-
-  Success will also be defined by how many projects continue beyond the scope of
-  Maiden LA.  We will of course stay in dialog with the participants and our
-  followers in an effort to keep Maiden LA a success.
-project_proposal_help:
-  - 'Money '
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: none
+Please describe your project proposal.: >-
   After a successful pilot program, for the 2nd iteration, Maiden LA will put
   out an open call to LA-based artists to host an event during the month of
   August 2017. In expanding outreach and participation, Maiden LA will continue
   to connect artists and collectives while representing LA County as a vibrant
   and extensive art community.
-project_impact: >-
-  ["Arts establishments","Employment in the creative industries","Minority- and
-  women-owned firms","Percentage of graduates from local higher education
-  institutions that remain in LA County 5 years after graduating","Recruiting
-  and retention rates for local higher education institutions"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Employment in the creative industries
   - Minority- and women-owned firms
@@ -71,13 +30,7 @@ project_proposal_impact:
     Percentage of graduates from local higher education institutions that remain
     in LA County 5 years after graduating
   - Recruiting and retention rates for local higher education institutions
-project_proposal_description: >-
-  After a successful pilot program, for the 2nd iteration, Maiden LA will put
-  out an open call to LA-based artists to host an event during the month of
-  August 2017. In expanding outreach and participation, Maiden LA will continue
-  to connect artists and collectives while representing LA County as a vibrant
-  and extensive art community.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -89,7 +42,7 @@ project_areas:
   - Antelope Valley
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Maiden LA, an annual county-wide network of ‘happenings’ throughout the month
   of August, is a way to assemble and connect Los Angeles artists, curators,
   performers, collectives, organizations, etc., to host open studios, group
@@ -146,6 +99,41 @@ project_proposal_best_place: >-
   ongoing program will aid in their recruitment and retention rates. Our last
   event included involvement with Pomona College and number of recent UCLA
   graduates, among others.
+Please explain how you will define and measure success for your project.​: >-
+  Success for Maiden LA is defined and measured by the public's engagement and
+  participation. We were thrilled to have had 160 participants in the first
+  iteration of Maiden LA, and were amazed by the range of events that
+  materialized, from artists hosting web-based projects, including a biennial
+  that only exists on Instagram and a blog that addressed an artist's permanent
+  ban from the US, to a collection of Noah Purifoy works at Tara's Hall, a
+  survey of works by 80s L.A. punk rock scene artist Mary Woronov at the Lodge,
+  a Post-It installation at an artist-run children’s museum in San Gabriel
+  Valley, and a talk with Jackie Winsor at Hauser Wirth and Schimmel. 
+
+
+  Success for the 2017 iteration of Maiden LA will involve greater artist
+  participation, events well-attended by the community, more social media
+  followers and engagement, more newsletter subscribers, a wider promotional
+  campaign, and greater press exposure.
+
+
+  We foresee 300 participants in Maiden LA 2017, with more artists and their
+  respective communities being connected and represented. We plan to send out a
+  feedback survey to all participants in order to glean various pertinent
+  information, such as how they heard about the project, how many guests
+  attended, and if they attended any other Maiden LA events.
+
+
+  Success will also be defined by how many projects continue beyond the scope of
+  Maiden LA.  We will of course stay in dialog with the participants and our
+  followers in an effort to keep Maiden LA a success.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/maiden-la-a-county-wide-network-of-la-based-happenings-in-august-2017/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5228131725741-team91.jpg
 organization_name: Maiden LA

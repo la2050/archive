@@ -16,58 +16,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3020056105741-team91.jpeg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: 'Dorsey High School, Jim Gilliam Recreation Center'
-project_measure: >-
-  Our first measure of success is our waiting list of over 50 students who are
-  referred to our program from their friends and classmates.
-
-
-  Other measures and outcomes for youth:
-
-  Attend at least one community meeting/Town Hall
-
-  Walk on a college campus and attend a college campus event
-
-  Participate in the development of a community project
-
-  Create a budget and learn financial literacy
-
-  Gain better communication, etiquette and team building skills
-
-  Show improvements in their overall confidence and self-esteem
-
-  Identify his/her purpose, skills and talents, with timeline and goals of
-  achievement
-
-  Connect with a mentor and create mutually beneficial relationships
-
-  Speak with at least one business owner/entrepreneur in their community
-
-  Complete a career and/or business portfolio 
-
-  Learn and participate in Cultural Art, healthy living, eating and exercise 
-
-  Perform for community audiences of at least 200
-
-
-  We also measure our program with surveys, assessments and data collection by
-  using primary and secondary data. We use youth testimonials at the end of the
-  workshops. 
-
-
-  Youth Testimonial, “I like this program it gives you a lot of opportunity.
-  Also, I like how we communicate and are open to many ideas. Last year I met
-  Mayor Eric Garcetti through this program and it was a great experience.” Dayja
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Infrastructure (building/space/vehicles etc.)
-  - Technical infrastructure (computers etc.)
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: 'Dorsey High School, Jim Gilliam Recreation Center'
+Please describe your project proposal.: >-
   In collaboration with Dorsey high school and Jim Gilliam Recreation center; in
   the south Los Angeles community, we provide self-esteem building, individual
   and community goal setting, professional development, along with community
@@ -75,31 +25,19 @@ project_description: >-
   community success. Upon graduating from our programs, we will place youth in
   internships that match their field of interest, while connecting youth to
   networking relationships and mentors.
-project_impact: >-
-  ["College completion","College matriculation rates","District-wide graduation
-  rates","Student education pipeline","Suspension and expulsion rates","Youth
-  unemployment and underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - District-wide graduation rates
   - Student education pipeline
   - Suspension and expulsion rates
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  In collaboration with Dorsey high school and Jim Gilliam Recreation center; in
-  the south Los Angeles community, we provide self-esteem building, individual
-  and community goal setting, professional development, along with community
-  projects as civic leadership and cultural arts    to encourage academic and
-  community success. Upon graduating from our programs, we will place youth in
-  internships that match their field of interest, while connecting youth to
-  networking relationships and mentors.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South LA
   - City of Los Angeles
   - LAUSD
   - Baldwin Village 'The Jungles'
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Unite a Nation will make LA the best place to learn by increasing and
   encouraging academic excellence, social service and economic growth among
   under-served communities of South Los Angeles. 
@@ -156,6 +94,55 @@ project_proposal_best_place: >-
   day as a final presentation. Our goal is to bring community and groups
   together as a way of activating unused community space in the Crenshaw
   district.
+Please explain how you will define and measure success for your project.​: >-
+  Our first measure of success is our waiting list of over 50 students who are
+  referred to our program from their friends and classmates.
+
+
+  Other measures and outcomes for youth:
+
+  Attend at least one community meeting/Town Hall
+
+  Walk on a college campus and attend a college campus event
+
+  Participate in the development of a community project
+
+  Create a budget and learn financial literacy
+
+  Gain better communication, etiquette and team building skills
+
+  Show improvements in their overall confidence and self-esteem
+
+  Identify his/her purpose, skills and talents, with timeline and goals of
+  achievement
+
+  Connect with a mentor and create mutually beneficial relationships
+
+  Speak with at least one business owner/entrepreneur in their community
+
+  Complete a career and/or business portfolio 
+
+  Learn and participate in Cultural Art, healthy living, eating and exercise 
+
+  Perform for community audiences of at least 200
+
+
+  We also measure our program with surveys, assessments and data collection by
+  using primary and secondary data. We use youth testimonials at the end of the
+  workshops. 
+
+
+  Youth Testimonial, “I like this program it gives you a lot of opportunity.
+  Also, I like how we communicate and are open to many ideas. Last year I met
+  Mayor Eric Garcetti through this program and it was a great experience.” Dayja
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/ending-generational-cycles-of-poverty-through-urban-youth-and-community-development-programs/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3020056105741-team91.jpeg
 organization_name: 'Unite A Nation, Inc.'

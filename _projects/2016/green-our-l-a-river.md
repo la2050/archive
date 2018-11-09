@@ -14,43 +14,13 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3428423065741-team90.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Studio City Residents Association (SCRA), Studio City Beautification (SCBA),
   City of Los Angeles Department of Recreation and Parks (Rec & Parks), Studio
   City Business Improvement District (BID), Save LA River Open Space (SLAROS),
   Studio City Farmers Market (Market), Studio City Chamber of Commerce
   (Chamber), Los Angeles Homeless Services Authority (LAHSA)
-project_measure: >-
-  The River Project will be able to define specific criteria to measure success
-  including:
-
-
-  Number of invasive species eradicated
-
-  Success of new native plantings
-
-  Reduced ongoing water use and maintenance needs
-
-  Increased knowledge of plantings and maintenance by Rec & Parks staff
-
-  Materials to support future Rec & Parks trainings 
-
-  Increased support for the area by local businesses
-
-  Community acceptance of river-business interface plan
-
-  Number of activated access points
-
-  Number of volunteers engaged
-
-  Improved safety and visibility
-project_proposal_help:
-  - Volunteers
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   We will revitalize and create connections to Studio City’s neglected LA River
   Greenway, helping the River become a vital part of Los Angeles. Local experts
   will provide best practices training to City park maintenance staff and the
@@ -58,27 +28,16 @@ project_description: >-
   civic organizations to create a plan that connects local businesses to the
   revitalized Greenway, enhances bike and pedestrian access, inspires
   stewardship and improves public health and safety.
-project_impact: >-
-  ["Waterways","Local water","Resilient communities","Tree canopy
-  cover","Homelessness","Walk/bike/transit score"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Waterways
   - Local water
   - Resilient communities
   - Tree canopy cover
   - Homelessness
   - Walk/bike/transit score
-project_proposal_description: >-
-  We will revitalize and create connections to Studio City’s neglected LA River
-  Greenway, helping the River become a vital part of Los Angeles. Local experts
-  will provide best practices training to City park maintenance staff and the
-  community for native plant care and invasive plant removal. We will engage
-  civic organizations to create a plan that connects local businesses to the
-  revitalized Greenway, enhances bike and pedestrian access, inspires
-  stewardship and improves public health and safety.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - San Fernando Valley
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The Studio City River Greenway, planted in 2004, was the City’s first LA River
   native landscape project. Unfortunately, the area has suffered for 12 years
   from overwatering and neglect and is overrun with exotic and invasive plant
@@ -137,6 +96,35 @@ project_proposal_best_place: >-
   community members and four landscape architects to develop resilient design
   plans to enhance the river-business interface, enhance public health and
   safety, and improve river access.
+Please explain how you will define and measure success for your project.​: >-
+  The River Project will be able to define specific criteria to measure success
+  including:
+
+
+  Number of invasive species eradicated
+
+  Success of new native plantings
+
+  Reduced ongoing water use and maintenance needs
+
+  Increased knowledge of plantings and maintenance by Rec & Parks staff
+
+  Materials to support future Rec & Parks trainings 
+
+  Increased support for the area by local businesses
+
+  Community acceptance of river-business interface plan
+
+  Number of activated access points
+
+  Number of volunteers engaged
+
+  Improved safety and visibility
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - Volunteers
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/green-our-l-a-river/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3428423065741-team90.jpg
 organization_name: The River Project

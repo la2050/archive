@@ -17,39 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4956546915741-team89.JPG
 project_video: 'https://www.youtube.com/embed/lRjoDtwYF8s?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  KPCC will use both quantitative and qualitative data to measure the success of
-  #MeetSoCal. Quantitatively, we will track the number of event attendees,
-  social media activity generated (for instance, by reviewing live tweet stats),
-  and signups for the Public Insight Network, KPCC newsletters, membership, and
-  volunteering. Qualitatively, we will gather input from event attendees,
-  speakers, and/or performers; any community groups who helped us conduct
-  outreach for the event; and our social media audience to inform our coverage.
-  We will review the amount and quality of any content generated as a result of
-  the event (such as any audio recordings we use on air as part of a news story
-  or show segment). We will also conduct a holistic internal review of each
-  event and of the overall series to assess what went well, what can be
-  improved, and any lessons learned.
-
-
-  By bringing community members together for dialogue, the events will help
-  foster a more robust public conversation about life in LA and increased social
-  support and emotional connection. When suitable, portions of these
-  engagement-driven conversations and events could be used for content on KPCC’s
-  broadcast and digital channels, thus sharing their benefits with even more
-  Angelenos. Ultimately, by helping Angelenos feel closer to their neighbors,
-  communities, and Los Angeles as a whole, we believe that #MeetSoCal can
-  inspire increased civic engagement in the form of greater community
-  involvement, volunteerism, and even voting.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Community outreach
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   #MeetSoCal events will bring KPCC to a variety of venues in LA County
   communities, especially those underserved by public radio. We will gather
   Angelenos to share experiences, ideas, and concerns in formats ranging from
@@ -57,26 +26,14 @@ project_description: >-
   #MeetSoCal will build relationships with new audiences, inform and feed our
   news coverage, connect people with their neighbors and communities, and foster
   conversation about civic and cultural issues in LA.
-project_impact: >-
-  ["Social & emotional support","Cultural events","Public/open streets
-  gatherings","Total number of local social media friends and connections
-  Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Public/open streets gatherings
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  #MeetSoCal events will bring KPCC to a variety of venues in LA County
-  communities, especially those underserved by public radio. We will gather
-  Angelenos to share experiences, ideas, and concerns in formats ranging from
-  panel discussions to artistic performances to listening booths and more.
-  #MeetSoCal will build relationships with new audiences, inform and feed our
-  news coverage, connect people with their neighbors and communities, and foster
-  conversation about civic and cultural issues in LA.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   To quote “Love Poem to Los Angeles” by LA Poet Laureate Luis J. Rodriquez,
   “This is a multi-layered city.” One of the most diverse and dynamic
   metropolitan regions in the world, it is also one of the most geographically
@@ -128,6 +85,36 @@ project_proposal_best_place: >-
   foster greater and more inclusive dialogue within and among them, helping
   Angelenos feel more connected to one another and to the complicated but
   inspiring place we all call home.
+Please explain how you will define and measure success for your project.​: >-
+  KPCC will use both quantitative and qualitative data to measure the success of
+  #MeetSoCal. Quantitatively, we will track the number of event attendees,
+  social media activity generated (for instance, by reviewing live tweet stats),
+  and signups for the Public Insight Network, KPCC newsletters, membership, and
+  volunteering. Qualitatively, we will gather input from event attendees,
+  speakers, and/or performers; any community groups who helped us conduct
+  outreach for the event; and our social media audience to inform our coverage.
+  We will review the amount and quality of any content generated as a result of
+  the event (such as any audio recordings we use on air as part of a news story
+  or show segment). We will also conduct a holistic internal review of each
+  event and of the overall series to assess what went well, what can be
+  improved, and any lessons learned.
+
+
+  By bringing community members together for dialogue, the events will help
+  foster a more robust public conversation about life in LA and increased social
+  support and emotional connection. When suitable, portions of these
+  engagement-driven conversations and events could be used for content on KPCC’s
+  broadcast and digital channels, thus sharing their benefits with even more
+  Angelenos. Ultimately, by helping Angelenos feel closer to their neighbors,
+  communities, and Los Angeles as a whole, we believe that #MeetSoCal can
+  inspire increased civic engagement in the form of greater community
+  involvement, volunteerism, and even voting.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/meetsocal-a-kpcc-in-person-event-series-of-in-community-experiences-to-better-connect-angelenos/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4956546915741-team89.JPG
 organization_name: Southern California Public Radio (KPCC)

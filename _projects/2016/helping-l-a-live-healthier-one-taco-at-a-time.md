@@ -15,47 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1708382065741-team91.jpg
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Dear Mama plans to 1) provide healthy food options to la county residents so
-  they can start to eat healthy and LIVE better lives 2) educate and empower la
-  county residents regarding healthy options and how to LIVE a healthier
-  lifestyle
-
-  We plan on evaluating our work in the following ways:
-
-  - Number of LA County residents participating in our recipe workshops program
-  and  number of youth applicants 
-
-  - Number of recipe workshops we host per month 
-
-  - Number of major city/county events we participate in per month 
-
-  - Number of organizations, companies, businesses, and other entities we
-  collaborate with throughout the year
-
-  - Number of families that benefit from our healthy food 
-
-  - Workshop participants will be surveyed before and after workshops to
-  evaluate effectiveness of workshop
-
-  - One on one interviews with workshop participants regarding effectiveness of
-  workshops
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles
-  - ' etc.)'
-  - Technical infrastructure (computers
-  - ' etc.)'
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Dear Mama will use the 100,000 grant to  mobilize and revolutionize healthy
   food throughout the Los Angeles county. We have a three-part initiative that
   will allow us to impact and improve the health of millions of Angelenos. We
@@ -63,13 +24,7 @@ project_description: >-
   and deliver healthy plant-based food options. Through engagement of classes
   and workshops will be educated and empower families and community members  to
   charge of their eating habits.
-project_impact: >-
-  ["Access to healthy food","Housing affordability","Exposure to air
-  toxins","Self-sufficiency","Obesity","Local water","Resilient
-  communities","Residents receiving coordinated healthcare services","Prevalence
-  of adverse childhood experiences","Homelessness","Mental
-  illness","Walk/bike/transit score"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to healthy food
   - Housing affordability
   - Exposure to air toxins
@@ -82,15 +37,7 @@ project_proposal_impact:
   - Homelessness
   - Mental illness
   - Walk/bike/transit score
-project_proposal_description: >-
-  Dear Mama will use the 100,000 grant to  mobilize and revolutionize healthy
-  food throughout the Los Angeles county. We have a three-part initiative that
-  will allow us to impact and improve the health of millions of Angelenos. We
-  will use our mobile food trucks to travel throughout the Los Angeles county
-  and deliver healthy plant-based food options. Through engagement of classes
-  and workshops will be educated and empower families and community members  to
-  charge of their eating habits.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -103,7 +50,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Dear Mama is focused on expanding access to healthy food the introducing
   affordable fresh plant-based foods to the 90 percent of Los Angeles county
   residents that don't have access to it. By introducing a healthier plant-based
@@ -150,6 +97,44 @@ project_proposal_best_place: >-
   promote healthy eating, self-esteem,  mental health that will create bonding
   between families building stronger families better communities a better Los
   Angeles.
+Please explain how you will define and measure success for your project.​: >-
+  Dear Mama plans to 1) provide healthy food options to la county residents so
+  they can start to eat healthy and LIVE better lives 2) educate and empower la
+  county residents regarding healthy options and how to LIVE a healthier
+  lifestyle
+
+  We plan on evaluating our work in the following ways:
+
+  - Number of LA County residents participating in our recipe workshops program
+  and  number of youth applicants 
+
+  - Number of recipe workshops we host per month 
+
+  - Number of major city/county events we participate in per month 
+
+  - Number of organizations, companies, businesses, and other entities we
+  collaborate with throughout the year
+
+  - Number of families that benefit from our healthy food 
+
+  - Workshop participants will be surveyed before and after workshops to
+  evaluate effectiveness of workshop
+
+  - One on one interviews with workshop participants regarding effectiveness of
+  workshops
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - ' etc.)'
+  - Technical infrastructure (computers
+  - ' etc.)'
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/helping-l-a-live-healthier-one-taco-at-a-time/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1708382065741-team91.jpg
 organization_name: Dear Mama

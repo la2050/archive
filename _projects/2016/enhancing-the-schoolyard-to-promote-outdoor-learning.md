@@ -14,43 +14,10 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2799579455741-team90.jpg
 project_video: 'https://www.youtube.com/embed/TqtNFWeLxeE?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Rockdale Visual and Performing Arts Magnet Elementary School (Rockdale VAPA
   Magnet), Rockdale PTA
-project_measure: >-
-  The success of the project will be measured by the following:
-
-
-  - student involvement and learning
-
-
-  - implementation of the project with students and teachers actively using the
-  outdoor spaces 
-
-
-  - a resultant improvement in student academic achievement and behavior
-
-
-  - long-term research that provides real-time documentation of the process
-
-
-  - integration of technology and outdoor space 
-
-
-  - successful collaboration between Wyota Workshop, Rockdale VAPA Magnet,
-  Rockdale PTA, and LAUSD
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   Our proposal is a school, and community-led project to convert the existing
   schoolyard into a living landscape and to create an outdoor learning
   environment that supports the visual and performing arts, and the school
@@ -58,31 +25,18 @@ project_description: >-
   sculpture, art, and sensory gardens, performances, adventure and water play,
   nature discovery and informal gatherings. Both the project and its outcome are
   envisioned to support learning.
-project_impact: >-
-  ["Proficiency in English and Language Arts and Math","Early
-  education","Students’ perceived sense of safety at and on the way to
-  school","Suspension and expulsion rates","Truancy rates in elementary and
-  middle schools"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Proficiency in English and Language Arts and Math
   - Early education
   - Students’ perceived sense of safety at and on the way to school
   - Suspension and expulsion rates
   - Truancy rates in elementary and middle schools
-project_proposal_description: >-
-  Our proposal is a school, and community-led project to convert the existing
-  schoolyard into a living landscape and to create an outdoor learning
-  environment that supports the visual and performing arts, and the school
-  curriculum. The components include multipurpose areas for open-air classes,
-  sculpture, art, and sensory gardens, performances, adventure and water play,
-  nature discovery and informal gatherings. Both the project and its outcome are
-  envisioned to support learning.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - LAUSD
   - NELA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   There has been an incredible amount of research that has accumulated over the
   last decade on School Greening Projects. It shows that green spaces are more
   conducive to learning, creating and the well-being of students. The Children
@@ -138,6 +92,38 @@ project_proposal_best_place: >-
 
   - formulation of guidelines for other LAUSD schools and PTA’s to implement
   similar projects.
+Please explain how you will define and measure success for your project.​: >-
+  The success of the project will be measured by the following:
+
+
+  - student involvement and learning
+
+
+  - implementation of the project with students and teachers actively using the
+  outdoor spaces 
+
+
+  - a resultant improvement in student academic achievement and behavior
+
+
+  - long-term research that provides real-time documentation of the process
+
+
+  - integration of technology and outdoor space 
+
+
+  - successful collaboration between Wyota Workshop, Rockdale VAPA Magnet,
+  Rockdale PTA, and LAUSD
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/enhancing-the-schoolyard-to-promote-outdoor-learning/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2799579455741-team90.jpg
 organization_name: 'Wyota Workshop, Inc.'

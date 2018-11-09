@@ -15,30 +15,14 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6052198655741-team91.jpeg
 project_video: 'https://www.youtube.com/embed/ozDtyhaXTtI?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Global Action Platform an international university-business alliance to
   advance scalable, sustainable solutions to meet the global challenges of a
   world of ten billion. Its annual Summit is a forum that fosters cross-sector
   perspectives on food, health, and prosperity. It is held in coordination with
   the Global Action Platform, the United Nations and many of the world's top
   leaders in business, government, education and non-profit.
-project_measure: >-
-  A successful project is getting buy-in and participation from the majority of
-  local LA universities.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Please describe your project proposal.: >-
   One of the biggest problems every city faces is an inability to effectively
   collaborate all the local research and effort in a sustainable way. The goal
   of our project is to unify all of the thinkers, doers and research from local
@@ -46,24 +30,13 @@ project_description: >-
   campaigns, research & innovation. The result is a living convergence of local
   effort & research that allows everyone to keep their finger on the pulse of
   local emerging ideas & collaborations.
-project_impact: >-
-  ["College completion","Student education pipeline","Youth unemployment and
-  underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - Student education pipeline
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  One of the biggest problems every city faces is an inability to effectively
-  collaborate all the local research and effort in a sustainable way. The goal
-  of our project is to unify all of the thinkers, doers and research from local
-  universities, orgs and businesses into one hub that surfaces the best ideas,
-  campaigns, research & innovation. The result is a living convergence of local
-  effort & research that allows everyone to keep their finger on the pulse of
-  local emerging ideas & collaborations.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - East LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Our project strikes at the heart of helping LA 'capitalize on its
   concentration of higher education facilities to foster new businesses, advance
   research, and spur innovation.'  #Library is a information sorting engine
@@ -118,6 +91,21 @@ project_proposal_best_place: >-
   people will be given opportunities for better jobs, graduate programs and
   funding, and each will be given the chance to play a role in the advancement
   of local research and innovation in Los Angeles.
+Please explain how you will define and measure success for your project.​: >-
+  A successful project is getting buy-in and participation from the majority of
+  local LA universities.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/sync-thinkers-doers-research-to-hyperdrive-local-solutions-innovation/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6052198655741-team91.jpeg
 organization_name: '#Library'

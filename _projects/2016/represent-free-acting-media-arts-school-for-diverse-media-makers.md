@@ -14,53 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1725312484741-team89.jpg
 project_video: 'https://www.youtube.com/embed/vK-yBYBjdlA?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Represent School of Acting & Media Arts will work to educate diverse, aspiring
-  media makers in the fields of acting, TV, screen & playwriting, & filmmaking &
-  empower them by creating a pipeline for employment in the entertainment
-  industry. Our goal is to place as many diverse individuals as possible in
-  front of and behind the cameras.
-
-
-  With these goals in mind, we will use the following as metrics for evaluating
-  success of the program:
-
-  •Number of applicants
-
-  •Number of students that participate in the program
-
-  •Percentage of students completing each respective course
-
-  •Percentage of intermediate students that go on to the advanced course
-
-  •Number of public attendees at master classes 
-
-  •Number of agents that participate in the End of Year Showcases
-
-  •Percentage of students gaining representation by an agent after the End of
-  Year Showcases
-
-  •Percentage of students who gain agent representation and also earn employment
-  in their respective fields within 6 months to 1 year of program completion
-  (i.e. book acting jobs, sell scripts, etc.)
-
-  •Percentage of students still working in the entertainment industry 3-5 years
-  post program completion
-
-
-  Additionally, we will solicit feedback via surveys and interviews of students,
-  instructors, & partnering agents & firms prior to, during, and post program.
-project_proposal_help:
-  - 'Money '
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Technical infrastructure (computers etc.)
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Represent will create Represent School of Acting & Media Arts – a new LA-based
   arts establishment training aspiring, diverse media makers for employment in
   the entertainment industry free of charge. We will provide professional
@@ -68,24 +23,13 @@ project_description: >-
   Additionally, we will give students opportunities to produce their own
   projects, showcase their talents, and connect them with industry mentors and
   agents to jumpstart their careers.
-project_impact: >-
-  ["Arts establishments","Employment in the creative industries","Minority- and
-  women-owned firms"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Employment in the creative industries
   - Minority- and women-owned firms
-project_proposal_description: >-
-  Represent will create Represent School of Acting & Media Arts – a new LA-based
-  arts establishment training aspiring, diverse media makers for employment in
-  the entertainment industry free of charge. We will provide professional
-  technical training in acting, TV, screen & playwriting, & filmmaking.
-  Additionally, we will give students opportunities to produce their own
-  projects, showcase their talents, and connect them with industry mentors and
-  agents to jumpstart their careers.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Represent School of Acting & Media Arts (RSAMA) will help make LA the best
   place to create by making the city home to the only nonprofit school focused
   on launching the careers of the next generation of diverse actors,
@@ -143,6 +87,50 @@ project_proposal_best_place: >-
   entertainment industry for historically underrepresented groups, RSAMA will
   help grow & diversify one of the largest industries in LA County & help make
   LA the best place to create.
+Please explain how you will define and measure success for your project.​: >-
+  Represent School of Acting & Media Arts will work to educate diverse, aspiring
+  media makers in the fields of acting, TV, screen & playwriting, & filmmaking &
+  empower them by creating a pipeline for employment in the entertainment
+  industry. Our goal is to place as many diverse individuals as possible in
+  front of and behind the cameras.
+
+
+  With these goals in mind, we will use the following as metrics for evaluating
+  success of the program:
+
+  •Number of applicants
+
+  •Number of students that participate in the program
+
+  •Percentage of students completing each respective course
+
+  •Percentage of intermediate students that go on to the advanced course
+
+  •Number of public attendees at master classes 
+
+  •Number of agents that participate in the End of Year Showcases
+
+  •Percentage of students gaining representation by an agent after the End of
+  Year Showcases
+
+  •Percentage of students who gain agent representation and also earn employment
+  in their respective fields within 6 months to 1 year of program completion
+  (i.e. book acting jobs, sell scripts, etc.)
+
+  •Percentage of students still working in the entertainment industry 3-5 years
+  post program completion
+
+
+  Additionally, we will solicit feedback via surveys and interviews of students,
+  instructors, & partnering agents & firms prior to, during, and post program.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/represent-free-acting-media-arts-school-for-diverse-media-makers/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1725312484741-team89.jpg
 organization_name: Represent

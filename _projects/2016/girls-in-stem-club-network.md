@@ -13,9 +13,51 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4330354165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/gLhJdBqKvVA?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: 'Columbia Memorial Space Center, Housing Corporation of America, DIY girls'
-project_measure: >-
+Are any other organizations collaborating on this proposal?: 'Columbia Memorial Space Center, Housing Corporation of America, DIY girls'
+Please describe your project proposal.: >-
+  Our collaboration between Girls Inc. LA, the Columbia Memorial Space Center,
+  DIY Girls, and the Housing Corporation of America will establish a network of
+  Girls in STEM Clubs in under-resourced locations to provide mentor
+  opportunities, skills and tools to be successful in school and life through
+  programs where they live. Each Club will be based in the girls’ own
+  communities, giving them a sense of belonging and pride. With women making up
+  29% of the STEM workforce, the program will set a founda
+Which metrics will your proposal impact?​:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+In what areas of Los Angeles will you be directly working?:
+  - East LA
+  - South LA
+  - Gateway Cities
+  - Antelope Valley
+Describe in greater detail how your proposal will make LA the best place.: >-
+  Our collaborative approach capitalizes on the resources of established
+  girl-centered organizations and STEM-focused organizations to deliver
+  innovative, holistic learning experiences to under-resourced girls in their
+  own neighborhoods - where they live. To access the girls, the program enlists
+  the partnership of a leading, regional low-income housing provider. The heart
+  of the proposed program establishes Girls in STEM Clubs in these locations,
+  which will become platforms to deliver programming that provides rich STEM
+  experiences combined with mentorship opportunities, support, life-skills and
+  empowerment for the girls. The Clubs, which will span many diverse areas of
+  Los Angeles County, will create a regional network of girl-focused learning
+  opportunities, outside of school, able to leverage the resources of each
+  partner organization.
+
+
+  The complexities of today’s world require all people to be equipped with a new
+  set of core knowledge and skills to solve difficult problems, gather and
+  evaluate evidence, and make sense of information they receive from varied
+  print and, increasingly, digital media. The learning and doing of STEM helps
+  develop these skills and prepare students for a workforce where success
+  results not just from what one knows, but what one is able to do with that
+  knowledge. Thus, a strong STEM education is becoming increasingly recognized
+  as a key driver of opportunity, and data show the need for STEM knowledge and
+  skills will grow and continue into the future. Those graduates who have
+  practical and relevant STEM precepts embedded into their educational
+  experiences will be in high demand in all job sectors.
+Please explain how you will define and measure success for your project.​: >-
   Measuring outcomes is critical to having a real and lasting impact on girls.
   By measuring outcomes for our Strong, Smart, and Bold goals we will see the
   changes in each area.
@@ -69,7 +111,7 @@ project_measure: >-
   Ability to bounce back 
 
   Bullying as a victim and as a perpetrator (at school, at
-project_proposal_help:
+How can the LA2050 community and other stakeholders help your proposal succeed?:
   - 'Money '
   - Volunteers
   - Advisors/board members
@@ -79,60 +121,6 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
-project_description: >-
-  Our collaboration between Girls Inc. LA, the Columbia Memorial Space Center,
-  DIY Girls, and the Housing Corporation of America will establish a network of
-  Girls in STEM Clubs in under-resourced locations to provide mentor
-  opportunities, skills and tools to be successful in school and life through
-  programs where they live. Each Club will be based in the girls’ own
-  communities, giving them a sense of belonging and pride. With women making up
-  29% of the STEM workforce, the program will set a founda
-project_impact: >-
-  ["District-wide graduation rates","Proficiency in English and Language Arts
-  and Math","Student education pipeline"]
-project_proposal_impact:
-  - District-wide graduation rates
-  - Proficiency in English and Language Arts and Math
-  - Student education pipeline
-project_proposal_description: >-
-  Our collaboration between Girls Inc. LA, the Columbia Memorial Space Center,
-  DIY Girls, and the Housing Corporation of America will establish a network of
-  Girls in STEM Clubs in under-resourced locations to provide mentor
-  opportunities, skills and tools to be successful in school and life through
-  programs where they live. Each Club will be based in the girls’ own
-  communities, giving them a sense of belonging and pride. With women making up
-  29% of the STEM workforce, the program will set a founda
-project_areas:
-  - East LA
-  - South LA
-  - Gateway Cities
-  - Antelope Valley
-project_proposal_best_place: >-
-  Our collaborative approach capitalizes on the resources of established
-  girl-centered organizations and STEM-focused organizations to deliver
-  innovative, holistic learning experiences to under-resourced girls in their
-  own neighborhoods - where they live. To access the girls, the program enlists
-  the partnership of a leading, regional low-income housing provider. The heart
-  of the proposed program establishes Girls in STEM Clubs in these locations,
-  which will become platforms to deliver programming that provides rich STEM
-  experiences combined with mentorship opportunities, support, life-skills and
-  empowerment for the girls. The Clubs, which will span many diverse areas of
-  Los Angeles County, will create a regional network of girl-focused learning
-  opportunities, outside of school, able to leverage the resources of each
-  partner organization.
-
-
-  The complexities of today’s world require all people to be equipped with a new
-  set of core knowledge and skills to solve difficult problems, gather and
-  evaluate evidence, and make sense of information they receive from varied
-  print and, increasingly, digital media. The learning and doing of STEM helps
-  develop these skills and prepare students for a workforce where success
-  results not just from what one knows, but what one is able to do with that
-  knowledge. Thus, a strong STEM education is becoming increasingly recognized
-  as a key driver of opportunity, and data show the need for STEM knowledge and
-  skills will grow and continue into the future. Those graduates who have
-  practical and relevant STEM precepts embedded into their educational
-  experiences will be in high demand in all job sectors.
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/girls-in-stem-club-network/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4330354165741-team91.jpg
 organization_name: Girls Inc. of Greater Los Angeles

@@ -14,48 +14,27 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7555177065741-team91.png
 project_video: 'https://www.youtube.com/embed/zp24MctE2Xo?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: "Our project success will be measured by systematically tracking and utilizing qualitative and quantitative data on the impact of the Family Empowerment and Mentorship model on both the families and volunteers. Below are our major impact assessment tools and processes that we track in our SalesForce database.\n1.\tWe track the following data for volunteers: \na.\tNumber of volunteers engaged in program and attendance of alumni activities\nb.\tThe recruitment status of where participants are in the process (ie. waitlist, matched, graduated) and overall case progress \nc.\tDemographics for all volunteers (age, race, location, education)\nd.\tHow did volunteers hear about us?\ne.\tSatisfaction Surveys: We administer biannual surveys to volunteer mentors, to better understand what's working as well as opportunities for improvement.\n2.\tWe track the following data for family performance:\na.\tQualitative Data: tracks eight key areas of each family’s life, including: Internal Relationships, Financial Literacy, Adult Education, Youth Education, Health and External Relationships. Each area is scored from “Vulnerable” to “Thriving.” This Performance Measurement Matrix allows staff, mentors, and families to track progress over time. \nb.\tQuantitative Data: tracks Income (earned and entitlement), Adult Education, Youth Grades, Child ASQ Scores, Debt and Savings. This data, along with housing status is also tracked for alumni."
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Imagine LA has built an innovative Family Empowerment and Mentorship model
   that helps families exit homelessness and thrive. Our model creates a safe
   place to connect, engage, and empower people from different ethnic, cultural
   and socioeconomic backgrounds. In order to expand and work with 100 families
   in 2017, we need volunteers.
-project_impact: >-
-  ["Social & emotional support","Rates of volunteerism","Transit-accessible
-  housing and employment (the share of housing units and percentage of jobs that
-  are located within a half-mile of transit)"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Rates of volunteerism
   - >-
     Transit-accessible housing and employment (the share of housing units and
     percentage of jobs that are located within a half-mile of transit)
-project_proposal_description: >-
-  Imagine LA has built an innovative Family Empowerment and Mentorship model
-  that helps families exit homelessness and thrive. Our model creates a safe
-  place to connect, engage, and empower people from different ethnic, cultural
-  and socioeconomic backgrounds. In order to expand and work with 100 families
-  in 2017, we need volunteers.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
   - San Fernando Valley
   - South LA
   - Westside
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   According to polls, the largest issue currently plaguing LA is homelessness.
   Our project answers the question, “How can I personally be involved and help
   solve this issue?”
@@ -100,6 +79,16 @@ project_proposal_best_place: >-
   volunteer mobile app, and savvy staff to execute our communications strategy.
   This will help us achieve our 2017 goal to work with 75-100 families and
   recruit, train and guide 400+ volunteers.
+Please explain how you will define and measure success for your project.​: "Our project success will be measured by systematically tracking and utilizing qualitative and quantitative data on the impact of the Family Empowerment and Mentorship model on both the families and volunteers. Below are our major impact assessment tools and processes that we track in our SalesForce database.\n1.\tWe track the following data for volunteers: \na.\tNumber of volunteers engaged in program and attendance of alumni activities\nb.\tThe recruitment status of where participants are in the process (ie. waitlist, matched, graduated) and overall case progress \nc.\tDemographics for all volunteers (age, race, location, education)\nd.\tHow did volunteers hear about us?\ne.\tSatisfaction Surveys: We administer biannual surveys to volunteer mentors, to better understand what's working as well as opportunities for improvement.\n2.\tWe track the following data for family performance:\na.\tQualitative Data: tracks eight key areas of each family’s life, including: Internal Relationships, Financial Literacy, Adult Education, Youth Education, Health and External Relationships. Each area is scored from “Vulnerable” to “Thriving.” This Performance Measurement Matrix allows staff, mentors, and families to track progress over time. \nb.\tQuantitative Data: tracks Income (earned and entitlement), Adult Education, Youth Grades, Child ASQ Scores, Debt and Savings. This data, along with housing status is also tracked for alumni."
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/volunteer-and-be-a-part-of-the-solution-to-family-homelessness/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7555177065741-team91.png
 organization_name: Imagine LA

@@ -17,59 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9500569955741-team90.jpg
 project_video: 'https://www.youtube.com/embed/WA8wmi8t3ik?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  Through a combination of participant surveys (pre, post, and 6-months out),
-  focus groups, and observations, we are looking at the following to determine
-  success:
-
-
-  •Quality of Program Implementation
-   -To what extent are the phases of the program being implemented as intended?
-   -To what extent is implementation high quality?
-   -Are Big Citizens and Team Leaders reaching their intended objectives?
-
-  •Program Experience
-   -What did Big Citizen participants experience in this program?
-   -What did Team Leaders experience in this program?
-   -What did that experience mean to them?
-
-  •Big Citizen HUB Outcomes
-   -How do Big Citizens and Team Leaders think they are different because of their participation?
-   -Does participation in Big Citizen HUB increase social capital, character development, civic awareness and leadership skills? 
-   -Are changes in these outcomes sustained after the program?
-   -Does number of hours served make a difference in these outcomes?
-
-  Nine key constructs are being assessed: Gratitude, Social Capital, Civic
-  Motivation, Curiosity & Exploration, Civic Awareness, Civic Advocacy,
-  Diversity Attitudes, Civic Leadership, Civic Identity.
-
-
-  In addition, we track:
-
-  * Participant demographics 
-
-  * Participant attendance
-
-  * Hours served
-
-  * Retention percentage
-
-  * Number of service projects completed
-
-  * Number of community partners engaged
-
-  * Satisfaction of community partners
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-  - School/recruitment and CBO partners
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Big Citizen HUB will increase impact, adding 66 Big Citizens to our middle
   school, high school, and college-aged cohorts. In total 236 youth people will
   come together to learn about the diversity of each other, the city, and it’s
@@ -77,27 +26,15 @@ project_description: >-
   Citizens the skills and place to develop and lead service projects, allowing
   them to see that they can have a positive impact on the community, setting the
   stage for future action.
-project_impact: >-
-  ["Social & emotional support","Public transit riders","Rates of
-  volunteerism","Residential segregation","Total number of local social media
-  friends and connections Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Public transit riders
   - Rates of volunteerism
   - Residential segregation
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  Big Citizen HUB will increase impact, adding 66 Big Citizens to our middle
-  school, high school, and college-aged cohorts. In total 236 youth people will
-  come together to learn about the diversity of each other, the city, and it’s
-  issues. Through partnerships with over 50 local nonprofits, we’ll give Big
-  Citizens the skills and place to develop and lead service projects, allowing
-  them to see that they can have a positive impact on the community, setting the
-  stage for future action.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Big Citizen HUB will help make LA the best place to connect by providing
   meaningful civic engagement opportunities for diverse youth all across the
   city.
@@ -162,6 +99,56 @@ project_proposal_best_place: >-
   young leaders with each other, with LA’s critical issues, and with local
   agencies working toward solutions, we will help make LA the best place to
   connect.
+Please explain how you will define and measure success for your project.​: >-
+  Through a combination of participant surveys (pre, post, and 6-months out),
+  focus groups, and observations, we are looking at the following to determine
+  success:
+
+
+  •Quality of Program Implementation
+   -To what extent are the phases of the program being implemented as intended?
+   -To what extent is implementation high quality?
+   -Are Big Citizens and Team Leaders reaching their intended objectives?
+
+  •Program Experience
+   -What did Big Citizen participants experience in this program?
+   -What did Team Leaders experience in this program?
+   -What did that experience mean to them?
+
+  •Big Citizen HUB Outcomes
+   -How do Big Citizens and Team Leaders think they are different because of their participation?
+   -Does participation in Big Citizen HUB increase social capital, character development, civic awareness and leadership skills? 
+   -Are changes in these outcomes sustained after the program?
+   -Does number of hours served make a difference in these outcomes?
+
+  Nine key constructs are being assessed: Gratitude, Social Capital, Civic
+  Motivation, Curiosity & Exploration, Civic Awareness, Civic Advocacy,
+  Diversity Attitudes, Civic Leadership, Civic Identity.
+
+
+  In addition, we track:
+
+  * Participant demographics 
+
+  * Participant attendance
+
+  * Hours served
+
+  * Retention percentage
+
+  * Number of service projects completed
+
+  * Number of community partners engaged
+
+  * Satisfaction of community partners
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
+  - School/recruitment and CBO partners
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/big-citizen-hub-building-a-pipeline-of-social-change-makers-via-leadership-and-community-service/skild-prod.s3.amazonaws.com/myla2050/images/custom540/9500569955741-team90.jpg
 organization_name: Big Citizen HUB

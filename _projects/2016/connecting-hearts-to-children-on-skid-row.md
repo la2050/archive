@@ -14,52 +14,22 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6126977535741-team91.png
 project_video: 'https://www.youtube.com/embed/auo58FNeynU?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: |-
-  Success will be defined as follows:
-  1) The smiles on the faces of the children attending the birthday party
-  2) The joy experienced by the volunteers
-  3) The ability to provide gifts to each each
-  4) Receptiveness from the Homeless Shelters Administration
-  5) Employing an Executive Director
-  Success will be measured by:
-  1) Increased numbers of volunteers 
-  2) Increased services provided  
-  3) Increased viewers on social media
-  4) Increased requests for newsletter
-  5) Increased staffing
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   The number of children in LA experiencing homelessness has increased. Worthy
   of Loves reaches to lift their souls and spirits by celebrating their
   birthdays. We have witnessed the happiness given to hundreds of children and
   their families while attending a Worthy of Love birthday party and are
   compelled to expand the parties to additional locations.
-project_impact: >-
-  ["Social & emotional support","Rates of volunteerism","Total number of local
-  social media friends and connections Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Rates of volunteerism
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  The number of children in LA experiencing homelessness has increased. Worthy
-  of Loves reaches to lift their souls and spirits by celebrating their
-  birthdays. We have witnessed the happiness given to hundreds of children and
-  their families while attending a Worthy of Love birthday party and are
-  compelled to expand the parties to additional locations.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - San Fernando Valley
   - Westside
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The organization of Worthy of Love was an abstract concept at it's beginning
   but has evolved to becoming concrete in implementation. Social and emotional
   support is rooted in community connections. Community programs provide
@@ -78,6 +48,26 @@ project_proposal_best_place: >-
   specific strategy to connecting people, however, it has proven to be a
   constant result after each party given. Some could say that Worthy of Love
   demonstrates Los Angeles as being the 'City of Angels'.
+Please explain how you will define and measure success for your project.​: |-
+  Success will be defined as follows:
+  1) The smiles on the faces of the children attending the birthday party
+  2) The joy experienced by the volunteers
+  3) The ability to provide gifts to each each
+  4) Receptiveness from the Homeless Shelters Administration
+  5) Employing an Executive Director
+  Success will be measured by:
+  1) Increased numbers of volunteers 
+  2) Increased services provided  
+  3) Increased viewers on social media
+  4) Increased requests for newsletter
+  5) Increased staffing
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/connecting-hearts-to-children-on-skid-row/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6126977535741-team91.png
 organization_name: Worthy of Love

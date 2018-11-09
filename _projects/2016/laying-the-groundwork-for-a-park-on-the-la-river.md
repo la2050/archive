@@ -15,56 +15,21 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8056322165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/9rEbX6VgLaA?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: 'Clockshop, California State Parks'
-project_measure: >-
-  The Bowtie Project has long-term and short-term goals. The short-term goal is
-  to bring diverse Angelenos to have a positive, memorable experience on a piece
-  of land they would not otherwise visit. Clockshop gauges the immediate success
-  of this goal through audience tabulations, anecdotal feedback, social media
-  activity, and online engagement. The data is used to inform future event
-  curation. By constantly working to tap new audiences, Clockshop maximizes the
-  number of first-time Bowtie visitors. 
-
-
-  The long-term goal of the Bowtie project is to support CSP’s efforts to create
-  a dynamic public park. New parks tend to spur development and displace local
-  residents; Clockshop and CSP aim to create a park that serves the existing
-  community. The Bowtie Project cultivates stakeholders in the future park,
-  ensuring that the local community will feel ownership in park development.
-  Success will be gauged by various measures: the creating of a “Friends of the
-  Bowtie” group within the next 12 months; organized resistance to property
-  development adjacent the Bowtie; community involvement in the park planning
-  process; and eventually, use of the park by long-time local residents.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Community outreach
-project_description: >-
+Are any other organizations collaborating on this proposal?: 'Clockshop, California State Parks'
+Please describe your project proposal.: >-
   In collaboration with California State Parks, Clockshop will create programs
   and events that bring Angelenos to experience “the Bowtie,” a plot of
   post-industrial land on the LA River. The Bowtie Project transforms
   post-industrial wasteland into a cultural destination, and lays the groundwork
   for creating LA’s largest riverfront park.
-project_impact: >-
-  ["Access to open space and park facilities","Number (and quality) of informal
-  spaces for play","Number of parks with intergenerational play
-  opportunities","Number of residents with easy access to a “vibrant” park"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to open space and park facilities
   - Number (and quality) of informal spaces for play
   - Number of parks with intergenerational play opportunities
   - Number of residents with easy access to a “vibrant” park
-project_proposal_description: >-
-  In collaboration with California State Parks, Clockshop will create programs
-  and events that bring Angelenos to experience “the Bowtie,” a plot of
-  post-industrial land on the LA River. The Bowtie Project transforms
-  post-industrial wasteland into a cultural destination, and lays the groundwork
-  for creating LA’s largest riverfront park.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - East LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The Bowtie Project has attracted thousands of people to the LA River and
   transformed urban wasteland into dynamic public space. This innovative
   partnership between Clockshop and California State Parks addresses 4 of the
@@ -119,6 +84,30 @@ project_proposal_best_place: >-
   Through these programs and others, Clockshop is building a community of
   stakeholders who will ensure that the Bowtie remains in the public trust, as a
   place for all Angelenos to play now and in the future.
+Please explain how you will define and measure success for your project.​: >-
+  The Bowtie Project has long-term and short-term goals. The short-term goal is
+  to bring diverse Angelenos to have a positive, memorable experience on a piece
+  of land they would not otherwise visit. Clockshop gauges the immediate success
+  of this goal through audience tabulations, anecdotal feedback, social media
+  activity, and online engagement. The data is used to inform future event
+  curation. By constantly working to tap new audiences, Clockshop maximizes the
+  number of first-time Bowtie visitors. 
+
+
+  The long-term goal of the Bowtie project is to support CSP’s efforts to create
+  a dynamic public park. New parks tend to spur development and displace local
+  residents; Clockshop and CSP aim to create a park that serves the existing
+  community. The Bowtie Project cultivates stakeholders in the future park,
+  ensuring that the local community will feel ownership in park development.
+  Success will be gauged by various measures: the creating of a “Friends of the
+  Bowtie” group within the next 12 months; organized resistance to property
+  development adjacent the Bowtie; community involvement in the park planning
+  process; and eventually, use of the park by long-time local residents.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/laying-the-groundwork-for-a-park-on-the-la-river/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8056322165741-team91.jpg
 organization_name: Clockshop & California State Parks

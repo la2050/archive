@@ -15,73 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8786812913741-team90.jpg
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: >-
-  None -- no direct collaboration, but we are talking to nearly two dozen area
-  STEM orgs to assess their needs in order to help them obtain the resources
-  they need to thrive.
-project_measure: >-
-  Metrics used to define and measure success include:
-
-
-  Boost in student enrollees year over over (YoY)
-
-
-  Boost in completion / graduation rates YoY
-
-
-  Boost in volunteer signups YoY
-
-
-  Number of area STEM-based organizations signed up
-
-
-  Number of area tech companies signed up
-
-
-  Number of employees pledged to volunteer at organizations
-
-
-  Number of hours served by volunteers
-
-
-  Amount of funds raised by each organization as a result of deeper ties with
-  area companies
-
-
-  Number of hardware devices and software packages delivered to orgs
-
-
-  Number of white papers developed to help organizations improve their internal
-  protocol
-
-
-  Number of white papers developed to help companies better connect with area
-  orgs
-
-
-  Number of events listed on TLC events calendar
-
-
-  Number of volunteer queries based on web properties
-
-
-  Number of opportunities created as an effect of a direct connect between orgs
-  and co's
-
-
-  Online efforts will be measured digitally (Google Analytics, Squarespace,
-  SumoMe, Mailchimp, etc.)
-
-
-  Real-world efforts will be measured via phone calls, emails, surveys, and
-  conversations with companies and the STEM organizations
-project_proposal_help:
-  - 'Money '
-  - Advisors/board members
-  - Publicity/awareness
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   LA-based STEM organizations are strapped for resources; area tech firms need
   any easy path to become more involved with their communities.
    
@@ -90,13 +25,7 @@ project_description: >-
   reflects LA's culture, and to offer resources for both sides to more
   efficiently give and receive manpower, internships, mentorships, scholarships,
   monetary support, hardware, software, and more.
-project_impact: >-
-  ["College completion","College matriculation rates","District-wide graduation
-  rates","Proficiency in English and Language Arts and Math","Early
-  education","Student education pipeline","Suspension and expulsion
-  rates","Truancy rates in elementary and middle schools","Youth unemployment
-  and underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - District-wide graduation rates
@@ -106,16 +35,7 @@ project_proposal_impact:
   - Suspension and expulsion rates
   - Truancy rates in elementary and middle schools
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  LA-based STEM organizations are strapped for resources; area tech firms need
-  any easy path to become more involved with their communities.
-   
-  Tech LA Cares (TLC) aims to build a gateway for the two worlds to connect and
-  create long-term relationships that foster a more diverse workforce that
-  reflects LA's culture, and to offer resources for both sides to more
-  efficiently give and receive manpower, internships, mentorships, scholarships,
-  monetary support, hardware, software, and more.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -125,7 +45,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   TECH LA CARES aims to take what LA is already doing, and make it BETTER.  LA
   is home to over 20 STEM-based organizations, and to hundreds of tech firms of
   all types and sizes.
@@ -188,6 +108,67 @@ project_proposal_best_place: >-
   minority youth, for creating a smarter local workforce, and for creating a
   more DIVERSE workforce that truly reflects the international nature of LA's
   population.
+Please explain how you will define and measure success for your project.​: >-
+  Metrics used to define and measure success include:
+
+
+  Boost in student enrollees year over over (YoY)
+
+
+  Boost in completion / graduation rates YoY
+
+
+  Boost in volunteer signups YoY
+
+
+  Number of area STEM-based organizations signed up
+
+
+  Number of area tech companies signed up
+
+
+  Number of employees pledged to volunteer at organizations
+
+
+  Number of hours served by volunteers
+
+
+  Amount of funds raised by each organization as a result of deeper ties with
+  area companies
+
+
+  Number of hardware devices and software packages delivered to orgs
+
+
+  Number of white papers developed to help organizations improve their internal
+  protocol
+
+
+  Number of white papers developed to help companies better connect with area
+  orgs
+
+
+  Number of events listed on TLC events calendar
+
+
+  Number of volunteer queries based on web properties
+
+
+  Number of opportunities created as an effect of a direct connect between orgs
+  and co's
+
+
+  Online efforts will be measured digitally (Google Analytics, Squarespace,
+  SumoMe, Mailchimp, etc.)
+
+
+  Real-world efforts will be measured via phone calls, emails, surveys, and
+  conversations with companies and the STEM organizations
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Advisors/board members
+  - Publicity/awareness
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/connecting-la-tech-companies-with-area-stem-organizations/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8786812913741-team90.jpg
 organization_name: Tech LA Cares

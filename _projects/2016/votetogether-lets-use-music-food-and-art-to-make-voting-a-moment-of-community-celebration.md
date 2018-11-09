@@ -16,46 +16,22 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1862313165741-team91.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: Columbia University Professor Donald P. Green
-project_measure: >-
-  Following the election, Professor Green will conduct the statistical analysis
-  based on the precinct-level turnout data in our control and treatment sites. 
-  Through his analysis we will learn the impact of the events on voter
-  participation. The report and analysis would also look at down ballot voting
-  and the research would be submitted for Institutional Review Board approval.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: Columbia University Professor Donald P. Green
+Please describe your project proposal.: >-
   We propose using food, music, and art to make voting a community-driven moment
   of celebration, and improve voter participation in Los Angeles.  Building on
   successful research by Columbia Professor Don Green, Civic Nation will expand
   a pilot program we began in 2016. We will engage with community partners in
   Los Angeles to stage events at voting locations and study the results to
   measure the impact on voter participation.
-project_impact: '["Cultural events","Public/open streets gatherings","Voting rates"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Cultural events
   - Public/open streets gatherings
   - Voting rates
-project_proposal_description: >-
-  We propose using food, music, and art to make voting a community-driven moment
-  of celebration, and improve voter participation in Los Angeles.  Building on
-  successful research by Columbia Professor Don Green, Civic Nation will expand
-  a pilot program we began in 2016. We will engage with community partners in
-  Los Angeles to stage events at voting locations and study the results to
-  measure the impact on voter participation.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Voter participation is the cornerstone of America’s democracy. We believe that
   should be celebrated within communities. So we are proposing an expansion of a
   successful pilot program that uses music, food, and art to make voting a
@@ -115,6 +91,21 @@ project_proposal_best_place: >-
   that is community-driven, celebratory, creative, and collaborative. By
   conducting the effort as a random control trial, we will learn more about
   effective strategies to improve voter participation in Los Angeles.
+Please explain how you will define and measure success for your project.​: >-
+  Following the election, Professor Green will conduct the statistical analysis
+  based on the precinct-level turnout data in our control and treatment sites. 
+  Through his analysis we will learn the impact of the events on voter
+  participation. The report and analysis would also look at down ballot voting
+  and the research would be submitted for Institutional Review Board approval.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/votetogether-lets-use-music-food-and-art-to-make-voting-a-moment-of-community-celebration/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1862313165741-team91.jpg
 organization_name: Civic Nation

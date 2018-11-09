@@ -15,48 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2052596015741-team91.jpg
 project_video: 'https://www.youtube.com/embed/2n0ZbTcuqlo?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: none
-project_measure: >-
-  In 2015, Inner-City Arts announced the results of an evaluation of one of our
-  program areas, funded by the U.S. Department of Education. Over the course of
-  the four-years of research, we found consistent and significant gains in
-  English language arts when compared to matched comparison school sites—a 15%
-  average increase among English language learners, and a 10% average increase
-  among the whole school population, as well as a 6.5% average gain in
-  mathematics and 33% increase in creativity. We continue to refine internal
-  evaluations that are reflective of this work. 
-
-
-  Inner-City Arts will internally measure the success of our programs by
-  analyzing enrollment, attendance and retention, as well as data reported by
-  students and teachers in pre- and post-program surveys. Some anticipated
-  outcomes include:
-
-
-  • Participating elementary school students will demonstrate increases in
-  engagement in learning, language development, and creative capacity that
-  includes artistry, curiosity, imagination, innovation and personal expression;
-
-
-  • Middle and high school students will experience increased acquisition of
-  skills, engagement in learning and confidence in their ability to express
-  themselves; and 
-
-
-  • Educators will report knowledge of intentional practices that support
-  creative expression within the classroom environment, increased perception of
-  the value of the arts in learning, and using practices that encourage
-  classroom community.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   By creating a bridge between the studio and the classroom, our unique approach
   to arts education measurably improves academic and personal outcomes for more
   than 6,000 children and teenagers each year, including those students with
@@ -66,13 +26,7 @@ project_description: >-
   Inner-City Arts programs are an investment in the youth of Los Angeles,
   engaging them in the creative process to become creative, confident and
   collaborative individuals.
-project_impact: >-
-  ["College completion","College matriculation rates","District-wide graduation
-  rates","Proficiency in English and Language Arts and Math","Early
-  education","Student education pipeline","Students’ perceived sense of safety
-  at and on the way to school","Truancy rates in elementary and middle
-  schools","Youth unemployment and underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - District-wide graduation rates
@@ -82,20 +36,10 @@ project_proposal_impact:
   - Students’ perceived sense of safety at and on the way to school
   - Truancy rates in elementary and middle schools
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  By creating a bridge between the studio and the classroom, our unique approach
-  to arts education measurably improves academic and personal outcomes for more
-  than 6,000 children and teenagers each year, including those students with
-  limited English proficiency, who are at risk of academic failure. 
-
-
-  Inner-City Arts programs are an investment in the youth of Los Angeles,
-  engaging them in the creative process to become creative, confident and
-  collaborative individuals.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Inner-City Arts will help make Los Angeles the best place to learn by engaging
   young people in the creative process through learner-centered, research-based
   arts instruction. Here, we build students' awareness, belief and confidence in
@@ -155,6 +99,45 @@ project_proposal_best_place: >-
   the end of each of our sessions. Complementing our arts learning programs, our
   Rosenthal Theater holds innovative and diverse performances, engagements which
   nurture and illuminate the creative spirit of the whole community.
+Please explain how you will define and measure success for your project.​: >-
+  In 2015, Inner-City Arts announced the results of an evaluation of one of our
+  program areas, funded by the U.S. Department of Education. Over the course of
+  the four-years of research, we found consistent and significant gains in
+  English language arts when compared to matched comparison school sites—a 15%
+  average increase among English language learners, and a 10% average increase
+  among the whole school population, as well as a 6.5% average gain in
+  mathematics and 33% increase in creativity. We continue to refine internal
+  evaluations that are reflective of this work. 
+
+
+  Inner-City Arts will internally measure the success of our programs by
+  analyzing enrollment, attendance and retention, as well as data reported by
+  students and teachers in pre- and post-program surveys. Some anticipated
+  outcomes include:
+
+
+  • Participating elementary school students will demonstrate increases in
+  engagement in learning, language development, and creative capacity that
+  includes artistry, curiosity, imagination, innovation and personal expression;
+
+
+  • Middle and high school students will experience increased acquisition of
+  skills, engagement in learning and confidence in their ability to express
+  themselves; and 
+
+
+  • Educators will report knowledge of intentional practices that support
+  creative expression within the classroom environment, increased perception of
+  the value of the arts in learning, and using practices that encourage
+  classroom community.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/providing-access-to-the-arts-and-the-endless-possibilities-they-offer/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2052596015741-team91.jpg
 organization_name: Inner-City Arts

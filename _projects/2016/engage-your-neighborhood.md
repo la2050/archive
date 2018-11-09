@@ -13,46 +13,11 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8286144555741-team88.png
 project_video: 'https://www.youtube.com/embed/WCahF7BtB1c?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Venice Neighborhood Council - At the last minute it was determined that the NC
   will have to vote on supporting this. The vote will be on 10/18. I will notify
   you of the outcome, but we have strong sponsors.
-project_measure: >-
-  Number of people engaged with the website – goal is at least as many as voted
-  in NC election in 2016 
-
-
-  Growth rate of the number of people engaged in the web site. – a positive
-  growth rate is success
-
-
-  Number of people returning to the site (repeat engagement) – we monitor this
-  to enact tasks to keep it high
-
-
-  Number of outcomes where there is an innovative solution enacted by the
-  neighborhood with broad agreement. – this is a stretch goal – 1 would be
-  awesome.
-
-
-  Saving time for the neighborhood council (they are all volunteers). – We will
-  poll the NC members and ask them about the time required to support this and
-  the value received. Our goal to provide broader participation without
-  increasing the time required. 
-
-
-  Increased participation in neighborhood council voting over the 2016 election
-  – though the next election is in 2018 and we won’t be able to measure this
-  during the scope of the project.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   Let's empower Angelinos to engage with each other and their Neighborhood
   Councils online to solve their challenges and create their future. We’ll let
   people be heard from the time and place available to them, and collaborate
@@ -60,23 +25,12 @@ project_description: >-
   representative public input, avoid the trolls, and no public speaking
   required!  This project will work closely with one lead NC and make the tools
   and best practices will be available to all in LA.
-project_impact: >-
-  ["Government responsiveness to residents’ needs","Participation in
-  neighborhood councils"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Government responsiveness to residents’ needs
   - Participation in neighborhood councils
-project_proposal_description: >-
-  Let's empower Angelinos to engage with each other and their Neighborhood
-  Councils online to solve their challenges and create their future. We’ll let
-  people be heard from the time and place available to them, and collaborate
-  with each other in an innovative online structure to bring out the most
-  representative public input, avoid the trolls, and no public speaking
-  required!  This project will work closely with one lead NC and make the tools
-  and best practices will be available to all in LA.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Westside
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Neighborhood councils in LA are a bold new experiment but they have challenges
   with engagement both at election time, and in their council participation. 
   Turnout in the 2016 election ranged from 0 to 7.5% participation.  Turnout at
@@ -140,6 +94,40 @@ project_proposal_best_place: >-
   What’s your vision for your neighborhood in 2050?
 
   In 2050 what's your vision for how you connect?
+Please explain how you will define and measure success for your project.​: >-
+  Number of people engaged with the website – goal is at least as many as voted
+  in NC election in 2016 
+
+
+  Growth rate of the number of people engaged in the web site. – a positive
+  growth rate is success
+
+
+  Number of people returning to the site (repeat engagement) – we monitor this
+  to enact tasks to keep it high
+
+
+  Number of outcomes where there is an innovative solution enacted by the
+  neighborhood with broad agreement. – this is a stretch goal – 1 would be
+  awesome.
+
+
+  Saving time for the neighborhood council (they are all volunteers). – We will
+  poll the NC members and ask them about the time required to support this and
+  the value received. Our goal to provide broader participation without
+  increasing the time required. 
+
+
+  Increased participation in neighborhood council voting over the 2016 election
+  – though the next election is in 2018 and we won’t be able to measure this
+  during the scope of the project.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/engage-your-neighborhood/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8286144555741-team88.png
 organization_name: 'Synaccord, LLC'

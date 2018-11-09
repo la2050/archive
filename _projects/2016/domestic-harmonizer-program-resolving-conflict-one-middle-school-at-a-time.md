@@ -15,18 +15,10 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7692902065741-team91.png
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   - California State University, Dominguez Hills (CSUDH), - Andrew Carnegie
   Middle School, - Los Angeles Unified School District (LAUSD)
-project_measure: "There will be an independent evaluation of the program using qualitative and quantitative measures.  \nThe primary data collection methods and procedures include:\n-\tSurveys (a pre-test administered at the beginning of the year followed by a post-test administered at the end of the year)\n-\tInterview administered questionnaires\n-\tOpen-ended interviews\n-\tFocus group discussions\n-\tClassroom observations\n\nSecondary data collection methods and procedures include:\n-\tAnalysis of data collected from documents, reports, and records made available to CSUDH and WPDI such as attendance records, graduation rates, overall schools, administration data\n-\tCase studies conducted by teachers at the school of select youth.  Each teacher implementing the curriculum will select two students to specifically observe over the course of the year, noting any changes or important interactions that were spurred by the curriculum.  These case study notes will be short observational reports done at five times over the course of the year for each student.  The students’ names will not be provided and this will be anonymous data collection."
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   In a community such as Carson, and school district that has seen violence,
   bullying, and behavioral issues among students, the Domestic Harmonizer
   Program is boosting both learning, and promoting the prevention and peaceful
@@ -34,27 +26,15 @@ project_description: >-
   teachers at Andrew Carnegie Middle School are learning tools, skills and
   processes to prevent and resolve conflicts, and to enhance youth leadership
   and academics.
-project_impact: >-
-  ["Proficiency in English and Language Arts and Math","Students’ perceived
-  sense of safety at and on the way to school","Suspension and expulsion
-  rates","Truancy rates in elementary and middle schools"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Proficiency in English and Language Arts and Math
   - Students’ perceived sense of safety at and on the way to school
   - Suspension and expulsion rates
   - Truancy rates in elementary and middle schools
-project_proposal_description: >-
-  In a community such as Carson, and school district that has seen violence,
-  bullying, and behavioral issues among students, the Domestic Harmonizer
-  Program is boosting both learning, and promoting the prevention and peaceful
-  resolution of conflicts on campus between and among students. Students and
-  teachers at Andrew Carnegie Middle School are learning tools, skills and
-  processes to prevent and resolve conflicts, and to enhance youth leadership
-  and academics.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Gateway Cities
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Los Angeles is already at the forefront of a number of social initiatives, and
   our Domestic Harmonizer Program is another example of our city’s immense
   potential to innovate.  At the Whitaker Peace & Development Initiative (WPDI),
@@ -88,6 +68,13 @@ project_proposal_best_place: >-
   August 2016, and will continue until the end of the 2019 academic year. The
   program will impact the entire school (900+ students, 50+ educators) each year
   for the next three years.
+Please explain how you will define and measure success for your project.​: "There will be an independent evaluation of the program using qualitative and quantitative measures.  \nThe primary data collection methods and procedures include:\n-\tSurveys (a pre-test administered at the beginning of the year followed by a post-test administered at the end of the year)\n-\tInterview administered questionnaires\n-\tOpen-ended interviews\n-\tFocus group discussions\n-\tClassroom observations\n\nSecondary data collection methods and procedures include:\n-\tAnalysis of data collected from documents, reports, and records made available to CSUDH and WPDI such as attendance records, graduation rates, overall schools, administration data\n-\tCase studies conducted by teachers at the school of select youth.  Each teacher implementing the curriculum will select two students to specifically observe over the course of the year, noting any changes or important interactions that were spurred by the curriculum.  These case study notes will be short observational reports done at five times over the course of the year for each student.  The students’ names will not be provided and this will be anonymous data collection."
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/domestic-harmonizer-program-resolving-conflict-one-middle-school-at-a-time/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7692902065741-team91.png
 organization_name: Whitaker Peace & Development Initiative (WPDI)

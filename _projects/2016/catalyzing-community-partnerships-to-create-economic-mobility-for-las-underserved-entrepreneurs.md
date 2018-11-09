@@ -17,16 +17,33 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7035677564741-team90.jpg
 project_video: 'https://www.youtube.com/embed/_vusFmjTWcg?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: >-
-  While Opportunity Fund has collaborative relationships with 10 LA-based
-  community organizations formally working with us as Community Partnerships to
-  support small business owners, this application is submitted solely on behalf
-  of OF. The community partners we’ve engaged on this collaborative effort
-  include Pace, Vermont Slauson Economic Development Center, MCS, Lurn, LA-Mas,
-  LA Business Source, AmPac CDC, Asian Pacific Islander Small Business Program
-  and Camino Financial.
-project_measure: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
+  OF is committed to the idea that a small amount of money, combined with
+  meaningful financial advice, can help working people pursue the proven
+  pathways to prosperity in their own lives while driving economic mobility and
+  building stronger communities. Through our Community Partners Program, we
+  combine forces with community-based organizations by providing microloans to
+  their constituents. This collaboration is a means to scale and provide fairer
+  and affordable capital options for our community.
+Which metrics will your proposal impact?​:
+  - Jobs per capita
+  - Minority- and women-owned firms
+In what areas of Los Angeles will you be directly working?:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - Southeast LA
+Describe in greater detail how your proposal will make LA the best place.: "Entrepreneurship provides a path to employment for low-wage workers. While Greater LA features high levels of small business ownership, it lacks sufficient capacity to address the capital needs of these entrepreneurs.\nConventional lenders have tightened their requirements, limiting access by small business owners. And some financing options such as payday loans and merchant cash advances strap high APRs on available financing, doing more harm than good. Access to affordable, appropriate capital is essential for small businesses to survive and thrive.  Almost half of small businesses that fail do so because they cannot get the financing they need to grow.  \n\nOF helps local entrepreneurs gain access to credit, advising, and the means to build a stable enterprise, earn a living wage, and work toward financial independence while creating jobs in their community. Since our launch in 1994, OF has offered an innovative combination of products and services, directing more than $516 million, and thousands of hours of financial training into California's distressed neighborhoods, improving lives in more than 23,000 households. OF provides loans of $2,600 to $100,000 at low, fixed interest rates to low-income entrepreneurs with small capital needs and imperfect credit.\n\nThrough our new Community Partnership Program, OF is creating a network of quality lending partners that collectively have a deeper reach, improve the entrepreneurship ecosystem and have an electronic portal to capture data. OF will create a consistent partner referral channel for microbusiness, thereby increasing new loan volume.  By leveraging OF’s position as an “Affordable and Responsible” lender, and capitalizing on our expert knowledge of alternative financing to educate and train partners about “New School Lending,” we expect to be a best alternative to more LA small business owners. To date, OF has secured MOUs with the following LA-area community partners: AmPac Tri-State CDC; APISBP; LA Mas; LURN; MCS – Harbor City; MCS – Hollywood;PACE and Vermont-Slauson EDC. Together we have originated 200 loans for a total of $2 million invested in the local economy.\n\nOF’s model will create a more vital work force in LA. Each of our loans creates or maintains an average of 2.7 jobs, resulting in a “ripple effect” that generates new revenues, wages, and taxes that flow through the local economy. A recent independent study found that every $1 OF lends generates nearly $2 in new annual economic activity.\n\nOF has helped fill the financing gap by providing microloans to low-income entrepreneurs throughout CA . Our expansion to LA builds on this successful track record, ensuring access to capital for the region’s small businesses. A $100,000 award from LA2050 will help Opportunity Fund work with our community partners to:\n\toriginate 240 microloans to underserved entrepreneurs in LA \n\tinvest $4.8 million  in the LA’s undercapitalized neighborhoods \n\tcreate or retain more than 650 jobs"
+Please explain how you will define and measure success for your project.​: >-
   OF uses a variety of performance indicators to measure the success of our
   microloans and our small business clients. In the short term, we track the
   number of applicants and number, dollar volume, and type of loans originated,
@@ -52,46 +69,12 @@ project_measure: >-
   creation/retention of 2.7 jobs/loan on average, a 20% increase in business
   revenue, a 90% business survival rate, in addition to a “ripple effect” of $2
   in economic activity for every $1 invested.
-project_proposal_help:
+How can the LA2050 community and other stakeholders help your proposal succeed?:
   - 'Money '
   - Advisors/board members
   - 'Staff '
   - Publicity/awareness
   - Network/relationship support
-project_description: >-
-  OF is committed to the idea that a small amount of money, combined with
-  meaningful financial advice, can help working people pursue the proven
-  pathways to prosperity in their own lives while driving economic mobility and
-  building stronger communities. Through our Community Partners Program, we
-  combine forces with community-based organizations by providing microloans to
-  their constituents. This collaboration is a means to scale and provide fairer
-  and affordable capital options for our community.
-project_impact: '["Jobs per capita","Minority- and women-owned firms"]'
-project_proposal_impact:
-  - Jobs per capita
-  - Minority- and women-owned firms
-project_proposal_description: >-
-  OF is committed to the idea that a small amount of money, combined with
-  meaningful financial advice, can help working people pursue the proven
-  pathways to prosperity in their own lives while driving economic mobility and
-  building stronger communities. Through our Community Partners Program, we
-  combine forces with community-based organizations by providing microloans to
-  their constituents. This collaboration is a means to scale and provide fairer
-  and affordable capital options for our community.
-project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Gateway Cities
-  - Antelope Valley
-  - County of Los Angeles
-  - City of Los Angeles
-  - Southeast LA
-project_proposal_best_place: "Entrepreneurship provides a path to employment for low-wage workers. While Greater LA features high levels of small business ownership, it lacks sufficient capacity to address the capital needs of these entrepreneurs.\nConventional lenders have tightened their requirements, limiting access by small business owners. And some financing options such as payday loans and merchant cash advances strap high APRs on available financing, doing more harm than good. Access to affordable, appropriate capital is essential for small businesses to survive and thrive.  Almost half of small businesses that fail do so because they cannot get the financing they need to grow.  \n\nOF helps local entrepreneurs gain access to credit, advising, and the means to build a stable enterprise, earn a living wage, and work toward financial independence while creating jobs in their community. Since our launch in 1994, OF has offered an innovative combination of products and services, directing more than $516 million, and thousands of hours of financial training into California's distressed neighborhoods, improving lives in more than 23,000 households. OF provides loans of $2,600 to $100,000 at low, fixed interest rates to low-income entrepreneurs with small capital needs and imperfect credit.\n\nThrough our new Community Partnership Program, OF is creating a network of quality lending partners that collectively have a deeper reach, improve the entrepreneurship ecosystem and have an electronic portal to capture data. OF will create a consistent partner referral channel for microbusiness, thereby increasing new loan volume.  By leveraging OF’s position as an “Affordable and Responsible” lender, and capitalizing on our expert knowledge of alternative financing to educate and train partners about “New School Lending,” we expect to be a best alternative to more LA small business owners. To date, OF has secured MOUs with the following LA-area community partners: AmPac Tri-State CDC; APISBP; LA Mas; LURN; MCS – Harbor City; MCS – Hollywood;PACE and Vermont-Slauson EDC. Together we have originated 200 loans for a total of $2 million invested in the local economy.\n\nOF’s model will create a more vital work force in LA. Each of our loans creates or maintains an average of 2.7 jobs, resulting in a “ripple effect” that generates new revenues, wages, and taxes that flow through the local economy. A recent independent study found that every $1 OF lends generates nearly $2 in new annual economic activity.\n\nOF has helped fill the financing gap by providing microloans to low-income entrepreneurs throughout CA . Our expansion to LA builds on this successful track record, ensuring access to capital for the region’s small businesses. A $100,000 award from LA2050 will help Opportunity Fund work with our community partners to:\n\toriginate 240 microloans to underserved entrepreneurs in LA \n\tinvest $4.8 million  in the LA’s undercapitalized neighborhoods \n\tcreate or retain more than 650 jobs"
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/catalyzing-community-partnerships-to-create-economic-mobility-for-las-underserved-entrepreneurs/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7035677564741-team90.jpg
 organization_name: Opportunity Fund

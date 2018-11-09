@@ -14,23 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4454572955741-team91.png
 project_video: 'https://www.youtube.com/embed/cVxDjQi1ofo?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None.
-project_measure: >-
-  Our organization will track participation and gather general information about
-  students that includes ethnic background, first-generation status, prior work
-  experience, and interest in pursuing a postsecondary education. In 2015-2016,
-  The Intern Project placed 54 students (70% African American/Hispanic and 30%
-  first-generation) in paid internships with prominent local businesses such as
-  Bad Robot Productions, SpaceX, and Kaiser Permanente. An additional 200
-  students were exposed to careers in high growth fields through various
-  internship, mentorship, and volunteer opportunities, 17 of which received
-  scholarships ranging in value from $5,500 to $10,000.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   The Intern Project is a countywide effort to expose more than 325 African
   American and Hispanic students from predominantly low-income backgrounds to
   mentorships, volunteer opportunities, and paid internships in high growth
@@ -38,27 +23,16 @@ project_description: >-
   care, and design. By supporting our LA2050 campaign, an additional 50 students
   from one of 11 South Los Angeles Promise Zone high schools will participate in
   paid summer internships.
-project_impact: >-
-  ["College matriculation rates","District-wide graduation rates","Student
-  education pipeline","Youth unemployment and underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College matriculation rates
   - District-wide graduation rates
   - Student education pipeline
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  The Intern Project is a countywide effort to expose more than 325 African
-  American and Hispanic students from predominantly low-income backgrounds to
-  mentorships, volunteer opportunities, and paid internships in high growth
-  career fields that include digital media, entertainment, technology, health
-  care, and design. By supporting our LA2050 campaign, an additional 50 students
-  from one of 11 South Los Angeles Promise Zone high schools will participate in
-  paid summer internships.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South LA
   - County of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   According to researchers, work-based learning programs provide many social and
   academic benefits to students such as increasing their interest in college,
   establishing connections between the classroom and real-world, inspiring
@@ -89,6 +63,20 @@ project_proposal_best_place: >-
   etc.). More than 100 students will also be placed in paid internships with
   local businesses in high growth industries such as digital media,
   entertainment, technology, health care, and design.
+Please explain how you will define and measure success for your project.​: >-
+  Our organization will track participation and gather general information about
+  students that includes ethnic background, first-generation status, prior work
+  experience, and interest in pursuing a postsecondary education. In 2015-2016,
+  The Intern Project placed 54 students (70% African American/Hispanic and 30%
+  first-generation) in paid internships with prominent local businesses such as
+  Bad Robot Productions, SpaceX, and Kaiser Permanente. An additional 200
+  students were exposed to careers in high growth fields through various
+  internship, mentorship, and volunteer opportunities, 17 of which received
+  scholarships ranging in value from $5,500 to $10,000.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/the-intern-project-slate-z-expansion/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4454572955741-team91.png
 organization_name: LA Promise Fund

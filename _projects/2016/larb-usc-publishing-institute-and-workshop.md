@@ -14,8 +14,7 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6409369455741-team91.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   USC is our main partner. Providing fellowships are Black Mountain Institute,
   Germanacos Foundation, PEN Center USA, Rosenthal Family Foundation, other
   partners from Institute for the Future of the Book, Electronic Frontier
@@ -23,40 +22,7 @@ project_collaborators: >-
   Books, Melville House, Tsehai Publishers, Heyday Press, Yale UP, Tia Chucha
   Press, Red Hen Press, Unnamed Press, Phoneme Press, Time/Life, Netflix, n+1,
   WW Norton, others.
-project_measure: >-
-  Four basic metrics: (1) filling the 100 available seats in the program by year
-  three, (2) raising the $375,000 to provide full fellowships for half those
-  seats by year three, (3) accomplishing a 100% placement rate for people who go
-  through the program, starting immediately in year one, and (4) monitoring the
-  platforms, start-ups, and projects launched in our incubator as they become
-  successful companies and employers in their own right. Our pilot versions of
-  this program have been successful in placing people in publishing companies
-  across the country and locally, so we already have a track record. And we
-  already have 20 applicants in the pipeline before our first marketing push
-  this year, so we know we can fill at leas half the seats and provide half of
-  them with fellowships the first year.
-
-
-  In time, of course, we hope that LA will replace New York as the publishing
-  capital of the country!
-
-
-  We will also measure our success by the number and breadth of applications we
-  receive. People just graduating with an associate or bachelor degree,
-  postgraduate students and PhDs looking for alternatives to academic careers,
-  mid-career professionals looking to move into a new field or move up in their
-  chosen profession, entrepreneurs looking to learn what they need to know to
-  launch projects successfully, people who have known all their lives they
-  wanted to pursue a publishing career and those who had never realized this
-  path was open to them: we want to serve all.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   Too long the world of publishing has been inaccessible to the majority of
   people in the country. The LARB/USC Publishing Workshop will change that by
   raising funds to provide access to top-flight, innovative, hands-on experience
@@ -64,19 +30,10 @@ project_description: >-
   designed to diversify the pipeline, to recruit people & give them access to
   the tools & to the people they need to know to take their place in & help
   create the publishing industry of the future.
-project_impact: '["College completion","Student education pipeline"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - Student education pipeline
-project_proposal_description: >-
-  Too long the world of publishing has been inaccessible to the majority of
-  people in the country. The LARB/USC Publishing Workshop will change that by
-  raising funds to provide access to top-flight, innovative, hands-on experience
-  & networking for people whatever their background or means. The Workshop is
-  designed to diversify the pipeline, to recruit people & give them access to
-  the tools & to the people they need to know to take their place in & help
-  create the publishing industry of the future.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -89,7 +46,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - Los Angeles's reputation outside LA.
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Los Angeles has never had a program like this, a program that can make the
   publishing world as accessible to LA residents as it has long been to people
   living in New York. The LARB/USC Publishing Workshop will not only benefit
@@ -136,6 +93,39 @@ project_proposal_best_place: >-
   Tramz (Time), Johanna Drucker (UCLA), Guy Bennett (Otis Books), Elias Wondimu
   (Tsehai Publ.), Steve Wasserman (Heyday, Yale UP), publicists, agents, & and
   many others.
+Please explain how you will define and measure success for your project.​: >-
+  Four basic metrics: (1) filling the 100 available seats in the program by year
+  three, (2) raising the $375,000 to provide full fellowships for half those
+  seats by year three, (3) accomplishing a 100% placement rate for people who go
+  through the program, starting immediately in year one, and (4) monitoring the
+  platforms, start-ups, and projects launched in our incubator as they become
+  successful companies and employers in their own right. Our pilot versions of
+  this program have been successful in placing people in publishing companies
+  across the country and locally, so we already have a track record. And we
+  already have 20 applicants in the pipeline before our first marketing push
+  this year, so we know we can fill at leas half the seats and provide half of
+  them with fellowships the first year.
+
+
+  In time, of course, we hope that LA will replace New York as the publishing
+  capital of the country!
+
+
+  We will also measure our success by the number and breadth of applications we
+  receive. People just graduating with an associate or bachelor degree,
+  postgraduate students and PhDs looking for alternatives to academic careers,
+  mid-career professionals looking to move into a new field or move up in their
+  chosen profession, entrepreneurs looking to learn what they need to know to
+  launch projects successfully, people who have known all their lives they
+  wanted to pursue a publishing career and those who had never realized this
+  path was open to them: we want to serve all.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/larb-usc-publishing-institute-and-workshop/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6409369455741-team91.jpg
 organization_name: Los Angeles Review of Books

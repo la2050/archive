@@ -14,59 +14,21 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2500980265741-team91.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Las Fotos Project and Momentum Solutions Team are the core partners. In
   addition, we plan on enlisting the support and skills of photographers across
   Los Angeles.
-project_measure: >-
-  The following are three outcomes to our project. Each will be measured through
-  participant surveys, social reach reviews and summative evaluations of the
-  nonprofit partners. 
-
-
-  Outcome #1: The majority of students involved in the photography project will
-  have reported increased self-awareness and social awareness. These young
-  people (ages 14-18) will have expressed greater ambition and motivation to
-  succeed, specifically in their community in the City of Los Angeles.
-   
-  Outcome #2: Eighty percent of participants in the community photoshoot
-  sessions will feel a desire to be more civic-minded and socially empowered
-  through the telling of their story. 
-   
-  Outcome #3: In the course of the year following the creation of the
-  photography and specific photography shows in LA, the nonprofits that we
-  worked with will see a 20% increase in online engagement through their website
-  and social media sites. This will be measured by google analytics and the
-  increased participation in nonprofit events and volunteer engagement.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   Pictures are a powerful way to convey your mission and communicate your social
   impact. But let’s face it, many nonprofits don’t have flexible funds for great
   photography and marketing. Our project will host photoshoots for 20
   organizations across Greater LA, in order to help them tell their story and
   create visual representations of the life-changing work being done.
-project_impact: >-
-  ["Social & emotional support","Rates of volunteerism","Total number of local
-  social media friends and connections Angelenos have"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Rates of volunteerism
   - Total number of local social media friends and connections Angelenos have
-project_proposal_description: >-
-  Pictures are a powerful way to convey your mission and communicate your social
-  impact. But let’s face it, many nonprofits don’t have flexible funds for great
-  photography and marketing. Our project will host photoshoots for 20
-  organizations across Greater LA, in order to help them tell their story and
-  create visual representations of the life-changing work being done.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -77,7 +39,7 @@ project_areas:
   - Gateway Cities
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Los Angeles is a sprawling urban city. Through past projects and collaborative
   events we have seen the power of the arts bring communities and people
   together. Although LA is one of the most diverse cities in the world, it is
@@ -110,6 +72,34 @@ project_proposal_best_place: >-
   professionals to connect themselves to local nonprofits and volunteer
   opportunities. The students through the photography process will find adult
   allies throughout Los Angeles to help them follow their professional paths.
+Please explain how you will define and measure success for your project.​: >-
+  The following are three outcomes to our project. Each will be measured through
+  participant surveys, social reach reviews and summative evaluations of the
+  nonprofit partners. 
+
+
+  Outcome #1: The majority of students involved in the photography project will
+  have reported increased self-awareness and social awareness. These young
+  people (ages 14-18) will have expressed greater ambition and motivation to
+  succeed, specifically in their community in the City of Los Angeles.
+   
+  Outcome #2: Eighty percent of participants in the community photoshoot
+  sessions will feel a desire to be more civic-minded and socially empowered
+  through the telling of their story. 
+   
+  Outcome #3: In the course of the year following the creation of the
+  photography and specific photography shows in LA, the nonprofits that we
+  worked with will see a 20% increase in online engagement through their website
+  and social media sites. This will be measured by google analytics and the
+  increased participation in nonprofit events and volunteer engagement.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/connecting-communities-through-fotos/skild-prod.s3.amazonaws.com/myla2050/images/custom540/2500980265741-team91.jpg
 organization_name: Las Fotos Project

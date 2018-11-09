@@ -15,34 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4142800165741-team91.png
 project_video: 'https://www.youtube.com/embed/EVn09zI9fe4?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: College Bridge and YMCA of Metropolitan Los Angeles
-project_measure: >-
-  The success of Future Focus will be defined using the following metrics:
-
-
-  1. At least 85% of Future Focus students will correctly submit their college
-  and financial aid applications (compared to 60% now).
-
-  2. At least 85% of Future Focus students will matriculate into a postsecondary
-  degree or credential program (compared to 67% now).
-
-  3. At least 33% of Future Focus students who wish to begin their careers
-  without a postsecondary degree or credential will secure full-time employment
-  after high school (compared to 17% now).
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: College Bridge and YMCA of Metropolitan Los Angeles
+Please describe your project proposal.: >-
   Personalized college and career planning should not be something only
   accessible to the wealthiest Angelenos. In California’s public schools,
   college counselors on average can only spend 38 minutes once a year per
@@ -50,22 +24,11 @@ project_description: >-
   ameliorates this situation by providing group workshops and individual
   mentoring to students and their families to ensure that everyone is given
   equitable support to pursue their dreams beyond high school.
-project_impact: >-
-  ["College matriculation rates","Student education pipeline","Youth
-  unemployment and underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College matriculation rates
   - Student education pipeline
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  Personalized college and career planning should not be something only
-  accessible to the wealthiest Angelenos. In California’s public schools,
-  college counselors on average can only spend 38 minutes once a year per
-  student advising them on this critical process. The Future Focus program
-  ameliorates this situation by providing group workshops and individual
-  mentoring to students and their families to ensure that everyone is given
-  equitable support to pursue their dreams beyond high school.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -78,7 +41,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Future Focus will make LA the best place to LEARN by improving the student
   educational pipeline, increasing college matriculation rates, and decreasing
   the rates of youth unemployment and underemployment.
@@ -129,6 +92,31 @@ project_proposal_best_place: >-
   their resume, and plan for future employment. All of their research and
   experiences are organized in their portfolio assisting them in their
   transition into college or career.
+Please explain how you will define and measure success for your project.​: >-
+  The success of Future Focus will be defined using the following metrics:
+
+
+  1. At least 85% of Future Focus students will correctly submit their college
+  and financial aid applications (compared to 60% now).
+
+  2. At least 85% of Future Focus students will matriculate into a postsecondary
+  degree or credential program (compared to 67% now).
+
+  3. At least 33% of Future Focus students who wish to begin their careers
+  without a postsecondary degree or credential will secure full-time employment
+  after high school (compared to 17% now).
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/future-focus-college-and-career-pathways-for-la-county-students/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4142800165741-team91.png
 organization_name: College Bridge

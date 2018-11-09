@@ -14,43 +14,10 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5836115265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/Miif0LRI6Ls?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Kaos Network, Los Angeles, CA (Leimert Park), Urban Systems Laboratory,
   Torrance, CA
-project_measure: >-
-  The level of success is determined by 1.) community input, 2.) complexity of
-  our final design videos and prototypes, and the 3.) public impact. 
-
-
-  Community Input: The goal of the workshop series is to visualize local
-  residents’ desires and concepts for the future. It is a collaborative process
-  that requires a deep conversation in co-designing future urban-based
-  technologies or urban plans. Our success is determined by our ability to
-  retain volunteer participants and engage them in compelling and creative
-  ways. 
-
-  Design Complexity: The power of design is its ability to say complex things in
-  simple ways. Our final design videos will be short, but need to present a
-  holistic image of everyday life in our urban future. The videos must be able
-  to present urban forms, technological interfaces, and civic activity in a
-  compelling way. Our prototypes and final autonomous car design will also give
-  concrete form to our provocative visions. 
-
-  Public Impact: The final goal of our workshops and our videos is to provoke
-  public conversations. By creating videos, we’re able to present an accessible
-  and naturalistic portrayal of a potential future. These portrayals can be
-  screened and discussed locally, as well as shared online. The amount of
-  widespread discussion or larger community feedback will prove the relevance of
-  our urban model and solutions.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - Community outreach
-project_description: >-
+Please describe your project proposal.: >-
   The advent of new urban-based technologies means that the future form of Los
   Angeles will be unlike anything one can now imagine.  For example, how might
   self-driving vehicles and augmented reality be used to change our relationship
@@ -58,24 +25,13 @@ project_description: >-
   collaborative workshops with artists, students, technical experts, and local
   Leimert Park residents, to create vivid scenarios of the possibilities to
   share with the public and spark debate.
-project_impact: >-
-  ["Arts establishments","Manufacturing activity","Minority- and women-owned
-  firms"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Manufacturing activity
   - Minority- and women-owned firms
-project_proposal_description: >-
-  The advent of new urban-based technologies means that the future form of Los
-  Angeles will be unlike anything one can now imagine.  For example, how might
-  self-driving vehicles and augmented reality be used to change our relationship
-  to the city - to even change the city itself? We will conduct a series of
-  collaborative workshops with artists, students, technical experts, and local
-  Leimert Park residents, to create vivid scenarios of the possibilities to
-  share with the public and spark debate.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The future of LA depends on collaboration. “Sankofa City” proves that large
   research universities, nonprofits, and local communities can work together to
   empower local citizens to imagine alternative urban technologies that work for
@@ -127,6 +83,38 @@ project_proposal_best_place: >-
   to the community, exhibited publicly, and shared online to deepen
   conversations about future alternatives for local innovation and everyday
   technologies.
+Please explain how you will define and measure success for your project.​: >-
+  The level of success is determined by 1.) community input, 2.) complexity of
+  our final design videos and prototypes, and the 3.) public impact. 
+
+
+  Community Input: The goal of the workshop series is to visualize local
+  residents’ desires and concepts for the future. It is a collaborative process
+  that requires a deep conversation in co-designing future urban-based
+  technologies or urban plans. Our success is determined by our ability to
+  retain volunteer participants and engage them in compelling and creative
+  ways. 
+
+  Design Complexity: The power of design is its ability to say complex things in
+  simple ways. Our final design videos will be short, but need to present a
+  holistic image of everyday life in our urban future. The videos must be able
+  to present urban forms, technological interfaces, and civic activity in a
+  compelling way. Our prototypes and final autonomous car design will also give
+  concrete form to our provocative visions. 
+
+  Public Impact: The final goal of our workshops and our videos is to provoke
+  public conversations. By creating videos, we’re able to present an accessible
+  and naturalistic portrayal of a potential future. These portrayals can be
+  screened and discussed locally, as well as shared online. The amount of
+  widespread discussion or larger community feedback will prove the relevance of
+  our urban model and solutions.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - Community outreach
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/sankofa-city/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5836115265741-team91.jpg
 organization_name: Annenberg Innovation Lab

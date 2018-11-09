@@ -17,8 +17,7 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4415249165741-team91.png
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   We are an organization of over 18,000 doctors and medical students in all 50
   states who are dedicated to improving the health of our communities. Our
   campaigns rely on individual members leveraging the health care organizations
@@ -26,52 +25,7 @@ project_collaborators: >-
   impact possible. In Los Angeles, we have active members who work within Kaiser
   Permanente, UCLA, the LA County DHS hospitals and clinics as well as numerous
   other organizations who will collaborate.
-project_measure: >-
-  Here are metrics we will use to evaluate the different campaign components:
-
-
-  1) Physician education
-
-  - number who attend educational seminar/webinar in real time - Goal: >100
-
-  - pre- and post- tests of seminar/webinar to determine impact on knowledge of
-  attendees: Goal: improvement in knowledge
-
-  - number who access the food as health care website and view educational
-  resources - Goal: >1000
-
-  - subjective feedback on quality of resources provided - Goal: majority
-  favorable feedback
-
-
-  2) Community engagement
-
-  - number of health care providers who report screening patients for food
-  insecurity - Goal: >100 in Los Angeles
-
-  - number of patients reported to have been screened by health care providers 
-  - Goal: >2,000 in Los Angeles
-
-  - social media impressions of tweets/facebook posts shared by campaign
-  participants - Goal >10,000
-
-  - number of op eds published on the issue by participants - Goal: 2
-
-  - solicited feedback from community food resources on whether they feel the
-  campaign is effective in referring those in need to access their help - Goal:
-  majority favorable feedback
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles
-  - 'Education/training '
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Please describe your project proposal.: >-
   We will leverage physicians embedded in our community to help identify those
   who do not have reliable access to healthy food, educate patients on the
   importance of healthy eating, and connect people with food resources. Our
@@ -79,11 +33,7 @@ project_description: >-
   physicians and their patients on food insecurity and available food resources
   in our community. We will organize physicians through educational webinars,
   social media campaigns, and grassroots organizing.
-project_impact: >-
-  ["Access to healthy food","Healthcare
-  access","Self-sufficiency","Obesity","Resilient communities","Residents
-  receiving coordinated healthcare services","Homelessness","Mental illness"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to healthy food
   - Healthcare access
   - Self-sufficiency
@@ -92,15 +42,7 @@ project_proposal_impact:
   - Residents receiving coordinated healthcare services
   - Homelessness
   - Mental illness
-project_proposal_description: >-
-  We will leverage physicians embedded in our community to help identify those
-  who do not have reliable access to healthy food, educate patients on the
-  importance of healthy eating, and connect people with food resources. Our
-  project will include development of materials for the use of educating
-  physicians and their patients on food insecurity and available food resources
-  in our community. We will organize physicians through educational webinars,
-  social media campaigns, and grassroots organizing.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -113,7 +55,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Our campaign provides a unique approach to improving reliable access to
   healthy food. We firmly believe that physician-patient interactions provide a
   unique opportunity to identify though who do no have reliable access to
@@ -163,6 +105,51 @@ project_proposal_best_place: >-
   newspapers, blogs and other media sources to raise awareness of this issue.
   This will create community interest in investing further in food resource
   development in the future.
+Please explain how you will define and measure success for your project.​: >-
+  Here are metrics we will use to evaluate the different campaign components:
+
+
+  1) Physician education
+
+  - number who attend educational seminar/webinar in real time - Goal: >100
+
+  - pre- and post- tests of seminar/webinar to determine impact on knowledge of
+  attendees: Goal: improvement in knowledge
+
+  - number who access the food as health care website and view educational
+  resources - Goal: >1000
+
+  - subjective feedback on quality of resources provided - Goal: majority
+  favorable feedback
+
+
+  2) Community engagement
+
+  - number of health care providers who report screening patients for food
+  insecurity - Goal: >100 in Los Angeles
+
+  - number of patients reported to have been screened by health care providers 
+  - Goal: >2,000 in Los Angeles
+
+  - social media impressions of tweets/facebook posts shared by campaign
+  participants - Goal >10,000
+
+  - number of op eds published on the issue by participants - Goal: 2
+
+  - solicited feedback from community food resources on whether they feel the
+  campaign is effective in referring those in need to access their help - Goal:
+  majority favorable feedback
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - 'Education/training '
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/food-as-health-care-a-project-to-engage-doctors-in-providing-reliable-access-to-healthy-food/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4415249165741-team91.png
 organization_name: Doctors for America

@@ -17,45 +17,10 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3278819955741-team89.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Art + Practice Foundation (A+P) is an arts and education private operating
   foundation based in Leimert Park.
-project_measure: >-
-  First Place demonstrates that with the right guidance and support, at the
-  right time, foster youth can defy the odds that are so stacked against them
-  and reach their full potential in school, work, and life. In the coming year,
-  First Place will expand in Los Angeles County by almost 40 percent (from 145
-  to 200 youth), and we expect youth to meet the following positive education
-  and employment outcomes:
-
-  * 70 percent of youth will receive their high school diploma or GED
-  certificate, or will be actively pursuing their high school diploma or
-  equivalent. 
-
-  * 80 percent of eligible youth will successfully enroll in post-secondary
-  education. 
-
-  * 70 percent of youth will obtain employment, and/or realize a wage increase
-  or promotion. 
-
-
-  First Place has a customized performance management database that allows us to
-  collect a variety of quantitative and qualitative data to track the progress
-  of participants across four primary domains: education, employment, housing,
-  and healthy living. Data tracked includes: school attendance, education
-  progress, employment status, income, avoidance of risky behaviors, etc. We
-  also administer outcome surveys when a participant exits the program, and then
-  again at six months and 12 months post-exit.  First Place’s Evaluation and
-  Learning Department analyzes program data in real-time to identify trends
-  among our youth, and effectively improve interventions and program delivery.
-project_proposal_help:
-  - 'Money '
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   First Place provides at-risk foster youth, ages 18 to 24, with intensive
   education and employment support so that they can become self-sufficient.
   First Place will expand our program operations, currently located in
@@ -63,27 +28,16 @@ project_description: >-
   providing outcomes-driven services to more youth in need, First Place can push
   for higher standards through our leadership in the field and change the way
   that youth are treated within the foster care system.
-project_impact: >-
-  ["College matriculation rates","District-wide graduation rates","Student
-  education pipeline","Youth unemployment and underemployment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College matriculation rates
   - District-wide graduation rates
   - Student education pipeline
   - Youth unemployment and underemployment
-project_proposal_description: >-
-  First Place provides at-risk foster youth, ages 18 to 24, with intensive
-  education and employment support so that they can become self-sufficient.
-  First Place will expand our program operations, currently located in
-  Koreatown, and launch a new satellite office within the A+P Campus. By
-  providing outcomes-driven services to more youth in need, First Place can push
-  for higher standards through our leadership in the field and change the way
-  that youth are treated within the foster care system.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - South LA
   - South Bay
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   First Place will help make LA the best place to learn by providing foster
   youth with the skills they need to be college and career ready. The First
   Place program is designed to achieve the following objectives: 1) Youth make
@@ -135,6 +89,40 @@ project_proposal_best_place: >-
   Administration, and Media Arts), all of which offer youth the opportunity to
   receive an industry-recognized certificate and can lead to a living-wage
   career.
+Please explain how you will define and measure success for your project.​: >-
+  First Place demonstrates that with the right guidance and support, at the
+  right time, foster youth can defy the odds that are so stacked against them
+  and reach their full potential in school, work, and life. In the coming year,
+  First Place will expand in Los Angeles County by almost 40 percent (from 145
+  to 200 youth), and we expect youth to meet the following positive education
+  and employment outcomes:
+
+  * 70 percent of youth will receive their high school diploma or GED
+  certificate, or will be actively pursuing their high school diploma or
+  equivalent. 
+
+  * 80 percent of eligible youth will successfully enroll in post-secondary
+  education. 
+
+  * 70 percent of youth will obtain employment, and/or realize a wage increase
+  or promotion. 
+
+
+  First Place has a customized performance management database that allows us to
+  collect a variety of quantitative and qualitative data to track the progress
+  of participants across four primary domains: education, employment, housing,
+  and healthy living. Data tracked includes: school attendance, education
+  progress, employment status, income, avoidance of risky behaviors, etc. We
+  also administer outcome surveys when a participant exits the program, and then
+  again at six months and 12 months post-exit.  First Place’s Evaluation and
+  Learning Department analyzes program data in real-time to identify trends
+  among our youth, and effectively improve interventions and program delivery.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/first-place-providing-at-risk-foster-youth-with-the-skills-they-need-to-be-college-and-career-ready/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3278819955741-team89.jpg
 organization_name: First Place for Youth

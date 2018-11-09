@@ -17,8 +17,7 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8915786065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/bBIXPsWICAQ?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   YPI works with ideas42, the behavioral sciences agency that developed our
   College Choice tool, along with the following LA Unified School District high
   schools: Miguel Contreras Learning Complex, Camino Nuevo, New Village Girls
@@ -26,42 +25,7 @@ project_collaborators: >-
   School, STEM Academy, APEX Academy, and Helen Bernstein High School. YPI also
   partners with UCLA, USC, Cal State Northridge, the Claremont Colleges and UC
   Berkeley to host college field trips.
-project_measure: >-
-  Overall outcomes associated with our project include the following:
-
-  * 1,000 low-income students utilize the College Choice Tool and receive
-  services from YPI College Ambassadors or Advisors (approximately 50% 11th
-  graders and 50% 12th graders)
-
-  * 252 students will enroll in college (LA2050 college matriculation metric) 
-
-
-  Each College Ambassador works with 40 students to ensure they graduate from
-  high school and develop a path for postsecondary success. Metrics used to
-  ensure that the above outcomes are met include the following:
-
-
-  * Each student participates in College Knowledge workshops to understand their
-  post-secondary options;
-
-  * Each student utilizes College Choice Tool technology to explore options that
-  are the best fit for their academic achievement and interests;
-
-  * Each enrolled student develops a post-secondary plan with goals, timeline,
-  and specific steps, ensuring they are on track to enter into their selected
-  post-secondary option after they graduate from high school; and
-
-  * Each student participates in small group and individual advising to complete
-  college and financial aid applications, personal statements, and enrollment
-  paperwork.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Please describe your project proposal.: >-
   Too many low-income students “undermatch” when they apply for college, a
   situation where well-qualified students apply to less competitive or cheaper
   schools. They wind up at a community college, for example, when they could
@@ -69,27 +33,16 @@ project_description: >-
   the best schools based on their GPA, SAT/ACT scores and interests, resulting
   in higher college enrollment and completion rates, while reducing student loan
   debt.
-project_impact: >-
-  ["College completion","College matriculation rates","District-wide graduation
-  rates","Student education pipeline"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - College completion
   - College matriculation rates
   - District-wide graduation rates
   - Student education pipeline
-project_proposal_description: >-
-  Too many low-income students “undermatch” when they apply for college, a
-  situation where well-qualified students apply to less competitive or cheaper
-  schools. They wind up at a community college, for example, when they could
-  have gone to UCLA. YPI’s College Choice Tool technology matches students to
-  the best schools based on their GPA, SAT/ACT scores and interests, resulting
-  in higher college enrollment and completion rates, while reducing student loan
-  debt.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - San Fernando Valley
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   For anyone who has gone through it, you know how stressful and daunting the
   college application process can be. Getting into college takes a lot of time,
   effort and knowledge about just which colleges you should apply to and which
@@ -136,6 +89,41 @@ project_proposal_best_place: >-
   rates. This will ensure lifetime financial stability among LA’s youth, making
   LA not only the best place to LEARN, but the best place to PLAY, CREATE,
   CONNECT, and LIVE – all feasible thanks to the foundation of LEARNING.
+Please explain how you will define and measure success for your project.​: >-
+  Overall outcomes associated with our project include the following:
+
+  * 1,000 low-income students utilize the College Choice Tool and receive
+  services from YPI College Ambassadors or Advisors (approximately 50% 11th
+  graders and 50% 12th graders)
+
+  * 252 students will enroll in college (LA2050 college matriculation metric) 
+
+
+  Each College Ambassador works with 40 students to ensure they graduate from
+  high school and develop a path for postsecondary success. Metrics used to
+  ensure that the above outcomes are met include the following:
+
+
+  * Each student participates in College Knowledge workshops to understand their
+  post-secondary options;
+
+  * Each student utilizes College Choice Tool technology to explore options that
+  are the best fit for their academic achievement and interests;
+
+  * Each enrolled student develops a post-secondary plan with goals, timeline,
+  and specific steps, ensuring they are on track to enter into their selected
+  post-secondary option after they graduate from high school; and
+
+  * Each student participates in small group and individual advising to complete
+  college and financial aid applications, personal statements, and enrollment
+  paperwork.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/undermine-college-undermatching-using-technology-to-select-the-best-college-fit-for-las-students/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8915786065741-team91.jpg
 organization_name: Youth Policy Institute

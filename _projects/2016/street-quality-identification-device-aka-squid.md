@@ -14,38 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1215444855741-team91.png
 project_video: 'https://www.youtube.com/embed/QzMCTIdxpoc?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: California Data Collaborative (CaliforniaDataCollaborative.com)
-project_measure: >-
-  Success in broad terms means empowering the city of LA to evolve from using a
-  subjective index of using letter grades to measure street maintenance to using
-  more robust data and a literal ground truth through imagery for efficient and
-  equitable response.
-
-
-  Establishing a protocol for longitudinal data collection could also unlock a
-  new paradigm of preventive street maintenance in the future
-
-
-  More concretely though, success can be first measured at the data collection
-  phase in achieving near complete street-image coverage of LA's entire street
-  grid. Beyond this, the prioritization of street maintenance using SQUID data
-  could lead to significant cost-savings, over time and can be measured.
-
-
-  Taken to its logical conclusion, another vector of success is aiming to
-  integrate various operational silos around street-level imagery and mobile
-  data collection i.e. cleanliness assessments, asset management, pavement
-  maintenance and even air quality (* if SQUID is fitted with an air quality
-  sensor). We are careful though not to over-promise and under-deliver.
-project_proposal_help:
-  - 'Money '
-  - Advisors/board members
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Network/relationship support
-  - championing digital street inspections
-project_description: >-
+Are any other organizations collaborating on this proposal?: California Data Collaborative (CaliforniaDataCollaborative.com)
+Please describe your project proposal.: >-
   SQUID is a low-cost device that uses open hardware to collect images and ride
   quality data across the entire city street grid to enable and empower the city
   or county of LA to offer efficient and equitable response around street
@@ -56,30 +26,16 @@ project_description: >-
   cloud data storage and computation to empower street level bureaucrats to
   augment existing street response tactics towards equitable and efficient
   outcomes.
-project_impact: >-
-  ["Government responsiveness to residents’ needs","Travel time to work","Public
-  transit riders"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Government responsiveness to residents’ needs
   - Travel time to work
   - Public transit riders
-project_proposal_description: >-
-  SQUID is a low-cost device that uses open hardware to collect images and ride
-  quality data across the entire city street grid to enable and empower the city
-  or county of LA to offer efficient and equitable response around street
-  maintenance.
-
-
-  SQUID combines the thoughtful deployment of  low-cost sensors and  inexpensive
-  cloud data storage and computation to empower street level bureaucrats to
-  augment existing street response tactics towards equitable and efficient
-  outcomes.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   It is said that street maintenance is the most visible indicator of local
   government performance. LA's street network contains over 6,500 center lane
   miles of streets which makes maintenance a daunting task. LA has already begun
@@ -143,6 +99,35 @@ project_proposal_best_place: >-
   While focussing on street quality, SQUID can be repurposed to inspect other
   facets of the urban environment and integrate several operational silos around
   street imagery.
+Please explain how you will define and measure success for your project.​: >-
+  Success in broad terms means empowering the city of LA to evolve from using a
+  subjective index of using letter grades to measure street maintenance to using
+  more robust data and a literal ground truth through imagery for efficient and
+  equitable response.
+
+
+  Establishing a protocol for longitudinal data collection could also unlock a
+  new paradigm of preventive street maintenance in the future
+
+
+  More concretely though, success can be first measured at the data collection
+  phase in achieving near complete street-image coverage of LA's entire street
+  grid. Beyond this, the prioritization of street maintenance using SQUID data
+  could lead to significant cost-savings, over time and can be measured.
+
+
+  Taken to its logical conclusion, another vector of success is aiming to
+  integrate various operational silos around street-level imagery and mobile
+  data collection i.e. cleanliness assessments, asset management, pavement
+  maintenance and even air quality (* if SQUID is fitted with an air quality
+  sensor). We are careful though not to over-promise and under-deliver.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Network/relationship support
+  - championing digital street inspections
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/street-quality-identification-device-aka-squid/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1215444855741-team91.png
 organization_name: ARGO Labs

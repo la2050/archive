@@ -17,22 +17,11 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7904799065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/WWAqDf9vNEg?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Child Care Alliance of LA, LAUSD Early Childhood Education Division, Westside
   Directors Group, Los Angeles Area Preschools Consortium, National Association
   of the Education of the Young Child (NAEYC)
-project_measure: "PEL aims to 1) reach 20,000 families, in at least 15 zip codes, within the next 12 months and 2) increase parent confidence, understanding, accessibility and satisfaction with their early childhood school choices. \n\nWe will use Google Analytics and tracking to gather data on our reach, and adjust our marketing and dissemination of materials accordingly throughout the year. We will also survey our users (before and after using the Mini-Courses) to gather the following quantitative and qualitative closed and open-ended data:\n\n-Number of families participating in the programs (viewing the Mini-Courses)\n-Increase in families discovery of new early childhood programs and schools \n-Increase in student success in chosen school or program\n-Increase in parental confidence with educational decisions and placement\n-Understanding factors that improved parental confidence\n-Families’ satisfaction with the content of the Mini-Courses, including ease of accessibility\n-Families' satisfaction with enrolled school\n-Collaborator satisfaction with the final Mini-Courses\n-Percent of families that seek additional resources and education about their school choices\n\t\t\t\t\t\nIn addition, we will gather feedback through small focus groups and one-on-one follow up."
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Please describe your project proposal.: >-
   LA families struggle to access comprehensive, objective information on  school
   choices.
 
@@ -43,24 +32,12 @@ project_description: >-
   Education” to educate families on the importance and purpose of early
   childhood education AND the methodology and criteria to find the best fitting
   early childhood environments.
-project_impact: '["Early education","Student education pipeline"]'
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Early education
   - Student education pipeline
-project_proposal_description: >-
-  LA families struggle to access comprehensive, objective information on  school
-  choices.
-
-
-  With the support of LA2050, and in collaboration with leading childhood
-  experts and area preschools, PEL will create a series of accessible, dynamic,
-  purposeful and content-rich “Public Service Mini-Courses on Early Childhood
-  Education” to educate families on the importance and purpose of early
-  childhood education AND the methodology and criteria to find the best fitting
-  early childhood environments.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   While, fortunately, there are many educational options (private, public,
   magnet, charter, etc.) in Los Angeles, families struggle to find the best
   fitting schools. Navigating these choices is well-known to be confusing,
@@ -115,6 +92,16 @@ project_proposal_best_place: >-
   kids thrive, and schools have increased buy-in and participation from their
   families WHEN children begin their education in the BEST fitting school
   environments.
+Please explain how you will define and measure success for your project.​: "PEL aims to 1) reach 20,000 families, in at least 15 zip codes, within the next 12 months and 2) increase parent confidence, understanding, accessibility and satisfaction with their early childhood school choices. \n\nWe will use Google Analytics and tracking to gather data on our reach, and adjust our marketing and dissemination of materials accordingly throughout the year. We will also survey our users (before and after using the Mini-Courses) to gather the following quantitative and qualitative closed and open-ended data:\n\n-Number of families participating in the programs (viewing the Mini-Courses)\n-Increase in families discovery of new early childhood programs and schools \n-Increase in student success in chosen school or program\n-Increase in parental confidence with educational decisions and placement\n-Understanding factors that improved parental confidence\n-Families’ satisfaction with the content of the Mini-Courses, including ease of accessibility\n-Families' satisfaction with enrolled school\n-Collaborator satisfaction with the final Mini-Courses\n-Percent of families that seek additional resources and education about their school choices\n\t\t\t\t\t\nIn addition, we will gather feedback through small focus groups and one-on-one follow up."
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/early-childhood-education-options-using-public-service-mini-courses-to-educate-and-empower-families/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7904799065741-team91.jpg
 organization_name: Parents Education League

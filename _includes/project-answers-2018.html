@@ -4,34 +4,25 @@
 <h2 class="answers-header"><abbr title="Questions and Answers">Q &amp; A</abbr></h2>
 -->
 
-{% if page.project_is_collaboration != "No" and page.project_collaborators.size > 0 %}
+{% if page["Are any other organizations collaborating on this proposal?"] and page["Are any other organizations collaborating on this proposal?"] != "" %}
 <h3>Are any other organizations collaborating on this proposal?</h3>
-
-{% for collaborator in page.project_collaborators %}
-<p>{{ collaborator }}</p>
-{% endfor %}
-
+{{ page["Are any other organizations collaborating on this proposal?"] }}
 {% endif %}
 
 <h3>Please describe the activation your organization seeks to launch.</h3>
-{{ page.project_proposal_description | markdownify }}
-
-{% assign category_metrics = page.category_metrics %}
-{% unless category_metrics %}
-{% assign category_metrics = page.project_proposal_impact %}
-{% endunless %}
+{{ page["Please describe the activation your organization seeks to launch."] | markdownify }}
 
 <h3>Which of the <span style="text-transform: uppercase;">{{ page.category }}</span> metrics will your activation impact?​</h3>
 <ul>
-  {% for metric in category_metrics %}
+  {% for metric in page["Which metrics will your activation impact?​"] %}
   <li>{{ metric }}</li>
   {% endfor %}
 </ul>
 
-{% if page.category_other %}
+{% if page["Will your proposal impact any other LA2050 goal categories?"] %}
 <h3>Will your proposal impact any other LA2050 goal categories?</h3>
 <ul>
-  {% for metric in page.category_other %}
+  {% for metric in page["Will your proposal impact any other LA2050 goal categories?"] %}
   <li>{{ metric }}</li>
   {% endfor %}
 </ul>
@@ -39,7 +30,7 @@
 
 <h3>In what areas of Los Angeles will you be directly working?</h3>
 <ul>
-  {% for area in page.project_areas %}
+  {% for area in page["In what areas of Los Angeles will you be directly working?"] %}
   <li>
     {{
       area
@@ -51,10 +42,10 @@
   {% endfor %}
 </ul>
 
-{% if page.project_proposal_mobilize %}
+{% if page["How will your activation mobilize Angelenos?"] %}
 <h3>How will your activation mobilize Angelenos?</h3>
 <ul>
-  {% for item in page.project_proposal_mobilize %}
+  {% for item in page["How will your activation mobilize Angelenos?"] %}
   <li>
     {{
       item
@@ -71,25 +62,25 @@
 {% endif %}
 
 <h3>Describe in greater detail how your activation will make LA the best place to <span style="text-transform: uppercase;">{{ page.category }}</span>? </h3>
-{{ page.project_proposal_best_place | markdownify }}
+{{ page["Describe in greater detail how your activation will make LA the best place?"] | markdownify }}
 
-{% if page.project_proposal_engage %}
+{% if page["How will your activation engage Angelenos to make LA the best place?"] %}
 <h3>How will your activation engage Angelenos to make LA the best place to <span style="text-transform: uppercase;">{{ page.category }}</span></h3>
-{{ page.project_proposal_engage | markdownify }}
+{{ page["How will your activation engage Angelenos to make LA the best place?"] | markdownify }}
 {% endif %}
 
 <h3>Please explain how you will define and measure success for your activation.​</h3>
-{{ page.project_measure | markdownify }}
+{{ page["Please explain how you will define and measure success for your activation.​"] | markdownify }}
 
-{% if page.project_five_years %}
+{% if page["Where do you hope this activation or your organization will be in five years?"] %}
 <h3>Where do you hope this activation or your organization will be in five years?</h3>
-{{ page.project_five_years | markdownify }}
+{{ page["Where do you hope this activation or your organization will be in five years?"] | markdownify }}
 {% endif %}
 
 {% if page.project_proposal_help %}
 <h3>How can the LA2050 community and other stakeholders help your proposal succeed?</h3>
 <ul>
-  {% for help in page.project_proposal_help %}
+  {% for help in page["How can the LA2050 community and other stakeholders help your proposal succeed?"] %}
   <li>{{ help }}</li>
   {% endfor %}
 </ul>

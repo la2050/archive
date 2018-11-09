@@ -14,40 +14,15 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4102217015741-team90.jpg
 project_video: 'https://www.youtube.com/embed/JVvCvAmzsCA?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: Los Angeles Mayor's Office of Economic Development
-project_measure: >-
-  Our success will be determined by evaluating entrance and exit interviews for
-  each participant. Also, confidential feedback surveys will be handed out after
-  each entrepreneur training workshop to evaluate workshop material, speaker and
-  instructor. In addition, our program evaluation includes setting goals for all
-  the metrics we are proposing to effect and tracking the outcomes for each post
-  program.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: Los Angeles Mayor's Office of Economic Development
+Please describe your project proposal.: >-
   The project begins with a world-class youth entrepreneur training program
   encompassing activity-based leadership, marketing, financial, career
   development workshops and youth mentoring. The second part of the project
   places these highly trained youth at minority and women-owned small businesses
   applying what they learned by giving creative, innovative and technology-based
   business support: marketing, website, social media, and bookkeeping, etc.
-project_impact: >-
-  ["Employment in the creative industries","Gini coefficient","Jobs per
-  capita","Measures of cultural and global economic influence (“soft
-  power”)","Minority- and women-owned firms","High growth startups","Recruiting
-  and retention rates for local higher education institutions"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Employment in the creative industries
   - Gini coefficient
   - Jobs per capita
@@ -55,21 +30,14 @@ project_proposal_impact:
   - Minority- and women-owned firms
   - High growth startups
   - Recruiting and retention rates for local higher education institutions
-project_proposal_description: >-
-  The project begins with a world-class youth entrepreneur training program
-  encompassing activity-based leadership, marketing, financial, career
-  development workshops and youth mentoring. The second part of the project
-  places these highly trained youth at minority and women-owned small businesses
-  applying what they learned by giving creative, innovative and technology-based
-  business support: marketing, website, social media, and bookkeeping, etc.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Fernando Valley
   - South LA
   - County of Los Angeles
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The training of youth entrepreneurs and exposing them to the city resources
   will be a long term asset to the economic development of Los Angeles. This may
   be particularly true for youth entrepreneurs that come from low and moderate
@@ -121,6 +89,25 @@ project_proposal_best_place: >-
   respect - full of untapped potential. The HeArt of LA will help unleash this
   potential by connecting youth to resources and programs will create long-term
   Angeleno entrepreneurs in our great city.
+Please explain how you will define and measure success for your project.​: >-
+  Our success will be determined by evaluating entrance and exit interviews for
+  each participant. Also, confidential feedback surveys will be handed out after
+  each entrepreneur training workshop to evaluate workshop material, speaker and
+  instructor. In addition, our program evaluation includes setting goals for all
+  the metrics we are proposing to effect and tracking the outcomes for each post
+  program.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/young-creative-entrepreneurs-and-small-business-internship-program/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4102217015741-team90.jpg
 organization_name: ICON CDC

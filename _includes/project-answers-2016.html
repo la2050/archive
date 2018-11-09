@@ -4,34 +4,29 @@
 <h2 class="answers-header"><abbr title="Questions and Answers">Q &amp; A</abbr></h2>
 -->
 
-{% if page.project_is_collaboration != "No" and page.project_collaborators.size > 0 %}
+{% if page["Are any other organizations collaborating on this proposal?"].size > 0 %}
 <h3>Are any other organizations collaborating on this proposal?</h3>
 
-{% for collaborator in page.project_collaborators %}
+{% for collaborator in page["Are any other organizations collaborating on this proposal?"] %}
 <p>{{ collaborator }}</p>
 {% endfor %}
 
 {% endif %}
 
 <h3>Please describe your project proposal.</h3>
-{{ page.project_proposal_description | markdownify }}
-
-{% assign category_metrics = page.category_metrics %}
-{% unless category_metrics %}
-{% assign category_metrics = page.project_proposal_impact %}
-{% endunless %}
+{{ page["Please describe your project proposal."] | markdownify }}
 
 <h3>Which of the <span style="text-transform: uppercase;">{{ page.category }}</span> metrics will your proposal impact?​</h3>
 <ul>
-  {% for metric in category_metrics %}
+  {% for metric in page["Which metrics will your proposal impact?​"] %}
   <li>{{ metric }}</li>
   {% endfor %}
 </ul>
 
-{% if page.category_other %}
+{% if page["Will your proposal impact any other LA2050 goal categories?"] %}
 <h3>Will your proposal impact any other LA2050 goal categories?</h3>
 <ul>
-  {% for metric in page.category_other %}
+  {% for metric in page["Will your proposal impact any other LA2050 goal categories?"] %}
   <li>{{ metric }}</li>
   {% endfor %}
 </ul>
@@ -39,7 +34,7 @@
 
 <h3>In what areas of Los Angeles will you be directly working?</h3>
 <ul>
-  {% for area in page.project_areas %}
+  {% for area in page["In what areas of Los Angeles will you be directly working?"] %}
   <li>
     {{
       area
@@ -52,15 +47,15 @@
 </ul>
 
 <h3>Describe in greater detail how your proposal will make LA the best place to <span style="text-transform: uppercase;">{{ page.category }}</span>? </h3>
-{{ page.project_proposal_best_place | markdownify }}
+{{ page["Describe in greater detail how your proposal will make LA the best place."] | markdownify }}
 
 <h3>Please explain how you will define and measure success for your project.​</h3>
-{{ page.project_measure | markdownify }}
+{{ page["Please explain how you will define and measure success for your project.​"] | markdownify }}
 
-{% if page.project_proposal_help %}
+{% if page["How can the LA2050 community and other stakeholders help your proposal succeed?"] %}
 <h3>How can the LA2050 community and other stakeholders help your proposal succeed?</h3>
 <ul>
-  {% for help in page.project_proposal_help %}
+  {% for help in page["How can the LA2050 community and other stakeholders help your proposal succeed?"] %}
   <li>{{ help }}</li>
   {% endfor %}
 </ul>

@@ -15,21 +15,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0952754165741-team91.jpg
 project_video: ''
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  Success for expanded services in our Employment Services program will be
-  measured by various means.  We will count the number of new participants
-  enrolled, the rate of success on GED examinations, the number of online
-  certifications obtained, the number of participants hired, and by test results
-  for computer literacy education services.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - Technical infrastructure (computers etc.)
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Safe Refuge seeks to expand our Employment Services Program, which provides
   access to resume writing services, job readiness training, and job search
   opportunities.  Safe Refuge is proposing to expand services to include online
@@ -37,23 +24,12 @@ project_description: >-
   computer literacy education for various vulnerable communities, including the
   formerly incarcerated and homeless adults.  Funds will be used to purchase
   software, equipment, and to train staff.
-project_impact: >-
-  ["Jobs per capita","Unemployment (and opportunities) for the formerly
-  incarcerated"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Jobs per capita
   - Unemployment (and opportunities) for the formerly incarcerated
-project_proposal_description: >-
-  Safe Refuge seeks to expand our Employment Services Program, which provides
-  access to resume writing services, job readiness training, and job search
-  opportunities.  Safe Refuge is proposing to expand services to include online
-  GED preparation/fees, online training opportunities with certifications, and
-  computer literacy education for various vulnerable communities, including the
-  formerly incarcerated and homeless adults.  Funds will be used to purchase
-  software, equipment, and to train staff.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South Bay
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Safe Refuge is seeking funds to expand our current Employment Services
   program.  Through this program, community members are able to access on-site
   job placement and job training services for low-income and disadvantaged
@@ -70,6 +46,18 @@ project_proposal_best_place: >-
   per capita and Unemployment rates and opportunities for the formerly
   incarcerated, although the project would benefits multiple vulnerable
   populations.
+Please explain how you will define and measure success for your project.​: >-
+  Success for expanded services in our Employment Services program will be
+  measured by various means.  We will count the number of new participants
+  enrolled, the rate of success on GED examinations, the number of online
+  certifications obtained, the number of participants hired, and by test results
+  for computer literacy education services.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - Technical infrastructure (computers etc.)
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/expanding-economic-empowerment-at-safe-refuge/skild-prod.s3.amazonaws.com/myla2050/images/custom540/0952754165741-team91.jpg
 organization_name: Safe Refuge

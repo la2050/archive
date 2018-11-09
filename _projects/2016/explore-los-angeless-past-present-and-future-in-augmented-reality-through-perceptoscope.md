@@ -17,83 +17,25 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1517216783741-team89.jpeg
 project_video: 'https://www.youtube.com/embed/GCBLHUIW9FI?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: >-
-  Though not an explicit collaborator, I'm part of the upcoming class of Arts
-  For LA's Cultural Policy Fellows in their 2016-2017 ACTIVATE program., , We're
-  also are in talks with many other organizations and cultural institutions
-  around the city that we'll be announcing as the project scales and things
-  become more official.
-project_measure: >-
-  Success for the project is measured more in trajectories than the achievement
-  of fixed goals. Our hybrid nature gives us a unique set of tools to help us
-  improve and learn.
-
-
-  As a hardware technology project, we're always looking to better our
-  technology to make it more engaging and intuitive to use.  We typically look
-  towards design thinking practices as a means to this end, such as cycles of
-  prototyping and playtesting. 
-
-
-  As a creative placemaking project, we hope to use techniques like pedestrian
-  counts and foot traffic studies to measure our impact on a location in hard
-  data. By understanding how a Perceptoscope is placed in a space, we can not
-  only optimize how people come to discover it but also take advantage of the
-  way it might draw people to an otherwise empty spot.
-
-
-  As a media project, we measure our impact in impressions. How many people were
-  we able to impact in an given amount of time deployed at that location?. How
-  effectively did we convey the story we were trying to tell? Did we represent
-  the perspectives of that space broadly?
-
-
-  Our ultimate goal for the project is to achieve sustainability and feed back
-  revenue generated from the project into more units and deployments. The idea
-  is to create a feedback loop between communities and the project that deepens
-  our roots and broadens our footprint.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Perceptoscope, an interactive public arts initiative, will temporarily deploy
   augmented reality pedestal viewers at strategic locations around the city
   taking into account the context, communities and histories of the spaces in
   which they're dropped. We will work with local organizations towards permanent
   deployments, and along the way document our process of design and public
   deployment through online video.
-project_impact: >-
-  ["Access to open space and park facilities","Number (and quality) of informal
-  spaces for play","Number of parks with intergenerational play
-  opportunities","Number of residents with easy access to a “vibrant” park"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Access to open space and park facilities
   - Number (and quality) of informal spaces for play
   - Number of parks with intergenerational play opportunities
   - Number of residents with easy access to a “vibrant” park
-project_proposal_description: >-
-  Perceptoscope, an interactive public arts initiative, will temporarily deploy
-  augmented reality pedestal viewers at strategic locations around the city
-  taking into account the context, communities and histories of the spaces in
-  which they're dropped. We will work with local organizations towards permanent
-  deployments, and along the way document our process of design and public
-  deployment through online video.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - County of Los Angeles
   - City of Los Angeles
   - There is global interest. We want to pilot in LA.
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Perceptoscope is about encouraging the act of discovery around a place. The
   shape of our viewers in particular has an immense magnetism for children and
   the curious. By adding this new surprise to something familiar, people will
@@ -130,6 +72,47 @@ project_proposal_best_place: >-
   We hope that deployments can be long lasting, and that each deployment's
   experiences will be dynamic and novel to encourage the revisitation of a space
   for years to come.
+Please explain how you will define and measure success for your project.​: >-
+  Success for the project is measured more in trajectories than the achievement
+  of fixed goals. Our hybrid nature gives us a unique set of tools to help us
+  improve and learn.
+
+
+  As a hardware technology project, we're always looking to better our
+  technology to make it more engaging and intuitive to use.  We typically look
+  towards design thinking practices as a means to this end, such as cycles of
+  prototyping and playtesting. 
+
+
+  As a creative placemaking project, we hope to use techniques like pedestrian
+  counts and foot traffic studies to measure our impact on a location in hard
+  data. By understanding how a Perceptoscope is placed in a space, we can not
+  only optimize how people come to discover it but also take advantage of the
+  way it might draw people to an otherwise empty spot.
+
+
+  As a media project, we measure our impact in impressions. How many people were
+  we able to impact in an given amount of time deployed at that location?. How
+  effectively did we convey the story we were trying to tell? Did we represent
+  the perspectives of that space broadly?
+
+
+  Our ultimate goal for the project is to achieve sustainability and feed back
+  revenue generated from the project into more units and deployments. The idea
+  is to create a feedback loop between communities and the project that deepens
+  our roots and broadens our footprint.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/explore-los-angeless-past-present-and-future-in-augmented-reality-through-perceptoscope/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1517216783741-team89.jpeg
 organization_name: Perceptoscope

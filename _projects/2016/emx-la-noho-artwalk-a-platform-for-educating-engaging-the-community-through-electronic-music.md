@@ -17,55 +17,17 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6633121265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/wTWVo0OKkL8?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   -Western Marketing & Media (DBA: EMX): https://www.facebook.com/emx.la/, ,
   -Electronic Music Alliance (EMA): http://ema-global.org, , -The Portable
   Classroom: https://www.facebook.com/The-Portable-Classroom-139368899459661/
-project_measure: >-
-  Success for our project will be defined by:
-
-  -Artist contribution
-
-  -Educational development
-
-  -Community involvement
-
-
-  Measures for our success will include:
-
-  -Doubling the amount of artists currently participating and performing in the
-  EMX community (currently 300+ performers and visual artists)
-
-  -Development of 3-5 weekly DJ & Producer after-school programs in Los Angeles
-  County
-
-  -25% increase in EMX artist engagement in the EMA Play it FWD program
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Education/training '
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_description: >-
+Please describe your project proposal.: >-
   EMX is looking to expand their current platform throughout Los Angeles County,
   which showcases undiscovered local electronic music artists.  EMX artists will
   enhance their communities by active involvement in the NoHo ArtWalk,
   after-school DJ programs for kids, after-school Producer programs for
   teens/adults, and the Electronic Music Alliance’s Play it FWD program.
-project_impact: >-
-  ["Arts establishments","Employment in the creative industries","Jobs per
-  capita","Measures of cultural and global economic influence (“soft
-  power”)","Minority- and women-owned firms","Percentage of graduates from local
-  higher education institutions that remain in LA County 5 years after
-  graduating","Venture capital investment"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Employment in the creative industries
   - Jobs per capita
@@ -75,13 +37,7 @@ project_proposal_impact:
     Percentage of graduates from local higher education institutions that remain
     in LA County 5 years after graduating
   - Venture capital investment
-project_proposal_description: >-
-  EMX is looking to expand their current platform throughout Los Angeles County,
-  which showcases undiscovered local electronic music artists.  EMX artists will
-  enhance their communities by active involvement in the NoHo ArtWalk,
-  after-school DJ programs for kids, after-school Producer programs for
-  teens/adults, and the Electronic Music Alliance’s Play it FWD program.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - San Fernando Valley
   - South LA
@@ -89,7 +45,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Los Angeles has long served as the epicenter for the creative arts, and as a
   trendsetter for progress in the global music industry.
 
@@ -148,6 +104,37 @@ project_proposal_best_place: >-
   More info about the EMA Play it FWD program can be found here:
 
   http://ema-global.org/programs/play-it-fwd
+Please explain how you will define and measure success for your project.​: >-
+  Success for our project will be defined by:
+
+  -Artist contribution
+
+  -Educational development
+
+  -Community involvement
+
+
+  Measures for our success will include:
+
+  -Doubling the amount of artists currently participating and performing in the
+  EMX community (currently 300+ performers and visual artists)
+
+  -Development of 3-5 weekly DJ & Producer after-school programs in Los Angeles
+  County
+
+  -25% increase in EMX artist engagement in the EMA Play it FWD program
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/emx-la-noho-artwalk-a-platform-for-educating-engaging-the-community-through-electronic-music/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6633121265741-team91.jpg
 organization_name: EMX Los Angeles

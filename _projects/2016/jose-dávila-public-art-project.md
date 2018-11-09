@@ -14,8 +14,7 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3334798155741-team90.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Jose Dávila’s project will be presented as part of the Getty Foundation’s
   Pacific Standard Time: LA/LA initiative, which seeks to explore the deep
   artistic connections between Los Angeles and Latin America. Other
@@ -23,42 +22,7 @@ project_collaborators: >-
   the sculpture: University Elementary School, La Brea Tar Pits, Barnsdall Park,
   Los Angeles River, Downtown Los Angeles Public Library, and the Santa Monica
   Pier, among others.
-project_measure: >-
-  Public and media feedback on the project will indicate success within a given
-  community for each sculptural piece installed. We project to achieve 100%
-  capacity attendance for each event/exhibition, which will demonstrate
-  successful event marketing to target audiences. The growing audience for LAND
-  events will expand exposure to in-depth art experiences for public benefit,
-  and will increase the organization’s position within the LA art
-  community—potentially also expanding our current financial support base with
-  individual donors. 
-
-
-  At the culmination of the project, Dávila will complete a brief survey that
-  summarizes his experience working with LAND. Audience feedback during and
-  after events/installations will reflect the quality of the work, and the
-  comprehensive nature of this type of first-hand public experience with the
-  artist.
-
-
-  The quality of artistic work produced is paramount to our success as an
-  organization which can help artists and communities grow to the next level of
-  cultural recognition and achievement. This will be demonstrated in community
-  dialogue and in critical media coverage of LAND’s work with Dávila.
-
-
-  Another indicator of success is the trajectory of an artist's career following
-  his/her involvement with LAND, indicated by new support from art institutions,
-  patrons, collectors, and dealers for Dávila on national and global levels; and
-  by the ongoing presence for Dávila in international cultural dialogue.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   LA residents will have the opportunity to gather and playfully interact with a
   concrete sculpture that will break apart and slowly migrate to diverse public
   locales around the city. LAND, Dávila, and community members will create
@@ -66,26 +30,14 @@ project_description: >-
   neighborhood and its residents. The pieces will finally return to its original
   location and form in the end – showing the history of its geography and
   community experiences in its modified shape.
-project_impact: >-
-  ["Arts establishments","Employment in the creative industries","Gini
-  coefficient","Jobs per capita","Measures of cultural and global economic
-  influence (“soft power”)","Minority- and women-owned firms"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Employment in the creative industries
   - Gini coefficient
   - Jobs per capita
   - Measures of cultural and global economic influence (“soft power”)
   - Minority- and women-owned firms
-project_proposal_description: >-
-  LA residents will have the opportunity to gather and playfully interact with a
-  concrete sculpture that will break apart and slowly migrate to diverse public
-  locales around the city. LAND, Dávila, and community members will create
-  ceremonious public events for the sculpture’s movement, inspired by each
-  neighborhood and its residents. The pieces will finally return to its original
-  location and form in the end – showing the history of its geography and
-  community experiences in its modified shape.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - South LA
@@ -93,7 +45,7 @@ project_areas:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   LAND enables artists to create neighborhood-based work and take his/her studio
   practice outside of the studio and into the community as a way to engage with
   various audiences and residents. LAND’s fundamental mission is to bring
@@ -141,6 +93,41 @@ project_proposal_best_place: >-
   Furthermore, the transformation of the sculpture and the artwork’s
   neighborhood impact will be documented and photographed in a bilingual
   publication.
+Please explain how you will define and measure success for your project.​: >-
+  Public and media feedback on the project will indicate success within a given
+  community for each sculptural piece installed. We project to achieve 100%
+  capacity attendance for each event/exhibition, which will demonstrate
+  successful event marketing to target audiences. The growing audience for LAND
+  events will expand exposure to in-depth art experiences for public benefit,
+  and will increase the organization’s position within the LA art
+  community—potentially also expanding our current financial support base with
+  individual donors. 
+
+
+  At the culmination of the project, Dávila will complete a brief survey that
+  summarizes his experience working with LAND. Audience feedback during and
+  after events/installations will reflect the quality of the work, and the
+  comprehensive nature of this type of first-hand public experience with the
+  artist.
+
+
+  The quality of artistic work produced is paramount to our success as an
+  organization which can help artists and communities grow to the next level of
+  cultural recognition and achievement. This will be demonstrated in community
+  dialogue and in critical media coverage of LAND’s work with Dávila.
+
+
+  Another indicator of success is the trajectory of an artist's career following
+  his/her involvement with LAND, indicated by new support from art institutions,
+  patrons, collectors, and dealers for Dávila on national and global levels; and
+  by the ongoing presence for Dávila in international cultural dialogue.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/jose-dávila-public-art-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3334798155741-team90.jpg
 organization_name: LAND (Los Angeles Nomadic Division)

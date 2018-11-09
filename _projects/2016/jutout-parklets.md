@@ -13,33 +13,14 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3589906913741-team90.jpg
 project_video: ''
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   I will be collaborating with landscape architect Ian Horton, PLA, ASLA of
   Working Landscapes on this proposal.
-project_measure: >-
-  Heavy use -- particularly near schools. And the establishment of programs that
-  facilitate learning and opportunities for public art -- such as the
-  establishment of a public arts program that will create unique,
-  community-based art, for each 'Jutout' park.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - 'Staff '
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   To create a series of cantilevered 'Jutout' parklets overlooking Los Angeles
   waterways -- with a priority of installing the parklets in park poor
   communities.
-project_impact: >-
-  ["Social & emotional support","Cultural events","Public/open streets
-  gatherings","Government responsiveness to residents’ needs","Public transit
-  riders","Participation in neighborhood councils","Rates of volunteerism"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Public/open streets gatherings
@@ -47,11 +28,7 @@ project_proposal_impact:
   - Public transit riders
   - Participation in neighborhood councils
   - Rates of volunteerism
-project_proposal_description: >-
-  To create a series of cantilevered 'Jutout' parklets overlooking Los Angeles
-  waterways -- with a priority of installing the parklets in park poor
-  communities.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - East LA
   - San Gabriel Valley
@@ -65,7 +42,7 @@ project_areas:
   - City of Los Angeles
   - LAUSD
   - Los Angeles Rivers and Washes
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   The priority will be to create the 'Jutout' overlook parklets adjacent to
   schools -- such as one next to Vista Middle School in Panorama City, and one
   adjacent to Grant High School in North Hollywood. The existing infrastructure
@@ -92,6 +69,20 @@ project_proposal_best_place: >-
   the outside edges of sidewalks) from traffic -- making them much safer than
   parking spot parklets -- where the risk of cars running into parking spot
   parklets is high.
+Please explain how you will define and measure success for your project.​: >-
+  Heavy use -- particularly near schools. And the establishment of programs that
+  facilitate learning and opportunities for public art -- such as the
+  establishment of a public arts program that will create unique,
+  community-based art, for each 'Jutout' park.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/jutout-parklets/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3589906913741-team90.jpg
 organization_name: SCA-LARC

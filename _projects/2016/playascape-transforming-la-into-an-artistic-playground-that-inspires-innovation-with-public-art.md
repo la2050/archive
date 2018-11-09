@@ -17,57 +17,24 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7837391883741-team88.jpg
 project_video: 'https://youtube.com/embed/xSGbvkEdpJE?rel=0&amp;showinfo=0'
-project_is_collaboration: 'Yes'
-project_collaborators: >-
+Are any other organizations collaborating on this proposal?: >-
   Make Music Los Angeles and Playascape are working together to start up this
   program.
-project_measure: >-
-  We will be able to acquire data from the program's followers, subscribers, and
-  viewers and be able to evaluate their response via the content they provide.
-  This content can be in the form of photos, comments, blog posts, and video
-  displayed on all social media platforms. 
-
-
-  We will be able to profile our artists on both PlayascapeTV and our public art
-  activations which will provide data about their identities. 
-
-
-  We will measure the number of individuals that take part in each event, as
-  well as the growing list of strategic partnerships that help to ensure the
-  program’s long-term sustainability and geographic reach.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Publicity/awareness
-  - Infrastructure (building/space/vehicles etc.)
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Please describe your project proposal.: >-
   Playascape is dedicated to transforming urban communities into an artistic
   playground through immersive and interactive art. The art they curate shares a
   symbiotic relationship with math and science, creatively pushing boundaries
   and inspiring innovation. Playascape produces cultural experiences that infuse
   community engagement, technology and media to interact with the whole family.
-project_impact: >-
-  ["Arts establishments","Employment in the creative industries","Measures of
-  cultural and global economic influence (“soft power”)","Minority- and
-  women-owned firms"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Arts establishments
   - Employment in the creative industries
   - Measures of cultural and global economic influence (“soft power”)
   - Minority- and women-owned firms
-project_proposal_description: >-
-  Playascape is dedicated to transforming urban communities into an artistic
-  playground through immersive and interactive art. The art they curate shares a
-  symbiotic relationship with math and science, creatively pushing boundaries
-  and inspiring innovation. Playascape produces cultural experiences that infuse
-  community engagement, technology and media to interact with the whole family.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - Central LA
   - City of Los Angeles
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Los Angeles prides itself on being the entertainment capital of the world.
   Everyday people travel from all over the world to see the city where dreams
   come true and stars are born. This reputation has attracted thousands of
@@ -123,6 +90,28 @@ project_proposal_best_place: >-
   increase visibility to female and minority artists, and advance LA's artistic
   achievements that will transcend this city as the creative capital of the
   world.
+Please explain how you will define and measure success for your project.​: >-
+  We will be able to acquire data from the program's followers, subscribers, and
+  viewers and be able to evaluate their response via the content they provide.
+  This content can be in the form of photos, comments, blog posts, and video
+  displayed on all social media platforms. 
+
+
+  We will be able to profile our artists on both PlayascapeTV and our public art
+  activations which will provide data about their identities. 
+
+
+  We will measure the number of individuals that take part in each event, as
+  well as the growing list of strategic partnerships that help to ensure the
+  program’s long-term sustainability and geographic reach.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/playascape-transforming-la-into-an-artistic-playground-that-inspires-innovation-with-public-art/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7837391883741-team88.jpg
 organization_name: Make Music Los Angeles

@@ -17,61 +17,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6000534355741-team90.JPG
 project_video: 'https://www.youtube.com/embed/80TAsrIU1O8?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: None
-project_measure: >-
-  R&S measures impact by:
-
-  • Surveying educators on their Roots & Shoots training and integration of
-  Roots & Shoots in their curriculum
-
-  • Surveying educators on their observations of the impact of Roots & Shoots on
-  their students
-
-  • Monitoring the number of educators completing the course and the number
-  receiving CEUs for course completion
-
-  • Monitoring the number of educators incorporating Roots & Shoots in their
-  curriculum; the number of students mapping communities and the number
-  completing service campaigns; and the number of service campaigns completed. 
-
-  • Surveying NYLC members on a monthly basis to monitor the number of webinars
-  completed with peer groups, the number of training sessions led, and the
-  number of personal service campaigns completed. 
-
-
-  Quantitative outcomes: 
-
-  • 750 students will volunteer in their community through local service
-  campaigns; 
-
-  • 5 R&S peer groups will be established with the support of LA-based NYLC
-  members; 
-
-  • 25 cultural events will be held in schools and in the communities; and 
-
-  • 5 exemplary youth will complete a one year term on the NYLC. 
-
-
-  Qualitative outcomes for youth: 
-
-  • Engage with their community
-
-  • Have an increase in concern for their community
-
-  • Increase leadership skills and feelings of personal and civic responsibility
-
-  • Demonstrate compassion for people, animals and the environment
-
-  • Demonstrate initiative and propensity for future responsible action
-
-  • Demonstrate critical thinking and problem solving skills
-project_proposal_help:
-  - Volunteers
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Partnering with 25 schools, Roots & Shoots will connect 750 diverse Los
   Angeles youth to communities using the R&S model and empower them to map their
   communities, identify local issues, implement a service campaign, and
@@ -79,26 +26,15 @@ project_description: >-
   five youth leaders to model and inspire civic responsibility through outreach
   and community engagement. Finally, R&S will hold local community service
   events and a citywide celebration of service.
-project_impact: >-
-  ["Social & emotional support","Cultural events","Public/open streets
-  gatherings","Rates of volunteerism"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Social & emotional support
   - Cultural events
   - Public/open streets gatherings
   - Rates of volunteerism
-project_proposal_description: >-
-  Partnering with 25 schools, Roots & Shoots will connect 750 diverse Los
-  Angeles youth to communities using the R&S model and empower them to map their
-  communities, identify local issues, implement a service campaign, and
-  collaboratively celebrate successes. R&S will additionally recruit and train
-  five youth leaders to model and inspire civic responsibility through outreach
-  and community engagement. Finally, R&S will hold local community service
-  events and a citywide celebration of service.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - San Fernando Valley
   - LAUSD
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   R&S will build upon its existing network in LA to connect young people to
   their communities by establishing strong networks that provide social and
   emotional support, implementing cultural community events, and increasing
@@ -151,6 +87,58 @@ project_proposal_best_place: >-
   travels twice each year through the United States. If she holds a public
   lecture in LA, every effort will be made to extend an invitation to
   participating students and educators.
+Please explain how you will define and measure success for your project.​: >-
+  R&S measures impact by:
+
+  • Surveying educators on their Roots & Shoots training and integration of
+  Roots & Shoots in their curriculum
+
+  • Surveying educators on their observations of the impact of Roots & Shoots on
+  their students
+
+  • Monitoring the number of educators completing the course and the number
+  receiving CEUs for course completion
+
+  • Monitoring the number of educators incorporating Roots & Shoots in their
+  curriculum; the number of students mapping communities and the number
+  completing service campaigns; and the number of service campaigns completed. 
+
+  • Surveying NYLC members on a monthly basis to monitor the number of webinars
+  completed with peer groups, the number of training sessions led, and the
+  number of personal service campaigns completed. 
+
+
+  Quantitative outcomes: 
+
+  • 750 students will volunteer in their community through local service
+  campaigns; 
+
+  • 5 R&S peer groups will be established with the support of LA-based NYLC
+  members; 
+
+  • 25 cultural events will be held in schools and in the communities; and 
+
+  • 5 exemplary youth will complete a one year term on the NYLC. 
+
+
+  Qualitative outcomes for youth: 
+
+  • Engage with their community
+
+  • Have an increase in concern for their community
+
+  • Increase leadership skills and feelings of personal and civic responsibility
+
+  • Demonstrate compassion for people, animals and the environment
+
+  • Demonstrate initiative and propensity for future responsible action
+
+  • Demonstrate critical thinking and problem solving skills
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - Volunteers
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/setting-the-stage-developing-young-angelenos-as-community-volunteers-for-a-lifetime/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6000534355741-team90.JPG
 organization_name: the Jane Goodall Institute

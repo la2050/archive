@@ -14,58 +14,8 @@ project_summary: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3219654155741-team90.JPG
 project_video: 'https://www.youtube.com/embed/LW-vMpFhnl8?rel=0&amp;showinfo=0'
-project_is_collaboration: 'No'
-project_collaborators: >-
-  This project aims to engage Neighborhood Council partners at the onset of the
-  work.
-project_measure: >-
-  Success will be defined as follows:
-
-  Partner Commitment
-
-  --20% of the Neighborhood Councils in the South and Southeast LA Community
-  Plan areas will commit to participating in the project by forming Community
-  Planning Sub-Committees, reviewing the workshop curriculum and designing and
-  implementing resident engagement outreach plan for the workshops.
-
-
-  Stakeholder Engagement
-
-  --100 resident & stakeholders will participate in the workshop series
-
-  --60% of workshop participant will join the Neighborhood Council and the
-  Community Planning Sub-Committees
-
-  --100% of workshop participants will demonstrate an increased literacy in CP
-  process.
-
-  --75% of workshop participants will commit to engage in advocacy around the
-  CPU public process – testimony, letters, visits
-
-
-  This project will adopt a real-time learning model that uses the following
-  methods/tools to evaluate success:
-
-
-  --Partner Commitment Forms: NC’s will be asked to sign a commitment form
-  outlining their role in this project.  
-
-  --Attendance Forms: Workshop sign in sheets will be collected at all sessions
-  to determine participation levels.
-
-  --Pre- and Post-Test: Pre and post tests will be distributed to determine rate
-  of increase in community planning literacy, attitudes about community plan
-  development, and intent to participate in activism opportunities.
-
-  --Commitment Forms: Cards will be distributed at the end of the workshop
-  series to gauge commitment/interest in continued civic participation through
-  NC subcommittees.
-project_proposal_help:
-  - 'Money '
-  - Publicity/awareness
-  - 'Community outreach '
-  - Network/relationship support
-project_description: >-
+Are any other organizations collaborating on this proposal?: ''
+Please describe your project proposal.: >-
   Save Spaces for Healthy Places prepares residents to use their influential
   voices to ensure policies and land-use plans reflect the actual needs of their
   community by: 1) learning about the community planning process and how it can
@@ -73,24 +23,13 @@ project_description: >-
   3) understanding the linkage between lack of community resources and health;
   and 4) connecting them to civic engagement through their Neighborhood Councils
   and other pathways to activism.
-project_impact: >-
-  ["Government responsiveness to residents’ needs","Participation in
-  neighborhood councils","Rates of volunteerism"]
-project_proposal_impact:
+Which metrics will your proposal impact?​:
   - Government responsiveness to residents’ needs
   - Participation in neighborhood councils
   - Rates of volunteerism
-project_proposal_description: >-
-  Save Spaces for Healthy Places prepares residents to use their influential
-  voices to ensure policies and land-use plans reflect the actual needs of their
-  community by: 1) learning about the community planning process and how it can
-  be influenced; 2) learning to frame their message so their voices can matter;
-  3) understanding the linkage between lack of community resources and health;
-  and 4) connecting them to civic engagement through their Neighborhood Councils
-  and other pathways to activism.
-project_areas:
+In what areas of Los Angeles will you be directly working?:
   - South LA
-project_proposal_best_place: >-
+Describe in greater detail how your proposal will make LA the best place.: >-
   Save Spaces for Healthy Places will make South LA (SLA) the best place to
   CONNECT by motivating residents to get involved with the Community Plan (CP)
   process through Neighborhood Councils (NC).  CPs reflect the needs and values
@@ -152,6 +91,53 @@ project_proposal_best_place: >-
   opportunities around the Plans and organize community efforts to educate their
   neighbors. Subcommittees will also monitor the CP process to mobilize
   residents around city planning and council hearings when necessary.
+Please explain how you will define and measure success for your project.​: >-
+  Success will be defined as follows:
+
+  Partner Commitment
+
+  --20% of the Neighborhood Councils in the South and Southeast LA Community
+  Plan areas will commit to participating in the project by forming Community
+  Planning Sub-Committees, reviewing the workshop curriculum and designing and
+  implementing resident engagement outreach plan for the workshops.
+
+
+  Stakeholder Engagement
+
+  --100 resident & stakeholders will participate in the workshop series
+
+  --60% of workshop participant will join the Neighborhood Council and the
+  Community Planning Sub-Committees
+
+  --100% of workshop participants will demonstrate an increased literacy in CP
+  process.
+
+  --75% of workshop participants will commit to engage in advocacy around the
+  CPU public process – testimony, letters, visits
+
+
+  This project will adopt a real-time learning model that uses the following
+  methods/tools to evaluate success:
+
+
+  --Partner Commitment Forms: NC’s will be asked to sign a commitment form
+  outlining their role in this project.  
+
+  --Attendance Forms: Workshop sign in sheets will be collected at all sessions
+  to determine participation levels.
+
+  --Pre- and Post-Test: Pre and post tests will be distributed to determine rate
+  of increase in community planning literacy, attitudes about community plan
+  development, and intent to participate in activism opportunities.
+
+  --Commitment Forms: Cards will be distributed at the end of the workshop
+  series to gauge commitment/interest in continued civic participation through
+  NC subcommittees.
+How can the LA2050 community and other stakeholders help your proposal succeed?:
+  - 'Money '
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2016/save-spaces-for-healthy-places/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3219654155741-team90.JPG
 organization_name: Community Health Councils
