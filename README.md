@@ -73,7 +73,7 @@ Once you’ve chosen a folder, follow these steps:
 
 It’s best to use lowercase letters and dashes instead of spaces for your filename. For example: `womens-march-la.jpg`.
 
-Once your file has been uploaded it be available at a web address that corresponds to the folder and filename that you chose. For example:
+Once your file has been uploaded it will be available at a web address that corresponds to the folder and filename that you chose. For example:
 
 ```
 /uploads/womens-march-la.jpg
