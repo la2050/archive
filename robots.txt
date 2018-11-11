@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://archive.la2050.org/sitemap.xml
