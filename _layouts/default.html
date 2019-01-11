@@ -92,7 +92,9 @@
 
   {% if page.project_image and page.project_image != '' %}
     {% if page['cached_project_image'] and page['project_image'] contains "http://" %}
-    <meta property="og:image" content="{{ page.cached_project_image | replace: '%25', '%2525' }}" />
+    <meta property="og:image" content="{{ page['cached_project_image'] | replace: '%25', '%2525' }}" />
+    {% elsif page['cached_project_image'] and page['project_image'] contains "https://skild-prod.s3.amazonaws.com" %}
+    <meta property="og:image" content="{{ page['cached_project_image'] | replace: '%25', '%2525' }}" />
     {% else %}
     <meta property="og:image" content="{{ page.project_image }}" />
     {% endif %}
