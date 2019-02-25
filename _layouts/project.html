@@ -177,6 +177,8 @@ http://maker.good.is/myla2050{{ page.category }}2015.html
 <img src="{{ page['cached_project_image'] | replace: '%25', '%2525' }}" alt="{{ page.title }}" width="500" />
 {% elsif page['cached_project_image'] and page['project_image'] contains "https://skild-prod.s3.amazonaws.com" %}
 <img src="{{ page['cached_project_image'] | replace: '%25', '%2525' }}" alt="{{ page.title }}" width="500" />
+{% elsif page['cached_project_image'] and page['project_image'] contains "https://scontent" %}
+<img src="{{ page['cached_project_image'] | replace: '%25', '%2525' }}" alt="{{ page.title }}" width="500" />
 {% else %}
 <img src="{{ page['project_image'] }}" alt="{{ page.title }}" width="500" />
 {% endif %}
