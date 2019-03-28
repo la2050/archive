@@ -20,7 +20,7 @@ facebook: 'https://www.facebook.com/HealtheBay/'
 ein: '954031055'
 zip: '90401'
 project_image: >-
-  https://scontent-lga3-1.cdninstagram.com/vp/f82e9ccb771267df625e241f5f711321/5C4C4558/t51.2885-15/sh0.08/e35/s640x640/26867062_2015248948687602_439145150292164608_n.jpg
+  /uploads/heal-the-bay.jpg
 project_video: ''
 challenge_url:
   - 'http://maker.good.is/myla2050live2015/projects/DroppingKnowledgeLA.html'

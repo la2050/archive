@@ -695,6 +695,8 @@ font-size: 1.25em; line-height: 1; margin-bottom: 3rem;" id="ideas">Submitted Id
 <img src="{{ project['cached_project_image'] | replace: '%25', '%2525' }}" alt="{{ project.title }}" />
 {% elsif project['cached_project_image'] and project['project_image'] contains "https://skild-prod.s3.amazonaws.com" %}
 <img src="{{ project['cached_project_image'] | replace: '%25', '%2525' }}" alt="{{ project.title }}" />
+{% elsif project['cached_project_image'] and project['project_image'] contains "https://scontent" %}
+<img src="{{ project['cached_project_image'] | replace: '%25', '%2525' }}" alt="{{ page.title }}" width="500" />
 {% else %}
 <img src="{{ project['project_image'] }}" alt="{{ project.title }}" />
 {% endif %}
