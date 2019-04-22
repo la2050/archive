@@ -44,6 +44,60 @@
       <script src="https://challenge.la2050.org/api/entries.js"></script>
       <script>
       (function() {
+        function stringToURI(str) {
+          return String(str).toLowerCase()
+            .replace(/\s/g, '-')
+            .replace(/\//g, '-')
+            .replace(/\&/g, '-')
+            .replace(/\./g, '-')
+            .replace(/\:/g, '-')
+            .replace(/\!/g, '-')
+            .replace(/…/g, '-')
+            .replace(/\?/g, '-')
+            .replace(/\$/g, '-')
+            .replace(/\%/g, '-')
+            .replace(/\≠/g, '-')
+            .replace(/\–/g, '-')
+            .replace(/\—/g, '-')
+            .replace(/\|/g, '-')
+            .replace(/\_/g, '-')
+            .replace(/\,/g, "-")
+            .replace(/\+/g, "-")
+            .replace(/\>/g, "-")
+            .replace(/\r\n?/, '-')
+            .replace(/\'/g, '')
+            .replace(/\‘/g, '')
+            .replace(/\’/g, '')
+            .replace(/\“/g, '')
+            .replace(/\”/g, '')
+            .replace(/\(/g, '')
+            .replace(/\)/g, '')
+            .replace(/\{/g, '')
+            .replace(/\}/g, '')
+            .replace(/\"/g, '')
+            .replace(/\#/g, '')
+            .replace(/\;/g, '')
+            .replace(/\-\-\-\-/g, '-')
+            .replace(/\-\-\-/g, '-')
+            .replace(/\-\-/g, '-')
+            .replace(/^\-/g, '') // Remove starting dash
+            .replace(/\-$/g, '') // Remove trailing dash
+            .replace(/ /g, '')
+        }
+
+        function getStringForComparison(string) {
+          string = string.toLowerCase().replace(/\,/g, "").replace(/\\\r\\\n/g, "").replace(/\\\r/g, "").replace(/\\\n/g, "").trim()
+          string = (stringToURI(string).replace(/\-/, ""))
+          // if (string.indexOf("A house for Tommy in my backyard!") >= 0) {
+          //   console.log("BEFORE")
+          //   console.log(string)
+          //   console.log("AFTER")
+          //   console.log(string.toLowerCase().replace(/\,/g, "").replace(/\\\r\\\n/g, "").replace(/\\\r/g, "").replace(/\\\n/g, "").trim())
+          //   return "A house for Tommy in my backyard! If only LA knew the opportunity that lies in our backyards…"
+          // }
+          return string
+        }
+
         var links, random;
 
         var categories = [
@@ -60,16 +114,18 @@
         links.forEach(function(link) {
           link.setAttribute('href', link.getAttribute('href').replace('/entries/', '/' + categories[random] + '/'));
 
+          {% if page.layout == "organization" %}
           // If the title of the page is the same as one of the challenge entries
           if (window.entries) {
             entries.forEach(entry => {
-              if (document.title.includes(entry.title)) {
+              if (getStringForComparison(entry.organization_name) == getStringForComparison('{{ page.title }}')) {
 
                 // Change the link to point to that entry’s page
                 link.setAttribute('href', 'https://challenge.la2050.org' + entry.url + '?referrer=archive.la2050.org');
               }
             });
           }
+          {% endif %}
         });
 
         links = document.querySelectorAll('a[href*="challenge.la2050.org/finalists/"]');
