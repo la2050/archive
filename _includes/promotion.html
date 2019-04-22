@@ -17,15 +17,15 @@
         The 2019 My LA2050 Grants Challenge has started!
       </p>
       <p class="action">
-        <a href="https://challenge.la2050.org/entries/?referrer=activation.la2050.org">Check out the entries</a>
+        <a href="https://challenge.la2050.org/entries/?referrer=archive.la2050.org">Check out the entries</a>
       </p>
       {% endcomment %}
 
       <p>
-        <a href="https://challenge.la2050.org/vote/?referrer=activation.la2050.org">Public voting</a> in the 2019 My LA2050 Grants Challenge has started!
+        <a href="https://challenge.la2050.org/entries/?referrer=archive.la2050.org">Public voting</a> in the 2019 My LA2050 Grants Challenge has started!
       </p>    
       <p class="action">
-        <a href="https://challenge.la2050.org/entries/?referrer=activation.la2050.org">Vote by April 29, 2019</a>
+        <a href="https://challenge.la2050.org/entries/?referrer=archive.la2050.org">Vote by April 29, 2019</a>
       </p>
       
       <p style="padding-top: 40vh; display: block; margin-left: auto; margin-right: auto;">
@@ -41,6 +41,7 @@
         }
       </style>
 
+      <script src="https://challenge.la2050.org/api/entries.js"></script>
       <script>
       (function() {
         var links, random;
@@ -58,12 +59,23 @@
         links = document.querySelectorAll('a[href*="challenge.la2050.org/entries/"]');
         links.forEach(function(link) {
           link.setAttribute('href', link.getAttribute('href').replace('/entries/', '/' + categories[random] + '/'));
-        })
+
+          // If the title of the page is the same as one of the challenge entries
+          if (window.entries) {
+            entries.forEach(entry => {
+              if (document.title.includes(entry.title)) {
+
+                // Change the link to point to that entry’s page
+                link.setAttribute('href', 'https://challenge.la2050.org' + entry.url + '?referrer=archive.la2050.org');
+              }
+            });
+          }
+        });
 
         links = document.querySelectorAll('a[href*="challenge.la2050.org/finalists/"]');
         links.forEach(function(link) {
           link.setAttribute('href', link.getAttribute('href').replace('/finalists/', '/' + categories[random] + '/'));
-        })
+        });
       })();
       </script>
 
