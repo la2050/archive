@@ -1,0 +1,69 @@
+
+      {% comment %}
+
+      <p>
+        The activation challenge is part of the greater <a href="https://la2050.org/">LA2050 initiative</a>.
+        <span class="avoid-break" data-characters="45">We’re working to move Los Angeles <span class="avoid-break">toward <a href="https://la2050.org/#learnmore">five goals</a>.</span></span>
+      </p>
+
+      <p>
+        The 2019 My LA2050 Grants Challenge has started!
+      </p>
+      <p class="action">
+        <a href="https://challenge.la2050.org">Submit your idea by March 29, 2019</a>
+      </p>
+
+      <p>
+        The 2019 My LA2050 Grants Challenge has started!
+      </p>
+      <p class="action">
+        <a href="https://challenge.la2050.org/entries/?referrer=activation.la2050.org">Check out the entries</a>
+      </p>
+      {% endcomment %}
+
+      <p>
+        <a href="https://challenge.la2050.org/vote/?referrer=activation.la2050.org">Public voting</a> in the 2019 My LA2050 Grants Challenge has started!
+      </p>    
+      <p class="action">
+        <a href="https://challenge.la2050.org/entries/?referrer=activation.la2050.org">Vote by April 29, 2019</a>
+      </p>
+      
+      <p style="padding-top: 40vh; display: block; margin-left: auto; margin-right: auto;">
+        This page is an archive of past challenges.<br /><br />
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="44.8" height="51.2">
+          <path fill="currentColor" d="M413.1 222.5l22.2 22.2c9.4 9.4 9.4 24.6 0 33.9L241 473c-9.4 9.4-24.6 9.4-33.9 0L12.7 278.6c-9.4-9.4-9.4-24.6 0-33.9l22.2-22.2c9.5-9.5 25-9.3 34.3.4L184 343.4V56c0-13.3 10.7-24 24-24h32c13.3 0 24 10.7 24 24v287.4l114.8-120.5c9.3-9.8 24.8-10 34.3-.4z" class=""></path>
+        </svg>
+      </p>
+      
+      <style>
+        .promotion {
+          padding-top: 40vh;
+        }
+      </style>
+
+      <script>
+      (function() {
+        var links, random;
+
+        var categories = [
+          'learn',
+          'create',
+          'play',
+          'connect',
+          'live'
+        ];
+
+        random = Math.floor(Math.random() * categories.length) + 0;
+
+        links = document.querySelectorAll('a[href*="challenge.la2050.org/entries/"]');
+        links.forEach(function(link) {
+          link.setAttribute('href', link.getAttribute('href').replace('/entries/', '/' + categories[random] + '/'));
+        })
+
+        links = document.querySelectorAll('a[href*="challenge.la2050.org/finalists/"]');
+        links.forEach(function(link) {
+          link.setAttribute('href', link.getAttribute('href').replace('/finalists/', '/' + categories[random] + '/'));
+        })
+      })();
+      </script>
+
