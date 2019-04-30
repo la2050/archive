@@ -12,6 +12,7 @@
       <p class="action">
         <a href="https://challenge.la2050.org">Submit your idea by March 29, 2019</a>
       </p>
+      {% endcomment %}
 
       <p>
         The 2019 My LA2050 Grants Challenge has started!
@@ -19,8 +20,8 @@
       <p class="action">
         <a href="https://challenge.la2050.org/entries/?referrer=archive.la2050.org">Check out the entries</a>
       </p>
-      {% endcomment %}
 
+      {% comment %}
       <p>
         <a href="https://challenge.la2050.org/entries/?referrer=archive.la2050.org">Public voting</a> in the 2019 My LA2050 Grants Challenge has started!
       </p>    
@@ -114,7 +115,7 @@
         links.forEach(function(link) {
           link.setAttribute('href', link.getAttribute('href').replace('/entries/', '/' + categories[random] + '/'));
 
-          {% if page.layout == "organization" %}
+          {% if page.layout == 'organization' %}
           // If the title of the page is the same as one of the challenge entries
           if (window.entries) {
             entries.forEach(entry => {
@@ -134,4 +135,5 @@
         });
       })();
       </script>
+      {% endcomment %}
 
