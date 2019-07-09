@@ -1,13 +1,5 @@
 ---
 uri: /organizations/the-exploratory-maker-guilds/
-aggregated:
-  org_summary:
-    - >-
-      We engage in food justice helping low-income food entrepreneurs in South
-      Los Angeles create family businesses that reduce food insecurity.
-    - >-
-      The Exploratory: Maker Guilds prepares children to become innovative
-      agents of their future through programming and curriculum development.
 project_titles_from_project_ids:
   - 'LA Mosaic Mecca Project: An Urban Mosaic Intervention on Skid Row'
 organization_id_2: '2014200'
