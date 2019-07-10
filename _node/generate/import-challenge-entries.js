@@ -16,6 +16,33 @@ const category_colors = {
   live    : "lime"
 }
 
+const sameOrganizationMap = {
+  // new name : // old name
+  "changeist-formerly-big-citizen-hub": "big-citizen-hub",
+  "charles-r-drew-university-of-medicine-and-science-cdu": "charles-r-drew-university-of-medicine-and-science",
+  "charles-r-drew-university-of-medicine-and-science-cdu": "charles-r-drew-university-of-medicine-and-science",
+  "encorps-inc": "encorps-inc",
+  "los-angeles-service-academy": "los-angeles-service-academy-lasa",
+  "spark-program-inc": "spark-los-angeles",
+  "the-engineer-factory-a-project-of-community-partners": "the-engineer-factory-a-project-of-community-partners",
+  "unite-la": "unite-la",
+  "la-bioscience-hub": "los-angeles-bioscience-hub",
+  "natch": "the-natch-inc",
+  "new-america-ca": "new-america-foundation-ca-civic-innovation-project",
+  "the-national-association-of-latino-independent-producers-nalip": "the-national-association-of-latino-independent-producers-nalip",
+  "harlem-lacrosse": "harlem-lacrosse-los-angeles",
+  "los-angeles-audubon-society": "los-angeles-audubon-society-laas",
+  "theodore-payne-foundation-for-wild-flowers": "theodore-payne-foundation-for-wild-flower-and-native-plants",
+  "lawmaker": "lawmaker-io",
+  "mighty-companions-inc": "mighty-companions",
+  "voterunlead": "voterunlead",
+  "world-harvest": "world-harvest-charities-family-services",
+  "cardborigami-inc": "cardborigami-inc",
+  "my-friends-house": "my-friends-house-inc",
+  "safecast-momoko-ito-foundation": "safecast",
+  "the-youth-movement-against-alzheimers": "the-youth-movement-against-alzheimers"
+}
+
 let organizationCounter = 1
 let projectCounter = 1
 function processFile(filepath) {
@@ -48,12 +75,28 @@ function processFile(filepath) {
   let projectIDArray = [ project_id ]
   let projectTitlesArray = [ data.title ]
 
-  let existingOrganization = getExistingOrganization(data)
+  let existingOrganization = 
+    getExistingOrganizationDuringImport(data)  ||
+    getExistingOrganizationByFilename(data)    || 
+    getExistingOrganizationByManualMatch(data)
 
   if (existingOrganization) {
+    // if (existingOrganization.title !== data.organization_name && !sameOrganizationMap[data.organization_name]) {
+      // console.log("*******")
+      // console.log("Found an existing organization with a new name")
+      // console.log("Old name: " + existingOrganization.title)
+      // console.log("New name: " + data.organization_name)
+      // console.log("The new concatenated information will be stored in a new markdown file:")
+      // console.log('../_organizations/' + stringToURI(data.organization_name))
+      // console.log("You may want to change the old markdown file into a redirect:")
+      // console.log('../_organizations/' + stringToURI(existingOrganization.title))
+      // console.log("*******")
+      // console.log(`"${ stringToURI(data.organization_name) }": "${ stringToURI(existingOrganization.title) }"`)
+      // console.log("*******")
+    // }
     organization_id = existingOrganization.organization_id
     
-    tagsIndicatorsArray  = tagsIndicatorsArray.concat(existingOrganization.tags_indicators)
+    tagsIndicatorsArray  = tagsIndicatorsArray.concat(existingOrganization.tags_indicators || [])
     challengeURLArray    = challengeURLArray.concat(existingOrganization.challenge_url)
     yearSubmittedArray   = yearSubmittedArray.concat(existingOrganization.year_submitted)
     if (existingOrganization.project_ids) {
@@ -124,22 +167,31 @@ function processFile(filepath) {
         data.project_la2050_community_resources : [],
     organization_name: data.organization_name
   }
+  
+  importedOrganizationsByName[data.organization_name] = organization
 
-  createOrganizationMarkdown(organization)
+  createOrganizationMarkdown(organization, existingOrganization)
   createProjectMarkdown(project)
 }
 
-let seenOrganizationFilenames = {}
-function createOrganizationMarkdown(data) {
+let importedOrganizationsByName = {}
+function createOrganizationMarkdown(data, existingOrganization) {
+  // if (existingOrganization && stringToURI(existingOrganization.title) != stringToURI(data.title)) {
+  //   console.log("createOrganizationMarkdown")
+  //   console.log("existingOrganization: " + existingOrganization)
+  //   console.log("writing file to : " + stringToURI(existingOrganization.title))
+  //   console.log("instead of : " + stringToURI(data.title))
+  // }
   let writePath = '../_organizations'
-  let filename = stringToURI(data.title)
-  if (seenOrganizationFilenames[filename]) {
-    console.log("Found a duplicate organization: " + filename)
-    console.dir(data)
-    return
-  } else {
-    seenOrganizationFilenames[filename] = 1
-  }
+  let filename = existingOrganization ? stringToURI(existingOrganization.title) : stringToURI(data.title)
+  // if (importedOrganizationsByFilename[filename]) {
+  //   console.log("Found a duplicate organization: " + filename)
+  //   console.dir(data)
+  //   return
+  // } else {
+  //   importedOrganizationsByFilename[filename] = data
+  // }
+
   saveMarkdown(writePath, filename, data)
 }
 
@@ -149,12 +201,39 @@ function createProjectMarkdown(data) {
   saveMarkdown(writePath, filename, data)
 }
 
-function getExistingOrganization(data) {
+function getExistingOrganizationByFilename(data) {
   
   let filename = stringToURI(data.organization_name)
   let filepath = `../_organizations/${filename}.md`
 
   return loadMarkdownYaml(filepath)
+}
+
+function getExistingOrganizationByManualMatch(data) {
+  // if (markdownOrganizationsLookupByEIN[data.ein.replace("-", "")]) {
+  //   console.log("Found an EIN match: " + data.title)
+  // }
+  // if (data.organization_name.includes("Big Citizen")) {
+  //   console.log("Big Citizen");
+  //   console.log(`data.ein: ${data.ein.replace("-", "")}`);
+  //   console.log(`markdownOrganizationsLookupByEIN[data.ein]: ${markdownOrganizationsLookupByEIN[data.ein]}`);
+  // }
+  // return markdownOrganizationsLookupByEIN[data.ein.replace("-", "")] || null
+
+  if (sameOrganizationMap[stringToURI(data.organization_name)]) {
+    // console.log("Found a match in sameOrganizationMap")
+    let filename = sameOrganizationMap[stringToURI(data.organization_name)]
+    let filepath = `../_organizations/${filename}.md`
+
+    return loadMarkdownYaml(filepath)
+  }
+}
+
+function getExistingOrganizationDuringImport(data) {
+  if (importedOrganizationsByName[data.organization_name]) {
+    console.log("getExistingOrganizationDuringImport: " + data.organization_name)
+    return importedOrganizationsByName[data.organization_name]
+  }
 }
 
 function loadMarkdownYaml(filepath) {
@@ -291,7 +370,52 @@ function importChallengeEntries(folder) {
   }
 }
 
+// Create an object for quick lookup
+// let markdownOrganizationsLookup = {}
+let markdownOrganizationsLookupByEIN = {}
+
+function createOrganizationsLookup() {
+
+  // Load the markdown files
+  let records = getRecords(`../_organizations`)
+  records.forEach(organization => {
+    // if (!markdownOrganizationsLookup[getStringForComparison(organization.title)]) {
+    //   markdownOrganizationsLookup[getStringForComparison(organization.title)] = organization
+    // }
+    
+    if (!markdownOrganizationsLookupByEIN[organization.ein]) {
+      markdownOrganizationsLookupByEIN[organization.ein] = organization
+    }
+    // if (organization.title.includes("Big Citizen")) {
+    //   console.log("creating lookup")
+    //   console.log("Big Citizen");
+    //   console.log(`data.ein: ${organization.ein}`);
+    //   console.log(`markdownOrganizationsLookupByEIN[organization.ein]: ${markdownOrganizationsLookupByEIN[organization.ein]}`);
+    //   console.log("done")
+    // }
+  })
+
+}
+
+function getRecords(folder) {
+  let files = getAllFilesFromFolder(folder)
+
+  let records = []
+  for (let index = 0; index < files.length; index++) {
+    if (files[index].indexOf('.DS_Store') >= 0) continue
+
+    // Load the contents of the file
+    let data = loadMarkdownYaml(files[index])
+    if (!data) continue
+
+    // Add the data to the list of records
+    records.push(data)
+  }
+  return records
+}
+
+createOrganizationsLookup()
+
 categories.forEach(category => {
   importChallengeEntries(`${ dataPath }${ category }`)
 })
-
