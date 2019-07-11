@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019098'
 title: JOY FACTORY
-org_type: ''
+org_type: Social enterprise or B-corps
 org_summary: >-
   JOY FACTORY is an artist run clubhouse with a season of events. Membership
   fees pay for our internship program for teens and adults who are ready to get

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016069'
 title: El Porto Shark
-org_type: ''
+org_type: Social enterprise or B-corps
 org_summary: >-
   El Porto Shark's mission is ocean and shark conservation through research,
   education, and action. We are especially focused on creating citizen

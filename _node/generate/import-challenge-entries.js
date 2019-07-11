@@ -111,7 +111,7 @@ function processFile(filepath) {
     title: data.organization_name,
     org_type:
       (data.organization_description == "Non-profit organization") ? 
-        `Nonprofit`: '',
+        `Nonprofit`: data.organization_description,
     org_summary: data.organization_activity,
     tags_indicators: tagsIndicatorsArray,
     charity_navigator_url: 

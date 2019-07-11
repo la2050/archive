@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016170'
 title: Perceptoscope
-org_type: ''
+org_type: Social enterprise or B-corps
 org_summary: >-
   Perceptoscope connects people to places through interactive public art and
   immersive storytelling. We use augmented reality landscape viewers to give

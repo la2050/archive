@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016039'
 title: City of Los Angeles Department of Recreation and Parks
-org_type: ''
+org_type: Government
 org_summary: >-
   The Department enriches the lives of Los Angeles residents by providing safe,
   welcoming parks and recreation facilities with affordable recreational and

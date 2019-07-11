@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019028'
 title: Santa Monica College
-org_type: ''
+org_type: Government
 org_summary: >-
   Santa Monica College is an educational leader and innovator in west Los
   Angeles that fosters personal and intellectual exploration while students

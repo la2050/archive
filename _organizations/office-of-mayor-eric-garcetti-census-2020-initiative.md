@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019107'
 title: 'Office of Mayor Eric Garcetti, Census 2020 Initiative'
-org_type: ''
+org_type: Government
 org_summary: >-
   The mission of Mayor Eric Garcetti’s Census 2020 Initiative is to facilitate a
   fair and accurate decennial count in Los Angeles through education, outreach

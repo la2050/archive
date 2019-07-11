@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019113'
 title: Shared Harvest
-org_type: ''
+org_type: Social enterprise or B-corps
 org_summary: >-
   Shared Harvest is on a mission to champion volunteerism while also helping
   students and professionals crush their student loan debt one social good at a

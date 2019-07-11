@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018120'
 title: Natch
-org_type: ''
+org_type: For-profit organization
 org_summary: >-
   We want to bring back shopping locally by bringing anything local shops make
   or do to your door each day.

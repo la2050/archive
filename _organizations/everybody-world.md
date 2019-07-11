@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019045'
 title: EVERYBODY.WORLD
-org_type: ''
+org_type: Social enterprise or B-corps
 org_summary: >-
   EVERYBODY.WORLD makes thoughtful goods in LA and is committed to championing
   fair wages, pushing boundaries in apparel sustainability, and collaborating

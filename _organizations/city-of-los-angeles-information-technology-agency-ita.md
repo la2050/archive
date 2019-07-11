@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019090'
 title: City of Los Angeles Information Technology Agency (ITA)
-org_type: ''
+org_type: Government
 org_summary: >-
   The mission of the City of Los Angeles is focused on creating a safe, livable,
   and prosperous city.

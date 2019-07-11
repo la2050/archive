@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019030'
 title: The ABC Club
-org_type: ''
+org_type: Social enterprise or B-corps
 org_summary: >-
   Our mission is to provide high quality literacy resources to enliven
   children's hearts, minds and spirits through fun, interactive adventures that

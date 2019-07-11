@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018067'
 title: LawMaker
-org_type: ''
+org_type: Social enterprise or B-corps
 org_summary: >-
   LawMaker is a free advocacy tool for Americans who don’t have a lobbyist in
   their corner. We help people crowdsource new laws, build voter coalitions, &

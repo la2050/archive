@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019144'
 title: Rebel Labs Inc.
-org_type: ''
+org_type: Social enterprise or B-corps
 org_summary: >-
   Rebel Labs is a public benefit corporation & Pending Certified B Corp with a
   vision to lead a science-based rebellion to eliminate obesity & type 2

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019065'
 title: W Tenth Co
-org_type: ''
+org_type: For-profit organization
 org_summary: >-
   We are building a digital marketplace that encourages women who have left the
   workforce to market (and monetize) their everyday talents to their neighbors,

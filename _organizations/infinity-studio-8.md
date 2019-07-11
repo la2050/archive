@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019050'
 title: Infinity Studio 8
-org_type: ''
+org_type: For-profit organization
 org_summary: >-
   Create a platform through collaboration and community, in order to develop a
   sustainable and commercially viable model for an independent artistic career.

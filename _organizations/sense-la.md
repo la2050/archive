@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019112'
 title: Sense LA
-org_type: ''
+org_type: Social enterprise or B-corps
 org_summary: >-
   An LA-wide set of workshops designed to harness the power of art + collective
   intelligence so we can better connect our communities and our city.

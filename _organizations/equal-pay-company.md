@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019128'
 title: Equal Pay Company
-org_type: ''
+org_type: Social enterprise or B-corps
 org_summary: >-
   Equal Pay Company's mission is to give people the power to grow their practice
   of kindness, inclusion, diversity, equity, and accessibility (Kind IDEA).

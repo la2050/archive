@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019102'
 title: M2M Bell
-org_type: ''
+org_type: Social enterprise or B-corps
 org_summary: >-
   Our mission is to build a wireless Public Utility that would be paid for by
   the companies that make the devices we buy. The network will be autonomous,

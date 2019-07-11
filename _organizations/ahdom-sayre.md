@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019082'
 title: Ahdom_Sayre
-org_type: ''
+org_type: For-profit organization
 org_summary: >-
   AHDOM_SAYRE is a design and advocacy group for spaces that allow for true
   health and higher performance through a symbiotic relationship between humans,
