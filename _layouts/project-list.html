@@ -307,11 +307,13 @@ align-self: stretch;
 
 
 {% assign data_list = "" | split: "," %}
+{% assign winners_list_2019 = "" | split: "," %}
 {% assign winners_list_2018 = "" | split: "," %}
 {% assign winners_list_2016 = "" | split: "," %}
 {% assign winners_list_2015 = "" | split: "," %}
 {% assign winners_list_2014 = "" | split: "," %}
 {% assign winners_list_2013 = "" | split: "," %}
+{% assign finalists_list_2019 = "" | split: "," %}
 {% assign finalists_list_2018 = "" | split: "," %}
 {% assign honorable_list_2018 = "" | split: "," %}
 {% assign organizations_list = "" | split: "," %}
@@ -323,7 +325,16 @@ align-self: stretch;
   {% assign is_finalist = false %}
   {% for finalist in site.data.finalists %}
     {% if finalist == data.url %}
-      {% assign is_finalist = true %}
+      {% if data.year_submitted == 2018 %}
+        {% assign is_finalist = true %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  {% for finalist in site.data.finalists_2019 %}
+    {% if finalist == data.challenge_url %}
+      {% if data.year_submitted == 2019 %}
+        {% assign is_finalist = true %}
+      {% endif %}
     {% endif %}
   {% endfor %}
 
@@ -355,6 +366,8 @@ align-self: stretch;
 
         {% if is_winner %}
           {% case winner_year %}
+            {% when 2019 %}
+              {% assign winners_list_2019 = winners_list_2019 | push: data %}
             {% when 2018 %}
               {% assign winners_list_2018 = winners_list_2018 | push: data %}
             {% when 2016 %}
@@ -369,7 +382,12 @@ align-self: stretch;
         {% elsif is_honorable %}
           {% assign honorable_list_2018 = honorable_list_2018 | push: data %}
         {% elsif is_finalist %}
-          {% assign finalists_list_2018 = finalists_list_2018 | push: data %}
+          {% case winner_year %}
+            {% when 2019 %}
+              {% assign finalists_list_2019 = finalists_list_2019 | push: data %}
+            {% when 2018 %}
+              {% assign finalists_list_2018 = finalists_list_2018 | push: data %}
+          {% endcase %}
         {% else %}
           {% assign organizations_list = organizations_list | push: data %}
         {% endif %}
@@ -381,6 +399,8 @@ align-self: stretch;
 
     {% if is_winner %}
       {% case winner_year %}
+        {% when 2019 %}
+          {% assign winners_list_2019 = winners_list_2019 | push: data %}
         {% when 2018 %}
           {% assign winners_list_2018 = winners_list_2018 | push: data %}
         {% when 2016 %}
@@ -395,7 +415,12 @@ align-self: stretch;
     {% elsif is_honorable %}
       {% assign honorable_list_2018 = honorable_list_2018 | push: data %}
     {% elsif is_finalist %}
-      {% assign finalists_list_2018 = finalists_list_2018 | push: data %}
+      {% case winner_year %}
+        {% when 2019 %}
+          {% assign finalists_list_2019 = finalists_list_2019 | push: data %}
+        {% when 2018 %}
+          {% assign finalists_list_2018 = finalists_list_2018 | push: data %}
+      {% endcase %}
     {% else %}
       {% assign organizations_list = organizations_list | push: data %}
     {% endif %}
@@ -415,6 +440,10 @@ align-self: stretch;
 
 
 <ul class="proposals" id="project-list">
+
+  {% for data in winners_list_2019 %}
+    {% include project-list-item.html winner_year="2019" %}
+  {% endfor %}
 
   {% for data in winners_list_2018 %}
     {% include project-list-item.html winner_year="2018" %}
@@ -438,6 +467,10 @@ align-self: stretch;
 
   {% for data in honorable_list_2018 %}
     {% include project-list-item.html honorable_year="2018" %}
+  {% endfor %}
+
+  {% for data in finalists_list_2019 %}
+    {% include project-list-item.html finalist_year="2019" %}
   {% endfor %}
 
   {% for data in finalists_list_2018 %}
@@ -955,6 +988,7 @@ function addCategoryColor(tag) {
     }
 
     function getYear(item) {
+      if (item.innerHTML.indexOf("2019") >= 0) return 2019;
       if (item.innerHTML.indexOf("2018") >= 0) return 2018;
       if (item.innerHTML.indexOf("2016") >= 0) return 2016;
       if (item.innerHTML.indexOf("2015") >= 0) return 2015;
@@ -979,6 +1013,9 @@ function addCategoryColor(tag) {
       if (searchByTags && searchByTags != "") {
         let year = getYear(items[index])
         switch (year) {
+          case 2019:
+            rank += 0.05
+            break
           case 2018:
             rank += 0.04
             break

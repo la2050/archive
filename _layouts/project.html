@@ -21,6 +21,13 @@ stylesheets:
     {% endif %}
   {% endif %}
 {% endfor %}
+{% for finalist in site.data.finalists_2019 %}
+  {% if finalist == page.challenge_url %}
+    {% if page.year_submitted == 2019 %}
+      {% assign is_finalist = true %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
 
 {% assign is_honorable = false %}
 {% for honorable in site.data.honorable_mentions %}
@@ -109,10 +116,15 @@ http://maker.good.is/myla2050{{ page.category }}2015.html
 {% assign challenge_title = "My LA2050 Grants Challenge" %}
 {% assign challenge_url = "https://challenge.la2050.org" %}
 
-{% else %}
+{% elsif page.year_submitted == 2018 %}
 
 {% assign challenge_title = "My LA2050 Activation Challenge" %}
 {% assign challenge_url = "https://activation.la2050.org" %}
+
+{% else %}
+
+{% assign challenge_title = "My LA2050 Grants Challenge" %}
+{% assign challenge_url = "https://challenge.la2050.org" %}
 
 {% endif %}
 
