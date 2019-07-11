@@ -1,65 +1,37 @@
 ---
 published: true
 organization_id: '2013144'
-title: New America Foundation - CA Civic Innovation Project
+title: New America CA
 org_type: Nonprofit
 org_summary: >-
-  <p>The CCIP aims to diffuse innovation in California local governments through
-  researching and recommending organizational and emerging practices that enable
-  the creation and adoption of innovative policies, technology, and programs
-  that deepen community engagement and accelerate civic innovation. Our research
-  and practical exploration aim to break-down barriers to innovation within
-  municipalities, allowing for deeper relationships between residents and
-  government.</p>
-   
-   
-   
-   
-   
-   <p>CCIP launched in April 2012, and in our first year we have assembled a team of staff, interns, advisors, and partners that are dedicated to supporting CCIP in achieving long-term sustainability and changing the way California local governments work in order to be more responsive to their residents, enhancing social connectedness..</p>
-   
-   
-   
-   
-   
-   <p>Major project accomplishments include:</p>
-   
-   
-   
-   
-   
-   <p>- In 2012, Vallejo, California launched the first city-wide participatory budgeting process in the United States. The City of Vallejo will invite residents to decide how to spend over $3.4 million in sales tax revenue. Through a year-long PB process, thousands of residents will engage in critical discussions and decisions about the future of the city. The process aims to generate more informed spending, develop new grassroots leaders, build stronger communities, educate the public, expand civic participation, and forge deeper connections between government officials and citizens. CCIP serves as a research partner on this project because we are interested in the numerous impacts participatory budgeting can have in a community.</p>
-   
-   
-   
-   
-   
-   <p>- In September 2012, CCIP began an exploration of how innovation spreads in local government, through a study of how local governmental leaders use formal and informal networks to share information. The project uses a diverse set of methodologies -- from conversations with experts on networks and city administration, to surveys and interviews with public servants and city government associations, to documentation of knowledge sharing practices in several innovative projects undertaken by cities and counties in California. Together, these methods will allow us to explain how city staffers currently receive and disseminate information related to innovation, the barriers to more effective diffusion of ideas and approaches, and the ways in which existing formal networks might be modified to promote better collaboration and communication. We hope that the study will build on successes in the civic innovation space by helping to institutionalize the spread of innovation within and between cities. We seek to provide a roadmap to formal networks for effective modification and replication of successful projects. Our findings report will be released the week of April 1st.</p>
+  New America CA promotes efforts that are locally grown and grounded in
+  economic equity. We amplify the reach of change agents whose innovations
+  provide transformative solutions within communities.
 tags_indicators:
   - Voting & civic engagement
   - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522096845'
 organization_website:
-  - ccip.newamerica.net
-twitter: ''
+  - 'https://www.newamerica.org/ca/'
+twitter: '@NewAmericaCA'
 instagram: ''
 facebook: ''
 ein: '522096845'
-zip: ''
+zip: '94607'
 project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16898%252Fdisplay%252Fca_civic_innovation_project_logo.png=c570x385
-project_video: ''
+  https://challenge.la2050.org/assets/images/2019/create/2048-wide/new-america-ca.jpg
+project_video: 'https://www.youtube.com/watch?v=00Q9L_iiMTw'
 challenge_url:
+  - 'https://challenge.la2050.org/2019/create/new-america-ca/'
   - 'http://maker.good.is/myla2050/projects/LACivicLab.html'
 year_submitted:
+  - '2019'
   - '2013'
 project_ids:
+  - '9102057'
   - '3102206'
 project_titles:
+  - 'RiseLocal LA: Amplifying LA’s Equity Innovators'
   - LA Civic Engagement Lab
-maker_image_file_name: ca_civic_innovation_project_logo.png
-maker_image_id: '16898'
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/new-america-foundation-ca-civic-innovation-project/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16898%252Fdisplay%252Fca_civic_innovation_project_logo.png=c570x385.png
 
 ---

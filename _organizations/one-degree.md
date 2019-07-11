@@ -4,8 +4,8 @@ organization_id: '2018092'
 title: One Degree
 org_type: Nonprofit
 org_summary: >-
-  We create modern tech-driven solutions that help families find, access, and
-  manage nonprofit and social services efficiently and with dignity.
+  One Degree’s mission is to empower people to create a path out of poverty for
+  themselves and for their communities.
 tags_indicators:
   - Access to capital & benefits
   - Voting & civic engagement
@@ -13,25 +13,29 @@ tags_indicators:
   - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=364729392'
 organization_website:
-  - 'https://www.1degree.org/'
-twitter: '@1Deg'
-instagram: OneDegree
+  - 'https://www.1degree.org'
+twitter: '@1deg'
+instagram: '@1deg'
 facebook: 'https://www.facebook.com/1degree.org'
 ein: '364729392'
-zip: '90029'
-project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/one-degree.jpg'
+zip: 94114-1575
+project_image: 'https://challenge.la2050.org/assets/images/2019/live/2048-wide/one-degree.jpg'
 project_video: ''
 challenge_url:
+  - 'https://challenge.la2050.org/2019/live/one-degree/'
   - 'https://activation.la2050.org/live/one-degree/'
 year_submitted:
+  - '2019'
   - '2018'
 project_ids:
+  - '9102141'
   - '8102092'
 project_titles:
   - >-
     Empowering Angelenos to build a path out of poverty and thrive with One
     Degree
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/one-degree/activation.la2050.org/assets/images/live/2048-wide/one-degree.jpg
+  - >-
+    Empowering Angelenos to build a path out of poverty and thrive with One
+    Degree
 
 ---

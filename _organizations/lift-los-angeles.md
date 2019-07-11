@@ -4,9 +4,9 @@ organization_id: '2018068'
 title: LIFT-Los Angeles
 org_type: Nonprofit
 org_summary: >-
-  LIFT-LA is the only anti-poverty organization providing financial and career
-  coaching to low-income parents of young children, supported by a loving coach
-  with access to financial and social capital.
+  LIFT-LA empowers low-income parents of young children to break the cycle of
+  poverty through one-on-one career and financial coaching. We believe all
+  families should have an equal chance to thrive.
 tags_indicators:
   - Access to capital & benefits
   - Resiliency
@@ -16,14 +16,15 @@ charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.pr
 organization_website:
   - 'https://www.liftcommunities.org/'
 twitter: '@LIFTCommunities'
-instagram: liftcommunities
-facebook: '@LIFTcommunities'
+instagram: '@LIFTCommunities'
+facebook: '@LIFTCommunities'
 ein: '522168409'
-zip: ''
+zip: '90007'
 project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg
-project_video: 'https://www.youtube.com/watch?v=ms14tJAN0ls'
+  https://challenge.la2050.org/assets/images/2019/live/2048-wide/lift-los-angeles.jpg
+project_video: ''
 challenge_url:
+  - 'https://challenge.la2050.org/2019/live/lift-los-angeles/'
   - 'https://activation.la2050.org/live/lift-los-angeles/'
   - >-
     https://challenge.la2050.org/entry/bridging-gaps-lift-los-angeles-and-one-degrees-partnership-to-expand-networks-and-improve-lives
@@ -31,18 +32,23 @@ challenge_url:
   - 'http://maker.good.is/myLA2050connect/projects/LIFT-LA.html'
   - 'http://maker.good.is/myla2050/projects/liftcommunities.html'
 year_submitted:
+  - '2019'
   - '2018'
   - '2016'
   - '2015'
   - '2014'
   - '2013'
 project_ids:
+  - '9102135'
   - '8102068'
   - '6102131'
   - '5102177'
   - '4102119'
   - '3102181'
 project_titles:
+  - >-
+    One Emergency Away: LIFTing Los Angeles Out of Poverty and Preventing
+    Homelessness
   - >-
     Care.Connect.Change.:  UpLIFTing the (people) power of social and emotional
     supports
@@ -58,7 +64,5 @@ project_titles:
   - >-
     Care.Connect.Change: UpLIFTing the (people) power of social and emotional
     supports
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/lift-los-angeles/activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg
 
 ---

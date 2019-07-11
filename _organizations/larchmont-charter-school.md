@@ -4,34 +4,36 @@ organization_id: '2018064'
 title: Larchmont Charter School
 org_type: Nonprofit
 org_summary: >-
-  The Larchmont Social Justice Alliance gives kids a platform to speak up for
-  social justice and learn about the spoken word, activism, connections, youth
-  politics, literature, history, and policy.
+  The mission of Larchmont Charter School is to provide a socio-economically,
+  culturally and racially diverse community of students with an exceptional
+  public education.
 tags_indicators:
   - Teaching & mentorship
   - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=571206928'
 organization_website:
-  - www.larchmontcharter.org
+  - 'https://www.larchmontcharter.org'
 twitter: '@larchmontschool'
-instagram: 'https://www.instagram.com/larchmontschool/'
-facebook: 'https://www.facebook.com/LarchmontSchool/posts/10160153595750361'
+instagram: '@larchmontschool'
+facebook: Larchmont Charter School
 ein: '571206928'
-zip: '90405'
+zip: '90027'
 project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/larchmont-charter-school.jpg
+  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/larchmont-charter-school.jpg
 project_video: 'https://www.youtube.com/watch?v=GjY2oTPnxak'
 challenge_url:
+  - 'https://challenge.la2050.org/2019/learn/larchmont-charter-school/'
   - 'https://activation.la2050.org/connect/larchmont-charter-school/'
 year_submitted:
+  - '2019'
   - '2018'
 project_ids:
+  - '9102020'
   - '8102064'
 project_titles:
+  - The Larchmont Model-Teacher Initiative
   - >-
     Larchmont Social Justice Alliance allows youth to speak up for social
     justice with a literary voice.
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/larchmont-charter-school/activation.la2050.org/assets/images/connect/2048-wide/larchmont-charter-school.jpg
 
 ---

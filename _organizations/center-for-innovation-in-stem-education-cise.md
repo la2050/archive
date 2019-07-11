@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018016'
 title: Center for Innovation in STEM Education (CISE)
-org_type: Government
+org_type: Nonprofit
 org_summary: >-
   CISE brings STEM to the forefront of K-16 education by partnering with
   schools, community colleges, philanthropic and industry leaders to enable
@@ -15,25 +15,28 @@ charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.pr
 organization_website:
   - 'https://www.csudh.edu/cise/'
 twitter: '@DominguezHills'
-instagram: csudominguezhills
+instagram: '@csudominguezhills'
 facebook: 'https://www.facebook.com/CSUDH/'
 ein: '952543028'
-zip: ''
+zip: '90747'
 project_image: >-
-  https://scontent-lga3-1.cdninstagram.com/vp/87312e416f30060766fe7fda3f4d32f7/5C3CA11B/t51.2885-15/e35/38081903_369052070293126_155768293343363072_n.jpg
+  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/center-for-innovation-in-stem-education-cise.jpg
 project_video: ''
 challenge_url:
   - >-
+    https://challenge.la2050.org/2019/learn/center-for-innovation-in-stem-education-cise/
+  - >-
     https://activation.la2050.org/learn/center-for-innovation-in-stem-education-cise/
 year_submitted:
+  - '2019'
   - '2018'
 project_ids:
+  - '9102005'
   - '8102016'
 project_titles:
+  - 'Science, Technology, Education for the Next Generation'
   - >-
     Next Generation Science Standards: Empowering Teachers to Empower Students
     for the Future of STEM
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/center-for-innovation-in-stem-education-cise/scontent-lga3-1.cdninstagram.com/vp/87312e416f30060766fe7fda3f4d32f7/5C3CA11B/t51.2885-15/e35/38081903_369052070293126_155768293343363072_n.jpg
 
 ---

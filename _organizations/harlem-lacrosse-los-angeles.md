@@ -1,12 +1,12 @@
 ---
 published: true
 organization_id: '2018051'
-title: Harlem Lacrosse - Los Angeles
+title: Harlem Lacrosse
 org_type: Nonprofit
 org_summary: >-
   HL-LA empowers students who are most at risk for academic decline and dropout
-  to rise above their challenges, and dream about tomorrow while working hard on
-  the field and in the classroom today.
+  to rise above their challenges, reach their full potential, and dream about
+  tomorrow while training on and off the field.
 tags_indicators:
   - Teaching & mentorship
   - Fitness & sports
@@ -14,26 +14,28 @@ tags_indicators:
   - Health
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=451634118'
 organization_website:
-  - www.harlemlacrosse.org
-twitter: '@harlemlacrosse'
+  - 'https://www.harlemlacrosse.org'
+twitter: '@HarlemLacrosse'
 instagram: '@harlemlacrosse_LA'
-facebook: 'https://www.facebook.com/harlemlacrosseLA/'
+facebook: harlemlacrosseLA
 ein: '451634118'
-zip: ''
+zip: '90043'
 project_image: >-
-  https://activation.la2050.org/assets/images/learn/2048-wide/harlem-lacrosse-los-angeles.jpg
-project_video: 'https://www.youtube.com/watch?v=3WVD26iAwmw'
+  https://challenge.la2050.org/assets/images/2019/play/2048-wide/harlem-lacrosse.jpg
+project_video: 'https://youtu.be/t_TjnwnSfZg'
 challenge_url:
+  - 'https://challenge.la2050.org/2019/play/harlem-lacrosse/'
   - 'https://activation.la2050.org/learn/harlem-lacrosse-los-angeles/'
 year_submitted:
+  - '2019'
   - '2018'
 project_ids:
+  - '9102071'
   - '8102051'
 project_titles:
+  - Harlem Lacrosse - Los Angeles
   - >-
     Every Angeleno is an all star on our team. Help HL - LA build our home field
     advantage!
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/harlem-lacrosse-los-angeles/activation.la2050.org/assets/images/learn/2048-wide/harlem-lacrosse-los-angeles.jpg
 
 ---

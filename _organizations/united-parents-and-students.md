@@ -12,26 +12,30 @@ tags_indicators:
   - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=813413763'
 organization_website:
-  - 'http://unitedparentsandstudents.org/'
+  - 'https://www.unitedparentsandstudents.org'
 twitter: ''
-instagram: ''
-facebook: 'https://www.facebook.com/UnitedParentsandStudents/'
+instagram: '@unitedparentsandstudents'
+facebook: www.facebook.com/UnitedParentsandStudents/
 ein: '813413763'
-zip: '90057'
+zip: '90015'
 project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/united-parents-and-students.jpg
-project_video: 'https://vimeo.com/205438757'
+  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/united-parents-and-students.jpg
+project_video: 'https://vimeo.com/313460263'
 challenge_url:
+  - 'https://challenge.la2050.org/2019/connect/united-parents-and-students/'
   - 'https://activation.la2050.org/connect/united-parents-and-students/'
 year_submitted:
+  - '2019'
   - '2018'
 project_ids:
+  - '9102119'
   - '8102131'
 project_titles:
   - >-
     United Parents and Students: Developing Cultures of Civic Engagement Across
     Los Angeles
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/united-parents-and-students/activation.la2050.org/assets/images/connect/2048-wide/united-parents-and-students.jpg
+  - >-
+    United Parents and Students: Developing Cultures of Civic Engagement Across
+    Los Angeles
 
 ---

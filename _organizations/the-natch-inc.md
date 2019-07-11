@@ -1,11 +1,11 @@
 ---
 published: true
 organization_id: '2018120'
-title: 'The Natch, INC.'
-org_type: Forprofit
+title: Natch
+org_type: ''
 org_summary: >-
-  We run an online marketplace where anybody can locally sell and deliver food
-  they make.
+  We want to bring back shopping locally by bringing anything local shops make
+  or do to your door each day.
 tags_indicators:
   - Entrepreneurship & innovation
   - Access to healthy food
@@ -13,27 +13,29 @@ tags_indicators:
   - Health
 charity_navigator_url: ''
 organization_website:
-  - thenatch.co
-twitter: 'https://twitter.com/natch_app'
-instagram: 'https://www.instagram.com/natch_app_/'
-facebook: 'https://www.facebook.com/thenatch/'
+  - 'https://www.natch.co'
+twitter: ''
+instagram: ''
+facebook: ''
 ein: '813470225'
-zip: '90021'
-project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg'
+zip: '92618'
+project_image: 'https://challenge.la2050.org/assets/images/2019/create/2048-wide/natch.jpg'
 project_video: ''
 challenge_url:
+  - 'https://challenge.la2050.org/2019/create/natch/'
   - 'https://activation.la2050.org/create/the-natch-inc/'
   - >-
     https://challenge.la2050.org/entry/bringing-the-farmers-market-to-peoples-door
 year_submitted:
+  - '2019'
   - '2018'
   - '2016'
 project_ids:
+  - '9102056'
   - '8102120'
   - '6102208'
 project_titles:
+  - natch marketplace
   - Farmers Market Delivery
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/the-natch-inc/activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg
 
 ---

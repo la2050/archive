@@ -4,35 +4,36 @@ organization_id: '2016107'
 title: ICON CDC
 org_type: Nonprofit
 org_summary: >-
-  ICON is a Community Development Corporation who hosts the L.A. BusinessSource
-  Center, a no cost business assistance program to help start and grow
-  entrepreneurs and small businesses in Los Angeles.
+  ICON CDC empowers residents and small businesses in the San Fernando Valley
+  through programs that support social, civic, economic development, and
+  education.
 tags_indicators:
   - Workforce development
   - Teaching & mentorship
   - Income & employment
   - Education & youth
-charity_navigator_url: ''
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954871106'
 organization_website:
-  - iconcdc.org
-twitter: iconcdc
-instagram: iconcdc
-facebook: N/A
-ein: ''
-zip: ''
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4102217015741-team90.jpg
-project_video: 'https://www.youtube.com/embed/JVvCvAmzsCA?rel=0&amp;showinfo=0'
+  - 'https://www.iconcdc.org'
+twitter: '@iconcdc'
+instagram: '@iconcdc'
+facebook: 'https://www.facebook.com/ICONCDC/'
+ein: '954871106'
+zip: '91402'
+project_image: 'https://challenge.la2050.org/assets/images/2019/create/2048-wide/icon-cdc.jpg'
+project_video: ''
 challenge_url:
+  - 'https://challenge.la2050.org/2019/create/icon-cdc/'
   - >-
     https://challenge.la2050.org/entry/young-creative-entrepreneurs-and-small-business-internship-program
 year_submitted:
+  - '2019'
   - '2016'
 project_ids:
+  - '9102049'
   - '6102100'
 project_titles:
+  - Youth Entrepreneur Training Program
   - Young creative entrepreneurs and small business internship program
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/icon-cdc/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4102217015741-team90.jpg
 
 ---

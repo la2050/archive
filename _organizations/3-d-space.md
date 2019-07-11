@@ -4,34 +4,37 @@ organization_id: '2016002'
 title: 3-D SPACE
 org_type: Nonprofit
 org_summary: >-
-  3-D SPACE is an LA based arts and education nonprofit dedicated to both the
-  preservation of the history of stereoscopic imaging, and the advancement of
-  current and future 3-D arts and sciences.
+  3-D SPACE: The Center For Stereoscopic Photography, Art, Cinema, and
+  Education, is an LA based nonprofit organization and museum educating the
+  public in the art, science, and history of 3-D images.
 tags_indicators:
   - Art
   - Arts & cultural vitality
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472247578'
 organization_website:
-  - 3-DSPACE.org
-twitter: la3dspace
-instagram: la3dspace
-facebook: la3dspace
+  - 'https://www.3-DSPACE.org'
+twitter: '@la3dspace'
+instagram: '@la3dspace'
+facebook: www.facebook.com/la3dspace
 ein: '472247578'
-zip: '91601'
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4065764555741-team91.jpg
-project_video: 'https://www.youtube.com/embed/sMiWY0aFpkk?rel=0&amp;showinfo=0'
+zip: 91601-4102
+project_image: 'https://challenge.la2050.org/assets/images/2019/create/2048-wide/3-d-space.jpg'
+project_video: 'https://youtu.be/sMiWY0aFpkk'
 challenge_url:
+  - 'https://challenge.la2050.org/2019/create/3-d-space/'
   - >-
     https://challenge.la2050.org/entry/3-d-space-teaches-3-d-image-creation-from-analog-photography-to-digital-virtual-reality
   - 'http://maker.good.is/myla2050create2015/projects/la3dspace.html'
 year_submitted:
+  - '2019'
   - '2016'
   - '2015'
 project_ids:
+  - '9102036'
   - '6102001'
   - '5102004'
 project_titles:
+  - 3-D SPACE Stereoscopic Photography Workshop
   - >-
     3-D SPACE: The Center For Stereoscopic Photography, Art, Cinema, and
     Education in Los Angeles
@@ -41,7 +44,5 @@ project_titles:
   - >-
     3-D SPACE: The Center For Stereoscopic Photography Art Cinema and Education
     in Los Angeles
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/3-d-space/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4065764555741-team91.jpg
 
 ---
