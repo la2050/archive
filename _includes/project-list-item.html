@@ -1,5 +1,5 @@
 
-{% if page.is_search_results %}{% unless page.tag %}<script type="text/template" data-year="{{ data.year_submitted | join: ',' }}" data-tags="{{ data['tags_indicators'] | join: ',' }}" {% if include.is_winner %} data-winner="data-winner" {% elsif include.is_finalist %} data-finalist="data-finalist" {% endif %}>{% endunless %}{% endif %}
+{% if page.is_search_results %}{% unless page.tag %}<script type="text/template" data-year="{{ data.year_submitted | join: ',' }}" data-tags="{{ data['tags_indicators'] | join: ',' }}" {% if include.winner_year %} data-winner="data-winner" {% elsif include.finalist_year %} data-finalist="data-finalist" {% elsif include.honorable_year %} data-honorable="data-honorable" {% endif %}>{% endunless %}{% endif %}
 
 <li data-project-titles="{{ data['project_titles'] | join: "," }}">
   <a href="{{ data.url }}">
