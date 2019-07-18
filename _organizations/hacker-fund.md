@@ -4,8 +4,9 @@ organization_id: '2018050'
 title: Hacker Fund
 org_type: Nonprofit
 org_summary: >-
-  Hacker Fund empowers technologists to create social change through educational
-  resources, capacity-building services, and fiscal sponsorship.
+  We empower community stakeholders at every stage of their life to learn and
+  innovate by offering access to new skills, specialized machinery and tools,
+  and space to build technology projects.
 tags_indicators:
   - STEM & Digital literacy
   - Workforce development
@@ -13,23 +14,26 @@ tags_indicators:
   - Income & employment
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472485464'
 organization_website:
-  - www.hacker.fund
+  - 'https://www.hacker.fund'
 twitter: '@thehackerfund'
 instagram: '@hackerfund'
-facebook: '@hackerfund'
+facebook: facebook.com/hackerfund
 ein: '472485464'
-zip: ''
-project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/hacker-fund.jpg'
-project_video: 'https://vimeo.com/231126321'
+zip: '90405'
+project_image: >-
+  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/hacker-fund.jpg
+project_video: 'https://www.youtube.com/watch?v=rrmxqzbTycA&feature=youtu.be'
 challenge_url:
+  - 'https://challenge.la2050.org/2019/learn/hacker-fund/'
   - 'https://activation.la2050.org/create/hacker-fund/'
 year_submitted:
+  - '2019'
   - '2018'
 project_ids:
+  - '9102017'
   - '8102050'
 project_titles:
+  - Compton Innovation Center
   - Hacker Fund Civic Innovation Center
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/hacker-fund/activation.la2050.org/assets/images/create/2048-wide/hacker-fund.jpg
 
 ---

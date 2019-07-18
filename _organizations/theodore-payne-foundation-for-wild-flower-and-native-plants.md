@@ -1,44 +1,46 @@
 ---
 published: true
 organization_id: '2016236'
-title: Theodore Payne Foundation for Wild Flower and Native Plants
+title: Theodore Payne Foundation for Wild Flowers
 org_type: Nonprofit
 org_summary: >-
-  We rewild Los Angeles by bringing native plants back into the city, creating
-  habitat that supports local ecosystems, and helping people fall in love with
-  our shared natural heritage.
+  Theodore Payne Foundation inspires and educates Southern Californians about
+  the beauty and ecological benefits of California native plants.
 tags_indicators:
   - Air & water
   - Environmental quality & sustainability
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956095398'
 organization_website:
-  - theodorepayne.org
+  - 'https://www.theodorepayne.org'
 twitter: '@TheodorePayne'
-instagram: facebook.com/TheodorePayneFoundation
-facebook: theodorepayne
+instagram: '@theodorepayne'
+facebook: facebook.com/TheodorePayneFoundation
 ein: '956095398'
 zip: '91352'
 project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
+  https://challenge.la2050.org/assets/images/2019/play/2048-wide/theodore-payne-foundation-for-wild-flowe.jpg
 project_video: ''
 challenge_url:
+  - >-
+    https://challenge.la2050.org/2019/play/theodore-payne-foundation-for-wild-flowe/
   - >-
     https://challenge.la2050.org/entry/grow-local-plant-native!-youth-advocacy-for-sustainable-landscapes-at-la-public-housing
   - 'http://maker.good.is/myla2050connect2015/projects/LFR.html'
 year_submitted:
+  - '2019'
   - '2016'
   - '2015'
 project_ids:
+  - '9102079'
   - '6102261'
   - '5102316'
 project_titles:
+  - City of Butterflies / Cuidad de Mariposas
   - >-
     Grow Local: Plant Native! Youth advocacy for sustainable landscapes at LA
     Public Housing 
   - >-
     Grow Local: Plant Native! Youth advocacy for sustainable landscapes at LA
     Public Housing
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/theodore-payne-foundation-for-wild-flower-and-native-plants/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
 
 ---

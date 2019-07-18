@@ -13,23 +13,26 @@ tags_indicators:
   - Health
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954425565'
 organization_website:
-  - 'https://www.shoesthatfit.org/'
+  - 'https://www.shoesthatfit.org'
 twitter: '@ShoesThatFit'
-instagram: shoesthatfitcharity
-facebook: 'https://www.facebook.com/ShoesThatFitNonProfit'
+instagram: '@shoesthatfitcharity'
+facebook: 'https://www.facebook.com/ShoesThatFitNonProfit/'
 ein: '954425565'
-zip: ''
-project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/shoes-that-fit.jpg'
-project_video: 'https://www.youtube.com/watch?v=OiWi0EoNxHc'
+zip: '91711'
+project_image: >-
+  https://challenge.la2050.org/assets/images/2019/live/2048-wide/shoes-that-fit.jpg
+project_video: 'https://vimeo.com/292764608'
 challenge_url:
+  - 'https://challenge.la2050.org/2019/live/shoes-that-fit/'
   - 'https://activation.la2050.org/live/shoes-that-fit/'
 year_submitted:
+  - '2019'
   - '2018'
 project_ids:
+  - '9102147'
   - '8102108'
 project_titles:
+  - Operation Shoes That Fit LA
   - 'Equal Footing LA: Providing New Shoes For Kids In Need'
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/shoes-that-fit/activation.la2050.org/assets/images/live/2048-wide/shoes-that-fit.jpg
 
 ---

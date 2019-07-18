@@ -4,36 +4,38 @@ organization_id: '2018028'
 title: Civic Innovation Lab
 org_type: Nonprofit
 org_summary: >-
-  Civic Innovation Lab facilitates cross-sector collaboration and the creation
-  of civic solutions through design challenges, structured programming, and
-  networking with public & private sector experts.
+  Our mission is to provide meaningful and impactful opportunities for residents
+  to solve problems in their communities by leveraging data, design, and tech
+  and amplifying the skills of local talent.
 tags_indicators:
   - Entrepreneurship & innovation
   - Voting & civic engagement
   - Income & employment
   - Social connectedness
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=825296066'
 organization_website:
-  - civicinnovationlab.la
+  - 'https://www.civicinnovationlab.la'
 twitter: '@civicinnlab'
-instagram: civicinnovationlab
+instagram: '@civicinnovationlab'
 facebook: civicinnlab
-ein: '954116679'
-zip: 90089-0034
+ein: '825296066'
+zip: '90291'
 project_image: >-
-  https://activation.la2050.org/assets/images/create/2048-wide/civic-innovation-lab.jpg
+  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/civic-innovation-lab.jpg
 project_video: ''
 challenge_url:
+  - 'https://challenge.la2050.org/2019/connect/civic-innovation-lab/'
   - 'https://activation.la2050.org/create/civic-innovation-lab/'
 year_submitted:
+  - '2019'
   - '2018'
 project_ids:
+  - '9102091'
   - '8102028'
 project_titles:
+  - Pro Bono Tech
   - >-
     Bridging social enterprise, technology, and local government to accelerate
     civic innovators.
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/civic-innovation-lab/activation.la2050.org/assets/images/create/2048-wide/civic-innovation-lab.jpg
 
 ---

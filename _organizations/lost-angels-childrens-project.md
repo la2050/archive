@@ -4,36 +4,38 @@ organization_id: '2016141'
 title: Lost Angels Children's Project
 org_type: Nonprofit
 org_summary: >-
-  Lost Angels Children's Project LACP provides low-income and at-risk youth with
-  a safe, educational after-school mentorship program that promotes critical
-  thinking and teaches vocational skills.
+  To provide low-income and at-risk youth with a safe, educational after-school
+  program that promotes critical thinking and team building through vocational
+  skills training.
 tags_indicators:
   - STEM & Digital literacy
   - Teaching & mentorship
   - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473384907'
 organization_website:
-  - www.lostangelscp.org
-twitter: 'https://twitter.com/LostAngelsCP'
-instagram: 'https://www.instagram.com/lost_angels_childrens_project/'
-facebook: 'https://www.facebook.com/lostangelscp?fref=ts'
-ein: ''
-zip: ''
+  - 'https://www.lostangelscp.org'
+twitter: '@LostAngelsCP'
+instagram: '@lost_angels_childrens_project'
+facebook: '@lostangelscp'
+ein: '473384907'
+zip: '93534'
 project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3013757055741-team88.JPG
-project_video: 'https://www.youtube.com/embed/RLWhGmroxoM?rel=0&amp;showinfo=0'
+  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/lost-angels-childrens-project.jpg
+project_video: ''
 challenge_url:
+  - 'https://challenge.la2050.org/2019/learn/lost-angels-childrens-project/'
   - >-
     https://challenge.la2050.org/entry/skills-development-creative-expression-and-team-building-through-classic-car-restoration
 year_submitted:
+  - '2019'
   - '2016'
 project_ids:
+  - '9102022'
   - '6102148'
 project_titles:
+  - Vocational Training for At-Risk and Foster Youth
   - >-
     Skills development, creative expression and team building through classic
     car restoration.
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/lost-angels-childrens-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3013757055741-team88.JPG
 
 ---

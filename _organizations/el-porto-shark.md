@@ -2,34 +2,37 @@
 published: true
 organization_id: '2016069'
 title: El Porto Shark
-org_type: Forprofit
+org_type: Social enterprise or B-corps
 org_summary: >-
-  Aggregate shark sighting data to make smarter fisheries, researchers,
-  environmentalists, and policymakers by forecasting future populations.
+  El Porto Shark's mission is ocean and shark conservation through research,
+  education, and action. We are especially focused on creating citizen
+  scientists out of surfers and underserved communities.
 tags_indicators:
   - Climate change
   - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
-  - www.elportoshark.com
-twitter: elportoshark
-instagram: ElPortoShark
-facebook: elportoshark
-ein: ''
-zip: ''
+  - 'http://williseeashark.com/'
+twitter: '@elportoshark'
+instagram: '@elportoshark'
+facebook: 'https://www.facebook.com/ElPortoShark/'
+ein: '566373336'
+zip: '90056'
 project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4270387955741-team88.png
-project_video: 'https://www.youtube.com/embed/nowgVpDsUNE?rel=0&amp;showinfo=0'
+  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/el-porto-shark.jpg
+project_video: 'https://www.youtube.com/watch?v=j70l04crPn4'
 challenge_url:
+  - 'https://challenge.la2050.org/2019/learn/el-porto-shark/'
   - >-
     https://challenge.la2050.org/entry/save-sharks-fisheries-and-keep-l-a-weather-nice!
 year_submitted:
+  - '2019'
   - '2016'
 project_ids:
+  - '9102009'
   - '6102135'
 project_titles:
+  - Shark Weekends with L.A. Public Library + El Porto Shark
   - 'Save sharks, fisheries, and keep L.A. weather nice!'
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/el-porto-shark/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4270387955741-team88.png
 
 ---

@@ -17,18 +17,22 @@ twitter: '@LACity'
 instagram: ''
 facebook: 'https://www.facebook.com/CityofLosAngelesTruePage/'
 ein: '956000735'
-zip: ''
+zip: '90012'
 project_image: >-
-  https://activation.la2050.org/assets/images/learn/2048-wide/city-of-los-angeles-information-technology-agency.jpg
-project_video: 'https://youtu.be/5eE1kF4xL2U'
+  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/city-of-los-angeles-information-technology-agency-ita.jpg
+project_video: 'https://youtu.be/VxKR0_AlLI4'
 challenge_url:
+  - >-
+    https://challenge.la2050.org/2019/connect/city-of-los-angeles-information-technology-agency-ita/
   - >-
     https://activation.la2050.org/learn/city-of-los-angeles-information-technology-agency/
 year_submitted:
   - '2018'
 project_ids:
+  - '9102090'
   - '8102025'
 project_titles:
+  - GoDigital! Digital Literacy Program
   - GoDigital! LA’s Digital Literacy Program
 cached_project_image: >-
   https://archive-assets.la2050.org/images/city-of-los-angeles-information-technology-agency/activation.la2050.org/assets/images/learn/2048-wide/city-of-los-angeles-information-technology-agency.jpg

@@ -1,11 +1,12 @@
 ---
 published: true
 organization_id: '2016133'
-title: Los Angeles Audubon Society (LAAS)
+title: Los Angeles Audubon Society
 org_type: Nonprofit
 org_summary: >-
-  LA Audubon promotes the enjoyment and protection of birds and other wildlife
-  through environmental education, conservation and habitat restoration.
+  Los Angeles Audubon promotes the enjoyment and protection of birds and other
+  wildlife through environmental education, conservation and habitat
+  restoration.
 tags_indicators:
   - Access to parks & green space
   - Community gatherings
@@ -13,27 +14,29 @@ tags_indicators:
   - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956093704'
 organization_website:
-  - www.laaudubon.org
-twitter: LAAudubon
-instagram: LosAngelesAudubon
-facebook: la_audubon
+  - 'https://www.laaudubon.org'
+twitter: '@LAAudubon'
+instagram: '@la_audubon'
+facebook: www.facebook.com/LosAngelesAudubon
 ein: '956093704'
-zip: 90041-8301
+zip: '90041'
 project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7081548543741-team89.jpg
-project_video: 'https://youtube.com/embed/gxmDmbwknC0?rel=0&amp;showinfo=0'
+  https://challenge.la2050.org/assets/images/2019/play/2048-wide/los-angeles-audubon-society.jpg
+project_video: 'https://youtu.be/2XAZzi2YKno'
 challenge_url:
+  - 'https://challenge.la2050.org/2019/play/los-angeles-audubon-society/'
   - 'https://challenge.la2050.org/entry/la-audubon-urban-nature-explored'
   - 'http://maker.good.is/myla2050play2015/projects/urbannature.html'
 year_submitted:
+  - '2019'
   - '2016'
   - '2015'
 project_ids:
+  - '9102072'
   - '6102136'
   - '5102183'
 project_titles:
+  - LA Audubon Urban Nature Network
   - LA Audubon - Urban Nature Explored
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/los-angeles-audubon-society-laas/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7081548543741-team89.jpg
 
 ---

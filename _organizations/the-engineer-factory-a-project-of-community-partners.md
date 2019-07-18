@@ -1,39 +1,42 @@
 ---
 published: true
 organization_id: '2016217'
-title: 'The Engineer Factory, a project of Community Partners'
+title: 'The Engineer Factory, a Project of Community Partners'
 org_type: Nonprofit
 org_summary: >-
-  The Engineer Factory “plants seeds to grow STEM” in students in underserved
-  communities through project-based learning in community & afterschool
-  programs, engineer competitions, and TA for educators.
+  The mission of the Engineer Factory is to increase the number of students from
+  underrepresented populations (girls and students of color) pursuing higher
+  education and careers in STEM.
 tags_indicators:
   - STEM & Digital literacy
   - Teaching & mentorship
   - Education & youth
-charity_navigator_url: ''
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 organization_website:
-  - www.communitypartners.org/project/engineer-factory
-twitter: EngineerFactory
-instagram: TheEngineerFactory
-facebook: TheEngineerFactory
-ein: ''
-zip: ''
+  - 'https://www.theengineerfactory.org'
+twitter: '@EngineerFactory'
+instagram: '@theengineerfactory'
+facebook: 'https://www.facebook.com/TheEngineerFactory/'
+ein: '954302067'
+zip: '90012'
 project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7432986155741-team90.jpg
-project_video: 'https://www.youtube.com/embed/IgcIdSHSnMc?rel=0&amp;showinfo=0'
+  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/the-engineer-factory-a-project-of-community-partners.jpg
+project_video: 'https://www.youtube.com/watch?v=ExIBLrtQVv0&t=11s'
 challenge_url:
+  - >-
+    https://challenge.la2050.org/2019/learn/the-engineer-factory-a-project-of-community-partners/
   - >-
     https://challenge.la2050.org/entry/the-engineer-factory-producing-engineers-in-south-los-angeles-one-student-at-a-time!
 year_submitted:
+  - '2019'
   - '2016'
 project_ids:
+  - '9102031'
   - '6102241'
 project_titles:
+  - 'Engineer Factory #MathSwag'
   - >-
     The Engineer Factory: Producing engineers in South Los Angeles...one student
     at a time!
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/the-engineer-factory-a-project-of-community-partners/skild-prod.s3.amazonaws.com/myla2050/images/custom540/7432986155741-team90.jpg
 
 ---
