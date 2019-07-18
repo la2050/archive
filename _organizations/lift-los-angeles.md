@@ -21,7 +21,7 @@ facebook: '@LIFTCommunities'
 ein: '522168409'
 zip: '90007'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/lift-los-angeles.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/live/lift-los-angeles/'
