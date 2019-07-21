@@ -7,7 +7,7 @@ main_class: standard-layout
 # About
 
 <div class="introduction">
-<p style="max-width: 33em">The My LA2050 Ideas Archive is searchable database of great organizations and bright ideas from the <a href="https://activation.la2050.org">My LA2050 Challenges</a>.</p>
+<p style="max-width: 33em">The <a href="/">My LA2050 Ideas Archive</a> is searchable database of great organizations and bright ideas from the <a href="https://challenge.la2050.org">My LA2050 Challenges</a>.</p>
 </div>
 
 ## Over 1,000 organizations have submitted ideas
