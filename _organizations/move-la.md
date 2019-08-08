@@ -7,7 +7,9 @@ org_summary: >-
   We are coalition builders who instigated the Measure R and M campaigns that
   won $120 billion for transit and now seek to reduce the impact of
   transportation on air toxins and climate change.
-tags_indicators: []
+tags_indicators:
+  - Transportation
+  - Climate change
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 organization_website:
   - 'https://www.movela.org'

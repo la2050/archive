@@ -7,7 +7,9 @@ org_summary: >-
   The American Digital Diversity Initiative is dedicated to educating community
   leaders, policymakers and other important influencers about the critical
   importance of universal digital access.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - Workforce development
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=824037629'
 organization_website:
   - 'https://www.digitalequity.tech'

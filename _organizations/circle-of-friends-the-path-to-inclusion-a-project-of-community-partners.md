@@ -9,7 +9,9 @@ org_summary: >-
   communities 
    
    where everyone is valued and has a voice.
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - Teaching & mentorship
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 organization_website:
   - 'https://www.circleofriends.org'

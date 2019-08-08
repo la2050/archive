@@ -7,7 +7,8 @@ org_summary: >-
   We foster the practice of human values including a sense of connectedness,
   respect for all people and nature, an attitude of non-violence, and an ethic
   of social service.
-tags_indicators: []
+tags_indicators:
+  - Community safety
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522178069'
 organization_website:
   - 'http://us.iahv.org/'

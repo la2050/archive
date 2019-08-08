@@ -7,7 +7,9 @@ org_summary: >-
   Esperanza Community Housing achieves comprehensive community development by
   addressing affordable housing; health equity and access to care; economic
   development, the arts, and environmental justice.
-tags_indicators: []
+tags_indicators:
+  - Community health
+  - Affordable housing
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954204049'
 organization_website:
   - 'https://www.esperanzacommunityhousing.org'

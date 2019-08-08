@@ -7,7 +7,9 @@ org_summary: >-
   In the Making is a community resource center located in East Los Angeles
   collaborating with open-minded, forward thinking organizations for the
   enhancement of all.
-tags_indicators: []
+tags_indicators:
+  - Community gatherings
+  - Workforce development
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=820657611'
 organization_website:
   - 'https://www.inthemakingla.org'

@@ -7,7 +7,8 @@ org_summary: >-
   To bridge the divide between law enforcement and the communities they serve.
   We will use the magic of film incorporated into community engagement meetings
   to make conversations more productive.
-tags_indicators: []
+tags_indicators:
+  - Community safety
 charity_navigator_url: ''
 organization_website:
   - 'https://c-it-productions.com/'

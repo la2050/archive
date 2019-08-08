@@ -7,7 +7,9 @@ org_summary: >-
   STOKED's mission is to create a community of fearless leaders through
   mentoring, opportunity and action. We empower youth to reach their potential
   by instilling passion, resilience, and determination.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Fitness & sports
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=562530783'
 organization_website:
   - 'https://www.stoked.org'

@@ -7,7 +7,9 @@ org_summary: >-
   The Justice for My Sister Collective is committed to diversifying the film
   industry by equipping the next generation of socially conscious filmmakers
   with skills training, mentorship, and job access.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Teaching & mentorship
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 organization_website:
   - 'http://justiceformysister.com/collective/'

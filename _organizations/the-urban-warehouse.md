@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   The Urban Warehouse trades skateboarding for education; using an active
   lifestyle as the backbone to success in education.
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Teaching & mentorship
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800569162'
 organization_website:
   - 'https://www.thegarageboardshops.com'

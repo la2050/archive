@@ -7,7 +7,9 @@ org_summary: >-
   To reduce homelessness, maximize affordable housing, empower low-income
   people, provide social services, & advocate for policy that strengthens the
   economic, racial & cultural diversity of Venice.
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Affordable housing
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954200761'
 organization_website:
   - 'http://www.vchcorp.org'

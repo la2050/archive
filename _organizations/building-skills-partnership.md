@@ -7,7 +7,8 @@ org_summary: >-
   BSP works to improve the quality of life for low-wage property service workers
   and their families by increasing their skills, access to education, and
   opportunities for career & community advancement.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=261254255'
 organization_website:
   - 'http://www.buildingskills.org'

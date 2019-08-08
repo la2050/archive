@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   We are an advocacy organization representing goods movement industry
   businesses and supporting sustainable growth of the Southern California Ports.
-tags_indicators: []
+tags_indicators:
+  - Transportation
+  - Entrepreneurship & innovation
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=202619927'
 organization_website:
   - 'https://www.futureports.org'

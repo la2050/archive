@@ -7,7 +7,8 @@ org_summary: >-
   Depression is the world’s greatest health problem: it’s common, it disables,
   it kills, it’s costly, & it’s not well-treated. UCLA leads an effort to
   understand, prevent, & treat depression.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
 organization_website:
   - 'https://grandchallenges.ucla.edu/depression'

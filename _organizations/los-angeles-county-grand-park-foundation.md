@@ -8,7 +8,9 @@ org_summary: >-
   people of 
    
    Los Angeles County and all visitors for generations to come.
-tags_indicators: []
+tags_indicators:
+  - Access to parks & green space
+  - Community gatherings
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=465239005'
 organization_website:
   - 'https://grandparkfoundation.org'

@@ -7,7 +7,8 @@ org_summary: >-
   ProCon.org promotes critical thinking, education, and informed citizenship by
   presenting controversial issues in a straightforward, nonpartisan, and
   primarily pro-con format.
-tags_indicators: []
+tags_indicators:
+  - Voting & civic engagement
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=571210185'
 organization_website:
   - 'https://www.procon.org/'

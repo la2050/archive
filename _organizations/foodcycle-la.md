@@ -4,7 +4,8 @@ organization_id: '2019130'
 title: FoodCycle LA
 org_type: Nonprofit
 org_summary: Connect excess food with people in need.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471615623'
 organization_website:
   - 'https://www.foodcyclela.org'

@@ -7,7 +7,9 @@ org_summary: >-
   At 9 Dots, we are a community of educators, researchers, and engineers
   committed to bringing an exceptional computer science to all students,
   particularly those from underserved communities.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - Teaching & mentorship
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452834070'
 organization_website:
   - 'https://www.9Dots.org'

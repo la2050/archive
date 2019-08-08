@@ -7,7 +7,9 @@ org_summary: >-
   The Women's Center for Creative Work is a LA-based intersectional feminist
   arts space that is building community & elevating the work of women &
   non-binary artists, makers, & creative practitioners.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Art
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473461777'
 organization_website:
   - 'https://womenscenterforcreativework.com/'

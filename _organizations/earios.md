@@ -7,7 +7,8 @@ org_summary: >-
   Amplifying women's voices and stories by creating a podcast network built
   entirely by women. We hope to open up opportunities for women in an industry
   where they have been largely excluded.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
 charity_navigator_url: ''
 organization_website:
   - 'http://earios.net'

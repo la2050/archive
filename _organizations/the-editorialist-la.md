@@ -7,7 +7,8 @@ org_summary: >-
   I believe LA boasts incredible untapped potential for content, so I launched
   my media company, The Editorialist LA, to provide curated content about Los
   Angeles to millennials, especially women.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
 charity_navigator_url: ''
 organization_website:
   - 'https://www.theeditorialistla.com'

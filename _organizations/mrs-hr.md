@@ -7,7 +7,9 @@ org_summary: >-
   To educate, encourage and empower applicants and employers so that they can
   promote policies and practices that are essential to a positive workplace,
   namely: sustainability, inclusion, and diversity
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.mrshr.com'

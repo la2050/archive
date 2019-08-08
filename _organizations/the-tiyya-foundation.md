@@ -7,7 +7,8 @@ org_summary: >-
   The Tiyya Foundation provides community support for families of refugees,
   asylees and low-income immigrants. We hope to create a community that fosters
   the development of self-sufficiency.
-tags_indicators: []
+tags_indicators:
+  - Voting & civic engagement
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273128801'
 organization_website:
   - 'https://www.tiyya.org'

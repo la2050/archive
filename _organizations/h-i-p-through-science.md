@@ -7,7 +7,8 @@ org_summary: >-
   The People of Change offers programs to promote advancement opportunities for
   community members through community-based initiatives in areas of Education
   Economic Empowerment and Cultural Awareness.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474106069'
 organization_website:
   - 'https://www.thepplofchange.org'

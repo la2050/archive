@@ -7,7 +7,8 @@ org_summary: >-
   GCPEA’s mission is to raise money for program operation costs to support
   tuition-free parent education courses for families with children age
   birth-five. GCPEA’s work is done by parent volunteers.
-tags_indicators: []
+tags_indicators:
+  - Early childhood
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953876072'
 organization_website:
   - 'https://www.gcpea.org'

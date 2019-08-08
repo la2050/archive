@@ -7,7 +7,8 @@ org_summary: >-
   AHDOM_SAYRE is a design and advocacy group for spaces that allow for true
   health and higher performance through a symbiotic relationship between humans,
   natural systems, and good design.
-tags_indicators: []
+tags_indicators:
+  - Access to parks & green space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.ahdomsayre.com'

@@ -7,7 +7,8 @@ org_summary: >-
   PLUS ME Project believes everyone has a story that matters. We are a community
   partner dedicated to empowering youth to build their confidence by teaching
   the art of storytelling.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463506663'
 organization_website:
   - 'https://www.theplusmeproject.org'

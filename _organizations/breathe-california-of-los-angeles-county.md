@@ -7,7 +7,10 @@ org_summary: >-
   The mission of BREATHE California of Los Angeles County (BREATHE LA) is to
   promote clean air and healthy lungs through research, education, advocacy, and
   technology.
-tags_indicators: []
+tags_indicators:
+  - Community health
+  - Air & water
+  - Climate change
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951641451'
 organization_website:
   - 'https://www.breathela.org'

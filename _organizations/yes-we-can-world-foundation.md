@@ -7,7 +7,8 @@ org_summary: >-
   Every child has the right to education regardless of their location. We create
   positive bilingual learning environments for underprivileged youth through
   innovative educational programs.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=833753567'
 organization_website:
   - 'https://www.yeswecan.world'

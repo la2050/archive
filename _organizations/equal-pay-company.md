@@ -6,7 +6,8 @@ org_type: Social enterprise or B-corps
 org_summary: >-
   Equal Pay Company's mission is to give people the power to grow their practice
   of kindness, inclusion, diversity, equity, and accessibility (Kind IDEA).
-tags_indicators: []
+tags_indicators:
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://equalpay.co'

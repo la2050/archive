@@ -7,7 +7,9 @@ org_summary: >-
   JOY FACTORY is an artist run clubhouse with a season of events. Membership
   fees pay for our internship program for teens and adults who are ready to get
   off the streets and into employment.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Community gatherings
 charity_navigator_url: ''
 organization_website:
   - 'http://wearejoyfactory.org'

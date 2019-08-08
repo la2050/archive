@@ -7,7 +7,9 @@ org_summary: >-
   The mission of Rock the Vote is to build long-term youth political power. We
   do this by using pop culture, music, art, politics, and technology to promote
   civic and community engagement.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Voting & civic engagement
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=020767157'
 organization_website:
   - 'https://www.rockthevote.org'

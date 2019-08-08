@@ -7,7 +7,8 @@ org_summary: >-
   The Institute for Art and Olfaction is a 501(c)(3) non-profit devoted to
   advancing public, artistic and experimental engagement with scent through
   education, experimentation and advocacy.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463012493'
 organization_website:
   - 'https://www.artandolfaction.com'

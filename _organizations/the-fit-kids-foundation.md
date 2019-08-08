@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   Fit Kids provides structured physical activity programs for underserved
   children to build the foundation for a healthy, active life.
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Teaching & mentorship
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=274987709'
 organization_website:
   - 'https://www.fitkids.org'

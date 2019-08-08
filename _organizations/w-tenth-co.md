@@ -7,7 +7,9 @@ org_summary: >-
   We are building a digital marketplace that encourages women who have left the
   workforce to market (and monetize) their everyday talents to their neighbors,
   friends, and communities.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Creative economy
 charity_navigator_url: ''
 organization_website:
   - 'https://www.wtenth.com'

@@ -7,7 +7,8 @@ org_summary: >-
   A collaboration of academia, government and businesses, our mission is to grow
   LA into a sustainable blockchain innovation hub with a thriving ecosystem by
   creating jobs and fostering economic growth.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lablockchainlab.org'

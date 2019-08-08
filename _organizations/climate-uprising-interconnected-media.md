@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   Climate Uprising is a global call for climate action powered by stories of
   people impacted by the climate crisis and community events.
-tags_indicators: []
+tags_indicators:
+  - Climate change
+  - Resiliency
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=453038797'
 organization_website:
   - 'https://www.climateuprising.org'

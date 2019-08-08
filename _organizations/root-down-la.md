@@ -6,7 +6,8 @@ org_type: Nonprofit
 org_summary: >-
   RootDown LA empowers youth to succeed through healthy ventures in their
   communities.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 organization_website:
   - 'https://www.rootdownla.org'

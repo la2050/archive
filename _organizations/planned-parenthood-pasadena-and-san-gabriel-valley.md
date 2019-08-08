@@ -7,7 +7,9 @@ org_summary: >-
   We provide broad public access to sexual and reproductive health care through
   1) comprehensive and compassionate medical services; 2) community health
   education; and 3) local and national advocacy.
-tags_indicators: []
+tags_indicators:
+  - Community health
+  - Mental & emotional health
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951916050'
 organization_website:
   - 'https://www.pppsgv.org'

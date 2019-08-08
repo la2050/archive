@@ -7,7 +7,9 @@ org_summary: >-
   Gladeo is dedicated to bridging the belief, information, and network gaps that
   often prevent historically underrepresented and underserved youth from
   accessing and thriving in careers.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - STEM & Digital literacy
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472676458'
 organization_website:
   - 'https://gladeo.org'

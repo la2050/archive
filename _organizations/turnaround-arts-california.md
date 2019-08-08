@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   Turnaround Arts: California harnesses the power of the arts to engage,
   empower, and transform high-need schools and communities.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Teaching & mentorship
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472446628'
 organization_website:
   - 'https://www.turnaroundartsca.org'

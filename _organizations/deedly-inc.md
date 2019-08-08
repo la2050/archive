@@ -7,7 +7,9 @@ org_summary: >-
   Deedly is a not-for-profit organization whose mission is to leverage
   technology, educational institutions, & the altruism of young people to
   authentically inspire & activate positive, lasting impact.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Voting & civic engagement
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=811337436'
 organization_website:
   - 'https://www.deedly.com'

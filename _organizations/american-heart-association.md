@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   The American Heart Association's mission is to be a relentless force for a
   world of longer, healthier lives.
-tags_indicators: []
+tags_indicators:
+  - Community health
+  - Fitness & sports
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=135613797'
 organization_website:
   - 'https://www.heart.org'

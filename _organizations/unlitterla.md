@@ -7,7 +7,9 @@ org_summary: >-
   Inspiring LA pride through mass street litter cleanup events, that are highly
   visible for those not participating. Our goals are increased civic pride,
   cleaner streets and cleaner waterways.
-tags_indicators: []
+tags_indicators:
+  - Air & water
+  - Volunteerism
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=833262016'
 organization_website:
   - 'http://www.unlitterla.org'
