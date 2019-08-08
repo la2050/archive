@@ -7,7 +7,11 @@ org_summary: >-
   To support youth and young adults with Autism Spectrum Disorder, in an effort
   to produce successful, employable, and self sufficient individuals, who are
   productive contributors to society.
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - Teaching & mentorship
+  - Mobility
+  - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262825373'
 organization_website:
   - 'https://www.tunsonleadershipfoundation.org'

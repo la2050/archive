@@ -7,7 +7,9 @@ org_summary: >-
   Our mission is to build a wireless Public Utility that would be paid for by
   the companies that make the devices we buy. The network will be autonomous,
   and so the antennas can be owned by anyone.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.m2mbell.com'

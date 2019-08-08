@@ -7,7 +7,9 @@ org_summary: >-
   Santa Monica College is an educational leader and innovator in west Los
   Angeles that fosters personal and intellectual exploration while students
   learn to contribute to the local and global community.
-tags_indicators: []
+tags_indicators:
+  - College prep
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.smc.edu'

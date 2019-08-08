@@ -7,7 +7,10 @@ org_summary: >-
   The International Visitors Council of L.A. designs exchange programs for
   international change-makers to foster understanding and cooperation between
   the L.A. and the world.
-tags_indicators: []
+tags_indicators:
+  - Voting & civic engagement
+  - Community gatherings
+  - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953692511'
 organization_website:
   - 'https://www.ivcla.org'

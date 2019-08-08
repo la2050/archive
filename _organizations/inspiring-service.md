@@ -7,7 +7,9 @@ org_summary: >-
   Our mission is to inspire and empower people and organizations to engage in
   volunteering that improves and strengthens communities and themselves. We
   strengthen volunteer ecosystems with technology.
-tags_indicators: []
+tags_indicators:
+  - Volunteerism
+  - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=821699198'
 organization_website:
   - 'https://inspiringservice.org'

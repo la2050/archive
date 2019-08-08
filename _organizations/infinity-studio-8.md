@@ -6,7 +6,9 @@ org_type: For-profit organization
 org_summary: >-
   Create a platform through collaboration and community, in order to develop a
   sustainable and commercially viable model for an independent artistic career.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.massivelyepic.com'

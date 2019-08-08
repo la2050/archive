@@ -7,7 +7,9 @@ org_summary: >-
   Our mission is to provide high quality literacy resources to enliven
   children's hearts, minds and spirits through fun, interactive adventures that
   provide a strong reading and writing foundation.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://theabcclub.org'

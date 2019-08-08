@@ -6,7 +6,11 @@ org_type: Nonprofit
 org_summary: >-
   Novelly is on a mission to spark the changemaker in every young person, one
   young adult novel at a time.
-tags_indicators: []
+tags_indicators:
+  - Voting & civic engagement
+  - STEM & Digital literacy
+  - Social connectedness
+  - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=832216402'
 organization_website:
   - 'https://www.novelly.org'

@@ -7,7 +7,11 @@ org_summary: >-
   ManifestWorks connects those impacted by foster care, homelessness and
   incarceration with transformative job opportunities and provides the life and
   professional skills for long-term success.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Creative economy
+  - Income & employment
+  - Arts & cultural vitality
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475485332'
 organization_website:
   - 'https://www.manifestworks.org'

@@ -6,7 +6,11 @@ org_type: Social enterprise or B-corps
 org_summary: >-
   An LA-wide set of workshops designed to harness the power of art + collective
   intelligence so we can better connect our communities and our city.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Voting & civic engagement
+  - Arts & cultural vitality
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sense.la'

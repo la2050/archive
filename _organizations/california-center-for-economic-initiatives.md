@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   To support the preservation of all indigenous cultures in the world through
   arts and storytelling.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800317823'
 organization_website:
   - 'http://garifunafilmfestival.com/'

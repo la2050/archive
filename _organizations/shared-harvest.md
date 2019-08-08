@@ -7,7 +7,9 @@ org_summary: >-
   Shared Harvest is on a mission to champion volunteerism while also helping
   students and professionals crush their student loan debt one social good at a
   time.
-tags_indicators: []
+tags_indicators:
+  - Volunteerism
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sharedharvestfund.org'

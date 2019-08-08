@@ -7,7 +7,9 @@ org_summary: >-
   CALmatters is a nonpartisan, nonprofit newsroom covering government and policy
   issues that affect Californians. Awareness and understanding leads to
   engagement, which makes for a healthier democracy.
-tags_indicators: []
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472474086'
 organization_website:
   - 'https://www.calmatters.org'

@@ -7,7 +7,11 @@ org_summary: >-
   Defy Ventures’ mission is to give people with criminal histories their best
   shot at a second chance by providing them with personal development, career
   readiness, and entrepreneurship training.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Entrepreneurship & innovation
+  - Access to capital & benefits
+  - Income & employment
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273611908'
 organization_website:
   - 'https://www.defyventures.org'

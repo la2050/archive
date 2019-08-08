@@ -7,7 +7,13 @@ org_summary: >-
   Hav A Sole’s mission is to provide the homeless and at-risk youth with quality
   footwear to encourage healthier lifestyles, while fostering a sense of
   community along the way.
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Community health
+  - Volunteerism
+  - Housing & homelessness
+  - Health
+  - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471674980'
 organization_website:
   - 'https://havasole.com/'

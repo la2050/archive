@@ -6,7 +6,11 @@ org_type: Nonprofit
 org_summary: >-
   B~STEM Project’s primary goal is to provide young people with a comprehensive
   and interdisciplinary experience with business and STEM disciplines.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - Workforce development
+  - Education & youth
+  - Income & employment
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474988400'
 organization_website:
   - 'https://www.bstemproject.org/'

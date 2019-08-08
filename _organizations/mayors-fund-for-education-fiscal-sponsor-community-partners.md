@@ -7,7 +7,9 @@ org_summary: >-
   The Mayor’s Fund for Education amplifies educational efforts to provide a
   cradle-to-career approach to ensure all students have access to educational
   pathways resulting in a thriving community.
-tags_indicators: []
+tags_indicators:
+  - Early childhood
+  - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 organization_website:
   - 'https://www.mayorsfundfored.org'

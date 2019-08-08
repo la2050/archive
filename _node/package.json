@@ -9,6 +9,8 @@
     "not in use organizations:create": "node --max-old-space-size=4096 ./generate/create-organizations.js",
     "organizations:update": "node --max-old-space-size=4096 ./generate/update-organizations.js",
     "tags:create": "node --max-old-space-size=4096 ./generate/create-tags.js",
+    "organizations:update:tags": "node --max-old-space-size=4096 ./generate/update-organizations-with-tags.js",
+    "organizations:update:tags:parent": "node --max-old-space-size=4096 ./generate/update-organizations-with-parent-tags.js",
     "images:download": "node ./generate/download-images.js",
     "import:challenge": "node --max-old-space-size=4096 ./generate/import-challenge-entries.js",
     "not in use images:create": "gulp",

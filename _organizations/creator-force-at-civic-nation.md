@@ -7,7 +7,11 @@ org_summary: >-
   Creator Force is expanding and diversifying the Creative Class by providing
   young people with awareness, inspiration and access to realize that the
   culture they love can be pathways to creative jobs.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Workforce development
+  - Arts & cultural vitality
+  - Income & employment
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473576918'
 organization_website:
   - 'https://www.creatorforce.com'

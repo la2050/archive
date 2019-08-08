@@ -9,7 +9,9 @@ org_summary: >-
   The mission of our VCC-Los Angeles collaborative is to support effective
   implementation of a new voting system in LA County and engage the public
   throughout the process.
-tags_indicators: []
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311705370'
 organization_website:
   - 'https://www.commoncause.org/CA'

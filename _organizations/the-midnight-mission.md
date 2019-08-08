@@ -6,7 +6,11 @@ org_type: Nonprofit
 org_summary: >-
   Our Mission: To offer a bridge to self-sufficiency and make available the
   necessities of life to people experiencing homelessness.
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Mental & emotional health
+  - Housing & homelessness
+  - Health
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951691293'
 organization_website:
   - 'https://www.midnightmission.org'

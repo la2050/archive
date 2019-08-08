@@ -7,7 +7,10 @@ org_summary: >-
   Rebel Labs is a public benefit corporation & Pending Certified B Corp with a
   vision to lead a science-based rebellion to eliminate obesity & type 2
   diabetes, through its online Rebel360 platform.
-tags_indicators: []
+tags_indicators:
+  - Community health
+  - Access to healthy food
+  - Health
 charity_navigator_url: ''
 organization_website:
   - - 'http://rebellabs.com'

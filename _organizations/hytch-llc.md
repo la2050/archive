@@ -7,7 +7,11 @@ org_summary: >-
   Hytch was created to defeat congestion and defend clean air with cash
   incentives. Hytch's mobile app promotes fewer SOV trips, increases ridership
   on public transportation, and connects the community.
-tags_indicators: []
+tags_indicators:
+  - Transportation
+  - Air & water
+  - Mobility
+  - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
   - 'https://www.hytch.me/'

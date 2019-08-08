@@ -7,7 +7,11 @@ org_summary: >-
   Rise is a student-led nonprofit working to ensure that all students can earn a
   higher education by advocating for policies that make public higher education
   free.
-tags_indicators: []
+tags_indicators:
+  - College prep
+  - Voting & civic engagement
+  - Education & youth
+  - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=821876815'
 organization_website:
   - 'https://www.risefree.org'

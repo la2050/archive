@@ -7,7 +7,9 @@ org_summary: >-
   The mission of Mayor Eric Garcetti’s Census 2020 Initiative is to facilitate a
   fair and accurate decennial count in Los Angeles through education, outreach
   and engagement of hard-to-count populations.
-tags_indicators: []
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lamayor.org/'

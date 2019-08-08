@@ -7,7 +7,11 @@ org_summary: >-
   EVERYBODY.WORLD makes thoughtful goods in LA and is committed to championing
   fair wages, pushing boundaries in apparel sustainability, and collaborating
   with creative minds to make enjoyable clothing.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Entrepreneurship & innovation
+  - Arts & cultural vitality
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.everybody.world'

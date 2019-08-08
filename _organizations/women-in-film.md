@@ -6,7 +6,11 @@ org_type: Nonprofit
 org_summary: >-
   Women In Film advocates for and advances the careers of women working in the
   screen industries — to achieve parity and transform culture.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Creative economy
+  - Income & employment
+  - Arts & cultural vitality
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237322834'
 organization_website:
   - 'https://www.womeninfilm.org'

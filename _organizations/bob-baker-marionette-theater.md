@@ -6,7 +6,10 @@ org_type: Nonprofit
 org_summary: >-
   To provide unique theatrical experiences; to educate, to celebrate, to
   rejuvenate puppetry and the allied arts.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Creative economy
+  - Arts & cultural vitality
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=830977614'
 organization_website:
   - 'https://www.bobbakermarionettetheater.com'

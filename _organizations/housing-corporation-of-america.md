@@ -7,7 +7,11 @@ org_summary: >-
   HCA is a social service provider that coordinates onsite informal education
   programs in STEM and arts enrichment at over eighty affordable housing
   communities.
-tags_indicators: []
+tags_indicators:
+  - Affordable housing
+  - STEM & Digital literacy
+  - Housing & homelessness
+  - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=870457932'
 organization_website:
   - 'https://www.hcahousing.org'

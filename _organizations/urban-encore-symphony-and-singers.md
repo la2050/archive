@@ -7,7 +7,11 @@ org_summary: >-
   Urban Encore connects world-class musicians and emerging artists with
   underserved communities in L.A. We encourage caregivers and patients to
   perform and experience the healing power of music.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Art
+  - Health
+  - Arts & cultural vitality
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=832697429'
 organization_website:
   - 'https://www.urbaness.org'

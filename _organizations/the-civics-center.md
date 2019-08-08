@@ -7,7 +7,11 @@ org_summary: >-
   The mission of The Civics Center is to build the foundations of civic
   engagement in high school through education, research, advocacy, and volunteer
   organizing.
-tags_indicators: []
+tags_indicators:
+  - Voting & civic engagement
+  - Teaching & mentorship
+  - Social connectedness
+  - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 organization_website:
   - 'https://thecivicscenter.org/'

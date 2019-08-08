@@ -7,7 +7,10 @@ org_summary: >-
   GetGlobal produces summits on international expansion, strategy, and key
   foreign markets. It brings together visionary companies and provides the
   intelligence and relationships to succeed worldwide.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Access to capital & benefits
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.getglobal.co'

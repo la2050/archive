@@ -7,7 +7,11 @@ org_summary: >-
   We provide at-risk young adults with opportunities for success through job
   skills training, education, and work experience emphasizing conservation and
   service projects that benefit the community.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Air & water
+  - Income & employment
+  - Environmental quality & sustainability
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954002138'
 organization_website:
   - 'https://www.lacorps.org'
