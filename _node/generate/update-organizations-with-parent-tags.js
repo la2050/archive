@@ -182,7 +182,7 @@ function processFile(filename) {
   let data = loadMarkdown(filename)
   if (!data) return
 
-  if (data.tags_indicators && data.tags_indicators.length > 0 && data.year_submitted.includes("2019")) {
+  if (data.tags_indicators && data.tags_indicators.length > 0) {
     console.log ("Updating tags for: " + filename)
 
     let tagsUpdated = false

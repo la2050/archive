@@ -6,6 +6,7 @@ let parse = require('csv-parse/lib/sync')
 let yaml = require('js-yaml')
 
 let tags = parse(fs.readFileSync('./spreadsheets/2019-tags.csv', 'utf8'), {columns: true})
+const targetYear = "2019"
 
 let tagsLookup
 
@@ -134,8 +135,7 @@ function processFile(filename) {
   let data = loadMarkdown(filename)
   if (!data) return
 
-  if ((!data.tags_indicators || data.tags_indicators.length <= 0) && 
-        data.year_submitted.filter(year_submitted => year_submitted == "2019").length > 0) {
+  if ((!data.tags_indicators || data.tags_indicators.length <= 0) && data.year_submitted.includes(targetYear)) {
     console.log ("Adding tags to: " + filename)
 
     // ../_organizations/9-dots.md  ==>  9-dots
