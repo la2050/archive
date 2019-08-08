@@ -11,6 +11,7 @@ tags_indicators:
   - Workforce development
   - Entrepreneurship & innovation
   - Access to capital & benefits
+  - Income & employment
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273611908'
 organization_website:
   - 'https://www.defyventures.org'

@@ -9,6 +9,7 @@ org_summary: >-
   creating jobs and fostering economic growth.
 tags_indicators:
   - STEM & Digital literacy
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lablockchainlab.org'

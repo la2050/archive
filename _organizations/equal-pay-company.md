@@ -8,6 +8,7 @@ org_summary: >-
   of kindness, inclusion, diversity, equity, and accessibility (Kind IDEA).
 tags_indicators:
   - Workforce development
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://equalpay.co'

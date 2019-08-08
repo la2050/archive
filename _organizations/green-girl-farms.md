@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Access to parks & green space
   - Access to healthy food
+  - Public safety & public space
+  - Health
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472358536'
 organization_website:
   - 'https://www.greengirlfarms.org'

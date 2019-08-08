@@ -9,6 +9,8 @@ org_summary: >-
 tags_indicators:
   - Art
   - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472446628'
 organization_website:
   - 'https://www.turnaroundartsca.org'

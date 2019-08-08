@@ -9,6 +9,7 @@ org_summary: >-
   the art of storytelling.
 tags_indicators:
   - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463506663'
 organization_website:
   - 'https://www.theplusmeproject.org'

@@ -11,6 +11,9 @@ tags_indicators:
   - Teaching & mentorship
   - Mental & emotional health
   - Community safety
+  - Education & youth
+  - Health
+  - Public safety & public space
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330705045'
 organization_website:
   - 'https://www.newearthlife.org'

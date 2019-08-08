@@ -10,6 +10,7 @@ org_summary: >-
 tags_indicators:
   - Community health
   - Mental & emotional health
+  - Health
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951916050'
 organization_website:
   - 'https://www.pppsgv.org'

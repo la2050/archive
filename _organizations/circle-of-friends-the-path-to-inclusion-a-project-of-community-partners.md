@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Disability & aging
   - Teaching & mentorship
+  - Mobility
+  - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 organization_website:
   - 'https://www.circleofriends.org'

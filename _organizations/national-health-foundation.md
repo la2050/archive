@@ -9,6 +9,7 @@ org_summary: >-
   determinants of health.
 tags_indicators:
   - Community health
+  - Health
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237314808'
 organization_website:
   - 'https://www.nationalhealthfoundation.org'

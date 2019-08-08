@@ -9,6 +9,7 @@ org_summary: >-
   our team transforms e-waste into opportunity.
 tags_indicators:
   - STEM & Digital literacy
+  - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=460773284'
 organization_website:
   - 'https://www.human-I-T.org'

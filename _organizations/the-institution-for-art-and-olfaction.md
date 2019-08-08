@@ -9,6 +9,7 @@ org_summary: >-
   education, experimentation and advocacy.
 tags_indicators:
   - Creative economy
+  - Arts & cultural vitality
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463012493'
 organization_website:
   - 'https://www.artandolfaction.com'

@@ -9,6 +9,7 @@ org_summary: >-
   the development of self-sufficiency.
 tags_indicators:
   - Voting & civic engagement
+  - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273128801'
 organization_website:
   - 'https://www.tiyya.org'

@@ -11,6 +11,8 @@ tags_indicators:
   - Creative economy
   - Art
   - Community gatherings
+  - Arts & cultural vitality
+  - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=825235150'
 organization_website:
   - 'https://navel.la'

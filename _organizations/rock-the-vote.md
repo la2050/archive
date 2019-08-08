@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Teaching & mentorship
   - Voting & civic engagement
+  - Education & youth
+  - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=020767157'
 organization_website:
   - 'https://www.rockthevote.org'

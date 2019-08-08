@@ -9,6 +9,7 @@ org_summary: >-
   open-ended play parts, outreach, and workshops
 tags_indicators:
   - Access to parks & green space
+  - Public safety & public space
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=823571908'
 organization_website:
   - 'https://www.scvadventureplay.org/'

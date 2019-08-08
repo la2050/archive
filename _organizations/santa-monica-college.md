@@ -9,6 +9,7 @@ org_summary: >-
   learn to contribute to the local and global community.
 tags_indicators:
   - College prep
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.smc.edu'

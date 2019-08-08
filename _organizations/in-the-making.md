@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Community gatherings
   - Workforce development
+  - Social connectedness
+  - Income & employment
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=820657611'
 organization_website:
   - 'https://www.inthemakingla.org'

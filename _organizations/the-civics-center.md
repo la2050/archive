@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Voting & civic engagement
   - Teaching & mentorship
+  - Social connectedness
+  - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 organization_website:
   - 'https://thecivicscenter.org/'

@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Creative economy
   - Workforce development
+  - Arts & cultural vitality
+  - Income & employment
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473576918'
 organization_website:
   - 'https://www.creatorforce.com'

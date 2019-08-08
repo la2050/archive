@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Teaching & mentorship
   - Fitness & sports
+  - Education & youth
+  - Health
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=562530783'
 organization_website:
   - 'https://www.stoked.org'

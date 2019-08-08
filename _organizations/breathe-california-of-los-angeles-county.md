@@ -11,6 +11,8 @@ tags_indicators:
   - Community health
   - Air & water
   - Climate change
+  - Health
+  - Environmental quality & sustainability
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951641451'
 organization_website:
   - 'https://www.breathela.org'

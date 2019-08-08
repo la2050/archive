@@ -9,6 +9,7 @@ org_summary: >-
 tags_indicators:
   - Community health
   - Fitness & sports
+  - Health
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=135613797'
 organization_website:
   - 'https://www.heart.org'

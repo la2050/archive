@@ -11,6 +11,8 @@ tags_indicators:
   - Entrepreneurship & innovation
   - Volunteerism
   - Voting & civic engagement
+  - Income & employment
+  - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954016653'
 organization_website:
   - 'https://www.calstatela.edu'

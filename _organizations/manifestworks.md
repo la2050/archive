@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Workforce development
   - Creative economy
+  - Income & employment
+  - Arts & cultural vitality
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475485332'
 organization_website:
   - 'https://www.manifestworks.org'

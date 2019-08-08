@@ -9,6 +9,7 @@ org_summary: >-
   of social service.
 tags_indicators:
   - Community safety
+  - Public safety & public space
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522178069'
 organization_website:
   - 'http://us.iahv.org/'

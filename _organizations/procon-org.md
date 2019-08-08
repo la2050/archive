@@ -9,6 +9,7 @@ org_summary: >-
   primarily pro-con format.
 tags_indicators:
   - Voting & civic engagement
+  - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=571210185'
 organization_website:
   - 'https://www.procon.org/'

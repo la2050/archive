@@ -9,6 +9,7 @@ org_summary: >-
   and engagement of hard-to-count populations.
 tags_indicators:
   - Voting & civic engagement
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lamayor.org/'

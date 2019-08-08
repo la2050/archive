@@ -9,6 +9,7 @@ org_summary: >-
   engagement, which makes for a healthier democracy.
 tags_indicators:
   - Voting & civic engagement
+  - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472474086'
 organization_website:
   - 'https://www.calmatters.org'

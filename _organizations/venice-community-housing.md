@@ -10,6 +10,7 @@ org_summary: >-
 tags_indicators:
   - Homelessness
   - Affordable housing
+  - Housing & homelessness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954200761'
 organization_website:
   - 'http://www.vchcorp.org'

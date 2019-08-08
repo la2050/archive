@@ -9,6 +9,8 @@ org_summary: >-
 tags_indicators:
   - STEM & Digital literacy
   - Workforce development
+  - Education & youth
+  - Income & employment
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474988400'
 organization_website:
   - 'https://www.bstemproject.org/'

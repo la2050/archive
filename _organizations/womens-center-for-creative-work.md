@@ -10,6 +10,7 @@ org_summary: >-
 tags_indicators:
   - Creative economy
   - Art
+  - Arts & cultural vitality
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473461777'
 organization_website:
   - 'https://womenscenterforcreativework.com/'

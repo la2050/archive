@@ -100,8 +100,6 @@ function loadMarkdown(filename) {
 
     if (!yamlText) return
 
-    console.log(yamlText)
-
     let data = yaml.safeLoad(yamlText)
     return data
 
@@ -166,7 +164,8 @@ ${yaml.safeDump(data, {sortKeys: (a, b) => {
   // a must be equal to b
   return 0
 }})}
----`
+---
+`
 
   fs.writeFileSync(filename, output, 'utf8', (err) => {
     if (err) {

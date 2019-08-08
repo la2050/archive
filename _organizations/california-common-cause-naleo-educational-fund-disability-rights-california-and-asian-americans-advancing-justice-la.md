@@ -11,6 +11,7 @@ org_summary: >-
   throughout the process.
 tags_indicators:
   - Voting & civic engagement
+  - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311705370'
 organization_website:
   - 'https://www.commoncause.org/CA'

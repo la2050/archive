@@ -9,6 +9,8 @@ org_summary: >-
 tags_indicators:
   - Art
   - Voting & civic engagement
+  - Arts & cultural vitality
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sense.la'

@@ -9,6 +9,7 @@ org_summary: >-
   mobilize giving, through the use of social media.
 tags_indicators:
   - Homelessness
+  - Housing & homelessness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800928421'
 organization_website:
   - 'https://www.hashtaglunchbag.org'

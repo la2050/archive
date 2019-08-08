@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Disability & aging
   - Teaching & mentorship
+  - Mobility
+  - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262825373'
 organization_website:
   - 'https://www.tunsonleadershipfoundation.org'

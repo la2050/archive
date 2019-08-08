@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Community health
   - Affordable housing
+  - Health
+  - Housing & homelessness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954204049'
 organization_website:
   - 'https://www.esperanzacommunityhousing.org'

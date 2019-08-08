@@ -9,6 +9,7 @@ org_summary: >-
   provide a strong reading and writing foundation.
 tags_indicators:
   - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://theabcclub.org'

@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Mental & emotional health
   - Art
+  - Health
+  - Arts & cultural vitality
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=832697429'
 organization_website:
   - 'https://www.urbaness.org'

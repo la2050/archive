@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - College prep
   - Voting & civic engagement
+  - Education & youth
+  - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=821876815'
 organization_website:
   - 'https://www.risefree.org'

@@ -9,6 +9,7 @@ org_summary: >-
   and so the antennas can be owned by anyone.
 tags_indicators:
   - Entrepreneurship & innovation
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.m2mbell.com'

@@ -9,6 +9,7 @@ org_summary: >-
   to make conversations more productive.
 tags_indicators:
   - Community safety
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://c-it-productions.com/'

@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Mental & emotional health
   - Community safety
+  - Health
+  - Public safety & public space
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 organization_website:
   - 'https://www.cvjp.org'

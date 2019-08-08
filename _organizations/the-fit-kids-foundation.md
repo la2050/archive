@@ -9,6 +9,8 @@ org_summary: >-
 tags_indicators:
   - Fitness & sports
   - Teaching & mentorship
+  - Health
+  - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=274987709'
 organization_website:
   - 'https://www.fitkids.org'

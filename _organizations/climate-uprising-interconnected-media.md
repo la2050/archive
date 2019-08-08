@@ -9,6 +9,8 @@ org_summary: >-
 tags_indicators:
   - Climate change
   - Resiliency
+  - Environmental quality & sustainability
+  - Public safety & public space
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=453038797'
 organization_website:
   - 'https://www.climateuprising.org'

@@ -9,6 +9,7 @@ org_summary: >-
   understand, prevent, & treat depression.
 tags_indicators:
   - Mental & emotional health
+  - Health
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
 organization_website:
   - 'https://grandchallenges.ucla.edu/depression'

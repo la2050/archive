@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Workforce development
   - Air & water
+  - Income & employment
+  - Environmental quality & sustainability
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954002138'
 organization_website:
   - 'https://www.lacorps.org'

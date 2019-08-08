@@ -9,6 +9,7 @@ org_summary: >-
   natural systems, and good design.
 tags_indicators:
   - Access to parks & green space
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.ahdomsayre.com'

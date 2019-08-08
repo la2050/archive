@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Affordable housing
   - STEM & Digital literacy
+  - Housing & homelessness
+  - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=870457932'
 organization_website:
   - 'https://www.hcahousing.org'

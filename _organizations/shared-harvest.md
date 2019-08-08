@@ -9,6 +9,7 @@ org_summary: >-
   time.
 tags_indicators:
   - Volunteerism
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sharedharvestfund.org'

@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Creative economy
   - Entrepreneurship & innovation
+  - Arts & cultural vitality
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.everybody.world'

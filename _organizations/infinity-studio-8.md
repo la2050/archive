@@ -8,6 +8,7 @@ org_summary: >-
   sustainable and commercially viable model for an independent artistic career.
 tags_indicators:
   - Creative economy
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.massivelyepic.com'

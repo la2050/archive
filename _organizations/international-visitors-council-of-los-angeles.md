@@ -10,6 +10,7 @@ org_summary: >-
 tags_indicators:
   - Voting & civic engagement
   - Community gatherings
+  - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953692511'
 organization_website:
   - 'https://www.ivcla.org'

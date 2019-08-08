@@ -9,6 +9,8 @@ org_summary: >-
 tags_indicators:
   - Transportation
   - Entrepreneurship & innovation
+  - Mobility
+  - Income & employment
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=202619927'
 organization_website:
   - 'https://www.futureports.org'

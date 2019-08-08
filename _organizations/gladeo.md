@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Workforce development
   - STEM & Digital literacy
+  - Income & employment
+  - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472676458'
 organization_website:
   - 'https://gladeo.org'

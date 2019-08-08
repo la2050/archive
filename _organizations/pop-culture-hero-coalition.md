@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Mental & emotional health
   - Teaching & mentorship
+  - Health
+  - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475197765'
 organization_website:
   - 'https://www.PopCultureHero.org'

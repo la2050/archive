@@ -9,6 +9,7 @@ org_summary: >-
   birth-five. GCPEA’s work is done by parent volunteers.
 tags_indicators:
   - Early childhood
+  - Education & youth
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953876072'
 organization_website:
   - 'https://www.gcpea.org'

@@ -9,6 +9,8 @@ org_summary: >-
 tags_indicators:
   - Homelessness
   - Mental & emotional health
+  - Housing & homelessness
+  - Health
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951691293'
 organization_website:
   - 'https://www.midnightmission.org'

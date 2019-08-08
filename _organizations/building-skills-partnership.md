@@ -9,6 +9,7 @@ org_summary: >-
   opportunities for career & community advancement.
 tags_indicators:
   - Workforce development
+  - Income & employment
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=261254255'
 organization_website:
   - 'http://www.buildingskills.org'

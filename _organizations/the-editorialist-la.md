@@ -9,6 +9,7 @@ org_summary: >-
   Angeles to millennials, especially women.
 tags_indicators:
   - Creative economy
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.theeditorialistla.com'
