@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2019143'
+organization_id: '2016173'
 title: Planned Parenthood Pasadena and San Gabriel Valley
 org_type: Nonprofit
 org_summary: >-
@@ -25,11 +25,16 @@ project_video: 'http://www.weareplannedparenthood.org/onlineactions/nJT69mwMk0Sf
 challenge_url:
   - >-
     https://challenge.la2050.org/2019/live/planned-parenthood-pasadena-and-san-gabriel-valley/
+  - >-
+    https://challenge.la2050.org/entry/northeast-los-angeles-and-the-san-gabriel-valley-get-prepd-and-pepd!!
 year_submitted:
   - '2019'
+  - '2016'
 project_ids:
   - '9102143'
+  - '6102185'
 project_titles:
   - Behavioral Health Care at Planned Parenthood
+  - Northeast Los Angeles and the San Gabriel Valley Get PreP'd and PEP'd!!
 
 ---
