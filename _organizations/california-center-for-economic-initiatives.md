@@ -1,7 +1,7 @@
 ---
 published: true
 organization_id: '2019086'
-title: California Center For Economic Initiatives
+title: Garifuna International Indigenous Film Festival
 org_type: Nonprofit
 org_summary: >-
   To support the preservation of all indigenous cultures in the world through

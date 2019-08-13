@@ -9,7 +9,9 @@ org_summary: >-
   open-ended play parts, outreach, and workshops
 tags_indicators:
   - Access to parks & green space
+  - Fitness & sports
   - Public safety & public space
+  - Health
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=823571908'
 organization_website:
   - 'https://www.scvadventureplay.org/'
@@ -27,10 +29,12 @@ challenge_url:
   - 'http://maker.good.is/myLA2050play/projects/scvadventureplay.html'
 year_submitted:
   - '2019'
+  - '2016'
   - '2015'
   - '2014'
 project_ids:
   - '9102076'
+  - '6102222'
   - '5102263'
   - '4102188'
 project_titles:
@@ -38,6 +42,9 @@ project_titles:
   - >-
     "Eureka Villa" Permanent Adventure Playground and County Wide Pop-ups by SCV
     Adventure Play
+  - >-
+    SCV Adventure Play + Eureka Villa: Self-Directed Play Spaces and Playwork
+    Initiative for All!
   - SCV Adventure Play Pop-ups and Park Projects
   - >-
     Eureka Villa Permanent Adventure Playground and County Wide Pop-ups by SCV
