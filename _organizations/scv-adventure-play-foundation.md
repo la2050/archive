@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2019076'
+organization_id: '2015176'
 title: SCV Adventure Play Foundation
 org_type: Nonprofit
 org_summary: >-
@@ -23,11 +23,24 @@ project_image: >-
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/play/scv-adventure-play-foundation/'
+  - 'http://maker.good.is/myla2050play2015/projects/AdventurePlay4LA.html'
+  - 'http://maker.good.is/myLA2050play/projects/scvadventureplay.html'
 year_submitted:
   - '2019'
+  - '2015'
+  - '2014'
 project_ids:
   - '9102076'
+  - '5102263'
+  - '4102188'
 project_titles:
   - Adventure Play in the Parks & Play in our Everyday!
+  - >-
+    "Eureka Villa" Permanent Adventure Playground and County Wide Pop-ups by SCV
+    Adventure Play
+  - SCV Adventure Play Pop-ups and Park Projects
+  - >-
+    Eureka Villa Permanent Adventure Playground and County Wide Pop-ups by SCV
+    Adventure Play
 
 ---
