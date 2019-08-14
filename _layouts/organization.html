@@ -358,7 +358,7 @@ stylesheets:
 
 
 
-{% if page.charity_navigator_url and page.org_type contains "Nonprofit" %}
+{% if page.charity_navigator_url and page.charity_navigator_url != "" and page.org_type contains "Nonprofit" %}
 <div class="links links-involved">
 
 <h2>Learn about this organization’s budget, leadership and mission</h2>
