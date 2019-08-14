@@ -318,33 +318,41 @@ align-self: stretch;
 {% assign honorable_list_2018 = "" | split: "," %}
 {% assign organizations_list = "" | split: "," %}
 
+{% assign winners_list_2019_award_note = "" | split: "," %}
+{% assign winners_list_2018_award_note = "" | split: "," %}
+{% assign winners_list_2016_award_note = "" | split: "," %}
+{% assign winners_list_2015_award_note = "" | split: "," %}
+{% assign winners_list_2014_award_note = "" | split: "," %}
+{% assign winners_list_2013_award_note = "" | split: "," %}
+{% assign finalists_list_2019_award_note = "" | split: "," %}
+{% assign finalists_list_2018_award_note = "" | split: "," %}
+{% assign honorable_list_2018_award_note = "" | split: "," %}
+
 
 
 {% for data in data_collection_docs %}
 
-  {% assign is_finalist = false %}
-  {% for finalist in site.data.finalists %}
-    {% if finalist == data.url %}
-      {% assign is_finalist = true %}
-      {% assign finalist_year = 2018 %}
-    {% endif %}
-  {% endfor %}
-  {% for finalist in site.data.finalists_2019 %}
-    {% for challenge_url in data.challenge_url %}
-      {% if challenge_url == finalist %}
-        {% assign is_finalist = true %}
-        {% assign finalist_year = 2019 %}
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
+  {% assign award_note_list = "" | split: "," %}
+  {% assign award_note_list_contains_2019 = false %}
+  {% assign award_note_list_contains_2018 = false %}
 
   {% assign is_winner = false %}
+  {% assign winner_year = null %}
   {% for winner in site.data.winners %}
     {% for challenge_url in data.challenge_url %}
       {% assign secure_challenge_url = challenge_url | replace: "http://", "https://" %}
       {% if winner.url contains secure_challenge_url or secure_challenge_url contains winner.url %}
         {% assign is_winner = true %}
-        {% assign winner_year = winner.year %}
+        {% unless winner_year and winner_year > winner.year %}
+          {% assign winner_year = winner.year %}
+        {% endunless %}
+        {% capture winner_note %}{{ winner.year }} Winner{% endcapture %}
+        {% assign award_note_list = award_note_list | push: winner_note %}
+        {% if winner_year == 2019 %}
+          {% assign award_note_list_contains_2019 = true %}
+        {% elsif winner_year == 2018 %}
+          {% assign award_note_list_contains_2018 = true %}
+        {% endif %}
       {% endif %}
     {% endfor %}
   {% endfor %}
@@ -358,6 +366,47 @@ align-self: stretch;
       {% endif %}
     {% endfor %}
   {% endfor %}
+  {% if is_honorable %}
+    {% unless award_note_list_contains_2019 %}
+      {% capture honorable_note %}{{ honorable_year }} Honorable Mention{% endcapture %}
+      {% assign award_note_list = award_note_list | push: honorable_note %}
+      {% if honorable_year == 2019 %}
+        {% assign award_note_list_contains_2019 = true %}
+      {% elsif honorable_year == 2018 %}
+        {% assign award_note_list_contains_2018 = true %}
+      {% endif %}
+    {% endunless %}
+  {% endif %}
+
+  {% assign is_finalist = false %}
+  {% for finalist in site.data.finalists_2019 %}
+    {% for challenge_url in data.challenge_url %}
+      {% if challenge_url == finalist %}
+        {% assign is_finalist = true %}
+        {% assign finalist_year = 2019 %}
+        {% unless award_note_list_contains_2019 %}
+          {% assign award_note_list = award_note_list | push: "2019 Finalist" %}
+          {% assign award_note_list_contains_2019 = true %}
+        {% endunless %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  {% for finalist in site.data.finalists %}
+    {% if finalist == data.url %}
+      {% assign is_finalist = true %}
+      {% unless finalist_year == 2019 %}
+        {% assign finalist_year = 2018 %}
+      {% endunless %}
+      {% unless award_note_list_contains_2018 or award_note_list_contains_2019 %}
+        {% assign award_note_list = award_note_list | push: "2018 Finalist" %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+
+  {% assign award_note = "" %}
+  {% if award_note_list.size > 0 %}
+    {% capture award_note %}{{ award_note_list | join: ", " }}{% endcapture %}
+  {% endif %}
 
   {% if page.tag %}
     {% for tag_indicator in data.tags_indicators %}
@@ -368,25 +417,34 @@ align-self: stretch;
           {% case winner_year %}
             {% when 2019 %}
               {% assign winners_list_2019 = winners_list_2019 | push: data %}
+              {% assign winners_list_2019_award_note = winners_list_2019_award_note | push: award_note %}
             {% when 2018 %}
               {% assign winners_list_2018 = winners_list_2018 | push: data %}
+              {% assign winners_list_2018_award_note = winners_list_2018_award_note | push: award_note %}
             {% when 2016 %}
               {% assign winners_list_2016 = winners_list_2016 | push: data %}
+              {% assign winners_list_2016_award_note = winners_list_2016_award_note | push: award_note %}
             {% when 2015 %}
               {% assign winners_list_2015 = winners_list_2015 | push: data %}
+              {% assign winners_list_2015_award_note = winners_list_2015_award_note | push: award_note %}
             {% when 2014 %}
               {% assign winners_list_2014 = winners_list_2014 | push: data %}
+              {% assign winners_list_2014_award_note = winners_list_2014_award_note | push: award_note %}
             {% when 2013 %}
               {% assign winners_list_2013 = winners_list_2013 | push: data %}
+              {% assign winners_list_2013_award_note = winners_list_2013_award_note | push: award_note %}
           {% endcase %}
         {% elsif is_honorable %}
           {% assign honorable_list_2018 = honorable_list_2018 | push: data %}
+          {% assign honorable_list_2018_award_note = honorable_list_2018_award_note | push: award_note %}
         {% elsif is_finalist %}
           {% case finalist_year %}
             {% when 2019 %}
               {% assign finalists_list_2019 = finalists_list_2019 | push: data %}
+              {% assign finalists_list_2019_award_note = finalists_list_2019_award_note | push: award_note %}
             {% when 2018 %}
               {% assign finalists_list_2018 = finalists_list_2018 | push: data %}
+              {% assign finalists_list_2018_award_note = finalists_list_2018_award_note | push: award_note %}
           {% endcase %}
         {% else %}
           {% assign organizations_list = organizations_list | push: data %}
@@ -401,25 +459,34 @@ align-self: stretch;
       {% case winner_year %}
         {% when 2019 %}
           {% assign winners_list_2019 = winners_list_2019 | push: data %}
+          {% assign winners_list_2019_award_note = winners_list_2019_award_note | push: award_note %}
         {% when 2018 %}
           {% assign winners_list_2018 = winners_list_2018 | push: data %}
+          {% assign winners_list_2018_award_note = winners_list_2018_award_note | push: award_note %}
         {% when 2016 %}
           {% assign winners_list_2016 = winners_list_2016 | push: data %}
+          {% assign winners_list_2016_award_note = winners_list_2016_award_note | push: award_note %}
         {% when 2015 %}
           {% assign winners_list_2015 = winners_list_2015 | push: data %}
+          {% assign winners_list_2015_award_note = winners_list_2015_award_note | push: award_note %}
         {% when 2014 %}
           {% assign winners_list_2014 = winners_list_2014 | push: data %}
+          {% assign winners_list_2014_award_note = winners_list_2014_award_note | push: award_note %}
         {% when 2013 %}
           {% assign winners_list_2013 = winners_list_2013 | push: data %}
+          {% assign winners_list_2013_award_note = winners_list_2013_award_note | push: award_note %}
       {% endcase %}
     {% elsif is_honorable %}
       {% assign honorable_list_2018 = honorable_list_2018 | push: data %}
+      {% assign honorable_list_2018_award_note = honorable_list_2018_award_note | push: award_note %}
     {% elsif is_finalist %}
       {% case finalist_year %}
         {% when 2019 %}
           {% assign finalists_list_2019 = finalists_list_2019 | push: data %}
+          {% assign finalists_list_2019_award_note = finalists_list_2019_award_note | push: award_note %}
         {% when 2018 %}
           {% assign finalists_list_2018 = finalists_list_2018 | push: data %}
+          {% assign finalists_list_2018_award_note = finalists_list_2018_award_note | push: award_note %}
       {% endcase %}
     {% else %}
       {% assign organizations_list = organizations_list | push: data %}
@@ -442,42 +509,52 @@ align-self: stretch;
 <ul class="proposals" id="project-list">
 
   {% for data in winners_list_2019 %}
+    {% assign award_note = winners_list_2019_award_note[forloop.index0] %}
     {% include project-list-item.html winner_year="2019" %}
   {% endfor %}
 
   {% for data in winners_list_2018 %}
+    {% assign award_note = winners_list_2018_award_note[forloop.index0] %}
     {% include project-list-item.html winner_year="2018" %}
   {% endfor %}
 
   {% for data in winners_list_2016 %}
+    {% assign award_note = winners_list_2016_award_note[forloop.index0] %}
     {% include project-list-item.html winner_year="2016" %}
   {% endfor %}
 
   {% for data in winners_list_2015 %}
+    {% assign award_note = winners_list_2015_award_note[forloop.index0] %}
     {% include project-list-item.html winner_year="2015" %}
   {% endfor %}
 
   {% for data in winners_list_2014 %}
+    {% assign award_note = winners_list_2014_award_note[forloop.index0] %}
     {% include project-list-item.html winner_year="2014" %}
   {% endfor %}
 
   {% for data in winners_list_2013 %}
+    {% assign award_note = winners_list_2013_award_note[forloop.index0] %}
     {% include project-list-item.html winner_year="2013" %}
   {% endfor %}
 
   {% for data in honorable_list_2018 %}
+    {% assign award_note = honorable_list_2018_award_note[forloop.index0] %}
     {% include project-list-item.html honorable_year="2018" %}
   {% endfor %}
 
   {% for data in finalists_list_2019 %}
+    {% assign award_note = finalists_list_2019_award_note[forloop.index0] %}
     {% include project-list-item.html finalist_year="2019" %}
   {% endfor %}
 
   {% for data in finalists_list_2018 %}
+    {% assign award_note = finalists_list_2018_award_note[forloop.index0] %}
     {% include project-list-item.html finalist_year="2018" %}
   {% endfor %}
 
   {% for data in organizations_list %}
+    {% assign award_note = "" %}
     {% include project-list-item.html %}
   {% endfor %}
 
