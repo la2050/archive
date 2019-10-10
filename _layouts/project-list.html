@@ -970,7 +970,7 @@ function addCategoryColor(tag) {
       nextRank = containsKeyword(keywordList[index], string);
 
       // Add a little rank for a match without puncuation or tense
-      var rootKeyword = keywordList[index].replace(/['‘’,"“”\.]/g, "").replace(/(ion|ing|ed|ies|s)$/, "")
+      var rootKeyword = keywordList[index].replace(/['‘’,"“”\.]/g, "").replace(/(ness|ion|ing|ed|ies|s)$/, "");
       // var rootKeyword = keywordList[index].replace(/['‘’,"“”]/g, "").replace(/(ing|ed|s)$/, "")
       if (rootKeyword.length >= 3) {
         nextRank = containsKeyword(rootKeyword, string) * 0.1;
@@ -1029,6 +1029,25 @@ function addCategoryColor(tag) {
       return keyword.toLowerCase() != "and" && keyword.toLowerCase() != "the" && keyword.toLowerCase() != "la";
     })
   }
+
+  var CHILD_TAGS_BY_PARENT = {{ site.data.tags | jsonify }}
+  var PARENT_TAGS_BY_CHILD = {};
+
+  (function() {
+    for (var parent_tag in CHILD_TAGS_BY_PARENT) {
+      if (CHILD_TAGS_BY_PARENT.hasOwnProperty(parent_tag)) {
+        (function() {
+          for (var index = 0; index < CHILD_TAGS_BY_PARENT[parent_tag].length; index++) {
+            (function() {
+              var child_tag = CHILD_TAGS_BY_PARENT[parent_tag][index];
+              PARENT_TAGS_BY_CHILD[child_tag.toLowerCase()] = parent_tag.toLowerCase();
+            })();
+          }
+        })();
+      }
+    }
+  })();
+
   for (var index = 0; index < items.length; index++) {
     var tags = [];
     var tagsMatches = items[index].getAttribute("data-tags").toLowerCase();
@@ -1037,6 +1056,25 @@ function addCategoryColor(tag) {
     var rank = 0
 
     if (keywordList) rank += containsAnyKeyword(keywordList, items[index].innerHTML);
+
+    // If any of the tags for this organization match the keywords, add some rank
+    if (tags) {
+      (function() {
+        var parents = [];
+        for (var h = 0; h < tags.length; h++) {
+          if (PARENT_TAGS_BY_CHILD[tags[h]]) {
+            parents.push(PARENT_TAGS_BY_CHILD[tags[h]]);
+          }
+        }
+        tagsAndParents = tags.concat(parents);
+
+        for (var j = 0; j < tagsAndParents.length; j++) {
+          if (containsAnyKeyword(keywordList, tagsAndParents[j])) {
+            rank += containsAnyKeyword(keywordList, tagsAndParents[j]);
+          }
+        }
+      })();
+    }
 
     // If an exact phrase was found, add more rank depending on the number of words
     // console.log(keywords.replace(/\s/, ',').split(',').length >= 1)
