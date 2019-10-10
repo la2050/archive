@@ -13,6 +13,7 @@
     "organizations:update:tags:parent": "node --max-old-space-size=4096 ./generate/update-organizations-with-parent-tags.js",
     "images:download": "node ./generate/download-images.js",
     "import:challenge": "node --max-old-space-size=4096 ./generate/import-challenge-entries.js",
+    "export:organizations": "node --max-old-space-size=4096 ./generate/markdown-to-csv.js",
     "not in use images:create": "gulp",
     "not in use images:copy": "node ./generate/copy-images.js",
     "not in use markdown:to-csv": "node ./generate/markdown-to-csv.js"
