@@ -970,7 +970,7 @@ function addCategoryColor(tag) {
       nextRank = containsKeyword(keywordList[index], string);
 
       // Add a little rank for a match without puncuation or tense
-      var rootKeyword = keywordList[index].replace(/['‘’,"“”\.]/g, "").replace(/(ion|ing|ed|ies|s)$/, "")
+      var rootKeyword = keywordList[index].replace(/['‘’,"“”\.]/g, "").replace(/(ness|ion|ing|ed|ies|s)$/, "");
       // var rootKeyword = keywordList[index].replace(/['‘’,"“”]/g, "").replace(/(ing|ed|s)$/, "")
       if (rootKeyword.length >= 3) {
         nextRank = containsKeyword(rootKeyword, string) * 0.1;
@@ -1020,113 +1020,165 @@ function addCategoryColor(tag) {
   }
 
 
+  function getMatches(keywords) {
+    var matches = [];
+    if (keywords) {
+      var keywordList = getKeywordList(keywords);
+      if (keywordList.filter) keywordList = keywordList.filter(function(keyword) {
+        return keyword.toLowerCase() != "and" && keyword.toLowerCase() != "the" && keyword.toLowerCase() != "la";
+      })
+    }
+
+    var CHILD_TAGS_BY_PARENT = {{ site.data.tags | jsonify }}
+    var PARENT_TAGS_BY_CHILD = {};
+
+    (function() {
+      for (var parent_tag in CHILD_TAGS_BY_PARENT) {
+        if (CHILD_TAGS_BY_PARENT.hasOwnProperty(parent_tag)) {
+          (function() {
+            for (var index = 0; index < CHILD_TAGS_BY_PARENT[parent_tag].length; index++) {
+              (function() {
+                var child_tag = CHILD_TAGS_BY_PARENT[parent_tag][index];
+                PARENT_TAGS_BY_CHILD[child_tag.toLowerCase()] = parent_tag.toLowerCase();
+              })();
+            }
+          })();
+        }
+      }
+    })();
+
+    for (var index = 0; index < items.length; index++) {
+      var tags = [];
+      var tagsMatches = items[index].getAttribute("data-tags").toLowerCase();
+      // console.dir(tagsMatches)
+      if (tagsMatches && tagsMatches != "") tags = tagsMatches.split(",");
+      var rank = 0
+
+      if (keywordList) rank += containsAnyKeyword(keywordList, items[index].innerHTML);
+
+      // If any of the tags for this organization match the keywords, add some rank
+      if (tags) {
+        (function() {
+          var parents = [];
+          for (var h = 0; h < tags.length; h++) {
+            if (PARENT_TAGS_BY_CHILD[tags[h]]) {
+              parents.push(PARENT_TAGS_BY_CHILD[tags[h]]);
+            }
+          }
+          tagsAndParents = tags.concat(parents);
+
+          for (var j = 0; j < tagsAndParents.length; j++) {
+            if (containsAnyKeyword(keywordList, tagsAndParents[j])) {
+              rank += containsAnyKeyword(keywordList, tagsAndParents[j]);
+            }
+          }
+        })();
+      }
+
+      // If an exact phrase was found, add more rank depending on the number of words
+      // console.log(keywords.replace(/\s/, ',').split(',').length >= 1)
+      if (keywords && getKeywordList(keywords).length >= 1) {
+        // console.log("looking for an exact phrase match")
+        if (items[index].innerHTML.toLowerCase().indexOf(keywords.toLowerCase()) >= 0) {
+          // console.log("***** exact phrase match *****")
+          rank += (10000 * getKeywordList(keywords).length)
+        }
+      }
+
+      // console.dir(tags)
+
+      if (searchByTags && searchByTags != "") {    
+        for (var j = 0; j < tags.length; j++) {
+          if (tags[j].toLowerCase().indexOf(searchByTags.toLowerCase()) >= 0) {
+            rank += 1; // A partial tag match gets 1 point
+          }
+          if (tags[j].toLowerCase() === searchByTags.toLowerCase()) {
+            console.log("Tag match found: " + tags[j]);
+            console.log("Keywords: " + keywords);
+            console.log("Tags: " + searchByTags);
+            rank += 100; // An exact tag match gets 100 points
+          }
+        }
+      }
+
+      if (rank > 0) {
+
+        if (items[index].getAttribute("data-winner")) {
+          // console.log("found a winner!: ")
+          // console.log(items[index])
+          rank += (searchByTags && searchByTags != "") ? 100000 : 2
+        } else if (items[index].getAttribute("data-finalist")) {
+          // console.log("found a finalist!: ")
+          // console.log(items[index])
+          rank += (searchByTags && searchByTags != "") ? 10000 : 1.5
+        } else if (items[index].getAttribute("data-honorable")) {
+          // console.log("found an honorable mention!: ")
+          // console.log(items[index])
+          rank += (searchByTags && searchByTags != "") ? 1000 : 1
+        }
+
+        // Give recent submissions a little more rank, if searching by tag
+        if (searchByTags && searchByTags != "") {
+          let year = getYear(items[index])
+          switch (year) {
+            case 2019:
+              rank += 0.05
+              break
+            case 2018:
+              rank += 0.04
+              break
+            case 2016:
+              rank += 0.03
+              break
+            case 2015:
+              rank += 0.02
+              break
+            case 2014:
+              rank += 0.01
+              break
+            case 2013:
+              break
+            default:
+          }
+        }
+
+        matches.push({
+          item: items[index],
+          rank: rank
+        });
+      }
+    }
+
+    return matches;
+  }
+
   // var fragment = document.createDocumentFragment();
   var items = projectList.getElementsByTagName('script');
-  var matches = [];
+  var matches = getMatches(keywords);
+
+  // SHIM: If no matches were found, try an exact phrase search
+  // if (matches.length <= 0) {
   if (keywords) {
-    var keywordList = getKeywordList(keywords);
-    if (keywordList.filter) keywordList = keywordList.filter(function(keyword) {
-      return keyword.toLowerCase() != "and" && keyword.toLowerCase() != "the" && keyword.toLowerCase() != "la";
-    })
+    var exactPhrase = `"${keywords}"`;
+    matches = matches.concat(getMatches(exactPhrase));
   }
-  for (var index = 0; index < items.length; index++) {
-    var tags = [];
-    var tagsMatches = items[index].getAttribute("data-tags").toLowerCase();
-    // console.dir(tagsMatches)
-    if (tagsMatches && tagsMatches != "") tags = tagsMatches.split(",");
-    var rank = 0
-
-    if (keywordList) rank += containsAnyKeyword(keywordList, items[index].innerHTML);
-
-    // If an exact phrase was found, add more rank depending on the number of words
-    // console.log(keywords.replace(/\s/, ',').split(',').length >= 1)
-    if (keywords && getKeywordList(keywords).length >= 1) {
-      // console.log("looking for an exact phrase match")
-      if (items[index].innerHTML.toLowerCase().indexOf(keywords.toLowerCase()) >= 0) {
-        // console.log("***** exact phrase match *****")
-        rank += (10000 * getKeywordList(keywords).length)
-      }
-    }
-
-    // console.dir(tags)
-
-    if (searchByTags && searchByTags != "") {    
-      for (var j = 0; j < tags.length; j++) {
-        if (tags[j].toLowerCase().indexOf(searchByTags.toLowerCase()) >= 0) {
-          rank += 1; // A partial tag match gets 1 point
-        }
-        if (tags[j].toLowerCase() === searchByTags.toLowerCase()) {
-          console.log("Tag match found: " + tags[j]);
-          console.log("Keywords: " + keywords);
-          console.log("Tags: " + searchByTags);
-          rank += 100; // An exact tag match gets 100 points
-        }
-      }
-    }
-
-    function getYear(item) {
-      if (item.innerHTML.indexOf("2019") >= 0) return 2019;
-      if (item.innerHTML.indexOf("2018") >= 0) return 2018;
-      if (item.innerHTML.indexOf("2016") >= 0) return 2016;
-      if (item.innerHTML.indexOf("2015") >= 0) return 2015;
-      if (item.innerHTML.indexOf("2014") >= 0) return 2014;
-      if (item.innerHTML.indexOf("2013") >= 0) return 2013;
-      return 2013;
-    }
-
-    if (rank > 0) {
-
-      if (items[index].getAttribute("data-winner")) {
-        // console.log("found a winner!: ")
-        // console.log(items[index])
-        rank += (searchByTags && searchByTags != "") ? 100000 : 2
-      } else if (items[index].getAttribute("data-finalist")) {
-        // console.log("found a finalist!: ")
-        // console.log(items[index])
-        rank += (searchByTags && searchByTags != "") ? 10000 : 1.5
-      } else if (items[index].getAttribute("data-honorable")) {
-        // console.log("found an honorable mention!: ")
-        // console.log(items[index])
-        rank += (searchByTags && searchByTags != "") ? 1000 : 1
-      }
-
-      // Give recent submissions a little more rank, if searching by tag
-      if (searchByTags && searchByTags != "") {
-        let year = getYear(items[index])
-        switch (year) {
-          case 2019:
-            rank += 0.05
-            break
-          case 2018:
-            rank += 0.04
-            break
-          case 2016:
-            rank += 0.03
-            break
-          case 2015:
-            rank += 0.02
-            break
-          case 2014:
-            rank += 0.01
-            break
-          case 2013:
-            break
-          default:
-        }
-      }
-
-      matches.push({
-        item: items[index],
-        rank: rank
-      });
-    }
-  }
+  // }
 
   function getTitle(item) {
     var result = item.innerHTML.match(/\<h3\>([^\<]+)\<\/h3\>/)
     if (result && result.length > 1) {
       return result[1]
     }
+  }
+
+  function getYear(item) {
+    if (item.innerHTML.indexOf("2019") >= 0) return 2019;
+    if (item.innerHTML.indexOf("2018") >= 0) return 2018;
+    if (item.innerHTML.indexOf("2016") >= 0) return 2016;
+    if (item.innerHTML.indexOf("2015") >= 0) return 2015;
+    if (item.innerHTML.indexOf("2014") >= 0) return 2014;
+    if (item.innerHTML.indexOf("2013") >= 0) return 2013;
+    return 2013;
   }
 
   matches.sort(function (a, b) {
