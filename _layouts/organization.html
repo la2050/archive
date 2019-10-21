@@ -408,11 +408,10 @@ stylesheets:
 
 </section><!-- /.proposal-introduction -->
 
+{% capture ein_size %}{{ page.ein | replace: "-", "" | size }}{% endcapture %}
+{% assign ein_size = ein_size | times: 1 %}
 
-
-{% if page.charity_navigator_url and page.charity_navigator_url != "" and
-      page.ein and page.ein != "" and
-      page.org_type contains "Nonprofit" %}
+{% if page.ein and page.ein != "" and ein_size == 9 %}
 
 <hr>
 
