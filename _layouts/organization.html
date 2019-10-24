@@ -144,6 +144,8 @@ stylesheets:
 }
 </style>
 
+{% capture ein_size %}{{ page.ein | replace: "-", "" | size }}{% endcapture %}
+{% assign ein_size = ein_size | times: 1 %}
 
 
 <section class="proposal-introduction" style="grid-column: 1/4">
@@ -331,7 +333,7 @@ stylesheets:
 
 <div class="links links-involved">
 
-<h2>Visit this organization’s website to {% if page.org_type contains "Nonprofit" and false %}donate or volunteer{% else %}learn more{% endif %}</h2>
+<h2>Visit this organization’s website to {% if page.org_type contains "Nonprofit" %}{% unless page.ein and page.ein != "" and ein_size == 9 %}donate or {% endunless %}volunteer{% else %}learn more{% endif %}</h2>
 
 <p style="margin-top: 0.75em;">
   <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="display: inline; width: 1em; height: 1em; margin-right: 0.375em; vertical-align: middle;">
@@ -410,8 +412,6 @@ stylesheets:
 
 
 
-{% capture ein_size %}{{ page.ein | replace: "-", "" | size }}{% endcapture %}
-{% assign ein_size = ein_size | times: 1 %}
 
 {% if page.ein and page.ein != "" and ein_size == 9 %}
 <div class="links links-involved" style="margin-top: 2.25em;">
