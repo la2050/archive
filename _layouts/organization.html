@@ -325,11 +325,13 @@ stylesheets:
 {% endif %}
 
 
+
+
 {% if url_contains_notes == '' %}
 
 <div class="links links-involved">
 
-<h2>Visit this organization’s website to {% if page.org_type contains "Nonprofit" %}donate or volunteer{% else %}learn more{% endif %}</h2>
+<h2>Visit this organization’s website to {% if page.org_type contains "Nonprofit" and false %}donate or volunteer{% else %}learn more{% endif %}</h2>
 
 <p style="margin-top: 0.75em;">
   <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="display: inline; width: 1em; height: 1em; margin-right: 0.375em; vertical-align: middle;">
@@ -406,50 +408,27 @@ stylesheets:
 {% endif %}
 
 
-</section><!-- /.proposal-introduction -->
+
 
 {% capture ein_size %}{{ page.ein | replace: "-", "" | size }}{% endcapture %}
 {% assign ein_size = ein_size | times: 1 %}
 
 {% if page.ein and page.ein != "" and ein_size == 9 %}
+<div class="links links-involved" style="margin-top: 2.25em;">
+  <!-- <h2>Get involved</h2> -->
 
-<hr>
+  <ul class="action" style="max-width: none;">
 
-<div id="pledgeling">
-<div class="plg-donate" data-partner-key="9c525e74792245ce4c4d5b96fc51b67b" data-subscription="monthly" data-ein="{{ page.ein }}"></div>
-<script>
-(function() {
-  var element = document.querySelector("#pledgeling [data-ein]");
-  if (element) {
-    var ein = element.getAttribute("data-ein");
-    ein = ein.replace(/\-/g, "");
-    ein = ein.slice(0, 2) + "-" + ein.slice(2);
-    console.log(ein);
-    element.setAttribute("data-ein", ein);
-  }
-})();
-</script>
-<style>
-@media (min-width: 50em) {
-  #pledgeling {
-    grid-column: 1/-1;
-  }
-  #pledgeling + hr {
-    margin-bottom: 0.75em;
-  }
-}
-@media (min-width: 70em) {
-  #pledgeling + hr {
-    margin-top: 3em;
-    margin-bottom: -0.75em;
-  }
-}
-</style>
-
-<!-- put this script before `</body>` -->
-<script src="https://hello.pledgeling.com/assets/widget.js" id="plg-widget" async="async"></script>
+    <li class="secondary"><a href="#donate" onclick="document.querySelector('#donate').scrollIntoView({ behavior: 'smooth', block: 'start' }); event.preventDefault();">Donate</a></li>
+    <li class="secondary"><a href="#ideas" onclick="document.querySelector('#ideas').scrollIntoView({ behavior: 'smooth', block: 'start' }); event.preventDefault();">Submitted Ideas</a></li>
+  </ul>
 </div>
 {% endif %}
+
+
+
+</section><!-- /.proposal-introduction -->
+
 
 
 
@@ -474,6 +453,8 @@ stylesheets:
 {% include project-links.html %}
 
 <hr />
+
+{% include donate.html %}
 
 {% if page.project_video and false %}
 <div style="grid-column: 1/4;">
