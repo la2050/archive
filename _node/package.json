@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "concurrent-transform": "^1.0.0",
-    "csv-parse": "^2.1.0",
+    "csv-parse": "^4.6.5",
     "csv-stringify": "^3.1.1",
     "gulp": "^3.9.1",
     "gulp-image-resize": "^0.12.0",
