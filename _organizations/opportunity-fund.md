@@ -4,15 +4,14 @@ organization_id: '2018093'
 title: Opportunity Fund
 org_type: Nonprofit
 org_summary: >-
-  RBLC is a network of lenders and small business advocates in Los Angeles
-  committed to advancing policies that combat predatory lending, promote
-  responsible lending, and support small business owners.
+  Opportunity Fund facilitates access to capital by providing loans to low- and moderate-income immigrants, women, and other deserving, but underserved small business owners. 
+
+Want to support entrepreneurs?
 tags_indicators:
   - Entrepreneurship & innovation
   - Income & employment
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311719434'
 organization_website:
-  - 'http://www.borrowersbillofrights.org'
   - 'http://Opportunityfund.org'
   - 'http://Smallbusinessmajority.org'
   - 'https://us.accion.org/about-us/'
