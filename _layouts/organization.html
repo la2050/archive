@@ -413,7 +413,7 @@ stylesheets:
 
 
 
-{% if page.ein and page.ein != "" and ein_size == 9 %}
+{% if page.ein and page.ein != "" and ein_size == 9 and page.org_type contains "Nonprofit" %}
 <div class="links links-involved" style="margin-top: 2.25em;">
   <!-- <h2>Get involved</h2> -->
 
