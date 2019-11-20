@@ -144,6 +144,8 @@ stylesheets:
 }
 </style>
 
+{% capture ein_size %}{{ page.ein | replace: "-", "" | size }}{% endcapture %}
+{% assign ein_size = ein_size | times: 1 %}
 
 
 <section class="proposal-introduction" style="grid-column: 1/4">
@@ -324,11 +326,14 @@ stylesheets:
 {% endunless %}
 {% endif %}
 
+
+
+
 {% if url_contains_notes == '' %}
 
 <div class="links links-involved">
 
-<h2>Visit this organization’s website to {% if page.org_type contains "Nonprofit" %}donate or volunteer{% else %}learn more{% endif %}</h2>
+<h2>Visit this organization’s website to {% if page.org_type contains "Nonprofit" %}{% unless page.ein and page.ein != "" and ein_size == 9 %}donate or {% endunless %}volunteer{% else %}learn more{% endif %}</h2>
 
 <p style="margin-top: 0.75em;">
   <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="display: inline; width: 1em; height: 1em; margin-right: 0.375em; vertical-align: middle;">
@@ -406,7 +411,26 @@ stylesheets:
 
 
 
+
+
+{% if page.ein and page.ein != "" and ein_size == 9 %}
+<div class="links links-involved" style="margin-top: 2.25em;">
+  <!-- <h2>Get involved</h2> -->
+
+  <ul class="action" style="max-width: none;">
+
+    <li class="secondary"><a href="#donate" onclick="document.querySelector('#donate').scrollIntoView({ behavior: 'smooth', block: 'start' }); event.preventDefault();">Make a Donation</a></li>
+    <li class="secondary"><a href="#ideas" onclick="document.querySelector('#ideas').scrollIntoView({ behavior: 'smooth', block: 'start' }); event.preventDefault();">See Projects</a></li>
+  </ul>
+</div>
+{% endif %}
+
+
+
 </section><!-- /.proposal-introduction -->
+
+
+
 
 {% assign has_project_links = false %}
 
@@ -429,6 +453,8 @@ stylesheets:
 {% include project-links.html %}
 
 <hr />
+
+{% include donate.html %}
 
 {% if page.project_video and false %}
 <div style="grid-column: 1/4;">

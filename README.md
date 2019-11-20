@@ -35,6 +35,9 @@ name: value
 another_name: another_value
 ```
 
+_You can double-check that your changes are correct by copying and pasting them into the
+[YAML Validator](https://yamlvalidator.com)._
+
 3. Make your changes, and then press the “Commit changes” button.
 
 You can also describe your changes in the fields just above the “Commit changes” button (this adds a note in the project history).
@@ -132,7 +135,7 @@ jekyll build && jekyll serve --host=0.0.0.0 --incremental --skip-initial-build
 
 * [Markdown](https://guides.github.com/features/mastering-markdown/)
 * [YAML](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
-* [YAML Checker](http://www.yamllint.com)
+* [YAML Validator](https://yamlvalidator.com)
 * [Liquid](https://shopify.github.io/liquid/)
 * [Liquid for Designers](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
 * [Jekyll](https://jekyllrb.com/docs/home/)

@@ -1,0 +1,41 @@
+
+{% if page.ein and page.ein != "" and ein_size == 9 %}
+
+<div id="donate"></div>
+<div id="pledgeling">
+<div class="plg-donate" data-partner-key="9c525e74792245ce4c4d5b96fc51b67b" data-subscription="monthly" data-ein="{{ page.ein }}"></div>
+<script>
+(function() {
+  var element = document.querySelector("#pledgeling [data-ein]");
+  if (element) {
+    var ein = element.getAttribute("data-ein");
+    ein = ein.replace(/\-/g, "");
+    ein = ein.slice(0, 2) + "-" + ein.slice(2);
+    console.log(ein);
+    element.setAttribute("data-ein", ein);
+  }
+})();
+</script>
+<style>
+@media (min-width: 50em) {
+  #pledgeling {
+    grid-column: 1/-1;
+  }
+  /* #pledgeling + hr {
+    margin-bottom: 0.75em;
+  } */
+}
+@media (min-width: 70em) {
+  /* #pledgeling + hr {
+    margin-top: 3em;
+    margin-bottom: -0.75em;
+  } */
+}
+</style>
+
+<!-- put this script before `</body>` -->
+<script src="https://hello.pledgeling.com/assets/widget.js" id="plg-widget" async="async"></script>
+</div>
+
+<hr>
+{% endif %}
