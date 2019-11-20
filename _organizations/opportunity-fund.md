@@ -6,7 +6,6 @@ org_type: Nonprofit
 org_summary: >-
   Opportunity Fund facilitates access to capital by providing loans to low- and moderate-income immigrants, women, and other deserving, but underserved small business owners. 
 
-Want to support entrepreneurs?
 tags_indicators:
   - Entrepreneurship & innovation
   - Income & employment
