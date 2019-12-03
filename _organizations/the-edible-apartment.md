@@ -17,7 +17,7 @@ organization_website:
 twitter: theedibleapt
 instagram: TheEdibleApartment
 facebook: theedibleapartment
-ein: '475129866'
+ein: ''
 zip: '90036'
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1280996065741-team88.jpg

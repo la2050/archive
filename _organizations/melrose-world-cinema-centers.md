@@ -16,7 +16,7 @@ organization_website:
 twitter: ONELIFELOSANGELES
 instagram: 'https://vimeo.com/oneworldworkshops'
 facebook: ONELIFELOSANGELES
-ein: '263395966'
+ein: ''
 zip: '90038'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23763%252Fdisplay%252FOWW_logo_and_logline.jpg=c570x385

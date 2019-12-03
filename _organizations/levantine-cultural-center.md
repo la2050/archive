@@ -15,7 +15,7 @@ organization_website:
 twitter: '@LevantineCenter'
 instagram: Levantine Cultural Center
 facebook: 'https://www.facebook.com/levantine.c.center'
-ein: '912156607'
+ein: ''
 zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22605%252Fdisplay%252FMECAY-Education-Proposal-2014.jpg=c570x385

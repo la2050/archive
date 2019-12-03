@@ -16,7 +16,7 @@ organization_website:
 twitter: 'https://twitter.com/hashtag/venicepopuppark'
 instagram: 'https://instagram.com/venicepopuppark/'
 facebook: 'https://www.facebook.com/venicepopup'
-ein: '455593632'
+ein: ''
 zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23850%252Fdisplay%252FIMG_9355.JPG=c570x385

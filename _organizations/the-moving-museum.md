@@ -15,7 +15,7 @@ organization_website:
 twitter: www.twitter.com/TheMovingMuseum
 instagram: www.instagram.com/TheMovingMuseum
 facebook: www.facebook.com/TheMovingMuseum
-ein: '474255808'
+ein: ''
 zip: '10018'
 project_image: 'https://img.youtube.com/vi/X9EpK48pYtY/hqdefault.jpg'
 project_video: ''

@@ -15,7 +15,7 @@ organization_website:
 twitter: '@schkapf'
 instagram: 'http://instagram.com/schkapf'
 facebook: 'https://www.facebook.com/schkapf'
-ein: '464981201'
+ein: ''
 zip: ''
 project_image: 'https://img.youtube.com/vi/mei1C43QDXw/maxresdefault.jpg'
 project_video: ''

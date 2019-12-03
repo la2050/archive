@@ -28,7 +28,7 @@ organization_website:
 twitter: ''
 instagram: ''
 facebook: ''
-ein: '462359445'
+ein: ''
 zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17236%252Fdisplay%252Fvalhalla550.jpg=c570x385

@@ -13,7 +13,7 @@ organization_website:
 twitter: 'https://twitter.com/LACT2050'
 instagram: ''
 facebook: 'https://www.facebook.com/Paul3930?fref=ts'
-ein: '475244207'
+ein: ''
 zip: '90031'
 project_image: 'https://img.youtube.com/vi/fRmzSDzuoRA/hqdefault.jpg'
 project_video: ''

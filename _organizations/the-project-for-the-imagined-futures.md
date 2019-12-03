@@ -15,7 +15,7 @@ organization_website:
 twitter: www.twitter.com/IFLosAngeles
 instagram: 'http://instagram.com/theimaginedfutures'
 facebook: 'https://www.facebook.com/TheImaginedFutures'
-ein: '471442056'
+ein: ''
 zip: '90027'
 project_image: 'https://img.youtube.com/vi/KofWk5qh3jE/hqdefault.jpg'
 project_video: ''

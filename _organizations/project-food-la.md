@@ -68,7 +68,7 @@ organization_website:
 twitter: ''
 instagram: ''
 facebook: ''
-ein: '952803401'
+ein: ''
 zip: ''
 project_image: 'https://img.youtube.com/vi/ZBTmjmoABZE/maxresdefault.jpg'
 project_video: ''

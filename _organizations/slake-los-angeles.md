@@ -18,7 +18,7 @@ organization_website:
 twitter: ''
 instagram: ''
 facebook: ''
-ein: '181608474'
+ein: ''
 zip: ''
 project_image: 'https://img.youtube.com/vi/CDJnJMrwko8/hqdefault.jpg'
 project_video: ''

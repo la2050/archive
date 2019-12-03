@@ -15,7 +15,7 @@ organization_website:
 twitter: 'https://twitter.com/LA2015'
 instagram: 'https://www.instagram.com/la2015/'
 facebook: www.facebook.com/LA2015
-ein: '452853870'
+ein: ''
 zip: '90071'
 project_image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2d/2015_Special_Olympics_Closing_Ceremony_on_August_2%2C_2015.jpg

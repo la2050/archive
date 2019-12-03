@@ -17,7 +17,7 @@ organization_website:
 twitter: www.twitter.com/SmartGalsGo
 instagram: 'https://instagram.com/smart_gals_productions/'
 facebook: 'https://www.facebook.com/smartgals?fref=ts'
-ein: '202157944'
+ein: ''
 zip: '90031'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23815%252Fdisplay%252FIsWasWillBe_SmartGals.jpg=c570x385

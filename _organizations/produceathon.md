@@ -18,7 +18,7 @@ organization_website:
 twitter: '@ProduceAthon'
 instagram: '@produceAthon'
 facebook: www.facebook.com/ProduceAthon
-ein: '300945310'
+ein: ''
 zip: '90071'
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/produceathon.jpg'
 project_video: ''

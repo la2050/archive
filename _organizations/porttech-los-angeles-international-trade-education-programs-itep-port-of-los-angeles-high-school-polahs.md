@@ -17,7 +17,7 @@ organization_website:
 twitter: www.twitter.com/PortTechLA www.twitter.com/ITEPinc www.twitter.com/POLAHS
 instagram: ''
 facebook: www.facebook.com/PortTechLosAngeles www.facebook.com/ITEPInc?ref=ts
-ein: '800363808'
+ein: ''
 zip: '90731'
 project_image: 'https://img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg'
 project_video: ''

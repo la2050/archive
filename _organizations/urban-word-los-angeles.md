@@ -17,7 +17,7 @@ organization_website:
 twitter: www.twitter.com/urbanwordla
 instagram: ''
 facebook: www.facebook.com/urbanword
-ein: '922748922'
+ein: ''
 zip: '90291'
 project_image: 'https://img.youtube.com/vi/WendT0Sm-Tk/maxresdefault.jpg'
 project_video: ''

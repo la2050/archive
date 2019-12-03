@@ -15,7 +15,7 @@ organization_website:
 twitter: nomadlosangeles
 instagram: nomadlosangeles
 facebook: nomadla
-ein: '270679016'
+ein: ''
 zip: '90039'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21917%252Fdisplay%252Fstudio1.jpg=c570x385

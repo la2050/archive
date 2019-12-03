@@ -16,7 +16,7 @@ organization_website:
 twitter: ''
 instagram: '@yeswecan.world'
 facebook: 'https://www.facebook.com/YesWeCanWorld'
-ein: '833753567'
+ein: ''
 zip: '91501'
 project_image: >-
   https://challenge.la2050.org/assets/images/2019/learn/2048-wide/yes-we-can-world-foundation.jpg

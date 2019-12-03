@@ -21,7 +21,7 @@ organization_website: ''
 twitter: ''
 instagram: ''
 facebook: ''
-ein: '575061488'
+ein: ''
 zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16963%252Fdisplay%252F2019409068.jpg=c570x385

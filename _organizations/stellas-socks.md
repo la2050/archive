@@ -16,7 +16,7 @@ organization_website:
 twitter: stellassocks
 instagram: stellassocks
 facebook: 'https://www.facebook.com/stellassocks/'
-ein: '822734937'
+ein: ''
 zip: '90007'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/stellas-socks.jpg

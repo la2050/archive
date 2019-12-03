@@ -15,7 +15,7 @@ organization_website:
 twitter: www.twitter.com/rowgallery
 instagram: ''
 facebook: www.facebook.com/rowgalleryLA
-ein: '465706323'
+ein: ''
 zip: '90013'
 project_image: 'https://img.youtube.com/vi/ApjqumUUgTI/hqdefault.jpg'
 project_video: ''

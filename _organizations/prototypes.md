@@ -18,7 +18,7 @@ organization_website:
 twitter: www.twitter.com/prototypescare
 instagram: www.instagram.com/prototypescare
 facebook: www.facebook.com/prototypescare
-ein: '954092046'
+ein: ''
 zip: '90012'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23741%252Fdisplay%252F2013_Pomona_0649.JPG=c570x385

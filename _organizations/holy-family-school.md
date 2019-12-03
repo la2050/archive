@@ -17,7 +17,7 @@ organization_website:
 twitter: 'https://twitter.com/holyfamily'
 instagram: www.instagram.com/HolyFamily_
 facebook: www.facebook.com/holy.family.south.pasadena
-ein: '951809568'
+ein: ''
 zip: '91030'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23605%252Fdisplay%252FFullSizeRender-2.jpg=c570x385

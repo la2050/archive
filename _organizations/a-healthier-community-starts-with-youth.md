@@ -17,7 +17,7 @@ organization_website:
 twitter: '@hcsy_ucla'
 instagram: '@hcsy.ucla'
 facebook: 'https://www.facebook.com/HCSYatUCLA/'
-ein: '824719690'
+ein: ''
 zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/a-healthier-community-starts-with-youth.jpg

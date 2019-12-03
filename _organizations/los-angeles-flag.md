@@ -16,7 +16,7 @@ organization_website:
 twitter: www.twitter.com/LosAngelesFlag
 instagram: ''
 facebook: www.facebook.com/losangelesflag
-ein: '475236157'
+ein: ''
 zip: '90066'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23596%252Fdisplay%252FSky_Pic.png=c570x385

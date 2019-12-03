@@ -33,7 +33,7 @@ organization_website:
 twitter: ''
 instagram: ''
 facebook: ''
-ein: '270983281'
+ein: ''
 zip: ''
 project_image: 'https://img.youtube.com/vi/rt9TuksVaZU/maxresdefault.jpg'
 project_video: ''

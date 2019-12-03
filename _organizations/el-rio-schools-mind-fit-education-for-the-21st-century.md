@@ -36,7 +36,7 @@ organization_website:
 twitter: ''
 instagram: ''
 facebook: ''
-ein: '900705279'
+ein: ''
 zip: ''
 project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
