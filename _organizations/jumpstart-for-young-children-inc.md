@@ -17,7 +17,7 @@ organization_website:
 twitter: www.twitter.com/jumpstartkids
 instagram: ''
 facebook: www.facebook.com/jumpstartkids
-ein: '43262046'
+ein: '043262046'
 zip: ''
 project_image: 'https://img.youtube.com/vi/a-3Yo_Yz5Vc/maxresdefault.jpg'
 project_video: ''

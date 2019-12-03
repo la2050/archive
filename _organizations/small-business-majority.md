@@ -17,7 +17,7 @@ organization_website:
 twitter: '@SmlBizMajority'
 instagram: smlbizmajority
 facebook: 'https://www.facebook.com/SmallBusinessMajority'
-ein: '30576666'
+ein: '030576666'
 zip: ''
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/small-business-majority.jpg

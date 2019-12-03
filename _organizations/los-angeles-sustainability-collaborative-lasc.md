@@ -16,7 +16,7 @@ organization_website: ''
 twitter: ''
 instagram: ''
 facebook: ''
-ein: '10967139'
+ein: 010967139
 zip: '91302'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22723%252Fdisplay%252F5971_LASC_Poster_07_(1).jpg=c570x385

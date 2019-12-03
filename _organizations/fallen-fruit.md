@@ -18,7 +18,7 @@ organization_website:
 twitter: fallenfruit
 instagram: fallenfruit
 facebook: fallen_fruit
-ein: '557066495'
+ein: '952540759'
 zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0700914165741-team91.jpg

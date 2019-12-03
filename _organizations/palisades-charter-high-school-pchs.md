@@ -17,7 +17,7 @@ organization_website:
 twitter: www.twitter.com/palicharterhigh
 instagram: ''
 facebook: www.facebook.com/palihigh
-ein: '92184898'
+ein: '920184898'
 zip: '90272'
 project_image: 'https://img.youtube.com/vi/XUlv1Zd4JZU/hqdefault.jpg'
 project_video: ''

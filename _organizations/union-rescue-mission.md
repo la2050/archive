@@ -18,7 +18,7 @@ organization_website:
 twitter: '@URM'
 instagram: '@unionrescuemission'
 facebook: '@unionrescuemissionla'
-ein: '951709239'
+ein: '951709293'
 zip: '90013'
 project_image: >-
   https://challenge.la2050.org/assets/images/2019/connect/2048-wide/union-rescue-mission.jpg

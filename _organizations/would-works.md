@@ -17,7 +17,7 @@ organization_website:
 twitter: '@WouldWorks1'
 instagram: '@would_works'
 facebook: 'https://www.facebook.com/pages/WOULD-WORKS/216415171803596'
-ein: '455552196'
+ein: '811484179'
 zip: '90026'
 project_image: 'https://img.youtube.com/vi/xlsYqBrzY4k/maxresdefault.jpg'
 project_video: ''

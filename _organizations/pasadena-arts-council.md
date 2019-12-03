@@ -39,7 +39,7 @@ organization_website:
 twitter: ''
 instagram: ''
 facebook: ''
-ein: '95254059'
+ein: '237429349'
 zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16490%252Fdisplay%252FAxSBrochure_Cover_v2.jpg=c570x385
