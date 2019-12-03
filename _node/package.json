@@ -12,6 +12,7 @@
     "organizations:update:tags": "node --max-old-space-size=4096 ./generate/update-organizations-with-tags.js",
     "organizations:update:tags:parent": "node --max-old-space-size=4096 ./generate/update-organizations-with-parent-tags.js",
     "organizations:update:reclassify": "node --max-old-space-size=4096 ./generate/update-organizations-reclassify.js",
+    "organizations:update:flag": "node --max-old-space-size=4096 ./generate/update-organizations-flag.js",
     "images:download": "node ./generate/download-images.js",
     "import:challenge": "node --max-old-space-size=4096 ./generate/import-challenge-entries.js",
     "export:organizations": "node --max-old-space-size=4096 ./generate/markdown-to-csv.js",
