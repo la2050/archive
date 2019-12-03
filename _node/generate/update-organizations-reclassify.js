@@ -164,12 +164,14 @@ function processFile(filename) {
   let updateByUrl = urlLookup[name]
   if (updateByUrl
     && data.org_type !== updateByUrl.org_type // If the record needs an update
+    && data.org_type.includes("Non") // If the record is currently marked as a non profit
 
     // If this is indeed a matching record
     && data.title == updateByUrl.title
     && data.ein   == updateByUrl.ein) {
     console.log ("✨ Using URL to update org_type for: " + filename)
 
+    urlLookup[name].previous_org_type = data.org_type
     data.org_type = updateByUrl.org_type
     saveMarkdown(filename, data)
     count++
@@ -240,8 +242,8 @@ console.log(`Total records updated: ${count}`)
 
 for (let prop in urlLookup) {
   if (urlLookup.hasOwnProperty(prop)) {
-    if (urlLookup[prop].updated !== true) {
-      console.log(`${prop}, ${urlLookup[prop].org_type}, ${urlLookup[prop].updated}`)
+    if (urlLookup[prop].updated === true) {
+      console.log(`${urlLookup[prop].url}, ${urlLookup[prop].previous_org_type}, ${urlLookup[prop].org_type}`)
     }
   }
 }
