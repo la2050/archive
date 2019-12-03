@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019125'
 title: Climate Uprising (Interconnected Media)
-org_type: Nonprofit
+org_type: For profit business
 org_summary: >-
   Climate Uprising is a global call for climate action powered by stories of
   people impacted by the climate crisis and community events.

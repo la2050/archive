@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013139'
 title: National Park Service
-org_type: Nonprofit
+org_type: Government
 org_summary: >-
   The staff and volunteers of Santa Monica Mountains National Recreation Area
   have each year:

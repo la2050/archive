@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015171'
 title: RRM Design Group and Los Angeles Neighborhood Initiative
-org_type: Nonprofit
+org_type: For profit business
 org_summary: We create environments people enjoy
 tags_indicators:
   - Art

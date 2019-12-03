@@ -4,7 +4,7 @@ organization_id: '2015174'
 title: >-
   Santa Monica Cradle to Career, led by City of Santa Monica in partnership with
   SMMUSD
-org_type: Nonprofit
+org_type: Government
 org_summary: >-
   Santa Monica Cradle to Career brings together educators, service providers,
   policy makers, and community members to implement coordinated strategies to
