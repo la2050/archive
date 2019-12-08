@@ -10,8 +10,9 @@ tags_indicators:
   - Art
   - Arts & cultural vitality
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=464981201'
-organization_website:
-  - www.schkapf.com
+organization_website: ''
+# organization_website:
+#   - www.schkapf.com
 twitter: '@schkapf'
 instagram: 'http://instagram.com/schkapf'
 facebook: 'https://www.facebook.com/schkapf'

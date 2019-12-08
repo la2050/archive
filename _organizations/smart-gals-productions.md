@@ -12,8 +12,9 @@ tags_indicators:
   - Community gatherings
   - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=202157944'
-organization_website:
-  - www.smartgalsproductions.org
+organization_website: ''
+# organization_website:
+#   - www.smartgalsproductions.org
 twitter: www.twitter.com/SmartGalsGo
 instagram: 'https://instagram.com/smart_gals_productions/'
 facebook: 'https://www.facebook.com/smartgals?fref=ts'
