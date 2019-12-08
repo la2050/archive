@@ -1,7 +1,7 @@
 ---
 published: true
 organization_id: '2015135'
-title: Media Done Responsibly c/o Pasadena Arts Council
+title: Media Done Responsibly c/o Pasadena Arts Alliance
 org_type: Nonprofit
 org_summary: >-
   Media Done Responsibly is a media leadership program providing healthy media

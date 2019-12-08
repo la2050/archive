@@ -53,6 +53,6 @@ How can the LA2050 community and other stakeholders help your proposal succeed?:
 cached_project_image: >-
   https://archive-assets.la2050.org/images/2015/linking-middle-high-school-college-students-through-humanity-centered-media/img.youtube.com/vi/H107Gy4bTFs/hqdefault.jpg
 youtube_video_identifier: H107Gy4bTFs
-organization_name: Media Done Responsibly c/o Pasadena Arts Council
+organization_name: Media Done Responsibly c/o Pasadena Arts Alliance
 
 ---
