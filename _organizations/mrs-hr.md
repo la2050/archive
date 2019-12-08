@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019055'
 title: MRS HR
-org_type: For-profit organization
+org_type: For profit business
 org_summary: >-
   To educate, encourage and empower applicants and employers so that they can
   promote policies and practices that are essential to a positive workplace,

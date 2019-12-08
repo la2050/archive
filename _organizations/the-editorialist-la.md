@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019116'
 title: The Editorialist LA
-org_type: For-profit organization
+org_type: For profit business
 org_summary: >-
   I believe LA boasts incredible untapped potential for content, so I launched
   my media company, The Editorialist LA, to provide curated content about Los
