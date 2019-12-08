@@ -15,7 +15,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 ein: ''
-zip: '67'
+zip: ''
 project_image: 'https://img.youtube.com/vi/tMwKJIhKIAU/maxresdefault.jpg'
 project_video: ''
 challenge_url: []
