@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013064'
 title: Evo Farm
-org_type: For profit
+org_type: For profit business
 org_summary: |-
   * First commercial aquaponics farm in LA County (LA Times http://goo.gl/xmTck)
    

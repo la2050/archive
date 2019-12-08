@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013164'
 title: RiverLAnding Collective
-org_type: For profit
+org_type: For profit business
 org_summary: |-
   - Worked on the Los Angeles Revitalization Master Plan <p>
    

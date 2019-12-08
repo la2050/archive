@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013085'
 title: Green Octopus Consulting
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   &nbsp;</p>* Working with Business Improvement Districts and community groups
   in LA and around the U.S. since 1999 on sustainable urban transport and

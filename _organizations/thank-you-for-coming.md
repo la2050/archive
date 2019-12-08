@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013181'
 title: Thank You For Coming
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   The first milestone we reached was opening our doors December 5, 2012. After 9
   months of fundraising, drawing, re-drawing, building, permitting,

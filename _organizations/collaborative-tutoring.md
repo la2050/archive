@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013042'
 title: Collaborative Tutoring
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   <p>Collaborative Tutoring is an organization driven by the ultimate goal of
   collaborating with businesses, organizations, agencies, the young people, and

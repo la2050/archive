@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013214'
 title: verynice
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   verynice started in my apartment at UCLA when I was 19 years old. To date, I
   have grown the organization to be home to over 170 people around the globe. We

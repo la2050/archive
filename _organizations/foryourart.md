@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013072'
 title: ForYourArt
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   <p>ForYourArt creates new contexts for art on- and off-line and applies an
   entrepreneurial spirit to producing and distributing artists’ work. ForYourArt

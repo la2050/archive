@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013080'
 title: Geoff Gallegos/daKAH Hip Hop Orchestra
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   I am applying as a composer with an idea about housing. I have no achievements
   in the housing sector. At this point, it’s an achievement to make my rent

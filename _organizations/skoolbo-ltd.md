@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013165'
 title: Skoolbo LTD
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   <p>Our dream is that every child learns to read and gains confidence with
   numbers... these are life's essentials. We believe technology can dramatically

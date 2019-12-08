@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013209'
 title: Urban Macrosystems
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   <p>Urban Macrosystems’ partners have collaborated on several projects prior to
   its inception:</p>

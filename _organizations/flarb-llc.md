@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013069'
 title: FLARB LLC
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   <p>FLARB LLC is one of the earliest developers and publishers of mobile games
   and content in the West. In addition to consulting on mobile and social games

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013135'
 title: Minds on Fire
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   Minds on Fire is in the start-up phase. However, the organization’s founder
   created and piloted a similar model in New York City public schools as part of

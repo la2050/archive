@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013149'
 title: Pacesetter Productions
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   Pacesetter Productions is a new name for a consulting business Lee Condon has
   run from 2005 to the present. During that time, our project teams have

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013066'
 title: Filmanthropos
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   While Filmanthropos is a fairly new social enterprise that was founded in Q4
   2012, we are proud to have connected with several social enterprises to create

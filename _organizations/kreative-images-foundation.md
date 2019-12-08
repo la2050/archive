@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013108'
 title: Kreative Images Foundation
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   The founder of C-360, Sherita J. Herring, and the Kreative Images Foundation
   (K.I.) is equipped with the experience, contacts and professional acumen to

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013167'
 title: smartestk12.com
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   Smartestk12 started as a thousand question science database, parsed from the
   internet, and used for the academic growth of 800 students in South Gate,

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013030'
 title: 'cARTel: Collaborative Arts LA'
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   Our greatest achievements have grown out of the people and artists with whom
   we are privileged to work. Our ensemble of dedicated artists has grown over

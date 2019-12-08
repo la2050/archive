@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013092'
 title: Hub Los Angeles
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   <p>Hub LA has building the social enterprise community in Los Angeles since
   2009 and had a physical gathering place since September 2012. Since then we

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013114'
 title: La Loma Development Company
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   Besides our latest project at our center.... La Loma is a critical partner in
   the creation of Arlington Gardens, a three acre, award-winning community

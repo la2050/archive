@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013205'
 title: UNIQUE LA
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   UNIQUE LA has created the largest buy local design show in the country - and
   is the only show to curate and show-off local-made talent. We have brought

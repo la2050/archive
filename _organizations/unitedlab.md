@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013207'
 title: UNITEDLAB
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   In many instances, professional practice may have constraints that could be
   client driven or simply pertaining to ordinances and budgetary constraints. In

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013054'
 title: E.N.G.A.G.E stands for Educating Neighbors Gaining Awareness Growing Engaged
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   <p>-Attended the last two years of Los Angeles County Board of Supervisors
   meetings</p>

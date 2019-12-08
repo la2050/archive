@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013053'
 title: DIYFO (Do-It-Yourself. For Others.)
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   In fewer than 18 months, DIYFO has grown from an arts and crafts-oriented
   meeting among friends at a bar, to an organization whose vision will change

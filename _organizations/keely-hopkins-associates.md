@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013105'
 title: Keely Hopkins & Associates
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   Youth 4C is a new project launched in 2013 by two young Los Angeles
   entrepreneurs. Having both grown up outside of Los Angeles, both Keely Hopkins

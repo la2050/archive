@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013037'
 title: 'CitySourced, Inc.'
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   <p>As a leader in the civic engagement space, CitySourced has received
   numerous awards. Below are just a few:</p>

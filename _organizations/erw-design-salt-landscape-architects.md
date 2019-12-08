@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013062'
 title: ERW DESIGN + SALT Landscape Architects
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   ERW Design + SALT have partnered to develop the Park-in-a-Box concept. ERW
   Design (www.erwdesign.com) is an award-winning, multi-disciplinary

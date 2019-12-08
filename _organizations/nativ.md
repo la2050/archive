@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013140'
 title: Nativ
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   Though NativLA does not yet exist, it will coalesce my years of experience
   with nature and the environment. While earning a BA in Journalism at the

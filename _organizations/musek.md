@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013138'
 title: MUSEK
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   The program is fairly new and underfunded. However, all students who have been
   enrolled in the program for the 2012-2013 cycle- have been accepted to a 4

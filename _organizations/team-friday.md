@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013180'
 title: Team Friday
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   Our brightest achievement was our central mission at the founding of
   ARTmageddon, to redefine Carmageddon II as ARTmageddon. And it worked! We

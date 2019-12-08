@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013063'
 title: ESP Empowering Services Through Partnerships
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   We are a grassroots organization. We are currently in the state of begininning
   implementation and have been co-teaching in the classrooms educating students

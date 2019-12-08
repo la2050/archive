@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013049'
 title: Curious Catalyst
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   <p>Curious Catalyst is a new consultancy that employs agile and lean
   methodologies typically associated with disruption in ICT to drive
