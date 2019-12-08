@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015044'
 title: 'Compiler LA, Utopiad.org'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Concerned Capital creates business ownership opportunities for long-term blue
   collar workers in privately held Southern California companies in order to

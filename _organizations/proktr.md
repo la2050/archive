@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014072'
 title: Proktr
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Proktr illuminates what is going on now in the art and design world of Los
   Angeles.

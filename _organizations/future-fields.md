@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016085'
 title: Future Fields
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Future Scouts is a series of urban creative laboratories that prepare
   youngsters, teens and adults with tools, frameworks and models helpful to

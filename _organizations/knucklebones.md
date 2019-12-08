@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015105'
 title: Knucklebones
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Knucklebones is an athletically inspired wellness company, providing custom
   programs and events to infants through seniors at any time of year, for any

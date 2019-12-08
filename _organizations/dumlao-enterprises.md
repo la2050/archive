@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014028'
 title: Dumlao Enterprises
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Dumlao Enterprises is a digital media & marketing business focused on helping
   small businesses, artists, & entrepreneurs.

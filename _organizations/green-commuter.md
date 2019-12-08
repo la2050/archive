@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015075'
 title: Green Commuter
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   With the goal of helping to alleviate traffic, mitigate air pollution, and
   reduce commuting costs, Green Commuter will utilize a fleet of electric

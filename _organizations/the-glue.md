@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018119'
 title: The Glue
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   The Glue is a mission-driven creative agency that designs and builds
   beautiful, functional digital products that keep people and our planet

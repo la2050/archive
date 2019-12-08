@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015156'
 title: Plug In South LA
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Plug In South LA will be opening a co-working space in South Los Angeles early
   2016 and curates various programming series (Digital and Beyond in LA) that

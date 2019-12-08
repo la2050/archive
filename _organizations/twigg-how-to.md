@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018127'
 title: TWIGG How-To
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   TWIGG How-To [aka The Winging It Girls’ Guide] is an award-winning platform
   seeking to create a damsel-free world through how-to articles, workshops, and

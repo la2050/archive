@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016224'
 title: 'The LadyParts Collective, fiscally sponsored by Fractured Atlas'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Tipping the scales of gender equity in the arts and entertainment industry,
   The LadyParts Collective is an all-female group igniting social change by

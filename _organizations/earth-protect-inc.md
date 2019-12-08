@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014030'
 title: 'Earth Protect, Inc.'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Earth Protect shares and creates stories about people and organizations
   protecting the earth through its video focused web site and films.

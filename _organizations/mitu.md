@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016149'
 title: mitu
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   mitú is the leading digital media and data-driven company focused on
   representing and elevating Latino millennial stories through content that is

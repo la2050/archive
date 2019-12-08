@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016058'
 title: 'Core Innovate, Inc. & Century Academy for Excellence'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Core Innovate is an education technology and support services business that
   supports educators in strategic instructional planning aimed at removing

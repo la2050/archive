@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014073'
 title: Psychic Bunny
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Psychic Bunny is a multidisciplinary creative company – we make films,
   animations, games, and interactive transmedia experiences.

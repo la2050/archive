@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016221'
 title: The integrated Learning Annex
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   We run personal, professional, and organizational development programs that
   emphasize human-centric solutions, paying special attention to brain,

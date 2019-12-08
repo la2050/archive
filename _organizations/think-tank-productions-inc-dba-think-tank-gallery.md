@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018125'
 title: 'Think Tank Productions, Inc. dba Think Tank Gallery'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Think Tank Gallery is an alternative arts space and immersive production
   company est. in DTLA in 2010. We build themed Post-Street Art experiences

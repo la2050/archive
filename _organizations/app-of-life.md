@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014007'
 title: App of Life
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   App of Life transforms lives and communities - V1.0 is live on the app store
   at https://itunes.apple.com/us/app/app-of-life/id853379352?mt=8

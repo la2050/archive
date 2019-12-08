@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015097'
 title: JobCouch
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   JobCouch is a mobile enhanced platform to match hourly jobseekers with
   employers in the services industry.

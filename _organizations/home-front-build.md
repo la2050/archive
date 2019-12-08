@@ -2,7 +2,7 @@
 published: false
 organization_id: '2014150'
 title: Home Front Build
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Home Front Build is a design/build firm that specializes in green and historic
   construction.

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015226'
 title: Wise Guys Events
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Wise Guys Events is the premiere source for real life games in Southern
   California and beyond.

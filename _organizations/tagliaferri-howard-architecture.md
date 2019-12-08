@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015194'
 title: Tagliaferri Howard Architecture
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   THarchitecture is a community minded Architecture firm seeking projects to
   provide a positive meaningful impact within our built environment in Los

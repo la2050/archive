@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014145'
 title: Global Education Network Exchange (GENE)
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   GENE is an interactive enterprise system that promotes the use of digital
   communication/collaboration within & between classrooms

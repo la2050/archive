@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018137'
 title: We Are the Mighty
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   The Los Angeles Veterans Orientation is a fun and friendly way to welcome
   veterans home to LA.

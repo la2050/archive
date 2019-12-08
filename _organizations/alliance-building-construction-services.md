@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016006'
 title: Alliance Building & Construction Services
-org_type: Forprofit
+org_type: For profit business
 org_summary: General contractors for exterior property improvements
 tags_indicators:
   - Creative economy

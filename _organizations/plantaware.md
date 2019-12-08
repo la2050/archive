@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016174'
 title: Plantaware
-org_type: Forprofit
+org_type: For profit business
 org_summary: Plantaware helps people grow food at home.
 tags_indicators:
   - Access to healthy food

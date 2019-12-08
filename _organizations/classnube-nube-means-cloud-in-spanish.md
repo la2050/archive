@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015036'
 title: ClassNube (Nube means Cloud in Spanish)
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   We make software to help students and teachers learn and teach in truly
   innovative and collaborative ways. We help students develop their academic

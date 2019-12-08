@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015138'
 title: Microenterprise.org
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   We help homeless (and extremely low-income) individuals start small
   businesses.

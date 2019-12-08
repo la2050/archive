@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014056'
 title: Los Angeles Performance Practice
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   LAPP is a producing organization and artists’ network dedicated to supporting
   the unique contemporary performance community of Los Angeles.

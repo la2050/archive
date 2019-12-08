@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014194'
 title: Strivers.LA via New Economy Campaigns
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   New Economy Campaigns drives social impact through multiplatform campaigns,
   and incubates new social venture projects like Strivers.LA.

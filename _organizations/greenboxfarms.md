@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015077'
 title: GREENBOXFARMS
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   GREENBOXFARMS grows organic produce in food deserts using hydroponic
   technologies.

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016093'
 title: GRID Logistics
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   GRID Logistics are proposers of a design build maintain and operate
   transportation infrastructure for containerized goods movement. GRID markets

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015137'
 title: MentorMint
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Online mentoring connecting students with mentors who are industry
   professionals, peers, and community leaders; serving all students K-12,

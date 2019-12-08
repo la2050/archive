@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016210'
 title: Tech LA Cares
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   We aim to connect LA-area tech firms with volunteer opportunities at local
   STEM-based organizations via events, web, and weekly emails -- and lots of

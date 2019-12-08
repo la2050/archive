@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016022'
 title: boxcar+muse
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   boxcar+muse is an indulgent and imaginative play and work space, a connector
   of diverse women, and a platform for fun and meaningful experiences.

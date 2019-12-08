@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018033'
 title: Data 360
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   We expand people's possibilities by empowering people to create a new future
   with data and technology.

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016109'
 title: Impact Hub Los Angeles
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Impact Hub Los Angeles is a community hub and co-working space for socially
   conscious entrepreneurs, civic leaders, professionals and creatives.

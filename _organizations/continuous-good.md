@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016057'
 title: Continuous Good
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Continuous Good supports, shares, and builds social impact brands. Our
   flagship brand is a platform designed to equip, inspire and educate

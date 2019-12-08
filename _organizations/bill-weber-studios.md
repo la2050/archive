@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015016'
 title: Bill Weber Studios
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Bill Weber Studios creates marketing communications, promotions, products and
   media for non-profit organizations that work to improve the lives of children

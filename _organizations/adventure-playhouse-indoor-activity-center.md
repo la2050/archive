@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015004'
 title: Adventure Playhouse Indoor Activity Center
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Adventure Playhouse creates a safe and clean environment for families to play
   together as there are activities for all ages ranging from infants to adults

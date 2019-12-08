@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015064'
 title: FEAL.LA
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   FEAL.LA is an artist development platfrom for independent musicians, providing
   resources to connect to a broader community, with the vision to create a

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014026'
 title: Do Good Bus
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Do Good Bus provides an interactive and engaging experience by taking people
   to a secret location to volunteer and have fun along the way!

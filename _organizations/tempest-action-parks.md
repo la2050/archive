@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015195'
 title: Tempest Action Parks
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   TMPST Action Parks helps provide creative movement to communities everywhere
   through play, fitness, and overcoming obstacles.

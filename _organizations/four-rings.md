@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016081'
 title: Four Rings
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Four Rings provides a synergetic platform where all types of people can reach
   honorable achievement.

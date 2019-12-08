@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016096'
 title: Habidatum
-org_type: Forprofit
+org_type: For profit business
 org_summary: Open data-driven analysis of public transport accessibility in space-time
 tags_indicators:
   - Transportation

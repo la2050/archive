@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015065'
 title: FLY Yoga Arts
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   FLY Yoga Arts brings balance to education through play- based classes designed
   to engage each child's body, mind, and spirit!

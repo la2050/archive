@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016154'
 title: Nation of Vibration
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Nation of Vibration’s mission is to bring healing, connection, and empowerment
   to individuals and communities throughout LA and to work together to bring

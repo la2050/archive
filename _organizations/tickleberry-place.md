@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016238'
 title: Tickleberry Place
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Tickleberry Place is a mobile, PLAY, EXPLORE and LEARN pop-up for children in
   South Los Angeles, where kids can have fun while learning about

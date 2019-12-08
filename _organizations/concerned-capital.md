@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016055'
 title: Concerned Capital
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Concerned Capital is a social impact investment firm that leverages economic
   development tools to save/create family wage jobs in distressed communities by

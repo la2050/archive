@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015081'
 title: Haunted Play LLC
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   For the last 4 years, Delusion has been the premiere live theatre event in the
   nation. We create eerie "moving plays" in existing structures (such as old

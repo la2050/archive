@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014022'
 title: 'Creative Cycle, LLC, dba. L Creativo'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Supporting the Latin Indie Music Community of LA & Inspiring a new generation
   of Latinos to connect w/ their heritage by creativity and art.

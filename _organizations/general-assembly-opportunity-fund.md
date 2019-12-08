@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014144'
 title: General Assembly Opportunity Fund
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   General Assembly delivers best-in-class practical education in technology,
   business and design

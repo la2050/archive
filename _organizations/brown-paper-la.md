@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014120'
 title: Brown Paper LA
-org_type: Forprofit
+org_type: For profit business
 org_summary: We cater intimate events using fresh ingredients and simple recipes.
 tags_indicators:
   - Community gatherings

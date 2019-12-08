@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016194'
 title: Sky Source
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Our organization promotes the use of atmospheric water generation in order to
   benefit drought affected communities

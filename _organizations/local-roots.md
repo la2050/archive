@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015117'
 title: Local Roots
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Local Roots designs and operates vertical urban farms to further our mission
   of “providing everyone access to fresh, healthy, and affordable locally-grown

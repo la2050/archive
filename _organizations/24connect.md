@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014001'
 title: 24Connect
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   24Connect is a public affairs and social innovation strategy firm that works
   to scale impact-driven businesses, organizations, and ideas

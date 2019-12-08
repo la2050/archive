@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014107'
 title: 'With Love Market and Cafe, With Love Community Market and Cafe'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   A for-profit social enterprise seeking to provide healthy food access,
   employment and community classes/ cultural events to Southwest LA

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014180'
 title: Mushroom Learning
-org_type: Forprofit
+org_type: For profit business
 org_summary: Mushroom Learning Teaches Kids to Code!
 charity_navigator_url: ''
 organization_website: ''

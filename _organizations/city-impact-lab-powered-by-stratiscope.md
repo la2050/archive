@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018024'
 title: 'City Impact Lab, powered by Stratiscope'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Powered by Stratiscope, the City Impact Lab empowers individuals, businesses,
   & organizations to make an impact in their community. CIL serves as a hub for

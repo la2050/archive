@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014102'
 title: URBAN AIR
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Urban Air is a global artwork that transforms urban billboards into living,
   intelligently networked, suspended cloud forests.

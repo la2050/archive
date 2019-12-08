@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015168'
 title: River Wild LLC
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   River Wild LLC incubates pop-up economic development models along the LA River
   in underserved communities.

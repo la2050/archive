@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018070'
 title: 'Lola Techsystems, Inc.'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Lola Techsystems provides software and professional development for guides to
   support learners who struggle to succeed in and out of the classroom.
