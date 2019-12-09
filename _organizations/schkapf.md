@@ -31,5 +31,9 @@ project_titles:
 youtube_video_identifier: mei1C43QDXw
 cached_project_image: >-
   https://archive-assets.la2050.org/images/schkapf/img.youtube.com/vi/mei1C43QDXw/maxresdefault.jpg
+removed_ein: '464981201'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

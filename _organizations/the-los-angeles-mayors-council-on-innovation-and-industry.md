@@ -119,5 +119,9 @@ maker_image_file_name: LAMCII_graphic.png
 maker_image_id: '16540'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-los-angeles-mayors-council-on-innovation-and-industry/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16540%252Fdisplay%252FLAMCII_graphic.png=c570x385.png
+removed_ein: '611647131'
+removed_ein_note: >-
+  Not enough organization information available to provide the opportunity to
+  donate here; but please visit their website for additional details!
 
 ---

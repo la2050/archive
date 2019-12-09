@@ -31,5 +31,9 @@ maker_image_file_name: IBT1student.jpg
 maker_image_id: '21338'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/ill-be-the-one-organization/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21338%252Fdisplay%252FIBT1student.jpg=c570x385.jpg
+removed_ein: '510651399'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

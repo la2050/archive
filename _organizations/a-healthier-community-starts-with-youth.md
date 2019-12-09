@@ -34,5 +34,9 @@ project_titles:
     & our communities.
 cached_project_image: >-
   https://archive-assets.la2050.org/images/a-healthier-community-starts-with-youth/activation.la2050.org/assets/images/live/2048-wide/a-healthier-community-starts-with-youth.jpg
+removed_ein: '824719690'
+removed_ein_note: >-
+  Not enough organization information available to provide the opportunity to
+  donate here; but please visit their website for additional details!
 
 ---

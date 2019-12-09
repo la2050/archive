@@ -32,5 +32,9 @@ maker_image_file_name: studio1.jpg
 maker_image_id: '21917'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/nomadlosangeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21917%252Fdisplay%252Fstudio1.jpg=c570x385.jpg
+removed_ein: '270679016'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

@@ -36,5 +36,9 @@ project_titles:
   - The Edible Apartment
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-edible-apartment/skild-prod.s3.amazonaws.com/myla2050/images/custom540/1280996065741-team88.jpg
+removed_ein: '475129866'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

@@ -48,5 +48,9 @@ project_titles:
 youtube_video_identifier: rt9TuksVaZU
 cached_project_image: >-
   https://archive-assets.la2050.org/images/la-riverside-country-club/img.youtube.com/vi/rt9TuksVaZU/maxresdefault.jpg
+removed_ein: '270983281'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

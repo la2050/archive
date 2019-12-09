@@ -28,5 +28,9 @@ project_titles:
 youtube_video_identifier: fRmzSDzuoRA
 cached_project_image: >-
   https://archive-assets.la2050.org/images/lact-los-angeles-community-theatre/img.youtube.com/vi/fRmzSDzuoRA/hqdefault.jpg
+removed_ein: '475244207'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

@@ -29,5 +29,9 @@ project_ids:
   - '9102035'
 project_titles:
   - 'Yes We Can: Schools On Wheels'
+removed_ein: '833753567'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

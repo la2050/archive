@@ -57,5 +57,9 @@ maker_image_file_name: FLAA1.jpg
 maker_image_id: '17044'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/for-learners-of-all-ages/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17044%252Fdisplay%252FFLAA1.jpg=c570x385.jpg
+removed_ein: '461226459'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

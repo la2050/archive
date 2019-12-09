@@ -52,5 +52,9 @@ maker_image_file_name: rachelschmid.elrio.jpg
 maker_image_id: '17107'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/el-rio-schools-mind-fit-education-for-the-21st-century/maker.good.is/images/placeholder/idea.png
+removed_ein: '900705279'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

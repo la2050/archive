@@ -28,5 +28,9 @@ project_titles:
 youtube_video_identifier: tMwKJIhKIAU
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-los-angeles-fund-for-public-education-the-la-fund/img.youtube.com/vi/tMwKJIhKIAU/maxresdefault.jpg
+removed_ein: '452443162'
+removed_ein_note: >-
+  Not enough organization information available to provide the opportunity to
+  donate here; but please visit their website for additional details!
 
 ---

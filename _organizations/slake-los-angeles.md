@@ -33,5 +33,9 @@ project_titles:
 youtube_video_identifier: CDJnJMrwko8
 cached_project_image: >-
   https://archive-assets.la2050.org/images/slake-los-angeles/img.youtube.com/vi/CDJnJMrwko8/hqdefault.jpg
+removed_ein: '181608474'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

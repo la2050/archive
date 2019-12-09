@@ -25,5 +25,9 @@ project_titles:
 youtube_video_identifier: g8ndzuZ3kKM
 cached_project_image: >-
   https://archive-assets.la2050.org/images/metabolic-studio/img.youtube.com/vi/g8ndzuZ3kKM/maxresdefault.jpg
+removed_ein: '261878892'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

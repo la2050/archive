@@ -36,5 +36,9 @@ maker_image_file_name: IsWasWillBe_SmartGals.jpg
 maker_image_id: '23815'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/smart-gals-productions/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23815%252Fdisplay%252FIsWasWillBe_SmartGals.jpg=c570x385.jpg
+removed_ein: '202157944'
+removed_ein_note: >-
+  Not enough organization information available to provide the opportunity to
+  donate here; but please visit their website for additional details!
 
 ---
