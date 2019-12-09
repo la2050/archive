@@ -51,7 +51,7 @@ organization_website:
 twitter: ''
 instagram: ''
 facebook: ''
-ein: '461639779'
+ein: ''
 zip: ''
 project_image: 'https://img.youtube.com/vi/inC3OJbaTT4/maxresdefault.jpg'
 project_video: ''
@@ -66,5 +66,7 @@ project_titles:
 youtube_video_identifier: inC3OJbaTT4
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-l-a-kitchen/img.youtube.com/vi/inC3OJbaTT4/maxresdefault.jpg
+removed_ein: '461639779'
+removed_ein_note: 'This organization has not appeared on the IRS Business Master File in a number of months. It may have merged with another organization or ceased operations.'
 
 ---
