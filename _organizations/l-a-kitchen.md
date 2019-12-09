@@ -17,7 +17,7 @@ organization_website:
 twitter: '@thelakitchen'
 instagram: '@thelakitchen'
 facebook: 'https://www.facebook.com/thelakitchen/'
-ein: '461639779'
+ein: ''
 zip: ''
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/l-a-kitchen.jpg'
 project_video: 'https://vimeo.com/262575721'
@@ -32,5 +32,7 @@ project_titles:
   - 'Seed to Sky:  building an economic bridge from LA''s community gardens to LAX'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/l-a-kitchen/activation.la2050.org/assets/images/live/2048-wide/l-a-kitchen.jpg
+removed_ein: '461639779'
+removed_ein_note: 'This organization has not appeared on the IRS Business Master File in a number of months. It may have merged with another organization or ceased operations.'
 
 ---
