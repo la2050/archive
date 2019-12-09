@@ -114,7 +114,9 @@ const attributes = [
   'youtube_video_identifier',
   'maker_image_file_name',
   'maker_image_id',
-  'cached_project_image'
+  'cached_project_image',
+  'removed_ein',
+  'removed_ein_note'
 ]
 
 
@@ -172,7 +174,9 @@ function processFile(filename) {
     console.log ("✨ Using URL to update EIN for: " + filename)
 
     urlLookup[name].previous_ein = data.ein
+    data.removed_ein = data.ein
     data.ein = ""
+    data.removed_ein_note = updateByUrl["flag_message"]
     saveMarkdown(filename, data)
     count++
     urlLookup[name].updated = true
@@ -243,7 +247,7 @@ console.log(`Total records updated: ${count}`)
 for (let prop in urlLookup) {
   if (urlLookup.hasOwnProperty(prop)) {
     if (urlLookup[prop].updated === true) {
-      console.log(`${urlLookup[prop].url}, ${urlLookup[prop].previous_ein}, ${urlLookup[prop].ein}`)
+      console.log(`${urlLookup[prop].url}, ${urlLookup[prop].previous_ein}, ${urlLookup[prop].flag_message}`)
     }
   }
 }
