@@ -1,20 +1,18 @@
 
 {% if page.removed_ein and page.removed_ein_note and page.removed_ein_note != "" %}
 
-<h2 style="text-align: center; justify-self: start; max-width: none;
-text-transform: uppercase;
-font-weight: 600;
-letter-spacing: 0.05em; color: rgb(41, 41, 41) !important; 
-font-size: 1.25em; line-height: 1; margin-bottom: 3rem;">Note
-</h2>
 <p style="
   grid-column: 1/-1;
   justify-self: center;
   width: 40em;
   max-width: 100%;
-  margin-bottom: 3em;
+  margin-bottom: 1.5em;
   font-style: italic;
-">{{ page.removed_ein_note }}</p>
+"><strong style="
+  color: inherit;
+  text-transform: uppercase;
+  font-weight: normal;
+">Note:</strong> {{ page.removed_ein_note }}</p>
 
 <hr />
 {% endif %}
