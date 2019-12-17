@@ -1,7 +1,7 @@
 ---
 published: true
 organization_id: '2019129'
-title: Esperanza Community Housing Healthy Breathing Program
+title: Esperanza Community Housing
 org_type: Nonprofit
 org_summary: >-
   Esperanza Community Housing achieves comprehensive community development by
@@ -18,7 +18,7 @@ organization_website:
 twitter: '@esperanzachc'
 instagram: '@esperanzacommunityhousing'
 facebook: Esperanza Community Housing
-ein: '954204049'
+ein: '95-4230345'
 zip: '90007'
 project_image: >-
   https://challenge.la2050.org/assets/images/2019/live/2048-wide/esperanza-community-housing-healthy-breathing-program.jpg
