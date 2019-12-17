@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016118'
 title: Knit Marketing
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Knit Marketing creates and curates social media content for businesses looking
   to reach young people by training and employing teens and young adults from

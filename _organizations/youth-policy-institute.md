@@ -18,7 +18,7 @@ organization_website:
 twitter: '@ypiusa'
 instagram: '@ypiusa'
 facebook: Youth Policy Institute
-ein: '521278339'
+ein: ''
 zip: '90028'
 project_image: >-
   https://challenge.la2050.org/assets/images/2019/play/2048-wide/youth-policy-institute.jpg
@@ -54,5 +54,7 @@ project_titles:
     Undermine College Undermatching: Using Technology to Select the Best College
     Fit for LA's Students
   - 'YPI’s COLLEGE PROMISE: College Matched Savings Accounts'
+removed_ein: '521278339'
+removed_ein_note: "This organization has not appeared on the IRS Business Master File in a number of months. It may have merged with another organization or ceased operations."
 
 ---

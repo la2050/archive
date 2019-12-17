@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015213'
 title: Tiny Rebellion
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Tiny Rebellion is a Santa Monica-based agency that exists to accelerate
   business as the most powerful force for positive change; we believe that

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015157'
 title: Polar Tech Ed and Consulting LLC/Patrick Leon
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   We design and develop mobile health solutions to provide underserved
   populations better health outcomes.

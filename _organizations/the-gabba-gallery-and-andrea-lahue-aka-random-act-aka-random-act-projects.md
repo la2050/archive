@@ -15,7 +15,7 @@ organization_website:
 twitter: www.twitter.com/thegabbagallery and www.twitter.com/AndreaLaHue
 instagram: instagram.com/thegabbagallery instagram.com/andrealahue
 facebook: www.facebook.com/thegabbagallery and www.facebook.com/RandomActakaAndreaLaHue
-ein: '273886515'
+ein: ''
 zip: '90057'
 project_image: 'https://img.youtube.com/vi/G4cMVQVTBkM/hqdefault.jpg'
 project_video: ''
@@ -30,5 +30,9 @@ project_titles:
 youtube_video_identifier: G4cMVQVTBkM
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-gabba-gallery-and-andrea-lahue-aka-random-act-aka-random-act-projects/img.youtube.com/vi/G4cMVQVTBkM/hqdefault.jpg
+removed_ein: '273886515'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

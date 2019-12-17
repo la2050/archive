@@ -68,7 +68,7 @@ organization_website:
 twitter: ''
 instagram: ''
 facebook: ''
-ein: '952803401'
+ein: ''
 zip: ''
 project_image: 'https://img.youtube.com/vi/ZBTmjmoABZE/maxresdefault.jpg'
 project_video: ''
@@ -83,5 +83,9 @@ project_titles:
 youtube_video_identifier: ZBTmjmoABZE
 cached_project_image: >-
   https://archive-assets.la2050.org/images/project-food-la/img.youtube.com/vi/ZBTmjmoABZE/maxresdefault.jpg
+removed_ein: '952803401'
+removed_ein_note: >-
+  Not enough organization information available to provide the opportunity to
+  donate here; but please visit their website for additional details!
 
 ---

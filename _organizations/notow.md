@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018091'
 title: NoTow
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   NoTow is developing a mobile application to prevent parking tickets and towing
   by determining the user's ability to park and length of time by scanning

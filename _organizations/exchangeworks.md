@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015060'
 title: ExchangeWorks
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   ExchangeWorks creates new opportunities for artists and the public through the
   exchange of art and resources.

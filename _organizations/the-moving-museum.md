@@ -15,7 +15,7 @@ organization_website:
 twitter: www.twitter.com/TheMovingMuseum
 instagram: www.instagram.com/TheMovingMuseum
 facebook: www.facebook.com/TheMovingMuseum
-ein: '474255808'
+ein: ''
 zip: '10018'
 project_image: 'https://img.youtube.com/vi/X9EpK48pYtY/hqdefault.jpg'
 project_video: ''
@@ -30,5 +30,9 @@ project_titles:
 youtube_video_identifier: X9EpK48pYtY
 cached_project_image: >-
   https://archive-assets.la2050.org/images/the-moving-museum/img.youtube.com/vi/X9EpK48pYtY/hqdefault.jpg
+removed_ein: '474255808'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

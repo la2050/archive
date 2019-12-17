@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013137'
 title: MLoveizm Inc.
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   From working, guiding, promoting, encouraging and teaching artists, we have
   seen them go on to attain more jobs as entrepreneurs, build their own brands,

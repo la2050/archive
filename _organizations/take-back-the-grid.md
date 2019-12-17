@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013179'
 title: Take Back the Grid
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   Working with Dan Rosen, Billy Parish, and Arthur Coulston at SolarMosaic
   (www.joinmosaic.com) to develop the financial model for the "Oakland Solar

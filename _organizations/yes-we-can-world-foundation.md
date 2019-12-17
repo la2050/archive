@@ -16,7 +16,7 @@ organization_website:
 twitter: ''
 instagram: '@yeswecan.world'
 facebook: 'https://www.facebook.com/YesWeCanWorld'
-ein: '833753567'
+ein: ''
 zip: '91501'
 project_image: >-
   https://challenge.la2050.org/assets/images/2019/learn/2048-wide/yes-we-can-world-foundation.jpg
@@ -29,5 +29,9 @@ project_ids:
   - '9102035'
 project_titles:
   - 'Yes We Can: Schools On Wheels'
+removed_ein: '833753567'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

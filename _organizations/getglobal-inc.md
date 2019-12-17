@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019047'
 title: 'GetGlobal, Inc'
-org_type: For-profit organization
+org_type: For profit business
 org_summary: >-
   GetGlobal produces summits on international expansion, strategy, and key
   foreign markets. It brings together visionary companies and provides the

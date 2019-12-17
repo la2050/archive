@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016201'
 title: SportUp
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   SportUp is a robust mobile and online activity management tool designed to
   help teams and groups organize, communicate, and develop their programs by

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015146'
 title: Off The Saw
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Off The Saw creates community around furniture making by offering bench space,
   workshops, maker talks, and apprenticeships to furniture makers in Los

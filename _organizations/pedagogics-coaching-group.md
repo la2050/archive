@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016167'
 title: Pedagogics Coaching Group
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   An instructional coaching service for educators in the Greater LA area
   providing support to those striving to create a successful school culture and

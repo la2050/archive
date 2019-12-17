@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014020'
 title: Conant Moran Design & Fabrication
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Conant-Moran is a Design-Build metal fabrication and General Contracting
   business.

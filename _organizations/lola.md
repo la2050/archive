@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018069'
 title: LOLA
-org_type: Forprofit
+org_type: For profit business
 org_summary: 'LOLA explains local politics and issues for young, busy Los Angelenos.'
 tags_indicators:
   - Voting & civic engagement

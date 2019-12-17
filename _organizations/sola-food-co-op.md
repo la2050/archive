@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016195'
 title: SoLA Food Co-op
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   SoLA Food Co-op is working to build a full service natural foods grocery store
   in South Los Angeles, owned by the community.

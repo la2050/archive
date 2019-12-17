@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016073'
 title: Equallet
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Equallet’s mission is to achieve gender equality by harnessing the collective
   financial power of the consumer and investor to support women-owned businesses

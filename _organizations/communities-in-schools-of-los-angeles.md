@@ -17,7 +17,7 @@ organization_website:
 twitter: www.twitter.com/cislosangeles
 instagram: www.instagram.com/cislosangeles
 facebook: www.facebook.com/cisoflosangeles
-ein: '473675225'
+ein: '260404220'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg'
 project_video: ''

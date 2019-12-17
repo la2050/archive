@@ -13,7 +13,7 @@ organization_website:
 twitter: www.twitter.com/EIC_online
 instagram: www.instagram.com/ent.industries.council
 facebook: www.facebook.com/EIConline
-ein: '54259363'
+ein: '541259363'
 zip: '90069'
 project_image: 'https://img.youtube.com/vi/5paOc34oG84/maxresdefault.jpg'
 project_video: ''

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014177'
 title: MetroHealth Station - Jefferson Park
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   MHS looks like a fitness center but is a health & wellness primary care
   medical, dental, and emotional care facility for South LA residents.

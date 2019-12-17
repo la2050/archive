@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013175'
 title: String Theory Productions
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   Grant from City of Los Angeles Department of Cultural Affairs and Los Angeles
   World Airports to create a site specific performance installation at the Van

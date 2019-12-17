@@ -17,7 +17,7 @@ organization_website:
 twitter: www.twitter.com/PortTechLA www.twitter.com/ITEPinc www.twitter.com/POLAHS
 instagram: ''
 facebook: www.facebook.com/PortTechLosAngeles www.facebook.com/ITEPInc?ref=ts
-ein: '800363808'
+ein: ''
 zip: '90731'
 project_image: 'https://img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg'
 project_video: ''
@@ -35,5 +35,9 @@ project_titles:
 youtube_video_identifier: zmZJYC2WFVk
 cached_project_image: >-
   https://archive-assets.la2050.org/images/porttech-los-angeles-international-trade-education-programs-itep-port-of-los-angeles-high-school-polahs/img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg
+removed_ein: '800363808'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

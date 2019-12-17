@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018052'
 title: Health Core Possibilities
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   HCP is a diverse group of experienced consultants working with organizations
   seeking solutions that create positive impact. Twenty years working in applied

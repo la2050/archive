@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015029'
 title: ChallengeMaker
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   ChallengeMaker is a platform that allows nonprofits, companies, influencers
   and regular folks alike to host fundraising campaigns for nonprofits using fun

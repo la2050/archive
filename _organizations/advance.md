@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013003'
 title: ADVANCE
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   ADVANCE is still in its idea stages; however, as mentioned, we have been
   selected as a semi-finalist for the Echoing Green Fellowship, which would fund

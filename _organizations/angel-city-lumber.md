@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015009'
 title: Angel City Lumber
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Angel City Lumber intercepts felled city trees designated as “green waste”
   before they can be destroyed - mills and dries them into usable dimensions -

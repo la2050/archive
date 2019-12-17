@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015163'
 title: Public Matters
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Public Matters is a social enterprise—made up of artists, educators, media
   experts, cultural planners and Fellows—that designs and implements long-term,

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015070'
 title: Fruit Change
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Fruit Change is an organization founded with the intent to develop a system
   for San Pedro neighbors to connect with each other by sharing the bounty from

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014074'
 title: PwrdBy
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   We make mobile platforms for nonprofits to connect and deeply engage their
   constituents.

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015096'
 title: 'Ironbox Education, Inc.'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Ironbox Education helps students build math fluency and confidence by
   providing a proven system that includes classroom materials and teacher

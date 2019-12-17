@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014153'
 title: Ignite Teaching
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   We're technologists and educators passionate about creating better students
   today that will develop into the leaders of a better tomorrow.

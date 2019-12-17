@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018096'
 title: Podshare
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   PodShare has built over 190 affordable housing units across Los Angeles and
   SPY serves 1,100 homeless youth each year, connecting them to jobs, schools,

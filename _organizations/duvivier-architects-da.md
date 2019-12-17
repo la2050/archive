@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014135'
 title: Duvivier Architects (DA)
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   DA pioneered the integration of water resources & architecture in sustainable
   design, mapping, wetland restoration & watershed education.

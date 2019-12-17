@@ -1,8 +1,8 @@
 ---
 published: true
 organization_id: '2015098'
-title: Julie Rico DBA as O Fine Art
-org_type: Forprofit
+title: O Fine Art
+org_type: For profit business
 org_summary: >-
   LA Art Fest supports artists of all kinds from the diverse communities in the
   Los Angeles area.

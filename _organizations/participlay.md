@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013151'
 title: Participlay
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   A mobile arts and crafting unit that visits targeted community sites around LA
   County providing the opportunity to create hands on art projects and community

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015223'
 title: 'Voter, LLC'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   We’re building an app that makes it fast, fun, and easy to become informed in
   any election - Essentially, it’s tinder for politics.

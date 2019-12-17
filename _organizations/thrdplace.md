@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013198'
 title: ThrdPlace
-org_type: For profit
+org_type: For profit business
 org_summary: |-
   <p>To date, the most important achievement of thrdPlace is our viability. 
    

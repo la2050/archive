@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015172'
 title: Ruckus Projects
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Ruckus projects is a community of future makers coming together to launch
   projects that matter.

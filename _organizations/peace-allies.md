@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014066'
 title: Peace Allies
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   We lead peace-building efforts among social, cultural and ideological
   differences through advocacy, awareness and community outreach.

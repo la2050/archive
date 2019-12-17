@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014058'
 title: 'Millennial Magazine: Apps4LA'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Millennial is a lifestyle and culture magazine profiling those who shape the
   world we experience.

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013094'
 title: 'ImPact Farms, Inc.'
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   While yet to begin operations, we have engaged and raised the passion of many
   of our stakeholders such as local government offices, community organizations,

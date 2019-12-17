@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013013'
 title: arc
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   ARC provides comprehensive, afterschool programming for over 23,000 student
   participants annually: 6 Elementary Schools, 6 Middle Schools, 21 High Schools

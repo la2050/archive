@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013095'
 title: Individual Systems
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   <P>Achievements in Educational landscape: pragmatic, innovative,
   collaborative.<p>

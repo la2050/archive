@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015023'
 title: BUNCH Magazine dba BUNCH Media
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   We publish BUNCH Magazine which equips creative professionals and those who
   are curious about careers in creative fields with tools, tips, and inspiration

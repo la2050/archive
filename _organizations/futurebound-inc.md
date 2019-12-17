@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014143'
 title: 'FutureBound, Inc.'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   FutureBound provides educational video games based on innovative technology to
   increase the number of youth attending college.

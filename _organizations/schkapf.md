@@ -10,12 +10,13 @@ tags_indicators:
   - Art
   - Arts & cultural vitality
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=464981201'
-organization_website:
-  - www.schkapf.com
+organization_website: ''
+# organization_website:
+#   - www.schkapf.com
 twitter: '@schkapf'
 instagram: 'http://instagram.com/schkapf'
 facebook: 'https://www.facebook.com/schkapf'
-ein: '464981201'
+ein: ''
 zip: ''
 project_image: 'https://img.youtube.com/vi/mei1C43QDXw/maxresdefault.jpg'
 project_video: ''
@@ -30,5 +31,9 @@ project_titles:
 youtube_video_identifier: mei1C43QDXw
 cached_project_image: >-
   https://archive-assets.la2050.org/images/schkapf/img.youtube.com/vi/mei1C43QDXw/maxresdefault.jpg
+removed_ein: '464981201'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

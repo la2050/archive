@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016235'
 title: thecool
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   thecool is a physical space that encourages safe, organic sharing of ideas &
   opinions, unique gifts & hidden talents - centered around humanity’s age-old

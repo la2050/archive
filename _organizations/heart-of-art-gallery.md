@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015085'
 title: Heart of Art Gallery
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Heart of Art Gallery is a conscious space run by women in South LA that
   provides a safe, unfiltered space for the creation and presentation of art

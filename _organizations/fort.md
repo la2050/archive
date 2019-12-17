@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014035'
 title: FORT
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   FORT is a scalable community workshop that organizes artists and community
   members to repurpose reclaimed materials into functional goods.

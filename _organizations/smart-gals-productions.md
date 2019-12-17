@@ -12,12 +12,13 @@ tags_indicators:
   - Community gatherings
   - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=202157944'
-organization_website:
-  - www.smartgalsproductions.org
+organization_website: ''
+# organization_website:
+#   - www.smartgalsproductions.org
 twitter: www.twitter.com/SmartGalsGo
 instagram: 'https://instagram.com/smart_gals_productions/'
 facebook: 'https://www.facebook.com/smartgals?fref=ts'
-ein: '202157944'
+ein: ''
 zip: '90031'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23815%252Fdisplay%252FIsWasWillBe_SmartGals.jpg=c570x385
@@ -35,5 +36,9 @@ maker_image_file_name: IsWasWillBe_SmartGals.jpg
 maker_image_id: '23815'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/smart-gals-productions/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23815%252Fdisplay%252FIsWasWillBe_SmartGals.jpg=c570x385.jpg
+removed_ein: '202157944'
+removed_ein_note: >-
+  Not enough organization information available to provide the opportunity to
+  donate here; but please visit their website for additional details!
 
 ---

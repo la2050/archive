@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016070'
 title: EMX Los Angeles
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   EMX is a LA-based electronic music community providing upcoming artists a
   platform for artistic development, cross-generational educational programs,

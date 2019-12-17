@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014078'
 title: 'Sabio Enterprises, Inc.'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   We train Angelenos to become superior entry-level, full-stack web developers
   so that they may create amazing web products for all of LA.

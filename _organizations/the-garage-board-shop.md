@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016218'
 title: The Garage Board Shop
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   The Garage Board Shop is an urban outlet created for the community to have a
   space to express themselves through different channels.

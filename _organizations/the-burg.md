@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016213'
 title: The Burg
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Our organization's mission is to improve local political and community based
   involvement by creating a user-friendly online platform that lowers the

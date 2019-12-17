@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018115'
 title: 'Synaccord, LLC'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   We build web apps for civil & constructive large scale conversations based on
   proven practices in face to face deliberative discussion so people can

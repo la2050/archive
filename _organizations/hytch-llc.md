@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019094'
 title: 'Hytch, LLC.'
-org_type: For-profit organization
+org_type: For profit business
 org_summary: >-
   Hytch was created to defeat congestion and defend clean air with cash
   incentives. Hytch's mobile app promotes fewer SOV trips, increases ridership

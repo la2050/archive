@@ -18,7 +18,7 @@ organization_website:
 twitter: www.twitter.com/prototypescare
 instagram: www.instagram.com/prototypescare
 facebook: www.facebook.com/prototypescare
-ein: '954092046'
+ein: ''
 zip: '90012'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23741%252Fdisplay%252F2013_Pomona_0649.JPG=c570x385
@@ -44,5 +44,9 @@ maker_image_file_name: 2013_Pomona_0649.JPG
 maker_image_id: '23741'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/prototypes/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23741%252Fdisplay%252F2013_Pomona_0649.JPG=c570x385.jpg
+removed_ein: '954092046'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

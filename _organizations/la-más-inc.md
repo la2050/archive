@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013116'
 title: 'LA-Más, Inc.'
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   <p>Farm on Wheels is a product of the partnership between LA-MÃ¡s and Mia
   Lehrer + Associates. Since its inception, the partnership between MÃ¡s and MLA

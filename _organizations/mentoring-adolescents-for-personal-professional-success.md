@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018082'
 title: Mentoring Adolescents for Personal & Professional Success
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   As part of the HSRA curriculum, MAPPS is personalized human development
   exploration and planning, giving participants the support they need to create

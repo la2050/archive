@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016009'
 title: ANDesign Lab
-org_type: Forprofit
+org_type: For profit business
 org_summary: ANDesign Lab is a full-fledged industrial design firm.
 tags_indicators:
   - Entrepreneurship & innovation

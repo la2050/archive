@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014057'
 title: MassKnowtify
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   We provide a location-based alerting platform connecting citizens everywhere
   with relevant and timely information from local governments

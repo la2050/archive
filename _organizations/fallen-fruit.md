@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016076'
 title: Fallen Fruit
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Fallen Fruit invites you to re-imagine the function of public participation
   and urban space, and to explore the meaning of community through planting,
@@ -18,7 +18,7 @@ organization_website:
 twitter: fallenfruit
 instagram: fallenfruit
 facebook: fallen_fruit
-ein: '557066495'
+ein: '952540759'
 zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0700914165741-team91.jpg

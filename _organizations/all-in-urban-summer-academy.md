@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018006'
 title: All-In Urban Summer Academy
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Summer teachers implement intervention and project based curriculum to boost
   conceptual and social skills of 3rd-8th graders; engaging youth, empowering

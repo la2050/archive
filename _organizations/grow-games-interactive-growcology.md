@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014041'
 title: 'Grow Games Interactive, Growcology'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Mobile social action games connecting people to the ecosystem: growing food,
   sharing seeds, integrating gaming with data maps for resiliency

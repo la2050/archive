@@ -53,7 +53,7 @@ organization_website:
 twitter: ''
 instagram: ''
 facebook: ''
-ein: '461878739'
+ein: ''
 zip: ''
 project_image: 'https://img.youtube.com/vi/EZJvYnujihw/maxresdefault.jpg'
 project_video: ''
@@ -68,5 +68,9 @@ project_titles:
 youtube_video_identifier: EZJvYnujihw
 cached_project_image: >-
   https://archive-assets.la2050.org/images/citylife-la/img.youtube.com/vi/EZJvYnujihw/maxresdefault.jpg
+removed_ein: '461878739'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

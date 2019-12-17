@@ -16,7 +16,7 @@ organization_website: ''
 twitter: ''
 instagram: ''
 facebook: ''
-ein: '954592961'
+ein: ''
 zip: '90042'
 project_image: 'https://img.youtube.com/vi/jAOkF8UAOLI/maxresdefault.jpg'
 project_video: ''
@@ -30,5 +30,9 @@ project_titles:
 youtube_video_identifier: jAOkF8UAOLI
 cached_project_image: >-
   https://archive-assets.la2050.org/images/art-community-land-activism-aclas-la-tierra-de-la-culebra/img.youtube.com/vi/jAOkF8UAOLI/maxresdefault.jpg
+removed_ein: '954592961'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

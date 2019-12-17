@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016252'
 title: Verdical Group
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Verdical Group is a full-service green building consulting firm located in
   L.A. that is dedicated to advancing a more sustainable and healthy built

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016091'
 title: Give Today LA
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Creating a social share web-based platform that identifies unique community
   goals, and then provides a platform to connect you or your business to a

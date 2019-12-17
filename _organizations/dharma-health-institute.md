@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015048'
 title: Dharma Health Institute
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   DIY Girls’ mission is to increase girls’ interest in technology, engineering
   and making through hands-on educational experiences that promote girls’ early

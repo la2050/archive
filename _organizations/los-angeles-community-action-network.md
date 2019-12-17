@@ -20,7 +20,7 @@ twitter: www.twitter.com/LACANetwork
 instagram: ''
 facebook: >-
   https://www.facebook.com/LA-CAN-Los-Angeles-Community-Action-Network-150256427472/timeline/
-ein: '20661629'
+ein: 020661629
 zip: '90021'
 project_image: 'https://img.youtube.com/vi/d7u6LPKVtv4/maxresdefault.jpg'
 project_video: ''

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016001'
 title: '#Library'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   #Library is a platform that effectively sorts voices, information and content
   for relevance, quality and priority using the power of the crowd and machine

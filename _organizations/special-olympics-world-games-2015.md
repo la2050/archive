@@ -15,7 +15,7 @@ organization_website:
 twitter: 'https://twitter.com/LA2015'
 instagram: 'https://www.instagram.com/la2015/'
 facebook: www.facebook.com/LA2015
-ein: '452853870'
+ein: ''
 zip: '90071'
 project_image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2d/2015_Special_Olympics_Closing_Ceremony_on_August_2%2C_2015.jpg
@@ -31,5 +31,9 @@ project_titles:
 youtube_video_identifier: DMG32xJ5p-Q
 cached_project_image: >-
   https://archive-assets.la2050.org/images/special-olympics-world-games-2015/upload.wikimedia.org/wikipedia/commons/2/2d/2015_Special_Olympics_Closing_Ceremony_on_August_2%2C_2015.jpg
+removed_ein: '452853870'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

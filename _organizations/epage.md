@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016072'
 title: EPage
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   EPage is a mobile app development company that has created and released over
   300 apps for schools, businesses, professionals, and public gardens.

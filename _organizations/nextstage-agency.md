@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014063'
 title: NextStage Agency
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   NextStage Agency produces programs, events and campaigns that enhance the
   quality of people’s lives through art, creativity and culture.

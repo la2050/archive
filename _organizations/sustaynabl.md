@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015193'
 title: Sustaynabl
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Sustaynabl is a socially aware corporation tackling Urban Poverty through
   innovative Global Impact Projects (GIP’s).

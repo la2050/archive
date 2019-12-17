@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013109'
 title: L.A. Currents
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   <p>L.A. Currents is a digital news publication about life in Los Angeles. Our
   aim is to to chart the changing face of Los Angeles by melding technology and

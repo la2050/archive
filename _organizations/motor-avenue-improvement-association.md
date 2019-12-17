@@ -16,7 +16,7 @@ organization_website:
 twitter: www.twitter.com/MotorAveMarket
 instagram: www.instagram.com/MotorAveMarket
 facebook: www.facebook.com/MotorAveFM
-ein: '455405527'
+ein: ''
 zip: '90034'
 project_image: 'https://img.youtube.com/vi/g0KxazcQnVA/maxresdefault.jpg'
 project_video: ''
@@ -31,5 +31,9 @@ project_titles:
 youtube_video_identifier: g0KxazcQnVA
 cached_project_image: >-
   https://archive-assets.la2050.org/images/motor-avenue-improvement-association/img.youtube.com/vi/g0KxazcQnVA/maxresdefault.jpg
+removed_ein: '455405527'
+removed_ein_note: >-
+  Not enough organization information available to provide the opportunity to
+  donate here; but please visit their website for additional details!
 
 ---

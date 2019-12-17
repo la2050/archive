@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015011'
 title: ApplicantLab
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Leveling the admissions playing field via an online series of interactive
   tools that guides individual users through a customized path to write great

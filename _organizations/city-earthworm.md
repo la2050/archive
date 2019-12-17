@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013033'
 title: City Earthworm
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   City Earthworm was started with a single mission: to make composting a
   household activity. We designed and built the City Bin, a modern and compact

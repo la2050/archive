@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016063'
 title: Dear Mama
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Dear Mama provides the L.A. community with affordable, healthy alternatives to
   animal-based products, while providing education and empowerment on healthy

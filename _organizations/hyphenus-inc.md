@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016104'
 title: 'HyphenUs, Inc.'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   We are building a coParenting movement to educate, inform and empower parents
   with online dispute resolution to take a child-centric approach to separation,

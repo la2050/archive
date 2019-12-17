@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013011'
 title: Antigua Coffee House
-org_type: For profit
+org_type: For profit business
 org_summary: |-
   Best Coffee Roaster 2007
    

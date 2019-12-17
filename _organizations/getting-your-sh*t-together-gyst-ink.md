@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014039'
 title: Getting Your Sh*t Together (GYST-INK)
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   With our mission to make life better for artists, GYST-Ink provides
   information, technology and solutions created by artists for artists.

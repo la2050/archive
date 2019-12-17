@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019053'
 title: Los Angeles Blockchain Lab
-org_type: For-profit organization
+org_type: For profit business
 org_summary: >-
   A collaboration of academia, government and businesses, our mission is to grow
   LA into a sustainable blockchain innovation hub with a thriving ecosystem by

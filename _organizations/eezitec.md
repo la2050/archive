@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015056'
 title: EEZITEC
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   EEZITEC is an eCommerce platform & ecosystem where people can discover & learn
   about 3D printing, purchase 3D printers, 3D scanners, & 3D printed models.

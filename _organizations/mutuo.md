@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018086'
 title: Mutuo
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   We are an architecture studio that thinks innovatively to build meaningful
   architecture while promoting a more equitable future.

@@ -16,7 +16,7 @@ organization_website:
 twitter: stellassocks
 instagram: stellassocks
 facebook: 'https://www.facebook.com/stellassocks/'
-ein: '822734937'
+ein: ''
 zip: '90007'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/stellas-socks.jpg
@@ -31,5 +31,9 @@ project_titles:
   - Stella's Socks - Shelter for Your Feet
 cached_project_image: >-
   https://archive-assets.la2050.org/images/stellas-socks/activation.la2050.org/assets/images/connect/2048-wide/stellas-socks.jpg
+removed_ein: '822734937'
+removed_ein_note: >-
+  Not enough organization information available to provide the opportunity to
+  donate here; but please visit their website for additional details!
 
 ---

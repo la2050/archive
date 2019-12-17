@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013191'
 title: The Last Bookstore
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   The RXforLA program is an expansion Brady Wastewater’s long work with a wide
   variety of stakeholders in DTLA. Since moving there full time, he was a

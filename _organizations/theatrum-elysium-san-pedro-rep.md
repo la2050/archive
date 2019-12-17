@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014099'
 title: 'Theatrum Elysium, San Pedro Rep'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   TE San Pedro Rep is a Teaching Theatre and Arts Organization dedicated to
   cultivating the potential in aspiring artists through mentorship.

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014178'
 title: 'Mia Lehrer + Associates, LA-Mas, Arid Lands Institute'
-org_type: Nonprofit
+org_type: For profit business
 org_summary: >-
   ML+A promotes the practice of designing innovative landscapes while building
   healthy environments and sustainable communities.

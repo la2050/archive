@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013100'
 title: Jemmott Rollins Group
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   <p>As a management consulting firm, Jemmott Rollins Group has built a
   reputation for developing innovative concepts and providing leadership in

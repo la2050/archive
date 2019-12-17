@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014181'
 title: My Name My Story
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   My Name My Story is a youth-led organization that Inspires Empathy to Empower
   Young Changemakers.

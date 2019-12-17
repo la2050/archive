@@ -15,7 +15,7 @@ organization_website:
 twitter: www.twitter.com/rowgallery
 instagram: ''
 facebook: www.facebook.com/rowgalleryLA
-ein: '465706323'
+ein: ''
 zip: '90013'
 project_image: 'https://img.youtube.com/vi/ApjqumUUgTI/hqdefault.jpg'
 project_video: ''
@@ -30,5 +30,9 @@ project_titles:
 youtube_video_identifier: ApjqumUUgTI
 cached_project_image: >-
   https://archive-assets.la2050.org/images/row-gallery-foundation/img.youtube.com/vi/ApjqumUUgTI/hqdefault.jpg
+removed_ein: '465706323'
+removed_ein_note: >-
+  Not enough organization information available to provide the opportunity to
+  donate here; but please visit their website for additional details!
 
 ---

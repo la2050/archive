@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013055'
 title: EDDEFY
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   Ten years ago I was a schoolteacher for special education, focused on violent
   offenders age 12-21. 

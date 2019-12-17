@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013197'
 title: 'The Waters Wheel, LLC'
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   Aquaponic/Aeroponic farm design and implementation/supervision at Hollygrove
   Farms, New Orleans, 2011-12

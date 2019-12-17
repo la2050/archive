@@ -18,7 +18,7 @@ organization_website:
 twitter: '@ProduceAthon'
 instagram: '@produceAthon'
 facebook: www.facebook.com/ProduceAthon
-ein: '300945310'
+ein: ''
 zip: '90071'
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/produceathon.jpg'
 project_video: ''
@@ -41,5 +41,9 @@ project_titles:
     Change in 72-Hours
 cached_project_image: >-
   https://archive-assets.la2050.org/images/produceathon/activation.la2050.org/assets/images/create/2048-wide/produceathon.jpg
+removed_ein: '300945310'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

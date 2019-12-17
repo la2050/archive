@@ -17,7 +17,7 @@ organization_website:
 twitter: www.twitter.com/urbanwordla
 instagram: ''
 facebook: www.facebook.com/urbanword
-ein: '922748922'
+ein: ''
 zip: '90291'
 project_image: 'https://img.youtube.com/vi/WendT0Sm-Tk/maxresdefault.jpg'
 project_video: ''
@@ -32,5 +32,9 @@ project_titles:
 youtube_video_identifier: WendT0Sm-Tk
 cached_project_image: >-
   https://archive-assets.la2050.org/images/urban-word-los-angeles/img.youtube.com/vi/WendT0Sm-Tk/maxresdefault.jpg
+removed_ein: '922748922'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

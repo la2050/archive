@@ -1,0 +1,18 @@
+
+{% if page.removed_ein and page.removed_ein_note and page.removed_ein_note != "" %}
+
+<p style="
+  grid-column: 1/-1;
+  justify-self: center;
+  width: 40em;
+  max-width: 100%;
+  margin-bottom: 1.5em;
+  font-style: italic;
+"><strong style="
+  color: inherit;
+  text-transform: uppercase;
+  font-weight: normal;
+">Note:</strong> {{ page.removed_ein_note }}</p>
+
+<hr />
+{% endif %}

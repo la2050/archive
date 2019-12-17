@@ -16,7 +16,7 @@ organization_website:
 twitter: www.twitter.com/LosAngelesFlag
 instagram: ''
 facebook: www.facebook.com/losangelesflag
-ein: '475236157'
+ein: ''
 zip: '90066'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23596%252Fdisplay%252FSky_Pic.png=c570x385
@@ -33,5 +33,9 @@ maker_image_file_name: Sky_Pic.png
 maker_image_id: '23596'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/los-angeles-flag/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23596%252Fdisplay%252FSky_Pic.png=c570x385.png
+removed_ein: '475236157'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

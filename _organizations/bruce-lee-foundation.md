@@ -16,7 +16,7 @@ organization_website:
 twitter: www.twitter.com/BruceLeeFDN
 instagram: www.instagram.com/BruceLeeFoundation
 facebook: www.facebook.com/BruceLeeFoundation
-ein: '43657544'
+ein: '043657544'
 zip: '90049'
 project_image: 'https://img.youtube.com/vi/YufCYg-BYaY/maxresdefault.jpg'
 project_video: ''

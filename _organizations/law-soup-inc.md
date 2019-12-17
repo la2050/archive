@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014050'
 title: 'Law Soup, Inc.'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Law Soup is an online media company that creates and publishes content
   designed to advance the public’s understanding of the law.

@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016260'
 title: 'Wyota Workshop, Inc.'
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Wyota Workshop is a design and research firm working in the fields of art,
   architecture, urban design and planning

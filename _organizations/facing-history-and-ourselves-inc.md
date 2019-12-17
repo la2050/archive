@@ -16,7 +16,7 @@ organization_website:
 twitter: www.twitter.com/facinghistoryla
 instagram: www.instagram.com/facinghistory
 facebook: www.facebook.com/facinghistory
-ein: '42761636'
+ein: '042761636'
 zip: '90017'
 project_image: 'https://img.youtube.com/vi/2EbK6sblpo0/maxresdefault.jpg'
 project_video: ''

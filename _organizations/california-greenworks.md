@@ -51,7 +51,7 @@ organization_website:
 twitter: ''
 instagram: ''
 facebook: ''
-ein: '10574486'
+ein: 010574486
 zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17141%252Fdisplay%252FLeroy.JPG=c570x385

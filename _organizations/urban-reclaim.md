@@ -20,7 +20,7 @@ organization_website: ''
 twitter: ''
 instagram: ''
 facebook: ''
-ein: '272190657'
+ein: ''
 zip: ''
 project_image: 'https://img.youtube.com/vi/rDZ9hY7J0xQ/maxresdefault.jpg'
 project_video: ''
@@ -35,5 +35,9 @@ project_titles:
 youtube_video_identifier: rDZ9hY7J0xQ
 cached_project_image: >-
   https://archive-assets.la2050.org/images/urban-reclaim/img.youtube.com/vi/rDZ9hY7J0xQ/maxresdefault.jpg
+removed_ein: '272190657'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

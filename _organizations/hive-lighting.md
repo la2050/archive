@@ -2,7 +2,7 @@
 published: true
 organization_id: '2013090'
 title: Hive Lighting
-org_type: For profit
+org_type: For profit business
 org_summary: >-
   Hive Lighting is a Los Angeles based specialty lighting design, manufacturing
   and installation company for high output energy efficient fixtures. Hive is

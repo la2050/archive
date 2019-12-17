@@ -21,7 +21,7 @@ organization_website: ''
 twitter: ''
 instagram: ''
 facebook: ''
-ein: '575061488'
+ein: ''
 zip: ''
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16963%252Fdisplay%252F2019409068.jpg=c570x385
@@ -39,5 +39,9 @@ maker_image_file_name: 2019409068.jpg
 maker_image_id: '16963'
 cached_project_image: >-
   https://archive-assets.la2050.org/images/bike-l-a-2050/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16963%252Fdisplay%252F2019409068.jpg=c570x385.jpg
+removed_ein: '575061488'
+removed_ein_note: >-
+  This organization has not appeared on the IRS Business Master File in a number
+  of months. It may have merged with another organization or ceased operations.
 
 ---

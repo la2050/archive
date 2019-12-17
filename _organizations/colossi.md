@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015041'
 title: Colossi
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Our company Colossi is about creating interactive games for giant screens,
   like at sports events and other venues, where the whole audience can play at

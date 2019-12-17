@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019044'
 title: Earios
-org_type: For-profit organization
+org_type: For profit business
 org_summary: >-
   Amplifying women's voices and stories by creating a podcast network built
   entirely by women. We hope to open up opportunities for women in an industry

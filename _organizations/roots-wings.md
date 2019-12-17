@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018105'
 title: Roots & Wings
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   We are a 501c3 non-profit organization bringing evidence-based parent
   education, child & teen resilience building and whole school programs proven

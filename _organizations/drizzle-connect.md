@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016066'
 title: Drizzle Connect
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Drizzle enables low-income families to stay connected to their community and
   the world by allowing them to receive free mobile phone service and high-speed

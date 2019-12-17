@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014061'
 title: NationBuilder
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   NationBuilder gives people the tools to build a community around whatever they
   were meant to do.

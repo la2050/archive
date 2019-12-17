@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016208'
 title: Tampon Tribe
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Tampon Tribe enables access to organic, toxic- free and plastic-free feminine
   hygiene to all women. We believe that all women should be able to chose what

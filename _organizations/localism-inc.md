@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015118'
 title: Localism Inc.
-org_type: Forprofit
+org_type: For profit business
 org_summary: >-
   Localism Inc. fosters independent entrepreneurship to promote a more
   sustainable, self-reliant local economy.
