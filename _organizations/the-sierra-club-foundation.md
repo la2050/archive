@@ -16,7 +16,7 @@ organization_website:
 twitter: MyGenerationSC
 instagram: MyGenerationSC
 facebook: mygencampaign
-ein: ''
+ein: '94-6069890'
 zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6783094165741-team89.jpg
