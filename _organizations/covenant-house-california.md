@@ -10,13 +10,13 @@ org_summary: >-
 tags_indicators:
   - Homelessness
   - Housing & homelessness
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=4982'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=13-3391210'
 organization_website:
   - www.covenanthousecalifornia.org
 twitter: CovenantHouseCA
 instagram: covenanthousecalifornia/
 facebook: N/A
-ein: ''
+ein: '13-3391210'
 zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3954291065741-team90.jpg
