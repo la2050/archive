@@ -16,7 +16,7 @@ organization_website:
 twitter: cwc_losangeles
 instagram: ''
 facebook: 'https://www.facebook.com/CitizensoftheWorldCharterSchools/'
-ein: ''
+ein: '45-2823612'
 zip: ''
 project_image: 'http://www.cwclosangeles.org/wp-content/uploads/2015/01/bg6.jpg'
 project_video: ''
