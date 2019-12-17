@@ -16,7 +16,7 @@ organization_website:
 twitter: altaseaorg
 instagram: AltaSea
 facebook: altasea
-ein: ''
+ein: '46-3977904'
 zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3892536625741-team89.jpg
