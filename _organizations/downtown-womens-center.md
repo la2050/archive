@@ -62,7 +62,7 @@ organization_website:
 twitter: 'https://twitter.com/DWCweb'
 instagram: 'https://instagram.com/dwcweb/'
 facebook: 'https://www.facebook.com/DWCweb'
-ein: ''
+ein: '31-1597223'
 zip: ''
 project_image: 'https://img.youtube.com/vi/8GZELMERrSk/hqdefault.jpg'
 project_video: ''
