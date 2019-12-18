@@ -16,7 +16,7 @@ organization_website:
 twitter: '@tracymelchior'
 instagram: '@tracy_melchior'
 facebook: 'https://www.facebook.com/compassioncenteredcinema/'
-ein: '820740796'
+ein: '954445418'
 zip: '91709'
 project_image: >-
   https://challenge.la2050.org/assets/images/2019/connect/2048-wide/c-it-productions-llc.jpg
