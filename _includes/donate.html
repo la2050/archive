@@ -1,5 +1,5 @@
 
-{% if page.ein and page.ein != "" and ein_size == 9 and page.org_type contains "Nonprofit" %}
+{% if page.ein and page.ein != "" and ein_size >= 9 and page.org_type contains "Nonprofit" %}
 
 <div id="donate"></div>
 <div id="pledgeling">
@@ -9,8 +9,19 @@
   var element = document.querySelector("#pledgeling [data-ein]");
   if (element) {
     var ein = element.getAttribute("data-ein");
+
+    // Remove dashes
     ein = ein.replace(/\-/g, "");
-    ein = ein.slice(0, 2) + "-" + ein.slice(2);
+
+    // Re-add dashes in valid locations
+    var einArray = [];
+    einArray.push(ein.slice(0, 2));
+    einArray.push(ein.slice(2, 9));
+    if (ein.length > 9) {
+      einArray.push(ein.slice(9));
+    }
+    ein = einArray.join("-");
+
     console.log(ein);
     element.setAttribute("data-ein", ein);
   }
