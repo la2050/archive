@@ -17,7 +17,7 @@ organization_website:
 twitter: 'https://twitter.com/mmhealthnow'
 instagram: 'https://instagram.com/maternalmentalhealthnow/'
 facebook: 'https://www.facebook.com/MaternalMentalHealthNow/'
-ein: '934302067004'
+ein: ''
 zip: '90012'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23910%252Fdisplay%252FMMH-NOW_Final_Logo_9.1.15_(8.5_x_3_5).jpg=c570x385
