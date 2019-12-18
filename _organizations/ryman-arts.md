@@ -14,7 +14,7 @@ tags_indicators:
   - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951051084'
 organization_website:
-  - www.thebigdrawla.org
+  - www.rymanarts.org
 twitter: rymanarts
 instagram: rymanartsfanpage
 facebook: rymanarts
