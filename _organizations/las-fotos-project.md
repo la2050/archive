@@ -17,7 +17,7 @@ organization_website:
 twitter: lasfotosproject
 instagram: lasfotosproject
 facebook: lasfotosproject
-ein: '95-4302067-003'
+ein: '954302067003'
 zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2500980265741-team91.jpg
