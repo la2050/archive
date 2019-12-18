@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019085'
 title: 'C It Productions, LLC'
-org_type: For profit business
+org_type: Nonprofit
 org_summary: >-
   To bridge the divide between law enforcement and the communities they serve.
   We will use the magic of film incorporated into community engagement meetings
