@@ -7,6 +7,7 @@ let parse = require('csv-parse/lib/sync')
 let stringify = require('csv-stringify')
 let yaml = require('js-yaml')
 
+let fetch = require('node-fetch');
 
 function getYaml(text, filename) {
   const DELIMITER = '---'
@@ -105,7 +106,9 @@ const includeColumns = {
   // "youtube_video_identifier": 1,
   "awarded": 1,
   "awarded_details": 1,
-  "archive_url": 1
+  "archive_url": 1,
+  "pledgling_check": 1,
+  "pledgling_url": 1
 }
 
 function getColumns(records) {
@@ -130,6 +133,23 @@ function getColumns(records) {
 }
 
 
+function getFormattedEIN(ein) {
+  // Remove everything except numeric characters
+  ein = ein.replace(/[^0-9]/g, "");
+
+  // Re-add dashes in valid locations
+  var einArray = [];
+  einArray.push(ein.slice(0, 2));
+  einArray.push(ein.slice(2, 9));
+  if (ein.length > 9) {
+    einArray.push(ein.slice(9));
+  }
+  ein = einArray.join("-");
+
+  return ein;
+}
+
+
 function saveCSVFile(filePath, records) {
 
   let data = []
@@ -146,11 +166,16 @@ function saveCSVFile(filePath, records) {
       if (column === "organization_website" && value && value.length > 0) {
         value = value[0]
       }
+      if (column === "ein" && value && value.length >= 9) {
+        value = getFormattedEIN(value)
+      }
       if (includeColumns[column]) {
         array.push(value)
       }
     })
-    data.push(array)
+    if (item.org_type === "Nonprofit") {
+      data.push(array)
+    }
   })
 
   stringify(data, function(err, output){     
@@ -163,11 +188,12 @@ function saveCSVFile(filePath, records) {
 }
 
 
-function getRecords(folder) {
+async function getRecords(folder) {
   let files = getAllFilesFromFolder(folder)
 
   let records = []
   for (let index = 0; index < files.length; index++) {
+  // for (let index = 0; index < 10; index++) {
     if (files[index].indexOf('.DS_Store') >= 0) continue
 
     // Load the contents of the file
@@ -192,6 +218,21 @@ function getRecords(folder) {
         data.yaml.awarded = "honorable_mention"
       }
       data.yaml.awarded_details = awarded.notableText
+    }
+
+    if (data.yaml.org_type === "Nonprofit" &&
+        data.yaml.ein && data.yaml.ein.length >= 9) {
+
+      data.yaml.pledgling_url = `https://hello.pledgeling.com/widgets/donate/9c525e74792245ce4c4d5b96fc51b67b/ein/${getFormattedEIN(data.yaml.ein)}?subscription=monthly`
+      const response = await fetch(data.yaml.pledgling_url);
+
+      if (response.status == 404) {
+        data.yaml.pledgling_check = "404"
+      } else {
+        data.yaml.pledgling_check = ""
+      }
+    } else {
+      data.yaml.pledgling_check = ""
     }
 
     // Add the data to the list of records
@@ -4502,11 +4543,14 @@ for (let item of notableText) {
   }
 }
 
-console.log(notableLookup)
+console.log(notableLookup);
 
-const records = getRecords(`../_organizations`)
-console.log(records.length)
+(async function() {
+  
+  const records = await getRecords(`../_organizations`);
+  console.log(records.length);
 
-saveCSVFile("../_data-export/organizations.csv", records)
+  saveCSVFile("../_data-export/organizations.csv", records);
 
+})();
 
