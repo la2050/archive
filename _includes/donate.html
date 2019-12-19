@@ -10,8 +10,8 @@
   if (element) {
     var ein = element.getAttribute("data-ein");
 
-    // Remove dashes
-    ein = ein.replace(/\-/g, "");
+    // Remove everything except numeric characters
+    ein = ein.replace(/[^0-9]/g, "");
 
     // Re-add dashes in valid locations
     var einArray = [];
