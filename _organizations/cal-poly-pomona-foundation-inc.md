@@ -19,7 +19,7 @@ organization_website:
 twitter: ''
 instagram: ''
 facebook: ''
-ein: '95.2417645'
+ein: '95-2417645'
 zip: ''
 project_image: 'https://img.youtube.com/vi/0fH09h-Rx9o/hqdefault.jpg'
 project_video: ''
