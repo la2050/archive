@@ -17,7 +17,7 @@ organization_website:
 twitter: www.twitter.com/lacenterofphoto
 instagram: www.instagram.com/la_centerofphoto/
 facebook: www.facebook.com/losangelescenterofphotography
-ein: '4631333016'
+ein: '46-3133016'
 zip: '90028'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23374%252Fdisplay%252FJulia_Dean_at_Boyle_Heights_B_B_Club.jpg=c570x385
