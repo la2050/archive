@@ -13,7 +13,7 @@ tags_indicators:
   - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952540759'
 organization_website:
-  - https://publicmatters.wedid.it/ 
+  - http://publicmattersgroup.org/contact-2/#opportunties
 twitter: 'https://twitter.com/Pub_Matters'
 instagram: 'https://instagram.com/publicmatters/'
 facebook: www.facebook.com/publicmatters
