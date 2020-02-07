@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015163'
 title: Public Matters
-org_type: For profit business
+org_type: Nonprofit
 org_summary: >-
   Public Matters is a social enterprise—made up of artists, educators, media
   experts, cultural planners and Fellows—that designs and implements long-term,
@@ -11,13 +11,13 @@ org_summary: >-
 tags_indicators:
   - Voting & civic engagement
   - Social connectedness
-charity_navigator_url: ''
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952540759'
 organization_website:
-  - www.publicmattersgroup.com
+  - https://publicmatters.wedid.it/ 
 twitter: 'https://twitter.com/Pub_Matters'
 instagram: 'https://instagram.com/publicmatters/'
 facebook: www.facebook.com/publicmatters
-ein: '208027133'
+ein: '95-2540759'
 zip: '90026'
 project_image: >-
   https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/43950973_10156427247795199_7861215256188551168_n.jpg?_nc_cat=105&oh=ff5852bea3d214ce190da0b64c6e8bf1&oe=5C5E3537
