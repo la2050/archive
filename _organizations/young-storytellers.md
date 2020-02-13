@@ -21,7 +21,9 @@ instagram: '@youngstorytellers'
 facebook: '@youngstorytellers'
 ein: '55-0827731'
 zip: ''
-project_image: 'http://culvercitycrossroads.com/wp-content/uploads/2017/04/5J7A3846-1024x576.jpg'
+# project_image: 'http://culvercitycrossroads.com/wp-content/uploads/2017/04/5J7A3846-1024x576.jpg'
+project_image: >-
+  /uploads/young-storytellers.jpg
 project_video: 'https://youtu.be/4nRuPAZABus'
 challenge_url:
   - 'http://maker.good.is/myla2050learn2015/projects/StoryShare.html'
