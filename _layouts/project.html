@@ -111,20 +111,10 @@ http://maker.good.is/myLA2050{{ page.category }}.html
 http://maker.good.is/myla2050{{ page.category }}2015.html
 {% endcapture %}
 
-{% elsif page.year_submitted == 2016 %}
-
-{% assign challenge_title = "My LA2050 Grants Challenge" %}
-{% assign challenge_url = "https://challenge.la2050.org" %}
-
 {% elsif page.year_submitted == 2018 %}
 
 {% assign challenge_title = "My LA2050 Activation Challenge" %}
 {% assign challenge_url = "https://activation.la2050.org" %}
-
-{% elsif page.year_submitted == 2019 %}
-
-{% assign challenge_title = "My LA2050 Grants Challenge" %}
-{% assign challenge_url = "https://2019-challenge.la2050.org" %}
 
 {% else %}
 
@@ -135,6 +125,14 @@ http://maker.good.is/myla2050{{ page.category }}2015.html
 
 {% if page.challenge_url and page.challenge_url != "" %}
   {% assign challenge_url = page.challenge_url %}
+{% endif %}
+
+{% if page.year_submitted == 2019 %}
+  {% capture idea_submitted_in_challenge_url %}
+    {{ challenge_url | replace: "https://challenge.la2050.org", "https://2019-challenge.la2050.org" }}
+  {% endcapture %}
+{% else %}
+  {% assign idea_submitted_in_challenge_url = challenge_url %}
 {% endif %}
 
 
@@ -228,7 +226,7 @@ http://maker.good.is/myla2050{{ page.category }}2015.html
 
 <div class="proposal-description">
 
-<p style="font-style: italic; font-size: 0.875em; font-weight: 500;">Idea submitted in the <a href="{{ challenge_url }}" style="display: inline-block; color: inherit; font-weight: inherit;">{{ challenge_title }}</a> by <a href="{{ organization.url }}" style="display: inline-block; color: inherit; font-weight: inherit;">{{ organization.title }}</a></p>
+<p style="font-style: italic; font-size: 0.875em; font-weight: 500;">Idea submitted in the <a href="{{ idea_submitted_in_challenge_url }}" style="display: inline-block; color: inherit; font-weight: inherit;">{{ challenge_title }}</a> by <a href="{{ organization.url }}" style="display: inline-block; color: inherit; font-weight: inherit;">{{ organization.title }}</a></p>
 
 <p style="margin-bottom: 0">
   {{ page.project_summary }}
