@@ -10,8 +10,8 @@ tags_indicators:
   - Access to healthy food
   - Health
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=205142259'
-organization_website: ''
-twitter: ''
+organization_website: 'https://www.hungeractionla.org/'
+twitter: 'https://twitter.com/HungerActionLA'
 instagram: ''
 facebook: ''
 ein: '205142259'
