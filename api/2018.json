@@ -1,0 +1,8 @@
+---
+layout: none
+---
+
+{% assign data_collection = site.collections | where: "label", "projects" | first %}
+{% assign data_list = data_collection.docs | where: "year_submitted", 2018 %}
+
+{{ data_list | jsonify }}
