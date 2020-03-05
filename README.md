@@ -13,6 +13,16 @@ https://archive.la2050.org
 * [How to develop locally](#how-to-develop-locally)
 * [Handy guides](#handy-guides)
 
+## Deployment status
+
+### staging-archive.la2050.org
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e393bfa4-90d6-4f90-bc03-b4a681571b48/deploy-status)](https://app.netlify.com/sites/staging-archive-la2050/deploys)
+
+### archive.la2050.org
+
+[github.com/la2050/archive/deployments](https://github.com/la2050/archive/deployments)
+
 ## How to make changes
 
 The archive website is published with [GitHub Pages](https://pages.github.com) & [Netlify](https://www.netlify.com) and the files are generated with [Jekyll](http://jekyllrb.com).
@@ -95,6 +105,8 @@ If you’d like to see how your changes will look on the website before making t
 ![staging](https://user-images.githubusercontent.com/926616/47131296-bcb61180-d252-11e8-90e0-56a2e7552163.png)
 
 You can make edits in the staging branch and commit them just as you would normally. They’ll automatically appear on the staging website within a few minutes.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e393bfa4-90d6-4f90-bc03-b4a681571b48/deploy-status)](https://app.netlify.com/sites/staging-archive-la2050/deploys)
 
 Once you’re happy with how your changes look on the staging website, you can copy them over to the [public website](https://archive.la2050.org) (the `master` branch) using a pull request. Here are the steps:
 
