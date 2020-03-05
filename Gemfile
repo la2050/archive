@@ -1,4 +1,5 @@
 source "https://rubygems.org"
 
 # https://pages.github.com/versions/
-gem "jekyll", ">= 3.7.4", "< 4.0.0"
+# ruby "2.5.3"
+gem "jekyll", "3.8.5"
