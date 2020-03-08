@@ -9,6 +9,7 @@ layout: none
 Archive URL,{%- comment -%}{%- endcomment -%}
 Organization ID,{%- comment -%}{%- endcomment -%}
 Name,{%- comment -%}{%- endcomment -%}
+Type,{%- comment -%}{%- endcomment -%}
 Summary,{%- comment -%}{%- endcomment -%}
 Charity Navigator URL,{%- comment -%}{%- endcomment -%}
 Website,{%- comment -%}{%- endcomment -%}
@@ -31,8 +32,10 @@ Tags / Indicators
 "{{ data.organization_id }}",{%- comment -%}{%- endcomment -%}
 "{{ data.title }}",{%- comment -%}{%- endcomment -%}
 "{{ data.org_summary | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data.type }}",{%- comment -%}{%- endcomment -%}
 "{{ data.charity_navigator_url }}",{%- comment -%}{%- endcomment -%}
-"{{ data.organization_website | first }}",{%- comment -%}{%- endcomment -%}
+"{% for item in data.organization_website %}{{ item }}
+{% endfor %}",{%- comment -%}{%- endcomment -%}
 "{{ data.twitter }}",{%- comment -%}{%- endcomment -%}
 "{{ data.instagram }}",{%- comment -%}{%- endcomment -%}
 "{{ data.facebook }}",{%- comment -%}{%- endcomment -%}
