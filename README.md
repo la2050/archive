@@ -5,6 +5,7 @@ This is a website for the My LA2050 ideas archive–a searchable database of org
 
 https://archive.la2050.org
 
+* [Public API](#public-api)
 * [How to make changes](#how-to-make-changes)
 * [How to edit an organization](#how-to-edit-an-organization)
 * [How to hide an organization](#how-to-hide-an-organization)
@@ -22,6 +23,32 @@ https://archive.la2050.org
 ### archive.la2050.org
 
 [github.com/la2050/archive/deployments](https://github.com/la2050/archive/deployments)
+
+## Public API
+
+The data for the archive is available as downloadable [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) spreadsheet files and in [JSON](https://en.wikipedia.org/wiki/JSON) format.
+
+_2013-2018 Ideas data is not yet available._
+
+### Downloadable spreadsheet files (CSV)
+
+* [Organizations](https://archive.la2050.org/api/organizations.csv)
+* [2019 Ideas](https://archive.la2050.org/api/2019.csv)
+* 2018 Ideas
+* 2016 Ideas
+* 2015 Ideas
+* 2014 Ideas
+* 2013 Ideas
+
+### JSON format
+
+* [Organizations](https://archive.la2050.org/api/organizations.json)
+* [2019 Ideas](https://archive.la2050.org/api/2019.json)
+* 2018 Ideas
+* 2016 Ideas
+* 2015 Ideas
+* 2014 Ideas
+* 2013 Ideas
 
 ## How to make changes
 
