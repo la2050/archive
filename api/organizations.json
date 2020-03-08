@@ -1,8 +1,37 @@
 ---
 layout: none
 ---
+{%- assign data_collection = site.collections | where: "label", "organizations" | first -%}
+{%- assign data_list = data_collection.docs -%}
+{%- assign delimiter = "" -%}
 
-{% assign data_collection = site.collections | where: "label", "organizations" | first %}
-{% assign data_list = data_collection.docs %}
+[
 
-{{ data_list | jsonify }}
+  {%- for data in data_list -%}
+      {{ delimiter }}
+      {
+        "organization_id"       : {{ data.organization_id  | jsonify }},
+        "title"       : {{ data.title  | jsonify }},
+        "url"         : "https://archive.la2050.org{{ data.url }}",
+        "org_type"    : {{ data.org_type | jsonify  }},
+        "org_summary" : {{ data.org_summary | jsonify }},
+        "tags_indicators" : {{ data.tags_indicators | jsonify }},
+        "charity_navigator_url" : {{ data.charity_navigator_url | jsonify }},
+        "organization_website" : {{ data.organization_website | jsonify }},
+        "twitter" : {{ data.twitter | jsonify }},
+        "instagram" : {{ data.instagram | jsonify }},
+        "facebook" : {{ data.facebook | jsonify }},
+        "ein" : {{ data.ein | jsonify }},
+        "zip" : {{ data.zip | jsonify }},
+        "project_image" : {{ data.project_image | jsonify }},
+        "project_video" : {{ data.project_video | jsonify }},
+        "challenge_url" : {{ data.challenge_url | jsonify }},
+        "year_submitted" : {{ data.year_submitted | jsonify }},
+        "project_ids" : {{ data.project_ids | jsonify }},
+        "project_titles" : {{ data.project_titles | jsonify }}
+      }
+      {% assign delimiter = "," %}
+  {%- endfor -%}
+
+]
+
