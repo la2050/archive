@@ -38,13 +38,10 @@ layout: none
         : {{ data.project_summary | jsonify }},
 
         "Project Image"
-        : {{ data.project_image | jsonify }},
+        : {% capture cached_project_image %}{% include cached_project_image.html data=data %}{% endcapture %}{{ cached_project_image | jsonify }},
 
         "Project Video"
         : {{ data.project_video | jsonify }},
-
-        "What does your organization do?"
-        : {{ data["What does your organization do?"] | jsonify }},
 
         "Please list the organizations collaborating on this proposal."
         : {{ data["Please list the organizations collaborating on this proposal."]  | jsonify }},
