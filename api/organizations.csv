@@ -1,16 +1,14 @@
 ---
 layout: none
 ---
-
 {%- assign data_collection = site.collections | where: "label", "organizations" | first -%}
-
 {%- assign data_list = data_collection.docs -%}
 
-Archive URL,{%- comment -%}{%- endcomment -%}
+Organization Archive URL,{%- comment -%}{%- endcomment -%}
 Organization ID,{%- comment -%}{%- endcomment -%}
-Name,{%- comment -%}{%- endcomment -%}
-Type,{%- comment -%}{%- endcomment -%}
-Summary,{%- comment -%}{%- endcomment -%}
+Organization Name,{%- comment -%}{%- endcomment -%}
+Organization Type,{%- comment -%}{%- endcomment -%}
+Organization Summary,{%- comment -%}{%- endcomment -%}
 Charity Navigator URL,{%- comment -%}{%- endcomment -%}
 Website,{%- comment -%}{%- endcomment -%}
 Twitter,{%- comment -%}{%- endcomment -%}
@@ -23,7 +21,7 @@ Project Video,{%- comment -%}{%- endcomment -%}
 Challenge URLs,{%- comment -%}{%- endcomment -%}
 Years Submitted,{%- comment -%}{%- endcomment -%}
 Project IDs,{%- comment -%}{%- endcomment -%}
-Project Titles,{%- comment -%}{%- endcomment -%}
+Project Names,{%- comment -%}{%- endcomment -%}
 Tags / Indicators
 {% comment -%}{%- endcomment -%}
 

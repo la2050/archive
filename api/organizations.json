@@ -10,19 +10,19 @@ layout: none
   {%- for data in data_list -%}
       {{ delimiter }}
       {
-        "Archive URL"
+        "Organization Archive URL"
         : "https://archive.la2050.org{{ data.url }}",
 
         "Organization ID"
         : {{ data.organization_id  | jsonify }},
 
-        "Name"
+        "Organization Name"
         : {{ data.title  | jsonify }},
 
-        "Type"
+        "Organization Type"
         : {{ data.org_type | jsonify  }},
 
-        "Summary"
+        "Organization Summary"
         : {{ data.org_summary | jsonify }},
 
         "Charity Navigator URL"
@@ -61,7 +61,7 @@ layout: none
         "Project IDs"
         : {{ data.project_ids | jsonify }},
 
-        "Project Titles"
+        "Project Names"
         : {{ data.project_titles | jsonify }},
 
         "Tags / Indicators"
