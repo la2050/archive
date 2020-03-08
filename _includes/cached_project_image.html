@@ -1,0 +1,29 @@
+{% comment %}
+
+Each project has a “project_image” and some projects also have a “cached_project_image”
+
+“project_image” is the original URL for the image from the challenge site or third-party site
+
+“cached_project_image” is a copy of that image stored within the archive, which is
+used on the archive site, in the event that the original image is unavailable or
+isn’t served from a secure URL.
+
+{% endcomment -%}
+
+
+{%- comment %} Special case for insecure URLs {% endcomment -%}
+{%- if include.data.cached_project_image and include.data.project_image contains "http://" -%}
+{{ include.data.cached_project_image | replace: '%25', '%2525' }}
+
+{%- comment %} Special case for the 2016 Challenge {% endcomment -%}
+{%- elsif include.data.cached_project_image and include.data.project_image contains "https://skild-prod.s3.amazonaws.com" -%}
+{{ include.data.cached_project_image | replace: '%25', '%2525' }}
+
+{%- comment %} Special case for Instagram {% endcomment -%}
+{%- elsif include.data.cached_project_image and include.data.project_image contains "https://scontent" -%}
+{{ include.data.cached_project_image | replace: '%25', '%2525' }}
+
+{%- else -%}
+{{ include.data.project_image }}
+
+{%- endif %}

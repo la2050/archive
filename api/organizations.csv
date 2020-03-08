@@ -1,0 +1,54 @@
+---
+layout: none
+---
+{%- assign data_collection = site.collections | where: "label", "organizations" | first -%}
+{%- assign data_list = data_collection.docs -%}
+
+Organization Archive URL,{%- comment -%}{%- endcomment -%}
+Organization ID,{%- comment -%}{%- endcomment -%}
+Organization Name,{%- comment -%}{%- endcomment -%}
+Organization Type,{%- comment -%}{%- endcomment -%}
+Organization Summary,{%- comment -%}{%- endcomment -%}
+Charity Navigator URL,{%- comment -%}{%- endcomment -%}
+Website,{%- comment -%}{%- endcomment -%}
+Twitter,{%- comment -%}{%- endcomment -%}
+Instagram,{%- comment -%}{%- endcomment -%}
+Facebook,{%- comment -%}{%- endcomment -%}
+EIN,{%- comment -%}{%- endcomment -%}
+Zip,{%- comment -%}{%- endcomment -%}
+Project Image,{%- comment -%}{%- endcomment -%}
+Project Video,{%- comment -%}{%- endcomment -%}
+Challenge URLs,{%- comment -%}{%- endcomment -%}
+Years Submitted,{%- comment -%}{%- endcomment -%}
+Project IDs,{%- comment -%}{%- endcomment -%}
+Project Names,{%- comment -%}{%- endcomment -%}
+Tags / Indicators
+{% comment -%}{%- endcomment -%}
+
+{% for data in data_list -%}
+"https://archive.la2050.org{{ data.url }}",{%- comment -%}{%- endcomment -%}
+"{{ data.organization_id }}",{%- comment -%}{%- endcomment -%}
+"{{ data.title }}",{%- comment -%}{%- endcomment -%}
+"{{ data.org_summary | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data.type }}",{%- comment -%}{%- endcomment -%}
+"{{ data.charity_navigator_url }}",{%- comment -%}{%- endcomment -%}
+"{% for item in data.organization_website %}{{ item }}
+{% endfor %}",{%- comment -%}{%- endcomment -%}
+"{{ data.twitter }}",{%- comment -%}{%- endcomment -%}
+"{{ data.instagram }}",{%- comment -%}{%- endcomment -%}
+"{{ data.facebook }}",{%- comment -%}{%- endcomment -%}
+"{{ data.ein }}",{%- comment -%}{%- endcomment -%}
+"{{ data.zip }}",{%- comment -%}{%- endcomment -%}
+"{{ data.project_image }}",{%- comment -%}{%- endcomment -%}
+"{{ data.project_video }}",{%- comment -%}{%- endcomment -%}
+"{% for item in data.challenge_url %}{{ item }}
+{% endfor %}",{%- comment -%}{%- endcomment -%}
+"{% for item in data.year_submitted %}{{ item }}
+{% endfor %}",{%- comment -%}{%- endcomment -%}
+"{% for item in data.project_ids %}{{ item }}
+{% endfor %}",{%- comment -%}{%- endcomment -%}
+"{% for item in data.project_titles %}{{ item | replace: '"', '""' }}
+{% endfor %}",{%- comment -%}{%- endcomment -%}
+"{% for item in data.tags_indicators %}{{ item }}
+{% endfor %}"
+{% endfor %}

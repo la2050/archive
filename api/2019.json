@@ -1,8 +1,80 @@
 ---
 layout: none
 ---
+{%- assign data_collection = site.collections | where: "label", "projects" | first -%}
+{%- assign data_list = data_collection.docs | where: "year_submitted", 2019 -%}
+{%- assign delimiter = "" -%}
 
-{% assign data_collection = site.collections | where: "label", "projects" | first %}
-{% assign data_list = data_collection.docs | where: "year_submitted", 2019 %}
+[
 
-{{ data_list | jsonify }}
+  {%- for data in data_list -%}
+      {{ delimiter }}
+      {
+        "Project Archive URL"
+        : "https://archive.la2050.org{{ data.url }}",
+
+        "Challenge URL"
+        : {{ data.challenge_url | jsonify }},
+
+        "Year Submitted"
+        : {{ data.year_submitted | jsonify }},
+
+        "Category"
+        : {{ data.category | jsonify }},
+
+        "Organization ID"
+        : {{ data.organization_id  | jsonify }},
+
+        "Organization Name"
+        : {{ data.organization_name  | jsonify }},
+
+        "Project ID"
+        : {{ data.project_id  | jsonify }},
+
+        "Project Name"
+        : {{ data.title  | jsonify }},
+
+        "Project Summary"
+        : {{ data.project_summary | jsonify }},
+
+        "Project Image"
+        : {% capture cached_project_image %}{% include cached_project_image.html data=data %}{% endcapture %}{{ cached_project_image | jsonify }},
+
+        "Project Video"
+        : {{ data.project_video | jsonify }},
+
+        "Please list the organizations collaborating on this proposal."
+        : {{ data["Please list the organizations collaborating on this proposal."]  | jsonify }},
+
+        "Briefly tell us a story that demonstrates how your organization turns inspiration into impact."
+        : {{ data["Briefly tell us a story that demonstrates how your organization turns inspiration into impact."]  | jsonify }},
+
+        "Which metrics will your submission impact?"
+        : {{ data["Which metrics will your submission impact?"]  | jsonify }},
+
+        "Will your proposal impact any other LA2050 goal categories?"
+        : {{ data["Will your proposal impact any other LA2050 goal categories?"]  | jsonify }},
+
+        "In which areas of Los Angeles will you be directly working?"
+        : {{ data["In which areas of Los Angeles will you be directly working?"] 
+          | replace: "(please select only if your project has a countywide", ""
+          | replace: "(please select only if your project has a citywide", ""
+          | replace: "benefit)", "" | jsonify }},
+
+        "How will your project make LA the best place?"
+        : {{ data["How will your project make LA the best place?"]  | jsonify }},
+
+        "In what stage of innovation is this project?"
+        : {{ data["In what stage of innovation is this project?"]  | jsonify }},
+
+        "Please explain how you will define and measure success for your project."
+        : {{ data["Please explain how you will define and measure success for your project."]  | jsonify }},
+
+        "How can the LA2050 community and other stakeholders help your proposal succeed?"
+        : {{ data["How can the LA2050 community and other stakeholders help your proposal succeed?"]  | jsonify }}
+      }
+      {% assign delimiter = "," %}
+  {%- endfor -%}
+
+]
+
