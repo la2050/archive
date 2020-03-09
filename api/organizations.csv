@@ -29,7 +29,7 @@ Tags / Indicators
 "https://archive.la2050.org{{ data.url }}",{%- comment -%}{%- endcomment -%}
 "{{ data.organization_id }}",{%- comment -%}{%- endcomment -%}
 "{{ data.title }}",{%- comment -%}{%- endcomment -%}
-"{{ data.type }}",{%- comment -%}{%- endcomment -%}
+"{{ data.org_type }}",{%- comment -%}{%- endcomment -%}
 "{{ data.org_summary | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
 "{{ data.charity_navigator_url }}",{%- comment -%}{%- endcomment -%}
 "{% for item in data.organization_website %}{{ item }}

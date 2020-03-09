@@ -35,7 +35,7 @@ How can the LA2050 community and other stakeholders help your proposal succeed?
 "{{ data.organization_id }}",{%- comment -%}{%- endcomment -%}
 "{{ data.organization_name | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
 "{{ data.project_id }}",{%- comment -%}{%- endcomment -%}
-"{{ data.project_name | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data.title | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
 "{{ data.project_summary | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
 "{% capture cached_project_image %}{% include cached_project_image.html data=data %}{% endcapture %}{{ cached_project_image }}",{%- comment -%}{%- endcomment -%}
 "{{ data.project_video }}",{%- comment -%}{%- endcomment -%}
