@@ -57,9 +57,10 @@ layout: none
 
         "In which areas of Los Angeles will you be directly working?"
         : {{ data["In which areas of Los Angeles will you be directly working?"] 
-          | replace: "(please select only if your project has a countywide", ""
-          | replace: "(please select only if your project has a citywide", ""
-          | replace: "benefit)", "" | jsonify }},
+          | jsonify
+          | replace: " (please select only if your project has a countywide benefit)", ""
+          | replace: " (please select only if your project has a citywide benefit)", ""
+          }},
 
         "How will your project make LA the best place?"
         : {{ data["How will your project make LA the best place?"]  | jsonify }},

@@ -1,0 +1,67 @@
+---
+layout: none
+---
+{%- assign data_collection = site.collections | where: "label", "projects" | first -%}
+{%- assign data_list = data_collection.docs | where: "year_submitted", 2018 -%}
+
+Project Archive URL,{%- comment -%}{%- endcomment -%}
+Challenge URL,{%- comment -%}{%- endcomment -%}
+Year Submitted,{%- comment -%}{%- endcomment -%}
+Category,{%- comment -%}{%- endcomment -%}
+Organization ID,{%- comment -%}{%- endcomment -%}
+Organization Name,{%- comment -%}{%- endcomment -%}
+Project ID,{%- comment -%}{%- endcomment -%}
+Project Name,{%- comment -%}{%- endcomment -%}
+Project Summary,{%- comment -%}{%- endcomment -%}
+Project Image,{%- comment -%}{%- endcomment -%}
+Project Video,{%- comment -%}{%- endcomment -%}
+Please describe the activation your organization seeks to launch.,{%- comment -%}{%- endcomment -%}
+Which metrics will your activation impact?​,{%- comment -%}{%- endcomment -%}
+Will your proposal impact any other LA2050 goal categories?,{%- comment -%}{%- endcomment -%}
+In what areas of Los Angeles will you be directly working?,{%- comment -%}{%- endcomment -%}
+How will your activation mobilize Angelenos?,{%- comment -%}{%- endcomment -%}
+Describe in greater detail how your activation will make LA the best place?,{%- comment -%}{%- endcomment -%}
+How will your activation engage Angelenos to make LA the best place?,{%- comment -%}{%- endcomment -%}
+Please explain how you will define and measure success for your activation.,{%- comment -%}{%- endcomment -%}
+Where do you hope this activation or your organization will be in five years?
+{% comment -%}{%- endcomment -%}
+
+{% for data in data_list -%}
+"https://archive.la2050.org{{ data.url }}",{%- comment -%}{%- endcomment -%}
+"{{ data.challenge_url }}",{%- comment -%}{%- endcomment -%}
+"{{ data.year_submitted }}",{%- comment -%}{%- endcomment -%}
+"{{ data.category }}",{%- comment -%}{%- endcomment -%}
+"{{ data.organization_id }}",{%- comment -%}{%- endcomment -%}
+"{{ data.organization_name | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data.project_id }}",{%- comment -%}{%- endcomment -%}
+"{{ data.title | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data.project_summary | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{% capture cached_project_image %}{% include cached_project_image.html data=data %}{% endcapture %}{{ cached_project_image }}",{%- comment -%}{%- endcomment -%}
+"{{ data.project_video }}",{%- comment -%}{%- endcomment -%}
+"{{ data["Please describe the activation your organization seeks to launch."] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{% for item in data["Which metrics will your activation impact?​"] %}{{ item
+  | replace: '"', '""' }}
+{% endfor %}",{%- comment -%}{%- endcomment -%}
+"{% for item in data["Will your proposal impact any other LA2050 goal categories?"] %}{{ item
+  | replace: '"', '""' }}
+{% endfor %}",{%- comment -%}{%- endcomment -%}
+"{% for item in data["In what areas of Los Angeles will you be directly working?"] %}{{ item
+  | replace: "(please select only if your project has a countywide", ""
+  | replace: "(please select only if your project has a citywide", ""
+  | replace: "benefit)", ""
+  | replace: '"', '""' }}
+{% endfor %}",{%- comment -%}{%- endcomment -%}
+"{% for item in data["How will your activation mobilize Angelenos?"] %}{{ item
+  | replace: "(e.g. voting, running for", ""
+  | replace: "office, community problem solving)", ""
+  | replace: "(e.g. buycott, boycott, promote", ""
+  | replace: "corporate social responsibility)", ""
+  | replace: "(e.g. change consumer spending or increase", ""
+  | replace: "conservation activity)", ""
+  | replace: '"', '""' }}
+{% endfor %}",{%- comment -%}{%- endcomment -%}
+"{{ data["Describe in greater detail how your activation will make LA the best place?"] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data["How will your activation engage Angelenos to make LA the best place?"] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data["Please explain how you will define and measure success for your activation."] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data["Where do you hope this activation or your organization will be in five years?"] | replace: '"', '""' }}"
+{% endfor %}
