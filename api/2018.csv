@@ -1,0 +1,87 @@
+---
+layout: none
+---
+{%- assign data_collection = site.collections | where: "label", "projects" | first -%}
+{%- assign data_list = data_collection.docs | where: "year_submitted", 2018 -%}
+
+Project Archive URL,{%- comment -%}{%- endcomment -%}
+Challenge URL,{%- comment -%}{%- endcomment -%}
+Year Submitted,{%- comment -%}{%- endcomment -%}
+Category,{%- comment -%}{%- endcomment -%}
+Organization ID,{%- comment -%}{%- endcomment -%}
+Organization Name,{%- comment -%}{%- endcomment -%}
+Project ID,{%- comment -%}{%- endcomment -%}
+Project Name,{%- comment -%}{%- endcomment -%}
+Project Summary,{%- comment -%}{%- endcomment -%}
+Project Image,{%- comment -%}{%- endcomment -%}
+Project Video,{%- comment -%}{%- endcomment -%}
+
+
+Will your proposal impact any other LA2050 goal categories?,{%- comment -%}{%- endcomment -%}
+In what areas of Los Angeles will you be directly working?,{%- comment -%}{%- endcomment -%}
+name,{%- comment -%}{%- endcomment -%}
+name,{%- comment -%}{%- endcomment -%}
+name,{%- comment -%}{%- endcomment -%}
+name,{%- comment -%}{%- endcomment -%}
+name,{%- comment -%}{%- endcomment -%}
+name,{%- comment -%}{%- endcomment -%}
+name,{%- comment -%}{%- endcomment -%}
+name,{%- comment -%}{%- endcomment -%}
+name,{%- comment -%}{%- endcomment -%}
+name,{%- comment -%}{%- endcomment -%}
+name,{%- comment -%}{%- endcomment -%}
+name,{%- comment -%}{%- endcomment -%}
+name,{%- comment -%}{%- endcomment -%}
+
+
+
+How can the LA2050 community and other stakeholders help your proposal succeed?
+{% comment -%}{%- endcomment -%}
+
+{% for data in data_list -%}
+"https://archive.la2050.org{{ data.url }}",{%- comment -%}{%- endcomment -%}
+"{{ data.challenge_url }}",{%- comment -%}{%- endcomment -%}
+"{{ data.year_submitted }}",{%- comment -%}{%- endcomment -%}
+"{{ data.category }}",{%- comment -%}{%- endcomment -%}
+"{{ data.organization_id }}",{%- comment -%}{%- endcomment -%}
+"{{ data.organization_name | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data.project_id }}",{%- comment -%}{%- endcomment -%}
+"{{ data.project_name | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data.project_summary | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{% capture cached_project_image %}{% include cached_project_image.html data=data %}{% endcapture %}{{ cached_project_image }}",{%- comment -%}{%- endcomment -%}
+"{{ data.project_video }}",{%- comment -%}{%- endcomment -%}
+"{{ data["Will your proposal impact any other LA2050 goal categories?"] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data["In what areas of Los Angeles will you be directly working?"] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data["name"] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data["name"] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data["name"] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data["name"] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data["name"] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data["name"] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data["name"] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data["name"] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data["name"] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data["name"] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+
+
+
+
+"{% for item in data["Please list the organizations collaborating on this proposal."] %}{{ item | replace: '"', '""' }}
+{% endfor %}",{%- comment -%}{%- endcomment -%}
+"{{ data["Briefly tell us a story that demonstrates how your organization turns inspiration into impact."] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{%for item in data["Which metrics will your submission impact?"] %}{{ item | replace: '"', '""' }}
+{% endfor %}",{%- comment -%}{%- endcomment -%}
+"{% for item in data["Will your proposal impact any other LA2050 goal categories?"] %}{{ item | replace: '"', '""' }}
+{% endfor %}",{%- comment -%}{%- endcomment -%}
+"{% for item in data["In which areas of Los Angeles will you be directly working?"] %}{{ item
+  | replace: "(please select only if your project has a countywide", ""
+  | replace: "(please select only if your project has a citywide", ""
+  | replace: "benefit)", ""
+  | replace: '"', '""' }}
+{% endfor %}",{%- comment -%}{%- endcomment -%}
+"{{ data["How will your project make LA the best place?"] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data["In what stage of innovation is this project?"] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{{ data["Please explain how you will define and measure success for your project."] | replace: '"', '""' }}",{%- comment -%}{%- endcomment -%}
+"{% for item in data["How can the LA2050 community and other stakeholders help your proposal succeed?"] %}{{ item | replace: '"', '""' }}
+{% endfor %}"
+{% endfor %}
