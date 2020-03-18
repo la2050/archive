@@ -28,13 +28,13 @@ https://archive.la2050.org
 
 The data for the archive is available as downloadable [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) spreadsheet files and in [JSON](https://en.wikipedia.org/wiki/JSON) format.
 
-_2013-2018 Ideas data is not yet available._
+_2013-2016 Ideas data is not yet available._
 
 ### Downloadable spreadsheet files (CSV)
 
 * [Organizations](https://archive.la2050.org/api/organizations.csv)
 * [2019 Ideas](https://archive.la2050.org/api/2019.csv)
-* 2018 Ideas
+* [2018 Ideas](https://archive.la2050.org/api/2018.csv)
 * 2016 Ideas
 * 2015 Ideas
 * 2014 Ideas
@@ -44,7 +44,7 @@ _2013-2018 Ideas data is not yet available._
 
 * [Organizations](https://archive.la2050.org/api/organizations.json)
 * [2019 Ideas](https://archive.la2050.org/api/2019.json)
-* 2018 Ideas
+* [2018 Ideas](https://archive.la2050.org/api/2018.json)
 * 2016 Ideas
 * 2015 Ideas
 * 2014 Ideas
