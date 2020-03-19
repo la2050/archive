@@ -16,21 +16,21 @@ Column Names
   ---------------------------
   {%- endcomment -%}
 
-  Project Archive URL,{%- comment -%}{%- endcomment -%}
-  Challenge URL,{%- comment -%}{%- endcomment -%}
-  Year Submitted,{%- comment -%}{%- endcomment -%}
+  "Project Archive URL",{%- comment -%}{%- endcomment -%}
+  "Challenge URL",{%- comment -%}{%- endcomment -%}
+  "Year Submitted",{%- comment -%}{%- endcomment -%}
 {%- if data_list[0].indicator -%}
-  Indicator,
+  "Indicator",
 {%- elsif data_list[0].category -%}
-  Category,
+  "Category",
 {%- endif -%}
-  Organization ID,{%- comment -%}{%- endcomment -%}
-  Organization Name,{%- comment -%}{%- endcomment -%}
-  Project ID,{%- comment -%}{%- endcomment -%}
-  Project Name,{%- comment -%}{%- endcomment -%}
-  Project Summary,{%- comment -%}{%- endcomment -%}
-  Project Image,{%- comment -%}{%- endcomment -%}
-  Project Video,{%- comment -%}{%- endcomment -%}
+  "Organization ID",{%- comment -%}{%- endcomment -%}
+  "Organization Name",{%- comment -%}{%- endcomment -%}
+  "Project ID",{%- comment -%}{%- endcomment -%}
+  "Project Name",{%- comment -%}{%- endcomment -%}
+  "Project Summary",{%- comment -%}{%- endcomment -%}
+  "Project Image",{%- comment -%}{%- endcomment -%}
+  "Project Video",{%- comment -%}{%- endcomment -%}
 
   {%- comment -%}
   ---------------------------
@@ -39,7 +39,7 @@ Column Names
   {%- endcomment -%}
 
   {%- for answer in page.answers -%}
-    {{ answer }}
+    "{{ answer | replace: '"', '""' }}"
     {%- unless forloop.last == true -%},{%- endunless -%}
   {%- endfor %}
 {% comment -%} New line {%- endcomment -%}

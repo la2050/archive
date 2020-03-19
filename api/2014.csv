@@ -1,5 +1,5 @@
 ---
-layout: api-json
+layout: api-csv
 year_submitted: 2014
 answers:
   - "Please describe yourself"
