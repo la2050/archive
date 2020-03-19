@@ -15,10 +15,13 @@
 
         "Year Submitted"
         : {{ data.year_submitted | jsonify }},
-
+{% if data.indicator %}
+        "Indicator"
+        : {{ data.indicator | jsonify }},
+{% elsif data.category %}
         "Category"
         : {{ data.category | jsonify }},
-
+{% endif %}
         "Organization ID"
         : {{ data.organization_id  | jsonify }},
 
