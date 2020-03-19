@@ -19,7 +19,11 @@ Column Names
   Project Archive URL,{%- comment -%}{%- endcomment -%}
   Challenge URL,{%- comment -%}{%- endcomment -%}
   Year Submitted,{%- comment -%}{%- endcomment -%}
-  Category,{%- comment -%}{%- endcomment -%}
+{%- if data_list[0].indicator -%}
+  Indicator,
+{%- elsif data_list[0].category -%}
+  Category,
+{%- endif -%}
   Organization ID,{%- comment -%}{%- endcomment -%}
   Organization Name,{%- comment -%}{%- endcomment -%}
   Project ID,{%- comment -%}{%- endcomment -%}
@@ -64,8 +68,11 @@ Records
   "{{ data.year_submitted }}",
   {%- comment -%}{%- endcomment -%}
 
-  "{{ data.category }}",
-  {%- comment -%}{%- endcomment -%}
+  {%- if data.indicator -%}
+    {{ data.indicator }},
+  {%- elsif data.category -%}
+    {{ data.category }},
+  {%- endif -%}
 
   "{{ data.organization_id }}",
   {%- comment -%}{%- endcomment -%}
