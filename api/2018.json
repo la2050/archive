@@ -1,86 +1,14 @@
 ---
-layout: none
+layout: api-json
+year_submitted: 2018
+answers:
+  - "Please describe the activation your organization seeks to launch."
+  - "Which metrics will your activation impact?​"
+  - "Will your proposal impact any other LA2050 goal categories?"
+  - "In what areas of Los Angeles will you be directly working?"
+  - "How will your activation mobilize Angelenos?"
+  - "Describe in greater detail how your activation will make LA the best place?"
+  - "How will your activation engage Angelenos to make LA the best place?"
+  - "Please explain how you will define and measure success for your activation."
+  - "Where do you hope this activation or your organization will be in five years?"
 ---
-{%- assign data_collection = site.collections | where: "label", "projects" | first -%}
-{%- assign data_list = data_collection.docs | where: "year_submitted", 2018 -%}
-{%- assign delimiter = "" -%}
-
-[
-
-  {%- for data in data_list -%}
-      {{ delimiter }}
-      {
-        "Project Archive URL"
-        : "https://archive.la2050.org{{ data.url }}",
-
-        "Challenge URL"
-        : {{ data.challenge_url | jsonify }},
-
-        "Year Submitted"
-        : {{ data.year_submitted | jsonify }},
-
-        "Category"
-        : {{ data.category | jsonify }},
-
-        "Organization ID"
-        : {{ data.organization_id  | jsonify }},
-
-        "Organization Name"
-        : {{ data.organization_name  | jsonify }},
-
-        "Project ID"
-        : {{ data.project_id  | jsonify }},
-
-        "Project Name"
-        : {{ data.title  | jsonify }},
-
-        "Project Summary"
-        : {{ data.project_summary | jsonify }},
-
-        "Project Image"
-        : {% capture cached_project_image %}{% include cached_project_image.html data=data %}{% endcapture %}{{ cached_project_image | jsonify }},
-
-        "Project Video"
-        : {{ data.project_video | jsonify }},
-
-        "Please describe the activation your organization seeks to launch."
-        : {{ data["Please describe the activation your organization seeks to launch."]  | jsonify }},
-
-        "Which metrics will your activation impact?​"
-        : {{ data["Which metrics will your activation impact?​"]  | jsonify }},
-
-        "Will your proposal impact any other LA2050 goal categories?"
-        : {{ data["Will your proposal impact any other LA2050 goal categories?"]  | jsonify }},
-
-        "In what areas of Los Angeles will you be directly working?"
-        : {{ data["In what areas of Los Angeles will you be directly working?"]  
-          | jsonify
-          | replace: " (please select only if your project has a countywide benefit)", ""
-          | replace: " (please select only if your project has a citywide benefit)", ""
-          }},
-
-        "How will your activation mobilize Angelenos?"
-        : {{ data["How will your activation mobilize Angelenos?"]
-          | jsonify
-          | replace: " (e.g. voting, running for office, community problem solving)", ""
-          | replace: " (e.g. buycott, boycott, promote corporate social responsibility)", ""
-          | replace: " (e.g. change consumer spending or increase conservation activity)", ""
-          }},
-
-        "Describe in greater detail how your activation will make LA the best place?"
-        : {{ data["Describe in greater detail how your activation will make LA the best place?"]  | jsonify }},
-
-        "How will your activation engage Angelenos to make LA the best place?"
-        : {{ data["How will your activation engage Angelenos to make LA the best place?"]  | jsonify }},
-        
-        "Please explain how you will define and measure success for your activation."
-        : {{ data["Please explain how you will define and measure success for your activation."]  | jsonify }},
-
-        "Where do you hope this activation or your organization will be in five years?"
-        : {{ data["Where do you hope this activation or your organization will be in five years?"]  | jsonify }}
-      }
-      {% assign delimiter = "," %}
-  {%- endfor -%}
-
-]
-
