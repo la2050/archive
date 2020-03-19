@@ -1,0 +1,63 @@
+{%- assign data_collection = site.collections
+      | where: "label", "projects"
+      | first -%}
+{%- assign data_list = data_collection.docs
+      | where: "year_submitted", page.year_submitted -%}
+
+[
+  {%- for data in data_list -%}
+      {
+        "Project Archive URL"
+        : "https://archive.la2050.org{{ data.url }}",
+
+        "Challenge URL"
+        : {{ data.challenge_url | jsonify }},
+
+        "Year Submitted"
+        : {{ data.year_submitted | jsonify }},
+
+        "Category"
+        : {{ data.category | jsonify }},
+
+        "Organization ID"
+        : {{ data.organization_id  | jsonify }},
+
+        "Organization Name"
+        : {{ data.organization_name  | jsonify }},
+
+        "Project ID"
+        : {{ data.project_id  | jsonify }},
+
+        "Project Name"
+        : {{ data.title  | jsonify }},
+
+        "Project Summary"
+        : {{ data.project_summary | jsonify }},
+
+        "Project Image"
+        : {% capture cached_project_image %}{% include cached_project_image.html data=data %}{% endcapture %}{{ cached_project_image | jsonify }},
+
+        "Project Video"
+        : {{ data.project_video | jsonify }},
+
+        {% for answer in page.answers %}
+        "{{ answer }}"
+        : {{ data[answer]
+          | jsonify
+          | replace: 
+            " (please select only if your project has a countywide benefit)", ""
+          | replace:
+            " (please select only if your project has a citywide benefit)", ""
+          | replace:
+            " (e.g. voting, running for office, community problem solving)", ""
+          | replace:
+            " (e.g. buycott, boycott, promote corporate social responsibility)", ""
+          | replace:
+            " (e.g. change consumer spending or increase conservation activity)", ""
+          }}{% unless forloop.last == true -%},{%- endunless -%}
+        {% endfor %}
+
+      }
+      {%- unless forloop.last == true -%},{%- endunless -%}
+  {%- endfor -%}
+]

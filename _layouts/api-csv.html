@@ -1,0 +1,129 @@
+{%- assign data_collection = site.collections
+      | where: "label", "projects"
+      | first -%}
+{%- assign data_list = data_collection.docs
+      | where: "year_submitted", page.year_submitted -%}
+
+{%- comment -%}
+------------
+Column Names
+------------
+{%- endcomment -%}
+
+  {%- comment -%}
+  ---------------------------
+  Common to all project years
+  ---------------------------
+  {%- endcomment -%}
+
+  Project Archive URL,{%- comment -%}{%- endcomment -%}
+  Challenge URL,{%- comment -%}{%- endcomment -%}
+  Year Submitted,{%- comment -%}{%- endcomment -%}
+  Category,{%- comment -%}{%- endcomment -%}
+  Organization ID,{%- comment -%}{%- endcomment -%}
+  Organization Name,{%- comment -%}{%- endcomment -%}
+  Project ID,{%- comment -%}{%- endcomment -%}
+  Project Name,{%- comment -%}{%- endcomment -%}
+  Project Summary,{%- comment -%}{%- endcomment -%}
+  Project Image,{%- comment -%}{%- endcomment -%}
+  Project Video,{%- comment -%}{%- endcomment -%}
+
+  {%- comment -%}
+  ---------------------------
+  Unique for each project year
+  ---------------------------
+  {%- endcomment -%}
+
+  {%- for answer in page.answers -%}
+    {{ answer }}
+    {%- unless forloop.last == true -%},{%- endunless -%}
+  {%- endfor %}
+{% comment -%} New line {%- endcomment -%}
+
+
+{%- comment -%}
+-------
+Records
+-------
+{%- endcomment -%}
+
+{%- for data in data_list -%}
+
+  {%- comment -%}
+  ---------------------------
+  Common to all project years
+  ---------------------------
+  {%- endcomment -%}
+
+  "https://archive.la2050.org{{ data.url }}",
+  {%- comment -%}{%- endcomment -%}
+
+  "{{ data.challenge_url }}",
+  {%- comment -%}{%- endcomment -%}
+
+  "{{ data.year_submitted }}",
+  {%- comment -%}{%- endcomment -%}
+
+  "{{ data.category }}",
+  {%- comment -%}{%- endcomment -%}
+
+  "{{ data.organization_id }}",
+  {%- comment -%}{%- endcomment -%}
+
+  "{{ data.organization_name | replace: '"', '""' }}",
+  {%- comment -%}{%- endcomment -%}
+
+  "{{ data.project_id }}",
+  {%- comment -%}{%- endcomment -%}
+
+  "{{ data.title | replace: '"', '""' }}",
+  {%- comment -%}{%- endcomment -%}
+
+  "{{ data.project_summary | replace: '"', '""' }}",
+  {%- comment -%}{%- endcomment -%}
+
+  "
+    {%- capture cached_project_image -%}
+      {%- include cached_project_image.html data=data -%}
+    {%- endcapture -%}
+    {{ cached_project_image }}
+    {%- comment -%}{%- endcomment -%}
+  ",
+  {%- comment -%}{%- endcomment -%}
+
+  "{{ data.project_video }}",
+  {%- comment -%}{%- endcomment -%}
+
+  {%- comment -%}
+  ---------------------------
+  Unique for each project year
+  ---------------------------
+  {%- endcomment -%}
+
+  {%- for answer in page.answers -%}
+    "
+      {%- for item in data[answer] -%}
+        {{ item
+          | replace: "(please select only if your project has a countywide", ""
+          | replace: "(please select only if your project has a citywide", ""
+          | replace: "benefit)", ""
+          | replace: "(e.g. voting, running for", ""
+          | replace: "office, community problem solving)", ""
+          | replace: "(e.g. buycott, boycott, promote", ""
+          | replace: "corporate social responsibility)", ""
+          | replace: "(e.g. change consumer spending or increase", ""
+          | replace: "conservation activity)", ""
+          | replace: '"', '""' }}
+
+        {%- comment -%} Make a new line for the next item, unless this is the only item {%- endcomment -%}
+        {%- unless forloop.last == true %}{{ "" }}
+{% comment -%} New line {%- endcomment -%}
+        {%- endunless -%}
+
+      {%- endfor -%}
+    "
+    {%- unless forloop.last == true -%},{%- endunless -%}
+  {%- endfor %}
+{% comment -%} New line {%- endcomment -%}
+
+{%- endfor %}
