@@ -16,7 +16,7 @@ project_summary: >-
   help janitors improve health by accessing better jobs and reduce the carbon
   footprint of LA’s large commercial buildings.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/building-skills-partnership.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/building-skills-partnership.jpg
 project_video: ''
 What does your organization do?: >-
   BSP works to improve the quality of life for low-wage property service workers

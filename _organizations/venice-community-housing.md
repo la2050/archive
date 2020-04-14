@@ -20,7 +20,7 @@ facebook: 'https://www.facebook.com/vchcorp/'
 ein: '954200761'
 zip: '90291'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/venice-community-housing.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/venice-community-housing.jpg
 project_video: 'https://youtu.be/QKx0BHD91SA'
 challenge_url:
   - 'https://challenge.la2050.org/2019/create/venice-community-housing/'

@@ -16,7 +16,7 @@ project_summary: >-
   content across tech platforms to elevate good content and “down vote”
   false/misleading narratives.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/usc-annenberg-innovation-lab.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/usc-annenberg-innovation-lab.jpg
 project_video: ''
 What does your organization do?: >-
   We're creating and leveraging media + popular culture to increase census

@@ -18,7 +18,7 @@ project_summary: |-
    
    Those benefitting from our programs, having access to a balanced meal with fruits, vegetables and cereals, reduced the danger factor of developing high blood pressure or diabetes, among other common ailments related to poor diets.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/world-harvest.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/world-harvest.jpg
 project_video: 'https://youtu.be/2cLR-XrSB2o'
 What does your organization do?: >-
   Distribute high quality foods and non-food essentials to nonprofit agencies

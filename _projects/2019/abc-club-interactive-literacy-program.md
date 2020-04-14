@@ -16,7 +16,7 @@ project_summary: >-
   cultural representation to build early positive associations with all peoples
   in an effort to increase tolerance.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/the-abc-club.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/the-abc-club.jpg
 project_video: 'https://youtu.be/qg7WK7rhgzk'
 What does your organization do?: >-
   Our mission is to provide high quality literacy resources to enliven

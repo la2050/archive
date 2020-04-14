@@ -16,7 +16,7 @@ project_summary: >-
   available through multiple languages and media, including an interactive
   website and serialized social media posts.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/la-forward.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/la-forward.jpg
 project_video: ''
 What does your organization do?: >-
   LA Forward activates a rising generation of Angelenos to join social justice

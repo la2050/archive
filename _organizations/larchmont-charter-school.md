@@ -19,7 +19,7 @@ facebook: Larchmont Charter School
 ein: '571206928'
 zip: '90027'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/larchmont-charter-school.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/larchmont-charter-school.jpg
 project_video: 'https://www.youtube.com/watch?v=GjY2oTPnxak'
 challenge_url:
   - 'https://challenge.la2050.org/2019/learn/larchmont-charter-school/'

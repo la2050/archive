@@ -19,7 +19,7 @@ facebook: artandolfaction
 ein: '463012493'
 zip: '90042'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/the-institution-for-art-and-olfaction.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/the-institution-for-art-and-olfaction.jpg
 project_video: ''
 challenge_url:
   - >-

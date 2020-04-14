@@ -20,7 +20,7 @@ facebook: '@lostangelscp'
 ein: '473384907'
 zip: '93534'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/lost-angels-childrens-project.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/lost-angels-childrens-project.jpg
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/learn/lost-angels-childrens-project/'

@@ -16,7 +16,7 @@ project_summary: >-
   created in partnership with professional artists offering deep learning
   experiences that are fun and developmentally rich.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/play/2048-wide/crayon-collection.jpg
+  https://images.la2050.org/challenge/2019/play/2048-wide/crayon-collection.jpg
 project_video: 'https://www.youtube.com/watch?v=vNSMqEbxs4U'
 What does your organization do?: >-
   The Crayon Collection mission is to inspire a commitment to environmental

@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/LAPlazaLA/'
 ein: '753059288'
 zip: '90012'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/la-plaza-de-cultura-y-artes.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/la-plaza-de-cultura-y-artes.jpg
 project_video: 'https://youtu.be/TAI_A3-mqsI'
 challenge_url:
   - 'https://challenge.la2050.org/2019/live/la-plaza-de-cultura-y-artes/'

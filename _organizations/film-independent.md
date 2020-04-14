@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/filmindependent/'
 ein: '953943485'
 zip: '90036'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/film-independent.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/film-independent.jpg
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/create/film-independent/'

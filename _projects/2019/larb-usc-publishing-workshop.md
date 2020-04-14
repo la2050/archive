@@ -16,7 +16,7 @@ project_summary: >-
   can participate regardless of their finances. We concentrate especially on
   building the publishing industry here in LA.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/los-angeles-review-of-books.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/los-angeles-review-of-books.jpg
 project_video: 'https://www.youtube.com/watch?v=mblPvTBTug4'
 What does your organization do?: >-
   LARB is dedicated to promoting and disseminating rigorous, incisive, and

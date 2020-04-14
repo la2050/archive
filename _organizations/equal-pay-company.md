@@ -18,7 +18,7 @@ facebook: 'https://www.facebook.com/equalpayco'
 ein: '814482216'
 zip: '90018'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/equal-pay-company.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/equal-pay-company.jpg
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/live/equal-pay-company/'

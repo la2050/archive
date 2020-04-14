@@ -18,7 +18,7 @@ facebook: 'https://www.facebook.com/UCLAThinkGrand/'
 ein: '956006143'
 zip: 90095-1406
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/the-regents-of-the-university-of-california-ucla-depression-grand-challenge.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/the-regents-of-the-university-of-california-ucla-depression-grand-challenge.jpg
 project_video: 'https://www.youtube.com/watch?v=6QqwHu4hvss'
 challenge_url:
   - >-

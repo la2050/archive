@@ -15,7 +15,7 @@ project_summary: >-
   provide the scaffolding for long-term career advancement for people who have
   lived most of their lives without opportunity.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/manifestworks.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/manifestworks.jpg
 project_video: 'https://vimeo.com/192842820'
 What does your organization do?: >-
   ManifestWorks connects those impacted by foster care, homelessness and

@@ -18,7 +18,7 @@ project_summary: >-
   take ownership of their future and take advantage of these laws. We propose to
   expand this work throughout LA County.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/the-civics-center.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/the-civics-center.jpg
 project_video: ''
 What does your organization do?: >-
   The mission of The Civics Center is to build the foundations of civic

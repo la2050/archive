@@ -20,7 +20,7 @@ facebook: 'https://www.facebook.com/ivcla/'
 ein: '953692511'
 zip: '90010'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/international-visitors-council-of-los-angeles.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/international-visitors-council-of-los-angeles.jpg
 project_video: ''
 challenge_url:
   - >-

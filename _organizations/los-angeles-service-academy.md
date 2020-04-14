@@ -21,7 +21,7 @@ facebook: facebook.com/husc.icw
 ein: '951644589'
 zip: 90089-0034
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/los-angeles-service-academy.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/los-angeles-service-academy.jpg
 project_video: 'https://youtu.be/uGjAQ4LYDr8'
 challenge_url:
   - 'https://challenge.la2050.org/2019/learn/los-angeles-service-academy/'

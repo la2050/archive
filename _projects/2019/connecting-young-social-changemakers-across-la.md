@@ -16,7 +16,7 @@ project_summary: >-
   about and address our most pressing issues, creating pathways for them to
   design and nurture a more just society.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/big-citizen-hub.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/big-citizen-hub.jpg
 project_video: 'https://youtu.be/WA8wmi8t3ik'
 What does your organization do?: >-
   Changeist's mission is to help young people bridge racial, social, and

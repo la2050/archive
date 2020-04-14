@@ -20,7 +20,7 @@ instagram: '@wearelawmaker'
 facebook: 'https://www.facebook.com/WeAreLawMaker/'
 ein: '472178446'
 zip: '90039'
-project_image: 'https://challenge.la2050.org/assets/images/2019/connect/2048-wide/lawmaker.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/connect/2048-wide/lawmaker.jpg'
 project_video: 'https://www.youtube.com/watch?v=f8ZyMkwghMs&feature=youtu.be'
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/lawmaker/'

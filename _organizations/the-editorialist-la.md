@@ -19,7 +19,7 @@ facebook: facebook.com/editorialistla
 ein: 61354-1744
 zip: '90049'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/the-editorialist-la.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/the-editorialist-la.jpg
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/the-editorialist-la/'

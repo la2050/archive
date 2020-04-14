@@ -16,7 +16,7 @@ project_summary: >-
    
    3. Train 20 young storytellers to help make short films to tell these 20 Woolsey Wildfire survivor stories.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/climate-uprising-interconnected-media.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/climate-uprising-interconnected-media.jpg
 project_video: >-
   https://www.climateuprising.org/videos/2019/3/28/tom-voted-for-climate-deniers-but-losing-everything-changes-everything-climateuprising
 What does your organization do?: >-

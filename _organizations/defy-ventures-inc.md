@@ -21,7 +21,7 @@ facebook: 'https://www.facebook.com/DefyVentures/'
 ein: '273611908'
 zip: '90010'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/defy-ventures-inc.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/defy-ventures-inc.jpg
 project_video: 'https://www.youtube.com/watch?v=aYKeyEblTUo'
 challenge_url:
   - 'https://challenge.la2050.org/2019/create/defy-ventures-inc/'

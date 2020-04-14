@@ -13,7 +13,7 @@ project_summary: >-
   youth who are bombarded by quick highly entertaining clips we need to use this
   powerful medium to effect change.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/c-it-productions-llc.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/c-it-productions-llc.jpg
 project_video: 'https://www.youtube.com/watch?v=CgEcBRPuiO8'
 What does your organization do?: >-
   To bridge the divide between law enforcement and the communities they serve.

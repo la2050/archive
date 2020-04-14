@@ -19,7 +19,7 @@ facebook: www.facebook.com/theplusmeproject
 ein: '463506663'
 zip: '90065'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/plus-me-project.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/plus-me-project.jpg
 project_video: 'https://www.youtube.com/watch?v=HZDzQsPU4no'
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/plus-me-project/'

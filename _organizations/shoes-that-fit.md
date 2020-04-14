@@ -20,7 +20,7 @@ facebook: 'https://www.facebook.com/ShoesThatFitNonProfit/'
 ein: '954425565'
 zip: '91711'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/shoes-that-fit.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/shoes-that-fit.jpg
 project_video: 'https://vimeo.com/292764608'
 challenge_url:
   - 'https://challenge.la2050.org/2019/live/shoes-that-fit/'

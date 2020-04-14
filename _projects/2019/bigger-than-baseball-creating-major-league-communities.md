@@ -16,7 +16,7 @@ project_summary: >-
   310,000 youth this year alone, along with their families across 50 Dreamfields
   and 85 baseball/softball locations in the LA area.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/play/2048-wide/los-angeles-dodgers-foundation.jpg
+  https://images.la2050.org/challenge/2019/play/2048-wide/los-angeles-dodgers-foundation.jpg
 project_video: >-
   https://www.mlb.com/dodgers/video/los-angeles-dodgers-foundation-c2171227383?t=t119-default-vtp
    

@@ -21,7 +21,7 @@ facebook: 'https://www.facebook.com/CVJProject'
 ein: '954302067'
 zip: '90012'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/community-veteran-justice-project.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/community-veteran-justice-project.jpg
 project_video: 'https://www.youtube.com/watch?v=vPNFx-Q67s8'
 challenge_url:
   - 'https://challenge.la2050.org/2019/live/community-veteran-justice-project/'

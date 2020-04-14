@@ -16,7 +16,7 @@ project_summary: >-
   facing time in juvenile delinquency and who need a community volunteer so they
   may participate in these diversion programs.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/casa-of-los-angeles.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/casa-of-los-angeles.jpg
 project_video: 'https://vimeo.com/138053078'
 What does your organization do?: >-
   CASA of Los Angeles recruits and trains community volunteers (Court Appointed

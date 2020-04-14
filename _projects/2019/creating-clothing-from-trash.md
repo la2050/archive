@@ -15,7 +15,7 @@ project_summary: >-
   finish—from trash. Recycled, recyclable, biodegradable—and as a business,
   scalable.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/everybody-world.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/everybody-world.jpg
 project_video: 'https://vimeo.com/273991082'
 What does your organization do?: >-
   EVERYBODY.WORLD makes thoughtful goods in LA and is committed to championing

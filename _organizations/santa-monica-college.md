@@ -19,7 +19,7 @@ facebook: SantaMonicaCollegeOfficial
 ein: '952767537'
 zip: 90405-1628
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/santa-monica-college.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/santa-monica-college.jpg
 project_video: 'http://www.smc.edu/AcademicPrograms/ECE/Pages/Videos-.aspx'
 challenge_url:
   - 'https://challenge.la2050.org/2019/learn/santa-monica-college/'

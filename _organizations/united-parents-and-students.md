@@ -19,7 +19,7 @@ facebook: www.facebook.com/UnitedParentsandStudents/
 ein: '813413763'
 zip: '90015'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/united-parents-and-students.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/united-parents-and-students.jpg
 project_video: 'https://vimeo.com/313460263'
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/united-parents-and-students/'

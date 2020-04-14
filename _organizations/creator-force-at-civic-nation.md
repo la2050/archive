@@ -21,7 +21,7 @@ facebook: 'https://www.facebook.com/Creator-Force-1670029099675606/'
 ein: '473576918'
 zip: '20005'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/creator-force-at-civic-nation.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/creator-force-at-civic-nation.jpg
 project_video: 'https://www.youtube.com/watch?v=-BM1fjskBvQ&feature=youtu.be'
 challenge_url:
   - 'https://challenge.la2050.org/2019/create/creator-force-at-civic-nation/'

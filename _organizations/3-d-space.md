@@ -18,7 +18,7 @@ instagram: '@la3dspace'
 facebook: www.facebook.com/la3dspace
 ein: '472247578'
 zip: 91601-4102
-project_image: 'https://challenge.la2050.org/assets/images/2019/create/2048-wide/3-d-space.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/create/2048-wide/3-d-space.jpg'
 project_video: 'https://youtu.be/sMiWY0aFpkk'
 challenge_url:
   - 'https://challenge.la2050.org/2019/create/3-d-space/'

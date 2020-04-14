@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/LosAngelesDodgersFoundation/'
 ein: '954623022'
 zip: '90012'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/play/2048-wide/los-angeles-dodgers-foundation.jpg
+  https://images.la2050.org/challenge/2019/play/2048-wide/los-angeles-dodgers-foundation.jpg
 project_video: >-
   https://www.mlb.com/dodgers/video/los-angeles-dodgers-foundation-c2171227383?t=t119-default-vtp
    

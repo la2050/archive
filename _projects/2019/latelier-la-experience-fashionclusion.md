@@ -17,7 +17,7 @@ project_summary: >-
   culminate with an amazing runway show and documentary planned, designed and
   modeled and filmed by students of all abilities.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/circle-of-friends-the-path-to-inclusion-a-project-of-community-partners.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/circle-of-friends-the-path-to-inclusion-a-project-of-community-partners.jpg
 project_video: ''
 What does your organization do?: >-
   Providing inclusive opportunities for people of all abilities to work and

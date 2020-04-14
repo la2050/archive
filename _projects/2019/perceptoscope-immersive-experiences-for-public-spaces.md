@@ -17,7 +17,7 @@ project_summary: >-
    
    Support from LA2050 would compliment the pure R&D funding provided by National Science Foundation to better allow for experience development and deployment with our partner locations.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/perceptoscope.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/perceptoscope.jpg
 project_video: ''
 What does your organization do?: >-
   Perceptoscope connects people to places through interactive public art and

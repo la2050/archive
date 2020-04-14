@@ -21,7 +21,7 @@ facebook: 'https://www.facebook.com/tunsonleadershipfoundation'
 ein: '262825373'
 zip: '91307'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/tunson-leadership-foundation.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/tunson-leadership-foundation.jpg
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/tunson-leadership-foundation/'

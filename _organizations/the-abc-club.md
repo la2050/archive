@@ -19,7 +19,7 @@ facebook: ''
 ein: '462405649'
 zip: '10028'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/the-abc-club.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/the-abc-club.jpg
 project_video: 'https://youtu.be/qg7WK7rhgzk'
 challenge_url:
   - 'https://challenge.la2050.org/2019/learn/the-abc-club/'

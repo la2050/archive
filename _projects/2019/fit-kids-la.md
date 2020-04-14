@@ -14,7 +14,7 @@ project_summary: >-
   expand programming in LA by partnering with more afterschool sites serving
   at-risk kids.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/play/2048-wide/the-fit-kids-foundation.jpg
+  https://images.la2050.org/challenge/2019/play/2048-wide/the-fit-kids-foundation.jpg
 project_video: 'https://youtu.be/niVADGLaDDg'
 What does your organization do?: >-
   Fit Kids provides structured physical activity programs for underserved

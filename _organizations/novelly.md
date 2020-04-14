@@ -19,7 +19,7 @@ instagram: '@novellyorg'
 facebook: ''
 ein: '832216402'
 zip: '91709'
-project_image: 'https://challenge.la2050.org/assets/images/2019/connect/2048-wide/novelly.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/connect/2048-wide/novelly.jpg'
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/novelly/'

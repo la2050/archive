@@ -21,7 +21,7 @@ facebook: facebook.com/hackerfund
 ein: '472485464'
 zip: '90405'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/hacker-fund.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/hacker-fund.jpg
 project_video: 'https://www.youtube.com/watch?v=rrmxqzbTycA&feature=youtu.be'
 challenge_url:
   - 'https://challenge.la2050.org/2019/learn/hacker-fund/'

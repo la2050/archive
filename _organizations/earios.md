@@ -18,7 +18,7 @@ instagram: '@eariosnetwork'
 facebook: ''
 ein: '831413066'
 zip: '91105'
-project_image: 'https://challenge.la2050.org/assets/images/2019/create/2048-wide/earios.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/create/2048-wide/earios.jpg'
 project_video: >-
   https://www.kickstarter.com/projects/1936438128/earios-a-woman-run-podcast-network
 challenge_url:

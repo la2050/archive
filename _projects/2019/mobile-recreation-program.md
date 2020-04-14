@@ -17,7 +17,7 @@ project_summary: >-
   elementary schools in high park-need areas through the Departments Community
   School Parks Program.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/play/2048-wide/city-of-los-angeles-department-of-recreation-and-parks.jpg
+  https://images.la2050.org/challenge/2019/play/2048-wide/city-of-los-angeles-department-of-recreation-and-parks.jpg
 project_video: ''
 What does your organization do?: >-
   The Department enriches the lives of Los Angeles residents by providing safe,

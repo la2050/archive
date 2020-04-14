@@ -21,7 +21,7 @@ facebook: 'https://www.facebook.com/SuperheroIRL'
 ein: '475197765'
 zip: '91604'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/pop-culture-hero-coalition.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/pop-culture-hero-coalition.jpg
 project_video: 'https://youtu.be/vZwxAvZ1LE0'
 challenge_url:
   - 'https://challenge.la2050.org/2019/learn/pop-culture-hero-coalition/'

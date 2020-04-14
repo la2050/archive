@@ -15,7 +15,7 @@ project_summary: >-
   Over the next year, we will partner with schools, libraries and youth-serving
   organizations in order to pilot the app with 5,000 young people across Los
   Angeles County.
-project_image: 'https://challenge.la2050.org/assets/images/2019/connect/2048-wide/novelly.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/connect/2048-wide/novelly.jpg'
 project_video: ''
 What does your organization do?: >-
   Novelly is on a mission to spark the changemaker in every young person, one

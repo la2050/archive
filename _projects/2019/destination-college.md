@@ -16,7 +16,7 @@ project_summary: >-
   but the Destination College + offers the tools to transition into their new
   lives.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/fulfillment-fund.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/fulfillment-fund.jpg
 project_video: 'https://www.youtube.com/watch?v=m2aD8KL3qEE'
 What does your organization do?: >-
   Our mission is to make college a reality for students growing up in

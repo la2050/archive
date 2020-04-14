@@ -18,7 +18,7 @@ facebook: 'https://www.facebook.com/EnCorps'
 ein: '383771471'
 zip: '90278'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/encorps-inc.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/encorps-inc.jpg
 project_video: 'https://www.youtube.com/watch?v=waf-mAvcNjM'
 challenge_url:
   - 'https://challenge.la2050.org/2019/learn/encorps-inc/'

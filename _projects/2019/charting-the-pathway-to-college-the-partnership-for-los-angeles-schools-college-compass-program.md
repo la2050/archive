@@ -18,7 +18,7 @@ project_summary: >-
   groundbreaking College Compass program further engages and inspires students &
   parents on the K-12 pathway preparing for college.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/partnership-for-los-angeles-schools.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/partnership-for-los-angeles-schools.jpg
 project_video: 'https://youtu.be/LQBJxKL78Lw'
 What does your organization do?: >-
   The Partnership for Los Angeles Schools’ mission seeks nothing less than to

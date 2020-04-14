@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/InspiringService/'
 ein: '821699198'
 zip: '45212'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/inspiring-service.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/inspiring-service.jpg
 project_video: 'https://vimeo.com/327368094'
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/inspiring-service/'

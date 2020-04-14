@@ -18,7 +18,7 @@ project_summary: >-
   social connections, and personal well-being, LIFT is able to empower these
   families with the tools they need to thrive.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/lift-los-angeles.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/lift-los-angeles.jpg
 project_video: ''
 What does your organization do?: >-
   LIFT-LA empowers low-income parents of young children to break the cycle of

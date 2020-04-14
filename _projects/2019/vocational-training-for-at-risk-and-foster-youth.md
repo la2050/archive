@@ -16,7 +16,7 @@ project_summary: >-
   self-confidence, self-sufficiency and self-worth for more than 50 at-risk
   youth ages 13-19, most of which are in foster care.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/lost-angels-childrens-project.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/lost-angels-childrens-project.jpg
 project_video: ''
 What does your organization do?: >-
   To provide low-income and at-risk youth with a safe, educational after-school

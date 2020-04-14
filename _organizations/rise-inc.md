@@ -20,7 +20,7 @@ instagram: '@risefreeorg'
 facebook: www.facebook.com/RiseFreeOrg/
 ein: ''
 zip: '90036'
-project_image: 'https://challenge.la2050.org/assets/images/2019/learn/2048-wide/rise-inc.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/learn/2048-wide/rise-inc.jpg'
 project_video: >-
   https://www.facebook.com/RiseFreeOrg/videos/299798094036117/UzpfSTIxMjY4MTA5MjU5MjU2OTo1MjU2NjYzNTEyOTQwNDA/
 challenge_url:

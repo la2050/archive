@@ -11,7 +11,7 @@ project_summary: >-
   Low-income and at-risk Angelenos will be able to find, access, and manage
   nonprofit and social services efficiently and with dignity on One Degree so
   they can prosper and reach their full potential.
-project_image: 'https://challenge.la2050.org/assets/images/2019/live/2048-wide/one-degree.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/live/2048-wide/one-degree.jpg'
 project_video: ''
 What does your organization do?: >-
   One Degree’s mission is to empower people to create a path out of poverty for

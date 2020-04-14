@@ -18,7 +18,7 @@ project_summary: >-
   employment partners, free confidence building therapy with experienced
   counsellors and showers prior to sessions. 
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/joy-factory.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/joy-factory.jpg
 project_video: 'https://www.youtube.com/watch?v=YbPXFShzxno&feature=youtu.be'
 What does your organization do?: >-
   JOY FACTORY is an artist run clubhouse with a season of events. Membership

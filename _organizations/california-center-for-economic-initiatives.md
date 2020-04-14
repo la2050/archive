@@ -18,7 +18,7 @@ facebook: 'https://www.facebook.com/dabuyaba/'
 ein: '800317823'
 zip: '90247'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/california-center-for-economic-initiatives.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/california-center-for-economic-initiatives.jpg
 project_video: >-
   https://www.facebook.com/GARIFUNAFILMFESTIVALINTERNATIONAL/videos/pcb.10217618302462897/10217618238141289/?type=3&theater
 challenge_url:

@@ -22,7 +22,7 @@ instagram: '@newearthlife'
 facebook: www.facebook.com/newearthlife
 ein: '330705045'
 zip: '90230'
-project_image: 'https://challenge.la2050.org/assets/images/2019/learn/2048-wide/new-earth.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/learn/2048-wide/new-earth.jpg'
 project_video: 'https://youtu.be/aVYDRtqjIKg'
 challenge_url:
   - 'https://challenge.la2050.org/2019/learn/new-earth/'

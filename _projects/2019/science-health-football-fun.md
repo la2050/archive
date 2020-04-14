@@ -17,7 +17,7 @@ project_summary: >-
   understanding of Science, Technology, Engineering, Math and Medicine (STEMM),
   as they prepare to be the next generation of STEMM professionals.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/charles-r-drew-university-of-medicine-and-science-cdu.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/charles-r-drew-university-of-medicine-and-science-cdu.jpg
 project_video: 'https://youtu.be/K8faMGto5BY'
 What does your organization do?: >-
   CDU is a private non-profit student-centered University, committed to

@@ -16,7 +16,7 @@ project_summary: >-
   cultural exploration and connection and helps get children and families on the
   road to a healthy lifestyle.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/la-plaza-de-cultura-y-artes.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/la-plaza-de-cultura-y-artes.jpg
 project_video: 'https://youtu.be/TAI_A3-mqsI'
 What does your organization do?: >-
   LA Plaza is the hub of Latino culture and the only museum in L.A. dedicated to

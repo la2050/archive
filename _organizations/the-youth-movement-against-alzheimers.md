@@ -21,7 +21,7 @@ facebook: 'https://www.facebook.com/theyouthmovementagainstalzheimers/'
 ein: '208083398'
 zip: '90064'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/the-youth-movement-against-alzheimers.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/the-youth-movement-against-alzheimers.jpg
 project_video: 'https://www.youtube.com/watch?v=5fwflSIChBM&t'
 challenge_url:
   - >-

@@ -20,7 +20,7 @@ facebook: 'https://www.facebook.com/PartnershipLA/'
 ein: '261759681'
 zip: '90017'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/partnership-for-los-angeles-schools.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/partnership-for-los-angeles-schools.jpg
 project_video: 'https://youtu.be/LQBJxKL78Lw'
 challenge_url:
   - 'https://challenge.la2050.org/2019/learn/partnership-for-los-angeles-schools/'

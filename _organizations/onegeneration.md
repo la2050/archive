@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/ONEgencares/'
 ein: '954066979'
 zip: '91335'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/onegeneration.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/onegeneration.jpg
 project_video: 'https://www.youtube.com/watch?v=aQrabcLX9L8'
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/onegeneration/'

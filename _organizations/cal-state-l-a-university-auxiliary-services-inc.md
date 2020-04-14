@@ -22,7 +22,7 @@ facebook: CalStateLA
 ein: '954016653'
 zip: '90032'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/cal-state-l-a-university-auxiliary-services-inc.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/cal-state-l-a-university-auxiliary-services-inc.jpg
 project_video: ''
 challenge_url:
   - >-

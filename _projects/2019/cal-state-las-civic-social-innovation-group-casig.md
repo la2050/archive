@@ -17,7 +17,7 @@ project_summary: >-
   students who are under-resourced to develop their ideas and climb the economic
   ladder as they serve their communities.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/cal-state-l-a-university-auxiliary-services-inc.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/cal-state-l-a-university-auxiliary-services-inc.jpg
 project_video: ''
 What does your organization do?: >-
   Cal State LA transforms lives and fosters thriving communities across greater

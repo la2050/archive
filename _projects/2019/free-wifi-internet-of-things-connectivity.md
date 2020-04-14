@@ -12,7 +12,7 @@ project_summary: >-
   voice and video. 
    
    The patented technology we've developed has won IEEE and a Google Research Awards after demonstrations in Barcelona and Philadelphia. Now we need to complete the coding, adding rules for mobility, and rules for devices people already own. We need WiFi research hardware, as well as the hardware that will create the first base station antennas at USC, the LA Chamber and the LA Cleantech Incubator.
-project_image: 'https://challenge.la2050.org/assets/images/2019/connect/2048-wide/m2m-bell.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/connect/2048-wide/m2m-bell.jpg'
 project_video: ''
 What does your organization do?: >-
   Our mission is to build a wireless Public Utility that would be paid for by

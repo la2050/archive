@@ -17,7 +17,7 @@ project_summary: >-
   judgment-free care, and this expansion into mental health will be our next
   step to care for our patients more holistically.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/planned-parenthood-pasadena-and-san-gabriel-valley.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/planned-parenthood-pasadena-and-san-gabriel-valley.jpg
 project_video: 'http://www.weareplannedparenthood.org/onlineactions/nJT69mwMk0SfsDltv9tFnA2'
 What does your organization do?: >-
   We provide broad public access to sexual and reproductive health care through

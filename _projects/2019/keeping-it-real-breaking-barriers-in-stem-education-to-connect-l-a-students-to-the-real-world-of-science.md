@@ -14,7 +14,7 @@ project_summary: >-
   work-based learning experiences which will increase knowledge, interest, and
   confidence to pursue careers in STEM related pathways and increase students’
   proficiency in math and science.
-project_image: 'https://challenge.la2050.org/assets/images/2019/learn/2048-wide/unite-la.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/learn/2048-wide/unite-la.jpg'
 project_video: ''
 What does your organization do?: >-
   UNITE-LA works to transcend silos/barriers between government, business &

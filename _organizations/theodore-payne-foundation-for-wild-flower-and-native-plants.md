@@ -18,7 +18,7 @@ facebook: facebook.com/TheodorePayneFoundation
 ein: '956095398'
 zip: '91352'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/play/2048-wide/theodore-payne-foundation-for-wild-flowe.jpg
+  https://images.la2050.org/challenge/2019/play/2048-wide/theodore-payne-foundation-for-wild-flowe.jpg
 project_video: ''
 challenge_url:
   - >-

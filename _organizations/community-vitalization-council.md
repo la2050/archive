@@ -19,7 +19,7 @@ facebook: International Business Accelerator
 ein: '462629464'
 zip: '92604'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/community-vitalization-council.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/community-vitalization-council.jpg
 project_video: 'https://www.youtube.com/watch?v=9KQbRTk5Hcc'
 challenge_url:
   - 'https://challenge.la2050.org/2019/create/community-vitalization-council/'

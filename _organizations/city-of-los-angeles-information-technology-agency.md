@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/CityofLosAngelesTruePage/'
 ein: '956000735'
 zip: '90012'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/city-of-los-angeles-information-technology-agency-ita.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/city-of-los-angeles-information-technology-agency-ita.jpg
 project_video: 'https://youtu.be/VxKR0_AlLI4'
 challenge_url:
   - >-

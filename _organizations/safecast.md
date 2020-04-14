@@ -17,7 +17,7 @@ facebook: 'https://www.facebook.com/safecast'
 ein: '770462154'
 zip: '90232'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/safecast-momoko-ito-foundation.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/safecast-momoko-ito-foundation.jpg
 project_video: 'https://vimeo.com/158274995'
 challenge_url:
   - 'https://challenge.la2050.org/2019/live/safecast-momoko-ito-foundation/'

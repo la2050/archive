@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/unycyn.civic.arts/'
 ein: '473612459'
 zip: '90272'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/unycyn-civic-arts.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/unycyn-civic-arts.jpg
 project_video: 'https://flowproject.la/ia-entertainment-tractor-beam/2019/03/flowprojectla.mp4'
 challenge_url:
   - 'https://challenge.la2050.org/2019/live/unycyn-civic-arts/'

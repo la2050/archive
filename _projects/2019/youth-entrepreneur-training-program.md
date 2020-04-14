@@ -15,7 +15,7 @@ project_summary: >-
   Youth learn about business entities, licences/permits, marketing, networking,
   communication, social skills, managing finances, access to capital, credit,
   business plan and resume development.
-project_image: 'https://challenge.la2050.org/assets/images/2019/create/2048-wide/icon-cdc.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/create/2048-wide/icon-cdc.jpg'
 project_video: ''
 What does your organization do?: >-
   ICON CDC empowers residents and small businesses in the San Fernando Valley

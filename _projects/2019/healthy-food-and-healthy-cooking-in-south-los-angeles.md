@@ -11,7 +11,7 @@ project_summary: >-
   A multi-faceted approach to fresh and healthy food access in South Los Angeles
   using food pantries, cooking classes, food demonstrations, and advocacy.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/my-friends-house.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/my-friends-house.jpg
 project_video: 'https://www.youtube.com/watch?v=Bt5RMStlQxI&t=90s'
 What does your organization do?: 'My Friends House, Inc. works to end hunger and promote healthy living.'
 Please list the organizations collaborating on this proposal.: []

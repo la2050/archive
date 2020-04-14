@@ -19,7 +19,7 @@ facebook: LACityParks
 ein: '956000735'
 zip: '90012'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/play/2048-wide/city-of-los-angeles-department-of-recreation-and-parks.jpg
+  https://images.la2050.org/challenge/2019/play/2048-wide/city-of-los-angeles-department-of-recreation-and-parks.jpg
 project_video: ''
 challenge_url:
   - >-

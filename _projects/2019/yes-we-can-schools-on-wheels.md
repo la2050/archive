@@ -14,7 +14,7 @@ project_summary: >-
   classroom takes away the challenge of access to quality education by bringing
   the resource to the community instead of the community having to find it.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/yes-we-can-world-foundation.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/yes-we-can-world-foundation.jpg
 project_video: 'https://www.youtube.com/watch?v=kzsUYpsge6s&feature=youtu.be'
 What does your organization do?: >-
   Every child has the right to education regardless of their location. We create

@@ -16,7 +16,7 @@ project_summary: >-
   learning how native California plants support butterflies and activate vacant
   space with color, fragrance, and life.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/play/2048-wide/theodore-payne-foundation-for-wild-flowe.jpg
+  https://images.la2050.org/challenge/2019/play/2048-wide/theodore-payne-foundation-for-wild-flowe.jpg
 project_video: ''
 What does your organization do?: >-
   Theodore Payne Foundation inspires and educates Southern Californians about

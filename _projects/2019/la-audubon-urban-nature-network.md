@@ -16,7 +16,7 @@ project_summary: >-
   restoration events that engage their communities and improve the quality of
   parks and open space for people and wildlife.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/play/2048-wide/los-angeles-audubon-society.jpg
+  https://images.la2050.org/challenge/2019/play/2048-wide/los-angeles-audubon-society.jpg
 project_video: 'https://youtu.be/2XAZzi2YKno'
 What does your organization do?: >-
   Los Angeles Audubon promotes the enjoyment and protection of birds and other

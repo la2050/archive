@@ -15,7 +15,7 @@ project_summary: >-
   message will be featured for roughly 60 seconds at a time, throughout one
   month.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/living-through-giving-foundation.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/living-through-giving-foundation.jpg
 project_video: >-
   https://www.nbclosangeles.com/news/local/_HashtagLunchbag_Los-Angeles-507743072.html
 What does your organization do?: >-

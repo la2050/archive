@@ -12,7 +12,7 @@ project_summary: >-
   open jobs that support ending homelessness in Los Angeles County. The portal
   will cater to applicants that have lived experience in homelessness, criminal
   justice, and substance abuse.
-project_image: 'https://challenge.la2050.org/assets/images/2019/create/2048-wide/mrs-hr.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/create/2048-wide/mrs-hr.jpg'
 project_video: 'https://youtu.be/8EbsGpa0GMU'
 What does your organization do?: >-
   To educate, encourage and empower applicants and employers so that they can

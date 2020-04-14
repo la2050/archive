@@ -21,7 +21,7 @@ facebook: 'https://www.facebook.com/humanrightsfoundation/'
 ein: '202669700'
 zip: '10118'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/human-rights-foundation.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/human-rights-foundation.jpg
 project_video: 'https://www.youtube.com/watch?v=XvdUV2S78uY'
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/human-rights-foundation/'

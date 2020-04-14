@@ -14,7 +14,7 @@ project_summary: >-
   community members to launch a bus service for all that inexpensively removes
   people stuck in traffic.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/investing-in-place.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/investing-in-place.jpg
 project_video: ''
 What does your organization do?: >-
   Our mission is to align policies and public dollars to support transportation

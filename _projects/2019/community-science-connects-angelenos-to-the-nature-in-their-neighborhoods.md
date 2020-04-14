@@ -17,7 +17,7 @@ project_summary: >-
   public policy about sustainable land use and turn everyday Angelenos into
   advocates for the green spaces in their communities.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/play/2048-wide/natural-history-museum-of-los-angeles-county.jpg
+  https://images.la2050.org/challenge/2019/play/2048-wide/natural-history-museum-of-los-angeles-county.jpg
 project_video: 'https://youtu.be/xG579E0-slU'
 What does your organization do?: >-
   The Natural History Museum of Los Angeles County (NHM) is dedicated to

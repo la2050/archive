@@ -16,7 +16,7 @@ project_summary: >-
   intersection—and screen at our inclusion summit with a panel discussion,
   helping to further dialogue between Angelenos and communities under attack.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/film-independent.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/film-independent.jpg
 project_video: ''
 What does your organization do?: >-
   Film Independent's mission is to champion creative independence in visual

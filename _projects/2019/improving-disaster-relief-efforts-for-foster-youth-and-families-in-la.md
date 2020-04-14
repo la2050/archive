@@ -16,7 +16,7 @@ project_summary: >-
   communities and the state are well-prepared to support foster youth and foster
   parents following a disaster.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/children-now.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/children-now.jpg
 project_video: ''
 What does your organization do?: >-
   Our mission is to transform children’s advocacy so that all kids, especially

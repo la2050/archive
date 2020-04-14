@@ -21,7 +21,7 @@ facebook: 'https://www.facebook.com/W10th'
 ein: '832100573'
 zip: '90027'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/w-tenth-co.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/w-tenth-co.jpg
 project_video: 'https://wtenth.com'
 challenge_url:
   - 'https://challenge.la2050.org/2019/create/w-tenth-co/'

@@ -18,7 +18,7 @@ facebook: 'https://www.facebook.com/MassivelyEpic/'
 ein: '833574094'
 zip: '90031'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/infinity-studio-8.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/infinity-studio-8.jpg
 project_video: 'https://youtu.be/fQX65iZeoME'
 challenge_url:
   - 'https://challenge.la2050.org/2019/create/infinity-studio-8/'

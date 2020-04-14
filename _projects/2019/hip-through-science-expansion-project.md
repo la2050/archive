@@ -16,7 +16,7 @@ project_summary: >-
   continue to grow, we will hire a volunteer manager and program assistant to
   sustain and expand the growth of the program.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/h-i-p-through-science.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/h-i-p-through-science.jpg
 project_video: 'https://youtu.be/dNFIH0G0HDo'
 What does your organization do?: >-
   The People of Change offers programs to promote advancement opportunities for

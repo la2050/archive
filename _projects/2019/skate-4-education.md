@@ -16,7 +16,7 @@ project_summary: >-
   wrong path so have created a program called 'Skate-4-Education" that trades
   skateboarding for education.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/the-urban-warehouse.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/the-urban-warehouse.jpg
 project_video: 'https://youtu.be/o51Q_P_8uBw'
 What does your organization do?: >-
   The Urban Warehouse trades skateboarding for education; using an active

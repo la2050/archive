@@ -16,7 +16,7 @@ project_summary: >-
   volunteerism. Our platforms are now active in Ohio and Nevada and are being
   developed for other communities from coast to coast.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/inspiring-service.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/inspiring-service.jpg
 project_video: 'https://vimeo.com/327368094'
 What does your organization do?: >-
   Our mission is to inspire and empower people and organizations to engage in

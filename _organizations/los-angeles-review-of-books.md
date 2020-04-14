@@ -20,7 +20,7 @@ facebook: 'https://www.facebook.com/losangelesreview/'
 ein: '900977045'
 zip: '90028'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/los-angeles-review-of-books.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/los-angeles-review-of-books.jpg
 project_video: 'https://www.youtube.com/watch?v=mblPvTBTug4'
 challenge_url:
   - 'https://challenge.la2050.org/2019/create/los-angeles-review-of-books/'

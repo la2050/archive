@@ -15,7 +15,7 @@ project_summary: >-
   ways to become involved. Funds will enable us to build the infrastructure and
   expand our outreach to impact at-risk Californians who use their feet as an
   average mode of transportation.
-project_image: 'https://challenge.la2050.org/assets/images/2019/live/2048-wide/havasole.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/live/2048-wide/havasole.jpg'
 project_video: 'https://youtu.be/mfz2rfJYiCI'
 What does your organization do?: >-
   Hav A Sole’s mission is to provide the homeless and at-risk youth with quality

@@ -14,7 +14,7 @@ project_summary: >-
   sell, whether they're bakers, food makers, clothing brands, or farmers, can
   have their own local shop and have their products delivered to your door each
   day.
-project_image: 'https://challenge.la2050.org/assets/images/2019/create/2048-wide/natch.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/create/2048-wide/natch.jpg'
 project_video: ''
 What does your organization do?: >-
   We want to bring back shopping locally by bringing anything local shops make

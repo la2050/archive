@@ -20,7 +20,7 @@ project_summary: >-
    
    This Initiative will build organizational capacity across multiple institutions to Expand Early Education Enrollment, Broaden Community Awareness, and Increase Family Support Resources.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/mayors-fund-for-education-fiscal-sponsor-community-partners.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/mayors-fund-for-education-fiscal-sponsor-community-partners.jpg
 project_video: 'https://www.youtube.com/watch?v=65oc4Nc8gt4&feature=youtu.be'
 What does your organization do?: >-
   The Mayor’s Fund for Education amplifies educational efforts to provide a

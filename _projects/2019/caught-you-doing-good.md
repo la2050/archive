@@ -15,7 +15,7 @@ project_summary: >-
   desperately needed resources for poor families. We intend to change their
   mindsets from their concern of "being caught" by law enforcement to "being
   caught" and recognized for good work.
-project_image: 'https://challenge.la2050.org/assets/images/2019/learn/2048-wide/new-earth.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/learn/2048-wide/new-earth.jpg'
 project_video: 'https://youtu.be/aVYDRtqjIKg'
 What does your organization do?: >-
   We provide arts, educational, and vocational programs for juvenile

@@ -17,7 +17,7 @@ project_summary: >-
   mission to provide green space, work opportunities and a beautiful space for
   the shelter’s population.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/the-institution-for-art-and-olfaction.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/the-institution-for-art-and-olfaction.jpg
 project_video: ''
 What does your organization do?: >-
   The Institute for Art and Olfaction is a 501(c)(3) non-profit devoted to

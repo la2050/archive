@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/losangelesforward'
 ein: '954781974'
 zip: '90010'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/la-forward.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/la-forward.jpg
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/la-forward/'

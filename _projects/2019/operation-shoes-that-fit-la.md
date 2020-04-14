@@ -16,7 +16,7 @@ project_summary: >-
   to identify, measure and deliver new athletic shoes to children at schools
   within their local precincts.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/shoes-that-fit.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/shoes-that-fit.jpg
 project_video: 'https://vimeo.com/292764608'
 What does your organization do?: >-
   Shoes That Fit tackles one of the most visible signs of poverty in America by

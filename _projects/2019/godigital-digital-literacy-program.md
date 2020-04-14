@@ -17,7 +17,7 @@ project_summary: >-
   ‘meet people where they are’, with respect to how they are currently using
   technology to gain online access.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/city-of-los-angeles-information-technology-agency-ita.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/city-of-los-angeles-information-technology-agency-ita.jpg
 project_video: 'https://youtu.be/VxKR0_AlLI4'
 What does your organization do?: >-
   The mission of the City of Los Angeles is focused on creating a safe, livable,

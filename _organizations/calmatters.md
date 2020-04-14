@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/calmatters'
 ein: '472474086'
 zip: '95814'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/calmatters.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/calmatters.jpg
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/calmatters/'

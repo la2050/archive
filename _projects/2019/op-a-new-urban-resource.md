@@ -16,7 +16,7 @@ project_summary: >-
   landscape optimized for work and life, OP will contribute to making LA the
   best place to LEARN, CREATE, PLAY, CONNECT & LIVE.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/ahdom-sayre.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/ahdom-sayre.jpg
 project_video: ''
 What does your organization do?: >-
   AHDOM_SAYRE is a design and advocacy group for spaces that allow for true

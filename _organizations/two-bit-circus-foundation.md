@@ -21,7 +21,7 @@ facebook: 'https://www.facebook.com/twobitcircusorg/'
 ein: '562464067'
 zip: '90249'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/two-bit-circus-foundation.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/two-bit-circus-foundation.jpg
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/create/two-bit-circus-foundation/'

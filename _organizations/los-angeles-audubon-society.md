@@ -21,7 +21,7 @@ facebook: www.facebook.com/LosAngelesAudubon
 ein: '956093704'
 zip: '90041'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/play/2048-wide/los-angeles-audubon-society.jpg
+  https://images.la2050.org/challenge/2019/play/2048-wide/los-angeles-audubon-society.jpg
 project_video: 'https://youtu.be/2XAZzi2YKno'
 challenge_url:
   - 'https://challenge.la2050.org/2019/play/los-angeles-audubon-society/'

@@ -21,7 +21,7 @@ facebook: 'https://www.facebook.com/childrennow/'
 ein: '943059243'
 zip: '90015'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/children-now.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/children-now.jpg
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/live/children-now/'

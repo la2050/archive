@@ -20,7 +20,7 @@ instagram: '@gladeo_org'
 facebook: 'https://www.facebook.com/gladeo.org/'
 ein: '472676458'
 zip: '90405'
-project_image: 'https://challenge.la2050.org/assets/images/2019/learn/2048-wide/gladeo.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/learn/2048-wide/gladeo.jpg'
 project_video: 'https://www.youtube.com/watch?v=3s6Kqtxj7U0'
 challenge_url:
   - 'https://challenge.la2050.org/2019/learn/gladeo/'

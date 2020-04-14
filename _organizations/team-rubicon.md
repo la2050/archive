@@ -21,7 +21,7 @@ facebook: 'https://www.facebook.com/teamrubicon/'
 ein: '271720480'
 zip: '90045'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/team-rubicon.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/team-rubicon.jpg
 project_video: 'https://vimeo.com/308700435'
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/team-rubicon/'

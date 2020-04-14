@@ -19,7 +19,7 @@ instagram: ''
 facebook: ''
 ein: '813470225'
 zip: '92618'
-project_image: 'https://challenge.la2050.org/assets/images/2019/create/2048-wide/natch.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/create/2048-wide/natch.jpg'
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/create/natch/'

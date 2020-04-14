@@ -16,7 +16,7 @@ project_summary: >-
   skills for career success. The Green Team helps youth advance sustainable
   change in their community and at MacArthur Park.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/play/2048-wide/youth-policy-institute.jpg
+  https://images.la2050.org/challenge/2019/play/2048-wide/youth-policy-institute.jpg
 project_video: 'https://youtu.be/LYUnE4Elxn8'
 What does your organization do?: >-
   Youth Policy Institute’s mission is to reduce poverty in Los Angeles using a

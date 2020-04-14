@@ -16,7 +16,7 @@ project_summary: >-
   agencies and for a resilience center that will serve as the focal point for
   the community’s fight against climate change.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/pacoima-beautiful.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/pacoima-beautiful.jpg
 project_video: ''
 What does your organization do?: >-
   Pacoima Beautiful’s mission is to empower community members to foster a

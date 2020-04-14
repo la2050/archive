@@ -22,7 +22,7 @@ facebook: ''
 ein: '465239005'
 zip: '90012'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/play/2048-wide/los-angeles-county-grand-park-foundation.jpg
+  https://images.la2050.org/challenge/2019/play/2048-wide/los-angeles-county-grand-park-foundation.jpg
 project_video: 'https://www.youtube.com/watch?v=bfp01PSI7ig'
 challenge_url:
   - >-

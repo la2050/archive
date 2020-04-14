@@ -20,7 +20,7 @@ instagram: '@treepeople_org'
 facebook: 'https://www.facebook.com/TreePeopleorg/'
 ein: '237314838'
 zip: '90210'
-project_image: 'https://challenge.la2050.org/assets/images/2019/live/2048-wide/treepeople.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/live/2048-wide/treepeople.jpg'
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/live/treepeople/'

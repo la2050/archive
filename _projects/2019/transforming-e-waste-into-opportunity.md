@@ -16,7 +16,7 @@ project_summary: >-
   to engage in civic processes and share local resources for events, housing,
   volunteerism, and so much more.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/human-i-t.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/human-i-t.jpg
 project_video: 'https://vimeo.com/293207936'
 What does your organization do?: >-
   human-I-T provides low-income individuals & nonprofits with technology,

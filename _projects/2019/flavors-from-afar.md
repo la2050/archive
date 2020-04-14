@@ -16,7 +16,7 @@ project_summary: >-
   Flavors from Afar specializes in fresh ingredients prepared by artisan chefs
   who happen to be former refugees & asylum seekers.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/the-tiyya-foundation.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/the-tiyya-foundation.jpg
 project_video: 'https://vimeo.com/302922092'
 What does your organization do?: >-
   The Tiyya Foundation provides community support for families of refugees,

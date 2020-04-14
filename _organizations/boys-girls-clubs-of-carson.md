@@ -20,7 +20,7 @@ facebook: 'https://www.facebook.com/bgccarson'
 ein: '330475452'
 zip: '90810'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/boys-girls-clubs-of-carson.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/boys-girls-clubs-of-carson.jpg
 project_video: 'https://youtu.be/9QjzZPNQlbE'
 challenge_url:
   - 'https://challenge.la2050.org/2019/learn/boys-girls-clubs-of-carson/'

@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/WorldHarvestFoodBank/'
 ein: '392064653'
 zip: '90019'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/world-harvest.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/world-harvest.jpg
 project_video: 'https://youtu.be/2cLR-XrSB2o'
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/world-harvest/'
