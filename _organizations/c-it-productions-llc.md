@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/compassioncenteredcinema/'
 ein: '954445418'
 zip: '91709'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/c-it-productions-llc.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/c-it-productions-llc.jpg
 project_video: 'https://www.youtube.com/watch?v=CgEcBRPuiO8'
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/c-it-productions-llc/'

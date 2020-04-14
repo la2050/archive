@@ -15,7 +15,7 @@ project_summary: >-
   free online creative classes via CreativeLive and connect young people to
   local nonprofits and creative companies for access to creative professionals.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/creator-force-at-civic-nation.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/creator-force-at-civic-nation.jpg
 project_video: 'https://www.youtube.com/watch?v=-BM1fjskBvQ&feature=youtu.be'
 What does your organization do?: >-
   Creator Force is expanding and diversifying the Creative Class by providing

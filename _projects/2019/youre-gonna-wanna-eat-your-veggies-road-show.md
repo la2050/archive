@@ -15,7 +15,7 @@ project_summary: >-
   16-24 to run live cooking demonstrations at six farmers markets to increase
   awareness and consumption of healthy foods.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/root-down-la.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/root-down-la.jpg
 project_video: 'https://youtu.be/cAdVqB37qEw'
 What does your organization do?: >-
   RootDown LA empowers youth to succeed through healthy ventures in their

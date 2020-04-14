@@ -14,7 +14,7 @@ project_summary: >-
   will provide to communities, we are developing curriculum and workshops for
   neighborhoods and communities to better understand their environment.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/safecast-momoko-ito-foundation.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/safecast-momoko-ito-foundation.jpg
 project_video: 'https://vimeo.com/158274995'
 What does your organization do?: >-
   Volunteer centered open environmental monitoring. More freely available open

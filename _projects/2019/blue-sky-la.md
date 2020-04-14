@@ -17,7 +17,7 @@ project_summary: >-
   Our goals are to engage residents, promote collaboration, and establish LA as
   the global leader in reducing air pollution.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/breathe-california-of-los-angeles-county.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/breathe-california-of-los-angeles-county.jpg
 project_video: 'https://youtu.be/YKG-ePiDpdk'
 What does your organization do?: >-
   The mission of BREATHE California of Los Angeles County (BREATHE LA) is to

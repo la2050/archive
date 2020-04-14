@@ -16,7 +16,7 @@ project_summary: >-
   organizing or decorating, West Tenth sees a potential entrepreneur. Help
   CREATE the West Tenth vision: a modern, women-led main street.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/w-tenth-co.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/w-tenth-co.jpg
 project_video: 'https://wtenth.com'
 What does your organization do?: >-
   We are building a digital marketplace that encourages women who have left the

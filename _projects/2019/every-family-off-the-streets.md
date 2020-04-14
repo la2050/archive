@@ -15,7 +15,7 @@ project_summary: >-
   end homelessness. We believe that together we can transform lives and help
   make LA the best place to connect.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/union-rescue-mission.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/union-rescue-mission.jpg
 project_video: ''
 What does your organization do?: >-
   Union Rescue Mission provides life-transforming programs to break the cycle of

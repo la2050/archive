@@ -20,7 +20,7 @@ facebook: 'https://www.facebook.com/TheMidnightMission/'
 ein: '951691293'
 zip: '90014'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/the-midnight-mission.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/the-midnight-mission.jpg
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/live/the-midnight-mission/'

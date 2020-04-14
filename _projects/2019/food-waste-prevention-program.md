@@ -16,7 +16,7 @@ project_summary: >-
   for the training and employment of at-risk young adults from disadvantaged
   communities to help with collection.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/los-angeles-conservation-corps.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/los-angeles-conservation-corps.jpg
 project_video: ''
 What does your organization do?: >-
   We provide at-risk young adults with opportunities for success through job

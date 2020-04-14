@@ -16,7 +16,7 @@ project_summary: >-
    
    We will pilot a public education campaign for LA County voters to learn about and experience the new voting system through the Fall 2019 Mock Election. We will also collect feedback from voters to help ensure a seamless rollout of the new voting experience.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/california-common-cause.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/california-common-cause.jpg
 project_video: ''
 What does your organization do?: >-
   The mission of our VCC-Los Angeles collaborative is to support effective

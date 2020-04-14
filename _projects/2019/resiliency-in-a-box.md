@@ -16,7 +16,7 @@ project_summary: >-
   Watts, it will improve food production plus be an off-the-grid, vital resource
   for the entire neighborhood when a disaster strikes.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/unycyn-civic-arts.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/unycyn-civic-arts.jpg
 project_video: 'https://flowproject.la/ia-entertainment-tractor-beam/2019/03/flowprojectla.mp4'
 What does your organization do?: >-
   Unycyn Civic Arts cultivates “art of being civic”. Our platform

@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/MayorOfLA'
 ein: '956000735'
 zip: '90012'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/office-of-mayor-eric-garcetti-census-2020-initiative.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/office-of-mayor-eric-garcetti-census-2020-initiative.jpg
 project_video: ''
 challenge_url:
   - >-

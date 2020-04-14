@@ -15,7 +15,7 @@ project_summary: >-
   This work would coincide with a drive across the United States with the
   founder of the Saudi Women 2 Drive Movement, Manal al-Sharif.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/human-rights-foundation.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/human-rights-foundation.jpg
 project_video: 'https://www.youtube.com/watch?v=XvdUV2S78uY'
 What does your organization do?: >-
   HRF's Art in Protest Program seeks to aid artists living under authoritarian

@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/CASAofLA/'
 ein: '953890446'
 zip: '91754'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/casa-of-los-angeles.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/casa-of-los-angeles.jpg
 project_video: 'https://vimeo.com/138053078'
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/casa-of-los-angeles/'

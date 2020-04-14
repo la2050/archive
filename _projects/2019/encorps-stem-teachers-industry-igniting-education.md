@@ -16,7 +16,7 @@ project_summary: >-
   subjects they teach; they pass their knowledge to the next generation and
   future workforce.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/encorps-inc.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/encorps-inc.jpg
 project_video: 'https://www.youtube.com/watch?v=waf-mAvcNjM'
 What does your organization do?: >-
   EnCorps empowers science, technology, engineering and math (STEM)

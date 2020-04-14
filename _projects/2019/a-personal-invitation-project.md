@@ -19,7 +19,7 @@ project_summary: >-
    
    -Provide information on various career opportunities within the technological field.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/american-digital-diversity-initiative.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/american-digital-diversity-initiative.jpg
 project_video: 'https://youtu.be/D00Hm-61tM0'
 What does your organization do?: >-
   The American Digital Diversity Initiative is dedicated to educating community

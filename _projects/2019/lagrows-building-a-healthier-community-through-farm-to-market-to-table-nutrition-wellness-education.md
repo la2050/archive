@@ -18,7 +18,7 @@ project_summary: >-
   education, engagement, mobilization, and community-building, together we can
   help LA eliminate obesity and type 2 diabetes.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/rebel-labs-inc.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/rebel-labs-inc.jpg
 project_video: 'https://vimeo.com/328687422'
 What does your organization do?: >-
   Rebel Labs is a public benefit corporation & Pending Certified B Corp with a

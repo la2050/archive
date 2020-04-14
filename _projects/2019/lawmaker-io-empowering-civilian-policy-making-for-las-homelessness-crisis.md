@@ -11,7 +11,7 @@ project_summary: >-
   LawMaker.io has designed a public, yearlong project for Angelenos, civic
   organizations, and elected officials to collaboratively discuss solutions for
   homelessness & build grassroots political support for tangible change.
-project_image: 'https://challenge.la2050.org/assets/images/2019/connect/2048-wide/lawmaker.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/connect/2048-wide/lawmaker.jpg'
 project_video: 'https://www.youtube.com/watch?v=f8ZyMkwghMs&feature=youtu.be'
 What does your organization do?: >-
   LawMaker is a free advocacy tool for Americans who don’t have a lobbyist in

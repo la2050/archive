@@ -17,7 +17,7 @@ project_summary: >-
   us to provide micro-grants to CGA volunteers to carry out education and
   outreach activities.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/office-of-mayor-eric-garcetti-census-2020-initiative.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/office-of-mayor-eric-garcetti-census-2020-initiative.jpg
 project_video: ''
 What does your organization do?: >-
   The mission of Mayor Eric Garcetti’s Census 2020 Initiative is to facilitate a

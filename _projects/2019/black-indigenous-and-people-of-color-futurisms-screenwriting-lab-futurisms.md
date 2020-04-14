@@ -15,7 +15,7 @@ project_summary: >-
   Scripts will be read at a series of stage readings with industry professionals
   in attendance to garner interest and visibility for their projects.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/justice-for-my-sister-collective.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/justice-for-my-sister-collective.jpg
 project_video: 'https://www.youtube.com/watch?v=QACJr3pKb28'
 What does your organization do?: >-
   The Justice for My Sister Collective is committed to diversifying the film

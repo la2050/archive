@@ -21,7 +21,7 @@ facebook: '@inthemakingLA'
 ein: '820657611'
 zip: '90063'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/in-the-making.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/in-the-making.jpg
 project_video: 'https://youtu.be/hmWllpFD5lU'
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/in-the-making/'

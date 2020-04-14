@@ -16,7 +16,7 @@ project_summary: >-
   spectacular views of the port and a central location give it landmark
   potential.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/green-girl-farms.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/green-girl-farms.jpg
 project_video: ''
 What does your organization do?: >-
   Green Girl Farms grows produce in empty spaces and distributes it to the

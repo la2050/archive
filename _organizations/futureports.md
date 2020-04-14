@@ -20,7 +20,7 @@ facebook: www.facebook.com/FuturePortsSoCal
 ein: '202619927'
 zip: '90733'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/futureports.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/futureports.jpg
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/learn/futureports/'

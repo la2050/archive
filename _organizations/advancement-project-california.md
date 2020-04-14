@@ -21,7 +21,7 @@ facebook: www.facebook.com/AdvancementProjectCA
 ein: '954835230'
 zip: '90026'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/advancement-project-california.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/advancement-project-california.jpg
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/advancement-project-california/'

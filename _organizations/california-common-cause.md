@@ -21,7 +21,7 @@ facebook: www.facebook.com/CommonCauseCA
 ein: '311705370'
 zip: '90013'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/california-common-cause.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/california-common-cause.jpg
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/california-common-cause/'

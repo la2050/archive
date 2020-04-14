@@ -20,7 +20,7 @@ facebook: 'https://www.facebook.com/charlesrdrewuniversity/'
 ein: '956151774'
 zip: 90059-2518
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/charles-r-drew-university-of-medicine-and-science-cdu.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/charles-r-drew-university-of-medicine-and-science-cdu.jpg
 project_video: 'https://youtu.be/K8faMGto5BY'
 challenge_url:
   - >-

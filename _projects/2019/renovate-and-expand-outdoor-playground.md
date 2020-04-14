@@ -17,7 +17,7 @@ project_summary: >-
   more participants, and provide even better early childhood education
   opportunities.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/glendale-college-parent-education-association.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/glendale-college-parent-education-association.jpg
 project_video: 'https://youtu.be/vr84fEpJm5I'
 What does your organization do?: >-
   GCPEA’s mission is to raise money for program operation costs to support

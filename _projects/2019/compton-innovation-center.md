@@ -16,7 +16,7 @@ project_summary: >-
   Compton stakeholders. This center will feature classes/workshops, access to
   mentors, prototyping equipment, and coworking space.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/hacker-fund.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/hacker-fund.jpg
 project_video: 'https://www.youtube.com/watch?v=rrmxqzbTycA&feature=youtu.be'
 What does your organization do?: >-
   We empower community stakeholders at every stage of their life to learn and

@@ -21,7 +21,7 @@ facebook: 'https://www.facebook.com/scvadventureplay'
 ein: '823571908'
 zip: '95833'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/play/2048-wide/scv-adventure-play-foundation.jpg
+  https://images.la2050.org/challenge/2019/play/2048-wide/scv-adventure-play-foundation.jpg
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/play/scv-adventure-play-foundation/'

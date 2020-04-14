@@ -18,7 +18,7 @@ project_summary: >-
   Angelenos of the scale and impact of poverty, homelessness, underemployment,
   violence, and lack of access to healthcare.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/united-parents-and-students.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/united-parents-and-students.jpg
 project_video: 'https://vimeo.com/313460263'
 What does your organization do?: >-
   United Parents and Students provides training in the formal skills of

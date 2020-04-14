@@ -19,7 +19,7 @@ instagram: '@9dotscommunity'
 facebook: 'https://www.facebook.com/9dotscommunity/'
 ein: '452834070'
 zip: '90038'
-project_image: 'https://challenge.la2050.org/assets/images/2019/learn/2048-wide/9-dots.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/learn/2048-wide/9-dots.jpg'
 project_video: 'https://vimeo.com/252264371'
 challenge_url:
   - 'https://challenge.la2050.org/2019/learn/9-dots/'

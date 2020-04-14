@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/right2tech'
 ein: '460773284'
 zip: '90802'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/human-i-t.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/human-i-t.jpg
 project_video: 'https://vimeo.com/293207936'
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/human-i-t/'

@@ -18,7 +18,7 @@ project_summary: >-
   leadership will be waves of positive change in neighborhoods, across L.A., for
   all people.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/voterunlead.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/voterunlead.jpg
 project_video: ''
 What does your organization do?: >-
   VoteRunLead trains diverse women to unleash their political power, run for

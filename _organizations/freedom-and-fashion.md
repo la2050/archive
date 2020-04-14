@@ -21,7 +21,7 @@ facebook: 'https://www.facebook.com/freedomandfashion/'
 ein: '383819269'
 zip: '91106'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/freedom-and-fashion.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/freedom-and-fashion.jpg
 project_video: 'https://vimeo.com/147255799'
 challenge_url:
   - 'https://challenge.la2050.org/2019/learn/freedom-and-fashion/'

@@ -16,7 +16,7 @@ project_summary: >-
   sustainable, innovative ways in which history is not only preserved but
   feasibly carried forth into the future.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/bob-baker-marionette-theater.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/bob-baker-marionette-theater.jpg
 project_video: 'https://www.youtube.com/watch?v=UfcwyirLGAo'
 What does your organization do?: >-
   To provide unique theatrical experiences; to educate, to celebrate, to

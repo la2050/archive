@@ -19,7 +19,7 @@ facebook: '@LBMayorsfund4Ed'
 ein: '954302067'
 zip: '90802'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/mayors-fund-for-education-fiscal-sponsor-community-partners.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/mayors-fund-for-education-fiscal-sponsor-community-partners.jpg
 project_video: 'https://www.youtube.com/watch?v=65oc4Nc8gt4&feature=youtu.be'
 challenge_url:
   - >-

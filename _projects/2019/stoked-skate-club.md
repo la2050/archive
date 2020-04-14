@@ -16,7 +16,7 @@ project_summary: >-
   serve over 1000 new students in LA by expanding the STOKED Skate Club to 15
   new site locations.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/play/2048-wide/stoked-mentoring-inc.jpg
+  https://images.la2050.org/challenge/2019/play/2048-wide/stoked-mentoring-inc.jpg
 project_video: 'https://youtu.be/rJD4AWaFmz8'
 What does your organization do?: >-
   STOKED's mission is to create a community of fearless leaders through

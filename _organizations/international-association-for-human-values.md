@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/iafhv/'
 ein: '522178069'
 zip: '20009'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/international-association-for-human-values.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/international-association-for-human-values.jpg
 project_video: 'https://youtu.be/SMUIpJ2Vqzo'
 challenge_url:
   - >-

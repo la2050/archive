@@ -15,7 +15,7 @@ project_summary: >-
   purpose, as VCH works to add mural paintings and art installations to its
   permanent supportive housing & affordable housing properties.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/venice-community-housing.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/venice-community-housing.jpg
 project_video: 'https://youtu.be/QKx0BHD91SA'
 What does your organization do?: >-
   To reduce homelessness, maximize affordable housing, empower low-income

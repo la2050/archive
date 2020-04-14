@@ -13,7 +13,7 @@ project_summary: >-
    
    hands-on experience. It allows emerging talent an opportunity to explore how their interests and skill sets align with different areas. In addition, they gain work-relevant skills and abilities that are widely used across all industry sectors and job families. Participants engage in various aspects of entertainment, arts and media with a focus on technology.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/b~stem-project-foundation.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/b~stem-project-foundation.jpg
 project_video: 'https://www.youtube.com/watch?v=OSJ0ckWGlvM'
 What does your organization do?: >-
   B~STEM Project’s primary goal is to provide young people with a comprehensive

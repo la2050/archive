@@ -20,7 +20,7 @@ facebook: 'https://www.facebook.com/getglobalexpo'
 ein: '901248134'
 zip: '90015'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/getglobal-inc.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/getglobal-inc.jpg
 project_video: 'https://www.youtube.com/watch?v=Xm8BeQreqmg&t=6s'
 challenge_url:
   - 'https://challenge.la2050.org/2019/create/getglobal-inc/'

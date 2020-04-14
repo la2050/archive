@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/perceptoscope/'
 ein: '474185645'
 zip: '90019'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/perceptoscope.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/perceptoscope.jpg
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/create/perceptoscope/'

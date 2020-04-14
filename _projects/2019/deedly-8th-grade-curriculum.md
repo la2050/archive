@@ -15,7 +15,7 @@ project_summary: >-
   single use plastics, and fast fashion - four issues affecting LA county and
   worldwide. One of our non-profit partners for this curriculum is LA based
   non-profit 5 Gyres.
-project_image: 'https://challenge.la2050.org/assets/images/2019/learn/2048-wide/deedly-inc.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/learn/2048-wide/deedly-inc.jpg'
 project_video: >-
   https://deedly.s3-accelerate.amazonaws.com/552b31c4a7a18284592ca33746f96b16_introv2.mp4
 What does your organization do?: >-

@@ -15,7 +15,7 @@ project_summary: >-
   perspectives, together. During the next year, we will be working with
   organizations across the City to maximize our creative potential, and
   ultimately help visualize and guide our communal decisions.
-project_image: 'https://challenge.la2050.org/assets/images/2019/connect/2048-wide/sense-la.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/connect/2048-wide/sense-la.jpg'
 project_video: 'https://youtu.be/qz5coR1N9mo'
 What does your organization do?: >-
   An LA-wide set of workshops designed to harness the power of art + collective

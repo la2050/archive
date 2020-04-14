@@ -18,7 +18,7 @@ project_summary: >-
   valuable experience. Students will also attend an entrepreneurship academy
   that introduces them to pathways for creating a biotech startup.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/la-bioscience-hub.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/la-bioscience-hub.jpg
 project_video: 'https://www.youtube.com/watch?v=Y3hlwctOVns'
 What does your organization do?: >-
   LA Bioscience Hub (LABH) facilitates the creation of a thriving bioscience

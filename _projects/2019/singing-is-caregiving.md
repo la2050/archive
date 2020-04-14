@@ -15,7 +15,7 @@ project_summary: >-
   them. Our goal is to empower musicians to give cancer, AIDS patients, and
   their caregivers a period of relief using a non-pharmacological approach.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/urban-encore-symphony-and-singers.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/urban-encore-symphony-and-singers.jpg
 project_video: 'https://youtu.be/CkOh2lJhbvY'
 What does your organization do?: >-
   Urban Encore connects world-class musicians and emerging artists with

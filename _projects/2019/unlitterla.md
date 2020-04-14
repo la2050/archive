@@ -13,7 +13,7 @@ project_summary: >-
   year. For the effort to have maximum impact on residents throughout the
   region, financial and in-kind support for marketing, press relations, and
   execution of the project is needed.
-project_image: 'https://challenge.la2050.org/assets/images/2019/live/2048-wide/unlitterla.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/live/2048-wide/unlitterla.jpg'
 project_video: 'https://youtu.be/lM8QNhVfwrc'
 What does your organization do?: >-
   Inspiring LA pride through mass street litter cleanup events, that are highly

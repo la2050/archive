@@ -16,7 +16,7 @@ project_summary: >-
   teens the confidence to be proactive in developing skills to succeed in
   today’s evolving workforce.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/boys-girls-clubs-of-carson.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/boys-girls-clubs-of-carson.jpg
 project_video: 'https://youtu.be/9QjzZPNQlbE'
 What does your organization do?: >-
   Our mission is to offer our young people a safe environment where they can be

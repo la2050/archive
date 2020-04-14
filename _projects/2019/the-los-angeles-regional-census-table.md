@@ -16,7 +16,7 @@ project_summary: >-
   — including immigrants, children and youth, people experiencing homelessness,
   and the LGBTQ community — is counted.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/advancement-project-california.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/advancement-project-california.jpg
 project_video: ''
 What does your organization do?: >-
   Advancement Project California is a next generation, multiracial civil rights

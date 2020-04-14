@@ -16,7 +16,7 @@ project_summary: >-
   high school success, the importance of college, college applications,
   leadership skills, and career panels.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/after-school-all-stars-los-angeles.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/after-school-all-stars-los-angeles.jpg
 project_video: 'https://youtu.be/t3QQPi2pnEU'
 What does your organization do?: >-
   ASASLA mission is to educate, enlighten and inspire students by providing

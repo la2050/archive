@@ -20,7 +20,7 @@ facebook: '@TurnaroundArtsCA'
 ein: '472446628'
 zip: '90066'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/turnaround-arts-california.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/turnaround-arts-california.jpg
 project_video: 'https://vimeo.com/291549657'
 challenge_url:
   - 'https://challenge.la2050.org/2019/learn/turnaround-arts-california/'

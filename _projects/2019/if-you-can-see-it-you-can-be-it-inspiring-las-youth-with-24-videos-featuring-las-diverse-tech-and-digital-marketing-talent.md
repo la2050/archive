@@ -17,7 +17,7 @@ project_summary: >-
   million students. The content is created with our Gladeo League, our
   work-placed learning internship program which trains/mentors first-gen media
   creators from LA’s community college system.
-project_image: 'https://challenge.la2050.org/assets/images/2019/learn/2048-wide/gladeo.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/learn/2048-wide/gladeo.jpg'
 project_video: 'https://www.youtube.com/watch?v=3s6Kqtxj7U0'
 What does your organization do?: >-
   Gladeo is dedicated to bridging the belief, information, and network gaps that

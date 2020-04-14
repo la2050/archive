@@ -17,7 +17,7 @@ project_summary: >-
   life-saving services will address the health disparities in a region that has
   suffered from systemic disinvestment.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/esperanza-community-housing-healthy-breathing-program.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/esperanza-community-housing-healthy-breathing-program.jpg
 project_video: ''
 What does your organization do?: >-
   Esperanza Community Housing achieves comprehensive community development by

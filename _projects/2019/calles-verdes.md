@@ -14,7 +14,7 @@ project_summary: >-
   resulting in cool city streets, increased water supply, removal of toxins from
   the water, increased tree canopy, improved access to healthy food and more
   walking and biking.
-project_image: 'https://challenge.la2050.org/assets/images/2019/live/2048-wide/treepeople.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/live/2048-wide/treepeople.jpg'
 project_video: ''
 What does your organization do?: >-
   To inspire, engage and support people to take personal responsibility for the

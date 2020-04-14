@@ -21,7 +21,7 @@ facebook: 'https://www.facebook.com/countthenation/'
 ein: '951642394'
 zip: '90089'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/usc-annenberg-innovation-lab.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/usc-annenberg-innovation-lab.jpg
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/live/usc-annenberg-innovation-lab/'

@@ -14,7 +14,7 @@ project_summary: >-
   techniques. Upon certification, the participants will be empowered to work
   together and develop innovative solutions to their community problems.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/international-association-for-human-values.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/international-association-for-human-values.jpg
 project_video: 'https://youtu.be/SMUIpJ2Vqzo'
 What does your organization do?: >-
   We foster the practice of human values including a sense of connectedness,

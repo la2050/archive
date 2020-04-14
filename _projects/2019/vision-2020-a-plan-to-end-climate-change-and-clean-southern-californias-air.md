@@ -15,7 +15,7 @@ project_summary: >-
   together regionally to achieve the LA2050 goal to reduce exposure to air
   toxins and address greenhouse gas emissions in a serious and sustainable way
   so that climate change and air pollution are in the past.
-project_image: 'https://challenge.la2050.org/assets/images/2019/live/2048-wide/move-la.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/live/2048-wide/move-la.jpg'
 project_video: 'https://youtu.be/4JnqpY0nP4s'
 What does your organization do?: >-
   We are coalition builders who instigated the Measure R and M campaigns that

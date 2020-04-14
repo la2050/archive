@@ -16,7 +16,7 @@ project_summary: >-
   opportunity to showcase their films to hundreds of local residents at an event
   in the heart of Los Angeles.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/newfilmmakers-los-angeles.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/newfilmmakers-los-angeles.jpg
 project_video: 'https://www.youtube.com/watch?v=QgomJsKI6fg&t=50s'
 What does your organization do?: >-
   NewFilmmakers Los Angeles (NFMLA) is a non-profit 501(c) 3 organization

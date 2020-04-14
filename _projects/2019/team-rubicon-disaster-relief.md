@@ -15,7 +15,7 @@ project_summary: >-
   of service. Team Rubicon strives to provide rapid, long-lasting relief to
   communities most in need following natural disasters.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/team-rubicon.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/team-rubicon.jpg
 project_video: 'https://vimeo.com/308700435'
 What does your organization do?: >-
   Team Rubicon unites the skills and experience of our nation's military

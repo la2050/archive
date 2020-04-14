@@ -23,7 +23,7 @@ facebook: www.facebook.com/circleofriends/
 ein: '954302067'
 zip: '90012'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/circle-of-friends-the-path-to-inclusion-a-project-of-community-partners.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/circle-of-friends-the-path-to-inclusion-a-project-of-community-partners.jpg
 project_video: ''
 challenge_url:
   - >-

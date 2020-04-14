@@ -20,7 +20,7 @@ instagram: '@mrs_hr_2019'
 facebook: 'https://www.facebook.com/askmrshr/'
 ein: '272069479'
 zip: '91406'
-project_image: 'https://challenge.la2050.org/assets/images/2019/create/2048-wide/mrs-hr.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/create/2048-wide/mrs-hr.jpg'
 project_video: 'https://youtu.be/8EbsGpa0GMU'
 challenge_url:
   - 'https://challenge.la2050.org/2019/create/mrs-hr/'

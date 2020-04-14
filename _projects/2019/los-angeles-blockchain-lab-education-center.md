@@ -16,7 +16,7 @@ project_summary: >-
   minorities, and disadvantaged youth. Our hopes are to connect local graduates
   with internships and jobs in LA.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/los-angeles-blockchain-lab.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/los-angeles-blockchain-lab.jpg
 project_video: ''
 What does your organization do?: >-
   A collaboration of academia, government and businesses, our mission is to grow

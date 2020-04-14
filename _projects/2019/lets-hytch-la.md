@@ -16,7 +16,7 @@ project_summary: >-
    
    Hytch will enable the community to LEARN the benefits of environmental responsibility, CREATE a healthier region, PLAY in less trafficked, cleaner public spaces, CONNECT with fellow users to create carbon-neutral rides, and LIVE in a more connected, sustainable environment.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/hytch-llc.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/hytch-llc.jpg
 project_video: ''
 What does your organization do?: >-
   Hytch was created to defeat congestion and defend clean air with cash

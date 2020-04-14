@@ -15,7 +15,7 @@ project_summary: >-
   This high-touch program increases the technical capacity, and therefore the
   efficacy and efficiency, of our partner organizations.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/civic-innovation-lab.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/civic-innovation-lab.jpg
 project_video: ''
 What does your organization do?: >-
   Our mission is to provide meaningful and impactful opportunities for residents

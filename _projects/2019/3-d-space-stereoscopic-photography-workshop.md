@@ -13,7 +13,7 @@ project_summary: >-
   filmmaking to immersive virtual reality. These programs will include outreach
   to LA's underserved communities, and also specialized educational initiatives
   for LA's creative youth and senior populations.
-project_image: 'https://challenge.la2050.org/assets/images/2019/create/2048-wide/3-d-space.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/create/2048-wide/3-d-space.jpg'
 project_video: 'https://youtu.be/sMiWY0aFpkk'
 What does your organization do?: >-
   3-D SPACE: The Center For Stereoscopic Photography, Art, Cinema, and

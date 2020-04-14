@@ -16,7 +16,7 @@ project_summary: >-
   will learn to value diversity, discover multiple perspectives and practice
   empathy as they are inspired to become active and engaged global citizens.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/international-visitors-council-of-los-angeles.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/international-visitors-council-of-los-angeles.jpg
 project_video: ''
 What does your organization do?: >-
   The International Visitors Council of L.A. designs exchange programs for

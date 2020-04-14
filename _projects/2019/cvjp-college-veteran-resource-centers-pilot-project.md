@@ -16,7 +16,7 @@ project_summary: >-
   to seek college, entrepreneurship, home buying, healthy families, and overall
   wellness opportunities.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/community-veteran-justice-project.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/community-veteran-justice-project.jpg
 project_video: 'https://www.youtube.com/watch?v=vPNFx-Q67s8'
 What does your organization do?: >-
   CVJP helps military and veterans get alternative sentencing and diversion, by

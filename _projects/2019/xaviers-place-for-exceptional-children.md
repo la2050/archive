@@ -15,7 +15,7 @@ project_summary: >-
   are their sanctuary and solis but unfortunately they age out at 22 years and
   are left in somewhat solitude, isolation and lack of fulfillment.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/tunson-leadership-foundation.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/tunson-leadership-foundation.jpg
 project_video: ''
 What does your organization do?: >-
   To support youth and young adults with Autism Spectrum Disorder, in an effort

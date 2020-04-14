@@ -19,7 +19,7 @@ project_summary: >-
   improve schools and save lives.
    
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/pop-culture-hero-coalition.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/pop-culture-hero-coalition.jpg
 project_video: 'https://youtu.be/vZwxAvZ1LE0'
 What does your organization do?: >-
   The Coalition is the first 501c3 organization working for real-life heroism

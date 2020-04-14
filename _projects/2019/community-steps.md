@@ -16,7 +16,7 @@ project_summary: >-
   as well as wellness events to include health information booths and blood
   pressure screenings.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/play/2048-wide/american-heart-association.jpg
+  https://images.la2050.org/challenge/2019/play/2048-wide/american-heart-association.jpg
 project_video: 'https://youtu.be/f3wn7ku7wcA'
 What does your organization do?: >-
   The American Heart Association's mission is to be a relentless force for a

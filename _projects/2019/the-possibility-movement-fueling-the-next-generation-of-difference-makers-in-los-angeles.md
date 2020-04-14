@@ -18,7 +18,7 @@ project_summary: >-
   mentorships throughout Los Angeles. In partnership with passionate LA
   community members, we show young people what's possible.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/spark-program-inc.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/spark-program-inc.jpg
 project_video: 'https://www.youtube.com/watch?v=BLlXhYnhR2Y'
 What does your organization do?: >-
   Spark Program, Inc (Spark) engages communities to provide career exploration

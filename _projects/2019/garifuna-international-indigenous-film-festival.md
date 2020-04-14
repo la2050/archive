@@ -17,7 +17,7 @@ project_summary: >-
   presentations. This annual festival reconciles, entertains and portrays the
   very diverse and brilliant cultures of indigenous people.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/california-center-for-economic-initiatives.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/california-center-for-economic-initiatives.jpg
 project_video: >-
   https://www.facebook.com/GARIFUNAFILMFESTIVALINTERNATIONAL/videos/pcb.10217618302462897/10217618238141289/?type=3&theater
 What does your organization do?: >-

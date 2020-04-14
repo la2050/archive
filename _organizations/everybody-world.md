@@ -21,7 +21,7 @@ facebook: www.facebook.com/everybodyishere/
 ein: '823781435'
 zip: '90057'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/everybody-world.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/everybody-world.jpg
 project_video: 'https://vimeo.com/273991082'
 challenge_url:
   - 'https://challenge.la2050.org/2019/create/everybody-world/'

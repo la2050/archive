@@ -16,7 +16,7 @@ project_summary: >-
   do this in multiple languages, collect it in the LA2050 Storytelling Hub and
   share it with dozens of partner news organizations.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/calmatters.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/calmatters.jpg
 project_video: ''
 What does your organization do?: >-
   CALmatters is a nonpartisan, nonprofit newsroom covering government and policy

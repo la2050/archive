@@ -21,7 +21,7 @@ facebook: STOKEDorg
 ein: '562530783'
 zip: '90232'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/play/2048-wide/stoked-mentoring-inc.jpg
+  https://images.la2050.org/challenge/2019/play/2048-wide/stoked-mentoring-inc.jpg
 project_video: 'https://youtu.be/rJD4AWaFmz8'
 challenge_url:
   - 'https://challenge.la2050.org/2019/play/stoked-mentoring-inc/'

@@ -22,7 +22,7 @@ project_summary: >-
   librarians, educators, and other community leaders to spark their own
   Makerspaces and Maker programs.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/two-bit-circus-foundation.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/two-bit-circus-foundation.jpg
 project_video: ''
 What does your organization do?: >-
   Using manufacturer clean discards, 2BCF provides educators PreK-College

@@ -20,7 +20,7 @@ facebook: 'https://www.facebook.com/PPPSGV/'
 ein: '951916050'
 zip: '91001'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/planned-parenthood-pasadena-and-san-gabriel-valley.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/planned-parenthood-pasadena-and-san-gabriel-valley.jpg
 project_video: 'http://www.weareplannedparenthood.org/onlineactions/nJT69mwMk0SfsDltv9tFnA2'
 challenge_url:
   - >-

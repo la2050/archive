@@ -16,7 +16,7 @@ project_summary: >-
   who wish to enter the entertainment sphere but lack the knowledge, resources
   and mentorship.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/the-national-association-of-latino-independent-producers-nalip.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/the-national-association-of-latino-independent-producers-nalip.jpg
 project_video: 'https://www.youtube.com/watch?v=NTzgKuGeamE'
 What does your organization do?: >-
   NALIP is a nonprofit whose mission is to discover, promote and inspire Latinx

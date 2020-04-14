@@ -20,7 +20,7 @@ instagram: '@iconcdc'
 facebook: 'https://www.facebook.com/ICONCDC/'
 ein: '954871106'
 zip: '91402'
-project_image: 'https://challenge.la2050.org/assets/images/2019/create/2048-wide/icon-cdc.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/create/2048-wide/icon-cdc.jpg'
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/create/icon-cdc/'

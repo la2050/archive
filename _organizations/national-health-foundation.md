@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/nationalhealthfoundation/'
 ein: '237314808'
 zip: '90071'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/national-health-foundation.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/national-health-foundation.jpg
 project_video: 'https://youtu.be/eeCWQK8e8YQ'
 challenge_url:
   - 'https://challenge.la2050.org/2019/live/national-health-foundation/'

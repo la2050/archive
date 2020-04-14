@@ -17,7 +17,7 @@ project_summary: >-
   L.A. Teachers trained on the new standards will inspire and enable their
   students to pursue STEM careers.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/center-for-innovation-in-stem-education-cise.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/center-for-innovation-in-stem-education-cise.jpg
 project_video: ''
 What does your organization do?: >-
   CISE brings STEM to the forefront of K-16 education by partnering with

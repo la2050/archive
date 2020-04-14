@@ -20,7 +20,7 @@ instagram: '@movelatransit'
 facebook: 'https://www.facebook.com/movelatransit/'
 ein: '954302067'
 zip: '90013'
-project_image: 'https://challenge.la2050.org/assets/images/2019/live/2048-wide/move-la.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/live/2048-wide/move-la.jpg'
 project_video: 'https://youtu.be/4JnqpY0nP4s'
 challenge_url:
   - 'https://challenge.la2050.org/2019/live/move-la/'

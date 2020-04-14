@@ -16,7 +16,7 @@ project_summary: >-
   cities and businesses, we're changing this liability into a tremendous asset
   and a more diverse volunteer workforce.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/shared-harvest.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/shared-harvest.jpg
 project_video: 'https://youtu.be/039JV7HsnQk'
 What does your organization do?: >-
   Shared Harvest is on a mission to champion volunteerism while also helping

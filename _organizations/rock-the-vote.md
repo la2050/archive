@@ -21,7 +21,7 @@ facebook: 'https://www.facebook.com/rockthevote'
 ein: '020767157'
 zip: '20005'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/rock-the-vote.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/rock-the-vote.jpg
 project_video: 'https://youtu.be/HMaaH6Suf98'
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/rock-the-vote/'

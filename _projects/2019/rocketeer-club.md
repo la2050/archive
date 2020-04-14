@@ -16,7 +16,7 @@ project_summary: >-
   from robotics to 3-D printing and rocketry, youth explore the world of STEM in
   an inquiry-based learning environment.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/housing-corporation-of-america.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/housing-corporation-of-america.jpg
 project_video: 'https://www.youtube.com/watch?v=se9UNUDvUlo&t=113s'
 What does your organization do?: >-
   HCA is a social service provider that coordinates onsite informal education

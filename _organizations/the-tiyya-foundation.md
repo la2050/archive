@@ -19,7 +19,7 @@ facebook: '@tiyyafdn'
 ein: '273128801'
 zip: '90017'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/the-tiyya-foundation.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/the-tiyya-foundation.jpg
 project_video: 'https://vimeo.com/302922092'
 challenge_url:
   - 'https://challenge.la2050.org/2019/create/the-tiyya-foundation/'

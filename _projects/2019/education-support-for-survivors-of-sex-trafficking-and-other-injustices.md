@@ -13,7 +13,7 @@ project_summary: >-
   our students with committed educators, providing our team with important
   players needed to grow our infrastructure and thrive!
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/freedom-and-fashion.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/freedom-and-fashion.jpg
 project_video: 'https://vimeo.com/147255799'
 What does your organization do?: >-
   Humanity was created for freedom. Using the arts of fashion and beauty, we

@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/NFMLA/'
 ein: '264286940'
 zip: 90028-8358
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/newfilmmakers-los-angeles.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/newfilmmakers-los-angeles.jpg
 project_video: 'https://www.youtube.com/watch?v=QgomJsKI6fg&t=50s'
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/newfilmmakers-los-angeles/'

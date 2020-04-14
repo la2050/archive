@@ -16,7 +16,7 @@ project_summary: >-
   Recovery from Homelessness project will apply the 12-step principles to life
   after homelessness for our alumni network.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/the-midnight-mission.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/the-midnight-mission.jpg
 project_video: ''
 What does your organization do?: >-
   Our Mission: To offer a bridge to self-sufficiency and make available the

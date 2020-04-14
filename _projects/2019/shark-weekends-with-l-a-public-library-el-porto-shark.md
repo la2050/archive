@@ -16,7 +16,7 @@ project_summary: >-
   how it affects them and our global ecosystem and climate. They will leave with
   knowledge and actions they can take.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/el-porto-shark.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/el-porto-shark.jpg
 project_video: 'https://www.youtube.com/watch?v=j70l04crPn4'
 What does your organization do?: >-
   El Porto Shark's mission is ocean and shark conservation through research,

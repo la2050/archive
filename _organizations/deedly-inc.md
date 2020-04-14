@@ -20,7 +20,7 @@ instagram: '@deedlyeducation'
 facebook: deedlyeducation
 ein: '811337436'
 zip: '33131'
-project_image: 'https://challenge.la2050.org/assets/images/2019/learn/2048-wide/deedly-inc.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/learn/2048-wide/deedly-inc.jpg'
 project_video: >-
   https://deedly.s3-accelerate.amazonaws.com/552b31c4a7a18284592ca33746f96b16_introv2.mp4
 challenge_url:

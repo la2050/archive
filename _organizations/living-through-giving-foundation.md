@@ -23,7 +23,7 @@ facebook: 'https://www.facebook.com/hashtaglunchbag/'
 ein: '800928421'
 zip: '90046'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/living-through-giving-foundation.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/living-through-giving-foundation.jpg
 project_video: >-
   https://www.nbclosangeles.com/news/local/_HashtagLunchbag_Los-Angeles-507743072.html
 challenge_url:

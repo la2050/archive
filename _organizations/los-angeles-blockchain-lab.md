@@ -19,7 +19,7 @@ facebook: LABlockchainLab-1536664923109486/
 ein: '830928082'
 zip: '90401'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/los-angeles-blockchain-lab.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/los-angeles-blockchain-lab.jpg
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/create/los-angeles-blockchain-lab/'

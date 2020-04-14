@@ -15,7 +15,7 @@ project_summary: >-
   as generating new solutions and providing a set of post-session seed grants to
   support the day’s most promising, action-ready ideas.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/new-america-ca.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/new-america-ca.jpg
 project_video: 'https://www.youtube.com/watch?v=00Q9L_iiMTw'
 What does your organization do?: >-
   New America CA promotes efforts that are locally grown and grounded in

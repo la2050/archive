@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/nhmla/'
 ein: '956132185'
 zip: 90007-4057
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/play/2048-wide/natural-history-museum-of-los-angeles-county.jpg
+  https://images.la2050.org/challenge/2019/play/2048-wide/natural-history-museum-of-los-angeles-county.jpg
 project_video: 'https://youtu.be/xG579E0-slU'
 challenge_url:
   - >-

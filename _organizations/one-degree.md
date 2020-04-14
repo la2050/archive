@@ -19,7 +19,7 @@ instagram: '@1deg'
 facebook: 'https://www.facebook.com/1degree.org'
 ein: '364729392'
 zip: 94114-1575
-project_image: 'https://challenge.la2050.org/assets/images/2019/live/2048-wide/one-degree.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/live/2048-wide/one-degree.jpg'
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/live/one-degree/'

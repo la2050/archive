@@ -20,7 +20,7 @@ facebook: 'https://www.facebook.com/CSUDH/'
 ein: '952543028'
 zip: '90747'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/center-for-innovation-in-stem-education-cise.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/center-for-innovation-in-stem-education-cise.jpg
 project_video: ''
 challenge_url:
   - >-

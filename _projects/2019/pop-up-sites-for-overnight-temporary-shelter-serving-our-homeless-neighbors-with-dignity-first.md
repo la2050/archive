@@ -17,7 +17,7 @@ project_summary: >-
    
    will sleep in their own Cardborigami unit put up and packed down by community volunteers, have access to hygiene facilities, and be registered or continued in personalized case management by local homeless services providers onsite.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/cardborigami-inc.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/cardborigami-inc.jpg
 project_video: 'https://www.youtube.com/watch?v=w47i_b8U5-0&feature=youtu.be'
 What does your organization do?: >-
   Cardborigami provides instant space to protect people from the elements

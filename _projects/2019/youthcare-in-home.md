@@ -15,7 +15,7 @@ project_summary: >-
   address social isolation for persons with dementia (PWDs), and prepare
   students for careers in aging.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/the-youth-movement-against-alzheimers.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/the-youth-movement-against-alzheimers.jpg
 project_video: 'https://www.youtube.com/watch?v=5fwflSIChBM&t'
 What does your organization do?: >-
   The Youth Movement Against Alzheimer’s (YMAA) mission is to promote

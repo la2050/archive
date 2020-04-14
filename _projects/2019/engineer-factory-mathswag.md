@@ -16,7 +16,7 @@ project_summary: >-
   Science Teacher Initiative. The program will also use peer volunteers and
   parent participation.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/the-engineer-factory-a-project-of-community-partners.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/the-engineer-factory-a-project-of-community-partners.jpg
 project_video: 'https://www.youtube.com/watch?v=ExIBLrtQVv0&t=11s'
 What does your organization do?: >-
   The mission of the Engineer Factory is to increase the number of students from

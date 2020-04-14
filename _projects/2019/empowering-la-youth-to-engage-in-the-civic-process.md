@@ -16,7 +16,7 @@ project_summary: >-
   compelling messages and original content about voting and the census that will
   be shared nationwide through social media.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/rock-the-vote.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/rock-the-vote.jpg
 project_video: 'https://youtu.be/HMaaH6Suf98'
 What does your organization do?: >-
   The mission of Rock the Vote is to build long-term youth political power. We

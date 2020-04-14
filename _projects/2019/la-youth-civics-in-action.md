@@ -17,7 +17,7 @@ project_summary: >-
    
    Tying student speeches and community projects to 2020 election issues, we'll inspire Angelenos to participate in neighborhood councils and vote. This will have lasting, transformative impacts on students, their families, schools, and communities.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/procon-org.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/procon-org.jpg
 project_video: 'https://www.youtube.com/watch?v=y-og0tzo8jc&t=57s'
 What does your organization do?: >-
   ProCon.org promotes critical thinking, education, and informed citizenship by

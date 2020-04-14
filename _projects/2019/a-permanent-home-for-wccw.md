@@ -16,7 +16,7 @@ project_summary: >-
   residence program and exhibition space, a print lab and press, a feminist
   library, and many programs, events, and workshops.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/womens-center-for-creative-work.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/womens-center-for-creative-work.jpg
 project_video: ''
 What does your organization do?: >-
   The Women's Center for Creative Work is a LA-based intersectional feminist

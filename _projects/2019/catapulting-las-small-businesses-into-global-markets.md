@@ -16,7 +16,7 @@ project_summary: >-
   companies in two cohorts with the goal to create $1 million in new revenue, 20
   direct jobs and 60 indirect jobs.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/community-vitalization-council.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/community-vitalization-council.jpg
 project_video: 'https://www.youtube.com/watch?v=9KQbRTk5Hcc'
 What does your organization do?: >-
   The Community Vitalization Council promotes community level economic vitality

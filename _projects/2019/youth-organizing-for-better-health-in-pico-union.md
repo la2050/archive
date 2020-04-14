@@ -16,7 +16,7 @@ project_summary: >-
   mobile application with an interactive map/database of community resources
   that youth identify through their research.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/national-health-foundation.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/national-health-foundation.jpg
 project_video: 'https://youtu.be/eeCWQK8e8YQ'
 What does your organization do?: >-
   National Health Foundation’s (NHF) mission is to improve the health of

@@ -31,7 +31,7 @@ facebook:
 ein: '825169166'
 zip: '90066'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/rebel-labs-inc.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/rebel-labs-inc.jpg
 project_video: 'https://vimeo.com/328687422'
 challenge_url:
   - 'https://challenge.la2050.org/2019/live/rebel-labs-inc/'

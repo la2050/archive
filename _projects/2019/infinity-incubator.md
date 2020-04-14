@@ -16,7 +16,7 @@ project_summary: >-
   hours we facilitate artist development, content production, go to market
   strategy and storyline creation.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/infinity-studio-8.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/infinity-studio-8.jpg
 project_video: 'https://youtu.be/fQX65iZeoME'
 What does your organization do?: >-
   Create a platform through collaboration and community, in order to develop a

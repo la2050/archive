@@ -20,7 +20,7 @@ project_summary: >-
    
    While reducing climate change and hunger in Los Angeles, we'll cut operating costs for businesses, provide tax breaks, and offer marketing and sales support!
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/foodcycle-la.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/foodcycle-la.jpg
 project_video: ''
 What does your organization do?: Connect excess food with people in need.
 Please list the organizations collaborating on this proposal.: >-

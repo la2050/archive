@@ -22,7 +22,7 @@ instagram: 'https://www.instagram.com/HavASole/'
 facebook: 'https://www.facebook.com/havAsole/'
 ein: '471674980'
 zip: '90021'
-project_image: 'https://challenge.la2050.org/assets/images/2019/live/2048-wide/havasole.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/live/2048-wide/havasole.jpg'
 project_video: 'https://youtu.be/mfz2rfJYiCI'
 challenge_url:
   - 'https://challenge.la2050.org/2019/live/havasole/'

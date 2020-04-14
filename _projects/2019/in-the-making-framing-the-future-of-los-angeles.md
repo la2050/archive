@@ -16,7 +16,7 @@ project_summary: >-
   donations to a plethora of non-profits, schools, and those who directly serve
   the homeless population in LA.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/connect/2048-wide/in-the-making.jpg
+  https://images.la2050.org/challenge/2019/connect/2048-wide/in-the-making.jpg
 project_video: 'https://youtu.be/hmWllpFD5lU'
 What does your organization do?: >-
   In the Making is a community resource center located in East Los Angeles

@@ -16,7 +16,7 @@ project_summary: >-
   providing high quality child care services to SMC students and other families
   in the west Los Angeles area.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/santa-monica-college.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/santa-monica-college.jpg
 project_video: 'http://www.smc.edu/AcademicPrograms/ECE/Pages/Videos-.aspx'
 What does your organization do?: >-
   Santa Monica College is an educational leader and innovator in west Los

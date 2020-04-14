@@ -15,7 +15,7 @@ project_summary: >-
   support people and ideas while they take root and begin to grow. We are
   seeking support in order to properly fund our core activities and programs,
   while ensuring they remain accessible and open to all.
-project_image: 'https://challenge.la2050.org/assets/images/2019/connect/2048-wide/navel.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/connect/2048-wide/navel.jpg'
 project_video: ''
 What does your organization do?: >-
   NAVEL is an equitable, collectively-run cultural space where people from a

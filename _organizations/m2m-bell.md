@@ -18,7 +18,7 @@ instagram: ''
 facebook: ''
 ein: '202090844'
 zip: '90046'
-project_image: 'https://challenge.la2050.org/assets/images/2019/connect/2048-wide/m2m-bell.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/connect/2048-wide/m2m-bell.jpg'
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2019/connect/m2m-bell/'

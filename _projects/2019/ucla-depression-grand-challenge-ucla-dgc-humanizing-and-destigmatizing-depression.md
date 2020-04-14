@@ -19,7 +19,7 @@ project_summary: >-
   more broadly, putting real faces to the varied realities of those living with
   depression & those close to them.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/the-regents-of-the-university-of-california-ucla-depression-grand-challenge.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/the-regents-of-the-university-of-california-ucla-depression-grand-challenge.jpg
 project_video: 'https://www.youtube.com/watch?v=6QqwHu4hvss'
 What does your organization do?: >-
   Depression is the world’s greatest health problem: it’s common, it disables,

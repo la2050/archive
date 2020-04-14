@@ -21,7 +21,7 @@ facebook: asaslosangeles
 ein: '912162719'
 zip: '90010'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/after-school-all-stars-los-angeles.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/after-school-all-stars-los-angeles.jpg
 project_video: 'https://youtu.be/t3QQPi2pnEU'
 challenge_url:
   - 'https://challenge.la2050.org/2019/learn/after-school-all-stars-los-angeles/'

@@ -16,7 +16,7 @@ project_summary: >-
   efforts. Accomplishing this will improve access to capital, increase jobs,
   reinforce LA's global competitiveness.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/create/2048-wide/getglobal-inc.jpg
+  https://images.la2050.org/challenge/2019/create/2048-wide/getglobal-inc.jpg
 project_video: 'https://www.youtube.com/watch?v=Xm8BeQreqmg&t=6s'
 What does your organization do?: >-
   GetGlobal produces summits on international expansion, strategy, and key

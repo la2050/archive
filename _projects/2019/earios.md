@@ -11,7 +11,7 @@ project_summary: >-
   In growing an entire media network we need support to continue to build out a
   podcasting studio, hire technicians, producers, purchase equipment and develop
   podcasts with our creators by hiring them support staff.
-project_image: 'https://challenge.la2050.org/assets/images/2019/create/2048-wide/earios.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/create/2048-wide/earios.jpg'
 project_video: >-
   https://www.kickstarter.com/projects/1936438128/earios-a-woman-run-podcast-network
 What does your organization do?: >-

@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/ElPortoShark/'
 ein: '566373336'
 zip: '90056'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/el-porto-shark.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/el-porto-shark.jpg
 project_video: 'https://www.youtube.com/watch?v=j70l04crPn4'
 challenge_url:
   - 'https://challenge.la2050.org/2019/learn/el-porto-shark/'

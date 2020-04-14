@@ -12,7 +12,7 @@ project_summary: >-
   learning tool to teach players about the important role of the Ports and Goods
   Movement industry in creating jobs in the Southern California region.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/learn/2048-wide/futureports.jpg
+  https://images.la2050.org/challenge/2019/learn/2048-wide/futureports.jpg
 project_video: ''
 What does your organization do?: >-
   We are an advocacy organization representing goods movement industry

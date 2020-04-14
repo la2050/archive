@@ -15,7 +15,7 @@ project_summary: >-
   complete K-6 CS educational pipeline, from unplugged activities in
   Kindergarten to an introduction to JavaScript (the language of professional
   coders) as early as the 5th grade.
-project_image: 'https://challenge.la2050.org/assets/images/2019/learn/2048-wide/9-dots.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/learn/2048-wide/9-dots.jpg'
 project_video: 'https://vimeo.com/252264371'
 What does your organization do?: >-
   At 9 Dots, we are a community of educators, researchers, and engineers

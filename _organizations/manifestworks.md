@@ -21,7 +21,7 @@ facebook: 'https://www.facebook.com/ManifestWorks/'
 ein: '475485332'
 zip: '90404'
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/manifestworks.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/manifestworks.jpg
 project_video: 'https://vimeo.com/192842820'
 challenge_url:
   - 'https://challenge.la2050.org/2019/live/manifestworks/'

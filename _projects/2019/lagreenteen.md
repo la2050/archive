@@ -16,7 +16,7 @@ project_summary: >-
   units students are forced to buy plastic water bottles as their source of
   water as their school water is unsafe to drink.
 project_image: >-
-  https://challenge.la2050.org/assets/images/2019/live/2048-wide/crayon-collection.jpg
+  https://images.la2050.org/challenge/2019/live/2048-wide/crayon-collection.jpg
 project_video: ''
 What does your organization do?: |-
   HoW protects the environment by finding solutions to create collective

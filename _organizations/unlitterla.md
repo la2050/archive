@@ -20,7 +20,7 @@ instagram: '@unlitterla'
 facebook: UnlitterLA (closed planning group for now)
 ein: '833262016'
 zip: '91301'
-project_image: 'https://challenge.la2050.org/assets/images/2019/live/2048-wide/unlitterla.jpg'
+project_image: 'https://images.la2050.org/challenge/2019/live/2048-wide/unlitterla.jpg'
 project_video: 'https://youtu.be/lM8QNhVfwrc'
 challenge_url:
   - 'https://challenge.la2050.org/2019/live/unlitterla/'
