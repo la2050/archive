@@ -5,8 +5,8 @@ let fs = require('fs')
 let mkdirp = require('mkdirp')
 let yaml = require('js-yaml')
 
-const yearSubmitted = 2019
-const dataPath = `../../git-challenge/_2019/`
+const yearSubmitted = 2020
+const dataPath = `../../git-challenge/_2020/`
 const categories = ["learn", "create", "play", "connect", "live"]
 const category_colors = {
   learn   : "blueberry",
@@ -130,42 +130,77 @@ function processFile(filepath) {
     project_ids: projectIDArray,
     project_titles: projectTitlesArray
   }
-
-  let project = {
-    published: true,
-    organization_id: organization_id,
-    year_submitted: yearSubmitted,
-    category: data.category,
-    body_class: category_colors[data.category],
-    project_id: project_id,
-    challenge_url: challengeURL,
-    title: data.title,
-    project_summary: data.project_description,
-    project_image: project_image,
-    project_video: data.project_video,
-    "What does your organization do?": 
-      data.organization_activity,
-    "Please list the organizations collaborating on this proposal.": 
-      (data.project_is_collaboration != "No" && data.project_collaborators && data.project_collaborators.length > 0) ? 
-        data.project_collaborators : [],
-    "Briefly tell us a story that demonstrates how your organization turns inspiration into impact.": 
-      data.project_proposal_description,
-    "Which metrics will your submission impact?": data.category_metrics,
-    "Will your proposal impact any other LA2050 goal categories?": 
-      (data.category_other && data.category_other.size > 0) ? 
-        data.category_other : [],
-    "In which areas of Los Angeles will you be directly working?": 
-      data.project_areas,
-    "How will your project make LA the best place?": 
-      data.project_proposal_best_place,
-    "In what stage of innovation is this project?": 
-      data.project_innovation_stage,
-    "Please explain how you will define and measure success for your project.": 
-      data.project_measure,
-    "How can the LA2050 community and other stakeholders help your proposal succeed?": 
-      (data.project_la2050_community_resource && data.project_la2050_community_resources.size > 0) ? 
-        data.project_la2050_community_resources : [],
-    organization_name: data.organization_name
+  
+  let project
+  if (yearSubmitted == 2020) {
+    project = {
+      published: true,
+      organization_id: organization_id,
+      year_submitted: yearSubmitted,
+      category: data.category,
+      body_class: category_colors[data.category],
+      project_id: project_id,
+      challenge_url: challengeURL,
+      title: data.title,
+      project_summary: data.project_description,
+      project_image: project_image,
+      project_video: data.project_video,
+      "Please describe the mission of your organization."
+      "project_description"
+      "Which LA2050 goal will your submission most impact?"
+      "In which areas of Los Angeles will you be directly working?"
+      "In what stage of innovation is this project?"
+      "What is the need you’re responding to?"
+      "Why is this project important to the work of your organization?"
+      "Please explain how you will define and measure success for your project."
+      "Approximately how many people will be directly impacted by this proposal?"
+      "Approximately how many people will be indirectly impacted by this proposal?"
+      "Please describe the broader impact of your proposal."
+      "If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project."
+      "Which of LA2050’s resources will be of the most value to you?"
+      "Please list the organizations collaborating on this proposal."
+      "Which metrics will your submission impact?"
+      "Are there any other LA2050 goal categories that your proposal will impact?"
+      "Has your proposal changed due to COVID-19?"
+      organization_name: data.organization_name
+    }
+  } else if (yearSubmitted == 2019) {
+    project = {
+      published: true,
+      organization_id: organization_id,
+      year_submitted: yearSubmitted,
+      category: data.category,
+      body_class: category_colors[data.category],
+      project_id: project_id,
+      challenge_url: challengeURL,
+      title: data.title,
+      project_summary: data.project_description,
+      project_image: project_image,
+      project_video: data.project_video,
+      "What does your organization do?": 
+        data.organization_activity,
+      "Please list the organizations collaborating on this proposal.": 
+        (data.project_is_collaboration != "No" && data.project_collaborators && data.project_collaborators.length > 0) ? 
+          data.project_collaborators : [],
+      "Briefly tell us a story that demonstrates how your organization turns inspiration into impact.": 
+        data.project_proposal_description,
+      "Which metrics will your submission impact?": data.category_metrics,
+      "Will your proposal impact any other LA2050 goal categories?": 
+        (data.category_other && data.category_other.size > 0) ? 
+          data.category_other : [],
+      "In which areas of Los Angeles will you be directly working?": 
+        data.project_areas,
+      "How will your project make LA the best place?": 
+        data.project_proposal_best_place,
+      "In what stage of innovation is this project?": 
+        data.project_innovation_stage,
+      "Please explain how you will define and measure success for your project.": 
+        data.project_measure,
+      "How can the LA2050 community and other stakeholders help your proposal succeed?": 
+        (data.project_la2050_community_resource && data.project_la2050_community_resources.size > 0) ? 
+          data.project_la2050_community_resources : [],
+      organization_name: data.organization_name
+    }
   }
   
   importedOrganizationsByName[data.organization_name] = organization
