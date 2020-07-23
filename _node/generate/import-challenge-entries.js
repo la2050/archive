@@ -65,9 +65,9 @@ function processFile(filepath) {
 
   let project_image
   if (yearSubmitted == 2020) {
-    project_image =  = `https://images.la2050.org/challenge/${ data.year }/${ data.category }/2048-wide/${ data.filename }.jpg`;
+    project_image = `https://images.la2050.org/challenge/${ data.year }/${ data.category }/2048-wide/${ data.filename }.jpg`;
   } else if (yearSubmitted == 2019) {
-    project_image =  = `https://challenge.la2050.org/assets/images/${ data.year }/${ data.category }/2048-wide/${ data.filename }.jpg`;
+    project_image = `https://challenge.la2050.org/assets/images/${ data.year }/${ data.category }/2048-wide/${ data.filename }.jpg`;
   }
   let cached_project_image = ''
     //`https://archive-assets.la2050.org/images/${ data.filename }/challenge.la2050.org/assets/images/${ data.year }/${ data.category }/2048-wide/${ data.filename }.jpg`
