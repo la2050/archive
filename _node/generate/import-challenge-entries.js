@@ -63,7 +63,12 @@ function processFile(filepath) {
   //   9102003
   let project_id = `${ reverseString(String(yearSubmitted)) }${ String(projectCounter++).padStart(3, "0") }`
 
-  let project_image = `https://challenge.la2050.org/assets/images/${ data.year }/${ data.category }/2048-wide/${ data.filename }.jpg`
+  let project_image
+  if (yearSubmitted == 2020) {
+    project_image =  = `https://images.la2050.org/challenge/${ data.year }/${ data.category }/2048-wide/${ data.filename }.jpg`;
+  } else if (yearSubmitted == 2019) {
+    project_image =  = `https://challenge.la2050.org/assets/images/${ data.year }/${ data.category }/2048-wide/${ data.filename }.jpg`;
+  }
   let cached_project_image = ''
     //`https://archive-assets.la2050.org/images/${ data.filename }/challenge.la2050.org/assets/images/${ data.year }/${ data.category }/2048-wide/${ data.filename }.jpg`
 
