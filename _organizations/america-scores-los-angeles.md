@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2020128'
+organization_id: '2020006'
 title: America SCORES Los Angeles
 org_type: Nonprofit
 org_summary: >-
@@ -22,11 +22,15 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=Ngn_5CDLQDU'
 challenge_url:
   - 'https://challenge.la2050.org/2020/play/america-scores-los-angeles/'
+  - 'https://challenge.la2050.org/2020/learn/america-scores-los-angeles/'
 year_submitted:
+  - '2020'
   - '2020'
 project_ids:
   - 0202128
+  - '0202006'
 project_titles:
+  - Literacy in Action
   - Literacy in Action
 
 ---

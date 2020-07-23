@@ -24,20 +24,24 @@ project_image: >-
 project_video: 'https://vimeo.com/233759980'
 challenge_url:
   - 'https://challenge.la2050.org/2020/create/two-bit-circus-foundation/'
+  - 'https://challenge.la2050.org/2020/learn/two-bit-circus-foundation/'
   - 'https://challenge.la2050.org/2019/create/two-bit-circus-foundation/'
   - 'https://activation.la2050.org/learn/two-bit-circus-foundation/'
 year_submitted:
+  - '2020'
   - '2020'
   - '2019'
   - '2018'
   - '2014'
 project_ids:
   - '0202123'
+  - '0202077'
   - '9102063'
   - '8102128'
   - '4102239'
 project_titles:
   - Play with Music
+  - 'STEAM Lab Makerspace: Learn, Create, Play!'
   - 'STEAM Lab Makerspace: Pio Pico Public Library at Koreatown/Los Angeles'
   - STEAM Carnival in South Los Angeles
 
