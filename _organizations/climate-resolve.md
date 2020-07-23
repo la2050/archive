@@ -3,40 +3,40 @@ published: true
 organization_id: '2015038'
 title: Climate Resolve
 org_type: Nonprofit
-org_summary: >-
-  Climate Resolve’s mission is to make Southern California more livable and
-  prosperous today and for generations to come by inspiring people at home, at
-  work and in government to reduce greenhouse gas pollution and prepare for
-  climate impacts.
+org_summary: >
+  Climate Resolve is a Los Angeles nonprofit dedicated to combating climate
+  change and helping vulnerable communities adapt to its impacts. We advocate,
+  innovate, collaborate, convene, and more in support of our mission! 
 tags_indicators:
   - Climate change
   - Resiliency
   - Environmental quality & sustainability
   - Public safety & public space
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=4647362978'
+charity_navigator_url: ''
 organization_website:
-  - www.climateresolve.org
-twitter: www.twitter.com/climateresolve
-instagram: ''
-facebook: www.facebook.com/climateresolve
-ein: '4647362978'
-zip: '90012'
-project_image: 'https://img.youtube.com/vi/jRPfyjiCjwg/hqdefault.jpg'
+  - 'https://www.climateresolve.org'
+twitter: '@climateresolve'
+instagram: '@climateresolve'
+facebook: facebook.com/climateresolve
+ein: '464736278'
+zip: '90013'
+project_image: 'https://images.la2050.org/challenge/2020/connect/2048-wide/climate-resolve.jpg'
 project_video: ''
 challenge_url:
+  - 'https://challenge.la2050.org/2020/connect/climate-resolve/'
   - 'http://maker.good.is/myla2050live2015/projects/climatereadyroofs.html'
   - 'http://maker.good.is/myla2050/projects/climateresolve.html'
 year_submitted:
+  - '2020'
   - '2015'
   - '2013'
 project_ids:
+  - '0202164'
   - '5102067'
   - '3102076'
 project_titles:
+  - One Day
   - Climate Ready Roofs
   - 'Climate Resolve: Inspiring LA to Prosper in a Changing Climate'
-youtube_video_identifier: jRPfyjiCjwg
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/climate-resolve/img.youtube.com/vi/jRPfyjiCjwg/hqdefault.jpg
 
 ---

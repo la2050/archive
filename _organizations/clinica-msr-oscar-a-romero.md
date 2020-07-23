@@ -4,34 +4,35 @@ organization_id: '2015039'
 title: Clinica Msr. Oscar A. Romero
 org_type: Nonprofit
 org_summary: >-
-  Clinica Romero is a community health center that provides primary care and
-  disease prevention services to underserved and underinsured individuals in Los
-  Angeles.
+  Our mission is to provide quality, affordable, and culturally-sensitive health
+  care and other services to the underserved communities of Greater Los Angeles
+  regardless of their ability to pay by upholding the legacy and tradition of
+  Monseñor Oscar A. Romero.
 tags_indicators:
   - Community health
   - Health
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953881333'
+charity_navigator_url: ''
 organization_website:
-  - www.clinicaromero.com
-twitter: 'https://twitter.com/clinicaromero'
-instagram: 'http://www.instagram.com/clinicaromero'
-facebook: 'https://www.facebook.com/clinicaromero'
+  - 'https://www.clinicaromero.com'
+twitter: '@ClinicaRomero'
+instagram: '@clinica_romero'
+facebook: facebook.com/clinicaromero/
 ein: '953881333'
-zip: ''
+zip: '90057'
 project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24096%252Fdisplay%252Fexercise.jpg=c570x385
+  https://images.la2050.org/challenge/2020/live/2048-wide/clinica-msr-oscar-a-romero.jpg
 project_video: ''
 challenge_url:
+  - 'https://challenge.la2050.org/2020/live/clinica-msr-oscar-a-romero/'
   - 'http://maker.good.is/myla2050live2015/projects/LIVEWELLPICOUNION.html'
 year_submitted:
+  - '2020'
   - '2015'
 project_ids:
+  - '0202226'
   - '5102068'
 project_titles:
+  - Telehealth for Medically Underserved LA Neighborhoods
   - Live Well Pico Union
-maker_image_file_name: exercise.jpg
-maker_image_id: '24096'
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/clinica-msr-oscar-a-romero/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24096%252Fdisplay%252Fexercise.jpg=c570x385.jpg
 
 ---

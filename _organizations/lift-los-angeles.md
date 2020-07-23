@@ -4,26 +4,27 @@ organization_id: '2018068'
 title: LIFT-Los Angeles
 org_type: Nonprofit
 org_summary: >-
-  LIFT-LA empowers low-income parents of young children to break the cycle of
-  poverty through one-on-one career and financial coaching. We believe all
-  families should have an equal chance to thrive.
+  LIFT-LA empowers families to break the cycle of poverty through one-on-one
+  financial, educational and career coaching. We believe all families should
+  have an equal chance to thrive. That is why we put cash into the hands of our
+  members and trust them to spend it on what they need most.
 tags_indicators:
   - Access to capital & benefits
   - Resiliency
   - Income & employment
   - Public safety & public space
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522168409'
+charity_navigator_url: ''
 organization_website:
   - 'https://www.liftcommunities.org/'
 twitter: '@LIFTCommunities'
-instagram: '@LIFTCommunities'
+instagram: liftcommunities
 facebook: '@LIFTCommunities'
 ein: '522168409'
 zip: '90007'
-project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg
-project_video: ''
+project_image: 'https://images.la2050.org/challenge/2020/live/2048-wide/lift-los-angeles.jpg'
+project_video: 'https://drive.google.com/file/d/1KwP-HdWEZFW_Be8a7Y44BEweDRgG9-90/view'
 challenge_url:
+  - 'https://challenge.la2050.org/2020/live/lift-los-angeles/'
   - 'https://challenge.la2050.org/2019/live/lift-los-angeles/'
   - 'https://activation.la2050.org/live/lift-los-angeles/'
   - >-
@@ -32,6 +33,7 @@ challenge_url:
   - 'http://maker.good.is/myLA2050connect/projects/LIFT-LA.html'
   - 'http://maker.good.is/myla2050/projects/liftcommunities.html'
 year_submitted:
+  - '2020'
   - '2019'
   - '2018'
   - '2016'
@@ -39,6 +41,7 @@ year_submitted:
   - '2014'
   - '2013'
 project_ids:
+  - 0202248
   - '9102135'
   - '8102068'
   - '6102131'
@@ -46,6 +49,9 @@ project_ids:
   - '4102119'
   - '3102181'
 project_titles:
+  - >-
+    LIFT’s Family Goal Fund: Moving Money into the Hands of Families who Need it
+    Most
   - >-
     One Emergency Away: LIFTing Los Angeles Out of Poverty and Preventing
     Homelessness

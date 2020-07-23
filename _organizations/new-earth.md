@@ -4,9 +4,10 @@ organization_id: '2019024'
 title: New Earth
 org_type: Nonprofit
 org_summary: >-
-  We provide arts, educational, and vocational programs for juvenile
-  justice-involved youth to transform their lives, move toward positive,
-  healthier life choices, and realize their full potential.
+  New Earth provides mentor-based arts, educational, and vocational programs
+  that empower juvenile justice and system involved youth ages 13-25 to
+  transform their lives, move toward positive, healthier life choices, and
+  realize their full potential as contributing members of our community.
 tags_indicators:
   - Teaching & mentorship
   - Mental & emotional health
@@ -14,23 +15,29 @@ tags_indicators:
   - Education & youth
   - Health
   - Public safety & public space
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330705045'
+charity_navigator_url: ''
 organization_website:
-  - 'https://www.newearthlife.org'
+  - 'https://newearthlife.org/'
 twitter: '@NewEarthLife'
 instagram: '@newearthlife'
-facebook: www.facebook.com/newearthlife
+facebook: 'https://www.facebook.com/newearthlife'
 ein: '330705045'
 zip: '90230'
-project_image: 'https://images.la2050.org/challenge/2019/learn/2048-wide/new-earth.jpg'
-project_video: 'https://youtu.be/aVYDRtqjIKg'
+project_image: 'https://images.la2050.org/challenge/2020/learn/2048-wide/new-earth.jpg'
+project_video: ''
 challenge_url:
+  - 'https://challenge.la2050.org/2020/learn/new-earth/'
   - 'https://challenge.la2050.org/2019/learn/new-earth/'
 year_submitted:
+  - '2020'
   - '2019'
 project_ids:
+  - '0202052'
   - '9102024'
 project_titles:
+  - >-
+    High School Diploma Program and Reentry Services for Justice System Impacted
+    Youth
   - Caught You Doing Good
 
 ---
