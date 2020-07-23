@@ -144,7 +144,8 @@ function processFile(filename) {
 
     let tags_indicators = tagsLookup[name]
     if (tags_indicators) {
-      data.tags_indicators = tags_indicators
+      // combine the tags with existing tags, while keeping them unique (not yet tested)
+      data.tags_indicators = [...new Set(data.tags_indicators.concat(tags_indicators))]
       console.log ("Tags found: " + data.tags_indicators)
       saveMarkdown(filename, data)
     } else {
