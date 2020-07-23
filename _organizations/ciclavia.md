@@ -4,43 +4,46 @@ organization_id: '2018021'
 title: CicLAvia
 org_type: Nonprofit
 org_summary: >-
-  CicLAvia connects communities and people to each other through joyous,
-  large-scale, car-free open street events that catalyzes personal and
-  collective change, and inspires a shared passion for LA.
+  The mission of CicLAvia is to catalyze vibrant public spaces, active
+  transportation, and good health through car-free open street events. CicLAvia
+  engages with people throughout Southern California to transform our
+  relationship with our communities and with each other. 
 tags_indicators:
   - Community gatherings
   - Transportation
   - Social connectedness
   - Mobility
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273428380'
+charity_navigator_url: ''
 organization_website:
-  - www.ciclavia.org
+  - 'https://www.ciclavia.org'
 twitter: '@ciclavia'
 instagram: '@ciclavia'
-facebook: 'https://www.facebook.com/ciclavia/'
+facebook: facebook.com/ciclavia
 ein: '273428380'
 zip: '90013'
-project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/ciclavia.jpg'
-project_video: 'https://youtu.be/I7wQ8SasHfQ'
+project_image: 'https://images.la2050.org/challenge/2020/play/2048-wide/ciclavia.jpg'
+project_video: 'https://www.youtube.com/watch?v=UXHwcVl72_8'
 challenge_url:
+  - 'https://challenge.la2050.org/2020/play/ciclavia/'
   - 'https://activation.la2050.org/connect/ciclavia/'
   - 'http://maker.good.is/myla2050connect2015/projects/CicLAvia.html'
   - 'http://maker.good.is/myla2050/projects/CicLAvia.html'
 year_submitted:
+  - '2020'
   - '2018'
   - '2015'
   - '2013'
 project_ids:
+  - '0202133'
   - '8102021'
   - '5102055'
   - '3102061'
 project_titles:
+  - 'CicLAvia: Open Streets bring Healthier Connections'
   - >-
     CicLAvia: "When LA Listens" captures and tells the stories of the people and
     places that is LA.
   - 'CicLAvia: Get Connected LA'
   - 'CicLAvia: The Route to LA’s Future'
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/ciclavia/activation.la2050.org/assets/images/connect/2048-wide/ciclavia.jpg
 
 ---

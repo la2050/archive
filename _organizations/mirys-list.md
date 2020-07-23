@@ -1,35 +1,38 @@
 ---
 published: true
 organization_id: '2018083'
-title: Miry’s List
+title: Miry's List
 org_type: Nonprofit
 org_summary: >-
-  Miry’s List is a nonprofit that helps families and individuals resettling in
-  the U.S. as refugees by connecting them to the people, things, and services
-  they need as they begin their new lives.
+  Refugees come to the U.S. seeking a safe haven from violence and persecution,
+  leaving behind family, friends, and virtually everything they own. Miry's List
+  provides a network for Americans to directly help their resettling refugee
+  neighbors get what they need to start their new lives.
 tags_indicators:
   - Community gatherings
   - Voting & civic engagement
   - Social connectedness
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
+charity_navigator_url: ''
 organization_website:
-  - www.miryslist.org
+  - 'http://www.miryslist.org'
 twitter: '@miryslist'
-instagram: '@miryslist'
-facebook: www.facebook.com/miryslist
+instagram: '@miryslist and @newarrivalsupperclub'
+facebook: www.facebook.com/miryslist and facebook.com/newarrivalsupperclub
 ein: '954116679'
-zip: 90089-0034
-project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/mirys-list.jpg'
-project_video: 'https://youtu.be/6re3u9HlO-A'
+zip: '91302'
+project_image: 'https://images.la2050.org/challenge/2020/connect/2048-wide/mirys-list.jpg'
+project_video: 'https://youtu.be/pk8FW3byDRA'
 challenge_url:
+  - 'https://challenge.la2050.org/2020/connect/mirys-list/'
   - 'https://activation.la2050.org/connect/mirys-list/'
 year_submitted:
+  - '2020'
   - '2018'
 project_ids:
+  - 0202193
   - '8102083'
 project_titles:
+  - 'Welcome, Neighbor 2020'
   - 'Welcome, Neighbor: Making LA the most welcoming place in America'
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/mirys-list/activation.la2050.org/assets/images/connect/2048-wide/mirys-list.jpg
 
 ---

@@ -4,26 +4,27 @@ organization_id: '2018019'
 title: Children Now
 org_type: Nonprofit
 org_summary: >-
-  Our mission is to transform children’s advocacy so that all kids, especially
-  kids of color, children in poverty, and foster youth, have the support they
-  need to reach their full potential.
+  Children Now is on a mission to transform children’s advocacy so that all
+  children, especially children of color, children living in low-income
+  households, and children in foster care, have the opportunity to reach their
+  full potential. 
 tags_indicators:
   - Early childhood
   - Voting & civic engagement
   - Education & youth
   - Social connectedness
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943059243'
+charity_navigator_url: ''
 organization_website:
   - 'https://www.childrennow.org'
-twitter: '@ChildrenNow'
+twitter: '@childrennow'
 instagram: '@childrennow'
 facebook: 'https://www.facebook.com/childrennow/'
 ein: '943059243'
 zip: '90015'
-project_image: >-
-  https://images.la2050.org/challenge/2019/live/2048-wide/children-now.jpg
+project_image: 'https://images.la2050.org/challenge/2020/learn/2048-wide/children-now.jpg'
 project_video: ''
 challenge_url:
+  - 'https://challenge.la2050.org/2020/learn/children-now/'
   - 'https://challenge.la2050.org/2019/live/children-now/'
   - 'https://activation.la2050.org/connect/children-now/'
   - >-
@@ -31,18 +32,21 @@ challenge_url:
   - 'http://maker.good.is/myla2050learn2015/projects/PROKIDLA.html'
   - 'http://maker.good.is/myLA2050connect/projects/ProKidLA.html'
 year_submitted:
+  - '2020'
   - '2019'
   - '2018'
   - '2016'
   - '2015'
   - '2014'
 project_ids:
+  - '0202015'
   - '9102124'
   - '8102019'
   - '6102034'
   - '5102052'
   - '4102035'
 project_titles:
+  - Improving Educational Outcomes for Foster Youth in LA County
   - Improving Disaster Relief Efforts for Foster Youth and Families in LA
   - 'A Pro-Kid LA: Building The Children’s Movement in Los Angeles'
   - 'Leveraging The Children’s Movement to Make LA the Best Place to Learn '

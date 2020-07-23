@@ -11,24 +11,28 @@ tags_indicators:
   - Mental & emotional health
   - Housing & homelessness
   - Health
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951691293'
+charity_navigator_url: ''
 organization_website:
   - 'https://www.midnightmission.org'
 twitter: '@midnightmission'
 instagram: '@themidnightmission'
-facebook: 'https://www.facebook.com/TheMidnightMission/'
+facebook: Themidnightmission
 ein: '951691293'
-zip: '90014'
+zip: '91601'
 project_image: >-
-  https://images.la2050.org/challenge/2019/live/2048-wide/the-midnight-mission.jpg
-project_video: ''
+  https://images.la2050.org/challenge/2020/live/2048-wide/the-midnight-mission.jpg
+project_video: 'https://www.youtube.com/user/TMMvolunteer/videos?disable_polymer=1'
 challenge_url:
+  - 'https://challenge.la2050.org/2020/live/the-midnight-mission/'
   - 'https://challenge.la2050.org/2019/live/the-midnight-mission/'
 year_submitted:
+  - '2020'
   - '2019'
 project_ids:
+  - '0202274'
   - '9102148'
 project_titles:
+  - Recovery from Homelessness to Self-Sufficiency
   - Recovery from Homelessness
 
 ---

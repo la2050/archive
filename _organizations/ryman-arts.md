@@ -4,39 +4,40 @@ organization_id: '2016186'
 title: Ryman Arts
 org_type: Nonprofit
 org_summary: >-
-  Since 1990, Ryman Arts has empowered 26,000+ artistic youth, through free high
-  quality studio classes, college/career planning, support services, community
-  engagement opportunities.
+  Ryman Arts transforms lives by creating access and opportunity for a diverse
+  community of young artists through rigorous education in fundamental art
+  skills and mentoring.
 tags_indicators:
   - Art
   - Community gatherings
   - Arts & cultural vitality
   - Social connectedness
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951051084'
+charity_navigator_url: ''
 organization_website:
-  - www.rymanarts.org
-twitter: rymanarts
-instagram: rymanartsfanpage
-facebook: rymanarts
+  - 'https://www.rymanarts.org'
+twitter: '@rymanarts'
+instagram: '@rymanarts'
+facebook: rymanartsfanpage
 ein: '951051084'
-zip: ''
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5887450265741-team91.jpg
-project_video: 'https://www.youtube.com/embed/eWUHxpi7AOI?rel=0&amp;showinfo=0'
+zip: '90007'
+project_image: 'https://images.la2050.org/challenge/2020/learn/2048-wide/ryman-arts.jpg'
+project_video: ''
 challenge_url:
+  - 'https://challenge.la2050.org/2020/learn/ryman-arts/'
   - >-
     https://challenge.la2050.org/entry/the-big-draw-la-drawing-festival-drawing-los-angeles-together!
   - 'http://maker.good.is/myla2050/projects/thebigdrawla.html'
 year_submitted:
+  - '2020'
   - '2016'
   - '2013'
 project_ids:
+  - '0202063'
   - '6102201'
   - '3102230'
 project_titles:
+  - Future Creatives – Access and Equity for Young Artists
   - The Big Draw LA
   - The Big Draw LA Drawing Festival. Drawing Los Angeles together!
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/ryman-arts/skild-prod.s3.amazonaws.com/myla2050/images/custom540/5887450265741-team91.jpg
 
 ---

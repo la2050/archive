@@ -1,43 +1,42 @@
 ---
-original_project_image: 'https://img.youtube.com/vi/EDmhXWDVs3M/hqdefault.jpg'
 published: true
 organization_id: '2015083'
 title: Heal the Bay
 org_type: Nonprofit
-org_summary: >-
-  Heal the Bay is a nonprofit environmental organization making Southern
-  California coastal waters and watersheds, including Santa Monica Bay, safe,
-  healthy and clean.
+org_summary: >
+  Heal the Bay is an environmental nonprofit dedicated to making California
+  coastal waters and watersheds safe, healthy, and clean. To fulfill our
+  mission, we use science, education, community action, and advocacy.
 tags_indicators:
   - Air & water
   - Environmental quality & sustainability
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954031055'
+charity_navigator_url: ''
 organization_website:
-  - www.healthebay.org
-twitter: 'https://twitter.com/healthebay'
-instagram: 'https://instagram.com/healthebay/'
+  - 'https://www.healthebay.org'
+twitter: '@healthebay'
+instagram: '@healthebay'
 facebook: 'https://www.facebook.com/HealtheBay/'
 ein: '954031055'
 zip: '90401'
-project_image: >-
-  /uploads/heal-the-bay.jpg
-project_video: ''
+project_image: 'https://images.la2050.org/challenge/2020/live/2048-wide/heal-the-bay.jpg'
+project_video: 'https://www.youtube.com/watch?v=_6X3KNF_QP0&feature=youtu.be'
 challenge_url:
+  - 'https://challenge.la2050.org/2020/live/heal-the-bay/'
   - 'http://maker.good.is/myla2050live2015/projects/DroppingKnowledgeLA.html'
   - 'http://maker.good.is/myla2050/projects/healthyneighborhoods.html'
 year_submitted:
+  - '2020'
   - '2015'
   - '2013'
 project_ids:
+  - 0202238
   - '5102129'
   - '3102146'
 project_titles:
+  - Heal the Bay's River Report Card
   - Dropping Knowledge Project - Building a Water-Literate L.A.
   - Dropping Knowledge Project – Building a Water-Literate L.A.
   - 'Heal the Bay''s Healthy Neighborhoods, Healthy Environment Initiative'
   - Heal the Bays Healthy Neighborhoods Healthy Environment Initiative
-youtube_video_identifier: EDmhXWDVs3M
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/heal-the-bay/img.youtube.com/vi/EDmhXWDVs3M/hqdefault.jpg
 
 ---
