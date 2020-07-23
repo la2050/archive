@@ -112,7 +112,7 @@ function processFile(filepath) {
     org_type:
       (data.organization_description == "Non-profit organization") ? 
         `Nonprofit`: data.organization_description,
-    org_summary: data.organization_activity,
+    org_summary: null,
     tags_indicators: tagsIndicatorsArray,
     charity_navigator_url: 
       (data.organization_description == "Non-profit organization") ? 
@@ -124,13 +124,19 @@ function processFile(filepath) {
     ein: data.ein.replace("-", ""),
     zip: data.mailing_address_zip,
     project_image: project_image,
-    project_video: data.project_video,
+    project_video: data.project_video || "",
     challenge_url: challengeURLArray,
     year_submitted: yearSubmittedArray,
     project_ids: projectIDArray,
     project_titles: projectTitlesArray
   }
-  
+
+  if (yearSubmitted == 2020) {
+    organization.org_summary = data["Please describe the mission of your organization."];
+  } else if (yearSubmitted == 2019) {
+    organization.org_summary = data.organization_activity;
+  }
+
   let project
   if (yearSubmitted == 2020) {
     project = {
@@ -144,24 +150,22 @@ function processFile(filepath) {
       title: data.title,
       project_summary: data.project_description,
       project_image: project_image,
-      project_video: data.project_video,
-      "Please describe the mission of your organization."
-      "project_description"
-      "Which LA2050 goal will your submission most impact?"
-      "In which areas of Los Angeles will you be directly working?"
-      "In what stage of innovation is this project?"
-      "What is the need you’re responding to?"
-      "Why is this project important to the work of your organization?"
-      "Please explain how you will define and measure success for your project."
-      "Approximately how many people will be directly impacted by this proposal?"
-      "Approximately how many people will be indirectly impacted by this proposal?"
-      "Please describe the broader impact of your proposal."
-      "If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project."
-      "Which of LA2050’s resources will be of the most value to you?"
-      "Please list the organizations collaborating on this proposal."
-      "Which metrics will your submission impact?"
-      "Are there any other LA2050 goal categories that your proposal will impact?"
-      "Has your proposal changed due to COVID-19?"
+      project_video: data.project_video || "",
+      "Which LA2050 goal will your submission most impact?": data["Which LA2050 goal will your submission most impact?"],
+      "In which areas of Los Angeles will you be directly working?": data["In which areas of Los Angeles will you be directly working?"],
+      "In what stage of innovation is this project?": data["In what stage of innovation is this project?"],
+      "What is the need you’re responding to?": data["What is the need you’re responding to?"],
+      "Why is this project important to the work of your organization?": data["Why is this project important to the work of your organization?"],
+      "Please explain how you will define and measure success for your project.": data["Please explain how you will define and measure success for your project."],
+      "Approximately how many people will be directly impacted by this proposal?": data["Approximately how many people will be directly impacted by this proposal?"],
+      "Approximately how many people will be indirectly impacted by this proposal?": data["Approximately how many people will be indirectly impacted by this proposal?"],
+      "Please describe the broader impact of your proposal.": data["Please describe the broader impact of your proposal."],
+      "If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.": data["If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project."] || "",
+      "Which of LA2050’s resources will be of the most value to you?": data["Which of LA2050’s resources will be of the most value to you?"],
+      "Please list the organizations collaborating on this proposal.": data["Please list the organizations collaborating on this proposal."],
+      "Which metrics will your submission impact?": data["Which metrics will your submission impact?"],
+      "Are there any other LA2050 goal categories that your proposal will impact?": data["Are there any other LA2050 goal categories that your proposal will impact?"],
+      "Has your proposal changed due to COVID-19?": data["Has your proposal changed due to COVID-19?"] || "",
       organization_name: data.organization_name
     }
   } else if (yearSubmitted == 2019) {
@@ -306,7 +310,7 @@ ${items[1]}`
 
 function saveMarkdown(writePath, filename, data) {
 
-// console.dir(data)
+  console.dir(data)
 
   // https://www.npmjs.com/package/js-yaml#safedump-object---options-
   let output =
