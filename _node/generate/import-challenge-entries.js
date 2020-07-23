@@ -212,7 +212,7 @@ function processFile(filepath) {
     }
   }
   
-  importedOrganizationsByName[data.organization_name] = organization
+  importedOrganizationsByName[data.organization_name.toLowerCase()] = organization
 
   createOrganizationMarkdown(organization, existingOrganization)
   createProjectMarkdown(project)
@@ -274,9 +274,9 @@ function getExistingOrganizationByManualMatch(data) {
 }
 
 function getExistingOrganizationDuringImport(data) {
-  if (importedOrganizationsByName[data.organization_name]) {
+  if (importedOrganizationsByName[data.organization_name.toLowerCase()]) {
     console.log("getExistingOrganizationDuringImport: " + data.organization_name)
-    return importedOrganizationsByName[data.organization_name]
+    return importedOrganizationsByName[data.organization_name.toLowerCase()]
   }
 }
 
