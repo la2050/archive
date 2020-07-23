@@ -1,12 +1,9 @@
 <div class="proposal-answers">
   
-{% if page["Has your proposal changed due to COVID-19?"] %}
+{% if page["Has your proposal changed due to COVID-19?"] and page["Has your proposal changed due to COVID-19?"] != "" %}
   <h3>Has your proposal changed due to COVID-19?</h3>
   {{ page["Has your proposal changed due to COVID-19?"] | markdownify }}
 {% endif %}
-
-<h3>Please describe the mission of your organization.</h3>
-{{ page["Please describe the mission of your organization."] | markdownify }}
 
 <h3>In which areas of Los Angeles will you be directly working?</h3>
 <ul>
