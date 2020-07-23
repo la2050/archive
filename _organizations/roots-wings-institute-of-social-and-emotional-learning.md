@@ -7,7 +7,9 @@ org_summary: >-
   Roots & Wings’ mission is to prevent childhood trauma, mental illness,
   substance abuse and violence by teaching evidence-based psychological tools to
   children, teens, parents and educators.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.rootsnwings.org'

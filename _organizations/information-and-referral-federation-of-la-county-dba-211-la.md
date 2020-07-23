@@ -8,7 +8,9 @@ org_summary: >-
   support, inform, and lift them and their communities. The 2-1-1 phone line is
   open 24 hours, 7 days a week and serves as the central source for information
   and referrals for all health and human services in Los Angeles County. 
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Housing & homelessness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.211la.org'

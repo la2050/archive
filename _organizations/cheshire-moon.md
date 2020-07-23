@@ -8,7 +8,12 @@ org_summary: >-
   as an ongoing writer's lab to help students develop their voices as writers.
   We want to create a program that will be the origin story for many great
   artists of the next generation.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Workforce development
+  - Art
+  - Arts & cultural vitality
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.cheshiremoon.org'

@@ -8,7 +8,12 @@ org_summary: >-
   standard for more equal, inclusive, and accurate representation in photography
   and iconography. With over 6 million users, our platform is used and loved by
   people around the world. 
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Creative economy
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://thenounproject.com/'

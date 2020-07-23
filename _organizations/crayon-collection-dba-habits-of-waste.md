@@ -8,7 +8,9 @@ org_summary: >-
   empower individuals to make small daily changes to our engrained wasteful
   behavior, resulting in collective large-scale societal impact.  We believe in
   the power of one - every one of us can make a difference together. 
-tags_indicators: []
+tags_indicators:
+  - Air & water
+  - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
   - 'https://www.habitsofwaste.org'

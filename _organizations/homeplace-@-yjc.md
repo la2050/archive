@@ -8,7 +8,10 @@ org_summary: >-
   Liberation Arts Community Health Strategists to cultivate conditions for
   intergenerational self-determinism by securing cooperatively owned and run
   work/home healing spaces across the Black, Queer Diaspora
-tags_indicators: []
+tags_indicators:
+  - Affordable housing
+  - Homelessness
+  - Housing & homelessness
 charity_navigator_url: ''
 organization_website:
   - 'https://lakhiyia.wordpress.com'

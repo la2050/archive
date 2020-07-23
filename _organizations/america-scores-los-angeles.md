@@ -8,7 +8,11 @@ org_summary: >-
   to lead healthy lives, be engaged students, and have the confidence and
   character to make a difference in the world. America SCORES LA empowers youth
   to create positive change in their communities and the world overall.
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Teaching & mentorship
+  - Health
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lascores.org/'

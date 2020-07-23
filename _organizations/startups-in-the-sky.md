@@ -8,7 +8,9 @@ org_summary: >-
   critical platform for social justice advocates, software engineers, internet
   philosophers, and the startup community to reimagine and create a digital
   future that is safe, equitable, and just for all digital citizens.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sits.la'

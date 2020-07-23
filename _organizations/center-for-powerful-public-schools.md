@@ -7,7 +7,9 @@ org_summary: >-
   The mission of the Center for Powerful Public Schools is to build the capacity
   of educators in order to create and sustain powerful public schools that
   prepare every student for college, career and life. 
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.powerfuled.org'

@@ -10,7 +10,13 @@ org_summary: >-
   Mission Statement: To be an education, outreach, development, and
   demonstration center for people who want to be part of resilient and
   regenerative communities.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Climate change
+  - Access to healthy food
+  - Education & youth
+  - Environmental quality & sustainability
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'http://laecovillage.org/crsp/'

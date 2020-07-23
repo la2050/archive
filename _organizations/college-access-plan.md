@@ -7,7 +7,10 @@ org_summary: >-
   CAP believes a postsecondary education is achievable for all students, and our
   mission is to prepare students who attend Pasadena Unified schools for college
   success.
-tags_indicators: []
+tags_indicators:
+  - College prep
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.collegeaccessplan.org'

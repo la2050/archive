@@ -8,7 +8,9 @@ org_summary: >-
   sustainable and dynamic infrastructural technologies. Out first project dubbed
   "halt smart meter" is the most advanced parking meter that packs a multitude
   of different features aside from improving the current parking system.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.ethosdna.com'

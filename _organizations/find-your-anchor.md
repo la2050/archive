@@ -8,7 +8,9 @@ org_summary: >-
   awareness, and education. With creativity and a personal touch, Find Your
   Anchor aims to support those who may be struggling and de-stigmatize
   conversations surrounding suicide and mental health. 
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.findyouranchor.us'

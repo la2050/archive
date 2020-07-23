@@ -8,7 +8,11 @@ org_summary: >-
   Entertainment (CIE) creates access, introduces opportunity and promotes
   inclusion for under represented young people and their families who want to
   work in entertainment.   
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Creative economy
+  - Education & youth
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.cietours.org'

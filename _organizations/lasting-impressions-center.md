@@ -7,7 +7,11 @@ org_summary: >-
   To ensure that more people, particularly victims of violence and abuse, can
   recover from their trauma through the access to and the use of various forms
   of art therapy.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Art
+  - Health
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://lastingimpressionscenter.org/'

@@ -8,7 +8,11 @@ org_summary: >-
   proficient dancers access to first-rate educational experiences that prepare
   them to succeed in a professional dance career; and to provide this degree of
   education at no cost, or significantly reduced costs, to selected dancers.
-tags_indicators: []
+tags_indicators:
+  - College prep
+  - Art
+  - Education & youth
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.danceartsfoundation.org/'

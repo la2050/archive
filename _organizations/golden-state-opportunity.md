@@ -8,7 +8,9 @@ org_summary: >-
   providing all Californians with the tools to build financial security and
   thrive. GSO develops and leads comprehensive outreach campaigns to increase
   awareness of and participation in programs benefiting low-income workers.
-tags_indicators: []
+tags_indicators:
+  - Access to capital & benefits
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - - www.goldenstateopportunity.org

@@ -7,7 +7,10 @@ org_summary: >-
   The Alliance’s mission is to engage and unify SoCal’s compelling diversity of
   talent, ideas and perspectives in order to optimize the conditions for the
   region’s innovators to bring breakthroughs to the world.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Entrepreneurship & innovation
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.alliancesocal.org'

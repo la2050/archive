@@ -8,7 +8,11 @@ org_summary: >-
   stigmas and advances opportunities so people with disabilities can fully
   participate in all aspects of community. We create tools, trainings and
   systems change to enable people with disabilities to gain skills and jobs.
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - Workforce development
+  - Mobility
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.respectability.org'

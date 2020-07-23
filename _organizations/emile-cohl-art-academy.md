@@ -7,7 +7,13 @@ org_summary: >-
   We provide a tuition-free, career-driven education in digital arts to talented
   youth. During the 3-year program, we work with studios and the creative
   industry to provide onramps to careers in the entertainment industry.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Workforce development
+  - Creative economy
+  - Education & youth
+  - Income & employment
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.cohl.art'

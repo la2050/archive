@@ -7,7 +7,12 @@ org_summary: >-
   The Meals on Wheels of San Pedro mission is to provide nutritious, affordable
   meals to those who are unable to supply it for themselves and to offer caring,
   personal interaction.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Community health
+  - Disability & aging
+  - Health
+  - Mobility
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sanpedromealsonwheels.org'

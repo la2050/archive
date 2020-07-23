@@ -7,7 +7,9 @@ org_summary: >-
   Vision: A peaceful community where youth and families thrive and grow.
   Mission: New Directions for Youth, Inc. is dedicated to providing
   comprehensive programs and services to at-risk youth and their families. 
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.ndfy.org'

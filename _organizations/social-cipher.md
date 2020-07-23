@@ -7,7 +7,11 @@ org_summary: >-
   We create role-playing video games that give autistic and other neurodivergent
   youth a safe, accessible space to understand and apply social-emotional
   skills.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Disability & aging
+  - Health
+  - Mobility
 charity_navigator_url: ''
 organization_website:
   - 'https://www.socialciphergame.com'

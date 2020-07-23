@@ -8,7 +8,12 @@ org_summary: >-
   health and wellness an accessible, inclusive, sustainable reality for all -
   regardless of income, language, gender, place of birth, body type, age, skin
   color, religious beliefs, ability, sexual orientation, etc
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Fitness & sports
+  - Workforce development
+  - Health
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.peoplesyoga.org'

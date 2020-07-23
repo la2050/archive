@@ -7,7 +7,9 @@ org_summary: >-
   Our mission is to promote the bicycle as a fun, safe, and accessible form of
   transportation, to foster healthy urban communities, and to provide a
   welcoming space to learn about building, maintaining, and riding bicycles.
-tags_indicators: []
+tags_indicators:
+  - Transportation
+  - Mobility
 charity_navigator_url: ''
 organization_website:
   - 'https://www.bicyclekitchen.org'

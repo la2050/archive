@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   Mother Jones’ mission is to deliver hard-hitting reporting that inspires
   change and combats “alternative facts.” Smart, Fearless Journalism.
-tags_indicators: []
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.motherjones.com'

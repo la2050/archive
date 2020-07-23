@@ -8,7 +8,9 @@ org_summary: >-
   resources and innovative therapy for survivors of sexual assault.  We aim to
   empower and encourage survivors that healing from the inside out is essential
   in order to thrive past sexual trauma.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.voicesbeyondassault.org'

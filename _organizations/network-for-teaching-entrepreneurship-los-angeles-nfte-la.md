@@ -7,7 +7,11 @@ org_summary: >-
   The Network for Teaching Entrepreneurship (NFTE) activates the entrepreneurial
   mindset and builds start-up skills in youth from under-resourced communities
   to ensure their success and to create a more vibrant Los Angeles.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Teaching & mentorship
+  - Income & employment
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.nfte.com/la'

@@ -8,7 +8,13 @@ org_summary: >-
   San Fernando Valley and beyond through ancestral knowledge, arts, literacy,
   and creative engagement. We provide a positive space for people to activate
   their natural capacity to create, imagine and express themselves.
-tags_indicators: []
+tags_indicators:
+  - Community gatherings
+  - Resiliency
+  - Art
+  - Social connectedness
+  - Public safety & public space
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.tiachucha.org'

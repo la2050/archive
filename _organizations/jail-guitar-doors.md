@@ -8,7 +8,11 @@ org_summary: >-
   nonprofit organization, JGD-USA provides rehabilitative songwriting workshops
   to help incarcerated individuals develop essential life skills that will
   support them both while incarcerated and when they return to their community. 
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.jailguitardoors.org'

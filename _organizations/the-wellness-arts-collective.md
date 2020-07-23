@@ -8,7 +8,9 @@ org_summary: >-
   support mental health and well-being, that is accessible to all. We aim to
   provide therapeutic space that is purposefully inclusive of the cultural &
   economic needs of  people across gender, faith, SES, and citizenship.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.thewellnessartscollective.com'

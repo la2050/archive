@@ -8,7 +8,9 @@ org_summary: >-
   engagement at the millions of events and gatherings that happen every day live
   or virtually. Through SameSide everyone has the power to impact the issues
   that matter to them most while doing the things they love.
-tags_indicators: []
+tags_indicators:
+  - Community gatherings
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.onsameside.com'

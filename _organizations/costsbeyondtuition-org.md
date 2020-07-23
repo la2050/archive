@@ -8,7 +8,11 @@ org_summary: >-
   philanthropists aspiring to make a direct impact on college student's needs.
   Our goal is to close the inequality gap and encourage college students that
   are struggling financially to continue pursuing their higher education.
-tags_indicators: []
+tags_indicators:
+  - College prep
+  - Access to capital & benefits
+  - Education & youth
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.costsbeyondtuition.org'

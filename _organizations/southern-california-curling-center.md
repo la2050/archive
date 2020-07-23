@@ -7,7 +7,9 @@ org_summary: >-
   Southern California Curling Center aims to be the premiere destination for
   curling in the United States, bringing people of all ages, abilities, and
   backgrounds to participate socially and competitively. 
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.curling.la'

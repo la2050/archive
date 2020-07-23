@@ -8,7 +8,11 @@ org_summary: >-
   inclusion for children with disabilities through the creation of inclusive
   playgrounds and programs that unite children of all abilities. Our vision is
   to foster a bias-free world for children with disabilities.
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - Access to parks & green space
+  - Mobility
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.inclusionmatters.org'

@@ -7,7 +7,11 @@ org_summary: >-
   We Support the Empowerment of Youth and other existing Charitable
   Organizations through Music and The Arts by Sponsoring Charity Concerts,
   Musicals and Events!
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Art
+  - Education & youth
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.buildabetterworldfoundation.org'

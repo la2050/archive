@@ -8,7 +8,10 @@ org_summary: >-
   entrepreneurs in Los Angeles. Our work impacts individuals who are often
   overlooked by traditional entrepreneurial ecosystems. That’s what drives us to
   make the entrepreneurial path more equitable, inclusive & accessible.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Access to capital & benefits
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.grid110.org'

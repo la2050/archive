@@ -8,7 +8,11 @@ org_summary: >-
   membership organization that brings together leaders from the region’s
   business, labor, academic and nonprofit communities to advance policy
   initiatives that responsibly grow the economy and create quality jobs.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Teaching & mentorship
+  - Income & employment
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.thelacoalition.com/'

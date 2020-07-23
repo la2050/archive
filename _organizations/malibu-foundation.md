@@ -8,7 +8,10 @@ org_summary: >
   affected by the Woolsey Fire of 2018, which inflicted extensive damage on
   Malibu and surrounding communities. We serve the full scope of communities’
   needs, from housing and job placement to wellness and environmental advocacy.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Fitness & sports
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.themalibufoundation.org'

@@ -8,7 +8,11 @@ org_summary: >-
   address health disparities in underserved populations. Efforts focus on cancer
   screening and behavioral factors, such as physical activity. Initiatives are
   culturally inclusive, yet exportable, scalable, and sustainable. 
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Access to parks & green space
+  - Health
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - >-

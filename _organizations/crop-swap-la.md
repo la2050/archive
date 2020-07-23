@@ -7,7 +7,11 @@ org_summary: >-
   Crop Swap LA is a social enterprise seeking to close the nutritional gap in
   Los Angeles by creating an infrastructure for all communities to have access
   to nutrient-rich food and the knowledge to grow it.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Workforce development
+  - Health
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.cropswapla.com'

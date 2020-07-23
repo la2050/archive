@@ -7,7 +7,9 @@ org_summary: >-
   The mission of the USC Sol Price Center for Social Innovation is to develop
   ideas and illuminate strategies to improve the quality of life for people in
   low-income, urban communities.
-tags_indicators: []
+tags_indicators:
+  - Community safety
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.socialinnovation.usc.edu/'

@@ -8,7 +8,13 @@ org_summary: >-
   County and continue creating an increasingly relevant, multidisciplinary
   performing arts center. We champion the arts for all people. We connect the
   people of LA with one another and with art that can enrich their lives.
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - Art
+  - Community gatherings
+  - Mobility
+  - Arts & cultural vitality
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.musiccenter.org'

@@ -7,7 +7,10 @@ org_summary: >-
   To create economic opportunity for entrepreneurs and small businesses in Los
   Angeles County by connecting human, technical, and capital resources through
   regional collaboration.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Access to capital & benefits
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'http://entrepreneurshipadvantage.org/'

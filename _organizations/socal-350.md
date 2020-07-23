@@ -7,7 +7,10 @@ org_summary: >-
   At SoCal 350, we envision equitable clean air and water and a stable climate
   through a fossil-fuel-free future, empowering our Southern California
   communities to join together for environmental, social, and economic justice.
-tags_indicators: []
+tags_indicators:
+  - Air & water
+  - Climate change
+  - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
   - 'https://www.socal350.org'

@@ -8,7 +8,10 @@ org_summary: >+
   rate at which low-income students access and complete college. We provide
   direct support to 150,000 students and families in Los Angeles County.  
 
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - College prep
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.socalcan.org'

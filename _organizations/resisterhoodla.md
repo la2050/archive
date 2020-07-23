@@ -8,7 +8,11 @@ org_summary: >-
   for Angelenos. In 2017, we started our annual menstrual hygiene product drive:
   FLOWVEMBER, a family-friendly, gender-inclusive community event that combines
   hands-on volunteering and homelessness advocacy education.
-tags_indicators: []
+tags_indicators:
+  - Community health
+  - Homelessness
+  - Health
+  - Housing & homelessness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.resisterhoodLA.org'

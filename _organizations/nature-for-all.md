@@ -7,7 +7,9 @@ org_summary: >-
   Nature for All’s mission is to work to build a diverse base of support for
   ensuring that everyone in the Los Angeles area —no matter where they live—has
   equitable access to the wide range of benefits that nature can provide.
-tags_indicators: []
+tags_indicators:
+  - Access to parks & green space
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://lanatureforall.org/'

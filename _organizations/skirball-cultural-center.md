@@ -8,7 +8,11 @@ org_summary: >-
   inspired by the American democratic ideals of freedom and equality. The
   Skirball welcomes all communities and generations to celebrate discovery and
   hope, foster human connections, and build a more just society. 
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Community gatherings
+  - Arts & cultural vitality
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.skirball.org'

@@ -8,7 +8,12 @@ org_summary: >-
   evidence-based yoga and meditation tools that improve physical and emotional
   health, academic potential, and overall well-being. We seek to make tools of
   yoga and meditation accessible by building them into the school day.
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Mental & emotional health
+  - Disability & aging
+  - Health
+  - Mobility
 charity_navigator_url: ''
 organization_website:
   - 'https://www.consciouskidsproject.org'

@@ -9,7 +9,10 @@ org_summary: >-
   business structure that shares the wealth a company generates with its
   workers—increasing worker agency, wages, and assets, and creating quality
   local jobs. 
-tags_indicators: []
+tags_indicators:
+  - Access to capital & benefits
+  - Entrepreneurship & innovation
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.project-equity.org'

@@ -8,7 +8,11 @@ org_summary: >-
   to experience the benefits of goal-setting, character development, adult
   mentoring and improved health by providing them with a truly life-changing
   experience: The training for and completion of the Los Angeles Marathon.
-tags_indicators: []
+tags_indicators:
+  - Voting & civic engagement
+  - Fitness & sports
+  - Social connectedness
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.srla.org'

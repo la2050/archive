@@ -8,7 +8,11 @@ org_summary: >-
   their students to stand up to bigotry and hate. Our vision is to create the
   next generation of caring and informed citizens who have the civic agency to
   transform their communities and thrive in a global society.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Voting & civic engagement
+  - Education & youth
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.facinghistory.org'

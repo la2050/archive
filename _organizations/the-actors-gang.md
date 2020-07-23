@@ -8,7 +8,11 @@ org_summary: >-
   the stage as a shared sacred space; introduce theater to children, helping
   them find their creative voices; and bring the freedom of self-expression to
   the incarcerated. 
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Art
+  - Education & youth
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.theactorsgang.com'

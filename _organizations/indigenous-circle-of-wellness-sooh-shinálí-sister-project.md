@@ -8,7 +8,11 @@ org_summary: >-
   culturally inclusive holistic healing to build healthy relationships, families
   and communities. Under ICoW, the So’oh-Shinálí Sister Project promotes
   education and wellness through programming rooted in Indigenous values.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Art
+  - Health
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.icowellness.com'

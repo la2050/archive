@@ -8,7 +8,11 @@ org_summary: >-
   with intellectual disabilities, giving them opportunities to develop physical
   fitness, demonstrate courage, experience joy and participate in sharing gifts,
   skills, and friendship with families, athletes, and community.
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - Fitness & sports
+  - Mobility
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sosc.org'

@@ -8,7 +8,11 @@ org_summary: >-
   non-traditional spaces, providing learning opportunities and engaging diverse
   communities, in the belief that the arts can change our vision of the world
   and of ourselves. 
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Community gatherings
+  - Arts & cultural vitality
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://heididuckler.org/'

@@ -8,7 +8,11 @@ org_summary: >-
   to support smart, transformative solutions to transportation, affordable
   housing, and climate change challenges. We work with advocates, community
   leaders, and elected officials to dream big and find strategies that work.
-tags_indicators: []
+tags_indicators:
+  - Affordable housing
+  - Air & water
+  - Housing & homelessness
+  - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
   - 'https://www.movela.org'

@@ -8,7 +8,11 @@ org_summary: >-
   highlights the importance of academic excellence, workforce development and
   environmental sustainability. Our work is dedicated to improving the lives of
   young people in both urban and rural neighborhoods.
-tags_indicators: []
+tags_indicators:
+  - Access to parks & green space
+  - Access to healthy food
+  - Public safety & public space
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.savingthewestfoundation.org'

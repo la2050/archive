@@ -8,7 +8,10 @@ org_summary: >-
   Academy in providing a preschool – 12th grade college preparatory education,
   diverse enrichment activities, and whole child care to underserved students
   from Central Los Angeles, regardless of zip code or income.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.pueblonuevo.org'

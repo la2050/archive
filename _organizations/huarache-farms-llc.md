@@ -8,7 +8,10 @@ org_summary: >-
   provide sustainable and local food while keeping the majority of the money in
   the local economy. In all aspects of our practice we strive for economic,
   biological, and democratic sustainability.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Community health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.huarachefarms.com'

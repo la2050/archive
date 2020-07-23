@@ -8,7 +8,9 @@ org_summary: >-
   free books by way of our Seeding Book Deserts™ One Book, One Child & One
   Community Book Box initiative. by way of our Be A Book Hero Program one book,
   one child and one community box at a time.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.theliteracyclub.org'

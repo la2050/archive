@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   The mission of Up2Us Sports is to engage, train and support sports coaches to
   transform youth, programs and communities.
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.up2ussports.org'

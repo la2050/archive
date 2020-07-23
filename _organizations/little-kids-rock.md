@@ -8,7 +8,11 @@ org_summary: >-
   music education in our schools,” Little Kids Rock (LKR) has become the
   national thought leader in the field of inclusive, culturally relevant, and
   student-centered music education.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.littlekidsrock.org/'

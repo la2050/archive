@@ -7,7 +7,10 @@ org_summary: >-
   The Neighborhood Council Sustainability Alliance (NCSA) advances
   sustainability and resilience across Los Angeles through advocacy, sharing of
   best practices, and community action.
-tags_indicators: []
+tags_indicators:
+  - Climate change
+  - Air & water
+  - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
   - 'https://www.ncsa.la'

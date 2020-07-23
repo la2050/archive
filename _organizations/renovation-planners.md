@@ -8,7 +8,11 @@ org_summary: >-
   charge of their finances by building a backyard home to rent out, while making
   their dreams of entrepreneurship and wealth building a reality, reducing their
   housing costs and providing safe and affordable housing.  
-tags_indicators: []
+tags_indicators:
+  - Affordable housing
+  - Access to capital & benefits
+  - Housing & homelessness
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.renplan.com and https://www.monicadhiggins.com'

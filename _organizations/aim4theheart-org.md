@@ -9,7 +9,11 @@ org_summary: >-
   globally, it is through the study of arts and the artist that we instill
   emotional literacy and help youth examine their purpose and relevance in
   life. 
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Mental & emotional health
+  - Arts & cultural vitality
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.aim4theheart.org'

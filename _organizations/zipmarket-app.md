@@ -7,7 +7,9 @@ org_summary: >-
   ZipMarket increases access to healthy food by enabling Delivery services for
   local Farmers Markets. We also pursue reduced Food Insecurity and Food Waste
   by helping facilitate donations to Food Banks and More.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.zipmarket.app'

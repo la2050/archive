@@ -8,7 +8,11 @@ org_summary: >-
   and difference. We bring communities together in immersive spaces called
   Portals to talk and collaborate as if in the same room to highlight our shared
   humanity and provide a source of creativity, positivity, and strength.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Community gatherings
+  - Arts & cultural vitality
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sharedstudios.com'

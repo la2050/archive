@@ -6,7 +6,11 @@ org_type: Nonprofit
 org_summary: >-
   Through events, gathering (virtual and real life) we teach and model healthy
   masculinity via intention, awareness and integrity. 
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Community gatherings
+  - Health
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.camplostboys.org'

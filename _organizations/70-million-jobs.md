@@ -8,7 +8,10 @@ org_summary: >-
   people with criminal backgrounds. Our marketplace enables employers to access
   the 1-in-3 Americans in the job market who have some kind of criminal record.
   We operate a highly successful job board & a staffing/recruiting firm.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Access to capital & benefits
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.70millionjobs.com'

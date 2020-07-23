@@ -7,7 +7,10 @@ org_summary: >-
   The mission of Safe Place for Youth is to inspire, nurture, and empower the
   resilient human spirit of homeless and at-risk youth by providing immediate
   and lasting solutions, one young person at a time. 
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Affordable housing
+  - Housing & homelessness
 charity_navigator_url: ''
 organization_website:
   - 'http://www.safeplaceforyouth.org/'

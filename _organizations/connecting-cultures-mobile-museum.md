@@ -8,7 +8,9 @@ org_summary: >-
   respect for cultural diversity by exploring global arts and artifacts. CCMM’s
   pop-up cultural museum brings “the world” to middle school students and their
   families, highlighting the universality of the human experience.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.connectingcultures.us'

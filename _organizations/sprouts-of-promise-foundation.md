@@ -8,7 +8,10 @@ org_summary: >-
   County to: connect food-insecure individuals with locally grown produce,
   educate children and families on the necessity of fresh fruits and vegetables
   for human health, and advocate on behalf of farmers’ markets. 
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Community health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sproutsofpromise.org'

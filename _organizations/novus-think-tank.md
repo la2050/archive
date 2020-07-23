@@ -8,7 +8,11 @@ org_summary: >-
   nurturing self-agency in future leaders by providing them a space to foster
   their passions and goals. We seek to marry ideation to action, through
   projects that are dedicated to producing progress in systemic social issues.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Affordable housing
+  - Health
+  - Housing & homelessness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.novusthinktank.org'

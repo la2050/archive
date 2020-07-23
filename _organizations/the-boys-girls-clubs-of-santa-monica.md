@@ -7,7 +7,9 @@ org_summary: >-
   The Boys & Girls Clubs of Santa Monica’s (BGCSM) mission is to enable all
   young people, especially those who need us most, to reach their full potential
   as productive, caring, responsible citizens.  
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.smbgc.org'

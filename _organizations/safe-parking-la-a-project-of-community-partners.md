@@ -8,7 +8,9 @@ org_summary: >-
   are homeless and living in their vehicles by providing them with a safe place
   to park at night and connecting them with the supportive services and
   community programs they need to thrive.
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Housing & homelessness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.safeparkingla.org'

@@ -8,7 +8,9 @@ org_summary: >-
   poverty. In 2010, we launched No Kid Hungry, a national campaign to end
   childhood hunger in America to ensure kids have access to meals where they
   live, learn, and play. Today, 1/3 fewer kids are struggling with hunger. 
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.nokidhungry.org'

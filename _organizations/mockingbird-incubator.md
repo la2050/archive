@@ -7,7 +7,11 @@ org_summary: >-
   Mockingbird Incubator is a nonprofit organization based in Los Angeles that
   supports and trains early-stage and grassroots nonprofit organizations to
   increase the impact of their work.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Voting & civic engagement
+  - Income & employment
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.mockingbirdincubator.org'

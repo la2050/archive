@@ -8,7 +8,11 @@ org_summary: >-
   youth living in Los Angeles achieve their full potential by participating in
   innovative, effective programs that facilitate and support positive youth
   development.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Mental & emotional health
+  - Education & youth
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.jbbbsla.org'

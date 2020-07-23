@@ -8,7 +8,9 @@ org_summary: >-
   Angeles teen girls within a community of women writers. Since 2001,
   WriteGirl’s creative writing and mentoring programs have provided a platform
   to uplift the voices of underrepresented youth.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.writegirl.org'

@@ -8,7 +8,11 @@ org_summary: >
   community-driven solution to climate and food justice issues. We support a
   healthy transition where food is never wasted, but returned to the soil for
   the next cycle of life. 
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Climate change
+  - Health
+  - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lacompost.org'

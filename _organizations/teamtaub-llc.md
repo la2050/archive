@@ -7,7 +7,9 @@ org_summary: >-
   To educate the LA population on how to pay household worker/nanny tax and
   thereby making a real step toward bridging cultural divide through fair pay
   and increasing the number of people who are following this law.
-tags_indicators: []
+tags_indicators:
+  - Access to capital & benefits
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'http://www.teamtaub.com'

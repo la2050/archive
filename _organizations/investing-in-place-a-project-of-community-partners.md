@@ -7,7 +7,13 @@ org_summary: >-
   We use research, advocacy, and capacity-building to align policies and public
   dollars to support transportation investments that strengthen the Los Angeles
   region.
-tags_indicators: []
+tags_indicators:
+  - Transportation
+  - Voting & civic engagement
+  - Air & water
+  - Mobility
+  - Social connectedness
+  - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
   - 'https://investinginplace.org'

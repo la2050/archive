@@ -8,7 +8,13 @@ org_summary: >-
   voices. Our space, publication, podcast, and other ventures exist via
   principles of collective organizing, diverse empathy and anti-oppression. We
   hope to create a softer and more empathetic world.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Workforce development
+  - Creative economy
+  - Education & youth
+  - Income & employment
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.juniorhighla.com'

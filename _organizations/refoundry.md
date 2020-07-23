@@ -7,7 +7,10 @@ org_summary: >-
   Refoundry's mission is to provide formerly incarcerated people with skills and
   opportunities to achieve financial independence and become leaders and job
   creators in our communities.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Workforce development
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.refoundry.org'

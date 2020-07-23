@@ -8,7 +8,11 @@ org_summary: >-
   care to families and individuals who might otherwise go without the care they
   need. We envision a future where people have equitable access to health
   resources, regardless of income, insurance, or housing status.
-tags_indicators: []
+tags_indicators:
+  - Community health
+  - Voting & civic engagement
+  - Health
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://venicefamilyclinic.org'

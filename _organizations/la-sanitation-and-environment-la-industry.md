@@ -8,7 +8,11 @@ org_summary: >-
   environment through three program areas: Clean Water, Solid Resources, and
   Watershed Protection. LA Industry is a pollution prevention team in LASAN that
   aids economic development and business continuity in the LA region.
-tags_indicators: []
+tags_indicators:
+  - Climate change
+  - Entrepreneurship & innovation
+  - Environmental quality & sustainability
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lacitysan.org/laindustry'

@@ -8,7 +8,11 @@ org_summary: >-
   industry where they otherwise wouldn't be able to. And to use that platform to
   educate the film industry, and other industries, about the power of
   accessibility and diversity.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Disability & aging
+  - Income & employment
+  - Mobility
 charity_navigator_url: ''
 organization_website:
   - 'https://www.warehousetv.com'

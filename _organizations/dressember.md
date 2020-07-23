@@ -8,7 +8,9 @@ org_summary: >-
   creativity to raise awareness and fundraise for programs fighting human
   trafficking. Our mission is to equip a community of people to advocate for the
   dignity of all people, leading to the protection and freedom of millions.
-tags_indicators: []
+tags_indicators:
+  - Volunteerism
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.dressember.org'

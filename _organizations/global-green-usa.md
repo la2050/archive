@@ -7,7 +7,11 @@ org_summary: >-
   Global Green leads an international effort to create green cities,
   neighborhoods, and businesses that promote environmental health and justice,
   improve livability and support our planet's natural systems. 
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Climate change
+  - Health
+  - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
   - 'https://www.globalgreen.org/'

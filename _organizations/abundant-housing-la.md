@@ -8,7 +8,11 @@ org_summary: >-
   affordability, livability, and sustainability benefits of more housing. We
   want lower rents and a more sustainable and prosperous region, where everyone
   has more choices of where to live and how to pursue their dreams.
-tags_indicators: []
+tags_indicators:
+  - Affordable housing
+  - Voting & civic engagement
+  - Housing & homelessness
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.abundanthousingla.org'

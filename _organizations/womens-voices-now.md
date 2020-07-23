@@ -8,7 +8,10 @@ org_summary: >-
   struggles and triumphs of women and girls seeking full access to their rights.
   We promote, produce, and share social-change films, activating civil society
   by moving audiences from empathy to action.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Creative economy
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.https://www.womensvoicesnow.org/'

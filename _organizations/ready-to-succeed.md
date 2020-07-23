@@ -7,7 +7,9 @@ org_summary: >-
   At Ready to Succeed (RTS), our mission is to support and empower youth
   impacted by foster care with the resources, relationships, and opportunities
   they need to launch successful careers and lead meaningful lives. 
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.readytosucceedla.org/'

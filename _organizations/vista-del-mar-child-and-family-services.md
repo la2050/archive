@@ -7,7 +7,10 @@ org_summary: >-
   Vista Del Mar provides comprehensive, family-centered social, educational, and
   behavioral health services, which encourage children, adolescents and their
   families to lead self-reliant, stable, and productive lives.
-tags_indicators: []
+tags_indicators:
+  - Community health
+  - Mental & emotional health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.vistadelmar.org'

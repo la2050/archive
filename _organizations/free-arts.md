@@ -8,7 +8,13 @@ org_summary: >-
   Los Angeles ages 5-18 who have experienced abuse, neglect, poverty, and
   homelessness. Free Arts serves more than 22,000 children in Los Angeles each
   year. 
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Mental & emotional health
+  - Art
+  - Education & youth
+  - Health
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.freearts.org'

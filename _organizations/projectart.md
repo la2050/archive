@@ -8,7 +8,11 @@ org_summary: >-
   public libraries. Resident artists teach free after school art classes to
   youth in divested areas while developing artwork in libraries. With a scalable
   model, we effectively address the lack of art in LA public schools.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.projectart.org'

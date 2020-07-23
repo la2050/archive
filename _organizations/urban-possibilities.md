@@ -7,7 +7,11 @@ org_summary: >-
   Empower homeless job seekers with tools to move from survival to
   self-actualization - improving families, workplaces and our communities as a
   result. 
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Workforce development
+  - Housing & homelessness
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.urbanpossibilities.org'

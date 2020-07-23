@@ -8,7 +8,11 @@ org_summary: >-
   and critical thinking through artistic experience.  We serve a
   socioeconomically diverse student body. Research shows that arts education
   increases high school graduation rates and college matriculation. 
-tags_indicators: []
+tags_indicators:
+  - College prep
+  - Art
+  - Education & youth
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.champscharter.org'

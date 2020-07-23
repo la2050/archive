@@ -8,7 +8,10 @@ org_summary: >-
   that advances policy solutions to achieve environmental justice. We unite the
   local powerful organizing of our members in low-income communities of color to
   create comprehensive opportunities for change at a statewide level.
-tags_indicators: []
+tags_indicators:
+  - Climate change
+  - Air & water
+  - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
   - 'https://regeneratecalifornia.org'

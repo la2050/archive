@@ -9,7 +9,11 @@ org_summary: >-
   relationships between the community and the police officers who serve them. We
   support officer-led holistic youth outreach programs that mentor and uplift
   kids.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - Fitness & sports
+  - Education & youth
+  - Health
 charity_navigator_url: ''
 organization_website:
   - >-

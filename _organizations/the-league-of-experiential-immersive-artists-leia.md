@@ -8,7 +8,11 @@ org_summary: >-
   & experiential arts through collaboration, education, and advocacy on behalf
   of creators & producers. They are organizing that community in LA: ​providing
   ​professional education and lobbying efforts on behalf of creators.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Community gatherings
+  - Arts & cultural vitality
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'http://www.leia.design/'

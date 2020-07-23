@@ -8,7 +8,11 @@ org_summary: >-
   promote academic growth and character-building. We provide equitable access by
   offering weekly music class as part of the school day to every student
   regardless of income, background, or ability and at no cost. 
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Art
+  - Education & youth
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.etmla.org'

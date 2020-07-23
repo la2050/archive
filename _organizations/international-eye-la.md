@@ -8,7 +8,11 @@ org_summary: >-
   humanities. It creates opportunities for those whose creative voices have been
   muted in mainstream channels, and facilitates equitable distribution of
   resources, regardless of social markers that create socioeconomic divisions.
-tags_indicators: []
+tags_indicators:
+  - Community gatherings
+  - Art
+  - Social connectedness
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.internationalEyeLA.org'

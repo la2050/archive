@@ -8,7 +8,9 @@ org_summary: >-
   (ages 11 to 24) through mentoring during school accredited courses, and
   after-school programs. We encourage positive self-identity, independence
   skills, gang prevention, economic literacy, and promoting community safety.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sambam.us'

@@ -7,7 +7,11 @@ org_summary: >-
   The Neighborhood Music School inspires minds and enriches our community
   through music education. We have served as a bellwether for arts equity and
   community engagement in eastern Los Angeles for 106 years.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.neighborhoodmusic.org'

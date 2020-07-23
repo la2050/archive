@@ -8,7 +8,11 @@ org_summary: >-
   security and cloud hosting. Our mission is to enable direct and productive
   conversation between city officials and residents. We do so by creating tools
   that bridge the communication gap between cities and their residents. 
-tags_indicators: []
+tags_indicators:
+  - Voting & civic engagement
+  - Entrepreneurship & innovation
+  - Social connectedness
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.civy.co'

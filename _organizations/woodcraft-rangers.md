@@ -8,7 +8,13 @@ org_summary: >-
   pathways to purposeful lives. We provide children and youth from some of LA’s
   lowest-income neighborhoods with after-school enrichment programs, summer
   camps, and workforce development programs that are free or very low-cost. 
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Access to parks & green space
+  - STEM & Digital literacy
+  - Health
+  - Public safety & public space
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.woodcraftrangers.org'

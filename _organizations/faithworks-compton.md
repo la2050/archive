@@ -8,7 +8,10 @@ org_summary: >-
   support to the City of Compton. We strengthen economic development, restore
   neighborhoods and foster opportunities that will enhance the overall quality
   of life for the community.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://algorithmandflow.org/'

@@ -8,7 +8,11 @@ org_summary: >-
   adversity.                                           To empower all students
   to appreciate differences, build genuine
   friendships                                      and stand up to bullying.  
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - Mental & emotional health
+  - Mobility
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.circleofriends.org'

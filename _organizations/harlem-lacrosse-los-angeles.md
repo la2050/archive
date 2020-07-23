@@ -9,7 +9,11 @@ org_summary: >-
   development organization that provides opportunities, relationships and
   experiences that put youth on a path to success as athletes, students, and
   citizens.
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Teaching & mentorship
+  - Health
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.harlemlacrosse.org'

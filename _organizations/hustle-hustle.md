@@ -7,7 +7,9 @@ org_summary: >-
   Reach Los Angeles's mission is to strengthen LA's only local advertising
   network to help stabilize a our fragile publishing ecosystem by diversifying
   funding sources.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.losangeleno.com'

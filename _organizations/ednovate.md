@@ -8,7 +8,10 @@ org_summary: >-
   degrees and careers to make a Positive Multigenerational Change. Our students
   have a 100% college acceptance rate and are graduating as self-aware, engaged
   young adults who are headed toward a life of purpose and impact.
-tags_indicators: []
+tags_indicators:
+  - College prep
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.ednovate.org/'

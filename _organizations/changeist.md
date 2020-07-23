@@ -8,7 +8,11 @@ org_summary: >-
   utilize their personal agency to create a more just society. We're fostering
   young people's sociopolitical empowerment and growing their social capital, so
   that they may have the tools they need to make the world a better place
-tags_indicators: []
+tags_indicators:
+  - Voting & civic engagement
+  - Teaching & mentorship
+  - Social connectedness
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://changeist.org'

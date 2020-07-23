@@ -8,7 +8,9 @@ org_summary: >
   like-minded & like-hearted women in an effort to EDUCATE & embrace the concept
   that overall health is more than just a fitness goal -- it’s about community &
   how to encourage one another toward a greater quality of life.  
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.EverythingWellness.com'

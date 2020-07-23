@@ -8,7 +8,11 @@ org_summary: >-
   Greater San Fernando Valley (SFV) communities as we serve, support, and engage
   primarily those age 60+ through unity and faith in action. ViC enriches lives
   and strengthens our diverse Los Angeles communities.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Disability & aging
+  - Health
+  - Mobility
 charity_navigator_url: ''
 organization_website:
   - 'https://www.vic-la.org'

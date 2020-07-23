@@ -6,7 +6,11 @@ org_type: Nonprofit
 org_summary: >-
   elePlate’s mission is to provide healthy food to people in need by empowering
   organizations to close the gap between sustainability and financial strength.
-tags_indicators: []
+tags_indicators:
+  - Climate change
+  - Access to healthy food
+  - Environmental quality & sustainability
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.eleplate.org'

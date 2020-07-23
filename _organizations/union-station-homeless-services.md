@@ -8,7 +8,11 @@ org_summary: >-
   call home, Union Station Homeless Services’ mission is to help individuals and
   families rebuild their lives and end homelessness across the San Gabriel
   Valley. 
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Homelessness
+  - Health
+  - Housing & homelessness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.unionstationhs.org'

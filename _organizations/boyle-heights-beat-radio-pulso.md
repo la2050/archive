@@ -8,7 +8,11 @@ org_summary: >-
   offering news “por y para la comunidad." The bi-lingual paper, its companion
   website, podcast and social media presence serve as important news sources in
   a low-income, largely immigrant community.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.boyleheightsbeat.com'

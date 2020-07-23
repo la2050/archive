@@ -6,7 +6,11 @@ org_type: Nonprofit
 org_summary: >-
   Our mission is to be a catalyst that inspires, connects, and mobilizes people
   towards personal and community transformation.  
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Workforce development
+  - Housing & homelessness
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.kcbellflower.org'

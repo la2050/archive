@@ -9,7 +9,10 @@ org_summary: >-
   privilege, for all, and we are committed to expanding access to
   services/training to individuals and organizations, regardless of
   socioeconomic status.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Community health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.cleanslate-la.org/'

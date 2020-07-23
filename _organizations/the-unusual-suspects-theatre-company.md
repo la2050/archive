@@ -8,7 +8,11 @@ org_summary: >-
   educate, and enrich underserved youth through the creation of collaborative,
   original theatre. Our mission powers our vision of a world in which all youth
   are given the opportunities and support they need to succeed.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Art
+  - Education & youth
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.theunusualsuspects.org'

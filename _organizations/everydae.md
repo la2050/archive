@@ -8,7 +8,10 @@ org_summary: >-
   there. That’s why we’ve built a digital tutor that’s affordable and fun. It’s
   a game changer for the 85% of families who simply can’t afford traditional
   tutoring.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - College prep
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.everydae.com'

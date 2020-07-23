@@ -7,7 +7,11 @@ org_summary: >-
   The mission of the Hollywood Food Coalition is to feed and serve the immediate
   needs of the hungry every night of the year so they can build better lives. 
   Our vision is a city where everyone has food, community and support.  
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Access to healthy food
+  - Housing & homelessness
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.hofoco.org'

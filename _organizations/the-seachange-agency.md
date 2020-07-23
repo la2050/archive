@@ -8,7 +8,11 @@ org_summary: >-
   species, as they indicate the health of the ocean. Through education & cleanup
   activities, we work to reduce water pollution & save our ocean. We believe
   that if we save the ocean, we save the world, & we save ourselves.
-tags_indicators: []
+tags_indicators:
+  - Air & water
+  - Teaching & mentorship
+  - Environmental quality & sustainability
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.theseachangeagency.org'

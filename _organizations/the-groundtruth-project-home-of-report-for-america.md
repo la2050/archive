@@ -8,7 +8,9 @@ org_summary: >-
   journalists with local newsrooms from California to Connecticut for 1-2 years
   of service, reporting on under-covered challenges such as health, inequality,
   education, criminal justice, environment, and more. 
-tags_indicators: []
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'http://www.reportforamerica.org'

@@ -8,7 +8,13 @@ org_summary: >-
   champion a more inclusive music industry. Our vision is for all youth to learn
   how to leverage their creative passions to secure future employment, avert
   poverty, and achieve livelong professional fulfillment.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Workforce development
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Income & employment
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.hobmusicforward.org'

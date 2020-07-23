@@ -7,7 +7,9 @@ org_summary: >-
   Version One App Accelerator empowers entrepreneurs and small businesses to
   launch their mobile app technology without requiring them to have any software
   engineering skills.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'http://v1accelerator.com/'

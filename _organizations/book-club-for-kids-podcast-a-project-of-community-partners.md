@@ -8,7 +8,9 @@ org_summary: >-
   school kids, designed to turn reluctant readers into lifelong book lovers.
   Each show features a group of young readers who discuss a novel, interview the
   author, and hear a celebrity read an excerpt from the book.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.bookclubforkids.org'

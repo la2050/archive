@@ -8,7 +8,11 @@ org_summary: >-
   support and essential employment and housing resources. We provide practical
   training, an environment that promotes accountability, and a community that
   offers compassion and hope.
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Workforce development
+  - Housing & homelessness
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://backonmyfeet.org'

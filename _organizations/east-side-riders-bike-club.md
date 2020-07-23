@@ -7,7 +7,11 @@ org_summary: >-
   East Side Riders Bike Club’s mission is to improve Watts through community
   service, charity work, and bike programs aimed at keeping local youth out of
   gang and drug activity.
-tags_indicators: []
+tags_indicators:
+  - Transportation
+  - Fitness & sports
+  - Mobility
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.esrbc.org'

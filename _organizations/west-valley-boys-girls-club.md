@@ -7,7 +7,10 @@ org_summary: >-
   The mission of the West Valley Boys & Girls Club is to enable all young
   people, especially those who need us most, to reach their full potential as
   productive, caring, responsible adults. 
-tags_indicators: []
+tags_indicators:
+  - College prep
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.wvbgc.org'

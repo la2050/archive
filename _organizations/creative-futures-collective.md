@@ -7,7 +7,13 @@ org_summary: >-
   Our mission is to break cycles of systemic inequality by providing
   opportunity, education and support to those that haven't traditionally had
   access to them.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Workforce development
+  - Creative economy
+  - Education & youth
+  - Income & employment
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.creativefuturescollective.com'

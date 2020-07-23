@@ -7,7 +7,11 @@ org_summary: >-
   The mission of POPS the Club is to create a safe, empowering space within high
   schools for the children and other loved ones of the incarcerated. POPS
   transforms stigma and shame into hope and dignity. 
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Teaching & mentorship
+  - Health
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://popsclubs.org'

@@ -9,7 +9,11 @@ org_summary: >-
   empowerment and self sufficiency, growth and positive coping in order to
   enable children to succeed in their family, community, school and life
   choices. 
-tags_indicators: []
+tags_indicators:
+  - Access to parks & green space
+  - Mental & emotional health
+  - Public safety & public space
+  - Health
 charity_navigator_url: ''
 organization_website:
   - >-

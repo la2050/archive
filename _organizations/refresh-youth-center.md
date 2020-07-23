@@ -8,7 +8,9 @@ org_summary: >-
   relationships with students who face challenges that hinder progression, by
   offering structure, dedication, discipline, and motivation, leading into a
   sustainable future, promoting entrepreneurial molding & community engagement. 
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.refreshyouthcenter.org'

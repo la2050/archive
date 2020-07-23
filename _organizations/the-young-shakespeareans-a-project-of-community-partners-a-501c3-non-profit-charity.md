@@ -10,7 +10,11 @@ org_summary: >-
   challenging, and formative learning experiences in LA’s Title 1 elementary and
   middle schools, and to promote exposure and high expectations regardless of
   students’ ethnicity, origin, or income level.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.theyoungshakespeareans.com/'

@@ -8,7 +8,9 @@ org_summary: >-
   high-potential first-generation students get in, stay in, and graduate from a
   four-year college. We do this by providing academic support, mentoring, and
   exposure to a broader world. 
-tags_indicators: []
+tags_indicators:
+  - College prep
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.operationjumpstart.org'

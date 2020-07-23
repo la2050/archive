@@ -7,7 +7,13 @@ org_summary: >-
   New Horizons' mission is to empower individuals with disabilities to reach
   their full potential.  Together we’re building an inclusive world that
   celebrates strengths, respects abilities, and embraces diversity.
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - Teaching & mentorship
+  - Workforce development
+  - Mobility
+  - Education & youth
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.newhorizons-sfv.org'

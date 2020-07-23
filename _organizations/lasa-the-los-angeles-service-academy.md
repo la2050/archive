@@ -8,7 +8,11 @@ org_summary: >-
   both the LA of today and of tomorrow. By fostering deeper understandings of
   and connections with LA's infrastructure and leaders, LASA students use their
   experiences and observations to plan our community's future.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Voting & civic engagement
+  - Education & youth
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'http://laserviceacademy.org'

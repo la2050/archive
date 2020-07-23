@@ -8,7 +8,10 @@ org_summary: >-
   with integrated support services for young women, especially those for whom
   the challenging circumstances of their lives have led to previous school
   failure and alienation.
-tags_indicators: []
+tags_indicators:
+  - College prep
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://newvillagegirlsacademy.org/'

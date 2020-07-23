@@ -8,7 +8,11 @@ org_summary: >-
   of Los Angeles and California by empowering public school parents and students
   with a seat at the table to challenge laws or policies that systemically don't
   put kids first. 
-tags_indicators: []
+tags_indicators:
+  - Voting & civic engagement
+  - Teaching & mentorship
+  - Social connectedness
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - >-

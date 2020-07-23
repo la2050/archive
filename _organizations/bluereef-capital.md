@@ -8,7 +8,9 @@ org_summary: >-
   quality financial advice and access to financial products primarily in
   Hispanic communities in the LA area. We want to help our communities through
   financial guidance and safety, which is now more important than ever. 
-tags_indicators: []
+tags_indicators:
+  - Access to capital & benefits
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.bluereefcapital.com/'

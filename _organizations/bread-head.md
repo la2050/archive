@@ -8,7 +8,13 @@ org_summary: >-
   insecurity with food literacy, life skills, and positive relationships.  With
   our intentional community, we hope to inspire personal growth, independence,
   and balanced living.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Access to healthy food
+  - Workforce development
+  - Education & youth
+  - Health
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'http://www.breadhead.org/'

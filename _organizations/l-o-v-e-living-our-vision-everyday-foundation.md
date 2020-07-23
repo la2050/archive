@@ -12,7 +12,11 @@ org_summary: >-
   adolescents, and young adults in Los Angeles through educational mentorship
   and support services to heal the mind, body, and spirit, empowering youth to
   be self-sufficient and innovative leaders.
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Mental & emotional health
+  - Housing & homelessness
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lovefoundation.net'

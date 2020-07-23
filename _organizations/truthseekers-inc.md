@@ -7,7 +7,9 @@ org_summary: |-
   To utilize radio and television broadcasting operations to
   encourage and provide outlets for the creative skills and energies of the
   community.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://truthseekersinc.org'

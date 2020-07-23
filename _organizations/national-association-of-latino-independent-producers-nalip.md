@@ -8,7 +8,11 @@ org_summary: >-
   discover, promote and inspire content creators and diverse voices across all
   media platforms. NALIP serves the needs of  creatives including, producers,
   performers, writers, directors, and industry professionals. 
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Art
+  - Income & employment
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.nalip'

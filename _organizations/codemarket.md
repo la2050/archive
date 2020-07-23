@@ -7,7 +7,10 @@ org_summary: >-
   The mission of Codemarket is to build thriving local communities by empowering
   people and businesses with the technology, knowledge and innovation to reach
   their career and business goals.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Access to capital & benefits
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.codemarket.io'

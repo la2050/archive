@@ -8,7 +8,11 @@ org_summary: >-
   Islander families through culturally responsive programs. KFAM is a family
   resource center wholly dedicated to the safety and wellness, especially
   at-risk children and adults experiencing trauma or acculturation stress. 
-tags_indicators: []
+tags_indicators:
+  - Volunteerism
+  - Mental & emotional health
+  - Social connectedness
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.kfamla.org'

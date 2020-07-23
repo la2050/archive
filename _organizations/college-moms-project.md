@@ -8,7 +8,9 @@ org_summary: >-
   mission of the College Moms Project is to ensure that teen mothers finish high
   school and graduate from college at the same rates as non-parenting women,
   which is nearly 40%. 
-tags_indicators: []
+tags_indicators:
+  - College prep
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.CollegeMomsProject.org'

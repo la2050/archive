@@ -8,7 +8,9 @@ org_summary: >-
   affected by Alzheimer’s and dementia by increasing awareness; delivering
   effective programs and services; providing compassionate support; and
   advocating for quality care and a cure.
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - Mobility
 charity_navigator_url: ''
 organization_website:
   - 'https://www.alzheimersla.org'

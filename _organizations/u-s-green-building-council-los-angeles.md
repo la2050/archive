@@ -8,7 +8,10 @@ org_summary: >-
   professionals & advocates--work to create a more sustainable, healthy &
   resilient built environment for all through education, innovation & impactful
   action, imparting the what AND why…because business as usual is not an option.
-tags_indicators: []
+tags_indicators:
+  - Air & water
+  - Climate change
+  - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
   - 'https://usgbc-la.org/'

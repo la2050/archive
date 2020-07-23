@@ -7,7 +7,9 @@ org_summary: >-
   The Heart Touch Project is a nonprofit educational organization dedicated to
   the training and delivery of compassionate and healing touch to homebound or
   hospitalized men, women, and children. 
-tags_indicators: []
+tags_indicators:
+  - Community health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.hearttouch.org'

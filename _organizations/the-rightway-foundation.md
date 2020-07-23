@@ -8,7 +8,11 @@ org_summary: >-
   jobs despite the overwhelming trauma they have endured throughout their lives.
   We partner with foster youth to build a healthy, self-sufficient life,
   grounded in mental health treatment and solidified through employment.  
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Mental & emotional health
+  - Income & employment
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.therightwayfoundation.org'

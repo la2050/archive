@@ -6,7 +6,10 @@ org_type: Nonprofit
 org_summary: >-
   We are STEM professionals transforming classrooms by teaching in high needs
   classrooms.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.encorps.org'

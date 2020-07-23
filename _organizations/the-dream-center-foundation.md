@@ -8,7 +8,10 @@ org_summary: >-
   community of support by funding free human services that address immediate and
   long-term needs in the areas of homelessness, hunger, poverty, addiction,
   domestic violence, human trafficking, and educational opportunity.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Community health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.dreamcenter.org/relief/'

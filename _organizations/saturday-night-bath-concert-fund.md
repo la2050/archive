@@ -8,7 +8,11 @@ org_summary: >-
   Jazz and Blues.  Our mission is to write and perform music-and to educate,
   improve and impact the lives.  We encourage our audiences to finish high
   school, and to seek, study and enjoy music throughout their lives.   
-tags_indicators: []
+tags_indicators:
+  - Community gatherings
+  - Art
+  - Social connectedness
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.Saturdaynightbath.org'

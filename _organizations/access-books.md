@@ -8,7 +8,11 @@ org_summary: >-
   underserved children in Los Angeles by providing low income neighborhoods with
   a warm and welcoming school or community library. In this process, different
   communities work together around the love of books. 
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Community gatherings
+  - Education & youth
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.accessbooks.net'

@@ -8,7 +8,11 @@ org_summary: >-
   underserved youth  and continual professional development for educators. By
   providing exceptional courses, we encourage students and educators to promote
   educational equity and evoke social change in their own communities. 
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Art
+  - Education & youth
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.GlobalArtsCo.org'

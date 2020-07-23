@@ -8,7 +8,13 @@ org_summary: >-
   that has developed itself as a media authority for sustainable urban
   agricultural living.  Our one-of-a-kind model has been featured by premiere
   publications and media outlets around the world.
-tags_indicators: []
+tags_indicators:
+  - Voting & civic engagement
+  - Climate change
+  - Resiliency
+  - Social connectedness
+  - Environmental quality & sustainability
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'http://urbanhomestead.org/'

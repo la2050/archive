@@ -8,7 +8,11 @@ org_summary: >-
   a 501(c)(3) organization that exists for the sole purpose of strengthening the
   community support and investment that has lifted Alliance schools and scholars
   since the charter network’s inception.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Mental & emotional health
+  - Education & youth
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://laalliancefoundation.org'

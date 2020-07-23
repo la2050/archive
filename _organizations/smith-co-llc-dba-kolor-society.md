@@ -6,7 +6,10 @@ org_type: For profit business
 org_summary: >
   To provide a rebirth of the community experience that fosters lifelong
   relationships and learning.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Workforce development
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://wwwwww.kolorsociety.com'

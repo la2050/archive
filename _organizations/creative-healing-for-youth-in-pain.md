@@ -8,7 +8,11 @@ org_summary: >-
   chronic pain and their parents/caregivers, providing resources online to
   reduce barriers like cost and location. chyp encourages creative healing and
   social support to strengthen the mind/body connection and increase function. 
-tags_indicators: []
+tags_indicators:
+  - Community health
+  - Teaching & mentorship
+  - Health
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.mychyp.org'

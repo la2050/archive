@@ -6,7 +6,13 @@ org_type: Nonprofit
 org_summary: >-
   Overcoming underemployment through digital skills and peer connections for
   underrepresented, first generation college graduates.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Creative economy
+  - Workforce development
+  - Education & youth
+  - Arts & cultural vitality
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.coopcareers.org'

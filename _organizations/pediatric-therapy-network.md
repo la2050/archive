@@ -8,7 +8,11 @@ org_summary: >-
   reach full capabilities through innovative therapy, research and education
   programs. Our goal is to establish a solid foundation for each child’s growth
   and development by enhancing functional abilities and independence.
-tags_indicators: []
+tags_indicators:
+  - Early childhood
+  - Mental & emotional health
+  - Education & youth
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.pediatrictherapynetwork.org'

@@ -8,7 +8,10 @@ org_summary: >-
   education in an all-girls environment - fostering academic excellence,
   leadership, and intellectual curiosity.  This kind of education is crucial
   given that women and minorities are underrepresented in STEM-related fields.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - STEM & Digital literacy
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.GALAcademy.org'

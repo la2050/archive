@@ -8,7 +8,13 @@ org_summary: >-
   special needs, their families, volunteers, and eventually society. We support
   families who have children with special needs with the belief that every
   person is precious and capable of love, connection, and friendship. 
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Disability & aging
+  - Teaching & mentorship
+  - Health
+  - Mobility
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.friendshipfoundation.com'

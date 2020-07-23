@@ -7,7 +7,9 @@ org_summary: >-
   The Altadena Library District is dedicated to bringing people and ideas
   together for an Altadena where all are learning, growing, and thriving
   together.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.altadenalibrary.org'

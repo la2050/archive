@@ -7,7 +7,11 @@ org_summary: >-
   Social and Emotional Wellness Initiative’s (SEWI) mission is to enhance the
   quality of life for youth and families by educating, motivating, and providing
   prevention programs through social and emotional wellness services.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Mental & emotional health
+  - Education & youth
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sewi.org'

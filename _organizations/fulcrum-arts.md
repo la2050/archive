@@ -8,7 +8,11 @@ org_summary: >-
   in the potential of urban youth to understand and define their sense of place
   and community. Through a design-based learning model, students become active
   participants and change agents to transform their own communities.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Art
+  - Education & youth
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.fulcrumarts.org/emerge/big-city-forum/'

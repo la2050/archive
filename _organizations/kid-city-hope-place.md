@@ -7,7 +7,11 @@ org_summary: >-
   At Kid City our mission is to increase access to opportunities where young
   people explore their intellectual curiosity and capacity, claim their
   education, and advocate for themselves and their communities.
-tags_indicators: []
+tags_indicators:
+  - Community gatherings
+  - Art
+  - Social connectedness
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.kidcityhopeplace.org'

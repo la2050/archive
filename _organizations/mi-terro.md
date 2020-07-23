@@ -6,7 +6,11 @@ org_type: For profit business
 org_summary: >-
   We are a new material technology company that turns food waste into
   sustainable fibers that can apply to apparel, bed linen, and packaging.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Air & water
+  - Income & employment
+  - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
   - 'https://www.miterro.com'

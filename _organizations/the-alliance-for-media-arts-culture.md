@@ -8,7 +8,13 @@ org_summary: >
   and cultural impact for the media arts field. The Alliance is a network of
   networks; we embolden creative media organizations + artists and connect them
   with the world.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Creative economy
+  - Workforce development
+  - Education & youth
+  - Arts & cultural vitality
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.thealliance.media'

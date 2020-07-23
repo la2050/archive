@@ -7,7 +7,11 @@ org_summary: >-
   Our mission is to provide every student in Los Angeles County with access to
   innovative music education through mobile music technology, education and
   storytelling.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'http://webelieveinmusic.com/'

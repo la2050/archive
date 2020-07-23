@@ -8,7 +8,10 @@ org_summary: >-
   society where economic benefits/opportunities are equitably distributed, where
   communities are stable, and where workers and tenants have the same rights,
   stature, and decision-making power as corporations/property owners.
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Affordable housing
+  - Housing & homelessness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.saje.net'

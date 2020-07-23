@@ -8,7 +8,9 @@ org_summary: >-
   We are a California leader with national impact working for freedom of
   mobility, human rights, and a true participatory democracy. CHIRLA educates,
   legally protects, and advocates for immigrants to build their own power.
-tags_indicators: []
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.chirla.org'

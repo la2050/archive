@@ -8,7 +8,9 @@ org_summary: >-
   the civil legal aid system. We are all about connections – connecting
   underserved Californians in need of legal help with those who can provide it
   to ensure justice for all people living in California.
-tags_indicators: []
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://onejustice.org/'

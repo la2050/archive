@@ -9,7 +9,9 @@ org_summary: >-
   support. Our mission is to build a self sustaining business where paid
   subscribers subsidize the program for people with limited mobility or
   resources.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.literatea.com'

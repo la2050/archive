@@ -8,7 +8,9 @@ org_summary: >-
   thrive in our own marketplace. We create and publicize opportunities in
   performance and entrepreneurship through community driven marketing
   initiatives that guide struggling Angeleno’s to thrive in our city.
-tags_indicators: []
+tags_indicators:
+  - Community gatherings
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.weconverge.net'

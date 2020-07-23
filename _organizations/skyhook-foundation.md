@@ -8,7 +8,11 @@ org_summary: >-
   by bringing educational STEM opportunities to underserved communities."
   Currently, the foundation fulfills its mission through its flagship program,
   Camp Skyhook. 
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - Access to parks & green space
+  - Education & youth
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://skyhookfoundation.org/'

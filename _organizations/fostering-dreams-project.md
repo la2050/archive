@@ -7,7 +7,11 @@ org_summary: >-
   Fostering Dreams Project is a dance and performing arts program to empower,
   educate and inspire foster and homeless youth. We use dance and a vehicle to
   build confidence, community and brighter futures. 
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.fosteringdreamsproject.org'

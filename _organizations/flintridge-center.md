@@ -8,7 +8,9 @@ org_summary: >-
   through community planning, innovation, and action. Our vision is of a
   healthy, safe community where families thrive, youth reach their full
   potential, and equality and opportunity are accessible to all.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.flintridge.org'

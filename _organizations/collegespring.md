@@ -7,7 +7,9 @@ org_summary: >-
   CollegeSpring equips schools and their teachers with an SAT, ACT, and college
   knowledge curriculum to prepare students to succeed on the exam and enter
   college.
-tags_indicators: []
+tags_indicators:
+  - College prep
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.collegespring.org'

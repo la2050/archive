@@ -8,7 +8,11 @@ org_summary: >-
   completion goals by providing affordable housing that ends homelessness,
   empowers them through our residential education program, and promotes
   completion from their certificate, associate’s and bachelor’s degree programs.
-tags_indicators: []
+tags_indicators:
+  - College prep
+  - Affordable housing
+  - Education & youth
+  - Housing & homelessness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.larnb.org'

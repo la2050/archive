@@ -9,7 +9,9 @@ org_summary: >-
   running to benefit the overall health & wellness of the marginalized
   Ethiopian, other African & African American Communities in/around Los Angeles
   City.
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.eclosangeles.org'

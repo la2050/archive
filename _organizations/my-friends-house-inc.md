@@ -7,7 +7,9 @@ org_summary: >-
   My Friends House works to improve nutrition and wellness in South Los
   Angeles.  We offer a healthy food pantry, healthy cooking classes, nurse
   screen clinics, and an urban garden.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'http://myfriendshouseinc.org/'

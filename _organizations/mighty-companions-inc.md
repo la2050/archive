@@ -7,7 +7,9 @@ org_summary: >
   Mighty Companions produces events, projects, and experiences to help shift our
   worldview from its basis in self-interest to where we care about each other as
   much as we care about ourselves.
-tags_indicators: []
+tags_indicators:
+  - Volunteerism
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://suespeaks.org/'

@@ -7,7 +7,10 @@ org_summary: >
   The mission of The Foundation for Living Beauty is to empower women to
   increase their physical wellness and emotional stability while coping with the
   taxing effects of cancer and chemotherapy.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Community health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.livingbeauty.org'

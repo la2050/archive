@@ -8,7 +8,9 @@ org_summary: >-
   to homeless men, women, children and families living in Greater Los Angeles by
   assembling and personally distributing survival kits and to educate our
   volunteers and the public about the human face of homelessness.
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Housing & homelessness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.thegivingspirit.org/'

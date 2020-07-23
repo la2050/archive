@@ -8,7 +8,11 @@ org_summary: >-
   revolutionary power of the Arts; to heal trauma, build community, raise power
   and amplify the voices of the most marginalized to change commonly held
   narratives and improve opportunities for our most impacted communities.  
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Art
+  - Education & youth
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.creativeacts.us'

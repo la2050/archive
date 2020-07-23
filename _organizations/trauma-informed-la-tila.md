@@ -7,7 +7,11 @@ org_summary: >-
   Trauma Informed LA (TILA) is an all-volunteer grassroots organization founded
   in 2014 whose mission is to foster resilient communities that promote healing
   and wellbeing through collaboration, education, and community engagement. 
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Community gatherings
+  - Health
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.traumainformedla.org'

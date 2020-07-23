@@ -8,7 +8,10 @@ org_summary: >-
   political process and expand economic opportunities for those aged 18-34
   years. Young people are a historically underrepresented constituency, and our
   focus is to ensure communities with the least access to power have a say.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Community health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.https://younginvincibles.org/'

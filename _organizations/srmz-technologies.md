@@ -8,7 +8,9 @@ org_summary: >+
   professional and personal networks through convenient connections anywhere in
   the world.
 
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.heerio.com'

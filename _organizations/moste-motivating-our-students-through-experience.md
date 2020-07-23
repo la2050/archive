@@ -8,7 +8,11 @@ org_summary: >-
   Los Angeles County to become the next generation of college-educated women.
   Our vision is to encourage girls to graduate from college and develop into
   confident, career-focused agents of social change.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - College prep
+  - Income & employment
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.moste.org'

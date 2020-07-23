@@ -7,7 +7,11 @@ org_summary: >-
   The mission of Angel City Sports (ACS) is to create sports opportunities for
   individuals with physical disabilities, encourage physical activity and
   demonstrate leadership to strengthen the adaptive sports movement. 
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Disability & aging
+  - Health
+  - Mobility
 charity_navigator_url: ''
 organization_website:
   - 'http://angelcitysports.org'
