@@ -17,7 +17,7 @@ organization_website:
 twitter: '@risefreeorg'
 instagram: '@risefreeorg'
 facebook: 'https://www.facebook.com/RiseFreeOrg/'
-ein: '821876815'
+ein: ''
 zip: '90036'
 project_image: 'https://images.la2050.org/challenge/2020/learn/2048-wide/rise-inc.jpg'
 project_video: 'https://www.youtube.com/watch?v=FvvyUmG90WM&feature=youtu.be'
@@ -35,5 +35,6 @@ project_titles:
   - >-
     Inspiring Student Action to End Student Homelessness and Hunger in L.A.
     Through Awareness and Coordinated Services Integration
-
+removed_ein: '821876815'
+removed_ein_note: 'This organization is a 501c4 and not eligible for donations at this time'
 ---
