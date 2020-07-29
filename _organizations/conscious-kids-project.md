@@ -20,7 +20,7 @@ organization_website:
 twitter: '@kidsconscious'
 instagram: '@consciouskidsproject'
 facebook: ''
-ein: '**********'
+ein: ''
 zip: '90405'
 project_image: >-
   https://images.la2050.org/challenge/2020/connect/2048-wide/conscious-kids-project.jpg

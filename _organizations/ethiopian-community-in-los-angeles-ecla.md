@@ -18,7 +18,7 @@ organization_website:
 twitter: '@EthiopianLos'
 instagram: ''
 facebook: Ethiopian Community Los Angeles - Nonprofit Organization
-ein: '*********'
+ein: ''
 zip: '90019'
 project_image: >-
   https://images.la2050.org/challenge/2020/play/2048-wide/ethiopian-community-in-los-angeles-ecla.jpg
