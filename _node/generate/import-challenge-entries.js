@@ -18,29 +18,33 @@ const category_colors = {
 
 const sameOrganizationMap = {
   // new name : // old name
-  "changeist-formerly-big-citizen-hub": "big-citizen-hub",
-  "charles-r-drew-university-of-medicine-and-science-cdu": "charles-r-drew-university-of-medicine-and-science",
-  "charles-r-drew-university-of-medicine-and-science-cdu": "charles-r-drew-university-of-medicine-and-science",
-  "encorps-inc": "encorps-inc",
-  "los-angeles-service-academy": "los-angeles-service-academy-lasa",
-  "spark-program-inc": "spark-los-angeles",
-  "the-engineer-factory-a-project-of-community-partners": "the-engineer-factory-a-project-of-community-partners",
-  "unite-la": "unite-la",
-  "la-bioscience-hub": "los-angeles-bioscience-hub",
-  "natch": "the-natch-inc",
-  "new-america-ca": "new-america-foundation-ca-civic-innovation-project",
-  "the-national-association-of-latino-independent-producers-nalip": "the-national-association-of-latino-independent-producers-nalip",
-  "harlem-lacrosse": "harlem-lacrosse-los-angeles",
-  "los-angeles-audubon-society": "los-angeles-audubon-society-laas",
-  "theodore-payne-foundation-for-wild-flowers": "theodore-payne-foundation-for-wild-flower-and-native-plants",
-  "lawmaker": "lawmaker-io",
-  "mighty-companions-inc": "mighty-companions",
-  "voterunlead": "voterunlead",
-  "world-harvest": "world-harvest-charities-family-services",
-  "cardborigami-inc": "cardborigami-inc",
-  "my-friends-house": "my-friends-house-inc",
-  "safecast-momoko-ito-foundation": "safecast",
-  "the-youth-movement-against-alzheimers": "the-youth-movement-against-alzheimers"
+  // 2020
+  "grid110": "grid110-inc",
+
+  // 2019
+  // "changeist-formerly-big-citizen-hub": "big-citizen-hub",
+  // "charles-r-drew-university-of-medicine-and-science-cdu": "charles-r-drew-university-of-medicine-and-science",
+  // "charles-r-drew-university-of-medicine-and-science-cdu": "charles-r-drew-university-of-medicine-and-science",
+  // "encorps-inc": "encorps-inc",
+  // "los-angeles-service-academy": "los-angeles-service-academy-lasa",
+  // "spark-program-inc": "spark-los-angeles",
+  // "the-engineer-factory-a-project-of-community-partners": "the-engineer-factory-a-project-of-community-partners",
+  // "unite-la": "unite-la",
+  // "la-bioscience-hub": "los-angeles-bioscience-hub",
+  // "natch": "the-natch-inc",
+  // "new-america-ca": "new-america-foundation-ca-civic-innovation-project",
+  // "the-national-association-of-latino-independent-producers-nalip": "the-national-association-of-latino-independent-producers-nalip",
+  // "harlem-lacrosse": "harlem-lacrosse-los-angeles",
+  // "los-angeles-audubon-society": "los-angeles-audubon-society-laas",
+  // "theodore-payne-foundation-for-wild-flowers": "theodore-payne-foundation-for-wild-flower-and-native-plants",
+  // "lawmaker": "lawmaker-io",
+  // "mighty-companions-inc": "mighty-companions",
+  // "voterunlead": "voterunlead",
+  // "world-harvest": "world-harvest-charities-family-services",
+  // "cardborigami-inc": "cardborigami-inc",
+  // "my-friends-house": "my-friends-house-inc",
+  // "safecast-momoko-ito-foundation": "safecast",
+  // "the-youth-movement-against-alzheimers": "the-youth-movement-against-alzheimers"
 }
 
 let organizationCounter = 1
@@ -134,6 +138,13 @@ function processFile(filepath) {
     year_submitted: yearSubmittedArray,
     project_ids: projectIDArray,
     project_titles: projectTitlesArray
+  }
+
+  if (existingOrganization && existingOrganization.removed_ein) {
+    organization.removed_ein = existingOrganization.removed_ein;
+  }
+  if (existingOrganization && existingOrganization.removed_ein_note) {
+    organization.removed_ein_note = existingOrganization.removed_ein_note;
   }
 
   if (yearSubmitted == 2020) {
@@ -235,6 +246,22 @@ function createOrganizationMarkdown(data, existingOrganization) {
   // } else {
   //   importedOrganizationsByFilename[filename] = data
   // }
+
+  if (existingOrganization) {
+    for (let key of Object.keys(existingOrganization)) {
+      if (data[key] == undefined && 
+          key != "cached_project_image" && 
+          key != "youtube_video_identifier" && 
+          key != "maker_image_file_name" &&
+          key != "maker_image_id" &&
+          key != "original_project_image") {
+        console.log(`Found missing key ${key}`);
+        console.log({data});
+        console.log({existingOrganization});
+        throw new Error(`Data will be lost if organizations ${stringToURI(data.title)} and ${stringToURI(existingOrganization.title)} are combined. Stopping early…`);
+      }
+    }
+  }
 
   saveMarkdown(writePath, filename, data)
 }
