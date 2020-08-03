@@ -1,0 +1,127 @@
+<div class="proposal-answers">
+  
+{% if page["Has your proposal changed due to COVID-19?"] and page["Has your proposal changed due to COVID-19?"] != "" %}
+  <h3>Has your proposal changed due to COVID-19?</h3>
+  {{ page["Has your proposal changed due to COVID-19?"] | markdownify }}
+{% endif %}
+
+<h3>In which areas of Los Angeles will you be directly working?</h3>
+<ul>
+  {% for area in page["In which areas of Los Angeles will you be directly working?"] %}
+  <li>
+    {{
+      area
+        | replace: "(please select only if your project has a countywide", ""
+        | replace: "(please select only if your project has a citywide", ""
+        | replace: "benefit)", ""
+    }}
+  </li>
+  {% endfor %}
+</ul>
+
+<h3>In what stage of innovation is this project?</h3>
+{{
+  page["In what stage of innovation is this project?"]
+    | replace: "(expanding and continuing ongoing successful projects or programs)", ""
+    | replace: "(testing or implementing a new idea)", ""
+}}
+
+{% if page["Please list the organizations collaborating on this proposal."].size > 0 %}
+<h3>Please list the organizations collaborating on this proposal.</h3>
+<ul>
+  {% for collaborator in page["Please list the organizations collaborating on this proposal."] %}
+  <li>{{ collaborator }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+{% if page["If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project."] and
+      page["If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project."] != "" %}
+<h3>If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project.</h3>
+{{ page["If you are submitting a collaborative proposal, please describe the specific role of partner organizations in the project."] | markdownify }}
+{% endif %}
+
+<h3>What is the need you’re responding to?</h3>
+{{ page["What is the need you’re responding to?"] | markdownify }}
+
+<h3>Why is this project important to the work of your organization?</h3>
+{{ page["Why is this project important to the work of your organization?"] | markdownify }}
+
+{% if page["Approximately how many people will be directly impacted by this proposal?"] != "" and
+      page["Approximately how many people will be indirectly impacted by this proposal?"] != "" %}
+<h3>Approximately how many people will be impacted by this proposal?</h3>
+
+<div class="numbers">
+  <dl style="grid-template-columns: 1fr 1fr; margin-top: 0;">
+    <dt>
+      {% assign direct_impact = page["Approximately how many people will be directly impacted by this proposal?"] %}
+      {% include number-with-commas.html number=direct_impact %}
+    </dt>
+    <dd>Direct impact</dd>
+    <dt>
+      {% assign indirect_impact = page["Approximately how many people will be indirectly impacted by this proposal?"] %}
+      {% include number-with-commas.html number=indirect_impact %}
+    </dt>
+    <dd>Indirect impact</dd>
+  </dl>
+</div>
+
+{% elsif page["Approximately how many people will be directly impacted by this proposal?"] != "" %}
+<h3>Approximately how many people will be impacted by this proposal?</h3>
+
+<div class="numbers">
+  <dl style="grid-template-columns: 1fr; margin-top: 0;">
+    <dt>
+      {% assign direct_impact = page["Approximately how many people will be directly impacted by this proposal?"] %}
+      {% include number-with-commas.html number=direct_impact %}
+    </dt>
+    <dd>Direct impact</dd>
+  </dl>
+</div>
+
+{% elsif page["Approximately how many people will be indirectly impacted by this proposal?"] != "" %}
+<h3>Approximately how many people will be impacted by this proposal?</h3>
+
+<div class="numbers">
+  <dl style="grid-template-columns: 1fr; margin-top: 0;">
+    <dt>
+      {% assign indirect_impact = page["Approximately how many people will be indirectly impacted by this proposal?"] %}
+      {% include number-with-commas.html number=indirect_impact %}
+    </dt>
+    <dd>Indirect impact</dd>
+  </dl>
+</div>
+{% endif %}
+
+<h3>Please describe the broader impact of your proposal.</h3>
+{{ page["Please describe the broader impact of your proposal."] | markdownify }}
+
+<h3>Please explain how you will define and measure success for your project.</h3>
+{{ page["Please explain how you will define and measure success for your project."] | markdownify }}
+
+<h3>Which of the <span style="text-transform: uppercase;">{{ page.category }}</span> metrics will your submission impact?​</h3>
+<ul>
+  {% for metric in page["Which metrics will your submission impact?"] %}
+  <li>{{ metric }}</li>
+  {% endfor %}
+</ul>
+
+{% if page["Are there any other LA2050 goal categories that your proposal will impact?"].size > 0 %}
+<h3>Are there any other LA2050 goal categories that your proposal will impact?</h3>
+<ul>
+  {% for metric in page["Are there any other LA2050 goal categories that your proposal will impact?"] %}
+  <li>{{ metric }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+{% if page["Which of LA2050’s resources will be of the most value to you?"].size > 0 %}
+<h3>Which of LA2050’s resources will be of the most value to you?</h3>
+<ul>
+  {% for resource in page["Which of LA2050’s resources will be of the most value to you?"] %}
+  <li>{{ resource }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+</div>

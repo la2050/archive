@@ -4,31 +4,34 @@ organization_id: '2014189'
 title: Saban Community Clinic
 org_type: Nonprofit
 org_summary: >-
-  Saban Community Clinic provides comprehensive, affordable medical and social
-  services to low-income and underserved individuals.
+  At Saban Community Clinic, we believe that health care is a right, not a
+  privilege. Our mission is to serve as a medical home for the underserved and
+  those who are most vulnerable by providing comprehensive, dependable and
+  affordable quality health care in a caring environment.
 tags_indicators:
   - Community health
   - Health
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952539105'
-organization_website: ''
-twitter: ''
-instagram: ''
-facebook: ''
+charity_navigator_url: ''
+organization_website:
+  - 'https://www.sabancommunityclinic.org'
+twitter: '@sabanclinic'
+instagram: '@sabanclinic'
+facebook: facebook/SabanClinic
 ein: '952539105'
 zip: '90048'
 project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22174%252Fdisplay%252FBeverly_Site_New_Logo_on_Building_2013.jpg=c570x385
-project_video: ''
-challenge_url: []
+  https://images.la2050.org/challenge/2020/live/2048-wide/saban-community-clinic.jpg
+project_video: 'https://www.youtube.com/watch?v=8wQ6wEC4oFE'
+challenge_url:
+  - 'https://challenge.la2050.org/2020/live/saban-community-clinic/'
 year_submitted:
+  - '2020'
   - '2014'
 project_ids:
+  - '0202260'
   - '4102028'
 project_titles:
+  - Expanding Healthcare Access for All
   - Nutrition Education Program
-maker_image_file_name: Beverly_Site_New_Logo_on_Building_2013.jpg
-maker_image_id: '22174'
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/saban-community-clinic/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22174%252Fdisplay%252FBeverly_Site_New_Logo_on_Building_2013.jpg=c570x385.jpg
 
 ---

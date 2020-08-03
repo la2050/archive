@@ -4,48 +4,38 @@ organization_id: '2013162'
 title: reDiscover Center
 org_type: Nonprofit
 org_summary: >-
-  Using everyday discards donated by local businesses reDiscover’s range of
-  hands-on, educational programs and workshops has served 24,500 people. We are
-  proud of our Arts Earth Partnership certification and our 2007 Sustainable
-  Quality Award from the City of Santa Monica. We strive to maintain a low
-  carbon footprint and our current warehouse-like facility for reusable waste
-  helps our local businesses and households to do the same.
-   
-   
-   Our artistic caliber has been recognized by the Los Angeles County Arts Commission, the Santa Monica GLOW Festival (2008 and 2013), the San Jose Zero1 Festival, the Long Beach Arts Council A LOT Initiative and Ryman Arts with a Drawing Inspiration Award.
-   
-   
-   
-   
-   
-   We are also very proud of the inspiration our center provides to children. As 9 year old Beatriz said during a field trip, “I could live at this place!”
+  reDiscover develops children's creativity through hands-on making with
+  sustainable materials.  reDiscover utilizes donated, sustainable materials in
+  all of its projects, furthering our mission of educating our youth to become
+  powerful, creative and responsible makers.
 tags_indicators:
   - Art
   - Teaching & mentorship
   - Arts & cultural vitality
   - Education & youth
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=200192617'
+charity_navigator_url: ''
 organization_website:
-  - www.reDiscoverCenter.org
-twitter: ''
-instagram: ''
-facebook: ''
+  - 'https://www.rediscovercenter.org'
+twitter: '@reDiscoverCtr'
+instagram: '@rediscoverctr'
+facebook: 'https://www.facebook.com/reDiscoverCenter/'
 ein: '200192617'
-zip: ''
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16706%252Fdisplay%252FreDiscover_Upcyle_Innovate.jpg=c570x385
-project_video: ''
+zip: '90066'
+project_image: 'https://images.la2050.org/challenge/2020/learn/2048-wide/rediscover-center.jpg'
+project_video: 'https://youtu.be/QKhKvu73_40'
 challenge_url:
+  - 'https://challenge.la2050.org/2020/learn/rediscover-center/'
   - 'http://maker.good.is/myla2050/projects/Innovate.html'
 year_submitted:
+  - '2020'
   - '2013'
 project_ids:
+  - '0202060'
   - '3102228'
 project_titles:
+  - >-
+    Help ReDiscover Center establish one of the largest Youth Makerspace
+    Facilities in the entire country!
   - Upcycle Innovation
-maker_image_file_name: reDiscover_Upcyle_Innovate.jpg
-maker_image_id: '16706'
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/rediscover-center/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16706%252Fdisplay%252FreDiscover_Upcyle_Innovate.jpg=c570x385.jpg
 
 ---

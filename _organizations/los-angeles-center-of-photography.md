@@ -4,37 +4,37 @@ organization_id: '2015120'
 title: Los Angeles Center of Photography
 org_type: Nonprofit
 org_summary: >-
-  The Los Angeles Center of Photography is a community for new and seasoned
-  photographers to come for artistic growth, discussion and inspiration--with
-  classes, certificates and a one-year professional program, as well as outreach
-  to underserved youth.
+  The Los Angeles Center of Photography (LACP) is a non-profit center dedicated
+  to photography and the education of the photographic arts. LACP serves people
+  of all ages, experience levels and backgrounds who are interested in learning,
+  teaching or being part of a community of photographers.
 tags_indicators:
   - Art
   - Arts & cultural vitality
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=4631333016'
+charity_navigator_url: ''
 organization_website:
-  - www.lacphoto.org
-twitter: www.twitter.com/lacenterofphoto
-instagram: www.instagram.com/la_centerofphoto/
-facebook: www.facebook.com/losangelescenterofphotography
-ein: '46-3133016'
-zip: '90028'
+  - 'https://www.lacphoto.org'
+twitter: '@lacenterofphoto'
+instagram: '@la_centerofphoto'
+facebook: losangelescenterofphotography
+ein: '463133016'
+zip: '90016'
 project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23374%252Fdisplay%252FJulia_Dean_at_Boyle_Heights_B_B_Club.jpg=c570x385
-project_video: ''
+  https://images.la2050.org/challenge/2020/create/2048-wide/los-angeles-center-of-photography.jpg
+project_video: 'https://www.facebook.com/115251826399/videos/375048366374397/'
 challenge_url:
+  - 'https://challenge.la2050.org/2020/create/los-angeles-center-of-photography/'
   - 'http://maker.good.is/myla2050create2015/projects/LACP.html'
 year_submitted:
+  - '2020'
   - '2015'
 project_ids:
+  - '0202103'
   - '5102185'
 project_titles:
+  - LA Photo Hub
   - >-
     Los Angeles Center of Photography Brings Life Changing Photography Classes
     to Boys & Girls Clubs
-maker_image_file_name: Julia_Dean_at_Boyle_Heights_B_B_Club.jpg
-maker_image_id: '23374'
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/los-angeles-center-of-photography/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23374%252Fdisplay%252FJulia_Dean_at_Boyle_Heights_B_B_Club.jpg=c570x385.jpg
 
 ---

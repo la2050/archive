@@ -333,7 +333,7 @@ stylesheets:
 
 <div class="links links-involved">
 
-<h2>Visit this organization’s website to {% if page.org_type contains "Nonprofit" %}{% unless page.ein and page.ein != "" and ein_size == 9 %}donate or {% endunless %}volunteer{% else %}learn more{% endif %}</h2>
+<h2>Visit this organization’s website to {% if page.org_type contains "Nonprofit" %}{% unless page.ein and page.ein != "" and ein_size >= 9 %}donate or {% endunless %}volunteer{% else %}learn more{% endif %}</h2>
 
 <p style="margin-top: 0.75em;">
   <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="display: inline; width: 1em; height: 1em; margin-right: 0.375em; vertical-align: middle;">
@@ -361,9 +361,7 @@ stylesheets:
 {% endif %}
 
 
-
-
-{% if page.charity_navigator_url and page.charity_navigator_url != "" and page.org_type contains "Nonprofit" %}
+{% if page.ein and page.ein != "" and ein_size >= 9 and page.org_type contains "Nonprofit" %}
 <div class="links links-involved">
 
 <h2>Learn about this organization’s budget, leadership and mission</h2>
@@ -376,7 +374,7 @@ stylesheets:
       <foreignObject>Website</foreignObject>
     </switch>
   </svg>
-  <a href="{{ page.charity_navigator_url }}" style="color: inherit;" target="_blank" rel="noopener">
+  <a href="https://www.charitynavigator.org/index.cfm?bay=search.profile&ein={{ page.ein | replace: "-", "" }}" style="color: inherit;" target="_blank" rel="noopener">
     charitynavigator.org
   </a>
 </p>
@@ -413,7 +411,7 @@ stylesheets:
 
 
 
-{% if page.ein and page.ein != "" and ein_size == 9 and page.org_type contains "Nonprofit" %}
+{% if page.ein and page.ein != "" and ein_size >= 9 and page.org_type contains "Nonprofit" %}
 <div class="links links-involved" style="margin-top: 2.25em;">
   <!-- <h2>Get involved</h2> -->
 

@@ -9,6 +9,7 @@
     "not in use organizations:create": "node --max-old-space-size=4096 ./generate/create-organizations.js",
     "organizations:update": "node --max-old-space-size=4096 ./generate/update-organizations.js",
     "tags:create": "node --max-old-space-size=4096 ./generate/create-tags.js",
+    "organizations:update:tags:spreadsheet": "node --max-old-space-size=4096 ./generate/update-organizations-with-tags-create-spreadsheet.js",
     "organizations:update:tags": "node --max-old-space-size=4096 ./generate/update-organizations-with-tags.js",
     "organizations:update:tags:parent": "node --max-old-space-size=4096 ./generate/update-organizations-with-parent-tags.js",
     "organizations:update:reclassify": "node --max-old-space-size=4096 ./generate/update-organizations-reclassify.js",

@@ -4,41 +4,44 @@ organization_id: '2018044'
 title: Get Lit - Words Ignite
 org_type: Nonprofit
 org_summary: >-
-  Get Lit fuses classic and spoken word poetry to increase teen literacy and
-  cultivate enthusiastic learners emboldened to inspire social consciousness in
-  diverse communities.
+  Get Lit  - Words Ignite fuses classic and spoken word poetry to increase teen
+  literacy on the page and in visual media. We cultivate enthusiastic learners
+  emboldened to inspire social consciousness in diverse communities,
+  transforming students into artists, activists, scholars, and stars.
 tags_indicators:
   - Voting & civic engagement
   - Social connectedness
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=264644018'
+charity_navigator_url: ''
 organization_website:
-  - getlit.org
-twitter: '@GetLitPoet'
-instagram: getlitpoet
-facebook: 'https://www.facebook.com/getlitpoet'
+  - 'https://www.getlit.org'
+twitter: '@getlitpoet'
+instagram: '@getlitpoet'
+facebook: www.facebook.com/getlitpoet
 ein: '264644018'
-zip: '90013'
+zip: 90057-3251
 project_image: >-
-  https://activation.la2050.org/assets/images/create/2048-wide/get-lit-words-ignite.jpg
-project_video: 'https://youtu.be/ioZuMb9vLz8'
+  https://images.la2050.org/challenge/2020/learn/2048-wide/get-lit-words-ignite.jpg
+project_video: 'https://www.youtube.com/watch?v=YpqO9tmttuI'
 challenge_url:
+  - 'https://challenge.la2050.org/2020/learn/get-lit-words-ignite/'
   - 'https://activation.la2050.org/create/get-lit-words-ignite/'
   - >-
     https://challenge.la2050.org/entry/get-lit-players-go-on-a-lit-for-literacy-tour-in-los-angeles-first-poetry-bus!
 year_submitted:
+  - '2020'
   - '2018'
   - '2016'
 project_ids:
+  - '0202036'
   - '8102044'
   - '6102080'
 project_titles:
+  - Get Lit – Words Ignite Online Curriculum
   - >-
     Get Lit Players go on a 'Lit for Literacy' Tour in Los Angeles' first Poetry
     Bus!
   - >-
     Literary Riot Creative Collective: A Radically Inclusive Youth-Led Content
     Studio
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/get-lit-words-ignite/activation.la2050.org/assets/images/create/2048-wide/get-lit-words-ignite.jpg
 
 ---

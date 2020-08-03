@@ -5,8 +5,8 @@ let fs = require('fs')
 let parse = require('csv-parse/lib/sync')
 let yaml = require('js-yaml')
 
-let tags = parse(fs.readFileSync('./spreadsheets/2019-tags.csv', 'utf8'), {columns: true})
-const targetYear = "2019"
+let tags = parse(fs.readFileSync('./spreadsheets/2020-tags.csv', 'utf8'), {columns: true})
+const targetYear = "2020"
 
 let tagsLookup
 
@@ -144,7 +144,8 @@ function processFile(filename) {
 
     let tags_indicators = tagsLookup[name]
     if (tags_indicators) {
-      data.tags_indicators = tags_indicators
+      // combine the tags with existing tags, while keeping them unique (not yet tested)
+      data.tags_indicators = [...new Set(data.tags_indicators.concat(tags_indicators))]
       console.log ("Tags found: " + data.tags_indicators)
       saveMarkdown(filename, data)
     } else {
