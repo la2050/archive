@@ -17,7 +17,7 @@ organization_website:
 twitter: '@refoundry'
 instagram: 'https://www.instagram.com/refoundry/'
 facebook: 'https://www.facebook.com/refoundry.org/'
-ein: '263970729'
+ein: '473502776'
 zip: '11215'
 project_image: 'https://images.la2050.org/challenge/2020/create/2048-wide/refoundry.jpg'
 project_video: 'https://vimeo.com/229565133'
