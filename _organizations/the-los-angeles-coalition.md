@@ -19,7 +19,7 @@ organization_website:
 twitter: ''
 instagram: ''
 facebook: ''
-ein: '210307257'
+ein: '464589086'
 zip: '90071'
 project_image: >-
   https://images.la2050.org/challenge/2020/learn/2048-wide/the-los-angeles-coalition.jpg
