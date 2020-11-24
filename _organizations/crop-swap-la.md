@@ -18,7 +18,7 @@ organization_website:
 twitter: ''
 instagram: '@lacropswap'
 facebook: 'https://www.facebook.com/jamiah.e.hargins'
-ein: '850603986'
+ein: '454676045'
 zip: '90016'
 project_image: 'https://images.la2050.org/challenge/2020/live/2048-wide/crop-swap-la.jpg'
 project_video: 'https://www.youtube.com/watch?v=bAmD2VAFSos&t='
