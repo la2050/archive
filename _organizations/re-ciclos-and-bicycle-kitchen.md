@@ -1,36 +1,37 @@
 ---
 published: true
 organization_id: '2015164'
-title: 'Re:Ciclos and Bicycle Kitchen'
+title: Bicycle Kitchen/La Bicicocina
 org_type: Nonprofit
 org_summary: >-
-  Re:Ciclos is a cargo bicycle manufacturing project dedicated to bridging the
-  socio-economic, environmental, educational and health gaps in Los Angeles
-  created by excessive use of the motor vehicle as the only form of
-  transportation.
+  Our mission is to promote the bicycle as a fun, safe, and accessible form of
+  transportation, to foster healthy urban communities, and to provide a
+  welcoming space to learn about building, maintaining, and riding bicycles.
 tags_indicators:
   - Transportation
   - Mobility
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=260454089'
+charity_navigator_url: ''
 organization_website:
-  - 'http://reciclos.org'
-twitter: 'https://twitter.com/ReCiclosLA'
-instagram: 'https://instagram.com/reciclos_la'
-facebook: 'https://www.facebook.com/ReCiclosLA'
+  - 'https://www.bicyclekitchen.org'
+twitter: '@bicyclekitchen'
+instagram: '@bicicocina'
+facebook: bicyclekitchen
 ein: '260454089'
 zip: '90029'
-project_image: 'https://img.youtube.com/vi/a-kQryxgF4M/hqdefault.jpg'
+project_image: >-
+  https://images.la2050.org/challenge/2020/play/2048-wide/bicycle-kitchen-la-bicicocina.jpg
 project_video: ''
 challenge_url:
+  - 'https://challenge.la2050.org/2020/play/bicycle-kitchen-la-bicicocina/'
   - 'http://maker.good.is/myla2050live2015/projects/ReCiclos.html'
 year_submitted:
+  - '2020'
   - '2015'
 project_ids:
+  - '0202131'
   - '5102248'
 project_titles:
+  - Bikes for the People
   - 'Re:Ciclos a movement by bicycle. A new project of the Bicycle Kitchen'
-youtube_video_identifier: a-kQryxgF4M
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/re-ciclos-and-bicycle-kitchen/img.youtube.com/vi/a-kQryxgF4M/hqdefault.jpg
 
 ---

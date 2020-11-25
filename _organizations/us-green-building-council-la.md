@@ -1,11 +1,13 @@
 ---
 published: true
 organization_id: '2016249'
-title: US Green Building Council-LA
+title: U.S. Green Building Council-Los Angeles
 org_type: Nonprofit
 org_summary: >-
-  Promote sustainability in the built environment by providing access to
-  resources, knowledge, recognition, and networking opportunities.
+  USGBC-LA’s members & volunteers--passionate, practical, & informed
+  professionals & advocates--work to create a more sustainable, healthy &
+  resilient built environment for all through education, innovation & impactful
+  action, imparting the what AND why…because business as usual is not an option.
 tags_indicators:
   - Resiliency
   - Climate change
@@ -13,30 +15,33 @@ tags_indicators:
   - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
-  - usgbc-la.org
-twitter: USGBC-LA
-instagram: pages/US-Green-Building-Council-Los-Angeles-Chapter/210358478899
-facebook: usgbcla
-ein: ''
-zip: ''
+  - 'https://usgbc-la.org/'
+twitter: '@usgbcla'
+instagram: '@usgbcla'
+facebook: 'https://www.facebook.com/USGBCLA/'
+ein: '753041444'
+zip: '90013'
 project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6901550005741-team91.png
-project_video: 'https://myatlascms.com/map/?id=901?rel=0&amp;showinfo=0'
+  https://images.la2050.org/challenge/2020/live/2048-wide/u-s-green-building-council-los-angeles.jpg
+project_video: ''
 challenge_url:
+  - >-
+    https://challenge.la2050.org/2020/live/u-s-green-building-council-los-angeles/
   - >-
     https://challenge.la2050.org/entry/ecomapla-is-todays-roadmap-for-a-tomorrow-that-is-social-economic-and-environmental-sustainable
 year_submitted:
+  - '2020'
   - '2016'
   - '2014'
 project_ids:
+  - 0202278
   - '6102276'
   - '4102162'
 project_titles:
+  - The LA Healthy Building Alliance
   - >-
     EcoMapLA is todays roadmap for a tomorrow that is social, economic and
     environmental sustainable
   - Los Angeles Resilience Rating System
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/us-green-building-council-la/skild-prod.s3.amazonaws.com/myla2050/images/custom540/6901550005741-team91.png
 
 ---

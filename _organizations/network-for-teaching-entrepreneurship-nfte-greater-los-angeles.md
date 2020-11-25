@@ -1,41 +1,42 @@
 ---
 published: true
 organization_id: '2015145'
-title: Network for Teaching Entrepreneurship (NFTE) Greater Los Angeles
+title: 'Network for Teaching Entrepreneurship, Los Angeles (NFTE LA)'
 org_type: Nonprofit
 org_summary: >-
-  NFTE Greater LA provides entrepreneurship education programs designed to
-  inspire young people from low-income communities to stay in school, to
-  recognize business opportunities and to plan for successful futures.
+  The Network for Teaching Entrepreneurship (NFTE) activates the entrepreneurial
+  mindset and builds start-up skills in youth from under-resourced communities
+  to ensure their success and to create a more vibrant Los Angeles.
 tags_indicators:
   - Entrepreneurship & innovation
   - Income & employment
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=133408731'
+charity_navigator_url: ''
 organization_website:
-  - www.nfte.com/la
-twitter: www.twitter.com/nftegreaterla
-instagram: www.instagram.com/nftegreaterla
-facebook: www.facebook.com/nftela
+  - 'https://www.nfte.com/la'
+twitter: '@nftegreaterla'
+instagram: '@nftegreaterla'
+facebook: 'https://www.facebook.com/NFTELA/'
 ein: '133408731'
-zip: '90017'
+zip: '91203'
 project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24049%252Fdisplay%252FCrystal_Cropped_Big_Check.jpg=c570x385
-project_video: ''
+  https://images.la2050.org/challenge/2020/learn/2048-wide/network-for-teaching-entrepreneurship-los-angeles-nfte-la.jpg
+project_video: 'https://vimeo.com/337562053'
 challenge_url:
+  - >-
+    https://challenge.la2050.org/2020/learn/network-for-teaching-entrepreneurship-los-angeles-nfte-la/
   - 'http://maker.good.is/myla2050learn2015/projects/nftela.html'
   - 'http://maker.good.is/myla2050/projects/nftela.html'
 year_submitted:
+  - '2020'
   - '2015'
   - '2013'
 project_ids:
+  - '0202050'
   - '5102221'
   - '3102205'
 project_titles:
+  - 'Entrepreneurship in Every School: Los Angeles'
   - Innovation Saturday for Los Angeles Youth
   - Los Angeles Youth Entrepreneurship Pathway Initiative
-maker_image_file_name: Crystal_Cropped_Big_Check.jpg
-maker_image_id: '24049'
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/network-for-teaching-entrepreneurship-nfte-greater-los-angeles/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24049%252Fdisplay%252FCrystal_Cropped_Big_Check.jpg=c570x385.jpg
 
 ---
