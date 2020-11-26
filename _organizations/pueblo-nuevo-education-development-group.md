@@ -11,6 +11,7 @@ org_summary: >-
 tags_indicators:
   - Teaching & mentorship
   - Education & youth
+  - STEM & Digital literacy
 charity_navigator_url: ''
 organization_website:
   - 'https://www.pueblonuevo.org'

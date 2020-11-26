@@ -13,6 +13,7 @@ tags_indicators:
   - Climate change
   - Public safety & public space
   - Environmental quality & sustainability
+  - Air & water
 charity_navigator_url: ''
 organization_website:
   - 'https://usgbc-la.org/'

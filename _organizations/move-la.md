@@ -13,6 +13,9 @@ tags_indicators:
   - Climate change
   - Mobility
   - Environmental quality & sustainability
+  - Affordable housing
+  - Air & water
+  - Housing & homelessness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.movela.org'

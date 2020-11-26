@@ -12,6 +12,9 @@ tags_indicators:
   - Workforce development
   - Arts & cultural vitality
   - Income & employment
+  - Climate change
+  - Air & water
+  - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
   - 'https://www.ncsa.la'

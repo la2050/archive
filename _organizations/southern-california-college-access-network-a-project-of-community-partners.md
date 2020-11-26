@@ -11,6 +11,7 @@ org_summary: >+
 tags_indicators:
   - College prep
   - Education & youth
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.socalcan.org'

@@ -12,6 +12,8 @@ tags_indicators:
   - Voting & civic engagement
   - Mobility
   - Social connectedness
+  - Air & water
+  - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
   - 'https://investinginplace.org'

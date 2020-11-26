@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Entrepreneurship & innovation
   - Income & employment
+  - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.nfte.com/la'

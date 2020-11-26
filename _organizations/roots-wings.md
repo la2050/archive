@@ -20,8 +20,7 @@ instagram: '@rootsnwings_malibu'
 facebook: 'https://www.facebook.com/rootsandwingsinstitute'
 ein: '821894269'
 zip: '90265'
-project_image: >-
-  https://images.la2050.org/challenge/2020/live/2048-wide/roots-wings-institute-of-social-and-emotional-learning.jpg
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/roots-wings.jpg'
 project_video: 'https://youtu.be/Rnmt-4xYPDo'
 challenge_url:
   - >-

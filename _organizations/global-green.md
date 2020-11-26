@@ -12,6 +12,8 @@ tags_indicators:
   - Climate change
   - Public safety & public space
   - Environmental quality & sustainability
+  - Access to healthy food
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.globalgreen.org/'

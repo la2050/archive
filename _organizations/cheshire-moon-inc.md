@@ -13,6 +13,9 @@ tags_indicators:
   - Community gatherings
   - Arts & cultural vitality
   - Social connectedness
+  - Creative economy
+  - Workforce development
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.cheshiremoon.org'

@@ -9,6 +9,7 @@ org_summary: >-
 tags_indicators:
   - STEM & Digital literacy
   - Education & youth
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.encorps.org'

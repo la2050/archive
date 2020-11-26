@@ -11,6 +11,10 @@ org_summary: >-
 tags_indicators:
   - Art
   - Arts & cultural vitality
+  - Community gatherings
+  - Resiliency
+  - Social connectedness
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.tiachucha.org'

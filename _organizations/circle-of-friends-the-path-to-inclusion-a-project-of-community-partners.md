@@ -13,6 +13,8 @@ tags_indicators:
   - Teaching & mentorship
   - Mobility
   - Education & youth
+  - Mental & emotional health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.circleofriends.org'

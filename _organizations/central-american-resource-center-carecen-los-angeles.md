@@ -11,6 +11,8 @@ org_summary: >-
 tags_indicators:
   - Voting & civic engagement
   - Social connectedness
+  - College prep
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.carecen-la.org'

@@ -13,6 +13,9 @@ tags_indicators:
   - Voting & civic engagement
   - Public safety & public space
   - Social connectedness
+  - Affordable housing
+  - Homelessness
+  - Housing & homelessness
 charity_navigator_url: ''
 organization_website:
   - 'https://lakhiyia.wordpress.com'

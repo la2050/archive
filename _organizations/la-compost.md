@@ -13,6 +13,8 @@ tags_indicators:
   - Access to parks & green space
   - Environmental quality & sustainability
   - Public safety & public space
+  - Access to healthy food
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lacompost.org'
