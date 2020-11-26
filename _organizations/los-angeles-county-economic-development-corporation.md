@@ -11,6 +11,9 @@ tags_indicators:
   - Workforce development
   - Entrepreneurship & innovation
   - Income & employment
+  - Entrepreneurship & innovation
+  - Access to capital & benefits
+  - Income & employment
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953643339'
 organization_website:
   - 'http://laedc.org/'
@@ -24,13 +27,21 @@ project_image: >-
 project_video: ''
 challenge_url:
   - 'http://maker.good.is/myla2050create2015/projects/LAEconomicGrowthPlan.html'
+  - 'http://maker.good.is/myla2050connect2015/projects/InnovateLA.html'
 year_submitted:
   - '2015'
 project_ids:
   - '5102187'
+  - '5102048'
 project_titles:
   - 'Implementing LA County’s Strategic Plan for Economic Development: 2016-2020 '
   - 'Implementing LA County’s Strategic Plan for Economic Development: 2016-2020'
+  - >-
+    Let's Build Bridges Between Communities And Our Dream LA By Celebrating LA
+    County Innovation Broadly
+  - >-
+    Lets Build Bridges Between Communities And Our Dream LA By Celebrating LA
+    County Innovation Broadly
 maker_image_file_name: StratPlanProg_Cover.jpg
 maker_image_id: '23271'
 cached_project_image: >-

@@ -38,6 +38,9 @@ org_summary: >-
    
    
    Since its launch in May 2012, our transmedia, cultural journalism program, Artbound, has been named “Best Arts & Culture Site” at the 2012 LA Weekly Web Awards; has won a National Entertainment Journalism Award for “Best Documentary or Special Program, Short” from the Los Angeles Press Club; and has received two Golden Mike Awards from the Radio & Television News Association of Southern California.
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952211661'
 organization_website:
   - www.kcet.org
@@ -52,14 +55,17 @@ project_video: ''
 challenge_url:
   - 'http://maker.good.is/myla2050/projects/GroundGame.html'
   - 'http://maker.good.is/myla2050/projects/Artbound.html'
+  - 'http://maker.good.is/myla2050/projects/youthvoicesmobile.html'
 year_submitted:
   - '2013'
 project_ids:
   - '3102163'
+  - '3102162'
 project_titles:
   - Artbound - Phase II
   - Ballot Brief - Ground Game
   - Ballot Brief  Ground Game
+  - Departures Youth Voices Mobile Classroom
 maker_image_file_name: fullsized_ballot-brief-logo-stacked.jpeg
 maker_image_id: '17051'
 cached_project_image: >-
