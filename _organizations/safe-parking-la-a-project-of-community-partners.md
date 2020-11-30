@@ -2,7 +2,7 @@
 published: true
 organization_id: '2020261'
 title: 'Safe Parking LA, a Project of Community Partners'
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Safe Parking LA (SPaLA), a project of Community Partners, supports people who
   are homeless and living in their vehicles by providing them with a safe place
