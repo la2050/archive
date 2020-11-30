@@ -2,7 +2,7 @@
 published: true
 organization_id: '2020094'
 title: Creative Futures Collective
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Our mission is to break cycles of systemic inequality by providing
   opportunity, education and support to those that haven't traditionally had
@@ -20,7 +20,7 @@ organization_website:
 twitter: '@creativefuturescollective'
 instagram: '@creativefuturescollective'
 facebook: facebook.com/creativefutrescollecitve
-ein: '264245043'
+ein: '264245043002'
 zip: '90015'
 project_image: >-
   https://images.la2050.org/challenge/2020/create/2048-wide/creative-futures-collective.jpg
