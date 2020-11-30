@@ -9,7 +9,7 @@ org_summary: >-
   and hands-on conservation initiatives.
 tags_indicators:
   - Access to parks & green space
-  - Community gatherings
+  - Air & water
   - Public safety & public space
   - Social connectedness
 charity_navigator_url: ''
