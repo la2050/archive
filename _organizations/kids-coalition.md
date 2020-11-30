@@ -2,7 +2,7 @@
 published: true
 organization_id: '2020042'
 title: Kids Coalition
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Translating "kids first" from a soundbite into a civil right for the children
   of Los Angeles and California by empowering public school parents and students
@@ -20,7 +20,7 @@ organization_website:
 twitter: '@kidscoalition'
 instagram: '@puttingkidsfirst'
 facebook: '@kidscoalition'
-ein: '204562686'
+ein: '204562686001'
 zip: '90210'
 project_image: 'https://images.la2050.org/challenge/2020/learn/2048-wide/kids-coalition.jpg'
 project_video: ''
