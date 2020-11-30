@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018062'
 title: LA Forward
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   LA Forward breaks down barriers to civic participation and makes local
   government accessible to everyday people, not just political insiders and
