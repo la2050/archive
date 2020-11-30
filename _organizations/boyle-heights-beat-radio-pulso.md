@@ -2,7 +2,7 @@
 published: true
 organization_id: '2020156'
 title: Boyle Heights Beat/Radio Pulso
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Boyle Heights Beat is a bilingual community news project produced by youth,
   offering news “por y para la comunidad." The bi-lingual paper, its companion
