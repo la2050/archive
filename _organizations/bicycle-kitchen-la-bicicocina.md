@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2020131'
+organization_id: '2015164'
 title: Bicycle Kitchen/La Bicicocina
 org_type: Nonprofit
 org_summary: >-
@@ -23,11 +23,15 @@ project_image: >-
 project_video: ''
 challenge_url:
   - 'https://challenge.la2050.org/2020/play/bicycle-kitchen-la-bicicocina/'
+  - 'http://maker.good.is/myla2050live2015/projects/ReCiclos.html'
 year_submitted:
   - '2020'
+  - '2015'
 project_ids:
   - '0202131'
+  - '5102248'
 project_titles:
   - Bikes for the People
+  - 'Re:Ciclos a movement by bicycle. A new project of the Bicycle Kitchen'
 
 ---

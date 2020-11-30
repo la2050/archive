@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Community safety
   - Public safety & public space
+  - Community safety
+  - Public safety & public space
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270889800'
 organization_website:
   - 'http://www.southwestyouthprograms.org/index.html'
@@ -24,14 +26,18 @@ project_image: >-
 project_video: ''
 challenge_url:
   - 'http://maker.good.is/myla2050connect2015/projects/Lapdyouthconference.html'
+  - 'http://maker.good.is/myla2050connect2015/projects/OSBconnect.html'
 year_submitted:
   - '2015'
 project_ids:
   - '5102173'
+  - '5102223'
 project_titles:
   - >-
     LAPD Southwest Area Youth Conference: Enhancing Community-Police Relations
     through the Youth
+  - 'The Community Engagement Initiative '
+  - The Community Engagement Initiative
 maker_image_file_name: Screen_Shot_2015-10-15_at_12.10.38_PM.png
 maker_image_id: '24149'
 cached_project_image: >-

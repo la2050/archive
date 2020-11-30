@@ -10,6 +10,10 @@ org_summary: >-
 tags_indicators:
   - Art
   - Arts & cultural vitality
+  - Art
+  - Community gatherings
+  - Arts & cultural vitality
+  - Social connectedness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=481269978'
 organization_website:
   - www.aplusd.org
@@ -23,12 +27,15 @@ project_image: >-
 project_video: ''
 challenge_url:
   - 'http://maker.good.is/myla2050connect2015/projects/AplusD.html'
+  - 'http://maker.good.is/myla2050/projects/NEVERBUILT.html'
 year_submitted:
   - '2015'
 project_ids:
   - '5102019'
+  - '3102004'
 project_titles:
   - ReveaLALA
+  - 'Never Built: Los Angeles'
 maker_image_file_name: AplusD-ReveaLALA.jpg
 maker_image_id: '23861'
 cached_project_image: >-

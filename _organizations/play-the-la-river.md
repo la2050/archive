@@ -9,6 +9,10 @@ org_summary: >-
 tags_indicators:
   - Access to parks & green space
   - Public safety & public space
+  - Air & water
+  - Access to parks & green space
+  - Environmental quality & sustainability
+  - Public safety & public space
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272245545'
 organization_website:
   - 'http://playthelariver.com/'
@@ -22,12 +26,16 @@ project_image: >-
 project_video: ''
 challenge_url:
   - 'http://maker.good.is/myLA2050play/projects/PlaytheLARiver.html'
+  - 'http://maker.good.is/myla2050/projects/RovingRioVistasLA.html'
 year_submitted:
   - '2014'
 project_ids:
   - '4102169'
+  - '3102167'
 project_titles:
   - Play the LA River
+  - 'Roving Río Vista: A Park on the Move'
+  - 'Roving RÃ­o Vista: A Park on the Move'
 maker_image_file_name: PlaytheLARiver_LA2050_ImageCropped.jpg
 maker_image_id: '21550'
 cached_project_image: >-

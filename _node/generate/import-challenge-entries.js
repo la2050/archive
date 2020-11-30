@@ -19,7 +19,34 @@ const category_colors = {
 const sameOrganizationMap = {
   // new name : // old name
   // 2020
+  "facing-history-and-ourselves": "facing-history-and-ourselves-inc",
+  "national-association-of-latino-independent-producers-nalip": "the-national-association-of-latino-independent-producers-nalip",
+  "crayon-collection-dba-habits-of-waste": "crayon-collection",
+  "the-music-center": "performing-arts-center-of-los-angeles-county-aka-the-music-center-grand-park",
+  "mighty-companions-inc": "mighty-companions",
+
   "grid110": "grid110-inc",
+  "network-for-teaching-entrepreneurship-los-angeles-nfte-la": "network-for-teaching-entrepreneurship-nfte-greater-los-angeles",
+  "bicycle-kitchen-la-bicicocina": "re-ciclos-and-bicycle-kitchen",
+  "my-friends-house-inc": "my-friends-house",
+  "encorps-stem-teachers": "encorps-inc",
+  "harlem-lacrosse-los-angeles": "harlem-lacrosse",
+  "l-a-compost": "la-compost",
+  "tia-chuchas-centro-cultural-bookstore": "tia-chuchas-centro-cultural",
+  "u-s-green-building-council-los-angeles": "us-green-building-council-la",
+  "global-green-usa": "global-green",
+  "cheshire-moon": "cheshire-moon-inc",
+  "pueblo-nuevo-education-development-group": "camino-nuevo-charter-academy",
+  "friends-of-girls-academic-leadership-academy-gala": "girls-academic-leadership-academy-gala",
+  "roots-wings-institute-of-social-and-emotional-learning": "roots-wings",
+  "homeplace-@-yjc": "youth-justice-coalition",
+  "central-american-resource-center-carecen-of-california": "central-american-resource-center-carecen-los-angeles",
+  "social-and-environmental-entrepreneurs": "social-environmental-entrepreneurs",
+  "circle-of-friends-the-path-to-inclusion": "circle-of-friends-the-path-to-inclusion-a-project-of-community-partners",
+  "investing-in-place-a-project-of-community-partners": "investing-in-place",
+  "move-la-a-project-of-community-partners": "move-la",
+  "southern-california-college-access-network": "southern-california-college-access-network-a-project-of-community-partners",
+  "inclusion-matters-by-shanes-inspiration": "shanes-inspiration",
 
   // 2019
   // "changeist-formerly-big-citizen-hub": "big-citizen-hub",

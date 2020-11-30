@@ -1,12 +1,12 @@
 ---
 published: true
 organization_id: '2018105'
-title: Roots & Wings
-org_type: For profit business
+title: Roots & Wings Institute of Social and Emotional Learning
+org_type: Nonprofit
 org_summary: >-
-  We are a 501c3 non-profit organization bringing evidence-based parent
-  education, child & teen resilience building and whole school programs proven
-  to heal, protect and grow a better future.
+  Roots & Wings’ mission is to prevent childhood trauma, mental illness,
+  substance abuse and violence by teaching evidence-based psychological tools to
+  children, teens, parents and educators.
 tags_indicators:
   - Early childhood
   - Mental & emotional health
@@ -14,24 +14,28 @@ tags_indicators:
   - Health
 charity_navigator_url: ''
 organization_website:
-  - rootsnwings.org
+  - 'https://www.rootsnwings.org'
 twitter: ''
-instagram: rootsnwings_malibu
-facebook: >-
-  Roots-Wings-Counseling-Classes-Coaching-for-a-Meaningful-Life-1952358844987700/
+instagram: '@rootsnwings_malibu'
+facebook: 'https://www.facebook.com/rootsandwingsinstitute'
 ein: '821894269'
-zip: '90017'
+zip: '90265'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/roots-wings.jpg'
-project_video: 'https://www.youtube.com/watch?v=nNWKz4hwzOc'
+project_video: 'https://youtu.be/Rnmt-4xYPDo'
 challenge_url:
+  - >-
+    https://challenge.la2050.org/2020/live/roots-wings-institute-of-social-and-emotional-learning/
   - 'https://activation.la2050.org/live/roots-wings/'
 year_submitted:
+  - '2020'
   - '2018'
 project_ids:
+  - 0202259
   - '8102105'
 project_titles:
+  - >-
+    The Good Life Academy: Helping LA Teens Get the Support they Need to Live
+    Their Best Life
   - The Whole School Approach to a Safer & Happier Community
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/roots-wings/activation.la2050.org/assets/images/live/2048-wide/roots-wings.jpg
 
 ---

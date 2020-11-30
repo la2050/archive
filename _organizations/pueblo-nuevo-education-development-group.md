@@ -1,6 +1,6 @@
 ---
 published: true
-organization_id: '2020058'
+organization_id: '2016034'
 title: Pueblo Nuevo Education & Development Group
 org_type: Nonprofit
 org_summary: >-
@@ -9,9 +9,9 @@ org_summary: >-
   diverse enrichment activities, and whole child care to underserved students
   from Central Los Angeles, regardless of zip code or income.
 tags_indicators:
-  - STEM & Digital literacy
   - Teaching & mentorship
   - Education & youth
+  - STEM & Digital literacy
 charity_navigator_url: ''
 organization_website:
   - 'https://www.pueblonuevo.org'
@@ -26,11 +26,17 @@ project_video: ''
 challenge_url:
   - >-
     https://challenge.la2050.org/2020/learn/pueblo-nuevo-education-development-group/
+  - >-
+    https://challenge.la2050.org/entry/camino-to-college-paving-the-way-to-and-through-college-for-urban-youth
 year_submitted:
   - '2020'
+  - '2016'
 project_ids:
   - 0202058
+  - '6102030'
 project_titles:
   - Next Generation STEM Leaders in MacArthur Park
+  - 'Camino to College: Paving the Way To and Through College for Urban Youth'
+  - Candice Ryu
 
 ---
