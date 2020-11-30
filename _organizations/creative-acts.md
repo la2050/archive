@@ -2,7 +2,7 @@
 published: true
 organization_id: '2020167'
 title: Creative Acts
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   We seek to transform the most pressing social justice issues through the
   revolutionary power of the Arts; to heal trauma, build community, raise power
