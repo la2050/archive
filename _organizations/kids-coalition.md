@@ -20,7 +20,7 @@ organization_website:
 twitter: '@kidscoalition'
 instagram: '@puttingkidsfirst'
 facebook: '@kidscoalition'
-ein: '204562686'
+ein: '204562686001'
 zip: '90210'
 project_image: 'https://images.la2050.org/challenge/2020/learn/2048-wide/kids-coalition.jpg'
 project_video: ''
