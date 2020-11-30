@@ -2,7 +2,7 @@
 published: true
 organization_id: '2020042'
 title: Kids Coalition
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Translating "kids first" from a soundbite into a civil right for the children
   of Los Angeles and California by empowering public school parents and students
