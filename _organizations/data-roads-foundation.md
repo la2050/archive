@@ -18,7 +18,7 @@ organization_website:
 twitter: '@jared4dataroads'
 instagram: ''
 facebook: 'https://www.facebook.com/dataroads/'
-ein: '311796801'
+ein: '311796801002'
 zip: '90005'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/data-roads-foundation.jpg
