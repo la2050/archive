@@ -18,7 +18,7 @@ organization_website:
 twitter: '@justice4sister'
 instagram: '@justice4sister'
 facebook: 'https://www.facebook.com/JusticeForMySister'
-ein: '954302067'
+ein: '954302067021'
 zip: '90012'
 project_image: >-
   https://images.la2050.org/challenge/2019/create/2048-wide/justice-for-my-sister-collective.jpg
