@@ -2,7 +2,7 @@
 published: true
 organization_id: '2014228'
 title: 'WriteGirl, a project of Community Partners'
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   WriteGirl promotes creativity and self-expression to empower underserved Los
   Angeles teen girls within a community of women writers. Since 2001,
@@ -17,7 +17,7 @@ organization_website:
 twitter: '@WriteGirlLA'
 instagram: '@WriteGirlLA'
 facebook: '@WriteGirlOrganization'
-ein: '954302067'
+ein: '954302067010'
 zip: '90013'
 project_image: >-
   https://images.la2050.org/challenge/2020/learn/2048-wide/writegirl-a-project-of-community-partners.jpg
