@@ -2,7 +2,7 @@
 published: true
 organization_id: '2020034'
 title: Fulcrum Arts
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Big City Lab is a social practice and design education initiative that invests
   in the potential of urban youth to understand and define their sense of place
