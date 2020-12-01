@@ -18,7 +18,7 @@ organization_website:
 twitter: '@KidCityHopePl'
 instagram: '@kidcityhopeplace'
 facebook: Kid City Hope Place
-ein: '953888111'
+ein: '953888111001'
 zip: '90015'
 project_image: >-
   https://images.la2050.org/challenge/2020/connect/2048-wide/kid-city-hope-place.jpg
