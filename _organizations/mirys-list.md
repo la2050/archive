@@ -18,7 +18,7 @@ organization_website:
 twitter: '@miryslist'
 instagram: '@miryslist and @newarrivalsupperclub'
 facebook: www.facebook.com/miryslist and facebook.com/newarrivalsupperclub
-ein: '954116679'
+ein: '954116679001'
 zip: '91302'
 project_image: 'https://images.la2050.org/challenge/2020/connect/2048-wide/mirys-list.jpg'
 project_video: 'https://youtu.be/pk8FW3byDRA'
