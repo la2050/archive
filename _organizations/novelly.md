@@ -2,7 +2,7 @@
 published: true
 organization_id: '2019106'
 title: Novelly
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Novelly is on a mission to spark the changemaker in every young person, one
   young adult novel at a time.
