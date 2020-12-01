@@ -1,7 +1,7 @@
 ---
 published: true
 organization_id: '2015113'
-title: Levitt Pavilion Greater Los Angeles & Pasadena
+title: Friends of Levitt Pavilion—City of Angels
 org_type: Nonprofit
 org_summary: >-
   We create “Community through Music”, by making live music accessible to all,
