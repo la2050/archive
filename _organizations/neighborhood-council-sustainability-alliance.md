@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015143'
 title: Neighborhood Council Sustainability Alliance
-org_type: Other
+org_type: Nonprofit
 org_summary: >-
   The Neighborhood Council Sustainability Alliance (NCSA) advances
   sustainability and resilience across Los Angeles through advocacy, sharing of
@@ -18,7 +18,7 @@ organization_website:
 twitter: 'http://www.twitter.com/LA_NCSA'
 instagram: ''
 facebook: 'https://www.facebook.com/neighborhoodcouncilsustainabilityalliance'
-ein: '475283695'
+ein: '954116679012'
 zip: '90026'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23843%252Fdisplay%252FCool_block_9.png=c570x385
