@@ -25,7 +25,7 @@ instagram: >-
 facebook: >-
   www.facebook.com/ThisIsTheDinnerParty, www.facebook.com/TheKitchenWidow,
   https://www.facebook.com/HopeAfterProject, www.facebook.com/firstseating
-ein: '954302067'
+ein: '954302067033'
 zip: '90026'
 project_image: 'https://img.youtube.com/vi/YijVi1ZG5EM/maxresdefault.jpg'
 project_video: ''
