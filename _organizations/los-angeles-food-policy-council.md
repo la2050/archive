@@ -18,7 +18,7 @@ organization_website:
 twitter: goodfoodla
 instagram: LosAngelesFoodPolicyCouncil
 facebook: lagoodfood
-ein: '954302067'
+ein: '954302067024'
 zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6804863875741-team90.jpg
