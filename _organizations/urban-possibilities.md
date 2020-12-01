@@ -2,7 +2,7 @@
 published: true
 organization_id: '2020281'
 title: urban possibilities
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Empower homeless job seekers with tools to move from survival to
   self-actualization - improving families, workplaces and our communities as a
@@ -18,7 +18,7 @@ organization_website:
 twitter: '@U_Possibilities'
 instagram: '@urbanpossibilities'
 facebook: urban possibilities
-ein: '954302067'
+ein: '954302067015'
 zip: 90019-1603
 project_image: >-
   https://images.la2050.org/challenge/2020/live/2048-wide/urban-possibilities.jpg
