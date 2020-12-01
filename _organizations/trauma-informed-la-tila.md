@@ -2,7 +2,7 @@
 published: true
 organization_id: '2020214'
 title: Trauma Informed LA (TILA)
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Trauma Informed LA (TILA) is an all-volunteer grassroots organization founded
   in 2014 whose mission is to foster resilient communities that promote healing
@@ -18,7 +18,7 @@ organization_website:
 twitter: '@traumainformdla'
 instagram: '@traumainformedla'
 facebook: '@traumainformedla'
-ein: '954827367'
+ein: '954827367001'
 zip: '91606'
 project_image: >-
   https://images.la2050.org/challenge/2020/connect/2048-wide/trauma-informed-la-tila.jpg
