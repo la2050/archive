@@ -17,7 +17,7 @@ organization_website:
 twitter: '@safeparkingla'
 instagram: '@safeparking_la'
 facebook: 'https://www.facebook.com/SafeParkingLA/'
-ein: '954302067'
+ein: '954302067005'
 zip: '90006'
 project_image: >-
   https://images.la2050.org/challenge/2020/live/2048-wide/safe-parking-la-a-project-of-community-partners.jpg
