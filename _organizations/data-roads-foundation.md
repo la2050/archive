@@ -10,8 +10,6 @@ org_summary: >-
 tags_indicators:
   - Workforce development
   - Income & employment
-  - Art
-  - Arts & cultural vitality
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311796801'
 organization_website:
   - 'https://DataRoads.org'
@@ -29,7 +27,6 @@ challenge_url:
     https://challenge.la2050.org/entry/la-on-the-l-a-m-m-learning-angels-mega-mesh
   - 'http://maker.good.is/myla2050connect2015/projects/Community-Box.html'
   - 'http://maker.good.is/myLA2050connect/projects/All_LA_online_faster.html'
-  - 'http://maker.good.is/myla2050connect2015/projects/C3.html'
 year_submitted:
   - '2018'
   - '2016'
@@ -40,13 +37,11 @@ project_ids:
   - '6102059'
   - '5102080'
   - '4102052'
-  - '5102079'
 project_titles:
   - 100% of LA online faster!
   - Community at Home Box
   - 'LA on the L.A.M.M: Learning Angels'' Mega-Mesh'
   - Women@Home Networks
-  - 'C3: Center for Connecting the Community '
 cached_project_image: >-
   https://archive-assets.la2050.org/images/data-roads-foundation/activation.la2050.org/assets/images/connect/2048-wide/data-roads-foundation.jpg
 
