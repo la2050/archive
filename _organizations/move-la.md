@@ -22,7 +22,7 @@ organization_website:
 twitter: '@movelatransit'
 instagram: '@movelatransit'
 facebook: www.facebook.com/movelatransit
-ein: '954302067'
+ein: '954302067026'
 zip: '90012'
 project_image: >-
   https://images.la2050.org/challenge/2020/live/2048-wide/move-la-a-project-of-community-partners.jpg
