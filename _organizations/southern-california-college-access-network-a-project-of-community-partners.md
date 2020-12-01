@@ -18,7 +18,7 @@ organization_website:
 twitter: '@socalcan'
 instagram: '@socalcan @projecsoarla'
 facebook: '@SouthernCaCAN'
-ein: '954302067'
+ein: '954302067031'
 zip: '90012'
 project_image: >-
   https://images.la2050.org/challenge/2020/learn/2048-wide/southern-california-college-access-network.jpg
