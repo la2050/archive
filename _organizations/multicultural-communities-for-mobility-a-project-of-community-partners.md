@@ -18,7 +18,7 @@ organization_website:
 twitter: '@MCMHandles'
 instagram: '@mcmhandles'
 facebook: facebook.com/multicultimobility
-ein: '954302067'
+ein: '954302067027'
 zip: '90015'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/multicultural-communities-for-mobility-a-project-of-community-partners.jpg
