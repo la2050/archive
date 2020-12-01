@@ -2,7 +2,7 @@
 published: true
 organization_id: '2020111'
 title: 'Project Equity, a program of Multiplier'
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Project Equity fosters economic resiliency with low- and middle-income
   communities by expanding employee ownership, a proven but little-known
@@ -19,7 +19,7 @@ organization_website:
 twitter: '@projectequity'
 instagram: ''
 facebook: www.facebook.com/ProjectEquity
-ein: '912166435'
+ein: '912166435001'
 zip: '94612'
 project_image: >-
   https://images.la2050.org/challenge/2020/create/2048-wide/project-equity-a-program-of-multiplier.jpg
