@@ -15,7 +15,7 @@ organization_website:
 twitter: 'http://twitter.com/exphalfhour'
 instagram: 'http://instagram.com/experimentalhalfhour'
 facebook: 'http://facebook.com/experimentalhalfhour'
-ein: '952540759'
+ein: '952540759002'
 zip: '91105'
 project_image: 'https://img.youtube.com/vi/DiU_9RR7ZvY/maxresdefault.jpg'
 project_video: ''
