@@ -17,7 +17,7 @@ organization_website:
 twitter: '@EngineerFactory'
 instagram: '@theengineerfactory'
 facebook: 'https://www.facebook.com/TheEngineerFactory/'
-ein: '954302067'
+ein: '954302067034'
 zip: '90012'
 project_image: >-
   https://images.la2050.org/challenge/2019/learn/2048-wide/the-engineer-factory-a-project-of-community-partners.jpg
