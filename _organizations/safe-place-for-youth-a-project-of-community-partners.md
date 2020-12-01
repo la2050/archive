@@ -17,7 +17,7 @@ organization_website:
 twitter: '@safeplace4youth'
 instagram: '@safeplaceforyouth'
 facebook: 'https://www.facebook.com/SafePlaceForYouth/'
-ein: '954302067'
+ein: '954302067006'
 zip: '90291'
 project_image: >-
   https://images.la2050.org/challenge/2020/live/2048-wide/safe-place-for-youth-a-project-of-community-partners.jpg
