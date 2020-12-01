@@ -16,7 +16,7 @@ organization_website:
 twitter: 'https://twitter.com/LAMakerspace'
 instagram: N/A
 facebook: www.facebook.com/LAMakerspace
-ein: '954116679'
+ein: '954116679015'
 zip: '91615'
 project_image: 'https://img.youtube.com/vi/V0_Km6YYSbo/maxresdefault.jpg'
 project_video: ''
