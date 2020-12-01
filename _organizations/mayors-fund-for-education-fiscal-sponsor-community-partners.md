@@ -16,7 +16,7 @@ organization_website:
 twitter: '@LBMayorsfund4Ed'
 instagram: ''
 facebook: '@LBMayorsfund4Ed'
-ein: '954302067'
+ein: '954302067025'
 zip: '90802'
 project_image: >-
   https://images.la2050.org/challenge/2019/learn/2048-wide/mayors-fund-for-education-fiscal-sponsor-community-partners.jpg
