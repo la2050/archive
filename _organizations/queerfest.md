@@ -15,7 +15,7 @@ organization_website:
 twitter: '@QueerFestLA'
 instagram: '@QueerFestLA'
 facebook: 'https://www.facebook.com/QueerFestLA'
-ein: '952540759'
+ein: '952540759004'
 zip: '90039'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21336%252Fdisplay%252FQueerFest2014.jpg=c570x385
