@@ -18,7 +18,7 @@ organization_website:
 twitter: '@TopangaTWC'
 instagram: TopangaWomensCircle
 facebook: TopangaWomensCircle
-ein: '954302067'
+ein: '954302067036'
 zip: '90015'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/topanga-womens-circle.jpg
