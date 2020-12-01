@@ -20,7 +20,7 @@ organization_website:
 twitter: '@InvestinPlace'
 instagram: '@Investinplace'
 facebook: 'https://www.facebook.com/investinginplace/'
-ein: '954302067'
+ein: '954302067019'
 zip: '90017'
 project_image: >-
   https://images.la2050.org/challenge/2020/connect/2048-wide/investing-in-place-a-project-of-community-partners.jpg
