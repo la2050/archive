@@ -15,7 +15,7 @@ organization_website:
 twitter: '@rootdownla'
 instagram: '@rootdownla'
 facebook: Root Down LA
-ein: '954302067'
+ein: '954302067029'
 zip: '90012'
 project_image: >-
   https://images.la2050.org/challenge/2019/live/2048-wide/root-down-la.jpg
