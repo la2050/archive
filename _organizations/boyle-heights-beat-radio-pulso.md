@@ -19,7 +19,7 @@ organization_website:
 twitter: '@boyleheightsbt '
 instagram: '@boyleheightsbt'
 facebook: 'Boyle Heights Beat '
-ein: '954116679'
+ein: '954116679009'
 zip: '90033'
 project_image: >-
   https://images.la2050.org/challenge/2020/connect/2048-wide/boyle-heights-beat-radio-pulso.jpg
