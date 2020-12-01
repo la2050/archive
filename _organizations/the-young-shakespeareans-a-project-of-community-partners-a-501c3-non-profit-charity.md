@@ -2,9 +2,8 @@
 published: true
 organization_id: '2020075'
 title: >-
-  The Young Shakespeareans (a project of Community Partners, a 501c3 Non-Profit
-  Charity)
-org_type: A fiscally sponsored group
+  The Young Shakespeareans (a project of Community Partners)
+org_type: Nonprofit
 org_summary: >-
   TYS’ mission is to use the richness of Shakespeare’s works to create early,
   challenging, and formative learning experiences in LA’s Title 1 elementary and
@@ -21,7 +20,7 @@ organization_website:
 twitter: 'https://twitter.com/tyslosangeles'
 instagram: 'https://www.instagram.com/theyoungshakespeareans/'
 facebook: 'https://www.theyoungshakespeareans.com/'
-ein: '954302067'
+ein: '954302067014'
 zip: '90012'
 project_image: >-
   https://images.la2050.org/challenge/2020/learn/2048-wide/the-young-shakespeareans-a-project-of-community-partners-a-501c3-non-profit-charity.jpg
