@@ -16,7 +16,7 @@ organization_website:
 twitter: ''
 instagram: SmartAirLA
 facebook: www.facebook.com/smartairla
-ein: '954302067'
+ein: '954302067030'
 zip: '90015'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/smartairla.jpg'
 project_video: ''
