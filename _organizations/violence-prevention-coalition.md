@@ -17,7 +17,7 @@ organization_website:
 twitter: VPCGLA
 instagram: ''
 facebook: 'https://www.facebook.com/vpcgla'
-ein: '954302067'
+ein: '954302067038'
 zip: '90012'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20605%252Fdisplay%252FRallyinLA.jpg=c570x385
