@@ -19,7 +19,7 @@ organization_website:
 twitter: www.twitter.com/levittla
 instagram: www.instagram.com/levittpas ; www.instagram.com/levittpavilionlosangeles
 facebook: www.facebook.com/LevittPavilionPasadena www.facebok.com/LevittPavilionMacPark
-ein: '810591705'
+ein: '834458316'
 zip: '91030'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23665%252Fdisplay%252FLevitt_LA_Silk_Road-285-2080542528-O.jpg=c570x385
