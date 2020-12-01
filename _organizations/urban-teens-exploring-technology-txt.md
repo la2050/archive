@@ -13,7 +13,7 @@ organization_website:
 twitter: '@urbantxt'
 instagram: 'http://instagram.com/urbantxt'
 facebook: www.facebook.com/UrbanTeenseXploringTechnology
-ein: '954302067'
+ein: '954302067037'
 zip: '90007'
 project_image: 'https://img.youtube.com/vi/g_OFCYLH7gw/hqdefault.jpg'
 project_video: ''
