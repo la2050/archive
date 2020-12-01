@@ -19,7 +19,7 @@ organization_website:
 twitter: '@center4council'
 instagram: '@center4council'
 facebook: '@centerforcouncil'
-ein: '954302067'
+ein: '954302067002'
 zip: '90029'
 project_image: >-
   https://images.la2050.org/challenge/2020/connect/2048-wide/center-for-council-a-project-of-community-partners.jpg
