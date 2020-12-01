@@ -4,9 +4,9 @@ organization_id: '2015047'
 title: Culture Shock Los Angeles
 org_type: Nonprofit
 org_summary: >-
-  Data Roads Foundation expands access to interconnected networks (or Internets
-  for short) by promoting community network ownership, free as in liberty
-  software, and free documentation (including legal templates).
+  Culture Shock LA utilizes urban dance, art, and culture to cultivate
+  meaningful education, enrichment and entertainment programs
+  in diverse communities.
 tags_indicators:
   - Art
   - Arts & cultural vitality
@@ -16,7 +16,7 @@ organization_website:
 twitter: www.twitter.com/cultureshockla
 instagram: www.instagram.com/cultureshockla
 facebook: www.facebook.com/cultureshockla
-ein: '311796801'
+ein: '261198327'
 zip: '94611'
 project_image: 'https://img.youtube.com/vi/wmExJ7xdKYc/maxresdefault.jpg'
 project_video: ''
