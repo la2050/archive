@@ -4,21 +4,18 @@ organization_id: '2015046'
 title: Council for Watershed Health
 org_type: Nonprofit
 org_summary: >-
-  Culture Shock LA utilizes urban dance, art, and culture to cultivate
-  meaningful education, enrichment and entertainment programs
-   in diverse communities.
+  Our mission is to advance the health and sustainability of our region’s watersheds, rivers, streams and habitats - both in natural areas and urban neighborhoods. We do this through science-based research, education and inclusive stakeholder engagement.
 tags_indicators:
   - Climate change
   - Access to parks & green space
   - Environmental quality & sustainability
   - Public safety & public space
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=261198327'
 organization_website:
   - www.watershedhealth.org
 twitter: www.twitter.com/CWH_org
 instagram: www.instagram.com/watershedhealth
 facebook: www.facebook.com/CouncilforWatershedHealth
-ein: '261198327'
+ein: '954589325'
 zip: '90731'
 project_image: 'https://img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg'
 project_video: ''
