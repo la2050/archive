@@ -17,7 +17,7 @@ organization_website:
 twitter: www.twitter.com/DaysofDialogue
 instagram: ''
 facebook: WWW.FACEBOOK.COM/GROUPS/110752075748344/
-ein: '954302067'
+ein: '954302067035'
 zip: '90012'
 project_image: 'https://img.youtube.com/vi/69OXVYZ15kU/maxresdefault.jpg'
 project_video: ''
