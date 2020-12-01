@@ -2,7 +2,7 @@
 published: true
 organization_id: '2020095'
 title: Entrepreneurship Advantage
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   To create economic opportunity for entrepreneurs and small businesses in Los
   Angeles County by connecting human, technical, and capital resources through
@@ -17,7 +17,7 @@ organization_website:
 twitter: 'https://www.linkedin.com/groups/12306659/'
 instagram: ''
 facebook: '-'
-ein: '943246306'
+ein: '943246306001'
 zip: '94102'
 project_image: >-
   https://images.la2050.org/challenge/2020/create/2048-wide/entrepreneurship-advantage.jpg
