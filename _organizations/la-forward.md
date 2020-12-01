@@ -17,7 +17,7 @@ organization_website:
 twitter: '@LosAngelesFwd'
 instagram: '@LAForward'
 facebook: facebook.com/losangelesforward
-ein: '954781974'
+ein: '954781974001'
 zip: '90027'
 project_image: 'https://images.la2050.org/challenge/2020/live/2048-wide/la-forward.jpg'
 project_video: ''
