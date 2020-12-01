@@ -19,7 +19,7 @@ organization_website:
 twitter: '@creative_acts'
 instagram: '@creative_acts'
 facebook: '@creativeacts.us'
-ein: '954116679'
+ein: '954116679010'
 zip: '90036'
 project_image: 'https://images.la2050.org/challenge/2020/connect/2048-wide/creative-acts.jpg'
 project_video: ''
