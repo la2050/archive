@@ -2,7 +2,7 @@
 published: true
 organization_id: '2020161'
 title: Changeist
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Changeist's mission is to build a community of diverse young people that
   utilize their personal agency to create a more just society. We're fostering
@@ -19,7 +19,7 @@ organization_website:
 twitter: '@changeistLA'
 instagram: '@changeistLA'
 facebook: 'https://www.facebook.com/changeistLA'
-ein: '954302067'
+ein: '954302067020'
 zip: '90012'
 project_image: 'https://images.la2050.org/challenge/2020/connect/2048-wide/changeist.jpg'
 project_video: 'https://youtu.be/CVDTqmullRM'
