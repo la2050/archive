@@ -16,7 +16,7 @@ organization_website:
 twitter: '@lacommons'
 instagram: '@lacommons'
 facebook: lacommons
-ein: '954302067'
+ein: '954302067022'
 zip: '90015'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/la-commons-a-project-of-community-partners.jpg
