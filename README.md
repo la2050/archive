@@ -1,7 +1,7 @@
 
 # My LA2050 Ideas Archive
 
-This is a website for the My LA2050 ideas archive–a searchable database of organizations and projects from the maker, grants and activation challenges for 2013-2018.
+This is a website for the My LA2050 ideas archive–a searchable database of organizations and projects from the maker, grants and activation challenges for 2013-2020.
 
 https://archive.la2050.org
 
