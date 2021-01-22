@@ -719,7 +719,7 @@ function addCategoryColor(tag) {
 
 
 <p id="photo-credit" style="max-width: none; display: none; margin-top: 9em; margin-left: auto;margin-right: auto;text-align: center;">
-  Photo by <a href="" style="color: inherit;"></a>
+  Photo by <a href="" style="color: inherit;"></a><span></span>
 </p>
 
 
@@ -1521,6 +1521,10 @@ footer {
       link.textContent = featuredOrganization.title;
       photoCredit.style.display = "block";
     }
+    // var year = photoCredit.querySelector("span");
+    // if (year && featuredOrganization.year) {
+    //   year.textContent = ", " + featuredOrganization.year;
+    // }
   }
 })();
 

@@ -16,7 +16,10 @@ var featuredOrganizations = [
         {
           title : "{{ data.title }}",
           url   : "{{ data.url }}",
-          image : "{{ data.project_image }}"
+          image : "{{ data.project_image }}",
+          {% if data.year_submitted and data.year_submitted.size > 0 %}
+          year : "{{ data.year_submitted[0] }}",
+          {% endif %}
         }
         {% assign delimiter = "," %}
       {%- endif -%}
