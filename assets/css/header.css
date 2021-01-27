@@ -163,6 +163,35 @@
     }
   }
 
+  /* SHIM: Switch to a grid layout */
+  @supports (display: grid) {
+    .promotion .action {
+      margin-top: 2.25em;
+      margin-bottom: 0.75em;
+    }
+    @media (min-width: 40em) {
+      .promotion {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        grid-gap: 2.25em;
+      }
+      .promotion h1,
+      .promotion p {
+        justify-self: end;
+        text-align: end;
+        margin: 0;
+        align-self: center;
+        max-width: unset;
+      }
+      .promotion .action {
+        justify-self: start;
+        margin: 0;
+        align-self: center;
+        text-align: center;
+      }
+    }
+  }
+
 
   body .header-figure.has-caption.has-caption-details .caption h1 {
     color: var(--primary-color);
