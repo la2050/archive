@@ -10,7 +10,7 @@ main_class: standard-layout
 <p style="max-width: 33em">The <a href="/">My LA2050 Ideas Archive</a> is searchable database of great organizations and bright ideas from the <a href="https://challenge.la2050.org">My LA2050 Challenges</a>.</p>
 </div>
 
-## Over 1,000 organizations have submitted ideas
+## Over 1,200 organizations have submitted ideas
 
 These organizations are non-profits, for-profits, individuals, and government agencies. They all are doing their part to ensure Los Angeles has a bright future. 
 
