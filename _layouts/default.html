@@ -126,7 +126,7 @@
 
   <header id="navigation">
     {% include logotype.html %}
-    {% include navigation.html %}
+    {% include navigation.html is_header_navigation=true %}
     <p class="nav-link action" style="display: none">
       <a href="#navigation">
         <svg width="22" height="19" viewBox="0 0 22 19" class="open">
@@ -153,7 +153,7 @@
   </main>
   <footer>
     {% include logotype.html %}
-    {% include navigation.html %}
+    {% include navigation.html is_footer_navigation=true %}
     <ul class="social-links">
       <li>
         <a href="https://twitter.com/LA2050">
