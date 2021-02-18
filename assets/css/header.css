@@ -588,6 +588,21 @@
     color: rgb(255, 224, 81); /* @bright-banana */
   }
 
+  .la2050-navigation-link {
+    padding-left: 1.5em;
+    border-left: 1px solid;
+  }
+  .la2050-navigation-link a {
+    font-weight: 300;
+    text-transform: none;
+  }
+
+  @media (max-width: 40em) {
+    .la2050-navigation-link {
+      padding-left: 0.75em;
+    }
+  }
+
 
   /* =Headline
   ----------------------------------------------- */
