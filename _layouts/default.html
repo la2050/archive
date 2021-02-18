@@ -29,6 +29,7 @@
   <link rel="stylesheet" href="/assets/css/process.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/figure.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/header.css?v={{ site.version }}" />
+  <link rel="stylesheet" href="/assets/css/footer-promotion.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/header-figure.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/navigation.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/layout.css?v={{ site.version }}" />
@@ -151,6 +152,13 @@
   <main{% if page.main_class %} class="{{ page.main_class }}"{% elsif layout.main_class %} class="{{ layout.main_class }}"{% endif %}>
     {{ content }}
   </main>
+  <aside class="footer-promotion">
+    <img src="/assets/images/la-2050@x2.png" alt="" />
+    <p>
+      The Ideas Archive is part of the greater <a href="https://la2050.org/">LA2050 initiative</a>.
+      <span class="avoid-break" data-characters="45">We’re working to move Los Angeles <span class="avoid-break">toward <a href="https://la2050.org/metrics">five goals</a>.</span></span>
+    </p>
+  </aside>
   <footer>
     {% include logotype.html %}
     {% include navigation.html is_footer_navigation=true %}
@@ -192,7 +200,8 @@
     <div class="la2050">
       <p>
         <a href="https://la2050.org/">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45 10">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45 10" aria-label="LA2050">
+            <title>LA2050</title>
             <switch>
               <g>
                 <path d="M0.8759766,9.2001953V0.7045898h2.0644531v6.7075195h3.2871094v1.7880859H0.8759766z"/>
