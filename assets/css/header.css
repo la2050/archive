@@ -321,6 +321,7 @@
   header li,
   footer li {
     display: inline-block;
+    vertical-align: middle;
     margin: 0.25em 0.75em;
   }
 /*  header ul {
@@ -431,9 +432,11 @@
     display: inline-block;
   }
 
+  header .la2050 a,
   footer .la2050 p:first-child a {
     font-weight: 700;
   }
+  header .la2050 a svg,
   footer .la2050 a svg {
     width: 4.5em;
     height: 1em;
@@ -441,8 +444,17 @@
     width: calc(4.5em * 0.875);
     height: calc(1em * 0.875);
   }
+  header .la2050 a svg path,
   footer .la2050 a svg path {
     fill: currentColor;
+  }
+  header .la2050 a,
+  footer .la2050 a {
+    text-transform: uppercase;
+  }
+
+  header .la2050 svg {
+    display: block;
   }
 
   header .navigation .primary li,
@@ -575,6 +587,40 @@
     color: rgb(254, 254, 254); /* @snow */
     color: rgb(255, 224, 81); /* @bright-banana */
   }
+
+  
+    header .navigation ul:first-child,
+    footer .navigation ul:first-child {
+      margin-bottom: 0;
+    }
+    header .navigation ul + ul,
+    footer .navigation ul + ul {
+      margin-top: 0;
+    }
+
+    .la2050-navigation a {
+      font-weight: 400;
+      text-transform: none;
+    }
+
+    /* @media (max-width: 40em) {
+      .la2050-navigation {
+        padding-left: 0.75em;
+      }
+    } */
+
+    @media (min-width: 70em) {
+      header .navigation,
+      footer .navigation {
+        display: flex;
+        flex-wrap: wrap;
+      }
+      .la2050-navigation {
+        margin-left: 1.5em;
+        padding-left: 0.75em;
+        border-left: 1px solid;
+      }
+    }
 
 
   /* =Headline
