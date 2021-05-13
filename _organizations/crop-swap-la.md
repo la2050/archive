@@ -2,7 +2,7 @@
 published: true
 organization_id: '2020230'
 title: Crop Swap LA
-org_type: For-profit
+org_type: Social enterprise
 org_summary: >-
   Crop Swap LA is a social enterprise seeking to close the nutritional gap in
   Los Angeles by creating an infrastructure for all communities to have access
