@@ -5,8 +5,8 @@ let fs = require('fs')
 let mkdirp = require('mkdirp')
 let yaml = require('js-yaml')
 
-const yearSubmitted = 2020
-const dataPath = `../../git-challenge/_2020/`
+const yearSubmitted = 2021
+const dataPath = `../../git-challenge/_2021/`
 const categories = ["learn", "create", "play", "connect", "live"]
 const category_colors = {
   learn   : "blueberry",
@@ -19,34 +19,34 @@ const category_colors = {
 const sameOrganizationMap = {
   // new name : // old name
   // 2020
-  "facing-history-and-ourselves": "facing-history-and-ourselves-inc",
-  "national-association-of-latino-independent-producers-nalip": "the-national-association-of-latino-independent-producers-nalip",
-  "crayon-collection-dba-habits-of-waste": "crayon-collection",
-  "the-music-center": "performing-arts-center-of-los-angeles-county-aka-the-music-center-grand-park",
-  "mighty-companions-inc": "mighty-companions",
+  // "facing-history-and-ourselves": "facing-history-and-ourselves-inc",
+  // "national-association-of-latino-independent-producers-nalip": "the-national-association-of-latino-independent-producers-nalip",
+  // "crayon-collection-dba-habits-of-waste": "crayon-collection",
+  // "the-music-center": "performing-arts-center-of-los-angeles-county-aka-the-music-center-grand-park",
+  // "mighty-companions-inc": "mighty-companions",
 
-  "grid110": "grid110-inc",
-  "network-for-teaching-entrepreneurship-los-angeles-nfte-la": "network-for-teaching-entrepreneurship-nfte-greater-los-angeles",
-  "bicycle-kitchen-la-bicicocina": "re-ciclos-and-bicycle-kitchen",
-  "my-friends-house-inc": "my-friends-house",
-  "encorps-stem-teachers": "encorps-inc",
-  "harlem-lacrosse-los-angeles": "harlem-lacrosse",
-  "l-a-compost": "la-compost",
-  "tia-chuchas-centro-cultural-bookstore": "tia-chuchas-centro-cultural",
-  "u-s-green-building-council-los-angeles": "us-green-building-council-la",
-  "global-green-usa": "global-green",
-  "cheshire-moon": "cheshire-moon-inc",
-  "pueblo-nuevo-education-development-group": "camino-nuevo-charter-academy",
-  "friends-of-girls-academic-leadership-academy-gala": "girls-academic-leadership-academy-gala",
-  "roots-wings-institute-of-social-and-emotional-learning": "roots-wings",
-  "homeplace-@-yjc": "youth-justice-coalition",
-  "central-american-resource-center-carecen-of-california": "central-american-resource-center-carecen-los-angeles",
-  "social-and-environmental-entrepreneurs": "social-environmental-entrepreneurs",
-  "circle-of-friends-the-path-to-inclusion": "circle-of-friends-the-path-to-inclusion-a-project-of-community-partners",
-  "investing-in-place-a-project-of-community-partners": "investing-in-place",
-  "move-la-a-project-of-community-partners": "move-la",
-  "southern-california-college-access-network": "southern-california-college-access-network-a-project-of-community-partners",
-  "inclusion-matters-by-shanes-inspiration": "shanes-inspiration",
+  // "grid110": "grid110-inc",
+  // "network-for-teaching-entrepreneurship-los-angeles-nfte-la": "network-for-teaching-entrepreneurship-nfte-greater-los-angeles",
+  // "bicycle-kitchen-la-bicicocina": "re-ciclos-and-bicycle-kitchen",
+  // "my-friends-house-inc": "my-friends-house",
+  // "encorps-stem-teachers": "encorps-inc",
+  // "harlem-lacrosse-los-angeles": "harlem-lacrosse",
+  // "l-a-compost": "la-compost",
+  // "tia-chuchas-centro-cultural-bookstore": "tia-chuchas-centro-cultural",
+  // "u-s-green-building-council-los-angeles": "us-green-building-council-la",
+  // "global-green-usa": "global-green",
+  // "cheshire-moon": "cheshire-moon-inc",
+  // "pueblo-nuevo-education-development-group": "camino-nuevo-charter-academy",
+  // "friends-of-girls-academic-leadership-academy-gala": "girls-academic-leadership-academy-gala",
+  // "roots-wings-institute-of-social-and-emotional-learning": "roots-wings",
+  // "homeplace-@-yjc": "youth-justice-coalition",
+  // "central-american-resource-center-carecen-of-california": "central-american-resource-center-carecen-los-angeles",
+  // "social-and-environmental-entrepreneurs": "social-environmental-entrepreneurs",
+  // "circle-of-friends-the-path-to-inclusion": "circle-of-friends-the-path-to-inclusion-a-project-of-community-partners",
+  // "investing-in-place-a-project-of-community-partners": "investing-in-place",
+  // "move-la-a-project-of-community-partners": "move-la",
+  // "southern-california-college-access-network": "southern-california-college-access-network-a-project-of-community-partners",
+  // "inclusion-matters-by-shanes-inspiration": "shanes-inspiration",
 
   // 2019
   // "changeist-formerly-big-citizen-hub": "big-citizen-hub",
@@ -95,7 +95,7 @@ function processFile(filepath) {
   let project_id = `${ reverseString(String(yearSubmitted)) }${ String(projectCounter++).padStart(3, "0") }`
 
   let project_image
-  if (yearSubmitted == 2020) {
+  if (yearSubmitted >= 2020) {
     project_image = `https://images.la2050.org/challenge/${ data.year }/${ data.category }/2048-wide/${ data.filename }.jpg`;
   } else if (yearSubmitted == 2019) {
     project_image = `https://challenge.la2050.org/assets/images/${ data.year }/${ data.category }/2048-wide/${ data.filename }.jpg`;
@@ -174,14 +174,44 @@ function processFile(filepath) {
     organization.removed_ein_note = existingOrganization.removed_ein_note;
   }
 
-  if (yearSubmitted == 2020) {
+  if (yearSubmitted == 2021) {
+    organization.org_summary = data["Describe the mission of your organization."];
+  } if (yearSubmitted == 2020) {
     organization.org_summary = data["Please describe the mission of your organization."];
   } else if (yearSubmitted == 2019) {
     organization.org_summary = data.organization_activity;
   }
 
   let project
-  if (yearSubmitted == 2020) {
+  if (yearSubmitted == 2021) {
+    project = {
+      published: true,
+      organization_id: organization_id,
+      year_submitted: yearSubmitted,
+      category: data.category,
+      body_class: category_colors[data.category],
+      project_id: project_id,
+      challenge_url: challengeURL,
+      title: data.title,
+      project_summary: data.project_description,
+      project_image: project_image,
+      project_video: data.project_video || "",
+      "In which areas of Los Angeles will you be directly working?": data["In which areas of Los Angeles will you be directly working?"],
+      "In what stage of innovation is this project, program, or initiative?": data["In what stage of innovation is this project, program, or initiative?"],
+      "What is the problem that you are seeking to address?": data["What is the problem that you are seeking to address?"],
+      "Describe the project, program, or initiative that this grant will support to address the problem identified.": data["Describe the project, program, or initiative that this grant will support to address the problem identified."],
+      "What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?": data["What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?"],
+      "Approximately how many people will be directly impacted by this project, program, or initiative?": data["Approximately how many people will be directly impacted by this project, program, or initiative?"],
+      "Approximately how many people will be indirectly impacted by this project, program, or initiative?": data["Approximately how many people will be indirectly impacted by this project, program, or initiative?"],
+      "Describe how Los Angeles County will be different if your work is successful.": data["Describe how Los Angeles County will be different if your work is successful."],
+      "Describe the role of collaborating organizations on this project.": data["Describe the role of collaborating organizations on this project."],
+      "Which of LA2050’s resources will be of the most value to you?": data["Which of LA2050’s resources will be of the most value to you?"],
+      "Please list the organizations collaborating on this proposal.": data["Please list the organizations collaborating on this proposal."],
+      "Which metrics will you impact?": data["Which metrics will you impact?"],
+      "Indicate any additional LA2050 goals your project will impact.": data["Indicate any additional LA2050 goals your project will impact."],
+      organization_name: data.organization_name
+    }
+  } else if (yearSubmitted == 2020) {
     project = {
       published: true,
       organization_id: organization_id,
@@ -249,7 +279,7 @@ function processFile(filepath) {
       organization_name: data.organization_name
     }
   }
-  
+
   importedOrganizationsByName[data.organization_name.toLowerCase()] = organization
 
   createOrganizationMarkdown(organization, existingOrganization)
@@ -290,12 +320,27 @@ function createOrganizationMarkdown(data, existingOrganization) {
     }
   }
 
-  saveMarkdown(writePath, filename, data)
+  const overwrite = true;
+  saveMarkdown(writePath, filename, data, overwrite)
 }
 
 function createProjectMarkdown(data) {
   let writePath = '../_projects/' + yearSubmitted
   let filename = stringToURI(data.title)
+
+  // Special cases for 2021
+  // A) filenames too long
+  if (filename === "sola-technology-entrepreneurship-center-bridging-the-digital-divide-in-south-la-by-opening-new-access-points-to-cutting-edge-digital-skills-training-and-entrepreneurship-education-with-the-goal-of-inspiring-the-next-generation-of-black-latinx-tech-and-business-leaders") {
+    filename = "sola-technology-entrepreneurship-center-bridging-the-digital-divide-in-south-la";
+  }
+  if (filename === "immersive-learning-inside-the-world-in-a-cell-uses-emergent-technologies-such-as-virtual-reality-interactive-games-and-world-building-to-take-los-angeles-youth-on-an-artscience-journey-inside-the-complex-world-in-our-cells-to-better-understand-how-their-bodies-work") {
+    filename = "immersive-learning-inside-the-world-in-a-cell";
+  }
+  // B) Project in two categories with same title 
+  if (filename === "enabling-la-heroes-through-mobility") {
+    filename = `${"enabling-la-heroes-through-mobility"}-${data.category}`;
+  }
+
   saveMarkdown(writePath, filename, data)
 }
 
@@ -367,7 +412,7 @@ ${items[1]}`
   }
 }
 
-function saveMarkdown(writePath, filename, data) {
+function saveMarkdown(writePath, filename, data, overwrite) {
 
   console.dir(data)
 
@@ -382,6 +427,10 @@ ${yaml.safeDump(data)}
     if (err) {
       console.error(err)
     } else {
+      if (fs.existsSync(`${writePath + '/' +  filename + '.md'}`) && overwrite !== true) {
+        throw new Error(`${writePath + '/' +  filename + '.md'} already exists. Skipping…`);
+        return;
+      }
       fs.writeFileSync(writePath + '/' +  filename + '.md', output, 'utf8', (err) => {
         if (err) {
           console.log(err)
