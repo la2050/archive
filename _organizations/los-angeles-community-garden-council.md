@@ -4,34 +4,36 @@ organization_id: '2014165'
 title: Los Angeles Community Garden Council
 org_type: Nonprofit
 org_summary: >-
-  We @LAgardens can help 150 low-income families in LA grow healthy food in
-  their neighborhood in the next year!
+  The Los Angeles Community Garden Council’s mission is to strengthen
+  communities by building and supporting community gardens where every person in
+  Los Angeles County can grow healthy food in their neighborhood.
 tags_indicators:
   - Access to healthy food
   - Access to parks & green space
   - Health
   - Public safety & public space
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311734705'
-organization_website: ''
-twitter: ''
-instagram: ''
-facebook: ''
+charity_navigator_url: ''
+organization_website:
+  - 'https://www.lagardencouncil.org'
+twitter: '@lagardencouncil'
+instagram: '@lagardencouncil'
+facebook: 'https://www.facebook.com/LACGC/'
 ein: '311734705'
 zip: '90027'
 project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20229%252Fdisplay%252FLACGC_Community_Photo.jpg=c570x385
-project_video: ''
-challenge_url: []
+  https://images.la2050.org/challenge/2021/live/2048-wide/los-angeles-community-garden-council.jpg
+project_video: 'https://youtu.be/Nxc_TSbnkQU'
+challenge_url:
+  - 'https://challenge.la2050.org/2021/live/los-angeles-community-garden-council/'
 year_submitted:
+  - '2021'
   - '2014'
 project_ids:
+  - '1202281'
   - '4102126'
 project_titles:
+  - LACGC and SCCGC
   - Grow Healthy Food in Your Neighborhood!
   - Growing a Healthy Los Angeles
-maker_image_file_name: LACGC_Community_Photo.jpg
-maker_image_id: '20229'
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/los-angeles-community-garden-council/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20229%252Fdisplay%252FLACGC_Community_Photo.jpg=c570x385.jpg
 
 ---

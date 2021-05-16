@@ -3,7 +3,7 @@ published: true
 organization_id: '2016113'
 title: 'Jenesse Center, Inc.'
 org_type: Nonprofit
-org_summary: >
+org_summary: >-
   Jenesse Center’s mission is to restore families impacted by domestic and
   sexual violence through holistic, trauma informed, culturally responsive
   services, and advance prevention initiatives that foster and sustain healthy,
@@ -15,15 +15,17 @@ tags_indicators:
   - Health
 charity_navigator_url: ''
 organization_website:
-  - 'https://jenesse.org/'
+  - 'https://www.jenesse.org'
 twitter: '@JenesseCenter'
 instagram: '@jenessecenter'
-facebook: JenesseCenter
+facebook: 'https://www.facebook.com/JenesseCenter/'
 ein: '953652529'
 zip: '90008'
-project_image: 'https://images.la2050.org/challenge/2020/live/2048-wide/jenesse-center-inc.jpg'
-project_video: 'https://www.youtube.com/watch?v=RsjC3-mqGlU'
+project_image: >-
+  https://images.la2050.org/challenge/2021/create/2048-wide/jenesse-center-inc.jpg
+project_video: 'https://youtu.be/VduulSFZ2x8'
 challenge_url:
+  - 'https://challenge.la2050.org/2021/create/jenesse-center-inc/'
   - 'https://challenge.la2050.org/2020/live/jenesse-center-inc/'
   - >-
     https://challenge.la2050.org/entry/jeneration-j-a-new-generation-of-healthy-relationships
@@ -31,18 +33,21 @@ challenge_url:
   - 'http://maker.good.is/myLA2050connect/projects/YouthConversations.html'
   - 'http://maker.good.is/myla2050/projects/JCSupportiveHousing.html'
 year_submitted:
+  - '2021'
   - '2020'
   - '2016'
   - '2015'
   - '2014'
   - '2013'
 project_ids:
+  - '1202103'
   - '0202244'
   - '6102108'
   - '5102149'
   - '4102103'
   - '3102159'
 project_titles:
+  - Create New Paths for Economic Equality
   - Domestic Violence Intervention and Prevention Program
   - 'Abuse ≠Love: LA Youth Against Violence Initiative '
   - 'Conversations for Change: LA Youth Work Towards A Violence Free Future'

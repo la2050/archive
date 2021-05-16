@@ -4,39 +4,42 @@ organization_id: '2016125'
 title: LA Voice
 org_type: Nonprofit
 org_summary: >-
-  LA Voice is an interfaith, multi-racial community organization with a mission
-  to transform Los Angeles into a County that reflects the human dignity of all
-  people, especially those in greatest need.
+  LA Voice is a multi-racial, multi-faith organization with a mission to
+  transform Los Angeles into a county that reflects the human dignity of its
+  communities, with racial equity and abundant life for all. We develop
+  spiritually grounded teams that elevate their stories into the public
+  narrative to drive systemic change.
 tags_indicators:
   - Community safety
   - Public safety & public space
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954781974'
+charity_navigator_url: ''
 organization_website:
-  - www.lavoice.org
-twitter: LA_Voice
-instagram: LA-Voice-PICO-105379576176527/?fref=ts
-facebook: l.a._voice
+  - 'https://www.lavoice.org'
+twitter: '@LA_Voice'
+instagram: '@la_voice'
+facebook: 'https://www.facebook.com/lavoicepico/'
 ein: '954781974'
-zip: '90005'
-project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8576563265741-team91.jpg
-project_video: ''
+zip: '90010'
+project_image: 'https://images.la2050.org/challenge/2021/connect/2048-wide/la-voice.jpg'
+project_video: 'https://www.youtube.com/watch?v=fIZdG5Z5Vcg'
 challenge_url:
+  - 'https://challenge.la2050.org/2021/connect/la-voice/'
   - >-
     https://challenge.la2050.org/entry/building-police-community-trust-in-compton-through-reform-and-accountability
   - 'http://maker.good.is/myla2050connect2015/projects/lavoice.html'
 year_submitted:
+  - '2021'
   - '2016'
   - '2015'
 project_ids:
+  - '1202212'
   - '6102125'
   - '5102169'
 project_titles:
+  - LA Free the Vote
   - >-
     Building police - community trust in Compton through reform and
     accountability
   - Turning Out Voters Through Local Relationships
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/la-voice/skild-prod.s3.amazonaws.com/myla2050/images/custom540/8576563265741-team91.jpg
 
 ---
