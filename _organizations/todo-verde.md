@@ -11,6 +11,7 @@ org_summary: >-
   awareness & access to naturally good food.
 tags_indicators:
   - Access to healthy food
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.todoverde.org'

@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Art
   - Fitness & sports
+  - Arts & cultural vitality
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://awokefoundation.org/'

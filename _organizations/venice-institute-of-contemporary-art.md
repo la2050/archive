@@ -13,6 +13,8 @@ tags_indicators:
   - Teaching & mentorship
   - Art
   - Creative economy
+  - Education & youth
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.veniceica.org'

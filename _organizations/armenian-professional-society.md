@@ -10,6 +10,7 @@ org_summary: >-
   by granting scholarships to graduate students in a variety of fields.
 tags_indicators:
   - College prep
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'http://www.armenianprofessionalsociety.org/'

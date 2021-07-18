@@ -11,6 +11,8 @@ org_summary: >-
 tags_indicators:
   - Disability & aging
   - Workforce development
+  - Mobility
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.ican.org'

@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Community safety
   - Mental & emotional health
+  - Public safety & public space
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.bradyunited.org'

@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Climate change
   - Access to parks & green space
+  - Environmental quality & sustainability
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.treepeople.org'

@@ -11,6 +11,7 @@ org_summary: >-
   share and protect our oceans for all to enjoy.
 tags_indicators:
   - Fitness & sports
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.surfbusfoundation.org'

@@ -11,6 +11,8 @@ org_summary: >-
 tags_indicators:
   - Mental & emotional health
   - Community safety
+  - Health
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sgvlgbtq.org/'

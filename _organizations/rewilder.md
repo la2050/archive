@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Climate change
   - Entrepreneurship & innovation
+  - Environmental quality & sustainability
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.rewilder.com/'

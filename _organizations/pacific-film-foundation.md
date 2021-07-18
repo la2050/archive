@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Art
   - Mental & emotional health
+  - Arts & cultural vitality
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.pacificfilmfoundation.org'

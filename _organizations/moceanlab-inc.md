@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Creative economy
   - Transportation
+  - Arts & cultural vitality
+  - Mobility
 charity_navigator_url: ''
 organization_website:
   - 'https://www.moceanlab.com'

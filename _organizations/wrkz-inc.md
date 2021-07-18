@@ -8,6 +8,9 @@ tags_indicators:
   - Creative economy
   - Mental & emotional health
   - Workforce development
+  - Arts & cultural vitality
+  - Health
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.wrkz.org'

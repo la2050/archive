@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Homelessness
   - Volunteerism
+  - Housing & homelessness
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://foothillunitycenter.org'

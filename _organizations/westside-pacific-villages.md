@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Disability & aging
   - Mental & emotional health
+  - Mobility
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.thewpv.org'

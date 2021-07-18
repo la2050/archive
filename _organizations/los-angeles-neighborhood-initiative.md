@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Community safety
   - Voting & civic engagement
+  - Public safety & public space
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lani.org'

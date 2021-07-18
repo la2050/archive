@@ -9,6 +9,8 @@ org_summary: >-
 tags_indicators:
   - STEM & Digital literacy
   - Workforce development
+  - Education & youth
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.theengineerfactory.org'

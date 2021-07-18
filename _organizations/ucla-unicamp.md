@@ -9,6 +9,7 @@ org_summary: >-
   among volunteers by fostering friendships and shared experiences.
 tags_indicators:
   - Volunteerism
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.unicamp.org'

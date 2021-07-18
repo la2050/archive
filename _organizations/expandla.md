@@ -12,6 +12,7 @@ org_summary: >-
 tags_indicators:
   - Early childhood
   - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.expandla.org'

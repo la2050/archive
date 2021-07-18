@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Early childhood
   - Mental & emotional health
+  - Education & youth
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.southcentrallamp.org'

@@ -12,6 +12,7 @@ org_summary: >-
 tags_indicators:
   - Workforce development
   - Access to capital & benefits
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.multiplicitypartnership.com'

@@ -12,6 +12,7 @@ org_summary: >-
 tags_indicators:
   - Teaching & mentorship
   - Early childhood
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.bgcv.org'

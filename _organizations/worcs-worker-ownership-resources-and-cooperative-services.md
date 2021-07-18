@@ -10,6 +10,7 @@ org_summary: >-
 tags_indicators:
   - Workforce development
   - Entrepreneurship & innovation
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.workercooperatives.org and httP;//www.worcsusa.org'

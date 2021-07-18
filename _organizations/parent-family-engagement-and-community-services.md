@@ -12,6 +12,7 @@ tags_indicators:
   - STEM & Digital literacy
   - College prep
   - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.parentengagementinstitute.org'

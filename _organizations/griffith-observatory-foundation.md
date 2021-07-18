@@ -11,6 +11,8 @@ org_summary: >-
 tags_indicators:
   - STEM & Digital literacy
   - Community gatherings
+  - Education & youth
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.griffithobservatoryfoundation.org'

@@ -11,6 +11,9 @@ tags_indicators:
   - Climate change
   - Workforce development
   - Access to healthy food
+  - Environmental quality & sustainability
+  - Income & employment
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.wlcac.org'

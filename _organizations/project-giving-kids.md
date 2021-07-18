@@ -10,6 +10,7 @@ org_summary: >-
 tags_indicators:
   - Community gatherings
   - Volunteerism
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.projectgivingkids.org'

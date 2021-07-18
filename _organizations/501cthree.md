@@ -11,6 +11,8 @@ org_summary: >-
 tags_indicators:
   - Climate change
   - Community health
+  - Environmental quality & sustainability
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.501CTHREE.org'

@@ -11,6 +11,8 @@ org_summary: >-
 tags_indicators:
   - Homelessness
   - Community health
+  - Housing & homelessness
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://theshowerofhope.org/'

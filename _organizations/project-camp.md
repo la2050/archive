@@ -12,6 +12,8 @@ tags_indicators:
   - Resiliency
   - Community safety
   - Volunteerism
+  - Public safety & public space
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.projectcamp.co'

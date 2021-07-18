@@ -11,6 +11,7 @@ org_summary: >-
 tags_indicators:
   - Homelessness
   - Affordable housing
+  - Housing & homelessness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.habitatla.org'

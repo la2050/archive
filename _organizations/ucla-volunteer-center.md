@@ -11,6 +11,7 @@ org_summary: >-
   civic service.
 tags_indicators:
   - Volunteerism
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://volunteer.ucla.edu/'

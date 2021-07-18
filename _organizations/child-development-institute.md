@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Early childhood
   - Access to parks & green space
+  - Education & youth
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.cdikids.org'

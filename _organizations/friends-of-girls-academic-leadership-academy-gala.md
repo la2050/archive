@@ -11,6 +11,8 @@ org_summary: >-
 tags_indicators:
   - STEM & Digital literacy
   - Resiliency
+  - Education & youth
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.fogala.org/'

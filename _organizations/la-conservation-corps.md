@@ -11,6 +11,8 @@ org_summary: >-
 tags_indicators:
   - Workforce development
   - Teaching & mentorship
+  - Income & employment
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lacorps.org'

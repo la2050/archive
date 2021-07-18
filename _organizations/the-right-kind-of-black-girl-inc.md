@@ -11,6 +11,8 @@ org_summary: >-
 tags_indicators:
   - Access to capital & benefits
   - Mental & emotional health
+  - Income & employment
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.therightkindofblackgirl.org'

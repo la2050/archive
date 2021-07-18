@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Teaching & mentorship
   - Mental & emotional health
+  - Education & youth
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.fosternation.org'

@@ -11,6 +11,7 @@ org_summary: >-
 tags_indicators:
   - STEM & Digital literacy
   - College prep
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.americaontech.org'

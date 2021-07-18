@@ -9,6 +9,7 @@ org_summary: >-
 tags_indicators:
   - Community safety
   - Access to parks & green space
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.cougarconservancy.org'

@@ -9,6 +9,7 @@ org_summary: >-
 tags_indicators:
   - Affordable housing
   - Homelessness
+  - Housing & homelessness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.epath.org'

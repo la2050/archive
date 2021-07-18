@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Transportation
   - Climate change
+  - Mobility
+  - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sankofacity.com'

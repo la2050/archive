@@ -9,6 +9,7 @@ org_summary: >-
   saying, doing, and being good to one another.
 tags_indicators:
   - Mental & emotional health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.superpowersbox.com'

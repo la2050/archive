@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Access to parks & green space
   - Community health
+  - Public safety & public space
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.chicasverdes.org'

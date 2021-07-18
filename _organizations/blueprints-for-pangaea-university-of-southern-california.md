@@ -9,6 +9,7 @@ org_summary: >-
   need both locally and overseas.
 tags_indicators:
   - Community health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.blueprintsforpangaea.org/'

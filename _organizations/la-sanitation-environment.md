@@ -11,6 +11,8 @@ org_summary: >-
 tags_indicators:
   - Workforce development
   - Community health
+  - Income & employment
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lacitysan.org/laindustry'

@@ -7,6 +7,8 @@ org_summary: Saving lives by eliminating crashes worldwide
 tags_indicators:
   - Community safety
   - Transportation
+  - Public safety & public space
+  - Mobility
 charity_navigator_url: ''
 organization_website:
   - 'https://www.streetsimplified.com/'

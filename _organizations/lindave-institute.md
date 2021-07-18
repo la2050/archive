@@ -12,6 +12,7 @@ org_summary: >-
 tags_indicators:
   - Early childhood
   - STEM & Digital literacy
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lindave.org'

@@ -11,6 +11,8 @@ tags_indicators:
   - Homelessness
   - Mental & emotional health
   - Community health
+  - Housing & homelessness
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.villageforvets.org'

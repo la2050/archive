@@ -10,6 +10,7 @@ org_summary: >-
 tags_indicators:
   - Mental & emotional health
   - Community health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.shareselfhelp.org'

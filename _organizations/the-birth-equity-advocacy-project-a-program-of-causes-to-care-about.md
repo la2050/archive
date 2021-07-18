@@ -11,6 +11,7 @@ org_summary: >-
   solely to lobbying for birth equity.
 tags_indicators:
   - Community health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.Birthequityap.org'

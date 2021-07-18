@@ -10,6 +10,7 @@ org_summary: >-
 tags_indicators:
   - Entrepreneurship & innovation
   - Workforce development
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.bizfedinstitute.org'

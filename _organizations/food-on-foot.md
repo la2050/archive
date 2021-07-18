@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Homelessness
   - Access to healthy food
+  - Housing & homelessness
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.foodonfoot.org/'

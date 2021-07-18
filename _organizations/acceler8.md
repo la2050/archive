@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Teaching & mentorship
   - Workforce development
+  - Education & youth
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.acceler8education.org'

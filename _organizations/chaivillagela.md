@@ -11,6 +11,8 @@ org_summary: >-
 tags_indicators:
   - Disability & aging
   - Community health
+  - Mobility
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.ChaiVIllageLA.org'

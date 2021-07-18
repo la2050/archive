@@ -11,6 +11,7 @@ tags_indicators:
   - Entrepreneurship & innovation
   - Access to capital & benefits
   - Workforce development
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.weareenough.biz'

@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Access to healthy food
   - Workforce development
+  - Health
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sowingseedsofchange.org'

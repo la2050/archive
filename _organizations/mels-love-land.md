@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Community gatherings
   - Mental & emotional health
+  - Social connectedness
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.melsloveland.com'

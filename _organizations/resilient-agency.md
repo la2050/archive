@@ -9,6 +9,7 @@ org_summary: >-
   personal resilience, develop leadership, and community restoration.
 tags_indicators:
   - Workforce development
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.resilientagency.org'

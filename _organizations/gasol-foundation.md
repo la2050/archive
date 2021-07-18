@@ -10,6 +10,7 @@ org_summary: >-
 tags_indicators:
   - Community health
   - Access to healthy food
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.gasolfoundation.org/'

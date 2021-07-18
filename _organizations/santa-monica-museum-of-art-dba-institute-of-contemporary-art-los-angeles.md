@@ -13,6 +13,8 @@ tags_indicators:
   - Art
   - Creative economy
   - Workforce development
+  - Arts & cultural vitality
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.theicala.org'

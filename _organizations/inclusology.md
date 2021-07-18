@@ -7,6 +7,7 @@ org_summary: 'Making all workplaces, all inclusive, for all employees.'
 tags_indicators:
   - Access to capital & benefits
   - Workforce development
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.inclusology.com'

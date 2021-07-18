@@ -12,6 +12,7 @@ org_summary: >-
 tags_indicators:
   - Access to healthy food
   - Mental & emotional health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.https://www.smc.edu'

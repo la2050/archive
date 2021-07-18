@@ -11,6 +11,7 @@ org_summary: >-
   potential in a fun, safe, future-focused environment.
 tags_indicators:
   - Fitness & sports
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.harlemlacrosse.org'

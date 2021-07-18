@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Transportation
   - Community health
+  - Mobility
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://bicyclekitchen.org/'

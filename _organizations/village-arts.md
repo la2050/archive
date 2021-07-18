@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Art
   - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://villageartstheatre.org/'

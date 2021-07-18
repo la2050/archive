@@ -9,6 +9,8 @@ org_summary: >-
 tags_indicators:
   - Teaching & mentorship
   - Entrepreneurship & innovation
+  - Education & youth
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.rainbowlabs.org'

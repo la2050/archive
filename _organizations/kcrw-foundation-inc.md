@@ -11,6 +11,7 @@ org_summary: >-
   understanding of the world around us.
 tags_indicators:
   - Creative economy
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.kcrw.com'

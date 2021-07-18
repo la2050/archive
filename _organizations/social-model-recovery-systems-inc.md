@@ -12,6 +12,7 @@ org_summary: >-
 tags_indicators:
   - Community health
   - Mental & emotional health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.socialmodelrecovery.org/'

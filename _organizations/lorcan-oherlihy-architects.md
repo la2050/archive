@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Creative economy
   - Community health
+  - Arts & cultural vitality
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'http://loharchitects.com/'

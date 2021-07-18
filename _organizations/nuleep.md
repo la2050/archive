@@ -9,6 +9,7 @@ org_summary: >-
 tags_indicators:
   - STEM & Digital literacy
   - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.jobs.nuleep.com'

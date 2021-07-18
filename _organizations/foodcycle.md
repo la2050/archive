@@ -7,6 +7,7 @@ org_summary: Feed People Not Landfills
 tags_indicators:
   - Access to healthy food
   - Community health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.foodcyclela.org'

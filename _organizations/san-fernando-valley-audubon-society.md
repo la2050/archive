@@ -11,6 +11,8 @@ org_summary: >-
 tags_indicators:
   - Disability & aging
   - Access to parks & green space
+  - Mobility
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sfvaudubon.org.org'

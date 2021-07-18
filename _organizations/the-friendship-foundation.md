@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Teaching & mentorship
   - Disability & aging
+  - Education & youth
+  - Mobility
 charity_navigator_url: ''
 organization_website:
   - 'https://www.friendshipfoundation.com'

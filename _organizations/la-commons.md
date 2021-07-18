@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Creative economy
   - Community gatherings
+  - Arts & cultural vitality
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lacommons.org'

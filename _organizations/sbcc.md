@@ -11,6 +11,7 @@ org_summary: >-
   marginalized neighborhoods into thriving communities.
 tags_indicators:
   - Volunteerism
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sbcc.community'

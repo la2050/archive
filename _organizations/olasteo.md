@@ -9,6 +9,8 @@ org_summary: >-
 tags_indicators:
   - Teaching & mentorship
   - Community gatherings
+  - Education & youth
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://olasteo.org/'

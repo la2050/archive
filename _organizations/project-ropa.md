@@ -12,6 +12,9 @@ tags_indicators:
   - Climate change
   - Community health
   - Workforce development
+  - Environmental quality & sustainability
+  - Health
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.projectropa.org'

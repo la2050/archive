@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Disability & aging
   - Teaching & mentorship
+  - Mobility
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.mychals.org'

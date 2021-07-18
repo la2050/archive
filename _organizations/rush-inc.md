@@ -6,6 +6,7 @@ org_type: For profit business
 org_summary: To achieve economic and social equality for women.
 tags_indicators:
   - Entrepreneurship & innovation
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.rushhaus.com'

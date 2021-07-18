@@ -9,6 +9,8 @@ org_summary: >-
 tags_indicators:
   - Creative economy
   - Voting & civic engagement
+  - Arts & cultural vitality
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://thelapod.com/'

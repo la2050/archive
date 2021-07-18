@@ -9,6 +9,8 @@ org_summary: >-
 tags_indicators:
   - Volunteerism
   - Access to capital & benefits
+  - Social connectedness
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.ezrach.org'

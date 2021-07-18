@@ -11,6 +11,7 @@ org_summary: >-
   Summer Camp programs.
 tags_indicators:
   - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.urbanpromiselosangeles.org/'

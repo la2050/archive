@@ -9,6 +9,7 @@ org_summary: >-
 tags_indicators:
   - Community safety
   - Resiliency
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.houseofruthinc.org'

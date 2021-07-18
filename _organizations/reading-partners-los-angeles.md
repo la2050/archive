@@ -10,6 +10,7 @@ org_summary: >-
   skills they need to reach their full potential.
 tags_indicators:
   - Teaching & mentorship
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.readingpartners.org'

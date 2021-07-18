@@ -10,6 +10,7 @@ org_summary: >-
   of data-driven and multidisciplinary planning support tools.
 tags_indicators:
   - Climate change
+  - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
   - 'https://www.pacificurbanism.com/'

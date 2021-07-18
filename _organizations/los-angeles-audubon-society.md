@@ -14,6 +14,7 @@ tags_indicators:
   - Air & water
   - Public safety & public space
   - Social connectedness
+  - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
   - 'https://www.laaudubon.org'

@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Community health
   - Art
+  - Health
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.compoundlb.com'

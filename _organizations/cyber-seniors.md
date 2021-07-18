@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Disability & aging
   - STEM & Digital literacy
+  - Mobility
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.cyberseniors.org'

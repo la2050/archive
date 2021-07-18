@@ -13,6 +13,9 @@ tags_indicators:
   - Disability & aging
   - Mental & emotional health
   - Volunteerism
+  - Mobility
+  - Health
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.theyouthmovement.org'

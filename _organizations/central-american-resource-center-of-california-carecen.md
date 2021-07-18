@@ -11,6 +11,7 @@ org_summary: >-
 tags_indicators:
   - Resiliency
   - Community safety
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.carecen-la.org'

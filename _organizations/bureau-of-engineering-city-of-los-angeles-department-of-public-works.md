@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Entrepreneurship & innovation
   - Resiliency
+  - Income & employment
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://eng.lacity.org/'

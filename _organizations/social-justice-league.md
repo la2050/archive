@@ -11,6 +11,8 @@ org_summary: >-
 tags_indicators:
   - Art
   - Workforce development
+  - Arts & cultural vitality
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sjl4all.com'

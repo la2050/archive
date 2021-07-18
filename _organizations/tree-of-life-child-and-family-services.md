@@ -11,6 +11,7 @@ org_summary: >-
 tags_indicators:
   - Mental & emotional health
   - Fitness & sports
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.tolcfs.wordpress.com'

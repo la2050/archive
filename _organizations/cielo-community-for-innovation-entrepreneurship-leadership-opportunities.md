@@ -9,6 +9,8 @@ org_summary: >-
 tags_indicators:
   - Entrepreneurship & innovation
   - Creative economy
+  - Income & employment
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.cielocommunity.org'

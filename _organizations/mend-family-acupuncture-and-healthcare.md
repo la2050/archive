@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Community health
   - Resiliency
+  - Health
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.mendfamilyacupuncture.com'

@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Fitness & sports
   - Early childhood
+  - Health
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.girlisnota4letterword.com'

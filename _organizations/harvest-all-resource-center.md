@@ -11,6 +11,7 @@ org_summary: >-
 tags_indicators:
   - Teaching & mentorship
   - College prep
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://harvestallresource.wixsite.com/mysite'

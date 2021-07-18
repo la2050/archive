@@ -9,6 +9,8 @@ org_summary: >-
 tags_indicators:
   - Disability & aging
   - Art
+  - Mobility
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.muralism.org'

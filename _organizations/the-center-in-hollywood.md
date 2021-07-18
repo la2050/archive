@@ -11,6 +11,8 @@ org_summary: >-
 tags_indicators:
   - Homelessness
   - Mental & emotional health
+  - Housing & homelessness
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://thecenterinhollywood.org'

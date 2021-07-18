@@ -9,6 +9,8 @@ org_summary: >-
 tags_indicators:
   - Mental & emotional health
   - Resiliency
+  - Health
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lovs.org'

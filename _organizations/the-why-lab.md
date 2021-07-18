@@ -10,6 +10,7 @@ org_summary: >-
   community empowerment.
 tags_indicators:
   - Community gatherings
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.thewhylab.com'

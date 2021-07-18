@@ -12,6 +12,7 @@ org_summary: >-
 tags_indicators:
   - Art
   - Creative economy
+  - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
   - 'https://www.stellaadler.la'

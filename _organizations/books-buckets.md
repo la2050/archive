@@ -11,6 +11,8 @@ org_summary: >-
 tags_indicators:
   - Teaching & mentorship
   - Fitness & sports
+  - Education & youth
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.booksandbuckets.org'

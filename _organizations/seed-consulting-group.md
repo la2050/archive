@@ -9,6 +9,8 @@ org_summary: >-
 tags_indicators:
   - Workforce development
   - Volunteerism
+  - Income & employment
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.seedcg.org'

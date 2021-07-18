@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Teaching & mentorship
   - Voting & civic engagement
+  - Education & youth
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://rjhe.org'

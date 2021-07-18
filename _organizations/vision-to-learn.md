@@ -10,6 +10,7 @@ org_summary: >-
   schools and community organizations.
 tags_indicators:
   - Community health
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.visiontolearn.org'

@@ -12,6 +12,9 @@ tags_indicators:
   - Access to healthy food
   - Access to parks & green space
   - Climate change
+  - Health
+  - Public safety & public space
+  - Environmental quality & sustainability
 charity_navigator_url: ''
 organization_website:
   - 'https://www.thenilesfoundation.org'

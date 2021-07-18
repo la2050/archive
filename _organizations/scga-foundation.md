@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Fitness & sports
   - Teaching & mentorship
+  - Health
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.scgajunior.org'

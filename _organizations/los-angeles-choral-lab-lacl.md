@@ -13,6 +13,8 @@ tags_indicators:
   - Creative economy
   - Art
   - Community gatherings
+  - Arts & cultural vitality
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'http://www.lachorallab.org'

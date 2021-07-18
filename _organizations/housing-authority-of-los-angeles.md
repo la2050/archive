@@ -10,6 +10,8 @@ org_summary: >-
 tags_indicators:
   - Affordable housing
   - Workforce development
+  - Housing & homelessness
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.hacla.org'

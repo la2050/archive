@@ -11,6 +11,8 @@ org_summary: >-
 tags_indicators:
   - Transportation
   - Community safety
+  - Mobility
+  - Public safety & public space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sensagrate.com'

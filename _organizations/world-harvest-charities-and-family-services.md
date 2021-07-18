@@ -10,6 +10,7 @@ org_summary: >-
   essentials to people in need who are at risk of hunger.
 tags_indicators:
   - Access to healthy food
+  - Health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.worldharvestla.org/our-team'

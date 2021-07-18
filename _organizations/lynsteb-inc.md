@@ -12,6 +12,7 @@ org_summary: >-
 tags_indicators:
   - Disability & aging
   - Transportation
+  - Mobility
 charity_navigator_url: ''
 organization_website:
   - 'https://www.medtrans.com'

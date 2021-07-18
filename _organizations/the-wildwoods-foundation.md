@@ -9,6 +9,7 @@ org_summary: >-
   sustainable, harmonious communities.
 tags_indicators:
   - Volunteerism
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.WildwoodsFoundation.org'

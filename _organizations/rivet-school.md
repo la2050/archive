@@ -12,6 +12,8 @@ org_summary: >-
 tags_indicators:
   - Workforce development
   - College prep
+  - Income & employment
+  - Education & youth
 charity_navigator_url: ''
 organization_website:
   - 'https://www.rivetschool.org'

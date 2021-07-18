@@ -12,6 +12,9 @@ tags_indicators:
   - Creative economy
   - Teaching & mentorship
   - Workforce development
+  - Arts & cultural vitality
+  - Education & youth
+  - Income & employment
 charity_navigator_url: ''
 organization_website:
   - 'https://www.venicearts.org'
