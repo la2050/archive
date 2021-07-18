@@ -307,6 +307,7 @@ align-self: stretch;
 
 
 {% assign data_list = "" | split: "," %}
+{% assign winners_list_2021 = "" | split: "," %}
 {% assign winners_list_2020 = "" | split: "," %}
 {% assign winners_list_2019 = "" | split: "," %}
 {% assign winners_list_2018 = "" | split: "," %}
@@ -319,6 +320,7 @@ align-self: stretch;
 {% assign honorable_list_2018 = "" | split: "," %}
 {% assign organizations_list = "" | split: "," %}
 
+{% assign winners_list_2021_award_note = "" | split: "," %}
 {% assign winners_list_2020_award_note = "" | split: "," %}
 {% assign winners_list_2019_award_note = "" | split: "," %}
 {% assign winners_list_2018_award_note = "" | split: "," %}
@@ -335,6 +337,7 @@ align-self: stretch;
 {% for data in data_collection_docs %}
 
   {% assign award_note_list = "" | split: "," %}
+  {% assign award_note_list_contains_2021 = false %}
   {% assign award_note_list_contains_2020 = false %}
   {% assign award_note_list_contains_2019 = false %}
   {% assign award_note_list_contains_2018 = false %}
@@ -351,7 +354,9 @@ align-self: stretch;
         {% endunless %}
         {% capture winner_note %}{{ winner.year }} Winner{% endcapture %}
         {% assign award_note_list = award_note_list | push: winner_note %}
-        {% if winner_year == 2020 %}
+        {% if winner_year == 2021 %}
+          {% assign award_note_list_contains_2021 = true %}
+        {% elsif winner_year == 2020 %}
           {% assign award_note_list_contains_2020 = true %}
         {% elsif winner_year == 2019 %}
           {% assign award_note_list_contains_2019 = true %}
@@ -420,6 +425,9 @@ align-self: stretch;
 
         {% if is_winner %}
           {% case winner_year %}
+            {% when 2021 %}
+              {% assign winners_list_2021 = winners_list_2021 | push: data %}
+              {% assign winners_list_2021_award_note = winners_list_2021_award_note | push: award_note %}
             {% when 2020 %}
               {% assign winners_list_2020 = winners_list_2020 | push: data %}
               {% assign winners_list_2020_award_note = winners_list_2020_award_note | push: award_note %}
@@ -465,6 +473,9 @@ align-self: stretch;
 
     {% if is_winner %}
       {% case winner_year %}
+        {% when 2021 %}
+          {% assign winners_list_2021 = winners_list_2021 | push: data %}
+          {% assign winners_list_2021_award_note = winners_list_2021_award_note | push: award_note %}
         {% when 2020 %}
           {% assign winners_list_2020 = winners_list_2020 | push: data %}
           {% assign winners_list_2020_award_note = winners_list_2020_award_note | push: award_note %}
@@ -518,6 +529,11 @@ align-self: stretch;
 
 
 <ul class="proposals" id="project-list">
+
+  {% for data in winners_list_2021 %}
+    {% assign award_note = winners_list_2021_award_note[forloop.index0] %}
+    {% include project-list-item.html winner_year="2021" %}
+  {% endfor %}
 
   {% for data in winners_list_2020 %}
     {% assign award_note = winners_list_2020_award_note[forloop.index0] %}
@@ -1137,6 +1153,9 @@ function addCategoryColor(tag) {
         if (searchByTags && searchByTags != "") {
           let year = getYear(items[index])
           switch (year) {
+            case 2021:
+              rank += 0.07
+              break
             case 2020:
               rank += 0.06
               break
@@ -1191,6 +1210,7 @@ function addCategoryColor(tag) {
   }
 
   function getYear(item) {
+    if (item.innerHTML.indexOf("2021") >= 0) return 2021;
     if (item.innerHTML.indexOf("2020") >= 0) return 2020;
     if (item.innerHTML.indexOf("2019") >= 0) return 2019;
     if (item.innerHTML.indexOf("2018") >= 0) return 2018;
