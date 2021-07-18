@@ -9,7 +9,9 @@ org_summary: >-
   the development of parks, gardens, and community-driven organizing across
   greater Los Angeles. We focus our efforts in low-income communities of color
   that have little access to green space.
-tags_indicators: []
+tags_indicators:
+  - Access to parks & green space
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lanlt.org'

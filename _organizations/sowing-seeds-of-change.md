@@ -9,7 +9,9 @@ org_summary: >-
   in a local food system that encourages healthy living, nurtures the
   environment, and grows sustainable community through vocational training,
   youth entrepreneurship, and employment opportunities. ​
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sowingseedsofchange.org'

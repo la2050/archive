@@ -8,7 +8,9 @@ org_summary: >-
   black, indigenous, male and GBTQ entrepreneurs of color face. Our support
   infrastructure promotes skills building, personal development and linkages to
   capital needed to create sustainable businesses and empower communities.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Access to capital & benefits
 charity_navigator_url: ''
 organization_website:
   - 'https://www.globaleyeleaders.org/home'

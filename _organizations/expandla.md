@@ -9,7 +9,9 @@ org_summary: >-
   Angeles’s children and youth. By strengthening these programs, ExpandLA helps
   ensure that children and youth in Los Angeles benefit from OST programs that
   help them grow into the best versions of themselves.
-tags_indicators: []
+tags_indicators:
+  - Early childhood
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.expandla.org'

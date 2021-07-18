@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   To provide high quality early care and education to young children of working
   parents.
-tags_indicators: []
+tags_indicators:
+  - Early childhood
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lbdn.org'

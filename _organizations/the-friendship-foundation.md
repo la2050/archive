@@ -9,7 +9,9 @@ org_summary: >-
   have children and young adults with special needs by providing a safe,
   accepting and inclusive environment where they can enjoy social programs with
   their peers.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Disability & aging
 charity_navigator_url: ''
 organization_website:
   - 'https://www.friendshipfoundation.com'

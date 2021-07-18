@@ -9,7 +9,9 @@ org_summary: >-
   to take an active role in planning and building local improvements that expand
   equity and public safety, enhance health and the environment, spur economic
   development, and foster local pride.
-tags_indicators: []
+tags_indicators:
+  - Community safety
+  - Voting & civic engagement
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lani.org'

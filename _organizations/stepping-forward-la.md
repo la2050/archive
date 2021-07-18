@@ -6,7 +6,9 @@ org_type: A fiscally sponsored group
 org_summary: >-
   Stepping Forward LA empowers foster youth aging out of the system to
   transition successfully to adulthood and reach their fullest potential.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.steppingforwardla.org'

@@ -8,7 +8,9 @@ org_summary: >-
   families in a holistic, safe, nurturing, and family-friendly environment, in a
   manner that develops academic and social skills, as well as character-building
   qualities, in our youth that will equip them to succeed in life.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Fitness & sports
 charity_navigator_url: ''
 organization_website:
   - 'https://www.tolcfs.wordpress.com'

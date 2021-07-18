@@ -8,7 +8,8 @@ org_summary: >-
   research and evaluation, data modeling, and community building. Our mission is
   to serve as a resource to communities throughout California for the creation
   of data-driven and multidisciplinary planning support tools.
-tags_indicators: []
+tags_indicators:
+  - Climate change
 charity_navigator_url: ''
 organization_website:
   - 'https://www.pacificurbanism.com/'

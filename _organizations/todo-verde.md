@@ -9,7 +9,8 @@ org_summary: >-
   East LA community & beyond. We're committed to advancing food equity in our
   neighborhoods & working to create lifestyle shifts in healthy eating through
   awareness & access to naturally good food.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
 charity_navigator_url: ''
 organization_website:
   - 'https://www.todoverde.org'

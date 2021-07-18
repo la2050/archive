@@ -9,7 +9,9 @@ org_summary: >-
   education, exploring activities, resistance, and challenges to diversity,
   equity, and change through identity development theories, such as Critical
   Race Theory and Critical White Studies.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Voting & civic engagement
 charity_navigator_url: ''
 organization_website:
   - 'https://rjhe.org'

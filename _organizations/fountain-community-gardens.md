@@ -9,7 +9,9 @@ org_summary: >-
   Los Angeles County can grow healthy food in their Neighborhood. At Fountain
   Community Gardens (FCG), LACGC’s mission is reinforced through efforts to
   support a diverse and inclusive community.
-tags_indicators: []
+tags_indicators:
+  - Access to parks & green space
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.fountaincommunitygardens.org/'

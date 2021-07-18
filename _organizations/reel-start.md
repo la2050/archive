@@ -8,7 +8,9 @@ org_summary: >-
   introducing opportunities and career paths to youth traditionally
   underrepresented in the film and television industry and to build a path from
   the classroom to employment.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Art
 charity_navigator_url: ''
 organization_website:
   - 'https://www.reelstart.org'

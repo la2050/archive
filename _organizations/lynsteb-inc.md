@@ -9,7 +9,9 @@ org_summary: >-
   appointments, for treatment, diagnostic and medication. We will make sure to
   accommodate each and everyone to get transportation for vaccine for our immune
   compromised patients.
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - Transportation
 charity_navigator_url: ''
 organization_website:
   - 'https://www.medtrans.com'

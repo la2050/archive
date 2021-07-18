@@ -7,7 +7,9 @@ org_summary: >-
   The mission of Child Development Institute (CDI) is to help all children reach
   their full potential by supporting the relationships and environments that
   shape early development.
-tags_indicators: []
+tags_indicators:
+  - Early childhood
+  - Access to parks & green space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.cdikids.org'

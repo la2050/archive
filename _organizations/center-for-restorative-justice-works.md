@@ -7,7 +7,9 @@ org_summary: >-
   CRJW is a non-profit that provides free family reunification and support
   services to children of incarcerated parents. We invite you to join our
   mission to build stronger families and communities.
-tags_indicators: []
+tags_indicators:
+  - Early childhood
+  - Resiliency
 charity_navigator_url: ''
 organization_website:
   - 'https://www.crjw.us'

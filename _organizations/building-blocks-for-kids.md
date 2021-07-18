@@ -9,7 +9,9 @@ org_summary: >-
   education, and mentorship program. This provides students the essential tools
   and knowledge to maximize financial independence and social mobility as
   adults.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - College prep
 charity_navigator_url: ''
 organization_website:
   - 'https://www.bbfkids.org'

@@ -8,7 +8,8 @@ org_summary: >-
   to help feed the hungry and play a role in the effort to decrease food waste
   in America. Our mission is to provide food, basic staples and living
   essentials to people in need who are at risk of hunger.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
 charity_navigator_url: ''
 organization_website:
   - 'https://www.worldharvestla.org/our-team'

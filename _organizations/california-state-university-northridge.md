@@ -9,7 +9,9 @@ org_summary: >-
   and intellectual progress of students through a variety of programs and
   activities. We foster a rigorous and contemporary understanding of the liberal
   arts, sciences, and professional disciplines.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Art
 charity_navigator_url: ''
 organization_website:
   - 'https://www.csun.edu/eisner-education/secondary-education'

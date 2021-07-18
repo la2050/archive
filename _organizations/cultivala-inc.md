@@ -9,7 +9,9 @@ org_summary: >-
   across Los Angeles into urban agriculture sites in order to grow fresh herbs
   and vegetables and to increase food access to Los Angeles’ most vulnerable and
   under-resourced communities.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.cultivala.org/'

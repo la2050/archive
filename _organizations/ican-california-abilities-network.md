@@ -8,7 +8,9 @@ org_summary: >-
   Disabilities (IDD) and their families through life skills training, supported
   employment, and social programming. Our goal is to empower people with
   disabilities to discover and achieve their own 'I CAN' statement.
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.ican.org'

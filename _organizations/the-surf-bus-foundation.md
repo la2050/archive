@@ -9,7 +9,8 @@ org_summary: >-
   swimming, and beach games; all while exploring the wonder and beauty of the
   sea. Our teaching and mentoring provides understanding and encouragement to
   share and protect our oceans for all to enjoy.
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
 charity_navigator_url: ''
 organization_website:
   - 'https://www.surfbusfoundation.org'

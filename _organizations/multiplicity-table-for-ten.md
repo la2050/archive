@@ -9,7 +9,9 @@ org_summary: >-
   long-term relationships that create greater professional opportunities and
   supports their promotion to leadership positions. Our mission is to reach
   parity through mutual support.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Access to capital & benefits
 charity_navigator_url: ''
 organization_website:
   - 'https://www.multiplicitypartnership.com'

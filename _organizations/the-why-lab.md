@@ -8,7 +8,8 @@ org_summary: >-
   workforce by teaching the skills needed in the future of work, so we can
   redesign our systems and services towards equity, sustainability, and
   community empowerment.
-tags_indicators: []
+tags_indicators:
+  - Community gatherings
 charity_navigator_url: ''
 organization_website:
   - 'https://www.thewhylab.com'

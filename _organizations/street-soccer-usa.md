@@ -9,7 +9,9 @@ org_summary: >-
   of our participants/families by mobilizing the power of soccer to fight
   poverty and strengthen communities. In order to do so, we hire community
   stakeholders to ensure continued community autonomy.
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.streetsoccerusa.org'

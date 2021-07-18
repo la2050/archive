@@ -8,7 +8,10 @@ org_summary: >-
   disparities in student achievement, college readiness, and increase the number
   of students who graduate from a college or university with a bachelor’s degree
   or higher.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - College prep
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.parentengagementinstitute.org'

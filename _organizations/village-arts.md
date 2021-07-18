@@ -9,7 +9,9 @@ org_summary: >-
   performance arts programs. Embracing principles of equity and justice, we
   create a rich learning experience that offers a solution to the gap in arts
   education in the LA public school system.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://villageartstheatre.org/'

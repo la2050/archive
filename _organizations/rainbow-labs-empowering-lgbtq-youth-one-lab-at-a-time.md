@@ -6,7 +6,9 @@ org_type: A fiscally sponsored group
 org_summary: >-
   Our mission is to create a safe and supportive environment where Queer and
   Gender Non Conforming Youth can explore pathways to purposeful lives.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Entrepreneurship & innovation
 charity_navigator_url: ''
 organization_website:
   - 'https://www.rainbowlabs.org'

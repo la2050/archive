@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   LOVS mission is to provide a safe, therapeutic and educational space for
   individuals and families experiencing grief and trauma to heal.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Resiliency
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lovs.org'

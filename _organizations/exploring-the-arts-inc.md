@@ -9,7 +9,9 @@ org_summary: >-
   greater equity of resources and opportunity in the arts to traditionally
   under-served teens, through partnerships with public middle and high schools
   with Title 1 designation and arts partners.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Art
 charity_navigator_url: ''
 organization_website:
   - 'https://www.exploringthearts.org'

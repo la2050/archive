@@ -5,8 +5,8 @@ let fs = require('fs')
 let parse = require('csv-parse/lib/sync')
 let yaml = require('js-yaml')
 
-let tags = parse(fs.readFileSync('./spreadsheets/2020-tags.csv', 'utf8'), {columns: true})
-const targetYear = "2020"
+let tags = parse(fs.readFileSync('./spreadsheets/2021-tags.csv', 'utf8'), {columns: true})
+const targetYear = "2021"
 
 let tagsLookup
 

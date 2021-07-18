@@ -7,7 +7,9 @@ org_summary: >-
   If you CAN see it, you CAN be it. Working to end inter-generational poverty in
   South Los Angeles through community development and access to education and
   economic opportunity.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Entrepreneurship & innovation
 charity_navigator_url: ''
 organization_website:
   - 'https://www.solaican.org/'

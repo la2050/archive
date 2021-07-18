@@ -7,7 +7,9 @@ org_summary: >-
   Asian Americans for Housing and Environmental Justice provides culturally
   competent, in-language support and immediate, direct aid, economic development
   to at-risk and unhoused BIPOC.
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Affordable housing
 charity_navigator_url: ''
 organization_website:
   - 'https://www.aa4h.org'

@@ -9,7 +9,9 @@ org_summary: >-
   development. We convene artists, craft makers, designers, entrepreneurs,
   curators, and researchers and facilitate access to resources, tools, and
   networks to advance their careers.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Community gatherings
 charity_navigator_url: ''
 organization_website:
   - 'https://www.textileartsla.org'

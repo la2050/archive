@@ -7,7 +7,9 @@ org_summary: >-
   Mels Love Land embodies unconditional love in action to expand critical
   thinking through programs, storytelling, creating care filled experiences to
   amplify what unites us to consider the possibility there is another way.
-tags_indicators: []
+tags_indicators:
+  - Community gatherings
+  - Mental & emotional health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.melsloveland.com'

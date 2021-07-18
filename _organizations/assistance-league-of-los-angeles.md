@@ -7,7 +7,9 @@ org_summary: >-
   The Assistance League of Los Angeles improves the lives of impoverished
   children in our community through philanthropy, dedicated service and
   compassionate programs.
-tags_indicators: []
+tags_indicators:
+  - Early childhood
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.assistanceleaugela.org'

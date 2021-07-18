@@ -6,7 +6,9 @@ org_type: For profit business
 org_summary: >-
   We empower diverse communities to set themselves up for success in their
   careers and shape the diverse workplace of tomorrow.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Creative economy
 charity_navigator_url: ''
 organization_website:
   - 'https://www.braymedia.co'

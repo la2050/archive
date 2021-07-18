@@ -7,7 +7,9 @@ org_summary: >-
   Foster Nation engages and empowers the community to help foster youth aging
   out of the system become self-sufficient adults by providing financial
   resources, social support and mentorship.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Mental & emotional health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.fosternation.org'

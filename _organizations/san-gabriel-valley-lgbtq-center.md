@@ -8,7 +8,9 @@ org_summary: >-
   orientations and gender identities; ​ To foster advocacy, education, and
   respect for individuals; To provide resources which encourage cultural
   diversity, healthy living, and full achievement of personal potential
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Community safety
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sgvlgbtq.org/'

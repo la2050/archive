@@ -9,7 +9,9 @@ org_summary: >-
   self. Together, participants work on their mental health through physical
   activity, confidence building and self-care. Girl Powerful's mission is to
   make all girls feel seen, valued and heard.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.girlpowerful.org'

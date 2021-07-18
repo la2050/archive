@@ -7,7 +7,9 @@ org_summary: >-
   MiMentor’s mission is to develop and support innovative and inclusive
   mentoring opportunities to inspire the next generation of diverse healthcare
   leaders for underserved communities.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.MiMentor.org'

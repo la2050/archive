@@ -7,7 +7,9 @@ org_summary: >-
   CISE's mission is simple: support the Black community. We believe in providing
   exceptional value and goods of the highest quality to our community, while
   helping organizations that align with our cause.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Access to capital & benefits
 charity_navigator_url: ''
 organization_website:
   - 'https://www.cise.store'

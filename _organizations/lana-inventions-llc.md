@@ -6,7 +6,9 @@ org_type: For profit business
 org_summary: >-
   We hope to empower youth in working towards a more sustainable future by
   creating products and educational sustainability engineering projects.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.preciousplasticyouthla.com/'

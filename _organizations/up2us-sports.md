@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   Our mission is to engage, train, and support quality sports coaches to
   transform youth, programs, and communities.
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.up2us.org'

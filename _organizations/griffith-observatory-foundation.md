@@ -8,7 +8,9 @@ org_summary: >-
   Griffith Observatory as a home for science literacy, education, and public
   astronomy through resource development and advocacy in partnership with the
   community.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - Community gatherings
 charity_navigator_url: ''
 organization_website:
   - 'https://www.griffithobservatoryfoundation.org'

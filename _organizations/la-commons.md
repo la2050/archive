@@ -9,7 +9,9 @@ org_summary: >-
   are grounded in the philosophy that culture is a valuable community resource,
   art is a powerful tool for telling stories to ignite change, and artists play
   an important role in community development.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Community gatherings
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lacommons.org'

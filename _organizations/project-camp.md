@@ -8,7 +8,10 @@ org_summary: >-
   community just for kids in the immediate aftermath of disaster. Our promise is
   a supportive camp experience with excellent counselors, fun programs, and an
   adaptable model designed to pop up anywhere.
-tags_indicators: []
+tags_indicators:
+  - Resiliency
+  - Community safety
+  - Volunteerism
 charity_navigator_url: ''
 organization_website:
   - 'https://www.projectcamp.co'

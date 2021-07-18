@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   To nurture the potential of all children through kid-driven activities,
   inspiring them to become joyful, active learners.
-tags_indicators: []
+tags_indicators:
+  - Early childhood
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.kidspacemuseum.org'

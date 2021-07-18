@@ -9,7 +9,9 @@ org_summary: >-
   and inspirational human-centered solution. MoceanLab is dedicated to provide
   opportunities to explore equitable access to a variety of clean, reliable, and
   safe mobility solutions in all aspects of life.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Transportation
 charity_navigator_url: ''
 organization_website:
   - 'https://www.moceanlab.com'

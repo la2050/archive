@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   CIELO’s mission is to launch successful entrepreneurs by unleashing
   innovation, creativity, and passion.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Creative economy
 charity_navigator_url: ''
 organization_website:
   - 'https://www.cielocommunity.org'

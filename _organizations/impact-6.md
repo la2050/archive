@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   Our mission is to empower the youth from under-resourced communities through
   education, mentorship, and opportunity.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.impact6.org'

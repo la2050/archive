@@ -9,7 +9,9 @@ org_summary: >-
   respect, WPV helps seniors remain active and independent as they age in the
   comfort of their own homes. Our efforts improve the quality of life of our
   members, and by extension enhance the community.
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - Mental & emotional health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.thewpv.org'

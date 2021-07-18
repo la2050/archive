@@ -7,7 +7,9 @@ org_summary: >-
   Integrated Recovery Network's mission is to provide housing placement, case
   management, social services and assistance with individuals experiencing
   homelessness.
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.integratedrecoverynetwork.org'

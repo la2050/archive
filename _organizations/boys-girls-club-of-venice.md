@@ -9,7 +9,9 @@ org_summary: >-
   citizens. BGCV inspires at-risk youth to succeed by providing them access to
   high quality programs and activities that give them the tools to overcome the
   effects of poverty and educational inequities.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Early childhood
 charity_navigator_url: ''
 organization_website:
   - 'https://www.bgcv.org'

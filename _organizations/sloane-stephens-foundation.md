@@ -8,7 +8,9 @@ org_summary: >-
   and achieve on and off the court. Our vision is to help shape constructive
   futures for underprivileged youth by providing a safe space to cultivate the
   next generation of Los Angeles tennis players.
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sloanestephensfoundation.org'

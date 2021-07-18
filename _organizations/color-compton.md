@@ -9,7 +9,9 @@ org_summary: >-
   history, students are introduced to concepts and historical records to engage
   in dialogue and use art to develop their own narratives and engage in critical
   thinking and local activism.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Art
 charity_navigator_url: ''
 organization_website:
   - 'https://www.colorcompton.org'

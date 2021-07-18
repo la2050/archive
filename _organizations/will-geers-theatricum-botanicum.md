@@ -9,7 +9,9 @@ org_summary: >-
   a beautiful, natural outdoor sanctuary for the arts. We offer a diversity of
   programming from Shakespeare to poetry to folk music to new play development,
   all to help embrace our shared humanity.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Community gatherings
 charity_navigator_url: ''
 organization_website:
   - 'https://www.theatricum.com'

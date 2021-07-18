@@ -9,7 +9,9 @@ org_summary: >-
   overcoming depression, anxiety, shame, self-doubt and bullying in all its
   forms. By using evidence-based psychology + relatable stories and characters
   people love, we transform struggles into strengths.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.SuperheroIRL.org'

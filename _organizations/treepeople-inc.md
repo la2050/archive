@@ -9,7 +9,9 @@ org_summary: >-
   sustainable and to share the results as a model for the world. Since 1973,
   TreePeople has guided volunteers to plant over 2 million trees along streets,
   at schools, in parks and yards across LA.
-tags_indicators: []
+tags_indicators:
+  - Climate change
+  - Access to parks & green space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.treepeople.org'

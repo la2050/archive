@@ -9,7 +9,9 @@ org_summary: >-
   actor and growth as a person are interconnected, we provide the tools,
   training, and discipline to nurture and support community members who are
   committed to a life of social engagement.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Creative economy
 charity_navigator_url: ''
 organization_website:
   - 'https://www.stellaadler.la'

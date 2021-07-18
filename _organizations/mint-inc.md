@@ -7,7 +7,9 @@ org_summary: >-
   Mint encourages the next generation of leaders, creators, and change-makers of
   color to reach their maximum potential through amplifying their voices and
   facilitating innovative idea exchanges.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Access to capital & benefits
 charity_navigator_url: ''
 organization_website:
   - 'https://www.mintinc-usa.com'

@@ -9,7 +9,10 @@ org_summary: >-
   enrichment to amateur and professional choral artists, to advocate for living
   composers and the music they write, and to reach out to the community in a way
   that creates new lovers of choral music.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Art
+  - Community gatherings
 charity_navigator_url: ''
 organization_website:
   - 'http://www.lachorallab.org'

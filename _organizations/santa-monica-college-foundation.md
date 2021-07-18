@@ -9,7 +9,9 @@ org_summary: >-
   scholarships and basic needs assistance as well as by connecting donors with
   opportunities to change lives through a world-class educational institution
   where equity and excellence intersect.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Mental & emotional health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.https://www.smc.edu'

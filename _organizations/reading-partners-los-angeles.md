@@ -8,7 +8,8 @@ org_summary: >-
   empowering communities to provide individualized instruction with measurable
   results, and we envision a future where all children will have the literacy
   skills they need to reach their full potential.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.readingpartners.org'

@@ -9,7 +9,9 @@ org_summary: >-
   reduce alcohol, other drug, and mental health related problems through
   positive social change, and; To share research and knowledge through training,
   consultation, and educational initiatives.
-tags_indicators: []
+tags_indicators:
+  - Community health
+  - Mental & emotional health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.socialmodelrecovery.org/'

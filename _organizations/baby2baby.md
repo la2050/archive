@@ -9,7 +9,9 @@ org_summary: >-
   million items to children in homeless shelters, domestic violence programs,
   foster care, hospitals and underserved schools as well as children who have
   lost everything in the wake of disaster.
-tags_indicators: []
+tags_indicators:
+  - Early childhood
+  - Resiliency
 charity_navigator_url: ''
 organization_website:
   - 'https://www.baby2baby.org'

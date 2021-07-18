@@ -7,7 +7,9 @@ org_summary: >-
   The 3 Lines Collective focuses on teaching improvisation and creative writing
   to help children and teens better connect with themselves and the world around
   them.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.3linescollective.com'

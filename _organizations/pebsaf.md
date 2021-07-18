@@ -9,7 +9,9 @@ org_summary: >-
   potential. Address disparities in student achievement, college readiness, and
   increase the number of students who graduate from a college or university with
   a bachelor's degree or higher.
-tags_indicators: []
+tags_indicators:
+  - College prep
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.pebsaf.org'

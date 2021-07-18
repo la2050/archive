@@ -7,7 +7,9 @@ org_summary: >-
   NAMI SGV provides advocacy, education, support, and public awareness so that
   all individuals and families affected by mental illness can build better lives
   supported by communities that care.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://namisangabrielvalley.org'

@@ -9,7 +9,9 @@ org_summary: >-
   programming has expanded to include the production of original art exhibits,
   films, events record releases and educational programs related to health,
   youth, development, education and creative processes.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Art
 charity_navigator_url: ''
 organization_website:
   - 'https://www.dublab.com'

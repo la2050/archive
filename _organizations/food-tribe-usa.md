@@ -6,7 +6,9 @@ org_type: For profit business
 org_summary: >-
   Food Tribe’s mission is to connect good people to good food. We vision a world
   free of hunger, starting in Los Angeles.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Community gatherings
 charity_navigator_url: ''
 organization_website:
   - 'https://www.foodtribeusa.co'

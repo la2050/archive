@@ -8,7 +8,9 @@ org_summary: >-
   and trauma through transformative storytelling and filmmaking—providing them
   with the support and skills needed to pursue higher education, gain
   employment, and become stable and productive members of society.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Art
 charity_navigator_url: ''
 organization_website:
   - 'https://www.kidsinthespotlight.org'

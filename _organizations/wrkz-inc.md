@@ -4,7 +4,10 @@ organization_id: '2021143'
 title: 'Wrkz, Inc.'
 org_type: Nonprofit
 org_summary: Enabling Young Adults to Create Pathways of Achievement
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Mental & emotional health
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.wrkz.org'

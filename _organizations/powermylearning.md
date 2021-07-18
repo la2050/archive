@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   PowerMyLearning advances educational equity by activating the power of
   collaboration between teachers, students, and families.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.powermylearning.org/learn/about-us/locations/los-angeles/'

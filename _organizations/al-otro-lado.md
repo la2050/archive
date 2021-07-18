@@ -9,7 +9,9 @@ org_summary: >-
   partnerships and volunteers to build a broad-based immigrant justice movement.
   Our multidisciplinary, client-centered, and trauma-informed approach mixes
   fierce legal advocacy with holistic support.
-tags_indicators: []
+tags_indicators:
+  - Resiliency
+  - Volunteerism
 charity_navigator_url: ''
 organization_website:
   - 'https://www.alotrolado.org/'

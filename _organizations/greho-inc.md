@@ -9,7 +9,9 @@ org_summary: >-
   of all Angelenos and we believe that it is our community’s moral duty to
   educate, inform and help each other better understand data and the utility of
   data. Our mission is a data literate Los Angeles.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.greho.org'

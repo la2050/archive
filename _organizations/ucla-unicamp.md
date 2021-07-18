@@ -7,7 +7,8 @@ org_summary: >-
   UCLA UniCamp’s mission is to develop volunteers into leaders who in turn serve
   as camp counselors to the underserved youth of Los Angeles. We build community
   among volunteers by fostering friendships and shared experiences.
-tags_indicators: []
+tags_indicators:
+  - Volunteerism
 charity_navigator_url: ''
 organization_website:
   - 'https://www.unicamp.org'

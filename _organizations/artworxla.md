@@ -8,7 +8,9 @@ org_summary: >-
   in a long-term, sequential arts program offering a pursuable life path that
   inspires them to stay in school, evolve as unique individuals and flourish as
   creative adults.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Art
 charity_navigator_url: ''
 organization_website:
   - 'https://www.artworxla.org'

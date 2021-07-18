@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   Healing California provides free, quality dental, medical, and vision care to
   those in need in California.
-tags_indicators: []
+tags_indicators:
+  - Community health
+  - Resiliency
 charity_navigator_url: ''
 organization_website:
   - 'https://www.healingca.org'

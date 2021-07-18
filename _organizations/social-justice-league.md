@@ -8,7 +8,9 @@ org_summary: >-
   non-profit organizations to develop a shared platform for highlighting needs,
   aligning resources, and plugging passion into actions that impact and inspire
   others.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sjl4all.com'

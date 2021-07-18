@@ -7,7 +7,8 @@ org_summary: >-
   Resilient mission is to provide youth development and community intervention
   services to underprivileged residents most impacted by violence to strengthen
   personal resilience, develop leadership, and community restoration.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.resilientagency.org'

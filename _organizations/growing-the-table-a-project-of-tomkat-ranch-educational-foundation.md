@@ -9,7 +9,9 @@ org_summary: >-
   farms during the COVID-19 crisis. We’re helping to shift demand in the food
   supply chain towards a regenerative future and ensure greater racial and
   gender equity in the new economy.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.https://www.growingthetable.org'

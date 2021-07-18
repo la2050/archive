@@ -9,7 +9,9 @@ org_summary: >-
   adults benefit by being able to access affordable, effective technology
   training. Both youth and seniors are provided with valuable learning
   opportunities and skill development.
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - STEM & Digital literacy
 charity_navigator_url: ''
 organization_website:
   - 'https://www.cyberseniors.org'

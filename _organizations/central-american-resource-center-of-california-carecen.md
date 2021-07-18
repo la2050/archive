@@ -8,7 +8,9 @@ org_summary: >-
   Americans and all immigrant communities through educational services, legal
   services, advocacy and organizing to transform educational, immigration and
   labor policies.
-tags_indicators: []
+tags_indicators:
+  - Resiliency
+  - Community safety
 charity_navigator_url: ''
 organization_website:
   - 'https://www.carecen-la.org'

@@ -7,7 +7,9 @@ org_summary: >-
   Ready, Set, Gold! (RSG!)partners with Olympians and Paralympians to inspire
   youth through sport by promoting the Olympic ideals of hard work, healthy
   living and a growth mindset.
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Community gatherings
 charity_navigator_url: ''
 organization_website:
   - 'https://www.readysetgold.net'

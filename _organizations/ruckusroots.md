@@ -9,7 +9,9 @@ org_summary: >-
   residents and youth. Through collaborative programs and online offerings, we
   strive to uncover and confront challenges facing communities through
   creativity, connection and engagement.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.ruckusroots.org'

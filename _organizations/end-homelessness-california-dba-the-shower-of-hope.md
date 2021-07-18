@@ -8,7 +8,9 @@ org_summary: >-
   organization with the mission of building capacity and community engagement to
   support the most vulnerable population suffering housing insecurity, financial
   stress, and violence.
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://theshowerofhope.org/'

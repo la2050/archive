@@ -8,7 +8,9 @@ org_summary: >-
   hands-on instruction and programs to engage, teach, and inspire the next
   generation of our future leaders in the fields of science, technology,
   engineering, art and math (STEAM).
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.gsbstem.org'

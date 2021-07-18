@@ -9,7 +9,8 @@ org_summary: >-
   communities. We strive to reach a child, raise a leader, and restore community
   through our StreetLeader program, CommunitySchool Initiative, After-School and
   Summer Camp programs.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.urbanpromiselosangeles.org/'

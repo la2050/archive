@@ -4,7 +4,9 @@ organization_id: '2021171'
 title: Street Simplified LLC
 org_type: For profit business
 org_summary: Saving lives by eliminating crashes worldwide
-tags_indicators: []
+tags_indicators:
+  - Community safety
+  - Transportation
 charity_navigator_url: ''
 organization_website:
   - 'https://www.streetsimplified.com/'

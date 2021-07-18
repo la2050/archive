@@ -9,7 +9,9 @@ org_summary: >-
   educational, and legal services to address their trauma, well-being, and legal
   immigration status. Our sister org CRCL Foundation represents all detained
   minors and can secure their release to Casa Libre.
-tags_indicators: []
+tags_indicators:
+  - Early childhood
+  - Resiliency
 charity_navigator_url: ''
 organization_website:
   - 'https://casalibrela.org/'

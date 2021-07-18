@@ -9,7 +9,9 @@ org_summary: >-
   entrepreneurship. JA programs equip students with the necessary skills to make
   informed and thoughtful decisions that will lead them to a secure, fulfilling
   and independent financial future.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - College prep
 charity_navigator_url: ''
 organization_website:
   - 'https://www.jasocal.org'

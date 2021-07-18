@@ -9,7 +9,9 @@ org_summary: >-
   women, femmes, and nonbinary people. The bookshop aims to serve as a radical
   site for the lost, the curious, and the unseen, providing a creative, literary
   dreamscape for the community.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Art
 charity_navigator_url: ''
 organization_website:
   - 'https://www.thesalteatersbooks.com'

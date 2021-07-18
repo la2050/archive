@@ -7,7 +7,8 @@ org_summary: >-
   Our mission is to build communities of happy and fulfilled people with real
   social and emotional connections. We focus on what truly matters in life, by
   saying, doing, and being good to one another.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.superpowersbox.com'

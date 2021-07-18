@@ -7,7 +7,10 @@ org_summary: >-
   We Are Enough (WAE) - WAE educates women of every economic level how and why
   to invest in women-owned businesses. We will leverage WAE’s network of women
   for fundraising.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Access to capital & benefits
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.weareenough.biz'

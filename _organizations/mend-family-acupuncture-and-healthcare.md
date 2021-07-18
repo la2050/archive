@@ -9,7 +9,9 @@ org_summary: >-
   Care Provider, Mend treats through Eastern Medical modalities and aims to keep
   you from needing western medications or more invasive treatments and
   interventions. We treat people of all ages.
-tags_indicators: []
+tags_indicators:
+  - Community health
+  - Resiliency
 charity_navigator_url: ''
 organization_website:
   - 'https://www.mendfamilyacupuncture.com'

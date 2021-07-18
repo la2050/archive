@@ -9,7 +9,9 @@ org_summary: >-
   helped thousands of children, teens, and adults in L.A. County find healing
   after the death of someone close. Our vision is to create a world in which
   grief is embraced, understood, and respected.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.ourhouse-grief.org'

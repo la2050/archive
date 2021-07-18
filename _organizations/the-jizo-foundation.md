@@ -9,7 +9,9 @@ org_summary: >-
   suffering the loss of an infant at or before birth.With the creation of public
   grieving sites, we will provide connection to others through ritual and
   community, as we aim to heal those in mourning
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Art
 charity_navigator_url: ''
 organization_website:
   - 'https://www.thejizofoundation.org/'

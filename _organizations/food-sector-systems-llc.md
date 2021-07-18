@@ -8,7 +8,9 @@ org_summary: >-
   supply chain design to ensure the integrity of food from seeds to scraps. Our
   team is dedicated to increasing access to optimal food and reducing food
   waste.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'http://kgarvanne.wixsite.com/ge-t/about'

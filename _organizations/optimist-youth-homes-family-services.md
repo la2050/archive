@@ -9,7 +9,9 @@ org_summary: >-
   better their lives. Optimist envisions a world where all children, young
   adults, and families have the opportunity to receive the care and support they
   need to succeed.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.oyhfs.org'

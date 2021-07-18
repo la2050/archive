@@ -8,7 +8,10 @@ org_summary: >-
   organize our local community, provide education, support sustainable projects,
   and empower our citizens, especially those who are low-moderate income,
   underserved and underrepresented.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Access to parks & green space
+  - Climate change
 charity_navigator_url: ''
 organization_website:
   - 'https://www.thenilesfoundation.org'

@@ -9,7 +9,9 @@ org_summary: >-
   to reach their full potential as productive, caring, healthy, and responsible
   citizens. BGCP provides year-round, low-cost youth development programs to
   Pasadena-area children ages 6-18.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.bgcpasadena.org'

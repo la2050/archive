@@ -9,7 +9,9 @@ org_summary: >-
   public, first and foremost, and aspires to improve and augment the overall
   quality of life of those individuals, communities, and neighborhoods it
   serves.
-tags_indicators: []
+tags_indicators:
+  - Community gatherings
+  - Art
 charity_navigator_url: ''
 organization_website:
   - 'https://www.nowartpublic.com'

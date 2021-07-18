@@ -9,7 +9,8 @@ org_summary: >-
   individuals, families and communities to fight for social justice and equity.
   Our civic activations reach more than 10,000 families annually, transforming
   marginalized neighborhoods into thriving communities.
-tags_indicators: []
+tags_indicators:
+  - Volunteerism
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sbcc.community'

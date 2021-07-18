@@ -9,7 +9,9 @@ org_summary: >-
   believes that every kid in Southern California, no matter their circumstance,
   should have the opportunity to pursue the game and experience the positive
   impact that it can have.
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.scgajunior.org'

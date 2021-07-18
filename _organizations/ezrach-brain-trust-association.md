@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   Ezrach’s mission is to provide economic opportunity, growth and sustainability
   to underserved communities through community and faith based organizations.
-tags_indicators: []
+tags_indicators:
+  - Volunteerism
+  - Access to capital & benefits
 charity_navigator_url: ''
 organization_website:
   - 'https://www.ezrach.org'

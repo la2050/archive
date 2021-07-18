@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   House of Ruth is dedicated to preventing domestic violence and ensuring the
   safety and well-being of those impacted by it.
-tags_indicators: []
+tags_indicators:
+  - Community safety
+  - Resiliency
 charity_navigator_url: ''
 organization_website:
   - 'https://www.houseofruthinc.org'

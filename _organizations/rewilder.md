@@ -9,7 +9,9 @@ org_summary: >-
   Angeles. Our business is built on value regeneration through thoughtful design
   and storytelling backed by robust science data that validates the positive
   environmental impact of our work.
-tags_indicators: []
+tags_indicators:
+  - Climate change
+  - Entrepreneurship & innovation
 charity_navigator_url: ''
 organization_website:
   - 'https://www.rewilder.com/'

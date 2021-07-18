@@ -9,7 +9,9 @@ org_summary: >-
   opportunities for connection and success by way of programs that support,
   unite and uplift female food and beverage entrepreneurs in Los Angeles and
   beyond.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.regardingherfood.com'

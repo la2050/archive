@@ -9,7 +9,9 @@ org_summary: >-
   social equity and sustainable community empowerment. Our work is derived from
   a site’s history and culture and seeks to elevate the human condition through
   interventions in the built environment.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'http://loharchitects.com/'

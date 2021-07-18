@@ -9,7 +9,10 @@ org_summary: >-
   The Youth Movement Against Alzheimer’s (YMAA) mission is to promote
   understanding of Alzheimer's among youth and young adults by providing
   opportunities to help those affected by the disease.
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - Mental & emotional health
+  - Volunteerism
 charity_navigator_url: ''
 organization_website:
   - 'https://www.theyouthmovement.org'

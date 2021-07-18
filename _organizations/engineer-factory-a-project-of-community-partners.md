@@ -6,7 +6,9 @@ org_type: A fiscally sponsored group
 org_summary: >-
   The mission of the Engineer Factory is to help more African American, Latinx
   and female engineers than industry can support.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.theengineerfactory.org'

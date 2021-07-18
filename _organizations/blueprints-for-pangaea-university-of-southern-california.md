@@ -7,7 +7,8 @@ org_summary: >-
   Blueprints For Pangaea seeks to address healthcare inequities by reallocating
   excess, unused medical supplies from U.S. hospitals and suppliers to areas in
   need both locally and overseas.
-tags_indicators: []
+tags_indicators:
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.blueprintsforpangaea.org/'

@@ -7,7 +7,10 @@ org_summary: >-
   Village for Vets fills critical gaps in services for homeless and at-risk
   veterans in Los Angeles County to support them on their journey to stability
   and independence.
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Mental & emotional health
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.villageforvets.org'

@@ -8,7 +8,9 @@ org_summary: >-
   conversation about children, youth and families in America. FMC publishes news
   site The Imprint, Fostering Families Today magazine, and provides journalism
   training to young adults with foster care and youth justice experience.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Voting & civic engagement
 charity_navigator_url: ''
 organization_website:
   - 'https://imprintnews.org/topic/youth-voice'

@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   Fostering partnerships between passionate individuals and mission driven
   organizations to shape a sustainable future.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Volunteerism
 charity_navigator_url: ''
 organization_website:
   - 'https://www.seedcg.org'

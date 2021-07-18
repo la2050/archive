@@ -9,7 +9,9 @@ org_summary: >-
   under-resourced communities to ensure their success and to create a more
   vibrant society. Since 1987, NFTE has educated 1.2 million young people
   worldwide and helped thousands launch businesses.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.nfte.com'

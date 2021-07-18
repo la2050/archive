@@ -9,7 +9,9 @@ org_summary: >-
   Tens of thousands have signed petitions reflecting a broad base of support for
   a new model of economic development that uplifts instead of uproots the
   community.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Access to capital & benefits
 charity_navigator_url: ''
 organization_website:
   - 'https://www.downtowncrenshaw.com/'

@@ -9,7 +9,8 @@ org_summary: >-
   at large, to create social change. The Center strives to engage volunteers
   throughout the academic year–and, ideally, to develop a life-long passion for
   civic service.
-tags_indicators: []
+tags_indicators:
+  - Volunteerism
 charity_navigator_url: ''
 organization_website:
   - 'https://volunteer.ucla.edu/'

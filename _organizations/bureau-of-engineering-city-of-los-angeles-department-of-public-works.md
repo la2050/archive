@@ -9,7 +9,9 @@ org_summary: >-
   innovative, sustainable, high-quality services with equity, creativity,
   quality, transparency and responsiveness. Our vision is to lead the
   transformation of LA into the world’s most livable and resilient city.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Resiliency
 charity_navigator_url: ''
 organization_website:
   - 'https://eng.lacity.org/'

@@ -7,7 +7,9 @@ org_summary: >-
   We are cultivating an environmentally sustainable community and thriving
   cooperative economy with dignified labor, workplace democracy, and 100% worker
   ownership through grassroots community organizing.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Entrepreneurship & innovation
 charity_navigator_url: ''
 organization_website:
   - 'https://www.workercooperatives.org and httP;//www.worcsusa.org'

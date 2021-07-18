@@ -8,7 +8,9 @@ org_summary: >-
   academic and athletic development. Our purpose is to prevent socioeconomic
   factors from being the barrier to high-quality academic and athletic services
   for youth in underserved, aspiring communities.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Fitness & sports
 charity_navigator_url: ''
 organization_website:
   - 'https://www.booksandbuckets.org'

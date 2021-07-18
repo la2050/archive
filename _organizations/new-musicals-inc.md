@@ -9,7 +9,10 @@ org_summary: >-
   society and culture are growing and shifting, and we want to ensure the art
   form grows beyond its traditionally Eurocentric origins to include diverse
   writers and audiences.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Creative economy
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.nmi.org'

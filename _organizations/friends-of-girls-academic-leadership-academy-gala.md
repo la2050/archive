@@ -8,7 +8,9 @@ org_summary: >-
   education in an all-girls environment - fostering academic excellence,
   leadership, and intellectual curiosity. This kind of education is crucial
   given that women and minorities are underrepresented in STEM-related fields.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - Resiliency
 charity_navigator_url: ''
 organization_website:
   - 'https://www.fogala.org/'

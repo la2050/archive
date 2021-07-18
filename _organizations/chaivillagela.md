@@ -8,7 +8,9 @@ org_summary: >-
   provides congregants of Temple Emanuel and Temple Isaiah the community,
   resources, programs and mutual support needed to live lives of purpose, growth
   and joy.
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.ChaiVIllageLA.org'

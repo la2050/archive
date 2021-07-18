@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   Ending modern slavery through education, advocacy and empowering survivors of
   human trafficking.
-tags_indicators: []
+tags_indicators:
+  - Community safety
+  - Resiliency
 charity_navigator_url: ''
 organization_website:
   - 'https://www.https://www.castla.org'

@@ -8,7 +8,8 @@ org_summary: >-
   in the U.S. and Asia, and to develop solidarity across national and regional
   lines. To promote racial, gender, and sexual equality through media advocacy,
   and culturally competent events.
-tags_indicators: []
+tags_indicators:
+  - Community gatherings
 charity_navigator_url: ''
 organization_website:
   - 'https://www.thaifanmeetusa.com'

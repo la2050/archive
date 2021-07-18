@@ -7,7 +7,9 @@ org_summary: >-
   Brady is uniting Americans, coast to coast, gun owners and non-gun owners
   alike, to end America’s gun violence epidemic. Our mission is to reduce rates
   of gun violence in America 25% by 2025.
-tags_indicators: []
+tags_indicators:
+  - Community safety
+  - Mental & emotional health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.bradyunited.org'

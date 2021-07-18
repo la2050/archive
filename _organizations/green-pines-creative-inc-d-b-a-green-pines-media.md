@@ -7,7 +7,9 @@ org_summary: >-
   Green Pines Media helps monetize exceptional art and music for Transition Age
   Youth (TAY) impacted by foster care, juvenile justice, children's mental
   health services, homelessness, and sex trafficking.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Homelessness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.greenpinesmedia.com'

@@ -9,7 +9,10 @@ org_summary: >-
   ICA LA is committed to upending hierarchies of race, class, gender, and
   culture. Through exhibitions and programs, ICA LA fosters critique of the
   familiar and empathy with the different.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Creative economy
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.theicala.org'

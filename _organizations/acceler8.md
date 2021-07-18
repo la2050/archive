@@ -7,7 +7,9 @@ org_summary: >-
   Acceler8, an innovative new automotive education program, pairs at-risk teens
   and opportunity youth with volunteer law enforcement officers and automotive
   professionals, joined by a common passion for automobiles.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.acceler8education.org'

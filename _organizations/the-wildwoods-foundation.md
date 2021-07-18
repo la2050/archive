@@ -7,7 +7,8 @@ org_summary: >-
   The mission of the Wildwoods Foundation is to equip the children, families,
   and educators of Los Angeles to practice the principles of ecology in creating
   sustainable, harmonious communities.
-tags_indicators: []
+tags_indicators:
+  - Volunteerism
 charity_navigator_url: ''
 organization_website:
   - 'https://www.WildwoodsFoundation.org'

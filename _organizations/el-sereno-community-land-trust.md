@@ -8,7 +8,9 @@ org_summary: >-
   provide opportunities for the residents of El Sereno, Los Angeles to secure
   community land and housing that is decent, affordable, and that is held in
   stewardship by community members on a long-term basis.
-tags_indicators: []
+tags_indicators:
+  - Affordable housing
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.elserenocommunitylandtrust.org/'

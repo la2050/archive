@@ -8,7 +8,9 @@ org_summary: >-
   activism and empower individuals to seek a global balance. Our initiatives
   focus on the power of creativity to communicate and drive progressive social
   change.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Creative economy
 charity_navigator_url: ''
 organization_website:
   - 'https://www.globalinheritance.org'

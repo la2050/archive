@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   LACLJ secures justice for survivors of domestic violence and sexual assault
   and empowers them to create their own future.
-tags_indicators: []
+tags_indicators:
+  - Community safety
+  - Resiliency
 charity_navigator_url: ''
 organization_website:
   - 'https://www.laclj.org'

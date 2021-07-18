@@ -7,7 +7,9 @@ org_summary: >-
   With a mission to reduce violence, the Urban Peace Institute (UPI) works on
   the ground in Los Angeles communities to create safe, healthy, and thriving
   neighborhoods.
-tags_indicators: []
+tags_indicators:
+  - Community safety
+  - Access to parks & green space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.urbanpeaceinstitute.org/'

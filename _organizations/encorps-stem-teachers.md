@@ -8,7 +8,9 @@ org_summary: >-
   achievement gaps for students in low income communities. All students
   regardless of socioeconomic status must have a strong STEM foundation to
   navigate and be successful in an increasingly complex world.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.encorps.org'

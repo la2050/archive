@@ -6,7 +6,9 @@ org_type: For profit business
 org_summary: >-
   Have A Go is an urbanism lab whose mission is to help create healthy, wealthy,
   sustainable, and vibrant cities.
-tags_indicators: []
+tags_indicators:
+  - Transportation
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://haveago.city/'

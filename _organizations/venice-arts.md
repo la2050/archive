@@ -8,7 +8,10 @@ org_summary: >-
   Angeles’ low-income youth through photography and film education, and to use
   our participatory storytelling practices to amplify the voices of
   underrepresented communities around the world.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Teaching & mentorship
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.venicearts.org'

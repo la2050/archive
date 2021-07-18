@@ -7,7 +7,9 @@ org_summary: >-
   Providing supportive services to individuals that have been incarcerated and
   are seeking assistance finding gainful employment without the stress of being
   rejected by partnering with small business employers.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Entrepreneurship & innovation
 charity_navigator_url: ''
 organization_website:
   - 'https://www.regci.org'

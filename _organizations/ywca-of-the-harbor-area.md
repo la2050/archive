@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   The YWCA of the Harbor Area and South Bay is dedicated to eliminating racism,
   empowering women, and promoting peace, justice, freedom, and dignity for all.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://ywcaharbor.org/'

@@ -8,7 +8,8 @@ org_summary: >-
   in access to vision care for low-income communities by providing eye exams and
   eyeglasses, free of charge, using mobile vision clinics that serve children at
   schools and community organizations.
-tags_indicators: []
+tags_indicators:
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.visiontolearn.org'

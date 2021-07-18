@@ -7,7 +7,9 @@ org_summary: >-
   The mission of Project Giving Kids is to cultivate empathy in youth by
   leveraging technology to connect them to meaningful and age-appropriate
   service.
-tags_indicators: []
+tags_indicators:
+  - Community gatherings
+  - Volunteerism
 charity_navigator_url: ''
 organization_website:
   - 'https://www.projectgivingkids.org'

@@ -8,7 +8,9 @@ org_summary: >-
   for students in underserved communities by providing them with 1:1 tutoring,
   custom tailored to foster their individual academic and social & emotional
   growth as well as their artistic and intellectual interests.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Art
 charity_navigator_url: ''
 organization_website:
   - 'https://www.goodtutors.org'

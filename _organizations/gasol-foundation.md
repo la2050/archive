@@ -7,7 +7,9 @@ org_summary: >-
   Gasol Foundation is on a mission to eradicate childhood obesity through
   research, holistic, data-driven programming and to illuminate the obesity
   crisis as the greatest opportunity to invest in the health of our future.
-tags_indicators: []
+tags_indicators:
+  - Community health
+  - Access to healthy food
 charity_navigator_url: ''
 organization_website:
   - 'https://www.gasolfoundation.org/'

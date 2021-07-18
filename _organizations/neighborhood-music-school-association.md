@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   The mission of Neighborhood Music School is to inspire minds and enrich our
   community through music education.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.neightborhoodmusic.org'

@@ -7,7 +7,9 @@ org_summary: >-
   To help people in Los Angeles pursue personal growth and change. SHARE!
   empowers people to change their own lives and provides them a loving, safe,
   non-judgmental place where they can find community, information and support.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.shareselfhelp.org'

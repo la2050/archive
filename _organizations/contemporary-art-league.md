@@ -6,7 +6,9 @@ org_type: Social enterprise or B-corps
 org_summary: >-
   Contemporary Art League builds unity, solidarity, and equity within and across
   sectors in the field of contemporary art.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Creative economy
 charity_navigator_url: ''
 organization_website:
   - 'https://www.contemporaryartleague.com'

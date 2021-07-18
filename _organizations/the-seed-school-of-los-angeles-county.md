@@ -9,7 +9,9 @@ org_summary: >-
   and socially, for success in college, career and life. SEED believes all young
   people, regardless of circumstances or zip code, should be able to achieve
   their potential.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - College prep
 charity_navigator_url: ''
 organization_website:
   - 'https://www.seedschoolla.org'

@@ -9,7 +9,9 @@ org_summary: >-
   seen in skateboard magazines, videos, and contests. We work to create female
   inclusive contests in LA, we also strive to create and achieve visual exposure
   so other girls know that "they can do it too"!
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Early childhood
 charity_navigator_url: ''
 organization_website:
   - 'https://www.girlisnota4letterword.com'

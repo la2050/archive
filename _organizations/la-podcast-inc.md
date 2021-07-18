@@ -6,7 +6,9 @@ org_type: For profit business
 org_summary: >-
   LA Podcast creates audio content to help promote civic engagement and
   education in Los Angeles.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Voting & civic engagement
 charity_navigator_url: ''
 organization_website:
   - 'https://thelapod.com/'

@@ -9,7 +9,9 @@ org_summary: >-
   designed to work with and for individuals and their communities; especially
   young people, so they may uncover, explore, and exploit their own innate
   genius to transform, for life, their selves/communities
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.wecan-foundation.net'

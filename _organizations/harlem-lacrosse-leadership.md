@@ -9,7 +9,8 @@ org_summary: >-
   students, athletes, and citizens. Led by professional coaches and educators,
   our innovative model uses sports and mentorship to help students realize their
   potential in a fun, safe, future-focused environment.
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
 charity_navigator_url: ''
 organization_website:
   - 'https://www.harlemlacrosse.org'

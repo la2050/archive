@@ -4,7 +4,9 @@ organization_id: '2021267'
 title: FoodCycle
 org_type: Nonprofit
 org_summary: Feed People Not Landfills
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.foodcyclela.org'

@@ -7,7 +7,9 @@ org_summary: >-
   Civicas, a women’s civic action network, creates opportunities for L.A.
   leaders to learn, partner and advance solutions to complex civic challenges
   through strategic connections.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Voting & civic engagement
 charity_navigator_url: ''
 organization_website:
   - 'https://www.civicas.net'

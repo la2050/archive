@@ -9,7 +9,10 @@ org_summary: >-
   independent artistic expression - Venice Beach/Southern California. We present
   the art world from the perspective of its artists, writers, curators,
   collectors, and the art viewing public.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Art
+  - Creative economy
 charity_navigator_url: ''
 organization_website:
   - 'https://www.veniceica.org'

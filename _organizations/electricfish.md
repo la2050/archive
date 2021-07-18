@@ -6,7 +6,9 @@ org_type: For profit business
 org_summary: >-
   Increasing reliability of electricity distribution network- for ensuring an
   equitable, resilient access to energy- that is completely green.
-tags_indicators: []
+tags_indicators:
+  - Transportation
+  - Climate change
 charity_navigator_url: ''
 organization_website:
   - 'https://www.electricfish.co'

@@ -9,7 +9,9 @@ org_summary: >-
   dedicated to helping students find the best college match and giving them the
   support necessary to graduate with little student debt, leading to a
   successful and fulfilling future.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - College prep
 charity_navigator_url: ''
 organization_website:
   - 'https://www.collegematchla.org'

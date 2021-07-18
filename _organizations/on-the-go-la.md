@@ -6,7 +6,9 @@ org_type: Social enterprise or B-corps
 org_summary: >-
   Enabling local food entrepreneurs to formalize their business without
   barriers.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Access to capital & benefits
 charity_navigator_url: ''
 organization_website:
   - 'https://www.onthego.la'

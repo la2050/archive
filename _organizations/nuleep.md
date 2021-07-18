@@ -6,7 +6,9 @@ org_type: For profit business
 org_summary: >-
   Nuleep’s mission is to create personal and professional growth opportunities
   for students and empower them through hands-on, experiential learning.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.jobs.nuleep.com'

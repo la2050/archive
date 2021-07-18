@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   The mission of the Fender Play Foundation is to equip, educate and inspire the
   next generation of players.
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.fenderplayfoundation.org'

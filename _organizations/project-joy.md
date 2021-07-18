@@ -9,7 +9,9 @@ org_summary: >-
   most vulnerable youth ages 16-24. We have a vision to break the cycle of
   generational poverty and end systemic inequities through the power of
   opportunity.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Creative economy
 charity_navigator_url: ''
 organization_website:
   - 'https://www.projectjoyusa.com'

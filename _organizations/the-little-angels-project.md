@@ -9,7 +9,8 @@ org_summary: >-
   low-cost medical care to under-served communities. As well as provide
   financial aid to those who have been affected/displaced by natural disasters
   such as wildfires, and Covid-19
-tags_indicators: []
+tags_indicators:
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.littleangelsproject.org'

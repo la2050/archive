@@ -9,7 +9,9 @@ org_summary: >-
   with the youth and incarcerated people by welcoming them back into society
   with reentry services and educating them on a pathway of leadership for their
   own growth.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.prideintruth.org'

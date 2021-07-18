@@ -7,7 +7,9 @@ org_summary: >-
   Our mission is to improve the quality of life for teens and seniors by safely
   bringing them together for engagement, enhancement, and entertainment
   services.
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.generationconnect.io'

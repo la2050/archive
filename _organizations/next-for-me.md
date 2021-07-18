@@ -4,7 +4,8 @@ organization_id: '2021289'
 title: Next For Me
 org_type: For profit business
 org_summary: Next For Me is on a mission to make your next career move the best yet.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.nextforme.com'

@@ -9,7 +9,9 @@ org_summary: >-
   contemporary art, wellness, and community impact. Compound’s unique mission is
   to provide equal access for free, culturally inclusive wellness resources and
   art programs to the local community.
-tags_indicators: []
+tags_indicators:
+  - Community health
+  - Art
 charity_navigator_url: ''
 organization_website:
   - 'https://www.compoundlb.com'

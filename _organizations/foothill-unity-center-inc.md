@@ -9,7 +9,9 @@ org_summary: >-
   service with love and dignity. Vision: all have their needs met including the
   need to give; all get the necessary supports to become self-sufficient; all
   are treated with love and dignity.
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Volunteerism
 charity_navigator_url: ''
 organization_website:
   - 'https://foothillunitycenter.org'

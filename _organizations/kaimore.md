@@ -9,7 +9,9 @@ org_summary: >-
   financial coaching services for disadvantaged individuals. Through this, we
   hope to help our clients develop financially sustainable lifestyles through
   flourishing careers and financial management.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.kaimore.org'

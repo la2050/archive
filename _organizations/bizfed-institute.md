@@ -7,7 +7,9 @@ org_summary: >-
   The BizFed Institute educates, engages, equips and measures consensus
   solutions from civically minded, nonprofit, academic, and regional thought
   leaders for the purpose of building strong communities throughout California.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.bizfedinstitute.org'

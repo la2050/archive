@@ -8,7 +8,9 @@ org_summary: >-
   South Central LA that achieves long-term, comprehensive community development
   through affordable housing, health equity and access to care, environmental
   justice, local economic opportunities, arts and culture and advocacy.
-tags_indicators: []
+tags_indicators:
+  - Community health
+  - Community gatherings
 charity_navigator_url: ''
 organization_website:
   - 'https://www.esperanzacommunityhousing.org/'

@@ -7,7 +7,9 @@ org_summary: >-
   Youth Emerging Stronger (YES)'s mission is to provide runaway, homeless and
   foster youth with safety, stability and housing, along with the relationships
   and resources to thrive now and in the future.
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Mental & emotional health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.youthemergingstronger.org'

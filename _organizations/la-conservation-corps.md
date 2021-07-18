@@ -8,7 +8,9 @@ org_summary: >-
   opportunities for success through job skills training, education, and work
   experience with an emphasis on conservation and service projects that benefit
   the community.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lacorps.org'

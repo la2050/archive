@@ -7,7 +7,9 @@ org_summary: >-
   Maxwell Vehicles is working to bring advanced electric vehicle technology to
   the commercial vehicle space without adding to the growing debt we now owe
   nature.
-tags_indicators: []
+tags_indicators:
+  - Transportation
+  - Climate change
 charity_navigator_url: ''
 organization_website:
   - 'https://www.maxwellvehicles.com/'

@@ -6,7 +6,9 @@ org_type: A fiscally sponsored group
 org_summary: >-
   The Cougar Conservancy’s mission is to reduce human-wildlife conflict and
   conserve cougar populations through science-based management and conservation.
-tags_indicators: []
+tags_indicators:
+  - Community safety
+  - Access to parks & green space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.cougarconservancy.org'

@@ -8,7 +8,9 @@ org_summary: >-
   the next generation of technology leaders in order to decrease the economic
   and racial wealth gap in underestimated communities and create pathways to
   degrees and careers in the technology ecosystem.
-tags_indicators: []
+tags_indicators:
+  - STEM & Digital literacy
+  - College prep
 charity_navigator_url: ''
 organization_website:
   - 'https://www.americaontech.org'

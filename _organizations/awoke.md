@@ -9,7 +9,9 @@ org_summary: >-
   foster positive youth development. AWOKE produces community development
   projects, arts and athletics programming, and cross-cultural experiences to
   empower communities and uplift youth leadership.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Fitness & sports
 charity_navigator_url: ''
 organization_website:
   - 'https://awokefoundation.org/'

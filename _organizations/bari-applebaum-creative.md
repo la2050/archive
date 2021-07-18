@@ -7,7 +7,9 @@ org_summary: >-
   We bring students into community gardens where they can establish roots and
   develop as socially minded leaders so that they can spread their positive
   influence wherever they go.
-tags_indicators: []
+tags_indicators:
+  - Access to parks & green space
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.chicasverdes.org'

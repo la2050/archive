@@ -9,7 +9,9 @@ org_summary: >-
   Dedicated to improving the skills of the hospitality, food service, and
   tourism workforce, HTA provides quality apprenticeship and training to upskill
   current workers and prepare underserved individuals for employment.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lahta.org'

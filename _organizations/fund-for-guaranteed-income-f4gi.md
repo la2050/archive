@@ -8,7 +8,9 @@ org_summary: >-
   will distribute recurring cash relief to low-income residents for 2 years. GI
   is simple but powerful: unconditional, direct, and continuous cash payments
   delivered to all residents to supplement existing welfare benefits.
-tags_indicators: []
+tags_indicators:
+  - Access to capital & benefits
+  - Entrepreneurship & innovation
 charity_navigator_url: ''
 organization_website:
   - 'https://www.comptonpledge.org'

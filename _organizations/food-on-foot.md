@@ -7,7 +7,9 @@ org_summary: >-
   Food on Foot is a nonprofit dedicated to assisting our homeless and low-income
   neighbors in Los Angeles with nutritious meals, clothing, and a fresh start
   through a life-skills education, full-time employment, and permanent housing.
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Access to healthy food
 charity_navigator_url: ''
 organization_website:
   - 'https://www.foodonfoot.org/'

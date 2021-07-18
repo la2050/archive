@@ -8,7 +8,9 @@ org_summary: >-
   living by increasing educational opportunities and promoting asset-building
   opportunities. HARC promotes the acquisition of self-actualization and
   resilience towards meaningful and optimal living.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - College prep
 charity_navigator_url: ''
 organization_website:
   - 'https://harvestallresource.wixsite.com/mysite'

@@ -7,7 +7,9 @@ org_summary: >-
   Chicxs Rockerxs South East Los Angeles (CRSELA) amplifies the voices of trans
   and gender expansive youth and girls from communities of color through music,
   mentorship and social justice to empower themselves and their communities.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Mental & emotional health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.crsela.org'

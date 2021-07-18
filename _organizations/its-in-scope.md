@@ -9,7 +9,9 @@ org_summary: >-
   experiences and investing in member-driven equitable and fulfilling
   possibilities of a shared home; a safe space for self discovery through
   collective exploration and connection.
-tags_indicators: []
+tags_indicators:
+  - Community gatherings
+  - Art
 charity_navigator_url: ''
 organization_website:
   - 'https://www.itsinscope.com'

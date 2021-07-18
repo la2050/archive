@@ -4,7 +4,9 @@ organization_id: '2021041'
 title: Inclusology
 org_type: For profit business
 org_summary: 'Making all workplaces, all inclusive, for all employees.'
-tags_indicators: []
+tags_indicators:
+  - Access to capital & benefits
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.inclusology.com'

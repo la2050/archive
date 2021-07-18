@@ -8,7 +8,9 @@ org_summary: >-
   individual wellness and community, to be an advocate for those in Hollywood
   without shelter, and to lead and collaborate with others to develop and
   implement solutions that lead to resilience and housing.
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Mental & emotional health
 charity_navigator_url: ''
 organization_website:
   - 'https://thecenterinhollywood.org'

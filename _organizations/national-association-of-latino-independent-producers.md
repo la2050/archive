@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   NALIP is a nonprofit whose mission is to discover, promote, and inspire Latinx
   content creators and diverse voices across all media platforms.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.nalip.org'

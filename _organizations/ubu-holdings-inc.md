@@ -9,7 +9,9 @@ org_summary: >-
   DOLLARS MATTER online and mobile platform utilizes technology and webinars for
   you to be able to buy from us, sell to us, hire us, promote us, market to us,
   identify us, empower us & love us.
-tags_indicators: []
+tags_indicators:
+  - Access to capital & benefits
+  - Entrepreneurship & innovation
 charity_navigator_url: ''
 organization_website:
   - 'https://www.tradingimportexport.com'

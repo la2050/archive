@@ -7,7 +7,10 @@ org_summary: >-
   The mission of Watts Labor Community Action Committee (WLCAC) is to improve
   the quality of life for the residents of Watts and neighboring communities
   through social services, housing, and the arts.
-tags_indicators: []
+tags_indicators:
+  - Climate change
+  - Workforce development
+  - Access to healthy food
 charity_navigator_url: ''
 organization_website:
   - 'https://www.wlcac.org'

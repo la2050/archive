@@ -7,7 +7,9 @@ org_summary: >-
   HACLA is committed to preserving, enhancing, and expanding deeply affordable
   housing and improving the quality of life for Angelenos with a focus on
   People, Place, and Pathways to Opportunity.
-tags_indicators: []
+tags_indicators:
+  - Affordable housing
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.hacla.org'

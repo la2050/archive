@@ -4,7 +4,9 @@ organization_id: '2021050'
 title: LIVE & FAITH Consulting
 org_type: For profit business
 org_summary: Empowering Black women through excellence in project management.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.liveandfaithconsulting.com'

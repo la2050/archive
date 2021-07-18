@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   PATH’s mission is to end homelessness for individuals, families, and
   communities.
-tags_indicators: []
+tags_indicators:
+  - Affordable housing
+  - Homelessness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.epath.org'

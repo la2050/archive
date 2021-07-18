@@ -9,7 +9,9 @@ org_summary: >-
   With One Tied Hand (2016); and Pershing’s Paths of Glory (2020). In
   development today is a new TV series: Female and Finally Free (anticipated
   release 2022). Our proposal integrates this series.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - Mental & emotional health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.pacificfilmfoundation.org'

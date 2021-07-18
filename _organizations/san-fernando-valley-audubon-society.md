@@ -8,7 +8,9 @@ org_summary: >-
   today and tomorrow, using science, advocacy, education and conservation. Our
   vision is that we live in a world in which people and wildlife should both be
   able to thrive.
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - Access to parks & green space
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sfvaudubon.org.org'

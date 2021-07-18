@@ -9,7 +9,9 @@ org_summary: >-
   disadvantaged South Los Angeles neighborhoods, socializing advanced
   transportaion tech that fosters economic development, jobs, and skills
   training opportunities for pathfinder communities of color.
-tags_indicators: []
+tags_indicators:
+  - Transportation
+  - Climate change
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sankofacity.com'

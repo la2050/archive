@@ -8,7 +8,9 @@ org_summary: >-
   through unity, economic advancement, and living a life of wholeness. We
   envision a world where Black people are free from racial disparities,
   depression, and isolation.
-tags_indicators: []
+tags_indicators:
+  - Access to capital & benefits
+  - Mental & emotional health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.therightkindofblackgirl.org'

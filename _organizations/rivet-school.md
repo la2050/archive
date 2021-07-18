@@ -9,7 +9,9 @@ org_summary: >-
   full-time. We believe that all students, especially those working, parenting,
   or first in their family to attend college, deserve to earn a career-boosting
   degree.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - College prep
 charity_navigator_url: ''
 organization_website:
   - 'https://www.rivetschool.org'

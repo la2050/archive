@@ -8,7 +8,9 @@ org_summary: >-
   on Law & Poverty is to fight in courts, cities, counties, and in the Capitol
   to secure housing, health care, and a strong safety net for Californians with
   low incomes.
-tags_indicators: []
+tags_indicators:
+  - Affordable housing
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://wclp.org'

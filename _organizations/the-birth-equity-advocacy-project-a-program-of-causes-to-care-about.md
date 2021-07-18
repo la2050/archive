@@ -9,7 +9,8 @@ org_summary: >-
   quality prenatal and perinatal care for all families of color. We operate
   exclusively to promote social welfare through advocacy, and we are dedicated
   solely to lobbying for birth equity.
-tags_indicators: []
+tags_indicators:
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.Birthequityap.org'

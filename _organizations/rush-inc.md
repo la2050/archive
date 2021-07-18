@@ -4,7 +4,8 @@ organization_id: '2021128'
 title: Rush Inc
 org_type: For profit business
 org_summary: To achieve economic and social equality for women.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
 charity_navigator_url: ''
 organization_website:
   - 'https://www.rushhaus.com'

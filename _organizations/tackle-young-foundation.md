@@ -8,7 +8,9 @@ org_summary: >-
   fulfill their potential through entrepreneurship and mentorship. Our goal as a
   team is to foster a culture of learning and a community driven by the ideas of
   business and finance to help these students succeed financially.
-tags_indicators: []
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.tackleyoung.foundation/'

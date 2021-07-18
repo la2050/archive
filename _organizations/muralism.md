@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   Muralism is dedicated to connecting people with special needs to the community
   through art.
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - Art
 charity_navigator_url: ''
 organization_website:
   - 'https://www.muralism.org'

@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   Our Mission is to empower makers, inventors and aspiring entrepreneurs by
   providing Makerspaces and Tool Libraries in underserved Communities.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Entrepreneurship & innovation
 charity_navigator_url: ''
 organization_website:
   - 'https://www.themakershub.org'

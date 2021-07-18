@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   OLASTEO’s mission is to create experiences that empower students to serve as
   catalysts for social impact.
-tags_indicators: []
+tags_indicators:
+  - Teaching & mentorship
+  - Community gatherings
 charity_navigator_url: ''
 organization_website:
   - 'https://olasteo.org/'

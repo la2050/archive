@@ -8,7 +8,9 @@ org_summary: >-
   creating a global community that embraces low-carbon culture. This community
   will be built by intersecting YOUTH, TECHNOLOGY and STORYTELLING. 501CTHREE is
   focused on social justice and has a track record across the US.
-tags_indicators: []
+tags_indicators:
+  - Climate change
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.501CTHREE.org'

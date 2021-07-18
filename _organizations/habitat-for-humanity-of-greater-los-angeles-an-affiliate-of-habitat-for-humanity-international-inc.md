@@ -8,7 +8,9 @@ org_type: Nonprofit
 org_summary: >-
   Habitat for Humanity of Greater Los Angeles (Habitat LA) seeks to put love
   into action, by bringing people together to build homes, communities and hope.
-tags_indicators: []
+tags_indicators:
+  - Homelessness
+  - Affordable housing
 charity_navigator_url: ''
 organization_website:
   - 'https://www.habitatla.org'

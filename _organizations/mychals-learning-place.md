@@ -7,7 +7,9 @@ org_summary: >-
   Mychal’s Learning Place provides the support, training and opportunities to
   youth and young adults with developmental disabilities to build their
   independence and pursue their goals and dreams.
-tags_indicators: []
+tags_indicators:
+  - Disability & aging
+  - Teaching & mentorship
 charity_navigator_url: ''
 organization_website:
   - 'https://www.mychals.org'

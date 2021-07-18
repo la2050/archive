@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   To ensure that all people impacted by cancer are empowered by knowledge,
   strengthened by action and sustained by community.
-tags_indicators: []
+tags_indicators:
+  - Community health
+  - Community gatherings
 charity_navigator_url: ''
 organization_website:
   - 'https://www.cancersupportla.org/'

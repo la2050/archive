@@ -6,7 +6,9 @@ org_type: Nonprofit
 org_summary: >-
   Sprouts of Promise leverages farmers' markets as a force for building healthy
   communities in Los Angeles and Orange County.
-tags_indicators: []
+tags_indicators:
+  - Access to healthy food
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sproutsofpromise.org'

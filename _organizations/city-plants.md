@@ -9,7 +9,9 @@ org_summary: >-
   health, cooling shade, and friendlier, more vibrant communities. Our mission
   is to grow a greener future for Los Angeles by engaging Angelenos to plant and
   care for trees throughout the City.
-tags_indicators: []
+tags_indicators:
+  - Access to parks & green space
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.cityplants.org'

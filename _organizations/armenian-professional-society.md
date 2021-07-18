@@ -8,7 +8,8 @@ org_summary: >-
   advancement of education and fellowship among Armenians. Since its inception,
   APS has supported over 300 students of Armenian descent in the United States
   by granting scholarships to graduate students in a variety of fields.
-tags_indicators: []
+tags_indicators:
+  - College prep
 charity_navigator_url: ''
 organization_website:
   - 'http://www.armenianprofessionalsociety.org/'

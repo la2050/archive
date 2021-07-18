@@ -9,7 +9,9 @@ org_summary: >-
   community of autonomous BIPOC surfers. CTW is changing contemporary colonized
   coastal culture into a joyful, anti-racist celebration of true inclusivity,
   diversity, and ocean access equity.
-tags_indicators: []
+tags_indicators:
+  - Fitness & sports
+  - Resiliency
 charity_navigator_url: ''
 organization_website:
   - 'https://www.colorthewater.org'

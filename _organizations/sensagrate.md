@@ -8,7 +8,9 @@ org_summary: >-
   communication platform that provides data to support intelligent
   decision-making for both human-driven and autonomous vehicles to foster safer
   interaction as they navigate our roadways.
-tags_indicators: []
+tags_indicators:
+  - Transportation
+  - Community safety
 charity_navigator_url: ''
 organization_website:
   - 'https://www.sensagrate.com'

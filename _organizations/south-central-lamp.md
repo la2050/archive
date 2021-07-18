@@ -7,7 +7,9 @@ org_summary: >-
   To provide free programs that empower women and their families to reach their
   full potential in a supportive, nurturing environment by promoting education,
   building self-esteem, and strengthening community relationships.
-tags_indicators: []
+tags_indicators:
+  - Early childhood
+  - Mental & emotional health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.southcentrallamp.org'

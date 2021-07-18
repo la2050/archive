@@ -7,7 +7,10 @@ org_summary: >-
   People’s Pottery Project’s mission is to empower formerly incarcerated women,
   trans and non-binary individuals through the power of art-making, grassroots
   advocacy, and meaningful employment through our non-profit ceramics studio.
-tags_indicators: []
+tags_indicators:
+  - Workforce development
+  - Creative economy
+  - Art
 charity_navigator_url: ''
 organization_website:
   - 'https://www.peoplespotteryproject.com'

@@ -9,7 +9,9 @@ org_summary: >-
   choices, reducing traffic congestion, enhancing mobility options that increase
   access to LAX and improving air quality by subsidizing transit passes and
   providing carpool/vanpool matching services.
-tags_indicators: []
+tags_indicators:
+  - Transportation
+  - Air & water
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lawa.org/commutelax'

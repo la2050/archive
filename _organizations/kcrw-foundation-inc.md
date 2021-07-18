@@ -9,7 +9,8 @@ org_summary: >-
   and engage our audiences through news, music, arts and culture. We amplify the
   diverse voices of SoCal by featuring varied perspectives to promote a nuanced
   understanding of the world around us.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
 charity_navigator_url: ''
 organization_website:
   - 'https://www.kcrw.com'

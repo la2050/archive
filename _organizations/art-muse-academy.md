@@ -7,7 +7,9 @@ org_summary: >-
   To provide meaningful access to art for all audiences in order to train
   professional art historians, artists, and educators to facilitate exceptional
   experiences of art works.
-tags_indicators: []
+tags_indicators:
+  - Creative economy
+  - Art
 charity_navigator_url: ''
 organization_website:
   - 'https://www.artmusela.com/art-muse-academy'

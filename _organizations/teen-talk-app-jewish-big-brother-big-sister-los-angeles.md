@@ -8,7 +8,9 @@ org_summary: >-
   help children achieve their full potential by participating in innovative,
   effective programs that facilitate lasting mentor relationships and support
   positive youth development.
-tags_indicators: []
+tags_indicators:
+  - Mental & emotional health
+  - Community health
 charity_navigator_url: ''
 organization_website:
   - 'https://www.jbbbsla.org/teen-programming/#teentalkapp'

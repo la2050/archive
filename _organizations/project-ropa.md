@@ -8,7 +8,10 @@ org_summary: >-
   people experiencing homelessness in Los Angeles by providing clean clothes,
   hygiene essentials and employment opportunities while reducing textile waste
   and minimizing our carbon footprint.
-tags_indicators: []
+tags_indicators:
+  - Climate change
+  - Community health
+  - Workforce development
 charity_navigator_url: ''
 organization_website:
   - 'https://www.projectropa.org'

@@ -9,7 +9,9 @@ org_summary: >-
   programs. Participants from all over Los Angeles collaborate to create
   festival-ready films in a safe, supportive environment arming them for
   entrance into top film schools and careers.
-tags_indicators: []
+tags_indicators:
+  - Art
+  - College prep
 charity_navigator_url: ''
 organization_website:
   - 'https://www.girls-in-focus.com'

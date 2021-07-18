@@ -9,7 +9,9 @@ org_summary: >-
   with young children under the age of 5 throughout East Los Angeles, thus
   strengthening attachment between parent and child and mitigating Covid -19
   Post Traumatic Stress.
-tags_indicators: []
+tags_indicators:
+  - Early childhood
+  - STEM & Digital literacy
 charity_navigator_url: ''
 organization_website:
   - 'https://www.lindave.org'
