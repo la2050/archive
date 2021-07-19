@@ -4,32 +4,34 @@ organization_id: '2016061'
 title: Covenant House California
 org_type: Nonprofit
 org_summary: >-
-  Covenant House California (CHC) is a nonprofit youth homeless shelter that
-  provides sanctuary and support for homeless and trafficked youth, ages 18 to
-  25.
+  Covenant House California is dedicated to serving all of God’s children with
+  absolute respect and unconditional love… to help youth experiencing
+  homelessness and to protect and safeguard all youth in need.
 tags_indicators:
   - Homelessness
   - Housing & homelessness
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=13-3391210'
+charity_navigator_url: ''
 organization_website:
-  - www.covenanthousecalifornia.org
-twitter: CovenantHouseCA
-instagram: covenanthousecalifornia/
-facebook: N/A
-ein: '13-3391210'
-zip: ''
+  - 'https://www.covenanthousecalifornia.org'
+twitter: '@CovenantHouseCA'
+instagram: '@ovenanthousecalifornia'
+facebook: www.facebook.com/covenanthousecalifornia
+ein: '133391210'
+zip: '90027'
 project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3954291065741-team90.jpg
-project_video: ''
+  https://images.la2050.org/challenge/2021/create/2048-wide/covenant-house-california.jpg
+project_video: 'https://vimeo.com/531930579'
 challenge_url:
+  - 'https://challenge.la2050.org/2021/create/covenant-house-california/'
   - 'https://challenge.la2050.org/entry/the-precise-barber-college'
 year_submitted:
+  - '2021'
   - '2016'
 project_ids:
+  - '1202093'
   - '6102057'
 project_titles:
+  - 'Digital Dove Lab: Animation Training and Studio'
   - The Precise Barber College
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/covenant-house-california/skild-prod.s3.amazonaws.com/myla2050/images/custom540/3954291065741-team90.jpg
 
 ---

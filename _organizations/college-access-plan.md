@@ -20,15 +20,19 @@ facebook: 'https://www.facebook.com/collegeaccessplan'
 ein: '208371402'
 zip: '91104'
 project_image: >-
-  https://images.la2050.org/challenge/2020/learn/2048-wide/college-access-plan.jpg
+  https://images.la2050.org/challenge/2021/learn/2048-wide/college-access-plan.jpg
 project_video: 'https://vimeo.com/268692736'
 challenge_url:
+  - 'https://challenge.la2050.org/2021/learn/college-access-plan/'
   - 'https://challenge.la2050.org/2020/learn/college-access-plan/'
 year_submitted:
+  - '2021'
   - '2020'
 project_ids:
+  - '1202018'
   - 0202018
 project_titles:
+  - 100% Financial Aid for PUSD
   - PUSD to College Graduation
 
 ---

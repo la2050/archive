@@ -4,9 +4,9 @@ organization_id: '2016219'
 title: The Harmony Project
 org_type: Nonprofit
 org_summary: >-
-  The Harmony Project offers an after-school music program that empowers and
-  fosters positive youth development in children from under-resourced
-  communities, throughout their entire childhood (k-12).
+  Harmony Project harnesses the transformative power of music to increase access
+  to higher education for underserved students by removing the systemic barriers
+  to achievement through academic and social support.
 tags_indicators:
   - Teaching & mentorship
   - Art
@@ -14,27 +14,29 @@ tags_indicators:
   - Arts & cultural vitality
 charity_navigator_url: ''
 organization_website:
-  - www.harmony-project.org
-twitter: HarmonyProject
-instagram: HarmonyProjectLA
-facebook: harmonyprojectla
-ein: ''
-zip: ''
+  - 'https://www.harmony-project.org'
+twitter: '@harmonyproject'
+instagram: '@harmonyprojectla'
+facebook: 'https://www.facebook.com/HarmonyProjectLA/'
+ein: '954856236'
+zip: '90010'
 project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4845089986741-team90.JPG
-project_video: 'https://www.youtube.com/embed/Kep3gB10R3I?rel=0&amp;showinfo=0'
+  https://images.la2050.org/challenge/2021/connect/2048-wide/the-harmony-project.jpg
+project_video: 'https://www.youtube.com/watch?v=qjcmWFK-310'
 challenge_url:
+  - 'https://challenge.la2050.org/2021/connect/the-harmony-project/'
   - >-
     https://challenge.la2050.org/entry/give-music-change-lives-the-expansion-of-harmony-projects-transformative-program-into-south-la
 year_submitted:
+  - '2021'
   - '2016'
 project_ids:
+  - '1202236'
   - '6102243'
 project_titles:
+  - Community-Based Mobile Music Production Labs
   - >-
     Give Music Change Lives: The expansion of Harmony Project’s transformative
     program into South LA
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/the-harmony-project/skild-prod.s3.amazonaws.com/myla2050/images/custom540/4845089986741-team90.JPG
 
 ---

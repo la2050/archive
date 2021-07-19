@@ -20,23 +20,27 @@ facebook: 'https://www.facebook.com/UnitedFriendsLA/'
 ein: '953665186'
 zip: '90017'
 project_image: >-
-  https://images.la2050.org/challenge/2020/learn/2048-wide/united-friends-of-the-children.jpg
-project_video: 'https://vimeo.com/340266148'
+  https://images.la2050.org/challenge/2021/learn/2048-wide/united-friends-of-the-children.jpg
+project_video: ''
 challenge_url:
+  - 'https://challenge.la2050.org/2021/learn/united-friends-of-the-children/'
   - 'https://challenge.la2050.org/2020/learn/united-friends-of-the-children/'
   - 'https://challenge.la2050.org/entry/college-is-for-foster-youth!'
   - 'http://maker.good.is/myla2050learn2015/projects/College4FosterYouth.html'
 year_submitted:
+  - '2021'
   - '2020'
   - '2016'
   - '2015'
   - '2014'
 project_ids:
+  - '1202079'
   - 0202078
   - '6102270'
   - '5102332'
   - '4102244'
 project_titles:
+  - Foster Youth Equity Through Financial Empowerment
   - United Friends Scholars Program
   - College IS for Foster Youth!
   - >-

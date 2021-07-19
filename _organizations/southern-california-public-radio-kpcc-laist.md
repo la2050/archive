@@ -9,7 +9,8 @@ org_summary: >-
   quality news and information service through radio and other interactive
   media. We are a public forum that engages audiences in an ongoing dialogue.
 tags_indicators:
-  - ' Voting & civic engagement'
+  - Voting & civic engagement
+  - Social connectedness
 charity_navigator_url: ''
 organization_website:
   - 'https://www.laist.com, www.scpr.org'

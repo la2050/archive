@@ -4,35 +4,34 @@ organization_id: '2015006'
 title: Alliance for Children's Rights
 org_type: Nonprofit
 org_summary: >-
-  Since 1992, the Alliance for Children's Rights has protected the rights of
-  L.A. County’s impoverished, neglected, and abused children and foster youth,
-  ages zero to 24. In 2014 we provided free legal and social services to more
-  than 8,000 children.
+  The Alliance for Children’s Rights’ mission is to protect the rights of
+  children in poverty and those overcoming abuse and neglect by delivering free
+  legal services, supportive programs, and systemic solutions.
 tags_indicators:
   - Teaching & mentorship
   - Education & youth
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954358213'
+charity_navigator_url: ''
 organization_website:
-  - www.kids-alliance.org
-twitter: www.twitter.com/kidalliance
-instagram: 'https://instagram.com/kidalliance/'
-facebook: www.facebook.com/kidalliance
+  - 'https://allianceforchildrensrights.org'
+twitter: '@kidalliance'
+instagram: '@allianceforchildrensrights'
+facebook: 'https://www.facebook.com/allianceforchildrensrights'
 ein: '954358213'
 zip: '90010'
 project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24082%252Fdisplay%252FPage_6_Behind_the_scenes.JPG=c570x385
-project_video: ''
+  https://images.la2050.org/challenge/2021/learn/2048-wide/alliance-for-childrens-rights.jpg
+project_video: 'https://www.youtube.com/watch?v=KRIZuu4ex_E'
 challenge_url:
+  - 'https://challenge.la2050.org/2021/learn/alliance-for-childrens-rights/'
   - 'http://maker.good.is/myla2050connect2015/projects/B4UGO.html'
 year_submitted:
+  - '2021'
   - '2015'
 project_ids:
+  - '1202003'
   - '5102012'
 project_titles:
+  - Intervening Early to Champion Equitable Outcomes for Children in Foster Care
   - Know Before You Go (B4UGO) Campaign
-maker_image_file_name: Page_6_Behind_the_scenes.JPG
-maker_image_id: '24082'
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/alliance-for-childrens-rights/maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24082%252Fdisplay%252FPage_6_Behind_the_scenes.JPG=c570x385.jpg
 
 ---

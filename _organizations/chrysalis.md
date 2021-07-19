@@ -6,7 +6,7 @@ org_type: Nonprofit
 org_summary: >-
   Chrysalis’ mission is to create a pathway to self-sufficiency for homeless and
   low-income individuals by providing the resources and support needed to find
-  and retain employment.
+  and retain employment
 tags_indicators:
   - Workforce development
   - Homelessness
@@ -20,19 +20,23 @@ instagram: '@ChrysalisLA'
 facebook: ChrysalisLA
 ein: '953972624'
 zip: '90013'
-project_image: 'https://images.la2050.org/challenge/2020/create/2048-wide/chrysalis.jpg'
-project_video: 'https://www.youtube.com/watch?v=AVP5jV11H-Y&feature=youtu.be'
+project_image: 'https://images.la2050.org/challenge/2021/create/2048-wide/chrysalis.jpg'
+project_video: ''
 challenge_url:
+  - 'https://challenge.la2050.org/2021/create/chrysalis/'
   - 'https://challenge.la2050.org/2020/create/chrysalis/'
   - >-
     https://challenge.la2050.org/entry/changing-lives-through-jobs-create-a-secondchance-for-l-a-through-employment
 year_submitted:
+  - '2021'
   - '2020'
   - '2016'
 project_ids:
+  - '1202087'
   - 0202088
   - '6102036'
 project_titles:
+  - 'Jobs for Justice: Support Chrysalis’ Reentry Initiatives'
   - Pathways to Stability for Justice-involved Individuals
   - >-
     Changing Lives Through Jobs: Create a #SecondChance for L.A. through

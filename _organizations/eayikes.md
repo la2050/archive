@@ -4,33 +4,35 @@ organization_id: '2018036'
 title: Eayikes
 org_type: Nonprofit
 org_summary: >-
-  Engage, empower, inform, inspire, citizens of a community… EEIICC + a whole
-  lotta wonder = EAYIKES!
+  Helping people cultivate more Courage, Compassion, and Wonder through
+  Community.
 tags_indicators:
   - Mental & emotional health
   - Volunteerism
   - Health
   - Social connectedness
-charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462395125'
+charity_navigator_url: ''
 organization_website:
-  - eayikes.org
+  - 'https://www.eayikes.org'
 twitter: ''
 instagram: '@eayikes'
-facebook: facebook.com/eayikes
+facebook: eayikes
 ein: '462395125'
-zip: ''
-project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/eayikes.jpg'
-project_video: 'https://youtu.be/PtA8wOP6XuM'
+zip: '90016'
+project_image: 'https://images.la2050.org/challenge/2021/live/2048-wide/eayikes.jpg'
+project_video: 'https://youtu.be/YfBt4E0BAvw'
 challenge_url:
+  - 'https://challenge.la2050.org/2021/live/eayikes/'
   - 'https://activation.la2050.org/connect/eayikes/'
 year_submitted:
+  - '2021'
   - '2018'
 project_ids:
+  - '1202259'
   - '8102036'
 project_titles:
+  - Home-y Made Meals
   - 'Back to Basics: Transforming How Angelenos Connect'
   - Youth Building and Empowerment!
-cached_project_image: >-
-  https://archive-assets.la2050.org/images/eayikes/activation.la2050.org/assets/images/connect/2048-wide/eayikes.jpg
 
 ---

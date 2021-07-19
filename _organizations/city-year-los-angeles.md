@@ -5,25 +5,26 @@ title: City Year Los Angeles
 org_type: Nonprofit
 org_summary: >-
   Our mission is to build democracy through citizen service, civic leadership
-  and social entrepreneurship. We fulfill our mission by leveraging the service
-  of our AmeriCorps members to address the inequitable distribution of
-  educational resources for children living across the Los Angeles area.
+  and social entrepreneurship. We leverage the service of our AmeriCorps members
+  to address the inequitable distribution of educational resources across Los
+  Angeles, which we believe strengthens our democracy and develops civic leaders
+  and social entrepreneurs.
 tags_indicators:
   - Teaching & mentorship
   - Education & youth
 charity_navigator_url: ''
 organization_website:
-  - 'https://www.cityyear.org/losangeles'
-twitter: '@CityYearLA'
+  - 'https://www.cityyear.org/la'
+twitter: '@cityyearla'
 instagram: '@cityyearla'
-facebook: 'https://www.facebook.com/City-Year-Los-Angeles-473497739805451/'
+facebook: facebook.com/cityyearlosangeles
 ein: '222882549'
 zip: '90014'
 project_image: >-
-  https://images.la2050.org/challenge/2020/learn/2048-wide/city-year-los-angeles.jpg
-project_video: >-
-  https://www.youtube.com/watch?v=_Ok-r9ywLjY&list=PLQmnJ-zhcZRAjhsuAOra6lTU9rHZiDAWo&index=1
+  https://images.la2050.org/challenge/2021/learn/2048-wide/city-year-los-angeles.jpg
+project_video: 'https://vimeo.com/456359181'
 challenge_url:
+  - 'https://challenge.la2050.org/2021/learn/city-year-los-angeles/'
   - 'https://challenge.la2050.org/2020/learn/city-year-los-angeles/'
   - 'https://challenge.la2050.org/2019/learn/city-year-los-angeles/'
   - 'https://activation.la2050.org/connect/city-year-los-angeles/'
@@ -32,6 +33,7 @@ challenge_url:
   - 'http://maker.good.is/myla2050learn2015/projects/CYLAPARTNERSHIP.html'
   - 'http://maker.good.is/myLA2050learn/projects/CYLAPLAS.html'
 year_submitted:
+  - '2021'
   - '2020'
   - '2019'
   - '2018'
@@ -39,6 +41,7 @@ year_submitted:
   - '2015'
   - '2014'
 project_ids:
+  - '1202016'
   - '0202017'
   - '9102007'
   - '8102027'
@@ -46,6 +49,7 @@ project_ids:
   - '5102062'
   - '4102038'
 project_titles:
+  - City Year Los Angeles Whole School Whole Child Program
   - City Year Inglewood USD Expansion
   - City Year Los Angeles - Whole School Whole Child
   - >-

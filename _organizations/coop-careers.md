@@ -5,7 +5,7 @@ title: COOP Careers
 org_type: Nonprofit
 org_summary: >-
   Overcoming underemployment through digital skills and peer connections for
-  underrepresented, first generation college graduates.
+  underrepresented, first-generation college graduates.
 tags_indicators:
   - Teaching & mentorship
   - Creative economy
@@ -20,16 +20,20 @@ twitter: '@coop_cx'
 instagram: '@coop.cx'
 facebook: 'https://www.facebook.com/cooperate.nyc'
 ein: '831457260'
-zip: '10036'
-project_image: 'https://images.la2050.org/challenge/2020/create/2048-wide/coop-careers.jpg'
-project_video: 'https://www.youtube.com/watch?v=PZgrcjDxPH0'
+zip: '11215'
+project_image: 'https://images.la2050.org/challenge/2021/create/2048-wide/coop-careers.jpg'
+project_video: ''
 challenge_url:
+  - 'https://challenge.la2050.org/2021/create/coop-careers/'
   - 'https://challenge.la2050.org/2020/create/coop-careers/'
 year_submitted:
+  - '2021'
   - '2020'
 project_ids:
+  - '1202092'
   - 0202093
 project_titles:
+  - COOP Careers LA Expansion
   - COOP Careers LA Expansion
 
 ---

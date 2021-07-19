@@ -1,0 +1,108 @@
+<div class="proposal-answers">
+
+<h3>In which areas of Los Angeles will you be directly working?</h3>
+<ul>
+  {% for area in page["In which areas of Los Angeles will you be directly working?"] %}
+  <li>
+    {{
+      area
+        | replace: "(select only if your project has a countywide", ""
+        | replace: "(select only if your project has a citywide", ""
+        | replace: "benefit)", ""
+    }}
+  </li>
+  {% endfor %}
+</ul>
+
+<h3>What is the problem that you are seeking to address?</h3>
+{{ page["What is the problem that you are seeking to address?"] | markdownify }}
+
+<h3>Describe the project, program, or initiative that this grant will support to address the problem identified.</h3>
+{{ page["Describe the project, program, or initiative that this grant will support to address the problem identified."] | markdownify }}
+
+<h3>In what stage of innovation is this project, program, or initiative?</h3>
+{{
+  page["In what stage of innovation is this project, program, or initiative?"]
+    | replace: "(expanding and continuing ongoing successful projects or programs)", ""
+    | replace: "(testing or implementing a new idea)", ""
+}}
+
+{% if page["Approximately how many people will be directly impacted by this project, program, or initiative?"] and
+      page["Approximately how many people will be directly impacted by this project, program, or initiative?"] != "" and
+      page["Approximately how many people will be indirectly impacted by this project, program, or initiative?"] and
+      page["Approximately how many people will be indirectly impacted by this project, program, or initiative?"] != "" %}
+<h3>Approximately how many people will be impacted by this project, program, or initiative?</h3>
+
+<div class="numbers">
+  <dl style="grid-template-columns: 1fr 1fr; margin-top: 0;">
+    <dt>
+      {% assign direct_impact = page["Approximately how many people will be directly impacted by this project, program, or initiative?"] %}
+      {% include number-with-commas.html number=direct_impact %}
+    </dt>
+    <dd>Direct impact</dd>
+    <dt>
+      {% assign indirect_impact = page["Approximately how many people will be indirectly impacted by this project, program, or initiative?"] %}
+      {% include number-with-commas.html number=indirect_impact %}
+    </dt>
+    <dd>Indirect impact</dd>
+  </dl>
+</div>
+
+{% elsif page["Approximately how many people will be directly impacted by this project, program, or initiative?"] and
+         page["Approximately how many people will be directly impacted by this project, program, or initiative?"] != "" %}
+<h3>Approximately how many people will be impacted by this project, program, or initiative?</h3>
+
+<div class="numbers">
+  <dl style="grid-template-columns: 1fr; margin-top: 0;">
+    <dt>
+      {% assign direct_impact = page["Approximately how many people will be directly impacted by this project, program, or initiative?"] %}
+      {% include number-with-commas.html number=direct_impact %}
+    </dt>
+    <dd>Direct impact</dd>
+  </dl>
+</div>
+
+{% elsif page["Approximately how many people will be indirectly impacted by this project, program, or initiative?"] and
+         page["Approximately how many people will be indirectly impacted by this project, program, or initiative?"] != "" %}
+<h3>Approximately how many people will be impacted by this project, program, or initiative?</h3>
+
+<div class="numbers">
+  <dl style="grid-template-columns: 1fr; margin-top: 0;">
+    <dt>
+      {% assign indirect_impact = page["Approximately how many people will be indirectly impacted by this project, program, or initiative?"] %}
+      {% include number-with-commas.html number=indirect_impact %}
+    </dt>
+    <dd>Indirect impact</dd>
+  </dl>
+</div>
+{% endif %}
+
+<h3>Describe how Los Angeles County will be different if your work is successful.</h3>
+{{ page["Describe how Los Angeles County will be different if your work is successful."] | markdownify }}
+
+<h3>What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?</h3>
+{{ page["What evidence do you have that this project, program, or initiative is or will be successful, and how will you define and measure success?"] | markdownify }}
+
+{% if page["Describe the role of collaborating organizations on this project."] and
+      page["Describe the role of collaborating organizations on this project."] != "" %}
+<h3>Describe the role of collaborating organizations on this project.</h3>
+{{ page["Describe the role of collaborating organizations on this project."] | markdownify }}
+{% endif %}
+
+<h3>Which of the <span style="text-transform: uppercase;">{{ page.category }}</span> metrics will you impact?​</h3>
+<ul>
+  {% for metric in page["Which metrics will you impact?"] %}
+  <li>{{ metric }}</li>
+  {% endfor %}
+</ul>
+
+{% if page["Indicate any additional LA2050 goals your project will impact."].size > 0 %}
+<h3>Indicate any additional LA2050 goals your project will impact.</h3>
+<ul>
+  {% for metric in page["Indicate any additional LA2050 goals your project will impact."] %}
+  <li>{{ metric }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+</div>
