@@ -2,7 +2,7 @@
 published: true
 organization_id: '2016128'
 title: Las Fotos Project
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Las Fotos Project’s mission is to elevate the voices of teenage girls from
   communities of color through photography and mentoring, empowering them to
