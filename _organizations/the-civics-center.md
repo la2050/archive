@@ -20,7 +20,7 @@ organization_website:
 twitter: '@TheCivicsCenter'
 instagram: '@thecivicscenter'
 facebook: 'https://www.facebook.com/TheCivicsCenter/'
-ein: '954302067'
+ein: '954302067007'
 zip: '90012'
 project_image: >-
   https://images.la2050.org/challenge/2021/connect/2048-wide/the-civics-center.jpg
