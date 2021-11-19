@@ -2,7 +2,7 @@
 published: true
 organization_id: '2015156'
 title: Plug In South LA
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   The mission of Plug In South LA is to empower, support, and advise the next
   generation of Black and Latinx startup founders and entrepreneurs. Our
@@ -17,7 +17,7 @@ organization_website:
 twitter: '@PISouthLA'
 instagram: '@pluginsouthla'
 facebook: facebook.com/pluginsola
-ein: '522237872'
+ein: '522237872001'
 zip: '90404'
 project_image: 'https://images.la2050.org/challenge/2021/create/2048-wide/plug-in-south-la.jpg'
 project_video: ''
