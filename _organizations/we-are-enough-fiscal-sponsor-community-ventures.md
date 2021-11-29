@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021139'
 title: We Are Enough (fiscal sponsor Community Ventures)
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   We Are Enough (WAE) - WAE educates women of every economic level how and why
   to invest in women-owned businesses. We will leverage WAE’s network of women
@@ -18,7 +18,7 @@ organization_website:
 twitter: '@weareenoughbiz'
 instagram: '@weareenoughbiz'
 facebook: 'https://www.facebook.com/search/top?q=We%20Are%20Enough'
-ein: 010919727
+ein: 010919727001
 zip: '94536'
 project_image: >-
   https://images.la2050.org/challenge/2021/create/2048-wide/we-are-enough-fiscal-sponsor-community-ventures.jpg
