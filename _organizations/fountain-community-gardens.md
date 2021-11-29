@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021155'
 title: Fountain Community Gardens
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Los Angeles Community Garden Council’s (LACGC) mission is “to strengthen
   communities by building and supporting community gardens where every person in
@@ -20,7 +20,7 @@ organization_website:
 twitter: ''
 instagram: '@Fountain_community_gardens'
 facebook: 'https://www.facebook.com/groups/392949047424504/'
-ein: '311734705'
+ein: '311734705001'
 zip: '90027'
 project_image: >-
   https://images.la2050.org/challenge/2021/play/2048-wide/fountain-community-gardens.jpg
