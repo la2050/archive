@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021070'
 title: Stepping Forward LA
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Stepping Forward LA empowers foster youth aging out of the system to
   transition successfully to adulthood and reach their fullest potential.
@@ -17,7 +17,7 @@ organization_website:
 twitter: '@Stepping4wardLA'
 instagram: '@steppingforwardla'
 facebook: 'https://www.facebook.com/Stepping4wardLA/'
-ein: '954302067'
+ein: '954302067041'
 zip: '90035'
 project_image: >-
   https://images.la2050.org/challenge/2021/learn/2048-wide/stepping-forward-la.jpg
