@@ -163,6 +163,8 @@
     }
   }
 
+  {% comment %}
+
   /* SHIM: Switch to a grid layout */
   @supports (display: grid) {
     .promotion .action {
@@ -195,6 +197,8 @@
       }
     }
   }
+
+ {% endcomment %}
 
 
   body .header-figure.has-caption.has-caption-details .caption h1 {
