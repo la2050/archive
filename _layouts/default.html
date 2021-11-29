@@ -121,6 +121,11 @@
 
 </head>
 <body{% if page.body_class %} class="{{ page.body_class }}"{% endif %}>
+  
+   <section class="promotion">
+    {% include promotion.html %}
+  </section>
+ 
 
   <header id="navigation">
     {% include logotype.html %}
