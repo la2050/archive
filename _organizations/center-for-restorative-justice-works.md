@@ -14,7 +14,7 @@ tags_indicators:
   - Public safety & public space
 charity_navigator_url: ''
 organization_website:
-  - 'https://www.crjw.us'
+  - 'https://crjw.org/'
 twitter: '@_crjw'
 instagram: '@_crjw'
 facebook: 'https://www.facebook.com/unitingchildren'
