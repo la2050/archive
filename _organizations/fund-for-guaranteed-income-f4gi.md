@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021097'
 title: Fund for Guaranteed Income (F4GI)
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   The F4GI Compton Pledge is a landmark guaranteed income (GI) initiative that
   will distribute recurring cash relief to low-income residents for 2 years. GI
@@ -18,7 +18,7 @@ organization_website:
 twitter: '@ComptonPledge'
 instagram: '@ComptonPledge'
 facebook: 'https://www.facebook.com/ComptonPledge/'
-ein: '474407203'
+ein: '474407203001'
 zip: '10012'
 project_image: >-
   https://images.la2050.org/challenge/2021/create/2048-wide/fund-for-guaranteed-income-f4gi.jpg
