@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021271'
 title: 'Growing The Table, A project of TomKat Ranch Educational Foundation'
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Growing the Table supports the best of California agriculture, especially
   BIPOC producers, in order to nourish families, reduce food waste, and save
@@ -19,7 +19,7 @@ organization_website:
 twitter: '@growingthetable'
 instagram: '@growingthetable'
 facebook: '@growingthetable'
-ein: '262782200'
+ein: '262782200001'
 zip: '94060'
 project_image: >-
   https://images.la2050.org/challenge/2021/live/2048-wide/growing-the-table-a-project-of-tomkat-ranch-educational-foundation.jpg
