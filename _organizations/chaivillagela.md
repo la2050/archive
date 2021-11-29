@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021191'
 title: ChaiVillageLA
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   To help our members have the best experience of aging possible, ChaiVillageLA
   provides congregants of Temple Emanuel and Temple Isaiah the community,
@@ -19,7 +19,7 @@ organization_website:
 twitter: ''
 instagram: ''
 facebook: 'https://www.facebook.com/groups/187321498536141'
-ein: '951691319'
+ein: '951691319001'
 zip: '90064'
 project_image: 'https://images.la2050.org/challenge/2021/connect/2048-wide/chaivillagela.jpg'
 project_video: ''
