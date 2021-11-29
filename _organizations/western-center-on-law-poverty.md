@@ -19,7 +19,7 @@ organization_website:
 twitter: '@Western_Center'
 instagram: '@western_center'
 facebook: '@westerncenter'
-ein: '9576280639'
+ein: '952897721'
 zip: '90010'
 project_image: >-
   https://images.la2050.org/challenge/2021/live/2048-wide/western-center-on-law-poverty.jpg
