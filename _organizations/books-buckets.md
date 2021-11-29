@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021147'
 title: Books & Buckets
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Books & Buckets’ mission is to empower underserved, aspiring youth through
   academic and athletic development. Our purpose is to prevent socioeconomic
@@ -19,7 +19,7 @@ organization_website:
 twitter: '@Books&Buckets'
 instagram: '@booksandbuckets'
 facebook: Books&Buckets
-ein: '954116679'
+ein: '954116679017'
 zip: 91302-1338
 project_image: 'https://images.la2050.org/challenge/2021/play/2048-wide/books-buckets.jpg'
 project_video: ''
