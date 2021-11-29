@@ -18,7 +18,7 @@ organization_website:
 twitter: '@lasfotosproject'
 instagram: '@lasfotosproject'
 facebook: Las Fotos Project
-ein: '954302067'
+ein: '954302067003'
 zip: '90012'
 project_image: >-
   https://images.la2050.org/challenge/2021/create/2048-wide/las-fotos-project.jpg
