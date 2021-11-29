@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021126'
 title: Regarding Her
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Regarding Her is a non-profit organization devoted to the advancement and
   empowerment of women and BIPOC women restaurateurs. We strive to create
@@ -20,7 +20,7 @@ organization_website:
 twitter: ''
 instagram: '@regardingherfood'
 facebook: regardingherfood
-ein: '264245043'
+ein: '264245043004'
 zip: '90212'
 project_image: 'https://images.la2050.org/challenge/2021/create/2048-wide/regarding-her.jpg'
 project_video: >-
