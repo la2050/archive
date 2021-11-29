@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021210'
 title: LA Commons
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   We engage communities in artistic and cultural expression that tells their
   unique stories to foster dialogue, interaction and a better Los Angeles. We
@@ -20,7 +20,7 @@ organization_website:
 twitter: '@lacommons'
 instagram: '@lacommons'
 facebook: LA Commons
-ein: '954302067'
+ein: '954302067022'
 zip: '90008'
 project_image: 'https://images.la2050.org/challenge/2021/connect/2048-wide/la-commons.jpg'
 project_video: 'https://youtu.be/hvELicp66RI'
