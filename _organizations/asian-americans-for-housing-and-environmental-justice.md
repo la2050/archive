@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021248'
 title: Asian Americans for Housing and Environmental Justice
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Asian Americans for Housing and Environmental Justice provides culturally
   competent, in-language support and immediate, direct aid, economic development
@@ -17,7 +17,7 @@ organization_website:
 twitter: '@AA4H2'
 instagram: '@revolutionario.la'
 facebook: 'https://www.facebook.com/AAFHEJ'
-ein: '954392004'
+ein: '954392004001'
 zip: '90020'
 project_image: >-
   https://images.la2050.org/challenge/2021/live/2048-wide/asian-americans-for-housing-and-environmental-justice.jpg
