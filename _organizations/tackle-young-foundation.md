@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021071'
 title: Tackle Young Foundation
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   The Tackle Young Foundation aims to help students realize their power and
   fulfill their potential through entrepreneurship and mentorship. Our goal as a
@@ -19,7 +19,7 @@ organization_website:
 twitter: '@KennyYounggg'
 instagram: '@young_forever42'
 facebook: ''
-ein: '276601178'
+ein: '276601178005'
 zip: '21204'
 project_image: >-
   https://images.la2050.org/challenge/2021/learn/2048-wide/tackle-young-foundation.jpg
