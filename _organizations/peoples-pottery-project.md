@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021121'
 title: Peoples Pottery Project
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   People’s Pottery Project’s mission is to empower formerly incarcerated women,
   trans and non-binary individuals through the power of art-making, grassroots
@@ -19,7 +19,7 @@ organization_website:
 twitter: ''
 instagram: '@peoplespotteryproject'
 facebook: 'https://www.facebook.com/peoplespotteryproject'
-ein: '952540759'
+ein: '952540759008'
 zip: '90065'
 project_image: >-
   https://images.la2050.org/challenge/2021/create/2048-wide/peoples-pottery-project.jpg
