@@ -20,7 +20,7 @@ organization_website:
 twitter: '@cityplantsla'
 instagram: '@cityplants'
 facebook: Cityplantsla
-ein: '954302067'
+ein: '954302067039'
 zip: '90012'
 project_image: 'https://images.la2050.org/challenge/2021/live/2048-wide/city-plants.jpg'
 project_video: 'https://youtu.be/N_F9DihvMQo'
