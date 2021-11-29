@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021217'
 title: Mels Love Land
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Mels Love Land embodies unconditional love in action to expand critical
   thinking through programs, storytelling, creating care filled experiences to
@@ -18,7 +18,7 @@ organization_website:
 twitter: '@melsloveland'
 instagram: '@melsloveland'
 facebook: 'https://www.facebook.com/melsloveland'
-ein: '954445418'
+ein: '954445418001'
 zip: '90403'
 project_image: 'https://images.la2050.org/challenge/2021/connect/2048-wide/mels-love-land.jpg'
 project_video: 'https://www.youtube.com/watch?v=KjwQt80VjzQ'
