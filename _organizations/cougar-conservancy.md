@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021197'
 title: Cougar Conservancy
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   The Cougar Conservancy’s mission is to reduce human-wildlife conflict and
   conserve cougar populations through science-based management and conservation.
@@ -16,7 +16,7 @@ organization_website:
 twitter: '@CougarConserv'
 instagram: '@CougarConservancy'
 facebook: 'https://www.facebook.com/cougarconservancy'
-ein: '954116679'
+ein: '954116679018'
 zip: '91302'
 project_image: >-
   https://images.la2050.org/challenge/2021/connect/2048-wide/cougar-conservancy.jpg
