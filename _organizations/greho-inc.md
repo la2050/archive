@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021101'
 title: GREHO Inc.
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Join us in bringing data literacy to LA! Institutions – both public and
   private, use data to drive decision-making. These decisions impact the lives
