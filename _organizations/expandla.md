@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021024'
 title: ExpandLA
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   ExpandLA is an initiative that supports, connects, and advocates for
   out-of-school time (OST) programs that provide critical services to Los
@@ -19,7 +19,7 @@ organization_website:
 twitter: '@expandla'
 instagram: '@expand_la'
 facebook: 'https://www.facebook.com/expandla'
-ein: '471084641'
+ein: '471084641001'
 zip: '90012'
 project_image: 'https://images.la2050.org/challenge/2021/learn/2048-wide/expandla.jpg'
 project_video: ''
