@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021129'
 title: SankofaCity
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   SankofaCity is a Greater Leimert Park Village Crenshaw Corridor Cooperative
   that provides zero-emissions multimodal mobility services to low-income and
@@ -20,7 +20,7 @@ organization_website:
 twitter: '@sankofacity'
 instagram: '@sankofacity.mobility'
 facebook: sankofacity
-ein: '880306149'
+ein: '880306149003'
 zip: '90008'
 project_image: 'https://images.la2050.org/challenge/2021/create/2048-wide/sankofacity.jpg'
 project_video: 'https://youtu.be/gPRRD-aEljA'
