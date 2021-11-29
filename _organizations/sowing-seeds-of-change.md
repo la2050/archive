@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021297'
 title: Sowing Seeds of Change
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Sowing Seeds of Change empowers transition-age marginalized youth (i.e.
   developmentally disabled and unserved foster youth 18-24) to actively engage
@@ -20,7 +20,7 @@ organization_website:
 twitter: ''
 instagram: '@sscurbanfarm'
 facebook: facebook.com/SowingSeedsOfChange/
-ein: '954116679'
+ein: '954116679020'
 zip: '91302'
 project_image: >-
   https://images.la2050.org/challenge/2021/live/2048-wide/sowing-seeds-of-change.jpg
