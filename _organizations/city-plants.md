@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021253'
 title: City Plants
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   City Plants envisions a Los Angeles in which people in every neighborhood have
   equal access to trees and their benefits: clean air, energy efficiency, better
