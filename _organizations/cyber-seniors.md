@@ -20,7 +20,7 @@ organization_website:
 twitter: '@cyberseniors'
 instagram: '@cyberseniors'
 facebook: CyberSeniorsDocumentary
-ein: '320295081'
+ein: '320295081001'
 zip: '90046'
 project_image: 'https://images.la2050.org/challenge/2021/connect/2048-wide/cyber-seniors.jpg'
 project_video: ''
