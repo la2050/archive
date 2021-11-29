@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021151'
 title: Color the Water
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Through free surf instruction, historical and cultural education, and media
   representation, Color the Water is committed to fighting racism by creating a
