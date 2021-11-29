@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021258'
 title: Downtown Crenshaw Rising
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Los Angeles’ Black community has a right to own its future. Right now there is
   a groundswell of support for Black community ownership of the Crenshaw Mall.
@@ -19,7 +19,7 @@ organization_website:
 twitter: '@dtcrenshaw'
 instagram: '@downtowncrenshaw'
 facebook: downtowncrenshaw
-ein: 'EIN: 202264584'
+ein: '202264584001'
 zip: '90008'
 project_image: >-
   https://images.la2050.org/challenge/2021/live/2048-wide/downtown-crenshaw-rising.jpg
