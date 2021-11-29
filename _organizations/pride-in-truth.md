@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021123'
 title: Pride In Truth
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Pride In Truth is a new nonprofit based in the communities of Los Angeles. Our
   mission is to strengthen and heal our communities in a meaningful way. We walk
