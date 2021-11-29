@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021081'
 title: UrbanPromise Los Angeles
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   UrbanPromise Los Angeles’ mission is to develop the children and youth of Los
   Angeles as they grow into Christian leaders determined to restore their
@@ -18,7 +18,7 @@ organization_website:
 twitter: '@N/A'
 instagram: '@urbanpromiselosangeles'
 facebook: 'https://www.facebook.com/urbanpromisela'
-ein: '# 263389429'
+ein: '263389429001'
 zip: '91303'
 project_image: >-
   https://images.la2050.org/challenge/2021/learn/2048-wide/urbanpromise-los-angeles.jpg
