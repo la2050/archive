@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021023'
 title: 'Engineer Factory, a Project of Community Partners'
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   The mission of the Engineer Factory is to help more African American, Latinx
   and female engineers than industry can support.
@@ -17,7 +17,7 @@ organization_website:
 twitter: '@EngineerFactory'
 instagram: '@theengineerfactory'
 facebook: 'https://www.facebook.com/TheEngineerFactory'
-ein: '954302067'
+ein: '954302067034'
 zip: '90012'
 project_image: >-
   https://images.la2050.org/challenge/2021/learn/2048-wide/engineer-factory-a-project-of-community-partners.jpg
