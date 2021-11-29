@@ -2,7 +2,7 @@
 published: true
 organization_id: '2020167'
 title: Creative Acts
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Creative Acts is an organization that seeks to transform urgent social justice
   issues through the revolutionary power of the Arts; to heal trauma, build
@@ -19,7 +19,7 @@ organization_website:
 twitter: '@creative_acts'
 instagram: '@creative_acts'
 facebook: 'https://www.facebook.com/creativeacts.us'
-ein: '954116679'
+ein: '954116679010'
 zip: '90036'
 project_image: 'https://images.la2050.org/challenge/2021/play/2048-wide/creative-acts.jpg'
 project_video: 'https://youtu.be/AasgwuMcgs8'
