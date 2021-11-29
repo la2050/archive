@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021019'
 title: College Match
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Provide high-achieving, low-income high school students in Los Angeles County
   the necessary tools and guidance to get into top-ranked colleges. We are
@@ -19,7 +19,7 @@ organization_website:
 twitter: ''
 instagram: '@cmatchla'
 facebook: 'https://www.facebook.com/collegematchla'
-ein: '954302067'
+ein: '954302067040'
 zip: '90012'
 project_image: 'https://images.la2050.org/challenge/2021/learn/2048-wide/college-match.jpg'
 project_video: ''
