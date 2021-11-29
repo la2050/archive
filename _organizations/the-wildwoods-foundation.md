@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021239'
 title: The Wildwoods Foundation
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   The mission of the Wildwoods Foundation is to equip the children, families,
   and educators of Los Angeles to practice the principles of ecology in creating
@@ -16,7 +16,7 @@ organization_website:
 twitter: '@WildwoodsLA'
 instagram: '@WildwoodsLA'
 facebook: 'https://www.facebook.com/WildwoodsFoundation'
-ein: '954302067'
+ein: '954302067042'
 zip: '90007'
 project_image: >-
   https://images.la2050.org/challenge/2021/connect/2048-wide/the-wildwoods-foundation.jpg
