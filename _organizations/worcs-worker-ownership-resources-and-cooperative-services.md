@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021142'
 title: 'WORCS: Worker Ownership Resources and Cooperative Services'
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   We are cultivating an environmentally sustainable community and thriving
   cooperative economy with dignified labor, workplace democracy, and 100% worker
@@ -17,7 +17,7 @@ organization_website:
 twitter: '@worcsusa'
 instagram: '@worcsusa'
 facebook: 'https://www.facebook.com/worcsusa'
-ein: '860889143'
+ein: '860889143001'
 zip: '90034'
 project_image: >-
   https://images.la2050.org/challenge/2021/create/2048-wide/worcs-worker-ownership-resources-and-cooperative-services.jpg
