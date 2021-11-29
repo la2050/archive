@@ -2,7 +2,7 @@
 published: true
 organization_id: '2021099'
 title: Global Eye Entrepreneurs
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Global Eye Entrepreneurs dismantles the complex barriers to success that
   black, indigenous, male and GBTQ entrepreneurs of color face. Our support
@@ -18,7 +18,7 @@ organization_website:
 twitter: '@GlobalEyeLA'
 instagram: '@globaleyeentrepreneurs'
 facebook: 'https://www.facebook.com/GlobalEyeEntrepreneurs'
-ein: '391902814'
+ein: '391902814001'
 zip: '90016'
 project_image: >-
   https://images.la2050.org/challenge/2021/create/2048-wide/global-eye-entrepreneurs.jpg
