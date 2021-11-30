@@ -2,7 +2,7 @@
 published: true
 organization_id: '2018055'
 title: Investing in Place
-org_type: A fiscally sponsored group
+org_type: Nonprofit
 org_summary: >-
   Our mission is to align policies and public dollars to support transportation
   investments that strengthen communities.
@@ -19,7 +19,7 @@ organization_website:
 twitter: '@InvestinPlace'
 instagram: '@investinplace'
 facebook: '@investinginplace'
-ein: '954302067'
+ein: '954302067019'
 zip: '90026'
 project_image: >-
   https://images.la2050.org/challenge/2021/connect/2048-wide/investing-in-place.jpg
