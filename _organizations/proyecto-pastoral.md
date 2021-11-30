@@ -17,7 +17,7 @@ organization_website:
 twitter: '@ProyectoNews'
 instagram: ProyectoPastoral
 facebook: proyectopastoral
-ein: ''
+ein: '953213958'
 zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5158070785741-team91.jpg
