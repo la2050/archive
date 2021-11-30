@@ -75,7 +75,7 @@ organization_website:
 twitter: ''
 instagram: ''
 facebook: ''
-ein: '954845170'
+ein: ''
 zip: ''
 project_image: 'https://img.youtube.com/vi/hHXkL2SbXI8/hqdefault.jpg'
 project_video: ''
