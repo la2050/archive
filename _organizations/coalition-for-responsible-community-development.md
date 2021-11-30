@@ -18,7 +18,7 @@ organization_website:
 twitter: CRCD_SouthLA
 instagram: CRCDSouthLA
 facebook: CRCD_SouthLA
-ein: ''
+ein: '202445113'
 zip: ''
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1299310265741-team90.jpg
