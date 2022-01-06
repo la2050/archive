@@ -1,7 +1,7 @@
 ---
 published: true
 organization_id: '2013178'
-title: Swipes for the Homeless
+title: Swipe Out Hunger
 org_type: Nonprofit
 org_summary: >-
   Since its humble beginnings, Swipes for the Homeless has donated over 35,000
@@ -35,7 +35,7 @@ tags_indicators:
   - Housing & homelessness
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452038035'
 organization_website:
-  - 'http://swipesforthehomeless.org/'
+  - 'http://swipehunger.org/'
 twitter: ''
 instagram: ''
 facebook: ''
